@@ -18,7 +18,7 @@ jobs:
           IBEX_TENANT_ID: ${{ vars.IBEX_TENANT_ID }}
           IBEX_SHOP_ID: ${{ vars.IBEX_SHOP_ID }}
           USER_AGENT: ${{ vars.USER_AGENT }}
-          SEC_CH_UA: ${{ vars.SEC_CH_UA }}
+          SEC_CH_UA: '${{ vars.SEC_CH_UA }}'
 
       - name: Commit changes
         run: |
