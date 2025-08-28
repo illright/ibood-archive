@@ -1,7 +1,7 @@
 # Every day, check out the repository, run the code with Bun and push the working directory back to the repo with the current date as the commit message
 on:
   schedule:
-    - cron: "0 2 * * *" # every day at 02:00
+    - cron: "0 1 * * *" # every day at 01:00
   workflow_dispatch:
 
 jobs:
