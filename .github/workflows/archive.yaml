@@ -1,4 +1,5 @@
-# Every day, check out the repository, run the code with Bun and push the working directory back to the repo with the current date as the commit message
+name: Archive
+
 on:
   schedule:
     - cron: "0 1 * * *" # every day at 01:00
