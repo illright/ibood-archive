@@ -21,6 +21,8 @@ const necessaryHeaders = new Headers([
   ["Accept", "application/json, text/plain, */*"],
 ]);
 
+console.debug(necessaryHeaders);
+
 async function fetchItems() {
   const response = await fetch(endpoint, {
     headers: necessaryHeaders,
@@ -37,7 +39,9 @@ async function fetchItems() {
   }
 
   const products = LiveResponseUnknown.parse(await response.json());
-  products.data.items = products.data.items.filter(item => item.title !== undefined);
+  products.data.items = products.data.items.filter(
+    (item) => item.title !== undefined
+  );
   return LiveResponse.parse(products);
 }
 
