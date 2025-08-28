@@ -6,7 +6,7 @@ import { join } from "node:path";
 import { mkdir, rm } from "node:fs/promises";
 
 const endpoint = new URL(
-  "https://api.ibood.io/search/items/live?live&take=1000"
+  "https://api.ibood.io/search/items/live?live&take=10000"
 );
 const productsFolder = "products";
 
