@@ -9,29 +9,27 @@ jobs:
   archive:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-          curl 'https://api.ibood.io/search/items/live?live&take=1' \
-                -H 'Ibex-Language: nl' \
-                -H 'sec-ch-ua: "Not;A=Brand";v="99", "Chromium";v="139"' \
-                -H 'Ibex-Tenant-Id: eafb3ef2-e1ba-4f01-b67a-b0447bea74eb' \
-                -H 'User-Agent: Mozilla/5.0; Chrome/139.0.0.0; curl/1.0' \
-                -H 'Accept: application/json, text/plain, */*' \
-                -H 'Ibex-Shop-Id: b22a484d-fd20-570a-adf6-22edf2fdaf79'
-      # - uses: actions/checkout@v5
-      # - uses: oven-sh/setup-bun@v2
+      - uses: actions/checkout@v5
+      - uses: oven-sh/setup-bun@v2
 
-      # - run: bun index.ts
-      #   env:
-      #     IBEX_LANGUAGE: nl
-      #     IBEX_TENANT_ID: ${{ vars.IBEX_TENANT_ID }}
-      #     IBEX_SHOP_ID: ${{ vars.IBEX_SHOP_ID }}
-      #     USER_AGENT: ${{ vars.USER_AGENT }}
-      #     SEC_CH_UA: '${{ vars.SEC_CH_UA }}'
+      - uses: ./.github/actions/set-up-wireguard
+        with:
+          config: ${{ secrets.WIREGUARD_CONFIG }}
 
-      # - name: Commit changes
-      #   run: |
-      #     git config --local user.email "👉@👈"
-      #     git config --local user.name "Archiver"
-      #     git add -A
-      #     git commit -m "$(date +'%Y-%m-%d')"
-      #     git push
+      - run: bun index.ts
+        env:
+          IBEX_LANGUAGE: nl
+          IBEX_TENANT_ID: ${{ vars.IBEX_TENANT_ID }}
+          IBEX_SHOP_ID: ${{ vars.IBEX_SHOP_ID }}
+          USER_AGENT: ${{ vars.USER_AGENT }}
+          SEC_CH_UA: '${{ vars.SEC_CH_UA }}'
+
+      - name: Commit changes with the number of files in products/ as the commit message
+        run: |
+          git config --local user.email "👉@👈"
+          git config --local user.name "Archiver"
+          git add -A
+          git commit -m "$(date +'%Y-%m-%d') - $(ls -l products | wc -l) files"
+          git push
+
+      - uses: ./.github/actions/tear-down-wireguard

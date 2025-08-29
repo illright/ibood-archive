@@ -1,0 +1,22 @@
+name: Set up WireGuard
+
+inputs:
+  config:
+    description: "WireGuard configuration"
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Install WireGuard and wg-quick
+      run: |
+        sudo apt update
+        sudo apt install -y wireguard wireguard-tools
+
+    - name: Dump the configuration into a file
+      run: echo "$WG_CONFIG" > /etc/wireguard/github-actions.conf
+      env:
+        WG_CONFIG: ${{ inputs.config }}
+
+    - name: Bring up the WireGuard interface
+      run: sudo wg-quick up github-actions

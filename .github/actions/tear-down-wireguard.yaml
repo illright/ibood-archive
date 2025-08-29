@@ -1,0 +1,7 @@
+name: Tear down WireGuard
+
+runs:
+  using: composite
+  steps:
+    - name: Bring down the WireGuard interface
+      run: sudo wg-quick down github-actions
