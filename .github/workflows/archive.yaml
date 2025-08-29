@@ -8,6 +8,8 @@ on:
 jobs:
   archive:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v5
       - uses: oven-sh/setup-bun@v2
@@ -28,8 +30,8 @@ jobs:
 
       - name: Commit changes with the number of files in products/ as the commit message
         run: |
-          git config --local user.email "👉@👈"
-          git config --local user.name "Archiver"
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "github-actions"
           git add -A
           git commit -m "$(date +'%Y-%m-%d') - $(ls -l products | wc -l) files"
           git push
