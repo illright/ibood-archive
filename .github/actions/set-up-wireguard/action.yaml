@@ -17,7 +17,7 @@ runs:
 
     - name: Dump the configuration into a file
       shell: bash
-      run: echo "$WG_CONFIG" > /etc/wireguard/github-actions.conf
+      run: sudo echo "$WG_CONFIG" > /etc/wireguard/github-actions.conf
       env:
         WG_CONFIG: ${{ inputs.config }}
 
