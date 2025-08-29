@@ -1,5 +1,5 @@
 name: Set up WireGuard
-description: Creates a new WireGuard config names "github-actions" and launches WireGuard with it
+description: Creates a new WireGuard config at "../github-actions.conf" and launches WireGuard with it
 
 inputs:
   config:
@@ -17,10 +17,10 @@ runs:
 
     - name: Dump the configuration into a file
       shell: bash
-      run: sudo echo "$WG_CONFIG" > /etc/wireguard/github-actions.conf
+      run: echo "$WG_CONFIG" > ../github-actions.conf
       env:
         WG_CONFIG: ${{ inputs.config }}
 
     - name: Bring up the WireGuard interface
       shell: bash
-      run: sudo wg-quick up github-actions
+      run: sudo wg-quick up ../github-actions.conf

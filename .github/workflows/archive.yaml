@@ -24,6 +24,8 @@ jobs:
           USER_AGENT: ${{ vars.USER_AGENT }}
           SEC_CH_UA: '${{ vars.SEC_CH_UA }}'
 
+      - uses: ./.github/actions/tear-down-wireguard
+
       - name: Commit changes with the number of files in products/ as the commit message
         run: |
           git config --local user.email "👉@👈"
@@ -31,5 +33,3 @@ jobs:
           git add -A
           git commit -m "$(date +'%Y-%m-%d') - $(ls -l products | wc -l) files"
           git push
-
-      - uses: ./.github/actions/tear-down-wireguard
