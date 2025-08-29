@@ -1,7 +1,9 @@
 name: Tear down WireGuard
+description: Turns off WireGuard started with the "github-actions" config
 
 runs:
   using: composite
   steps:
     - name: Bring down the WireGuard interface
+      shell: bash
       run: sudo wg-quick down github-actions

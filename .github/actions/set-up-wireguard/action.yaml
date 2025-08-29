@@ -1,4 +1,5 @@
 name: Set up WireGuard
+description: Creates a new WireGuard config names "github-actions" and launches WireGuard with it
 
 inputs:
   config:
@@ -9,14 +10,17 @@ runs:
   using: composite
   steps:
     - name: Install WireGuard and wg-quick
+      shell: bash
       run: |
         sudo apt update
         sudo apt install -y wireguard wireguard-tools
 
     - name: Dump the configuration into a file
+      shell: bash
       run: echo "$WG_CONFIG" > /etc/wireguard/github-actions.conf
       env:
         WG_CONFIG: ${{ inputs.config }}
 
     - name: Bring up the WireGuard interface
+      shell: bash
       run: sudo wg-quick up github-actions
