@@ -1,4 +1,4 @@
-_id: 68a490c4b021cca52c5443da
+_id: 68a490d617d3a6912e444893
 appOnly: false
 brand: Kardol
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Kardol
 categories:
   - 1878d468-fe93-556f-8894-d25b944be467
-classicId: '2733426'
-classicProductId: '574068'
+classicId: '2733446'
+classicProductId: '534836'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 55
+discount: 63
 end: '2025-08-31T21:59:59.999Z'
 freeDelivery: false
-id: b4a8a9fa-6e04-569d-a9d1-46a50f3a04f7
+id: 9c29f869-763a-57c6-807c-add4813b0a82
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1957003
+    - all
+  extension: image/png
+  id: af8e4965-0ad2-46c1-a624-3c5da5a47a75
   priority: 0
-  slug: dekbedovertrek-katoensatijn-200-x-200220-cm
+  slug: dekbed-03-png-product-25
   type: product
 logo:
   channels:
@@ -33,15 +34,15 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1973107
+  id: 1792379
   priority: 100
   slug: dekbedovertrek-katoensatijn-200-x-200220-cm
   type: logo
-offerId: 3f562426-4d8a-5692-8933-197180303e8e
+offerId: 8d82b5ba-6b82-5c6a-8cfb-4d24e0ecdab5
 price:
-  cents: 8495
+  cents: 6995
   currency: EUR
-  value: 84.95
+  value: 69.95
 referencePrice:
   cents: 18995
   currency: EUR
