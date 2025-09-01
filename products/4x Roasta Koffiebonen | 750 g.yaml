@@ -1,4 +1,4 @@
-_id: 6899d2d9d8e7fb96d6656a14
+_id: 68b4277661f8bf346455194a
 appOnly: false
 brand: Roasta
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Roasta
 categories:
   - 071b23b4-72be-5374-ad29-cd49bfc740ae
-classicId: '2724842'
+classicId: '2743131'
 classicProductId: '612527'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 39
 end: '2025-09-02T21:59:59.999Z'
 freeDelivery: false
-id: 4a4f7920-6df8-5f1f-9dfa-b0a18c833fd7
+id: a9165ba5-26b2-4ea3-a8e9-6e8d7d6447ad
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 4x-roasta-koffiebonen-750-g
   type: product
-offerId: 3e41758f-5b94-5109-8c3a-2daacffcadc7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1887055
+  priority: 100
+  slug: roasta-logo
+  type: logo
+offerId: 464676a1-98f5-477f-9e31-a28626c0f010
 price:
   cents: 3995
   currency: EUR
