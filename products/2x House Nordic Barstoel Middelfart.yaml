@@ -1,32 +1,31 @@
-_id: 68ad5fdf50c8e24fd8b76090
+_id: 68ac18a0cbd4ba0dde40b22e
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - d7132d50-d597-56cc-8a3d-695bba38eae8
-classicId: '2739051'
-classicProductId: '428796'
+  - f148e650-ea25-584f-b6e8-1f86b37d72c4
+classicId: '2736477'
+classicProductId: '428795'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 74
-end: '2025-08-31T21:59:59.999Z'
+directCheckout: false
+discount: 71
+end: '2025-09-01T21:59:59.000Z'
 freeDelivery: false
-id: 30b66d4d-76cb-4934-b9ce-d628c47430a6
+id: 3ee89d4e-f6dd-4516-b054-51671d22b94d
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 22aa4dd5-32ae-4138-ace3-69723408cb95
-  priority: 0
-  slug: main-png-product-1
+  extension: png
+  id: 1678631
+  priority: 1
+  slug: 2x-house-nordic-barstoel-middelfart
   type: product
 logo:
   channels:
@@ -34,15 +33,15 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1644555
+  id: 1697245
   priority: 100
-  slug: house-nordic-logo
+  slug: 2x-house-nordic-barstoel-middelfart
   type: logo
-offerId: 45204b68-fb15-4035-8ca8-ffc328083628
+offerId: 9ec83508-bb57-4ee3-a407-5a84593e8824
 price:
-  cents: 9495
+  cents: 10900
   currency: EUR
-  value: 94.95
+  value: 109
 referencePrice:
   cents: 37000
   currency: EUR
