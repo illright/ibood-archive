@@ -19,13 +19,14 @@ freeDelivery: false
 id: 062cdd9a-ec1d-4b3b-8d56-628ebf5ac246
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2270324
-  priority: 100
-  slug: greenpan-featherweights-stoofpan-26-cm
+    - all
+  extension: image/png
+  id: 04e44c64-bbeb-4b62-bf4e-f7f1d0acaa1c
+  priority: 0
+  slug: main-png-product-101
   type: product
 logo:
   channels:
