@@ -1,22 +1,22 @@
-_id: 68b54acd8eb96be72bfd646d
+_id: 68b56fa373f908ae8c8d39c3
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - d74cf833-e2a2-505e-a7b8-00f9a7ad48a7
-classicId: '2743316'
-classicProductId: '619899'
+  - 10a1c367-d46b-5032-8975-a692fa2940a6
+classicId: '2743651'
+classicProductId: '512041'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 56
+directCheckout: true
+discount: 55
 end: '2025-09-07T21:59:59.999Z'
 freeDelivery: false
-id: 9b670304-23ac-4ee2-b5a5-a086de20976b
+id: 38ba10e7-4e34-4ca3-b7fa-41aca60b5e31
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 0610b990-448b-4d28-8774-98ee876ce80c
+  id: 3f6d4fd4-103a-4119-98d2-232fe851a710
   priority: 0
-  slug: timberland-allston-sneakers-heren-product-22
+  slug: timberland-allston-sneakers-heren-product-23
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: timberland-logo
   type: logo
-offerId: 24f042ef-5e2a-476b-abf1-8f706ed2efa6
+offerId: e1704f53-4d79-4e35-ae1c-3f286b809daf
 price:
-  cents: 4856
+  cents: 4995
   currency: EUR
-  value: 48.56
+  value: 49.95
 referencePrice:
   cents: 11000
   currency: EUR
   value: 110
 slug: timberland-allston-sneakers-heren
-soldOut: false
-start: '2025-08-31T22:00:00.000Z'
+soldOut: true
+start: '2025-09-01T22:00:00.000Z'
 title: Timberland Allston Sneakers | Heren

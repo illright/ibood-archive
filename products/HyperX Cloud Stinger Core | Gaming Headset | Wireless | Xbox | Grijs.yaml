@@ -1,12 +1,12 @@
-_id: 68ac1b1651e153da52e8d52f
+_id: 68b6b77a23c222e32da3e397
 appOnly: false
 brand: HYPERX
 brands:
   - id: eb3ea6a4-d9cf-5d4e-99e9-8676e940e290
     name: HYPERX
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736897'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746412'
 classicProductId: '635481'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 71dac665-1070-47cf-8301-84ee3fac5813
+id: e441f754-b6ba-4109-aa1e-32b63bbae992
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 100
   slug: hyperx-cloudx-stinger-core-gaming-headset
   type: product
-offerId: 58db34d1-7462-4dea-8f1c-f0d842040cdd
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f1e82bd9-436f-4502-92cd-f6406dfc6a37
+  priority: 0
+  slug: hyperx-logo-0
+  type: logo
+offerId: d245c58f-775c-4dd7-932e-4861a3a7abe5
 price:
   cents: 4995
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 99.99
 slug: hyperx-cloud-stinger-core-gaming-headset-xbox
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: HyperX Cloud Stinger Core | Gaming Headset | Wireless | Xbox | Grijs

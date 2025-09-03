@@ -1,12 +1,12 @@
-_id: 68ac1b2f61a6ab3fe8ad4557
+_id: 68b6b787dd414e9e00449cd3
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736916'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746428'
 classicProductId: '650104'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 24
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: add13072-6b17-44f5-a876-cdf9ee9457d8
+id: bb2e3bd6-f350-42b9-b273-fc4b1f36d7e4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 58655d65-221f-473f-b9b4-f024f00c392f
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: b32028cc-67b4-4daf-ac17-8a00b8d3998e
+offerId: 4f6eb26f-a28c-46b0-a7e5-8c908571d5b5
 price:
   cents: 59995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 789
 slug: apple-11-inch-ipad-a16-wi-fi-512-gb
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple iPad 11 A16 | 2025 | Wifi | 512 GB

@@ -1,12 +1,12 @@
-_id: 68ac1b167740b0609fbdb36e
+_id: 68b6b77e23c222e32da3e3aa
 appOnly: false
 brand: SATECHI
 brands:
   - id: 77100c44-ac94-596a-9555-72286fe89c83
     name: SATECHI
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736895'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746417'
 classicProductId: '651411'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 1299cda8-7398-44e3-bfbd-940f6f98e3a8
+id: ea7bfd4b-6fdb-42e7-82ef-0eb5e59ef734
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: saterer-png-product-1
   type: product
-offerId: 4a5ec408-8202-424a-a7ad-f0f5e8cecd8f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9957916b-6cb8-443f-a44d-193625689ebf
+  priority: 0
+  slug: satechi-logo-0
+  type: logo
+offerId: ab994fa0-29dc-487c-a6d1-8656d7c9b219
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 49.99
 slug: satechi-magnetische-autolader-7-5-w
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Satechi Magnetische Autolader | 7,5 W

@@ -1,12 +1,12 @@
-_id: 68b16ffd1be79ddd8ae2e3e9
+_id: 68b6b76023c222e32da3e2fa
 appOnly: false
 brand: Ugreen
 brands:
   - id: 35685255-49bb-571a-aed9-05ba750740e3
     name: Ugreen
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2742522'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746377'
 classicProductId: '657378'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 96d202aa-9985-40a1-ac63-0dbbf3f37100
+id: 243da561-58f0-49b1-9970-be13f17efc22
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ff4ed239-37bd-4709-86d0-e27869f1d093
-  priority: 0
-  slug: ugreen-png-logo-0
+  extension: jpg
+  id: 1296714
+  priority: 100
+  slug: ugreen-logo
   type: logo
-offerId: 2a90dc1e-1aca-46ab-8d70-51d7020d3000
+offerId: 4a309362-28fd-4cbe-9e27-27d79a91f40f
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 44.99
 slug: ugreen-uno-magnetische-powerbank-5-000-mah-paars
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Ugreen Uno Magnetische Powerbank | 5.000 mAh | Paars

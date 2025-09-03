@@ -1,13 +1,13 @@
-_id: 68b5703c1876b853cb2bed4e
+_id: 68b5701439e73ddca4c2f310
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 6e436e38-aa98-57b5-b881-e052d18b20da
-classicId: '2743795'
-classicProductId: '625681'
+  - 992fce79-d428-55d5-9d1c-51481ed20998
+classicId: '2743753'
+classicProductId: '625689'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,14 +16,14 @@ directCheckout: true
 discount: 56
 end: '2025-09-07T21:59:59.999Z'
 freeDelivery: false
-id: 683239d4-e026-446f-adda-46844acbe377
+id: 36dad3f5-d0ae-4dda-b847-cd5ab10b8aa1
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2206445
+  id: 2206444
   priority: 0
   slug: giorgio-anaconda-sneakers-heren
   type: product
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1681527
+  id: 2205792
   priority: 100
-  slug: giorgio-logo
+  slug: giorgio-anaconda-sneakers-heren
   type: logo
-offerId: 25a0e6c7-bd9c-4edc-8840-f8ba12e8187a
+offerId: 6e8078c7-4d0a-4ac5-8141-702029336134
 price:
   cents: 11995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 269.95
 slug: giorgio-anaconda-sneakers-heren
-soldOut: false
+soldOut: true
 start: '2025-09-01T22:00:00.000Z'
 title: Giorgio Anaconda Sneakers | Heren

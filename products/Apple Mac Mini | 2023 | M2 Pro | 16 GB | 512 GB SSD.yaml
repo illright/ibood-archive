@@ -1,22 +1,22 @@
-_id: 68ac1aebd8d94817e8377ed0
+_id: 68b6b759dd414e9e00449c9a
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736849'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746360'
 classicProductId: '645562'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 56
-end: '2025-09-02T21:59:59.999Z'
+discount: 57
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 720906ad-cdb4-44d0-a9e1-9fae67f7edca
+id: 52a78414-c8e0-43da-850a-1b1e24c3d19c
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 16590b33-84e0-4615-9c45-dfd9b5b1e9e5
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 7e411142-b9a7-4dc1-b9de-4d38050a9c20
+offerId: c3f87e21-c44e-4655-8f48-b3c7e534d863
 price:
-  cents: 68900
+  cents: 66900
   currency: EUR
-  value: 689
+  value: 669
 referencePrice:
   cents: 154900
   currency: EUR
   value: 1549
 slug: apple-mac-mini-2023-m2-pro-10c-16c-16gb-512gb-ssd
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple Mac Mini | 2023 | M2 Pro | 16 GB | 512 GB SSD

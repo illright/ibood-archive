@@ -1,12 +1,12 @@
-_id: 68ac1b0551e153da52e8d4f4
+_id: 68b6b76b23c222e32da3e338
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736878'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746391'
 classicProductId: '654144'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 120f33a3-6a86-4703-b1bc-12a07d034632
+id: b7fad46a-6de5-4020-a3f4-7db0cccc0f15
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 389955d0-244b-4985-8b5d-b12c4a8a3df6
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 03f7c063-b354-41e2-a88a-6689ee2b0906
+offerId: 2acc1c24-9568-43d7-ad01-b2d88e7217ad
 price:
   cents: 89900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 1349
 slug: apple-ipad-air-13-m2-512-gb-wi-fi-2024
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple iPad Air 13" | 2024 |  M2 | 512 GB | Wifi

@@ -1,12 +1,12 @@
-_id: 68ac1b1651e153da52e8d534
+_id: 68b6b77623c222e32da3e381
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736896'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746410'
 classicProductId: '655699'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 19
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 8e8462e5-5de0-425a-a90a-e98b6c20166f
+id: 9dd0b1ca-6ec8-4819-b267-6743cd05845e
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: apple-watch-series-10-46mm-gps-aluminium-sportbandje-m-l-zilver-blauw-product-7
   type: product
-offerId: ef50089d-9fea-4d3b-bec0-f583e9e368cd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: 2d8bc705-6782-4b08-936f-9f76dd080355
 price:
   cents: 38995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 479
 slug: apple-watch-series-10-46-mm-gps-aluminium-sport-m-l
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple Watch Series 10 | 46 mm | GPS | Aluminium | Sport | M/L

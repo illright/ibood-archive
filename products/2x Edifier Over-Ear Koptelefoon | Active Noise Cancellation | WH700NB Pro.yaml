@@ -1,12 +1,12 @@
-_id: 68ac1adc5367381e524a3755
+_id: 68b6b745d2f7ed11e55d8069
 appOnly: false
 brand: Edifier
 brands:
   - id: 62530728-060f-56ac-a132-b6fd4934502d
     name: Edifier
 categories:
-  - 5da39904-5d65-50e3-a171-2e2d32013a6e
-classicId: '2736823'
+  - 3ea12c81-2f07-5d5a-922d-ac22b6a95dd8
+classicId: '2746339'
 classicProductId: '651078'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: f1dba6a6-e49c-4a38-a708-796e54d9e828
+id: 2545c02a-f98d-4c78-9b00-3afdf7d78609
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9668952f-1b0a-4917-8232-9b2300fb2ced
-  priority: 0
-  slug: edifier-png-logo-0
+  extension: png
+  id: 1665211
+  priority: 100
+  slug: edifier-logo
   type: logo
-offerId: 8b3340a8-d393-4a70-9c4a-2340617a9e7f
+offerId: bac0fb15-c45f-44fe-8f40-5da6a86c3c88
 price:
   cents: 4995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 159.9
 slug: edifier-wh700nb-pro-bleutooth-over-ear-hoofdtelefoon
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: 2x Edifier Over-Ear Koptelefoon | Active Noise Cancellation | WH700NB Pro

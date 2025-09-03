@@ -1,12 +1,12 @@
-_id: 68ac1b0c7740b0609fbdb357
+_id: 68b6b777970f6163a85bb0ac
 appOnly: false
 brand: DICOTA
 brands:
   - id: 457ab64b-7c45-5453-a58c-d7269185b398
     name: DICOTA
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736886'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746398'
 classicProductId: '650538'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 43
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: dc4483c7-6d2c-4137-bcb2-b3b4a87d7981
+id: 4fb7347f-7f2b-45b0-8710-745f5a1e09bf
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: dicota-usb-c-portable-docking-hub-4-in-1-product-0
   type: product
-offerId: ece1664f-318b-4b85-b987-ea19758ba802
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2fd0d4cb-959f-48a6-a0bf-2443c5aef36e
+  priority: 0
+  slug: dicota-logo-0
+  type: logo
+offerId: b530abbd-2f0a-4947-89d0-5307246ae439
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 34.9
 slug: dicota-4-in-1-usb-c-hub
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Dicota 4-in-1 USB-C Hub

@@ -1,12 +1,12 @@
-_id: 68ac1b350f4d2ee8e37bc2da
+_id: 68b6b79223c222e32da3e417
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736929'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746450'
 classicProductId: '652824'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 42
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: dfbfc4c0-3289-42ff-ae4a-6a64e230ac0f
+id: 7f7392ab-31bf-425f-a3f0-dec9ace8fe41
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ea58921b-373a-42f9-a47c-293230580dd1
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 4518f1f3-c41e-4cf4-829d-97051225bb41
+offerId: 4232f74e-f784-4121-9e7a-5a3f55dd6eb5
 price:
   cents: 134900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 2309
 slug: apple-imac-24-inch-m3-8c-10c-16gb-512gb
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple iMac 24”| M3 | 8-Core CPU | 10-Core GPU | 16GB | 512GB | US QWERTY

@@ -1,22 +1,22 @@
-_id: 68ac1aced8d94817e8377e70
+_id: 68b6b733d2f7ed11e55d8022
 appOnly: false
 brand: DeFunc
 brands:
   - id: af4a2860-be9a-5a78-a83b-747aa26743e7
     name: DeFunc
 categories:
-  - 5da39904-5d65-50e3-a171-2e2d32013a6e
-classicId: '2736803'
+  - 3ea12c81-2f07-5d5a-922d-ac22b6a95dd8
+classicId: '2746308'
 classicProductId: '488994'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 60
-end: '2025-09-02T21:59:59.999Z'
+discount: 65
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 3e9a70f3-ebfd-4e77-bf13-803ff63aee4f
+id: 0d22b6b9-8d63-4dc7-9170-bb0f82d8e57d
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1655546
-  priority: 100
-  slug: defunc-logo
+    - all
+  extension: image/png
+  id: d0a5eb06-9e20-41ee-8a31-363c9e219262
+  priority: 0
+  slug: defunc-logo-black-png-logo-0
   type: logo
-offerId: 9bd94bb7-ce8c-4083-a5f3-680bc51ec078
+offerId: d4604a7f-d8cf-4c48-bbc1-9164a67a1c94
 price:
-  cents: 7900
+  cents: 6900
   currency: EUR
-  value: 79
+  value: 69
 referencePrice:
   cents: 19990
   currency: EUR
   value: 199.9
 slug: defunc-huisluidspreker-klein
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: DeFunc Home Speaker

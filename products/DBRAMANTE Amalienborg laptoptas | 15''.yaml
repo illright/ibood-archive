@@ -1,12 +1,12 @@
-_id: 68ac1af0cbd4ba0dde40b419
+_id: 68b6b75423c222e32da3e2df
 appOnly: false
 brand: dbramante
 brands:
   - id: 9f1e2d04-e57b-5ce6-970e-5c83b41110d0
     name: dbramante
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736855'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746364'
 classicProductId: '627996'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 544e6478-b7eb-4dad-a3f3-740ebf0dd223
+id: 1d136b3c-9d6d-43c8-bf79-a98393513069
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: dbramante-amalienborg-15-inch-black-product-6
   type: product
-offerId: 1ba69cb8-f949-44d4-9a16-ab3491c3416e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e17206ee-ccc9-48f1-bfff-0a6bdc7b70c7
+  priority: 0
+  slug: dbramante-logo-0
+  type: logo
+offerId: 5970cbd4-cb9b-4637-ab5f-d1f41efc25fb
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 129.99
 slug: dbramante-amalienborg-15-inch
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: DBRAMANTE Amalienborg laptoptas | 15''

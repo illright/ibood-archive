@@ -1,12 +1,12 @@
-_id: 68b17001f0329d2fcac3be29
+_id: 68b6b78e11c4d568222db274
 appOnly: false
 brand: RAZER
 brands:
   - id: dc8d4406-8fda-5890-a810-59e70839f386
     name: RAZER
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2742526'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746444'
 classicProductId: '657190'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: a0220f7c-17a3-4450-a150-690a504216bb
+id: 40ecd1a4-79ab-49d3-a4a8-4bff30ad9a16
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: razer-basilisk-v3-x-hyperspeed-customizable-wireless-rgb-gaming-mouse-black-a-grade-refurb-product-13-png-product-1
   type: product
-offerId: 470cd2f7-025f-4179-8200-e8e43025b621
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 857c9f39-2937-421d-b9be-1f4a7cbce554
+  priority: 0
+  slug: razer-logo-0
+  type: logo
+offerId: 789d475f-22af-4fdd-a10a-d17064a98ae8
 price:
   cents: 2995
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 79.99
 slug: razer-basilisk-v3-x-hyperspeed-gaming-muis-draadloos
-soldOut: true
-start: '2025-08-24T22:00:00.000Z'
+soldOut: false
+start: '2025-09-02T22:00:00.000Z'
 title: Razer Basilisk V3 X HyperSpeed Gaming Muis | Grade A Refurb

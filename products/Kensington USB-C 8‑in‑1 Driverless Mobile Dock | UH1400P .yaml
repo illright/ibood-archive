@@ -1,12 +1,12 @@
-_id: 68ac1aced8d94817e8377e71
+_id: 68b6b73ad2f7ed11e55d8040
 appOnly: false
 brand: Kensington
 brands:
   - id: 02782d13-a17d-573a-81a5-bc349462481d
     name: Kensington
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736808'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746319'
 classicProductId: '647837'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 70
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 23e9b599-dfdf-402b-9c6f-5b1396642863
+id: c9510416-0c0a-4a71-9c97-c545f71b592e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bec38635-7ab6-4304-a6cc-24d31f01b65a
-  priority: 0
-  slug: kensington-png-logo-0
+  extension: png
+  id: 1696702
+  priority: 100
+  slug: kensington-logo
   type: logo
-offerId: fb2c2f0e-c04d-4d0f-92c4-fd54f367e6c3
+offerId: e870107c-5e16-45ec-96ad-d1ac40d1675c
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 131.41
 slug: kensington-k33820ww-uh1400p-usb-c-8-in-1-driverless-mobile-dock
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: 'Kensington USB-C 8‑in‑1 Driverless Mobile Dock | UH1400P '

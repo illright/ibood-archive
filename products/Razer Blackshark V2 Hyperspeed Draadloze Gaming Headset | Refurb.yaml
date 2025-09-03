@@ -1,12 +1,12 @@
-_id: 68ac1b4051e153da52e8d59c
+_id: 68b6b79e23c222e32da3e457
 appOnly: false
 brand: RAZER
 brands:
   - id: dc8d4406-8fda-5890-a810-59e70839f386
     name: RAZER
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736943'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746466'
 classicProductId: '633286'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 3d2b71c0-785e-4251-9c2f-911b4bf15e9e
+id: 6d9cb194-120e-4f0d-9644-5d652bde8aad
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: razer-main-png-product-0
   type: product
-offerId: d6eb0fe0-6d74-4431-8960-278d4e84f188
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 857c9f39-2937-421d-b9be-1f4a7cbce554
+  priority: 0
+  slug: razer-logo-0
+  type: logo
+offerId: 3839eaf3-f245-4b9c-8738-a3fed448b17a
 price:
   cents: 6495
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 149.99
 slug: razer-blackshark-v2-hyperspeed-draadloze-gaming-headset-refurb
-soldOut: true
-start: '2025-08-24T22:00:00.000Z'
+soldOut: false
+start: '2025-09-02T22:00:00.000Z'
 title: Razer Blackshark V2 Hyperspeed Draadloze Gaming Headset | Refurb

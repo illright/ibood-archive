@@ -1,22 +1,22 @@
-_id: 68ac1afed8d94817e8377eeb
+_id: 68b6b769970f6163a85bb0a2
 appOnly: false
 brand: TomTom
 brands:
   - id: e3043e97-04fe-5f45-afeb-a787db988258
     name: TomTom
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736871'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746383'
 classicProductId: '659097'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 36
-end: '2025-09-02T21:59:59.999Z'
+discount: 39
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 9afb08cb-3a0e-4ccb-bcd8-624d5bca75ec
+id: 28e899c1-0ffe-406e-8252-962aad1e4255
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8704d685-9bf2-4caa-a70b-c70b2453ecad
-  priority: 0
-  slug: tomtomlogo-png-logo-0
+  extension: png
+  id: 1696079
+  priority: 100
+  slug: tomtom-logo
   type: logo
-offerId: dc85f33f-1a9f-4606-96fc-bbb591dad6ad
+offerId: 01d5ed61-27fd-4e9a-9136-d1a29d158021
 price:
-  cents: 19900
+  cents: 18800
   currency: EUR
-  value: 199
+  value: 188
 referencePrice:
   cents: 30895
   currency: EUR
   value: 308.95
 slug: tomtom-go-camper-tour-2nd-gen-met-tomtom-case
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: TomTom GO Camper Tour 2 | 6" | TomTom Beschermhoes

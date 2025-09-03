@@ -1,12 +1,12 @@
-_id: 68a5897296eb367240680a77
+_id: 68b6b73ad2f7ed11e55d803f
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 5da39904-5d65-50e3-a171-2e2d32013a6e
-classicId: '2734387'
+  - 3ea12c81-2f07-5d5a-922d-ac22b6a95dd8
+classicId: '2746320'
 classicProductId: '655550'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 25
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 70681455-602c-5d72-aed2-921969e76a61
+id: 47d2a6af-7207-410a-987b-e9af46941392
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: airpods-5-jpg-product-1
   type: product
-offerId: 64f6c992-cd88-54ed-87a5-37ffd0a32109
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: 294fd99c-e832-4c42-a050-28f63c66e333
 price:
   cents: 20900
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 279
 slug: apple-airpods-pro-2-usb-c
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple AirPods Pro 2 | USB-C

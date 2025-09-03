@@ -1,12 +1,12 @@
-_id: 68ac1b0c61a6ab3fe8ad4546
+_id: 68b6b77323c222e32da3e368
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736881'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746404'
 classicProductId: '654146'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 18
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 614e2518-dcd9-4e80-85fc-81f39ed0448f
+id: 57cf6d8e-e208-4919-a5f0-aed4e8c25aa1
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 728e1e11-00e2-4e16-9d25-b463ad6dbedf
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 8ca8a2b2-405d-4e76-a457-20bf3358020e
+offerId: 15d69542-e4f8-4a02-80e6-0bf3872209df
 price:
   cents: 79900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 969
 slug: apple-ipad-air-13-m3-wi-fi-128gb-space-gray
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple iPad Air 13 | 2025 | M3 | Wi-Fi | 128 GB | Space Grey

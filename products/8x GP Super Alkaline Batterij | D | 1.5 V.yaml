@@ -1,22 +1,22 @@
-_id: 68ad77850b162d5c84ff533c
+_id: 68aebe63b32660a77f5a53fd
 appOnly: false
 brand: GP Batteries
 brands:
   - id: 00814a3a-e5b2-5027-8ff0-496b8f492706
     name: GP Batteries
 categories:
-  - 071b23b4-72be-5374-ad29-cd49bfc740ae
-classicId: '2739753'
-classicProductId: '648314'
+  - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
+classicId: '2740640'
+classicProductId: '661310'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 47
-end: '2025-09-02T21:59:59.999Z'
+discount: 37
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: f9160d6a-d03c-4b82-b201-88b05c6e9b53
+id: 39a15abd-9fbe-5afa-9242-c673012cdd3d
 image:
   channels:
     - website
@@ -25,28 +25,29 @@ image:
   extension: png
   id: 2097048
   priority: 0
-  slug: 8x-gp-super-alkaline-batterij-d-15-v
+  slug: 8x-gp-super-alkaline-batterie-lr20-15-v
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1669996
-  priority: 100
-  slug: gp-batteries-logo
+    - all
+  extension: image/png
+  id: 4526f538-0aa4-4a22-bf09-b26b9a4ba52f
+  priority: 0
+  slug: gp-png-logo-0
   type: logo
-offerId: 11b9ac88-d3fc-44e3-a43c-6d9f0621df96
+offerId: 731a2d2a-bd5e-547f-901c-1202cb3b7058
 price:
-  cents: 1695
+  cents: 1995
   currency: EUR
-  value: 16.95
+  value: 19.95
 referencePrice:
   cents: 3190
   currency: EUR
   value: 31.9
 slug: 8x-gp-super-alkaline-batterij-d-15-v
-soldOut: true
-start: '2025-08-25T22:00:00.000Z'
+soldOut: false
+start: '2025-09-02T22:00:00.000Z'
 title: 8x GP Super Alkaline Batterij | D | 1.5 V

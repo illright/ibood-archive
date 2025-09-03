@@ -1,12 +1,12 @@
-_id: 68ac1acccbd4ba0dde40b3d1
+_id: 68b6b732d2f7ed11e55d8021
 appOnly: false
 brand: DICOTA
 brands:
   - id: 457ab64b-7c45-5453-a58c-d7269185b398
     name: DICOTA
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736800'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746307'
 classicProductId: '578298'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 87
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 9c11b3ee-bd5d-44bb-abee-44a72e582dec
+id: 36959671-915f-42ec-8c28-69d3a8aa5b9f
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: caturix-tech-sleeve-laptophulle-17-173
   type: product
-offerId: ac587b1d-61f9-4c0f-9c7c-187ecd63edeb
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2fd0d4cb-959f-48a6-a0bf-2443c5aef36e
+  priority: 0
+  slug: dicota-logo-0
+  type: logo
+offerId: 76584c51-d143-46f5-b35d-56959b7afb6d
 price:
   cents: 695
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 52
 slug: caturix-tech-sleeve-17-173
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Caturix Tech Sleeve | 17-17,3"
