@@ -1,12 +1,12 @@
-_id: 68ac1b0451e153da52e8d4ee
+_id: 68b6b76723c222e32da3e321
 appOnly: false
 brand: DICOTA
 brands:
   - id: 457ab64b-7c45-5453-a58c-d7269185b398
     name: DICOTA
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736874'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746382'
 classicProductId: '650537'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 54
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: b7db9ba7-727e-4b68-a3a7-2ba705de433b
+id: b2438eaf-41a4-42b5-85e6-5e329be081aa
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: dicota-usb-c-portable-docking-4-in-1-with-hdmi-product-0
   type: product
-offerId: 46df5be2-3f12-482b-943e-208231f4cd11
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2fd0d4cb-959f-48a6-a0bf-2443c5aef36e
+  priority: 0
+  slug: dicota-logo-0
+  type: logo
+offerId: 26b8ff22-b694-4da5-b5fb-31b715783e10
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 49.9
 slug: dicota-4-in-1-usb-c-docking-station-met-hdmi
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Dicota 4-in-1 USB-C Docking Station met HDMI

@@ -1,22 +1,22 @@
-_id: 68ac1af9cbd4ba0dde40b420
+_id: 68b6b75cd2f7ed11e55d8094
 appOnly: false
 brand: R-Go Tools
 brands:
   - id: a2666fa4-3d77-5897-afcf-e90c241733a0
     name: R-Go Tools
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736865'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746371'
 classicProductId: '624316'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 67
-end: '2025-09-02T21:59:59.999Z'
+discount: 81
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 4a97b2b4-ce10-4fcb-882a-ad781f3afe89
+id: 96dc50d6-2b1d-43ba-8023-f255b6a4db84
 image:
   channels:
     - website
@@ -27,16 +27,27 @@ image:
   priority: 0
   slug: r-go-smartbar-dubbele-monitorarm
   type: product
-offerId: 5a2a193c-d7bb-48f4-a77d-92b9b13eaeb3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 563365db-3afa-40f2-8b28-fec66463d570
+  priority: 0
+  slug: r-go-tools-logo-0
+  type: logo
+offerId: d406c49f-e5b6-43a8-b648-48c74f0611e3
 price:
-  cents: 11900
+  cents: 6900
   currency: EUR
-  value: 119
+  value: 69
 referencePrice:
   cents: 35995
   currency: EUR
   value: 359.95
 slug: r-go-smartbar-dubbele-monitorarm
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: R-Go Smartbar | Dubbele Monitorarm met Gasvering

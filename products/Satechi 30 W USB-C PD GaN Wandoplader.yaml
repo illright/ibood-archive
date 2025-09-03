@@ -1,12 +1,12 @@
-_id: 68ac1ad9cbd4ba0dde40b3f1
+_id: 68b6b73f23c222e32da3e28d
 appOnly: false
 brand: SATECHI
 brands:
   - id: 77100c44-ac94-596a-9555-72286fe89c83
     name: SATECHI
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736821'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746327'
 classicProductId: '651413'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 04ea1428-20a3-4703-a10a-04314e9ad804
+id: 96fe82b8-0a02-475e-9abc-4a34fbb56b9c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: satechi-30w-usb-c-gan-wall-charger-eu-product-3
   type: product
-offerId: 887d03c5-95a7-44b6-a4a2-f8323e41dd39
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9957916b-6cb8-443f-a44d-193625689ebf
+  priority: 0
+  slug: satechi-logo-0
+  type: logo
+offerId: f1b82174-01ba-4cd7-9af8-e4d9c6076479
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 29.99
 slug: satechi-30-w-usb-c-pd-gan-wandoplader
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Satechi 30 W USB-C PD GaN Wandoplader

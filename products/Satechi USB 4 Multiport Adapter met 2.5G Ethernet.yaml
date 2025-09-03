@@ -1,12 +1,12 @@
-_id: 68ac1b0c7740b0609fbdb352
+_id: 68b6b76f23c222e32da3e34c
 appOnly: false
 brand: SATECHI
 brands:
   - id: 77100c44-ac94-596a-9555-72286fe89c83
     name: SATECHI
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736883'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746396'
 classicProductId: '651415'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 50
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 0f877962-0fdc-4b1a-8752-a279c067f6b7
+id: 476ec119-d3df-4c8a-953a-fc9737e5168b
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: satechi-usb4-multiport-w2-5g-ethernet-product-0
   type: product
-offerId: 39451fb5-893e-4034-be87-8511ba7473bc
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9957916b-6cb8-443f-a44d-193625689ebf
+  priority: 0
+  slug: satechi-logo-0
+  type: logo
+offerId: 567d4897-4793-4958-bb93-06357f8c25f8
 price:
   cents: 7495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 149.99
 slug: satechi-usb-4-multiport-adapter-met-2-5g-ethernet
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Satechi USB 4 Multiport Adapter met 2.5G Ethernet

@@ -1,12 +1,12 @@
-_id: 68ac1adccbd4ba0dde40b3f7
+_id: 68b6b740d2f7ed11e55d8056
 appOnly: false
 brand: Greencam
 brands:
   - id: bc875ff5-cefe-5b23-aa1c-d85a8cce5850
     name: Greencam
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736822'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746328'
 classicProductId: '653474'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 31
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: d6e5483d-9d2c-43db-827d-2deaeea84b1a
+id: bc8114fa-19e3-4c26-a15f-b7bec1fed014
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5713aeb2-2e76-4958-8d2f-e5d7935c4c58
-  priority: 0
-  slug: greencam-png-logo-0
+  extension: png
+  id: 1930381
+  priority: 100
+  slug: greencam-logo
   type: logo
-offerId: d5baf611-4836-460e-9dda-73e38f590c79
+offerId: 58458411-19bd-4001-b149-868dafa1c4a9
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 29
 slug: greencam-k10-hd-beveiligingscamera
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Greencam K10 HD Beveiligingscamera

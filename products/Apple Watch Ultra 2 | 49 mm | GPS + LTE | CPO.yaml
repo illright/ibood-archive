@@ -1,12 +1,12 @@
-_id: 68ac1b0651e153da52e8d4f8
+_id: 68b6b76b23c222e32da3e340
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736879'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746393'
 classicProductId: '648445'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 28
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 8d9f835e-3ba0-437c-ace2-f2a9beb4c731
+id: ccc78c69-792f-48d1-9ef7-358c841ae789
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9e364e7a-5a35-4d04-999b-f4a9bd9724d0
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 96fab8c1-2cc8-4e3d-b004-59e23f3bb0cb
+offerId: 81ed25fe-f3cb-485b-9d65-a053bad0f66b
 price:
   cents: 64900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 899
 slug: apple-watch-ultra-2-49-mm-gps-lte-cpo
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple Watch Ultra 2 | 49 mm | GPS + LTE | CPO

@@ -1,12 +1,12 @@
-_id: 68ac1b3251e153da52e8d570
+_id: 68b6b78f2c16ad994d704271
 appOnly: false
 brand: ERAZER
 brands:
   - id: 036c71e2-5ef6-58b1-88bb-981dcb139841
     name: ERAZER
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736926'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746446'
 classicProductId: '649870'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 36
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 358bcd80-c6cb-4dc9-aa82-f2ccf5e27557
+id: 72a199fc-6755-4c41-a5a4-279209528a75
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: gamerino-png-product-1
   type: product
-offerId: 3358b071-83ce-449e-8bcf-a32bb86a887c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0abe5dd6-5d77-4a82-842f-8e3553e4fef6
+  priority: 0
+  slug: erazer-logo-0
+  type: logo
+offerId: a840e33b-91e8-4a61-959a-10310f691c72
 price:
   cents: 69900
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 1099
 slug: erazer-recon-p10-gaming-pc-intel-core-i5-14400f-rtx-4060-16-gb-512-gb
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: ERAZER Recon P10 Gaming PC | Intel Core i5-14400F + RTX 4060 | 16 GB + 512 GB

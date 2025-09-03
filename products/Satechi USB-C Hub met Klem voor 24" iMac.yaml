@@ -1,12 +1,12 @@
-_id: 68ac1b347740b0609fbdb3ad
+_id: 68b6b79f23c222e32da3e45f
 appOnly: false
 brand: SATECHI
 brands:
   - id: 77100c44-ac94-596a-9555-72286fe89c83
     name: SATECHI
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736930'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746467'
 classicProductId: '651412'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 64039093-fd58-4b72-9dcd-76fda161b910
+id: 668f297f-8307-4571-8cca-8215f22433c8
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: satechi-usb-c-clamp-hub-for-24-imac-blue-product-1
   type: product
-offerId: 71ab98fd-49b0-449a-9d65-003ba06f85ac
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9957916b-6cb8-443f-a44d-193625689ebf
+  priority: 0
+  slug: satechi-logo-0
+  type: logo
+offerId: 68dcb627-b418-4ead-afd3-ca6d78a94d3a
 price:
   cents: 2995
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: satechi-usb-c-hub-met-klem-voor-24-imac
-soldOut: true
-start: '2025-08-24T22:00:00.000Z'
+soldOut: false
+start: '2025-09-02T22:00:00.000Z'
 title: Satechi USB-C Hub met Klem voor 24" iMac

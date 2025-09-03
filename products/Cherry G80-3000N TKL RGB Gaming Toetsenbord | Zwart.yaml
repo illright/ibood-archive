@@ -1,22 +1,22 @@
-_id: 68ac1adecbd4ba0dde40b3fe
+_id: 68b6c1e605a961237ff83194
 appOnly: false
 brand: CHERRY
 brands:
   - id: 4530a1af-4544-5f88-94b4-091c5db74ac7
     name: CHERRY
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736826'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746815'
 classicProductId: '643516'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2025-09-02T21:59:59.999Z'
+directCheckout: true
+discount: 60
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 8d8971ff-908b-49f3-84d9-4c24b14e9589
+id: fb7c4b5c-c7db-4593-abbc-a344689266dd
 image:
   channels:
     - app
@@ -28,27 +28,16 @@ image:
   priority: 0
   slug: tkl-png-product-0
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 18dad499-f6f8-49f9-93b7-12a06ba867d5
-  priority: 0
-  slug: cherry-png-logo-0
-  type: logo
-offerId: f3037549-2ac8-4550-812c-5cd0c48e68b1
+offerId: 65e65ffc-e143-4a93-8cb5-f3cfe249f662
 price:
-  cents: 4995
+  cents: 3995
   currency: EUR
-  value: 49.95
+  value: 39.95
 referencePrice:
   cents: 10000
   currency: EUR
   value: 100
 slug: cherry-g80-3000n-tkl-rgb-gaming-toetsenbord-zwart
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Cherry G80-3000N TKL RGB Gaming Toetsenbord | Zwart

@@ -1,12 +1,12 @@
-_id: 68ac1b450f4d2ee8e37bc2e1
+_id: 68b6b7a9dd414e9e00449cf5
 appOnly: false
 brand: Bluetti
 brands:
   - id: 4154c2b1-bc13-52dc-b52e-05e85e0971fa
     name: Bluetti
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736948'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746477'
 classicProductId: '645277'
 deliveryPrice:
   cents: 1995
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 19.95
 directCheckout: true
 discount: 47
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 111bc16a-553b-47ed-aa76-096e6bc2a2c5
+id: d2261e11-f54f-4a1c-b2dd-dd9a0d8a0b33
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: blueetti-png-product-1
   type: product
-offerId: 25f4894f-b435-4564-9131-aee4a4858ef3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2a5a2e64-e3f6-471a-ae6a-647af75cfff6
+  priority: 0
+  slug: bluetti-logo-0
+  type: logo
+offerId: 8c8e63b6-7c76-4c15-828b-6c115a0d494e
 price:
   cents: 79900
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 1499
 slug: bluetti-ac200max-uitbreidbare-krachtcentrale
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Bluetti AC200MAX Uitbreidbare Krachtcentrale | 2048WH 2200W

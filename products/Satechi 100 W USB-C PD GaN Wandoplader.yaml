@@ -1,12 +1,12 @@
-_id: 68ac1b0c51e153da52e8d510
+_id: 68b6b77123c222e32da3e357
 appOnly: false
 brand: SATECHI
 brands:
   - id: 77100c44-ac94-596a-9555-72286fe89c83
     name: SATECHI
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736884'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746400'
 classicProductId: '651423'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 5c853553-54d0-4888-835b-7c1b4debc9f8
+id: 08e143f0-634e-4d9a-825b-1ce9c26a3699
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: satechi-usb-c-100w-pd-wall-charger-eu-product-0
   type: product
-offerId: 5eeeb95a-615c-44fa-99bc-1261cd59a4c4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9957916b-6cb8-443f-a44d-193625689ebf
+  priority: 0
+  slug: satechi-logo-0
+  type: logo
+offerId: 5be026bd-1296-4a96-bc10-d62b93951e54
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 79.99
 slug: satechi-100-w-usb-c-pd-gan-wandoplader
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Satechi 100 W USB-C PD GaN Wandoplader

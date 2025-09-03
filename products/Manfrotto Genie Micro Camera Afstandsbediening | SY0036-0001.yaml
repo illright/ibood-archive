@@ -1,22 +1,22 @@
-_id: 68ac1ae95367381e524a3785
+_id: 68b6b753d2f7ed11e55d8084
 appOnly: false
 brand: MANFROTTO
 brands:
   - id: 5404d908-3d87-5b1e-9aa6-23cd89a63ca9
     name: MANFROTTO
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736847'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746361'
 classicProductId: '639325'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 83
-end: '2025-09-02T21:59:59.999Z'
+discount: 84
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 1d07dfb5-18c4-43d7-9869-67dd45ecf907
+id: c7e57706-8309-4ad5-acf0-b5c528fe492d
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: genie-micro-png-product-1
   type: product
-offerId: 98a60a46-85e3-48e8-82e4-76025ad2e346
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b989ad5b-6f28-4d9f-9eac-18e4f7fdb786
+  priority: 0
+  slug: manfrotto-logo-0
+  type: logo
+offerId: 39a7343a-353f-4e23-a068-1963c05c8075
 price:
-  cents: 2995
+  cents: 2795
   currency: EUR
-  value: 29.95
+  value: 27.95
 referencePrice:
   cents: 17995
   currency: EUR
   value: 179.95
 slug: manfrotto-genie-micro-sy0036-0001
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Manfrotto Genie Micro Camera Afstandsbediening | SY0036-0001

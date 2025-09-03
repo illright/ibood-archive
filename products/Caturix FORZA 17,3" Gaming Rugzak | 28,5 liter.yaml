@@ -1,12 +1,12 @@
-_id: 68ac1ae05367381e524a3764
+_id: 68b6b74423c222e32da3e2a0
 appOnly: false
 brand: DICOTA
 brands:
   - id: 457ab64b-7c45-5453-a58c-d7269185b398
     name: DICOTA
 categories:
-  - 1049e030-268f-56bf-a161-33e3171b9ff8
-classicId: '2736831'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746338'
 classicProductId: '578296'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2025-09-02T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 3f15626d-983a-40c3-8c16-431c711a8cf3
+id: 14995474-85b7-4aaf-bb16-5e08f6597442
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: caturix-forza-rucksack-173-285-liter
   type: product
-offerId: 3944668d-de8b-4b7a-b675-d93b98f5b18c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2fd0d4cb-959f-48a6-a0bf-2443c5aef36e
+  priority: 0
+  slug: dicota-logo-0
+  type: logo
+offerId: a058caad-b019-4c96-823b-1e5b2d812993
 price:
   cents: 3995
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 114
 slug: caturix-forza-173-gaming-rugzak-285-l
 soldOut: false
-start: '2025-08-24T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Caturix FORZA 17,3" Gaming Rugzak | 28,5 liter
