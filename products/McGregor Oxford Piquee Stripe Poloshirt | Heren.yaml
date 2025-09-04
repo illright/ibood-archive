@@ -1,4 +1,4 @@
-_id: 68b69cd4dd414e9e0044953e
+_id: 68b69cd2970f6163a85bad20
 appOnly: false
 brand: McGregor
 brands:
@@ -6,24 +6,24 @@ brands:
     name: McGregor
 categories:
   - 4fea7476-4d66-55ea-a51a-1779b02bd7a8
-classicId: '2745172'
-classicProductId: '628196'
+classicId: '2745171'
+classicProductId: '628208'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 56
+directCheckout: true
+discount: 63
 end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 71311021-7d14-4539-9da9-f33b03ea9e8d
+id: 2278fc18-1df6-465c-8c4c-59bb5372ae0e
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2252840
+  id: 2252843
   priority: 0
   slug: mcgregor-oxford-piquee-stripe-poloshirt-heren
   type: product
@@ -37,11 +37,11 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 6a801622-0330-44bb-b2df-ed5fe466aed4
+offerId: 1ef2ad19-f118-40f9-9471-6531ce8d6059
 price:
-  cents: 3995
+  cents: 3295
   currency: EUR
-  value: 39.95
+  value: 32.95
 referencePrice:
   cents: 8995
   currency: EUR

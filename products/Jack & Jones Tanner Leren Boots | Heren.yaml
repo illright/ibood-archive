@@ -1,22 +1,22 @@
-_id: 68b5700ea70d94fd35c5a4fd
+_id: 68b56fd861f8bf3464551bea
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 705956a1-0a9b-5f85-879b-3f978823e754
-classicId: '2743746'
-classicProductId: '615567'
+  - 068f24d5-c974-519f-90f4-8e40a621db8a
+classicId: '2743688'
+classicProductId: '615572'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 69
 end: '2025-09-07T21:59:59.999Z'
 freeDelivery: false
-id: d03cb193-f89e-4e22-b759-639185e02d22
+id: 2d27bc8f-1dfe-41f6-9eda-fbfd1d5e6ac1
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: jack-jones-laarzen-stiefel-herren
   type: product
-offerId: 246d9b35-9a14-4cd1-8411-8c70e9cb6c58
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 89f2bbf2-739a-4d80-9319-f551fc919e1f
 price:
   cents: 3995
   currency: EUR
@@ -37,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 129.99
 slug: jack-jones-tanner-leren-boots
-soldOut: false
+soldOut: true
 start: '2025-09-01T22:00:00.000Z'
 title: Jack & Jones Tanner Leren Boots | Heren

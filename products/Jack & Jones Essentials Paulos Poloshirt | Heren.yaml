@@ -1,4 +1,4 @@
-_id: 68b54a6b73f908ae8c8d36ea
+_id: 68b54aaac06232af59901032
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Jack & Jones
 categories:
   - d74cf833-e2a2-505e-a7b8-00f9a7ad48a7
-classicId: '2743243'
-classicProductId: '602053'
+classicId: '2743281'
+classicProductId: '602037'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 62
+directCheckout: false
+discount: 52
 end: '2025-09-07T21:59:59.999Z'
 freeDelivery: false
-id: 13478f36-9353-4f07-b3c4-89b699841315
+id: a3074984-64b5-4349-8bc2-b09986273fac
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2261258
+    - all
+  extension: image/png
+  id: 490a72a7-620a-4033-bd01-c08d20460795
   priority: 0
-  slug: jack-jones-essentials-paulos-poloshirt-heren
+  slug: jack-jones-essentials-paulos-poloshirt-heren-product-11
   type: product
 logo:
   channels:
@@ -33,15 +34,15 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1829631
+  id: 1538596
   priority: 100
-  slug: jack-jones-logo
+  slug: jack-jones-essentials-paulos-poloshirt-heren
   type: logo
-offerId: 40a6460d-cfbd-4329-931d-611f5e9e1335
+offerId: c6d57031-e554-4980-8eee-54a5e326e3b0
 price:
-  cents: 1130
+  cents: 1454
   currency: EUR
-  value: 11.3
+  value: 14.54
 referencePrice:
   cents: 2999
   currency: EUR

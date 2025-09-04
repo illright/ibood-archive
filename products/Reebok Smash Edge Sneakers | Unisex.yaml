@@ -1,13 +1,13 @@
-_id: 68b56ecb73f908ae8c8d399f
+_id: 68b57023a70d94fd35c5a524
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - 974d7df7-1384-5b92-9c62-263bd751aa75
-classicId: '2743622'
-classicProductId: '653780'
+  - 992fce79-d428-55d5-9d1c-51481ed20998
+classicId: '2743768'
+classicProductId: '653635'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 40
 end: '2025-09-07T21:59:59.999Z'
 freeDelivery: false
-id: d3283b4f-c67a-4e86-a510-c41c836a59f9
+id: a501f4b9-e117-47e3-aa82-d49dd3ff393b
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 724ad5c6-84d6-48f0-b470-ad25d10a640c
+  id: df8b5a41-b26c-422e-b900-e0bcc503ed2e
   priority: 0
-  slug: reebok-06-png-product-1
+  slug: schoen-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: reebok-logo
   type: logo
-offerId: 313c1c4e-afab-41e4-b962-a88a3ff9c613
+offerId: 835e5eda-6549-4fa7-ac87-2a936b9d02ba
 price:
   cents: 4495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 75
 slug: reebok-smash-edge-sneakers-unisex
-soldOut: false
+soldOut: true
 start: '2025-09-01T22:00:00.000Z'
 title: Reebok Smash Edge Sneakers | Unisex
