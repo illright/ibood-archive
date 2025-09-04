@@ -1,22 +1,22 @@
-_id: 68b0637d60c7afaafdc29815
+_id: 68b69681dd414e9e00449340
 appOnly: false
 brand: LEBASQ
 brands:
   - id: 5ed8958f-d2d0-504c-ab26-192636419f50
     name: LEBASQ
 categories:
-  - 70829268-a0d7-5dd7-8310-3453da083214
-classicId: '2742352'
-classicProductId: '457853'
+  - e535a74e-03c6-5746-be96-1fb707f62b92
+classicId: '2745015'
+classicProductId: '457843'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 34
+discount: 40
 end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: b9baaf3f-3d15-5c97-9865-8cd1725c1068
+id: 372f2145-7261-4c73-ae1f-d230fafd5863
 image:
   channels:
     - website
@@ -27,11 +27,21 @@ image:
   priority: 0
   slug: 3x-lebasq-fit-t-shirt
   type: product
-offerId: d75c341b-1e8b-5ef4-8811-3032509dbfe2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1532847
+  priority: 1
+  slug: lebasq-logo
+  type: logo
+offerId: d91a23c2-f3b2-4d7b-bb85-71dd399ea1f8
 price:
-  cents: 3295
+  cents: 2995
   currency: EUR
-  value: 32.95
+  value: 29.95
 referencePrice:
   cents: 4995
   currency: EUR

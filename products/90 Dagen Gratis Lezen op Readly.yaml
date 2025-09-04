@@ -1,4 +1,4 @@
-_id: 68b6d29f05a961237ff83272
+_id: 68b01d7a2ffecf7aa17174d6
 appOnly: false
 brand: Readly
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Readly
 categories:
   - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2746915'
+classicId: '2741949'
 classicProductId: '559104'
 deliveryPrice:
   cents: 0
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 99
 end: '2025-09-09T21:59:59.999Z'
 freeDelivery: true
-id: c80cbad2-50d2-5fd1-88f4-2c609ede1d3c
+id: 56f620fe-c945-598c-8ee0-c0dcbb898076
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 90-dagen-gratis-readly-product-2
   type: product
-offerId: 37598330-aa48-59fe-b15c-0752568c1def
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f05b3110-4ee1-4224-ac1b-873d826970bc
+  priority: 0
+  slug: readly-png-logo-0
+  type: logo
+offerId: 7c0e2e64-677d-5a13-978f-96a5b69de9e6
 price:
   cents: 50
   currency: EUR

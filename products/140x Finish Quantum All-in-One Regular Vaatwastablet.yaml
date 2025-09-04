@@ -19,13 +19,14 @@ freeDelivery: false
 id: c9586bda-694d-403e-b67d-768c1c43a9d4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1968885
+    - all
+  extension: image/png
+  id: 5aa03ed3-abbb-48fd-a53e-72982685fed8
   priority: 0
-  slug: 140x-finish-quantum-all-in-one-vaatwastablet
+  slug: finish-01-png-product-1
   type: product
 logo:
   channels:

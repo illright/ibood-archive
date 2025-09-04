@@ -1,4 +1,4 @@
-_id: 68b6af71dd414e9e0044991a
+_id: 68b6bd648001b4e1925a5cb8
 appOnly: false
 brand: Kneipp
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Kneipp
 categories:
   - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2745611'
+classicId: '2746693'
 classicProductId: '649074'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 58
+discount: 59
 end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: c9b47e97-ad54-5156-b9d5-08c6d2808881
+id: 45151e00-72ce-4a62-964d-3cb2bbd5595a
 image:
   channels:
     - app
@@ -28,11 +28,21 @@ image:
   priority: 0
   slug: kneipp-02-png-product-1
   type: product
-offerId: e734ad76-27f5-5bfe-af55-81d25e801556
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1912761
+  priority: 100
+  slug: kneipp-logo
+  type: logo
+offerId: 85dffe05-1317-450e-b1aa-3750dab90727
 price:
-  cents: 2795
+  cents: 2695
   currency: EUR
-  value: 27.95
+  value: 26.95
 referencePrice:
   cents: 6594
   currency: EUR
