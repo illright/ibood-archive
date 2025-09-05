@@ -28,6 +28,17 @@ image:
   priority: 0
   slug: image-avif-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d9673d74-fe66-4645-a03a-e578f7020248
+  priority: 0
+  slug: flipz-png-logo-0
+  type: logo
 offerId: 6e9dff70-9e75-4391-9dd9-605f5a2461e1
 price:
   cents: 1495

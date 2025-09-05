@@ -19,14 +19,13 @@ freeDelivery: false
 id: f4a41117-d9df-47c5-b00d-e8c4d50836ac
 image:
   channels:
+    - newsletter
     - app
     - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 98991e04-370f-4c7a-9290-761daf06fb2e
+  extension: png
+  id: 2200006
   priority: 0
-  slug: son-png-product-1
+  slug: 3x-nivea-sun-sonnenspray-spf-50-200-ml
   type: product
 logo:
   channels:
@@ -48,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 79.47
 slug: 3x-nivea-sun-protect-hydrate-spray-spf50
-soldOut: false
+soldOut: true
 start: '2025-09-02T22:00:00.000Z'
 title: 3x Nivea Sun Protect & Hydrate Spray | SPF50+ | 200ml

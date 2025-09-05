@@ -1,32 +1,31 @@
-_id: 68b5700339e73ddca4c2f2d7
+_id: 68b56e9b6c7bef286e63ee97
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - 992fce79-d428-55d5-9d1c-51481ed20998
-classicId: '2743722'
-classicProductId: '619936'
+  - 974d7df7-1384-5b92-9c62-263bd751aa75
+classicId: '2743581'
+classicProductId: '512032'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
+discount: 55
 end: '2025-09-07T21:59:59.999Z'
 freeDelivery: false
-id: 080a2831-a5b6-4b57-a8e1-9c2d5672fd45
+id: 7bbb9b63-8095-4805-8306-b488ff4acf23
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bb629319-42be-485f-9d41-ea18e86cb611
+  extension: png
+  id: 1783630
   priority: 0
-  slug: timberland-knit-sneakers-product-101
+  slug: timberland-knit-sneakers
   type: product
 logo:
   channels:
@@ -34,19 +33,19 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2008165
+  id: 1744466
   priority: 100
-  slug: timberland-logo
+  slug: timberland-knit-sneakers
   type: logo
-offerId: 77007abb-e767-44d4-bcb6-e068be2acc99
+offerId: 27fdbb6c-71ea-4197-a480-813b9a6e5697
 price:
   cents: 4995
   currency: EUR
   value: 49.95
 referencePrice:
-  cents: 10000
+  cents: 11000
   currency: EUR
-  value: 100
+  value: 110
 slug: timberland-knit-sneakers
 soldOut: false
 start: '2025-09-01T22:00:00.000Z'
