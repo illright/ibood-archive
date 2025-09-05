@@ -19,13 +19,14 @@ freeDelivery: false
 id: 4d64cdcf-b32b-46d8-a770-310a2947cf43
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1742841
+    - all
+  extension: image/png
+  id: 6e899eb0-b535-43fe-949e-258de657bded
   priority: 0
-  slug: 15x-snickers-berry-whip-40-g
+  slug: 1-png-product-1
   type: product
 logo:
   channels:

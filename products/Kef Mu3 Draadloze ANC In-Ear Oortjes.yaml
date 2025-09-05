@@ -30,13 +30,14 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1614330
-  priority: 100
-  slug: kef-logo
+    - all
+  extension: image/png
+  id: d915e632-f4d5-434c-9083-ccc68b8b209a
+  priority: 0
+  slug: kef-png-logo-0
   type: logo
 offerId: de870d29-b81a-427d-9ac3-f93693e6d929
 price:

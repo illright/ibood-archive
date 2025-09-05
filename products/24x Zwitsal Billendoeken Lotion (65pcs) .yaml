@@ -19,13 +19,14 @@ freeDelivery: false
 id: b365e6bc-1a65-4b2c-9cde-1dbbf2885d7e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1990775
+    - all
+  extension: image/png
+  id: dd7d8bbe-a5a6-4eaf-9870-3b5b210ed57e
   priority: 0
-  slug: 24-pakjes-zwitsal-billendoekjes
+  slug: 24-pakjes-zwitsal-billendoekjes-product-8
   type: product
 logo:
   channels:
