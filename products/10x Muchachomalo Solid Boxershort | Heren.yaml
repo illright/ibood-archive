@@ -1,29 +1,29 @@
-_id: 68b549e273f908ae8c8d3598
+_id: 68baa033d7d07669528a8cad
 appOnly: false
 brand: Muchachomalo
 brands:
   - id: 48e9c3ab-997e-5d7b-9c0c-f219c3b15bdf
     name: Muchachomalo
 categories:
-  - d74cf833-e2a2-505e-a7b8-00f9a7ad48a7
-classicId: '2743158'
-classicProductId: '608113'
+  - fc970e4f-dda1-5462-867b-5a5bd2463244
+classicId: '2750254'
+classicProductId: '608109'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 66
-end: '2025-09-07T21:59:59.999Z'
+directCheckout: true
+discount: 58
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: e0ff4426-ec25-49ab-b9fa-175695bb4c7a
+id: 086d4578-cd4a-4cee-a711-e17f366f7333
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2147736
+  id: 2193058
   priority: 0
   slug: 10x-muchachomalo-solid-boxershort
   type: product
@@ -33,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2006210
+  id: 2147740
   priority: 100
-  slug: muchachomalo-logo
+  slug: 10x-muchachomalo-solid-boxershort
   type: logo
-offerId: 083f9b47-f01f-4c81-8312-6ba87f953eb2
+offerId: 7eb19805-3b14-4916-9dee-272972397fe5
 price:
-  cents: 4455
+  cents: 5500
   currency: EUR
-  value: 44.55
+  value: 55
 referencePrice:
   cents: 12995
   currency: EUR
   value: 129.95
 slug: 10x-muchachomalo-solid-boxershort
-soldOut: false
-start: '2025-08-31T22:00:00.000Z'
+soldOut: true
+start: '2025-09-02T22:00:00.000Z'
 title: 10x Muchachomalo Solid Boxershort | Heren

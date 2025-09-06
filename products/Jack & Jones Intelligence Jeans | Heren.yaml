@@ -1,4 +1,4 @@
-_id: 68b69e3add414e9e00449750
+_id: 68b69e34970f6163a85badca
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Jack & Jones
 categories:
   - 4fea7476-4d66-55ea-a51a-1779b02bd7a8
-classicId: '2745323'
-classicProductId: '652568'
+classicId: '2745322'
+classicProductId: '652582'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 40
 end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: 95d3d238-a187-4a06-9bdd-e093fe600c21
+id: a1626117-03bf-49df-8ff0-81959a8fc58c
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: c07e22db-70d6-4e52-b54b-ef617a92041b
+  id: 4e3c2abb-70b9-4eb2-8c2d-5322af289dc8
   priority: 0
-  slug: w36-l32-blue-denim-327-12264023-jwhmike-jjoriginal-at-327-jack-and-jones-jeans-intelligence-product-7
+  slug: w36-l32-black-denim-354-12264026-jwhmike-jjoriginal-at-354-jack-and-jones-jeans-intelligence-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
+    - all
+  extension: image/png
+  id: 39e4483e-7e66-4783-9f6e-ed9dc6c8e0aa
+  priority: 0
+  slug: jack-jones-png-logo-0
   type: logo
-offerId: 3ae8c09c-1944-4b20-834e-d30f5e523889
+offerId: 864d2007-88a9-48fc-b66b-f2fb25ea760c
 price:
   cents: 2995
   currency: EUR

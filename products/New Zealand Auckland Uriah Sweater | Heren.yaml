@@ -1,4 +1,4 @@
-_id: 68b69d53dd414e9e00449633
+_id: 68b69d54dd414e9e00449638
 appOnly: false
 brand: NZA
 brands:
@@ -6,8 +6,8 @@ brands:
     name: NZA
 categories:
   - 4fea7476-4d66-55ea-a51a-1779b02bd7a8
-classicId: '2745230'
-classicProductId: '637715'
+classicId: '2745231'
+classicProductId: '637708'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,15 +16,15 @@ directCheckout: false
 discount: 50
 end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: d0df9fbe-2efc-49cc-854b-754a891acc08
+id: 17722472-d306-4a7c-b0e2-e26f38afe86a
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2249554
-  priority: 100
+  id: 2256513
+  priority: 0
   slug: new-zealand-auckland-uriah-sweater-heren
   type: product
 logo:
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1634994
+  id: 2252672
   priority: 100
-  slug: nza-logo
+  slug: new-zealand-auckland-uriah-sweater-heren
   type: logo
-offerId: 42b62177-810a-4b5e-97c5-a927f4b434bc
+offerId: be8da339-c278-4318-afee-8c6bd44159e8
 price:
   cents: 4995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 99.99
 slug: new-zealand-auckland-uriah-sweater-heren
-soldOut: false
+soldOut: true
 start: '2025-09-02T22:00:00.000Z'
 title: New Zealand Auckland Uriah Sweater | Heren
