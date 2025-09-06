@@ -19,23 +19,25 @@ freeDelivery: false
 id: 535499a0-7c3b-4fd1-88ac-128e9d573e65
 image:
   channels:
-    - website
-    - app
     - newsletter
-  extension: png
-  id: 2199473
-  priority: 100
-  slug: agu-trail-mtb-fietshelm
+    - all
+    - app
+    - website
+  extension: image/png
+  id: a7212e70-44f0-43ae-bedd-57f79f8e0879
+  priority: 0
+  slug: product-6
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2199474
-  priority: 100
-  slug: agu-trail-mtb-fietshelm
+    - all
+  extension: image/png
+  id: 08762bc8-bcdc-476e-98af-1e775513ee63
+  priority: 0
+  slug: logo-0
   type: logo
 offerId: e3cfdc69-c1cd-4e3f-be0e-3b4ec8be8e3e
 price:
