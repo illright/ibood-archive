@@ -1,31 +1,32 @@
-_id: 68b54ab18eb96be72bfd642a
+_id: 68b5a158a3158657c2104ba7
 appOnly: false
 brand: Hugo Boss
 brands:
   - id: ea8978ea-f226-5c2a-bb5f-4458ac381560
     name: Hugo Boss
 categories:
-  - d74cf833-e2a2-505e-a7b8-00f9a7ad48a7
-classicId: '2743288'
-classicProductId: '601707'
+  - a84df547-e763-5d18-b500-291993a268ae
+classicId: '2744360'
+classicProductId: '518825'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 64
-end: '2025-09-07T21:59:59.999Z'
+discount: 67
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: cd58b983-5d55-47c2-8408-cd5b39d316b4
+id: 9b772a2d-e0c1-44e1-bb57-baa57d1a2ad6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2177952
+    - all
+  extension: image/png
+  id: 77cbfb66-4baf-46ff-a756-729a345936d7
   priority: 0
-  slug: hugo-boss-wayfarer-zonnebril
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2102268
+  id: 1797875
   priority: 100
-  slug: hugo-boss-wayfarer-zonnebril
+  slug: hugo-boss-logo
   type: logo
-offerId: 997e960e-88b5-44fe-805f-8c42ffdb96f1
+offerId: 2cb32a99-f867-4eb2-a368-8388a6bdd70a
 price:
-  cents: 6836
+  cents: 6995
   currency: EUR
-  value: 68.36
+  value: 69.95
 referencePrice:
-  cents: 19100
+  cents: 21000
   currency: EUR
-  value: 191
-slug: hugo-boss-wayfarer-zonnebril
+  value: 210
+slug: hugo-boss-zonnebril-1439s-grey-polarized
 soldOut: true
-start: '2025-08-31T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Hugo Boss Wayfarer Zonnebril | Heren

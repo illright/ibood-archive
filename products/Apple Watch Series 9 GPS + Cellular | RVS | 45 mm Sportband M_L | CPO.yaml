@@ -1,45 +1,44 @@
-_id: 68b055b960c7afaafdc297ea
+_id: 68b6b7472c16ad994d704245
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - c788dcf9-0a9a-5ab6-b7f4-f0d9cfde2714
-classicId: '2742334'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746344'
 classicProductId: '656031'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 52
-end: '2025-09-07T21:59:59.999Z'
+end: '2025-09-09T21:59:59.999Z'
 freeDelivery: false
-id: b714ca68-a1dc-5a2c-958d-ff6c2f772d23
+id: b7477c0e-1291-4315-8820-b65d847953d3
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
-  extension: image/png
-  id: d02d058d-051a-4e85-9765-f9e0c8f6456a
+    - app
+    - website
+  extension: image/jpeg
+  id: cd7ab5a2-c28d-4fb8-b4e2-a34e66662f18
   priority: 0
-  slug: goldddd-png-product-1
+  slug: apple-cpo-watch-s9-graphite-rvs-45mm-cellular-sport-band-s-m-midnight-frmv3lw-a-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8d6a14bf-b48b-4185-bde6-0619b3752091
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 7e0e1e6b-b7e6-5b04-bb17-befd7ab54320
+offerId: 1198f9c0-720c-41d6-9e6d-37cf50c652b0
 price:
   cents: 39900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 829
 slug: apple-watch-series-9-gps-cellular-rvs-45-mm-sportband-m-l-cpo
 soldOut: false
-start: '2025-09-06T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Apple Watch Series 9 GPS + Cellular | RVS | 45 mm Sportband M/L | CPO
