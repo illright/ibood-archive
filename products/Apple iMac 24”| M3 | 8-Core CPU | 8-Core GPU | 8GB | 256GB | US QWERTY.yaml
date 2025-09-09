@@ -14,7 +14,7 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 44
-end: '2025-09-09T21:59:59.999Z'
+end: '2025-09-15T21:59:59.000Z'
 freeDelivery: false
 id: 7b907346-46f0-4a30-9e24-c79d63c16473
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 049950c9-2002-4cd5-a2b2-8ca3fcac7b7d
+    - app
+    - website
+  extension: image/png
+  id: 049950c9-2002-4cd5-a2b2-8ca3fcac7b7d-tr
   priority: 0
   slug: pink-jpg-product-1
   type: product

@@ -14,18 +14,19 @@ deliveryPrice:
   value: 19.95
 directCheckout: false
 discount: 44
-end: '2025-09-09T21:59:59.999Z'
+end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
 id: a90005d3-96a5-4d27-8b31-75cf992b9f18
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1975955
+    - all
+  extension: image/png
+  id: 2d272e00-3719-4f38-8694-53a0afa026a8
   priority: 0
-  slug: multifurn-tv-meubel-200-x-40-x-56-cm
+  slug: main-png-product-4
   type: product
 logo:
   channels:
