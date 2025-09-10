@@ -1,22 +1,22 @@
-_id: 68b5852573f908ae8c8d3c6f
+_id: 68b80f85df7947aaa8748ffc
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744250'
-classicProductId: '542296'
+  - 1eb2ebe9-a3ef-5160-8430-dfb1e9295643
+classicId: '2748186'
+classicProductId: '374682'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
+directCheckout: false
 discount: 40
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: 85d6fa2a-c30e-4732-966e-bb89603f1c72
+id: 501e8967-47fc-5de8-a452-b94ebe541eed
 image:
   channels:
     - website
@@ -25,19 +25,20 @@ image:
   extension: png
   id: 1725017
   priority: 0
-  slug: gorilla-wear-classic-tank-top
+  slug: gorilla-wear-classic-tanktop-herren
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1956488
-  priority: 100
-  slug: gorilla-wear-logo
+    - all
+  extension: image/png
+  id: 84772249-232a-4d40-9ca6-8581837e4d50
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: 2a67479e-7ae2-44ff-a59f-569444db02bd
+offerId: c1da8aa0-a014-5b96-83d7-fa7972afea51
 price:
   cents: 1795
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: gorilla-wear-classic-tank-top
 soldOut: false
-start: '2025-09-02T22:00:00.000Z'
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Classic Tank Top

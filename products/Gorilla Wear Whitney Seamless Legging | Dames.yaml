@@ -1,22 +1,22 @@
-_id: 68b5851261f8bf3464551ed1
+_id: 68b83278f3b02b9a78f7d881
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744223'
+  - 70d570ca-85ec-506c-ac18-53a8bdeb72c9
+classicId: '2748647'
 classicProductId: '606834'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: 0f1c2bf4-734c-4178-b090-ddcce09ab767
+id: 93ecee8e-67f6-514d-b9f3-9ab5f9d036d8
 image:
   channels:
     - website
@@ -25,19 +25,20 @@ image:
   extension: jpg
   id: 2108374
   priority: 0
-  slug: gorilla-wear-whitney-seamless-legging-dames
+  slug: gorilla-wear-whitney-leggings-damen
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1956488
-  priority: 100
-  slug: gorilla-wear-logo
+    - all
+  extension: image/png
+  id: f17aeda8-92c9-4ceb-8887-ba6bbda76a2e
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: 5ba4adab-8eef-4be3-a0a2-58692ff9f919
+offerId: 918c3630-1146-5025-b2c2-30e23a47f907
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: gorilla-wear-whitney-seamless-legging-dames
 soldOut: false
-start: '2025-09-02T22:00:00.000Z'
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Whitney Seamless Legging | Dames

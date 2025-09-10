@@ -1,22 +1,22 @@
-_id: 68b7f27300fd0fdf400508b9
+_id: 68b95cd5eaba93375877f4bd
 appOnly: false
 brand: Quid
 brands:
   - id: 4975e394-36e2-5a91-bb15-e43f11545348
     name: Quid
 categories:
-  - bd49c28c-a585-55ac-a6da-06b3aa7afe3f
-classicId: '2747546'
-classicProductId: '608559'
+  - 625bc082-7a39-5ac1-9f2d-89f44523f6cc
+classicId: '2749350'
+classicProductId: '608558'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 45
-end: '2025-09-09T21:59:59.999Z'
+end: '2025-09-15T21:59:59.000Z'
 freeDelivery: false
-id: 9437b14a-54d6-4e17-a3d3-89cda105f545
+id: 44daf07c-5336-4a00-b84c-31222d5af274
 image:
   channels:
     - app
@@ -24,11 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d8384bd8-773e-4ec1-a9b9-f1da5f1d50c3
+  id: 7d48e848-06c1-457d-8a20-475b4c1ef671
   priority: 0
-  slug: quid-01-png-product-1
+  slug: quid-02-png-product-1
   type: product
-offerId: 4ceda71f-f61c-4d86-bd98-b569ce7d440d
+offerId: bf5ec1bd-f72a-473e-a05c-b17423da5b0e
 price:
   cents: 3995
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 72.5
 slug: quid-serviesset-vajilla-18p
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-08-26T22:00:00.000Z'
 title: Quid Keramische Serviesset | 18-delig

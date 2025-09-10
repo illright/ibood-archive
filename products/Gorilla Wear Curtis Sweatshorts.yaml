@@ -1,22 +1,22 @@
-_id: 68b5850210407cfb395dbb6f
+_id: 68b80fd78349e9bfea918b6d
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744214'
-classicProductId: '639122'
+  - 1eb2ebe9-a3ef-5160-8430-dfb1e9295643
+classicId: '2748356'
+classicProductId: '639120'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 59
-end: '2025-09-15T21:59:59.000Z'
+directCheckout: false
+discount: 54
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: d3b1c66e-bede-4d73-9ba3-0fb4ebf890d9
+id: 15c901ec-dc1b-548f-be66-fe5a093131bf
 image:
   channels:
     - website
@@ -25,28 +25,29 @@ image:
   extension: png
   id: 2251971
   priority: 0
-  slug: gorilla-wear-curtis-sweatshorts
+  slug: gorilla-wear-curtis-sweatshorts-herren
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2251943
-  priority: 100
-  slug: gorilla-wear-curtis-sweatshorts
+    - all
+  extension: image/png
+  id: 68a37332-b36e-40a3-944a-88e5d891ac60
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: 5344a87b-afbc-4b65-8763-d2c4ec885007
+offerId: 9a326275-ab90-5486-8035-812ce0815714
 price:
-  cents: 2695
+  cents: 2995
   currency: EUR
-  value: 26.95
+  value: 29.95
 referencePrice:
   cents: 6499
   currency: EUR
   value: 64.99
 slug: gorilla-wear-curtis-sweatshorts
 soldOut: false
-start: '2025-09-02T22:00:00.000Z'
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Curtis Sweatshorts

@@ -1,4 +1,4 @@
-_id: 68b7f4e4cbeec552f6c44e1f
+_id: 68be9676cdd20fd8751a1d1a
 appOnly: false
 brand: Weleda
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Weleda
 categories:
   - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2748048'
-classicProductId: '650202'
+classicId: '2750892'
+classicProductId: '663348'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 45
 end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
-id: 5466c802-4b5b-41ae-9b3a-250c570123eb
+id: 115545ec-fd08-5d3c-a38e-389c0b356c94
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: 3x-weleda-beruhigende-handcreme-50-ml
   type: product
-offerId: e1f21368-dd6b-4de0-84ce-9afd32013e8b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 943c1b01-fd59-4aa4-970a-e66c38155e83
+  priority: 0
+  slug: weleda-png-logo-0
+  type: logo
+offerId: c5dc73f8-94a6-5f7a-8417-0607169d6798
 price:
   cents: 1495
   currency: EUR

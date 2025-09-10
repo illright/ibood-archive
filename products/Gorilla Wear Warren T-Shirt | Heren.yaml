@@ -1,43 +1,44 @@
-_id: 68b5851c10407cfb395dbb99
+_id: 68b80fb368e8213c07131900
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744243'
-classicProductId: '559540'
+  - 1eb2ebe9-a3ef-5160-8430-dfb1e9295643
+classicId: '2748245'
+classicProductId: '559539'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
+directCheckout: false
 discount: 47
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: 91ea3df1-77ac-41f2-82b3-a408a6f69165
+id: d2503127-36f4-524e-9d14-8eb5a54c35ef
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1894123
-  priority: 0
-  slug: gorilla-wear-warren-t-shirt-heren
+  extension: jpg
+  id: 1894111
+  priority: 1
+  slug: gorilla-wear-warren-t-shirt-herren
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1956488
-  priority: 100
-  slug: gorilla-wear-logo
+    - all
+  extension: image/png
+  id: 6c56a642-93bd-445d-8f10-9f1b0ddd00ff
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: 7b0f6e2e-0cd9-4839-a8ce-df3ecd260a0d
+offerId: c82bab7b-cdfd-5891-8885-ffe4bd653f30
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 37.99
 slug: gorilla-wear-warren-t-shirt-heren
 soldOut: false
-start: '2025-09-02T22:00:00.000Z'
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Warren T-Shirt | Heren

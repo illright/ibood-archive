@@ -1,22 +1,22 @@
-_id: 68b582d261f8bf3464551ddb
+_id: 68b83472df7947aaa8749180
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 833eb724-9750-55a4-8948-14dba32df71f
-classicId: '2744126'
-classicProductId: '542426'
+  - b24bf01e-2e22-5551-9398-febfc045098d
+classicId: '2748786'
+classicProductId: '542419'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 40
-end: '2025-09-09T21:59:59.999Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: af9ae884-ea06-4c3b-8478-af0b4fb6648e
+id: a1e4f509-1732-5c9d-a18c-78cb2ebb0e15
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1956488
+  id: 1819573
   priority: 100
-  slug: gorilla-wear-logo
+  slug: gorilla-wear-gwear-slides
   type: logo
-offerId: dd0dab80-2df9-41c8-9f3d-5cc265e29b90
+offerId: 0e4d6ab8-71c1-57f7-b534-2371e92ba984
 price:
   cents: 1795
   currency: EUR
@@ -48,5 +48,5 @@ referencePrice:
   value: 29.99
 slug: gorilla-wear-gwear-slides
 soldOut: false
-start: '2025-09-02T22:00:00.000Z'
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Gwear Slides

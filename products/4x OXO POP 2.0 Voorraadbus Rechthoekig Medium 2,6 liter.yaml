@@ -1,4 +1,4 @@
-_id: 68aed7192b460194f74f5e20
+_id: 68b1963ce938393f51e3ef17
 appOnly: false
 brand: OXO
 brands:
@@ -6,7 +6,7 @@ brands:
     name: OXO
 categories:
   - 625bc082-7a39-5ac1-9f2d-89f44523f6cc
-classicId: '2741255'
+classicId: '2742879'
 classicProductId: '564721'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 41
 end: '2025-09-15T21:59:59.000Z'
 freeDelivery: false
-id: a34aa7b8-653b-4fca-b34e-9b5ebda5e568
+id: 2ae312df-d207-5418-b9d5-3a1a99c0d2b2
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 4x-voorraadbus-pop-20-rechthoekig-26-liter
   type: product
-offerId: 6b38f929-af94-4ef9-a14c-51b0b017ed7b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2033784
+  priority: 100
+  slug: 4x-voorraadbus-pop-20-rechthoekig-26-liter
+  type: logo
+offerId: 0a69c4c5-e151-5e91-8c67-be3cd16d94c1
 price:
   cents: 4495
   currency: EUR

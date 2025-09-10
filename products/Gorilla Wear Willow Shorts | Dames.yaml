@@ -1,22 +1,22 @@
-_id: 68b5851486b0c4f556aade99
+_id: 68b83280f3b02b9a78f7d897
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744232'
-classicProductId: '619988'
+  - 70d570ca-85ec-506c-ac18-53a8bdeb72c9
+classicId: '2748669'
+classicProductId: '619985'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 49
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: dcf219ba-d059-43bf-9132-1d193ca144f9
+id: e5ebfc60-5128-5d65-ab09-0768c81b0f7a
 image:
   channels:
     - website
@@ -25,19 +25,20 @@ image:
   extension: jpg
   id: 2166379
   priority: 0
-  slug: gorilla-wear-willow-shorts-dames
+  slug: gorilla-wear-willow-shorts-damen
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1956488
-  priority: 100
-  slug: gorilla-wear-logo
+    - all
+  extension: image/png
+  id: 9f56d815-3d20-41a4-8529-c148b781f874
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: c74882a5-e81e-4924-8070-fa1e98b21ca9
+offerId: ec724fcc-fbd1-5b81-84cd-c94498c988b2
 price:
   cents: 2295
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 44.99
 slug: gorilla-wear-willow-shorts-dames
 soldOut: false
-start: '2025-09-02T22:00:00.000Z'
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Willow Shorts | Dames

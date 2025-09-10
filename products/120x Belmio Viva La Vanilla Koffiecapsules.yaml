@@ -1,4 +1,4 @@
-_id: 68b7f35c44ee7d1e36227f36
+_id: 68be9a2ecdd20fd8751a1d48
 appOnly: false
 brand: BELMIO
 brands:
@@ -6,7 +6,7 @@ brands:
     name: BELMIO
 categories:
   - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2747596'
+classicId: '2750922'
 classicProductId: '422467'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 59
 end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
-id: 1a576960-e6c3-4c13-bc95-b589d6e42f41
+id: c2dc75cf-3887-5895-8f42-fe9403dc5063
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1801363
-  priority: 100
-  slug: belmio-logo
+    - all
+  extension: image/png
+  id: 4da7bd9b-1e07-4e4b-b272-bd5ca369ace3
+  priority: 0
+  slug: belmio-png-logo-0
   type: logo
-offerId: 72d4b6f1-dccc-4b07-b6fb-54b911b6f7ee
+offerId: 73813c18-fe08-577a-82fc-3ca5bb9cc6d5
 price:
   cents: 1895
   currency: EUR

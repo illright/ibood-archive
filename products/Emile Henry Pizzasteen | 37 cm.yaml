@@ -1,42 +1,43 @@
-_id: 68aed6e52b460194f74f5de2
+_id: 68bfe3da974f2ccee49f6871
 appOnly: false
 brand: Emile Henry
 brands:
   - id: 02f8d622-7490-505b-8097-665774302e0a
     name: Emile Henry
 categories:
-  - 625bc082-7a39-5ac1-9f2d-89f44523f6cc
-classicId: '2741193'
+  - 0a9d5fde-5d2f-5c70-81c8-40def4a0baa0
+classicId: '2752182'
 classicProductId: '639612'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 57
-end: '2025-09-15T21:59:59.000Z'
+discount: 63
+end: '2025-09-16T21:59:59.999Z'
 freeDelivery: false
-id: ad0aaf1b-74d9-4aca-87a1-642cd635f9f7
+id: 6c86c53b-40b0-4fd0-999b-c3b777455b51
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2282691
+    - all
+  extension: image/png
+  id: 3ff0a7ae-9301-44ca-93f4-1c110742f596
   priority: 0
-  slug: emile-henry-pizzastein-37-cm-dunkelgrun
+  slug: pan-01-png-product-1
   type: product
-offerId: 00670e86-1941-46e3-9e86-8180b792c43f
+offerId: f45aedc7-aded-4c76-8c54-29ea0af62800
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 8125
   currency: EUR
   value: 81.25
 slug: emile-henry-pizzasteen-37-cm
 soldOut: false
-start: '2025-08-26T22:00:00.000Z'
+start: '2025-09-09T22:00:00.000Z'
 title: Emile Henry Pizzasteen | 37 cm
