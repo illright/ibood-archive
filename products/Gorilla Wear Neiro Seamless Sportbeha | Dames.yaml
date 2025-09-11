@@ -1,22 +1,22 @@
-_id: 68b5851cd55bbf22325d4b5d
+_id: 68b83283df7947aaa874910e
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744242'
-classicProductId: '639297'
+  - 70d570ca-85ec-506c-ac18-53a8bdeb72c9
+classicId: '2748682'
+classicProductId: '639294'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 47
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: 32c65f50-74ff-45c1-88b5-2273e6a87407
+id: 405a4897-ee23-5623-ab7d-db3befdfe3e7
 image:
   channels:
     - website
@@ -25,19 +25,20 @@ image:
   extension: jpg
   id: 2251676
   priority: 0
-  slug: gorilla-wear-neiro-seamless-sportbeha-dames
+  slug: gorilla-wear-neiro-nahtloser-sport-bh-damen
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1956488
-  priority: 100
-  slug: gorilla-wear-logo
+    - all
+  extension: image/png
+  id: de57a1d5-2614-42fa-ac4c-508a213996a8
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: f5d101ee-8213-4954-b6ee-45cda77a56ac
+offerId: 0f6bab2c-a9c6-5c12-b527-4aac1870ec6e
 price:
   cents: 1995
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 37.99
 slug: gorilla-wear-neiro-seamless-sportbeha-dames
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Neiro Seamless Sportbeha | Dames

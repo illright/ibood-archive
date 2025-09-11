@@ -1,22 +1,22 @@
-_id: 68b5851710407cfb395dbb91
+_id: 68b83289df7947aaa8749120
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744237'
-classicProductId: '639304'
+  - 70d570ca-85ec-506c-ac18-53a8bdeb72c9
+classicId: '2748689'
+classicProductId: '639303'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 43
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: 73683389-2c2c-4607-a143-de55f95fac15
+id: e43c090c-02e2-5656-b24d-8f33925589f1
 image:
   channels:
     - website
@@ -25,19 +25,20 @@ image:
   extension: png
   id: 2251659
   priority: 0
-  slug: gorilla-wear-neiro-seamless-t-shirt-dames
+  slug: gorilla-wear-neiro-nahtloses-t-shirt-damen
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1956488
-  priority: 100
-  slug: gorilla-wear-logo
+    - all
+  extension: image/png
+  id: 311500e2-0a81-4e34-981c-fa6dd374e769
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: e843a38e-252a-411c-862a-e01abf9d502b
+offerId: 416e0efe-7632-5438-979b-10058d76f6fd
 price:
   cents: 2295
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: gorilla-wear-neiro-seamless-t-shirt-dames
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Neiro Seamless T-Shirt | Dames

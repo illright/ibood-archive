@@ -1,22 +1,22 @@
-_id: 68b5851bd55bbf22325d4b5b
+_id: 68b832dfdf7947aaa8749132
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744245'
+  - 70d570ca-85ec-506c-ac18-53a8bdeb72c9
+classicId: '2748717'
 classicProductId: '639276'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 46
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: 41a5de05-2225-4005-b447-2be26b51ef67
+id: 2e489c8e-c8fc-532d-9f0e-3e87d449b117
 image:
   channels:
     - website
@@ -25,19 +25,9 @@ image:
   extension: jpg
   id: 2251674
   priority: 0
-  slug: gorilla-wear-hilton-seamless-sportbeha-dames
+  slug: gorilla-wear-hilton-sport-bh-medium-support
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1956488
-  priority: 100
-  slug: gorilla-wear-logo
-  type: logo
-offerId: 9a80ea80-ae67-414d-b3c0-3367a62b4262
+offerId: dda17fff-2721-5a94-9841-655b350d79f8
 price:
   cents: 1995
   currency: EUR
@@ -47,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 36.99
 slug: gorilla-wear-hilton-seamless-sportbeha-dames
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Hilton Seamless Sportbeha | Dames

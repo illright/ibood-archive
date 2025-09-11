@@ -1,4 +1,4 @@
-_id: 68b6b52bdd414e9e00449ac4
+_id: 68b6b55ffb0a28136bdf2d1b
 appOnly: false
 brand: Sleeptime
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Sleeptime
 categories:
   - c64963ed-2bfa-5350-b52c-339b2166ba11
-classicId: '2745881'
-classicProductId: '439168'
+classicId: '2745950'
+classicProductId: '581445'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 33
+directCheckout: true
+discount: 47
 end: '2025-09-15T21:59:59.000Z'
 freeDelivery: false
-id: 7140ac96-b63d-45f1-88bb-52b7b99f1031
+id: da164014-151b-4276-b02c-38375cc7f80a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1918373
+    - all
+  extension: image/png
+  id: 58445388-8721-4045-9719-d7e098c59651
   priority: 0
-  slug: sleeptime-2-in-1-dekbed-overtrek-140-x-200-cm
+  slug: sleeptime-2-in-1-dekbed-overtrek-140-x-200-cm-product-9
   type: product
 logo:
   channels:
@@ -35,13 +36,13 @@ logo:
   extension: png
   id: 1524027
   priority: 100
-  slug: sleeptime-2-in-1-dekbed-overtrek-140-x-200-cm
+  slug: sleeptime-logo
   type: logo
-offerId: cf26dbc5-47b7-488d-96ab-dff661d8f15e
+offerId: b64bec80-38ff-4b7d-a9ce-360d9b591b9e
 price:
-  cents: 1995
+  cents: 1595
   currency: EUR
-  value: 19.95
+  value: 15.95
 referencePrice:
   cents: 2995
   currency: EUR

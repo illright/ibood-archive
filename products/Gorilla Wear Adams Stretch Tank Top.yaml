@@ -1,22 +1,22 @@
-_id: 68b5851f86b0c4f556aadeaf
+_id: 68b80f55df7947aaa8748ff6
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744249'
-classicProductId: '511359'
+  - 1eb2ebe9-a3ef-5160-8430-dfb1e9295643
+classicId: '2748184'
+classicProductId: '511354'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 43
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: a6e9e652-0d52-41e4-8e17-06ae11daad74
+id: f353b97e-9e78-5af2-9620-a62c2c8be99c
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1956488
+  id: 1724929
   priority: 100
-  slug: gorilla-wear-logo
+  slug: gorilla-wear-adams-stretch-tank-top
   type: logo
-offerId: ef3fcfad-4096-47a1-982c-1a672faf1fd7
+offerId: cac223ec-5af3-571e-a5b9-de59e78552cb
 price:
   cents: 1895
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 32.99
 slug: gorilla-wear-adams-stretch-tank-top
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Adams Stretch Tank Top

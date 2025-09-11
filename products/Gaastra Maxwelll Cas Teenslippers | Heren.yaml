@@ -1,22 +1,22 @@
-_id: 68ac36092101f4e91fd28813
+_id: 68c169de97e35341c408a806
 appOnly: false
 brand: Gaastra
 brands:
   - id: eb7647c2-0043-5de6-8a34-9f5e7c87246c
     name: Gaastra
 categories:
-  - a6815028-389b-5689-b875-5aa10382c97b
-classicId: '2738132'
-classicProductId: '646645'
+  - 778c11ea-454b-55a1-a1e8-95b65d9b4f03
+classicId: '2755083'
+classicProductId: '646642'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2025-09-14T21:59:59.000Z'
+end: '2025-09-16T21:59:59.999Z'
 freeDelivery: false
-id: 76c2389a-b3d7-4ec7-a5a1-e8a227c67cf1
+id: eb302b03-9019-4b04-b587-2b05c860a579
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 1cf3e382-249a-4895-98a7-ba6926278635
+  id: ca019bdc-50ce-46fa-85a6-b6e17030de65
   priority: 0
-  slug: gaastra-main-png-product-0
+  slug: main-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: gaastra-logo
   type: logo
-offerId: d20adef3-6809-4cc5-8461-701c4c23980b
+offerId: e3f7d3bf-6af8-40c3-ad37-b3549952ba6b
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 50
 slug: gaastra-maxwelll-cas-teenslipper
 soldOut: false
-start: '2025-08-25T22:00:00.000Z'
+start: '2025-09-09T22:00:00.000Z'
 title: Gaastra Maxwelll Cas Teenslippers | Heren

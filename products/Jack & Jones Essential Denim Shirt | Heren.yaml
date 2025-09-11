@@ -1,22 +1,22 @@
-_id: 68bff2f23e8c836811eac007
+_id: 68c182b0e2f9874cf39da76c
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 296d9768-8814-5fac-abda-f5829ca4c495
-classicId: '2752616'
-classicProductId: '610237'
+  - 5e128d76-49a0-57be-94c2-7fbd88e59284
+classicId: '2755211'
+classicProductId: '610244'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 69
-end: '2025-09-14T21:59:59.999Z'
+directCheckout: true
+discount: 63
+end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
-id: bbbd95f7-f23f-4104-8d11-3e8013a74115
+id: be2ebf2f-22dc-4297-a173-5a758753ca9b
 image:
   channels:
     - website
@@ -33,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1829631
+  id: 2131865
   priority: 100
-  slug: jack-jones-logo
+  slug: jack-jones-essential-denim-shirt
   type: logo
-offerId: 62e9c4fd-5bf3-480a-afa4-c8886155148c
+offerId: f6324fe4-228b-41c4-a04e-79234155e1e3
 price:
-  cents: 1236
+  cents: 1495
   currency: EUR
-  value: 12.36
+  value: 14.95
 referencePrice:
   cents: 4000
   currency: EUR
   value: 40
 slug: jack-jones-essential-denim-shirt
-soldOut: false
-start: '2025-09-08T22:00:00.000Z'
+soldOut: true
+start: '2025-09-09T22:00:00.000Z'
 title: Jack & Jones Essential Denim Shirt | Heren

@@ -1,22 +1,22 @@
-_id: 68b5850e10407cfb395dbb72
+_id: 68b83286df7947aaa874911b
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744225'
-classicProductId: '639288'
+  - 70d570ca-85ec-506c-ac18-53a8bdeb72c9
+classicId: '2748685'
+classicProductId: '639285'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: f7909535-18f5-461d-9b4a-1c54a5924376
+id: 8e0bfba8-bef9-59d3-9265-c07f87fdd247
 image:
   channels:
     - website
@@ -25,19 +25,20 @@ image:
   extension: png
   id: 2251577
   priority: 0
-  slug: gorilla-wear-neiro-seamless-leggings-dames
+  slug: gorilla-wear-neiro-nahtlose-leggings-damen
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1956488
-  priority: 100
-  slug: gorilla-wear-logo
+    - all
+  extension: image/png
+  id: 2c6cdadd-f21e-4003-a8e7-c2143cd9c568
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: 974346d1-555f-4c10-a2bf-1bbc837e57aa
+offerId: 5cb0cf1e-4c28-5aea-9ce8-2c05fd20ca23
 price:
   cents: 2495
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: gorilla-wear-neiro-seamless-leggings-dames
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Neiro Seamless Leggings | Dames

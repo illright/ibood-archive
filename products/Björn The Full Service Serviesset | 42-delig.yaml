@@ -1,4 +1,4 @@
-_id: 68aed70c2b460194f74f5dfd
+_id: 68aef6e62b460194f74f5f5a
 appOnly: false
 brand: Björn
 brands:
@@ -6,42 +6,31 @@ brands:
     name: Björn
 categories:
   - 625bc082-7a39-5ac1-9f2d-89f44523f6cc
-classicId: '2741239'
-classicProductId: '165080'
+classicId: '2741404'
+classicProductId: '165082'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 73
+directCheckout: true
+discount: 68
 end: '2025-09-15T21:59:59.000Z'
 freeDelivery: false
-id: c3c0a408-9554-4431-8cc1-3f71b7673cbc
+id: 85f36c35-a468-5f12-8fe4-8261bbdc4e23
 image:
   channels:
-    - website
     - app
-    - newsletter
+    - website
   extension: jpg
-  id: 689048
+  id: 1002284
   priority: 0
-  slug: bjorn-the-full-service-serviesset-42-delig
+  slug: bjorn-pattern-geschirrset-42-teilig
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1619105
-  priority: 100
-  slug: bjorn-logo
-  type: logo
-offerId: c71ffc9d-595d-4f4a-b1bf-c60890301a37
+offerId: 513a6cd9-e630-5904-8726-bb2f27293f2b
 price:
-  cents: 12995
+  cents: 15900
   currency: EUR
-  value: 129.95
+  value: 159
 referencePrice:
   cents: 48990
   currency: EUR

@@ -1,12 +1,12 @@
-_id: 68b5851061f8bf3464551ec9
+_id: 68b8320df3b02b9a78f7d82e
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 341018f9-25a4-5fc3-bee2-f5ba126e8ce5
-classicId: '2744220'
+  - 70d570ca-85ec-506c-ac18-53a8bdeb72c9
+classicId: '2748541'
 classicProductId: '542361'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: b794bff4-79c8-49cf-9cb6-039c6edcd7f8
+id: db571edd-6d42-5761-bd2c-679592399f87
 image:
   channels:
     - website
@@ -25,19 +25,20 @@ image:
   extension: png
   id: 1818976
   priority: 0
-  slug: gorilla-wear-katy-2-in-1-shorts-dames
+  slug: gorilla-wear-katy-shorts-2-in-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1818956
-  priority: 100
-  slug: gorilla-wear-katy-2-in-1-shorts-dames
+    - all
+  extension: image/png
+  id: f9ae976b-7260-4626-ab6d-484cc6bbcba2
+  priority: 0
+  slug: gorilla-wear-png-logo-0
   type: logo
-offerId: 4e20d84b-8e75-4429-a35c-621f5f52c428
+offerId: 00ea9f12-74ad-5e90-a293-4ffd00eb4954
 price:
   cents: 2495
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: gorilla-wear-katy-2-in-1-shorts-dames
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-09T22:00:00.000Z'
 title: Gorilla Wear Katy 2-In-1 Shorts | Dames
