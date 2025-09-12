@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
 
       - uses: ./.github/actions/set-up-wireguard
         with:
