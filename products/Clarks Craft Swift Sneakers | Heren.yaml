@@ -1,31 +1,31 @@
-_id: 68bff349480e290ecc80c28b
+_id: 68c01b20480e290ecc80c3ee
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - 296d9768-8814-5fac-abda-f5829ca4c495
-classicId: '2752657'
-classicProductId: '561837'
+  - 5009e80f-6b8d-524a-93a0-c4ca8e27ac54
+classicId: '2753222'
+classicProductId: '510579'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 58
-end: '2025-09-14T21:59:59.999Z'
+directCheckout: true
+discount: 42
+end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
-id: 16191421-638f-44cf-9a2d-e4e98168816b
+id: 03535f84-93c1-4262-be99-74d574b815f0
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 2205545
+  extension: png
+  id: 1734676
   priority: 0
-  slug: clarks-craft-swift-sneaker-herren
+  slug: clarks-craft-swift-sneakers-heren
   type: product
 logo:
   channels:
@@ -37,11 +37,11 @@ logo:
   priority: 100
   slug: clarks-logo
   type: logo
-offerId: 57f87df7-25e7-46b8-95a8-bd4a66899305
+offerId: 7dfc97c6-598e-4b95-a142-eb2381a7fdb6
 price:
-  cents: 5099
+  cents: 6995
   currency: EUR
-  value: 50.99
+  value: 69.95
 referencePrice:
   cents: 12000
   currency: EUR
