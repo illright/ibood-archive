@@ -12,14 +12,24 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v5
+        with:
+          path: main
+
+      - uses: actions/checkout@v5
+        with:
+          ref: archive
+          path: archive
+
       - uses: oven-sh/setup-bun@v2
       - run: bun install --frozen-lockfile
+        working-directory: ./main
 
-      - uses: ./.github/actions/set-up-wireguard
+      - uses: ./main/.github/actions/set-up-wireguard
         with:
           config: ${{ secrets.WIREGUARD_CONFIG }}
 
-      - run: bun index.ts
+      - run: bun index.ts --path ../archive/products
+        working-directory: ./main
         env:
           IBEX_LANGUAGE: nl
           IBEX_TENANT_ID: ${{ vars.IBEX_TENANT_ID }}
@@ -27,12 +37,13 @@ jobs:
           USER_AGENT: ${{ vars.USER_AGENT }}
           SEC_CH_UA: '${{ vars.SEC_CH_UA }}'
 
-      - uses: ./.github/actions/tear-down-wireguard
+      - uses: ./main/.github/actions/tear-down-wireguard
 
       - name: Commit changes with the number of files in products/ as the commit message
+        working-directory: ./archive
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
+          git add products
           git commit -m "$(date +'%Y-%m-%d') - $(ls -l products | wc -l) files"
           git push

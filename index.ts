@@ -2,13 +2,27 @@ import type { z } from "zod/v4";
 import yaml from "js-yaml";
 import { Env } from "./envSchema";
 import { LiveResponse, LiveResponseUnknown } from "./iboodSchema";
+import { parseArgs } from "node:util";
 import { join } from "node:path";
 import { mkdir, rm } from "node:fs/promises";
 
 const endpoint = new URL(
   "https://api.ibood.io/search/items/live?live&take=10000"
 );
-const productsFolder = "products";
+
+const { values } = parseArgs({
+  args: Bun.argv,
+  options: {
+    path: {
+      type: "string",
+      default: "products",
+    },
+  },
+  strict: true,
+  allowPositionals: true,
+});
+
+const productsFolder = values.path;
 
 const env = Env.parse(process.env);
 
