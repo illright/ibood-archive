@@ -24,3 +24,21 @@ runs:
     - name: Bring up the WireGuard interface
       shell: bash
       run: sudo wg-quick up ../github-actions.conf
+
+    - name: Test the connection
+      id: test-connection
+      shell: bash
+      run: ping -c 4 one.one.one.one
+      continue-on-error: true
+
+    - name: Restart WireGuard if the connection test failed
+      if: steps.test-connection.outcome == 'failure'
+      shell: bash
+      run: |
+        echo "Connection test failed, restarting WireGuard..."
+        sudo wg-quick down ../github-actions.conf
+        sudo wg-quick up ../github-actions.conf
+
+    - name: Verify the connection again
+      shell: bash
+      run: ping -c 4 one.one.one.one
