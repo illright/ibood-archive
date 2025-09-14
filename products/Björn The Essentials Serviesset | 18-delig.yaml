@@ -1,4 +1,4 @@
-_id: 68aef6d52b460194f74f5f40
+_id: 68aef6d2daa2ec89cb52a107
 appOnly: false
 brand: Björn
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Björn
 categories:
   - 625bc082-7a39-5ac1-9f2d-89f44523f6cc
-classicId: '2741396'
-classicProductId: '342976'
+classicId: '2741394'
+classicProductId: '443628'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,18 +16,19 @@ directCheckout: true
 discount: 65
 end: '2025-09-15T21:59:59.000Z'
 freeDelivery: false
-id: dd1bc885-0fd3-5026-9eb9-dee11655b310
+id: 35a093a4-f03b-5b96-822f-3dfa4b37c429
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1090038
+    - all
+  extension: image/avif
+  id: 9bcfcd1f-6676-4eb5-bd06-d83564217b1e
   priority: 0
-  slug: bjorn-the-essentials-18-delige-serviesset
+  slug: 2000864-avif-product-12
   type: product
-offerId: 402a6335-d851-5e58-a55f-6efc29525c28
+offerId: a8a8c043-0926-525a-a07f-4117a582f2c4
 price:
   cents: 8995
   currency: EUR

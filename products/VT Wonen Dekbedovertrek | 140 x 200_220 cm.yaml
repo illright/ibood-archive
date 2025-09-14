@@ -1,31 +1,32 @@
-_id: 68b6b5cd23c222e32da3e16f
+_id: 68bff2b996a9d3500a98e098
 appOnly: false
 brand: VT WONEN
 brands:
   - id: 779c3a3e-a55a-58a7-83aa-2b81b3802c35
     name: VT WONEN
 categories:
-  - 8c818c4f-faa6-511c-a1e5-1ebd83ecd638
-classicId: '2746135'
-classicProductId: '624533'
+  - 258ab1c2-4843-56ae-abe3-f3e3c80460c4
+classicId: '2752544'
+classicProductId: '586306'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 63
-end: '2025-09-15T21:59:59.000Z'
+discount: 84
+end: '2025-09-14T21:59:59.999Z'
 freeDelivery: false
-id: eabf026f-4b8d-482d-a786-c055996374b6
+id: d1faac75-f7c3-4ba7-a98c-e51f8b2e6513
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2185832
+    - all
+  extension: image/png
+  id: 877ded4d-a1a1-41ac-9624-de8a0bd5a036
   priority: 0
-  slug: vt-wonen-dekbedovertrek-140-x-200220-cm
+  slug: vt-wonen-dekbedovertrek-140-x-200220-cm-product-4
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: vt-wonen-logo
   type: logo
-offerId: cc19d4a0-a882-4814-86dd-421cdfc277eb
+offerId: 3ca2698d-47d2-4a7f-acd2-a5cd135ce6ea
 price:
-  cents: 2195
+  cents: 791
   currency: EUR
-  value: 21.95
+  value: 7.91
 referencePrice:
-  cents: 5995
+  cents: 4995
   currency: EUR
-  value: 59.95
+  value: 49.95
 slug: vt-wonen-dekbedovertrek-140-x-200220-cm
-soldOut: false
-start: '2025-09-02T22:00:00.000Z'
+soldOut: true
+start: '2025-09-08T22:00:00.000Z'
 title: VT Wonen Dekbedovertrek | 140 x 200/220 cm
