@@ -1,4 +1,4 @@
-_id: 68c1829497e35341c408a93b
+_id: 68c1835de2f9874cf39da810
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Jack & Jones
 categories:
   - 5e128d76-49a0-57be-94c2-7fbd88e59284
-classicId: '2755191'
-classicProductId: '557121'
+classicId: '2755316'
+classicProductId: '652596'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: false
 discount: 45
 end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
-id: df8696c7-5a56-498d-b4bd-28e56271c4cd
+id: c7481caf-7738-4be6-a453-dc8a2e11e81d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1963908
+    - all
+  extension: image/jpeg
+  id: 137790f9-ff5b-4c6e-b197-0af05ed701d2
   priority: 0
-  slug: jack-jones-originals-sweater
+  slug: l-forest-river-12266161-jwhvesterbro-sweat-quarter-zip-hn-jack-and-jones-originals-product-4
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: db14f4d7-1196-46c5-b330-86491a25142f
+offerId: 4262aa97-3860-4389-a257-7f96f59d4704
 price:
   cents: 2495
   currency: EUR

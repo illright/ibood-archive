@@ -1,4 +1,4 @@
-_id: 68a41e3717d3a6912e443642
+_id: 68a336d1b021cca52c543680
 appOnly: false
 brand: Helly Hansen
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Helly Hansen
 categories:
   - fa403e5b-fb2f-5e70-ba22-72d837195a70
-classicId: '2731104'
-classicProductId: '659491'
+classicId: '2730817'
+classicProductId: '356116'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2025-09-17T21:59:59.999Z'
 freeDelivery: false
-id: be627885-9433-5b54-9daa-aa826d9f76f9
+id: 5adc07a7-46c6-5c62-ac70-bdcf528bb413
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 2bcbcdb5-dc76-4daa-b319-b0509ce4ce68
+  id: b28d7321-854f-4cf0-a006-446372e26fcf
   priority: 0
-  slug: 1-png-product-1
+  slug: black-png-product-1
   type: product
-offerId: 65feecc1-8e54-522e-86ef-61a32f5344c7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 525579
+  priority: 100
+  slug: helly-hansen-seven-j-regenjacke
+  type: logo
+offerId: 949293bc-e37b-54e7-830e-70e3eea8535b
 price:
   cents: 5995
   currency: EUR

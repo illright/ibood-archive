@@ -1,12 +1,12 @@
-_id: 68c3f19908aa893f17f127a9
+_id: 68b6b7a423c222e32da3e47e
 appOnly: false
 brand: Anker
 brands:
   - id: ccd7e286-39b0-53c3-8d73-01b9fc4fe59d
     name: Anker
 categories:
-  - c788dcf9-0a9a-5ab6-b7f4-f0d9cfde2714
-classicId: '2756697'
+  - aa52797d-0894-540d-b2cb-a61df2ac00b0
+classicId: '2746475'
 classicProductId: '461935'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2025-09-14T21:59:59.999Z'
+end: '2025-09-15T21:59:59.000Z'
 freeDelivery: false
-id: 0d827b43-bef6-5a92-8dad-5065b97056a1
+id: 8572ddf6-d780-464f-b58a-bf008135933a
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: anker-solix-powerhouse-757-power-station-product-18
   type: product
-offerId: 027521a1-6d8f-5812-ab4e-8b2363ae36da
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1649548
+  priority: 100
+  slug: anker-logo
+  type: logo
+offerId: d0e06187-3ced-4f65-aa47-398648aa73f5
 price:
-  cents: 48900
+  cents: 49900
   currency: EUR
-  value: 489
+  value: 499
 referencePrice:
   cents: 149900
   currency: EUR
   value: 1499
 slug: anker-solix-powerhouse-757-power-station
 soldOut: false
-start: '2025-09-13T22:00:00.000Z'
+start: '2025-09-02T22:00:00.000Z'
 title: Anker Solix PowerHouse 757 Draagbare Power Station | 1229 Wh | 1500 W

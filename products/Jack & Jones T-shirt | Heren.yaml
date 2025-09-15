@@ -1,4 +1,4 @@
-_id: 68c183858f71818da36b182f
+_id: 68c1837d8f71818da36b181f
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Jack & Jones
 categories:
   - 5e128d76-49a0-57be-94c2-7fbd88e59284
-classicId: '2755342'
-classicProductId: '652805'
+classicId: '2755336'
+classicProductId: '652790'
 deliveryPrice:
   cents: 395
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 34
 end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
-id: 34a672be-fdf2-4438-a4e6-40c95f5906d8
+id: c773c537-8872-4dc4-9e21-59af366221ef
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 539ce6d8-8beb-4c15-a20a-25053bd4f4bb
+  id: 9ebfae5f-8ceb-416b-9310-64c84e3cdc8f
   priority: 0
-  slug: m-white-12287695-jwhferris-tee-ss-crew-neck-jack-and-jones-product-0
+  slug: xxl-navy-blazer-12287695-jwhferris-tee-ss-crew-neck-jack-and-jones-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 42713589-9db3-426f-abb8-8da97bca0bf8
-  priority: 0
-  slug: jack-jones-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 927ef77a-dcad-49eb-9186-f20aff7d5156
+offerId: 678cc574-ef6a-43dd-ac05-6f1f96d257d2
 price:
   cents: 995
   currency: EUR

@@ -1,22 +1,22 @@
-_id: 68bff4c8c52d6c697a46eeb1
+_id: 68c182afe2f9874cf39da766
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 296d9768-8814-5fac-abda-f5829ca4c495
-classicId: '2752884'
-classicProductId: '611028'
+  - 5e128d76-49a0-57be-94c2-7fbd88e59284
+classicId: '2755213'
+classicProductId: '611021'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 71
-end: '2025-09-14T21:59:59.999Z'
+directCheckout: false
+discount: 65
+end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
-id: 9ef39122-2d9d-435b-9635-c22e57ce2437
+id: 4e8e6ed0-6b33-4457-a845-935df3bce8dd
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: c990d76a-e633-414e-959f-f9e546e4446c
+offerId: 8b1e1e25-bda7-4c23-8b21-24e29ef251c3
 price:
-  cents: 2912
+  cents: 3495
   currency: EUR
-  value: 29.12
+  value: 34.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: mcgregor-sweaters
-soldOut: true
-start: '2025-09-08T22:00:00.000Z'
+soldOut: false
+start: '2025-09-09T22:00:00.000Z'
 title: McGregor Ronde- of V-Hals Pullover | Heren

@@ -1,51 +1,42 @@
-_id: 68bff3d448391aac554545e5
+_id: 68c14924146904f7a2df9610
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - 296d9768-8814-5fac-abda-f5829ca4c495
-classicId: '2752789'
-classicProductId: '582844'
+  - 5009e80f-6b8d-524a-93a0-c4ca8e27ac54
+classicId: '2754720'
+classicProductId: '653591'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 66
-end: '2025-09-14T21:59:59.999Z'
+directCheckout: false
+discount: 46
+end: '2025-09-15T21:59:59.999Z'
 freeDelivery: false
-id: 68ac8438-4730-40ee-abc8-3716738eb210
+id: 20ded033-05e3-4b90-b4b0-0b6e5499d9d7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2012317
+    - all
+  extension: image/png
+  id: 85478827-bc2a-4be5-98db-4146473bd5d3
   priority: 0
-  slug: reebok-club-c-revenge-sneakers-unisex
+  slug: reebok-01-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 2011608
-  priority: 100
-  slug: reebok-logo
-  type: logo
-offerId: b06fc30f-c8db-4753-a9da-1a6d8787aa3c
+offerId: a87b5bda-35c8-4cf8-a7fb-a72f53e5af34
 price:
-  cents: 4370
+  cents: 5695
   currency: EUR
-  value: 43.7
+  value: 56.95
 referencePrice:
-  cents: 12999
+  cents: 10500
   currency: EUR
-  value: 129.99
+  value: 105
 slug: reebok-club-c-revenge-sneakers-unisex
 soldOut: false
 start: '2025-09-08T22:00:00.000Z'
