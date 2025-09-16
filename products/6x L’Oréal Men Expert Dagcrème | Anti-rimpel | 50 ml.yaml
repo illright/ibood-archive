@@ -1,12 +1,12 @@
-_id: 68b6bd7b3306135b80da6e08
+_id: 68b9761212c920414924d4b0
 appOnly: false
 brand: L'Oreal
 brands:
   - id: 0f1aa44b-2052-5292-9466-40ec16b9346e
     name: L'Oreal
 categories:
-  - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2746716'
+  - 67c22a7b-8b25-5453-9cbd-b5d24fca9e6f
+classicId: '2749439'
 classicProductId: '82784'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2025-09-15T21:59:59.999Z'
+end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: c47651f7-aafe-40e2-b7f7-f65dd16c3002
+id: 4c86556b-f633-5040-a988-a0589b31aa5a
 image:
   channels:
     - website
@@ -24,20 +24,10 @@ image:
     - newsletter
   extension: png
   id: 1729950
-  priority: 3
-  slug: 6x-loreal-men-expert-dagcreme-anti-rimpel-50-ml
+  priority: 0
+  slug: 6x-men-expert-anti-falten-tagescreme
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1487434
-  priority: 100
-  slug: l-oreal-logo
-  type: logo
-offerId: bd367e26-c551-4595-9a45-a0e4e80c9715
+offerId: 1a87f7db-0401-53a9-86db-bcfc7930f85e
 price:
   cents: 3495
   currency: EUR
@@ -47,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 89.99
 slug: 6x-loreal-men-expert-dagcreme-anti-rimpel-50-ml
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-15T22:00:00.000Z'
 title: 6x L’Oréal Men Expert Dagcrème | Anti-rimpel | 50 ml

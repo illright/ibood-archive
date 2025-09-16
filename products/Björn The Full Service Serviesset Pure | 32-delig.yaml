@@ -1,12 +1,12 @@
-_id: 68aef6bd2b460194f74f5f1a
+_id: 6889da8d2cab35d70ae5cbb0
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - 625bc082-7a39-5ac1-9f2d-89f44523f6cc
-classicId: '2741381'
+  - 6e7b05b2-5c56-5ac1-aba9-7892a078a73f
+classicId: '2712485'
 classicProductId: '600288'
 deliveryPrice:
   cents: 895
@@ -14,20 +14,31 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2025-09-15T21:59:59.000Z'
+end: '2025-09-16T21:59:59.999Z'
 freeDelivery: false
-id: 30668e4a-b65e-50d3-bc3a-1937e3e5438a
+id: 9c083c1b-a036-5d69-ab8d-30cbda0b1f46
 image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 92f69969-2916-4218-83dc-b9264d091058
+  priority: 0
+  slug: servies-wit-32-png-product-101
+  type: product
+logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 2127480
-  priority: 0
+  extension: png
+  id: 2127479
+  priority: 100
   slug: bjorn-pure-geschirrset-32-teilig-wei
-  type: product
-offerId: c232d079-ef43-5e4a-927c-705dc5423ffb
+  type: logo
+offerId: 84cef1e0-d9ac-59dd-a21b-2e901719031c
 price:
   cents: 16900
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 509.9
 slug: bjorn-the-full-service-serviesset-pure-32-delig
 soldOut: false
-start: '2025-08-26T22:00:00.000Z'
+start: '2025-09-15T22:00:00.000Z'
 title: Björn The Full Service Serviesset Pure | 32-delig

@@ -1,22 +1,22 @@
-_id: 68bea84ccdd20fd8751a1e77
+_id: 68bfeac20cb98ee4bd19f856
 appOnly: false
 brand: Sun
 brands:
   - id: 91944e44-87f4-5fd2-b3a7-b70ba1671bdf
     name: Sun
 categories:
-  - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2751114'
-classicProductId: '649300'
+  - 67c22a7b-8b25-5453-9cbd-b5d24fca9e6f
+classicId: '2752200'
+classicProductId: '664188'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2025-09-15T21:59:59.999Z'
+end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: aeb81295-901a-4f12-9eee-1533b2acb29d
+id: 64571925-8f0d-59fd-92c7-d90a667e1186
 image:
   channels:
     - website
@@ -25,19 +25,9 @@ image:
   extension: png
   id: 1962990
   priority: 1
-  slug: 160x-sun-expert-plus-all-in-1-vaatwastablet
+  slug: 80x-sun-expert-plus-all-in-1-geschirrspulertabs
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1757160
-  priority: 100
-  slug: sun-logo
-  type: logo
-offerId: acbe9c1a-a2cf-4b82-b00f-04841fe2c3d8
+offerId: 294a3c9a-aaef-55bb-93c9-566b88d4b494
 price:
   cents: 2495
   currency: EUR
@@ -47,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 69.99
 slug: 160x-sun-expert-plus-all-in-1-vaatwastablet
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-15T22:00:00.000Z'
 title: 160x Sun Expert Plus All-in-1 Vaatwastablet

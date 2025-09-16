@@ -1,12 +1,12 @@
-_id: 68b6bd7c05a961237ff830bd
+_id: 68b975f412c920414924d47b
 appOnly: false
 brand: L'Oreal Elvive
 brands:
   - id: 4009d12e-5bcf-5620-a710-6695122cb452
     name: L'Oreal Elvive
 categories:
-  - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2746719'
+  - 67c22a7b-8b25-5453-9cbd-b5d24fca9e6f
+classicId: '2749409'
 classicProductId: '618563'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2025-09-15T21:59:59.999Z'
+end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: 9d7f5bcf-c467-4596-bab2-bc94a53c9af5
+id: 8b06064b-ea2f-5dee-8d42-e8e3695df3b3
 image:
   channels:
     - website
@@ -25,7 +25,7 @@ image:
   extension: png
   id: 2162643
   priority: 0
-  slug: 6x-loreal-paris-elvive-multivitamine-2in1-shampoo
+  slug: 6x-loreal-elvive-multivitamines-2-in-1-shampoo
   type: product
 logo:
   channels:
@@ -34,11 +34,11 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 3167b8f8-270a-4f26-9553-f3e04e7be256
+  id: 5d1c9a2e-048e-408f-a447-e96d328b3a1d
   priority: 0
-  slug: l-oreal-elvive-logo-0
+  slug: l-oreal-paris-png-logo-0
   type: logo
-offerId: 3e673e05-b52d-481f-94b2-4ec0af6001e8
+offerId: 6fa45e5e-991d-5685-8a72-84a158d8155e
 price:
   cents: 1395
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 39.54
 slug: 6x-loreal-paris-elvive-multivitamine-2in1-shampoo
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-15T22:00:00.000Z'
 title: 6x L'Oréal Paris Elvive Multivitamines 2-in-1 Shampoo | 250 ml

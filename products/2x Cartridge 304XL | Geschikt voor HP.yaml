@@ -1,12 +1,12 @@
-_id: 68b6bd603be497864d0bca6e
+_id: 68bedacb10ef4eed4f4adf4b
 appOnly: false
 brand: HP
 brands:
   - id: c61ae1ed-e9c0-5826-86dc-489e5b97e577
     name: HP
 categories:
-  - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2746680'
+  - 9902de7e-2ea5-563e-8e7a-f101e718a33d
+classicId: '2752060'
 classicProductId: '142135'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-09-15T21:59:59.999Z'
+end: '2025-09-16T21:59:59.999Z'
 freeDelivery: false
-id: 3f952ada-6f5f-49f3-a71b-5c42beb1554d
+id: 90bb7b2d-c6a4-5baf-90cb-9159be2213fa
 image:
   channels:
     - website
@@ -27,17 +27,7 @@ image:
   priority: 0
   slug: 2x-cartridge-304xl-geschikt-voor-hp
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1742322
-  priority: 100
-  slug: hp-logo
-  type: logo
-offerId: 3a7c3d49-fe54-422b-b344-2c616f7daf4e
+offerId: 04cb655e-f37b-5f7f-be96-017fb6f325e1
 price:
   cents: 7495
   currency: EUR
@@ -47,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 149.95
 slug: 2x-cartridge-304xl-geschikt-voor-hp
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-11T22:00:00.000Z'
 title: 2x Cartridge 304XL | Geschikt voor HP

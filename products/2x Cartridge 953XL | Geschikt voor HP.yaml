@@ -1,12 +1,12 @@
-_id: 68b6bd5b8d0457357edbbdbe
+_id: 68bedac910ef4eed4f4adf43
 appOnly: false
 brand: HP
 brands:
   - id: c61ae1ed-e9c0-5826-86dc-489e5b97e577
     name: HP
 categories:
-  - 1592e3d3-f6f5-5851-a3e9-c327d8f5ac50
-classicId: '2746678'
+  - 9902de7e-2ea5-563e-8e7a-f101e718a33d
+classicId: '2752053'
 classicProductId: '565080'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-09-15T21:59:59.999Z'
+end: '2025-09-16T21:59:59.999Z'
 freeDelivery: false
-id: 45fade7c-0b61-4a73-bc27-57bb1a01a357
+id: 2854209f-daba-55ab-a6c0-8caf927ff275
 image:
   channels:
     - website
@@ -27,17 +27,7 @@ image:
   priority: 0
   slug: 2x-cartridge-953xl-hp
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1742322
-  priority: 100
-  slug: hp-logo
-  type: logo
-offerId: 0a9cc7b2-afec-4c88-ac81-c7bccc724e82
+offerId: 76f05072-d6ed-523e-8e1c-8e7c18f342c3
 price:
   cents: 6495
   currency: EUR
@@ -47,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 149.95
 slug: 2x-cartridge-953xl-hp
-soldOut: true
-start: '2025-09-02T22:00:00.000Z'
+soldOut: false
+start: '2025-09-11T22:00:00.000Z'
 title: 2x Cartridge 953XL | Geschikt voor HP

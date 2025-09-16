@@ -1,32 +1,32 @@
-_id: 68c182ad8f71818da36b171d
+_id: 68c7c26a0f878c7023bf1b7d
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 5e128d76-49a0-57be-94c2-7fbd88e59284
-classicId: '2755208'
-classicProductId: '603175'
+  - e24a89b3-5eea-5341-8c96-244c73200fbb
+classicId: '2757856'
+classicProductId: '603165'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 57
-end: '2025-09-15T21:59:59.999Z'
+directCheckout: false
+discount: 78
+end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: 92c74c34-2d1f-4edd-b556-360d366ee8d2
+id: ceaf7ee8-2e1c-4f5c-b9c9-e8c716c7b34a
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: eacd5f59-0d5e-42fc-a109-af911994851a
+  id: b8e72ed5-e7fc-4559-b652-70d678540752
   priority: 0
-  slug: jack-and-jones-premium-jwhillusion-bomber-product-2-png-product-2
+  slug: jack-and-jones-premium-jwhillusion-bomber-product-2
   type: product
 logo:
   channels:
@@ -35,20 +35,20 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: d46ddd54-5eb1-4382-a2f4-73f8aa30d5fb
+  id: 4aed7b11-a468-4ae6-8f67-aeb9f735fc04
   priority: 0
   slug: jack-and-jones-premium-jwhillusion-bomber-logo-0
   type: logo
-offerId: e93c58ce-2593-418f-93c9-c30ff0930e97
+offerId: 826f44db-3ca1-47cf-a3f4-90c8f9eae8e5
 price:
-  cents: 2995
+  cents: 1519
   currency: EUR
-  value: 29.95
+  value: 15.19
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: jack-and-jones-premium-jwhillusion-bomber
-soldOut: true
-start: '2025-09-09T22:00:00.000Z'
+soldOut: false
+start: '2025-09-14T22:00:00.000Z'
 title: Jack & Jones Premium Illusion Bomberjas | Heren

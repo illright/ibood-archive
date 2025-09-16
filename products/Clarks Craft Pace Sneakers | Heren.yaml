@@ -1,38 +1,47 @@
-_id: 68aeb96cb32660a77f5a53c2
+_id: 68c7c233c3f6a593f92c610e
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - b6733500-8bb3-549f-889a-fef4e03c58a0
-classicId: '2740618'
-classicProductId: '618685'
+  - e24a89b3-5eea-5341-8c96-244c73200fbb
+classicId: '2757794'
+classicProductId: '618696'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 42
+discount: 56
 end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: 7d0ce3e5-e075-5c03-bd21-5203ea059848
+id: 937275d6-46c0-4357-88d5-4ce1e01941ed
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: cc01db1a-91d0-46ef-97c5-2155d07e04fb
+  extension: png
+  id: 2205572
   priority: 0
-  slug: pace-sneaker-png-product-1
+  slug: clarks-craft-pace-sneakers-heren
   type: product
-offerId: c5592f88-1365-5216-bb9c-511e8bd92ffe
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2205551
+  priority: 100
+  slug: clarks-craft-pace-sneakers-heren
+  type: logo
+offerId: dc254ed2-c22e-4c49-b170-2da344b9879a
 price:
-  cents: 6995
+  cents: 5245
   currency: EUR
-  value: 69.95
+  value: 52.45
 referencePrice:
   cents: 12000
   currency: EUR
