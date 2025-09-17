@@ -1,22 +1,22 @@
-_id: 68c7c1c1c3f6a593f92c6023
+_id: 68c946952a58e3db876f4a0d
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - e24a89b3-5eea-5341-8c96-244c73200fbb
-classicId: '2757668'
-classicProductId: '143952'
+  - 02c172b6-fc87-5059-b3f6-d7586cd02325
+classicId: '2761001'
+classicProductId: '143963'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 63
+directCheckout: true
+discount: 86
 end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: 864207a5-5d6a-4830-8984-2622f3d999e1
+id: 2556407a-1d6a-435b-9dde-ad733542bbe5
 image:
   channels:
     - website
@@ -35,18 +35,18 @@ logo:
   extension: png
   id: 1734464
   priority: 100
-  slug: clarks-logo
+  slug: clarks-step-urban-sneakers
   type: logo
-offerId: 23ee0baf-5a00-44f3-b656-c12da75b8ca5
+offerId: f9fdfe4b-227c-43a2-849e-dd4d58e5c79e
 price:
-  cents: 2621
+  cents: 1000
   currency: EUR
-  value: 26.21
+  value: 10
 referencePrice:
   cents: 6995
   currency: EUR
   value: 69.95
 slug: clarks-step-urban-sneakers
-soldOut: false
-start: '2025-09-14T22:00:00.000Z'
+soldOut: true
+start: '2025-09-15T22:00:00.000Z'
 title: Clarks Step Urban Sneakers | Heren

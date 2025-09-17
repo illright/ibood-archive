@@ -19,13 +19,14 @@ freeDelivery: false
 id: 7d3bf53f-41b0-4aff-b8a2-28d00abbbe93
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1759553
+    - all
+  extension: image/png
+  id: 7db677cb-4af2-44d2-8cec-5e33c0938765
   priority: 0
-  slug: 2x-house-nordic-harbo-eetkamerstoel
+  slug: 1-png-product-44
   type: product
 logo:
   channels:
