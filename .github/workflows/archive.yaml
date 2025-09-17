@@ -28,8 +28,8 @@ jobs:
         with:
           config: ${{ secrets.WIREGUARD_CONFIG }}
 
-      - run: bun index.ts --path ../archive/products
-        working-directory: ./main
+      - run: bun index.ts --path ../../archive/products
+        working-directory: ./main/archiver
         env:
           IBEX_LANGUAGE: nl
           IBEX_TENANT_ID: ${{ vars.IBEX_TENANT_ID }}

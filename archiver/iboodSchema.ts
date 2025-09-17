@@ -9,7 +9,7 @@ const Price = z.object({
   currency: z.string(),
   value: z.number(),
   cents: z.number(),
-})
+});
 
 const Image = z.object({
   id: z.union([z.number(), z.string()]),
@@ -18,7 +18,7 @@ const Image = z.object({
   extension: z.string().optional(),
   priority: z.number(),
   channels: z.array(z.string()),
-})
+});
 
 const Item = z.object({
   _id: z.string(),
