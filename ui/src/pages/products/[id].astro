@@ -1,0 +1,46 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getEntry, getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const products = await getCollection("products");
+  return products.map((product) => ({
+    params: { id: product.id },
+  }));
+}
+
+const { id } = Astro.params;
+if (id === undefined) {
+  throw new Error("No product ID provided");
+}
+
+const product = await getEntry("products", id);
+if (product === undefined) {
+  throw new Error(`Product with ID ${id} not found`);
+}
+
+const { firstAppearance, absenceRanges } = product.data;
+---
+
+<Layout>
+  <h1>{id}</h1>
+  <p>First appearance: {new Date(firstAppearance).toDateString()}</p>
+
+  {
+    absenceRanges.length > 0 ? (
+      <>
+        <h2>Absence Ranges</h2>
+        <ul>
+          {absenceRanges.map((range) => (
+            <li>
+              {new Date(range.start).toDateString()} -{" "}
+              {range.end ? new Date(range.end).toDateString() : "Present"}
+            </li>
+          ))}
+        </ul>
+      </>
+    ) : (
+      <p>No absence ranges recorded.</p>
+    )
+  }
+</Layout>
