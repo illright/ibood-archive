@@ -1,4 +1,4 @@
-_id: 68bae4feaaf599e69b550738
+_id: 68bae5039efa4a5698ed4d34
 appOnly: false
 brand: Yellow
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Yellow
 categories:
   - e1c2147a-ed8e-58c2-a1dc-9419e2b6b56e
-classicId: '2750679'
-classicProductId: '482046'
+classicId: '2750682'
+classicProductId: '482049'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 78
 end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: 8c47d301-cd7c-59f7-8423-e355e5b9fe4f
+id: 158a7b02-3192-55a5-95d0-51f969f4ac02
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: yellow-by-heckett-lane-bamboo-240-x-220-cm
   type: product
-offerId: 63374a4a-f992-568f-8319-37d53afb2d24
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1632482
+  priority: 100
+  slug: yellow-by-heckett-lane-bamboo-240-x-220-cm
+  type: logo
+offerId: 2c1a17c4-438b-50ea-a6b2-849f650a5468
 price:
   cents: 5295
   currency: EUR

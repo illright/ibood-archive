@@ -1,4 +1,4 @@
-_id: 68c7c226c3f6a593f92c60ed
+_id: 68c7c20c100894a22fb32d66
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Jack & Jones
 categories:
   - e24a89b3-5eea-5341-8c96-244c73200fbb
-classicId: '2757776'
-classicProductId: '602037'
+classicId: '2757758'
+classicProductId: '602053'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 61
+directCheckout: true
+discount: 69
 end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: bc40fa21-68fd-4282-b13e-1b32e5814434
+id: 90929b6b-eeb5-43d4-a516-7826b8e315b0
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 490a72a7-620a-4033-bd01-c08d20460795
+  extension: jpg
+  id: 2261258
   priority: 0
-  slug: jack-jones-essentials-paulos-poloshirt-heren-product-11
+  slug: jack-jones-essentials-paulos-poloshirt-heren
   type: product
 logo:
   channels:
@@ -34,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1538596
+  id: 1829631
   priority: 100
-  slug: jack-jones-essentials-paulos-poloshirt-heren
+  slug: jack-jones-logo
   type: logo
-offerId: e1b8a170-c9cb-47dc-94f5-1b288d08c027
+offerId: e9a8a53e-def4-4d70-b7c2-890f4d7cc657
 price:
-  cents: 1178
+  cents: 915
   currency: EUR
-  value: 11.78
+  value: 9.15
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: jack-jones-essentials-paulos-poloshirt-heren
-soldOut: false
+soldOut: true
 start: '2025-09-14T22:00:00.000Z'
 title: Jack & Jones Essentials Paulos Poloshirt | Heren
