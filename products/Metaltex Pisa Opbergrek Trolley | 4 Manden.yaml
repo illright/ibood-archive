@@ -1,4 +1,4 @@
-_id: 68c9321157e7953b01e8d160
+_id: 68c93211381ac5a253968a95
 appOnly: false
 brand: METALTEX
 brands:
@@ -6,32 +6,42 @@ brands:
     name: METALTEX
 categories:
   - 30b28597-06bf-570b-ba50-a3cb930ca09e
-classicId: '2760676'
-classicProductId: '604668'
+classicId: '2760675'
+classicProductId: '604667'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 33
+discount: 40
 end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: 0c7520ef-7507-4fb3-8aa2-695c93addbd5
+id: 66f05e06-7e64-4711-8b6b-64445f21a2e1
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2097408
-  priority: 100
+  id: 2102634
+  priority: 0
   slug: metaltex-pisa-opbergrek-trolley-4-manden
   type: product
-offerId: 777b02b0-6e64-4ab0-8b1e-8b9d40a766aa
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1662635
+  priority: 100
+  slug: metaltex-logo
+  type: logo
+offerId: 1928354f-25f8-469c-bfa2-e1d6d96816c6
 price:
-  cents: 2195
+  cents: 1995
   currency: EUR
-  value: 21.95
+  value: 19.95
 referencePrice:
   cents: 3299
   currency: EUR
