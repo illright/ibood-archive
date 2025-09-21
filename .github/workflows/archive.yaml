@@ -20,7 +20,7 @@ jobs:
           ref: archive
           path: archive
 
-      - uses: oven-sh/setup-bun@v2
+      - uses: oven-sh/setup-bun@735343b667d3e6f658f44d0eca948eb6282f2b76 # v2.0.2
       - run: bun install --frozen-lockfile
         working-directory: ./main
 
@@ -47,3 +47,29 @@ jobs:
           git add products
           git commit -m "$(date +'%Y-%m-%d') - $(ls -l products | wc -l) files"
           git push
+
+  deploy-ui:
+    runs-on: ubuntu-latest
+    needs: archive
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - name: Also fetch the archive branch
+        run: git fetch origin archive:archive
+
+      - uses: oven-sh/setup-bun@735343b667d3e6f658f44d0eca948eb6282f2b76 # v2.0.2
+      - run: bun install --frozen-lockfile
+
+      - name: Build the website
+        run: bun run build
+        working-directory: ./ui
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e # v4.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./ui/dist
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
