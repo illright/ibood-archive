@@ -1,4 +1,4 @@
-_id: 68caca033af918a512c1875b
+_id: 68cac9e5bf4fb9aceca662c1
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Jack & Jones
 categories:
   - 424c81a1-6c70-5e88-8a82-8eb493a2796b
-classicId: '2763277'
-classicProductId: '651343'
+classicId: '2763245'
+classicProductId: '641610'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 68
+discount: 60
 end: '2025-09-21T21:59:59.999Z'
 freeDelivery: false
-id: fd8bbcc4-6517-4bdf-b3f4-86c59e8394d7
+id: 5e852b70-2172-4e4f-912c-cbc74311889c
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 84e66430-5747-47e0-9a45-039300c20d97
+  extension: jpg
+  id: 2267313
   priority: 0
-  slug: jenj-main-png-product-1
+  slug: jack-jones-intelligence-rick-shorts-heren
   type: product
 logo:
   channels:
@@ -34,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1829631
+  id: 2267309
   priority: 100
-  slug: jack-jones-logo
+  slug: jack-jones-intelligence-rick-shorts-heren
   type: logo
-offerId: b1f48a75-a6ec-451e-9681-7b0eb98c264e
+offerId: d854b3ae-bf38-4242-b874-5c72f91aab0b
 price:
-  cents: 1595
+  cents: 1995
   currency: EUR
-  value: 15.95
+  value: 19.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: jack-jones-intelligence-rick-shorts-heren
-soldOut: false
+soldOut: true
 start: '2025-09-17T22:00:00.000Z'
 title: Jack & Jones Intelligence Rick Shorts | Heren
