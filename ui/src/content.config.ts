@@ -11,7 +11,7 @@ function productLoader({
     absenceRanges: z.array(
       z.object({
         start: z.string().date(),
-        end: z.string().date(),
+        end: z.string().date().or(z.undefined()),
       })
     ),
   });
@@ -77,9 +77,7 @@ function productLoader({
                   } else if (index === array.length - 1) {
                     ranges.push({
                       start: event,
-                      end: new Date()
-                        .toISOString()
-                        .slice(0, "yyyy-mm-dd".length),
+                      end: undefined,
                     });
                   }
                   return ranges;

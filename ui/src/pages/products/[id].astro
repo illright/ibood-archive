@@ -2,6 +2,9 @@
 import Layout from "../../layouts/Layout.astro";
 import { getEntry, getCollection } from "astro:content";
 
+const dateTimeFormat = new Intl.DateTimeFormat("nl-NL");
+const pluralRules = new Intl.PluralRules("en-US");
+
 export async function getStaticPaths() {
   const products = await getCollection("products");
   return products.map((product) => ({
@@ -21,142 +24,59 @@ if (product === undefined) {
 
 const { firstAppearance, absenceRanges } = product.data;
 
-// Calculate timeline data for visualization
-const firstDate = new Date(firstAppearance);
-const today = new Date();
+const inStock =
+  absenceRanges.at(-1)?.end === undefined ||
+  absenceRanges.at(-1)?.end !== new Date().toISOString().split("T")[0];
 
-// Create timeline segments
 const timelineSegments = [];
-
-// Start with present (since firstAppearance)
-let segmentStart = new Date(firstDate);
-
-for (const range of absenceRanges) {
-  const absenceStart = new Date(range.start);
-  const absenceEnd = new Date(range.end);
-
-  // Add present segment before this absence
-  if (segmentStart < absenceStart) {
+let cursor = firstAppearance;
+for (const absence of absenceRanges) {
+  timelineSegments.push({
+    start: new Date(cursor),
+    end: yesterday(absence.start),
+    status: "present",
+  });
+  if (absence.end) {
     timelineSegments.push({
-      start: segmentStart,
-      end: absenceStart,
-      isPresent: true,
+      start: new Date(absence.start),
+      end: yesterday(absence.end),
+      status: "absent",
     });
-  }
-
-  // Add absence segment
-  timelineSegments.push({
-    start: absenceStart,
-    end: absenceEnd,
-    isPresent: false,
-  });
-
-  segmentStart = absenceEnd;
-}
-
-// Add final present segment if needed
-if (segmentStart < today) {
-  timelineSegments.push({
-    start: segmentStart,
-    end: today,
-    isPresent: true,
-  });
-}
-
-// Calculate average availability period length
-const availabilityPeriods = timelineSegments.filter((s) => s.isPresent);
-const totalAvailabilityDays = availabilityPeriods.reduce((acc, period) => {
-  return (
-    acc +
-    Math.ceil(
-      (period.end.getTime() - period.start.getTime()) / (1000 * 60 * 60 * 24)
-    )
-  );
-}, 0);
-const averageAvailabilityDays =
-  availabilityPeriods.length > 0
-    ? Math.round(totalAvailabilityDays / availabilityPeriods.length)
-    : 0;
-
-// Function to format duration in a human-readable way
-function formatDuration(days: number): string {
-  if (days < 30) {
-    return `${days} days`;
-  } else if (days < 365) {
-    const months = Math.round(days / 30.44);
-    return `${months} month${months !== 1 ? "s" : ""}`;
+    cursor = absence.end;
   } else {
-    const years = Math.floor(days / 365);
-    const remainingMonths = Math.round((days % 365) / 30.44);
-    if (remainingMonths === 0) {
-      return `${years} year${years !== 1 ? "s" : ""}`;
-    }
-    return `${years}y ${remainingMonths}m`;
+    timelineSegments.push({
+      start: new Date(absence.start),
+      end: new Date(),
+      status: "absent",
+    });
+    break;
   }
 }
+if (inStock) {
+  timelineSegments.push({
+    start: new Date(cursor),
+    end: new Date(),
+    status: "present",
+  });
+}
 
-// Detect recurring unavailability patterns
+function yesterday(dateStr: string) {
+  const date = new Date(dateStr);
+  date.setDate(date.getDate() - 1);
+  return date;
+}
+
+function countDays(range: { start: Date; end: Date; status: string }) {
+  const endInclusive = new Date(range.end);
+  endInclusive.setDate(endInclusive.getDate() + 1);
+  return Math.ceil(
+    (endInclusive.getTime() - range.start.getTime()) / (1000 * 60 * 60 * 24)
+  );
+}
+
 function detectRecurringPattern(
-  absenceRanges: Array<{ start: string; end: string }>
+  absenceRanges: Array<{ start: string; end?: string | undefined }>
 ) {
-  if (absenceRanges.length < 2) return null;
-
-  // Check for seasonal patterns (roughly same time each year)
-  const absenceDurations = absenceRanges.map(
-    (range: { start: string; end: string }) => {
-      const start = new Date(range.start);
-      const end = new Date(range.end);
-      return {
-        dayOfYear: Math.floor(
-          (start.getTime() - new Date(start.getFullYear(), 0, 0).getTime()) /
-            (1000 * 60 * 60 * 24)
-        ),
-        duration: Math.ceil(
-          (end.getTime() - start.getTime()) / (1000 * 60 * 60 * 24)
-        ),
-        month: start.getMonth(),
-      };
-    }
-  );
-
-  // Check if absences tend to happen in the same month(s)
-  const monthCounts: Record<number, number> = {};
-  absenceDurations.forEach(
-    (absence: { dayOfYear: number; duration: number; month: number }) => {
-      monthCounts[absence.month] = (monthCounts[absence.month] || 0) + 1;
-    }
-  );
-
-  const mostCommonMonth = Object.entries(monthCounts).sort(
-    ([, a], [, b]) => (b as number) - (a as number)
-  )[0];
-
-  if (
-    mostCommonMonth &&
-    (mostCommonMonth[1] as number) >= Math.ceil(absenceRanges.length * 0.6)
-  ) {
-    const monthNames = [
-      "January",
-      "February",
-      "March",
-      "April",
-      "May",
-      "June",
-      "July",
-      "August",
-      "September",
-      "October",
-      "November",
-      "December",
-    ];
-    return {
-      type: "seasonal",
-      month: monthNames[parseInt(mostCommonMonth[0])],
-      frequency: mostCommonMonth[1] as number,
-      total: absenceRanges.length,
-    };
-  }
-
   // Check for regular intervals between absences
   if (absenceRanges.length >= 3) {
     const intervals = [];
@@ -193,434 +113,104 @@ function detectRecurringPattern(
 const recurringPattern = detectRecurringPattern(absenceRanges);
 ---
 
+<script>
+  import "@weblogin/trendchart-elements";
+</script>
+
 <Layout>
-  <div class="container">
-    <h1>{id}</h1>
-    <p>First appearance: {new Date(firstAppearance).toLocaleDateString('nl-NL')}</p>
+  <main>
+    <wa-breadcrumb>
+      <wa-breadcrumb-item href="/">
+        <wa-icon slot="start" name="house"></wa-icon>
+        Home
+      </wa-breadcrumb-item>
+      <wa-breadcrumb-item>{id}</wa-breadcrumb-item>
+    </wa-breadcrumb>
 
-    <h2>Product Availability Timeline</h2>
-    <div class="timeline-container">
-      <div class="timeline-header">
-        <span class="timeline-start"
-          >{new Date(firstAppearance).toLocaleDateString('nl-NL')}</span
+    <hgroup>
+      <h1>{id}</h1>
+      {
+        inStock ? (
+          <wa-tag variant="success">In stock!</wa-tag>
+        ) : (
+          <wa-tag variant="danger">Out of stock</wa-tag>
+        )
+      }
+      <!-- if in stock, <HowMuchTimeLeft /> until out of stock again -->
+    </hgroup>
+
+    <wa-card>
+      <h2 slot="header">
+        <wa-icon name="boxes-stacked" variant="solid"></wa-icon>
+        Availability
+      </h2>
+      <div class="wa-split">
+        <date datetime={firstAppearance}
+          >{dateTimeFormat.format(new Date(firstAppearance))}</date
         >
-        <span class="timeline-end">{new Date().toLocaleDateString('nl-NL')}</span>
+        <date datetime={new Date(timelineSegments.at(-1)?.end || new Date())}
+          >{
+            dateTimeFormat.format(
+              new Date(timelineSegments.at(-1)?.end || new Date())
+            )
+          }</date
+        >
       </div>
-      <div class="timeline">
+      <tc-stack
+        class="chart"
+        horizontal
+        values={JSON.stringify(timelineSegments.map(countDays))}
+        labels={JSON.stringify(
+          timelineSegments.map((r) =>
+            r.status === "present"
+              ? `In stock: ${dateTimeFormat.formatRange(new Date(r.start), new Date(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
+              : `Out of stock: ${dateTimeFormat.formatRange(new Date(r.start), new Date(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
+          )
+        )}
+        tooltip-format="@L"
+        radius="20"
+        gap="3"
+        style={`width: 100%; ${timelineSegments.map((_, i) => `--shape-color-${i + 1}: var(${i % 2 === 0 ? "--wa-color-green-50" : "--wa-color-red-50"});`).join(" ")}`}
+      ></tc-stack>
+
+      <p slot="footer">
         {
-          timelineSegments.map((segment) => {
-            const segmentDuration =
-              segment.end.getTime() - segment.start.getTime();
-            const totalDuration =
-              new Date().getTime() - new Date(firstAppearance).getTime();
-            const widthPercentage = (segmentDuration / totalDuration) * 100;
-
-            return (
-              <div
-                class={`timeline-segment ${segment.isPresent ? "present" : "absent"}`}
-                style={`width: ${widthPercentage}%`}
-                title={`${segment.isPresent ? "Present" : "Absent"}: ${segment.start.toLocaleDateString("nl-NL")} — ${segment.end.toLocaleDateString("nl-NL")}`}
-              ></div>
-            );
-          })
+          recurringPattern ? (
+            <span>
+              This product tends to appear in stock every
+              <strong> {recurringPattern.averageInterval} days</strong> on
+              average
+            </span>
+          ) : (
+            <span>
+              This product has been out of stock
+              <strong>
+                {absenceRanges.length}{" "}
+                {
+                  { one: "time", other: "times" }[
+                    pluralRules.select(absenceRanges.length) as "one" | "other"
+                  ]
+                }
+              </strong>{" "}
+              since it first appeared.
+            </span>
+          )
         }
-      </div>
-      <div class="timeline-legend">
-        <div class="legend-item">
-          <div class="legend-color present"></div>
-          <span>Product Available</span>
-        </div>
-        <div class="legend-item">
-          <div class="legend-color absent"></div>
-          <span>Product Unavailable</span>
-        </div>
-      </div>
-    </div>
+      </p>
+    </wa-card>
+  </main>
 
-    {
-      absenceRanges.length > 0 ? (
-        <>
-          <h2>Detailed Absence Periods</h2>
-          <ul class="absence-list">
-            {absenceRanges.map((range) => {
-              const startDate = new Date(range.start);
-              const endDate = new Date(range.end);
-              const duration = Math.ceil(
-                (endDate.getTime() - startDate.getTime()) /
-                  (1000 * 60 * 60 * 24)
-              );
-
-              return (
-                <li>
-                  <strong>{startDate.toLocaleDateString("nl-NL")}</strong> to{" "}
-                  <strong>{endDate.toLocaleDateString("nl-NL")}</strong>
-                  <span class="duration">({duration} days)</span>
-                </li>
-              );
-            })}
-          </ul>
-        </>
-      ) : (
-        <div class="no-absences">
-          <h2>🎉 Perfect Availability!</h2>
-          <p>
-            This product has been continuously available since its first
-            appearance.
-          </p>
-        </div>
-      )
-    }
-
-    <div class="stats">
-      <h2>Availability Statistics</h2>
-      <div class="stats-grid">
-        <div class="stat-item">
-          <div class="stat-value">
-            {formatDuration(averageAvailabilityDays)}
-          </div>
-          <div class="stat-label">Average Availability Period</div>
-        </div>
-        <div class="stat-item">
-          <div class="stat-value">{absenceRanges.length}</div>
-          <div class="stat-label">Total Absence Periods</div>
-        </div>
-        <div class="stat-item">
-          <div class="stat-value">
-            {
-              Math.round(
-                (timelineSegments
-                  .filter((s) => s.isPresent)
-                  .reduce(
-                    (acc, s) => acc + (s.end.getTime() - s.start.getTime()),
-                    0
-                  ) /
-                  (new Date().getTime() -
-                    new Date(firstAppearance).getTime())) *
-                  100
-              )
-            }%
-          </div>
-          <div class="stat-label">Overall Uptime</div>
-        </div>
-      </div>
-
-      {
-        recurringPattern && (
-          <div class="pattern-analysis">
-            <h3>🔍 Pattern Analysis</h3>
-            {recurringPattern.type === "seasonal" ? (
-              <div class="pattern-card seasonal">
-                <div class="pattern-icon">📅</div>
-                <div class="pattern-content">
-                  <h4>Seasonal Pattern Detected</h4>
-                  <p>
-                    This product tends to become unavailable in{" "}
-                    <strong>{recurringPattern.month}</strong>.
-                    <br />
-                    <span class="pattern-stats">
-                      {recurringPattern.frequency} out of{" "}
-                      {recurringPattern.total} absences occurred in this month
-                    </span>
-                  </p>
-                </div>
-              </div>
-            ) : recurringPattern.type === "regular" ? (
-              <div class="pattern-card regular">
-                <div class="pattern-icon">⏰</div>
-                <div class="pattern-content">
-                  <h4>Regular Interval Pattern</h4>
-                  <p>
-                    Product becomes unavailable approximately every{" "}
-                    <strong>
-                      {formatDuration(recurringPattern.averageInterval || 0)}
-                    </strong>
-                    .
-                    <br />
-                    <span class="pattern-stats">
-                      Pattern consistency: {recurringPattern.consistency}%
-                    </span>
-                  </p>
-                </div>
-              </div>
-            ) : null}
-          </div>
-        )
-      }
-
-      {
-        !recurringPattern && absenceRanges.length > 0 && (
-          <div class="pattern-analysis">
-            <h3>🔍 Pattern Analysis</h3>
-            <div class="pattern-card irregular">
-              <div class="pattern-icon">🎲</div>
-              <div class="pattern-content">
-                <h4>No Clear Pattern</h4>
-                <p>
-                  Product availability appears to be irregular with no
-                  detectable recurring pattern.
-                </p>
-              </div>
-            </div>
-          </div>
-        )
-      }
-    </div>
-  </div>
+  <!-- <PriceGraph /> -->
 </Layout>
 
 <style>
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
-      sans-serif;
-  }
-
-  h1 {
-    color: #2c3e50;
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 0.5rem;
-    margin-bottom: 1rem;
-  }
-
-  h2 {
-    color: #34495e;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-  }
-
-  .timeline-container {
-    background: #f8f9fa;
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin: 1rem 0;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  .timeline-header {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 0.5rem;
-    font-size: 0.9rem;
-    color: #666;
-    font-weight: 500;
-  }
-
-  .timeline {
-    display: flex;
-    height: 40px;
-    border-radius: 20px;
-    overflow: hidden;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 1rem;
-  }
-
-  .timeline-segment {
-    transition: all 0.3s ease;
-    cursor: pointer;
-    position: relative;
-  }
-
-  .timeline-segment:hover {
-    filter: brightness(1.1);
-    transform: scaleY(1.1);
-  }
-
-  .timeline-segment.present {
-    background: linear-gradient(135deg, #27ae60, #2ecc71);
-  }
-
-  .timeline-segment.absent {
-    background: linear-gradient(135deg, #e74c3c, #c0392b);
-  }
-
-  .timeline-legend {
-    display: flex;
-    gap: 1.5rem;
-    justify-content: center;
-    margin-top: 1rem;
-  }
-
-  .legend-item {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 0.9rem;
-  }
-
-  .legend-color {
-    width: 16px;
-    height: 16px;
-    border-radius: 3px;
-  }
-
-  .legend-color.present {
-    background: linear-gradient(135deg, #27ae60, #2ecc71);
-  }
-
-  .legend-color.absent {
-    background: linear-gradient(135deg, #e74c3c, #c0392b);
-  }
-
-  .absence-list {
-    list-style: none;
-    padding: 0;
-  }
-
-  .absence-list li {
-    background: #fff;
-    border-left: 4px solid #e74c3c;
-    margin: 0.5rem 0;
-    padding: 1rem;
-    border-radius: 0 4px 4px 0;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  .duration {
-    color: #666;
-    font-size: 0.9rem;
-    margin-left: 0.5rem;
-  }
-
-  .no-absences {
-    background: linear-gradient(135deg, #2ecc71, #27ae60);
-    color: white;
-    padding: 2rem;
-    border-radius: 8px;
-    text-align: center;
-    margin: 1rem 0;
-  }
-
-  .no-absences h2 {
-    color: white;
-    margin-top: 0;
-  }
-
-  .stats {
-    margin-top: 2rem;
-  }
-
-  .stats-grid {
+  main {
+    margin-block-start: var(--wa-space-2xl);
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
-    margin-top: 1rem;
+    gap: var(--wa-space-3xl);
   }
 
-  .stat-item {
-    background: white;
-    border-radius: 8px;
-    padding: 1.5rem;
-    text-align: center;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    border-top: 4px solid #3498db;
-  }
-
-  .stat-value {
-    font-size: 2rem;
-    font-weight: bold;
-    color: #2c3e50;
-    margin-bottom: 0.5rem;
-  }
-
-  .stat-label {
-    color: #666;
-    font-size: 0.9rem;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-  }
-
-  .pattern-analysis {
-    margin-top: 2rem;
-    padding: 1.5rem;
-    background: #f8f9fa;
-    border-radius: 8px;
-  }
-
-  .pattern-analysis h3 {
-    margin: 0 0 1rem 0;
-    color: #2c3e50;
-    font-size: 1.2rem;
-  }
-
-  .pattern-card {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    padding: 1.5rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  .pattern-card.seasonal {
-    background: linear-gradient(135deg, #3498db, #2980b9);
-    color: white;
-  }
-
-  .pattern-card.regular {
-    background: linear-gradient(135deg, #9b59b6, #8e44ad);
-    color: white;
-  }
-
-  .pattern-card.irregular {
-    background: linear-gradient(135deg, #95a5a6, #7f8c8d);
-    color: white;
-  }
-
-  .pattern-icon {
-    font-size: 2rem;
-    flex-shrink: 0;
-  }
-
-  .pattern-content h4 {
-    margin: 0 0 0.5rem 0;
-    font-size: 1.1rem;
-    font-weight: 600;
-  }
-
-  .pattern-content p {
-    margin: 0;
-    line-height: 1.5;
-  }
-
-  .pattern-stats {
-    font-size: 0.9rem;
-    opacity: 0.9;
-    font-style: italic;
-  }
-
-  @media (max-width: 768px) {
-    .container {
-      padding: 1rem;
-    }
-
-    .timeline-header {
-      font-size: 0.8rem;
-    }
-
-    .timeline {
-      height: 30px;
-    }
-
-    .timeline-legend {
-      flex-direction: column;
-      align-items: center;
-      gap: 0.5rem;
-    }
-
-    .stats-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .pattern-card {
-      flex-direction: column;
-      text-align: center;
-      gap: 0.5rem;
-    }
-
-    .pattern-icon {
-      font-size: 1.5rem;
-    }
+  wa-card h2 {
+    margin-block: var(--wa-space-s);
   }
 </style>

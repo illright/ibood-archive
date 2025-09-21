@@ -1,22 +1,52 @@
 <!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
-	</body>
+<html lang="en" class="wa-theme-awesome wa-palette-bright wa-brand-blue">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
+    <meta name="generator" content={Astro.generator} />
+    <title>iBOOD Archive</title>
+    <link
+      rel="stylesheet"
+      href="https://early.webawesome.com/webawesome@3.0.0-beta.6/dist/styles/webawesome.css"
+    />
+    <script
+      type="module"
+      src="https://early.webawesome.com/webawesome@3.0.0-beta.6/dist/webawesome.loader.js"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://early.webawesome.com/webawesome@3.0.0-beta.6/dist/styles/themes/awesome.css"
+    />
+  </head>
+  <body>
+    <slot />
+  </body>
 </html>
 
 <style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
+  html,
+  body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--wa-color-surface-default);
+  }
+
+  body {
+    margin-inline: 8px;
+  }
+
+  @media (width >= 31.25rem /* 500px */) {
+    body {
+      max-width: 90%;
+      margin-inline: auto;
+    }
+  }
+
+  @media (width >= 75rem /* 1200px */) {
+    body {
+      max-width: 900px;
+    }
+  }
 </style>
