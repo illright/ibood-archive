@@ -1,31 +1,32 @@
-_id: 68c7c2600f878c7023bf1b70
+_id: 68c412790b3c3e96791e72ab
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - e24a89b3-5eea-5341-8c96-244c73200fbb
-classicId: '2757845'
-classicProductId: '596304'
+  - d5b11b08-a99a-56c8-a04f-cf6bdb6ecbcb
+classicId: '2756864'
+classicProductId: '287507'
 deliveryPrice:
-  cents: 395
+  cents: 595
   currency: EUR
-  value: 3.95
-directCheckout: true
-discount: 74
-end: '2025-09-21T21:59:59.999Z'
+  value: 5.95
+directCheckout: false
+discount: 68
+end: '2025-09-22T21:59:59.999Z'
 freeDelivery: false
-id: 7c216e63-8d38-4a4e-b37f-277ce76f7f56
+id: 7b74f310-7998-51d9-90ab-9c2f6fa0c715
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1937999
+    - all
+  extension: image/png
+  id: 85816c54-9595-4659-b264-94b21073bf97
   priority: 0
-  slug: 12-paar-bamboo-sneakersokken-unisex
+  slug: sokken-01-png-product-1
   type: product
 logo:
   channels:
@@ -34,20 +35,20 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: e050be77-f736-4239-85c1-77f0e927fa7f
-  priority: 101
-  slug: bamboo-elements-logo-101
+  id: 53fa0d81-c238-4117-9dac-5328729576a2
+  priority: 0
+  slug: bamboo-elements-png-logo-0
   type: logo
-offerId: 38c15f7c-04cb-4e93-98c6-f1069d805e20
+offerId: e6f4275e-cb90-5142-b948-e0afe0cbad4f
 price:
-  cents: 1309
+  cents: 1895
   currency: EUR
-  value: 13.09
+  value: 18.95
 referencePrice:
-  cents: 4995
+  cents: 5995
   currency: EUR
-  value: 49.95
+  value: 59.95
 slug: 12-paar-bamboo-sneakersokken-unisex
-soldOut: true
-start: '2025-09-14T22:00:00.000Z'
+soldOut: false
+start: '2025-09-17T22:00:00.000Z'
 title: 12 Paar Bamboo Sneakersokken | Unisex
