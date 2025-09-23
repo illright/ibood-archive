@@ -1,12 +1,12 @@
-_id: 68c135970e523f832b1cb4ad
+_id: 68c279746e9cb643b6ad7ced
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2754170'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755925'
 classicProductId: '639393'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: dadd7649-0c5c-56ae-a2eb-2616f05dc20d
+id: 0d939a56-6c50-5f4b-9d46-5ea38e5734e8
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-cd8401-01-aurora-dames
   type: product
-offerId: a554d6ec-0ace-50e8-8330-657f0c57cbe2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2260913
+  priority: 100
+  slug: christophe-duchamp-cd8401-01-aurora-dames
+  type: logo
+offerId: d13ca1b3-de4a-5e65-b6f7-353c30aee114
 price:
   cents: 22995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 899
 slug: christophe-duchamp-cd8401-01-aurora-dames
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp CD8401-01 Aurora Horloge | Dames

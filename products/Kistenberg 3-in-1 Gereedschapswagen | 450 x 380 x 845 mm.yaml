@@ -1,22 +1,22 @@
-_id: 68ada0957922e7c92ff2942c
+_id: 68d118db0e9fcce82e9c4f70
 appOnly: false
 brand: Kistenberg
 brands:
   - id: e772bec0-7966-55ae-b050-85edf33a532d
     name: Kistenberg
 categories:
-  - 1dc8f340-2d6d-5e44-a884-d88a0da32d10
-classicId: '2740168'
+  - e0c85792-bb8f-57d7-8fe3-a5e7328cf246
+classicId: '2766062'
 classicProductId: '660916'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 60
-end: '2025-09-22T21:59:59.000Z'
+discount: 63
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: e8891abf-683f-5227-abf4-9784ab21d162
+id: 52e5606a-ae51-4f22-918a-db051d049cdb
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: c-block-cool-grey-4c-alu-log-mobile-toolbox-set-kxcas454085-product-0
   type: product
-offerId: 3850a5ff-472b-5280-a2ef-1277de60ebbe
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d2ef5073-9bae-4fae-8834-e21c8fc2b38f
+  priority: 0
+  slug: kistenberg-logo-0
+  type: logo
+offerId: b32fd258-fce5-468c-b0e0-97794e0b7260
 price:
-  cents: 8995
+  cents: 8495
   currency: EUR
-  value: 89.95
+  value: 84.95
 referencePrice:
   cents: 22699
   currency: EUR
   value: 226.99
 slug: c-block-cool-grey-4c-alu-log-mobile-toolbox-set-kxcas454085
 soldOut: false
-start: '2025-09-15T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Kistenberg 3-in-1 Gereedschapswagen | 450 x 380 x 845 mm

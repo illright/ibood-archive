@@ -1,22 +1,22 @@
-_id: 68627a32beefe67b48652a96
+_id: 68d1140251f6da6ef3dfc696
 appOnly: false
 brand: Brilliant
 brands:
   - id: 63d315dc-2444-51bb-b1c7-9333a1f6d8c3
     name: Brilliant
 categories:
-  - eb52135c-a8f9-5792-aaa1-f4fc855e580a
-classicId: '2673637'
+  - e0c85792-bb8f-57d7-8fe3-a5e7328cf246
+classicId: '2765101'
 classicProductId: '651430'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 48
-end: '2025-09-22T21:59:59.999Z'
+discount: 50
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: e57d54ee-ca1a-5a75-be84-fcf8c8580cd0
+id: 42e77582-db84-47c5-b59e-a6a5b398fd89
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: sorell-led-24w-3200lm-cct-dim-rc-product-2
   type: product
-offerId: a71b83df-0f02-529f-8360-2ca165efddd1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1614591
+  priority: 100
+  slug: brilliant-logo
+  type: logo
+offerId: 07a2a469-bbc5-4880-8984-ad50a4e71f6e
 price:
-  cents: 2495
+  cents: 2395
   currency: EUR
-  value: 24.95
+  value: 23.95
 referencePrice:
   cents: 4799
   currency: EUR
   value: 47.99
 slug: sorell-led-24w-3200lm-cct-dim-rc
 soldOut: false
-start: '2025-09-14T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Brilliant Sorell LED Plafondpaneel | 24 W | 42x42 cm

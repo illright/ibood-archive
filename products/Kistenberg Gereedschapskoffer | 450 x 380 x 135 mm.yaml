@@ -1,22 +1,22 @@
-_id: 68ada095a5012b79f1db478c
+_id: 68d1199751f6da6ef3dfc91a
 appOnly: false
 brand: Kistenberg
 brands:
   - id: e772bec0-7966-55ae-b050-85edf33a532d
     name: Kistenberg
 categories:
-  - 1dc8f340-2d6d-5e44-a884-d88a0da32d10
-classicId: '2740169'
+  - e0c85792-bb8f-57d7-8fe3-a5e7328cf246
+classicId: '2766065'
 classicProductId: '660919'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 43
-end: '2025-09-22T21:59:59.000Z'
+discount: 57
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 37bbb6fc-a001-5c12-b670-3a002d4e0f88
+id: 7b8d31bb-1048-42ab-8554-720a71702072
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: c-block-cool-grey-4c-pro-tool-case-15-foam-kxc454015p-product-0
   type: product
-offerId: fe98933e-c493-5d9c-a4b2-d6c12c0a1d4a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d2ef5073-9bae-4fae-8834-e21c8fc2b38f
+  priority: 0
+  slug: kistenberg-logo-0
+  type: logo
+offerId: dcbeffa7-430a-472b-a774-64054c8f5f3a
 price:
-  cents: 1995
+  cents: 1495
   currency: EUR
-  value: 19.95
+  value: 14.95
 referencePrice:
   cents: 3499
   currency: EUR
   value: 34.99
 slug: productvoorbeeld
 soldOut: false
-start: '2025-09-15T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Kistenberg Gereedschapskoffer | 450 x 380 x 135 mm

@@ -1,12 +1,12 @@
-_id: 68c135a30e523f832b1cb4bd
+_id: 68c27980006bc430fa694738
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2754183'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755946'
 classicProductId: '576320'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: e4782ebc-40f6-54db-af11-83f0e3593088
+id: 7b04ac75-55e5-5879-bf3b-47510db05a77
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-raidillon-s-ii-horloge-heren
   type: product
-offerId: 50b578bd-84e4-5129-a4cb-85f0d9cee3b3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973046
+  priority: 100
+  slug: christophe-duchamp-raidillon-s-ii-horloge-heren
+  type: logo
+offerId: 825160d7-15ef-5a80-91fc-13f40eeefb0a
 price:
   cents: 27995
   currency: EUR
@@ -37,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 1099
 slug: christophe-duchamp-raidillon-s-ii-horloge-heren
-soldOut: true
-start: '2025-09-17T22:00:00.000Z'
+soldOut: false
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp Raidillon Skeleton II Automatisch Horloge | Heren | CD8501-06

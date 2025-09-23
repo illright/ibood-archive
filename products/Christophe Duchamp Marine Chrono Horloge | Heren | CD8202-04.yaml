@@ -1,12 +1,12 @@
-_id: 68c1358b146904f7a2df94a8
+_id: 68c279616e9cb643b6ad7cd9
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2754152'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755883'
 classicProductId: '648055'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 76
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 715aacb2-1e95-5f28-b5ef-9d918c48b36f
+id: a8fd0c8e-60a5-5279-b4b4-e891b5f74ebc
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-marine-chrono-horloge-heren
   type: product
-offerId: 22d1797b-d923-5ecd-9bb6-38fadba49e91
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2288412
+  priority: 100
+  slug: christophe-duchamp-marine-chrono-horloge-heren
+  type: logo
+offerId: db90b7b6-24fd-5a37-a5e0-06c685089698
 price:
   cents: 23995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 999
 slug: christophe-duchamp-marine-chrono-horloge-heren
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp Marine Chrono Horloge | Heren | CD8202-04

@@ -1,12 +1,12 @@
-_id: 68c1350d0e523f832b1cb389
+_id: 68c278ea006bc430fa69468b
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2753994'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755635'
 classicProductId: '309331'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 78
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: d065bba0-dec9-5ebe-ae22-5959ad3d7f50
+id: 57dd5391-c97f-5bf5-acca-0a459ed4ade1
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-grand-mont-horloge-heren
   type: product
-offerId: f74bfb77-66f3-5b32-849b-4cc11dc37657
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1564301
+  priority: 100
+  slug: christophe-duchamp-grand-mont-horloge-heren
+  type: logo
+offerId: 683c62af-8f68-5e26-a607-d90f64fb6713
 price:
   cents: 19995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 899
 slug: christophe-duchamp-grand-mont-horloge-heren
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp Grand Mont Horloge | Heren | CD7101-7

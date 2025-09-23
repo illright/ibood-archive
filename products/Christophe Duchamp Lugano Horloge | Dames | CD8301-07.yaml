@@ -1,12 +1,12 @@
-_id: 68c135970e523f832b1cb4a8
+_id: 68c27971006bc430fa694727
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2754169'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755916'
 classicProductId: '488969'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: f27e1dad-9468-57c2-b43d-16e85542623e
+id: 3f692286-b5f3-5d8a-bef8-667712aa1217
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-lugano-horloge-dames
   type: product
-offerId: 73f90a73-3b10-5bd6-b13f-1eb3881c19cd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1648069
+  priority: 100
+  slug: christophe-duchamp-lugano-horloge-dames
+  type: logo
+offerId: 1d11627e-aff3-5a8f-bfac-3d2e4a97a79a
 price:
   cents: 22995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 999
 slug: christophe-duchamp-lugano-horloge-dames
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp Lugano Horloge | Dames | CD8301-07

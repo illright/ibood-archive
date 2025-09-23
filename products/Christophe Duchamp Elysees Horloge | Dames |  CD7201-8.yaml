@@ -1,12 +1,12 @@
-_id: 68c1352c146904f7a2df9452
+_id: 68c27911006bc430fa6946b2
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2754015'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755703'
 classicProductId: '309342'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 79
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: f4bc0d1b-592a-55b7-bf25-ef8dcd201378
+id: 3d6c95dd-d704-5829-a124-fee4aec380fa
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-elysees-horloge-dames
   type: product
-offerId: 91acf9d2-cf91-5d3e-9d3c-6dd8909d5e46
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1564322
+  priority: 100
+  slug: christophe-duchamp-elysees-horloge-dames
+  type: logo
+offerId: fb00c8c3-2349-5808-b44f-c609cfed9062
 price:
   cents: 16995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 799
 slug: christophe-duchamp-elysees-horloge-dames
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp Elysees Horloge | Dames |  CD7201-8

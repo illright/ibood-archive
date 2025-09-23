@@ -1,12 +1,12 @@
-_id: 68c135630e523f832b1cb458
+_id: 68c27938006bc430fa6946e2
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2754094'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755792'
 classicProductId: '358830'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 78
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 717a4b6f-5221-5849-8b51-aa06451f365b
+id: 3fe451ac-58d3-5104-9af3-f407c31847f5
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-lenvie-horloge-dames
   type: product
-offerId: 8e0ccfcc-9fb7-529e-9111-052d792777f8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1564023
+  priority: 100
+  slug: christophe-duchamp-lenvie-horloge-dames
+  type: logo
+offerId: 0bf90757-203f-51ee-af43-b14992cb878e
 price:
   cents: 19995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 899
 slug: christophe-duchamp-lenvie-horloge-dames
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp L’envie Horloge | Dames | CD7801-12

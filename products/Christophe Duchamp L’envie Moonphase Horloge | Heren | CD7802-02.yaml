@@ -1,12 +1,12 @@
-_id: 68c1356c0e523f832b1cb46d
+_id: 68c27940006bc430fa6946e8
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2754102'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755804'
 classicProductId: '465633'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: d8300658-ec33-50a7-89c9-32c5d82ddbf3
+id: fa9b0d2b-2068-5105-8058-6af9750513b0
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-lenvie-moonphase-horloge
   type: product
-offerId: 00ba374e-0e93-5e2a-a335-7dabbf92109b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1563639
+  priority: 100
+  slug: christophe-duchamp-lenvie-moonphase-horloge
+  type: logo
+offerId: d8aaa960-f67c-5637-9edb-cf34d7a69266
 price:
   cents: 27995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 999
 slug: christophe-duchamp-lenvie-moonphase-horloge
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: "Christophe Duchamp L’envie Moonphase Horloge |\_Heren | CD7802-02"

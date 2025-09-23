@@ -1,12 +1,12 @@
-_id: 68c13502146904f7a2df9422
+_id: 68c278dc6e9cb643b6ad7c2a
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2753985'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755615'
 classicProductId: '587063'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: f75ef4e8-504c-5b5b-9e14-02df2243a891
+id: 84271ca7-cf8a-5ba3-bce2-cf8f29bc064d
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: christophe-duchamp-opbergdoos-voor-6-horloges
   type: product
-offerId: d97af7d4-2e4a-5532-b109-ab8d8b79aeae
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2021637
+  priority: 100
+  slug: christophe-duchamp-opbergdoos-voor-6-horloges
+  type: logo
+offerId: e83287ed-15ed-57e3-a369-2761b85ce26a
 price:
   cents: 12995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 475
 slug: christophe-duchamp-opbergdoos-voor-6-horloges
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp Opbergdoos voor 6 Horloges

@@ -1,12 +1,12 @@
-_id: 68c1351b0e523f832b1cb3a2
+_id: 68c279006e9cb643b6ad7c57
 appOnly: false
 brand: Christophe Duchamp
 brands:
   - id: ceda912c-ee66-5abf-b246-4c6234ff9723
     name: Christophe Duchamp
 categories:
-  - e05abacf-1fc3-5631-95d6-7bfb9f22f82d
-classicId: '2754003'
+  - 542eef0d-375e-5b38-ab95-57425a2d68ab
+classicId: '2755660'
 classicProductId: '596606'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 76
-end: '2025-09-22T21:59:59.999Z'
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 9ad610f5-e05c-5a34-8a6f-42bb5700a974
+id: da66ee48-533c-53ea-a839-925f0c132746
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: christophe-duchamp-grand-mont-ceramic-horloge
   type: product
-offerId: 7a47dfa7-95a2-5ee5-a841-0d2e2cc4423f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2064886
+  priority: 100
+  slug: christophe-duchamp-grand-mont-ceramic-horloge
+  type: logo
+offerId: 22e0a7e5-3aab-5259-b270-ec375b319c3c
 price:
   cents: 32995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 1399
 slug: christophe-duchamp-grand-mont-ceramic-horloge
 soldOut: false
-start: '2025-09-17T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Christophe Duchamp Grand Mont Ceramic Horloge | Heren | CD7102-06

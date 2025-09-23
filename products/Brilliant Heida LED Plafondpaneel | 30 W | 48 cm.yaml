@@ -1,22 +1,22 @@
-_id: 68627a325d0353130855a81f
+_id: 68d1140151f6da6ef3dfc68f
 appOnly: false
 brand: Brilliant
 brands:
   - id: 63d315dc-2444-51bb-b1c7-9333a1f6d8c3
     name: Brilliant
 categories:
-  - eb52135c-a8f9-5792-aaa1-f4fc855e580a
-classicId: '2673639'
+  - e0c85792-bb8f-57d7-8fe3-a5e7328cf246
+classicId: '2765099'
 classicProductId: '651427'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 67
-end: '2025-09-22T21:59:59.999Z'
+discount: 68
+end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 9d408ec4-f0df-5cd8-acb9-78ba8073adf2
+id: 8b72c96a-9510-4132-88f2-464f904a9b08
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: heida-led-30w-3000lm-icrgb-cct-dim-rc-product-8
   type: product
-offerId: 08c47088-5413-5a6b-8cb4-bba384575846
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1614591
+  priority: 100
+  slug: brilliant-logo
+  type: logo
+offerId: 68abc4df-7d2d-4fcd-8a0d-9af91c2f24ae
 price:
-  cents: 3495
+  cents: 3395
   currency: EUR
-  value: 34.95
+  value: 33.95
 referencePrice:
   cents: 10499
   currency: EUR
   value: 104.99
 slug: brilliant-heida-led-30w-3000lm-icrgb-cct-dim-rc
 soldOut: false
-start: '2025-09-14T22:00:00.000Z'
+start: '2025-09-22T22:00:00.000Z'
 title: Brilliant Heida LED Plafondpaneel | 30 W | 48 cm
