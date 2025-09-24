@@ -54,6 +54,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Prevent path quotations
+        run: git config --global core.quotepath false
+
       - uses: actions/checkout@v5
       - name: Also fetch the archive branch
         run: git fetch origin archive:archive
@@ -64,8 +67,6 @@ jobs:
       - name: Build the website
         run: bunx --bun astro build
         working-directory: ./ui
-        env:
-          LC_ALL: C.UTF-8
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e # v4.0.0
