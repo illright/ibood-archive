@@ -3,8 +3,14 @@ name: Deploy UI manually
 on:
   workflow_dispatch:
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
-  deploy-ui:
+  build-ui:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,12 +22,24 @@ jobs:
       - name: Also fetch the archive branch
         run: git fetch origin archive:archive
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - uses: oven-sh/setup-bun@735343b667d3e6f658f44d0eca948eb6282f2b76 # v2.0.2
       - run: bun install --frozen-lockfile
 
       - name: Build the website
-        run: bunx --bun astro build
+        run: |
+          bunx --bun astro build \
+            --site "${{ steps.pages.outputs.origin }}" \
+            --base "${{ steps.pages.outputs.base_path }}"
         working-directory: ./ui
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./ui/dist
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e # v4.0.0
@@ -31,3 +49,15 @@ jobs:
           force_orphan: true
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build-ui
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
