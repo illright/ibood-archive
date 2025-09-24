@@ -17,7 +17,7 @@ if (id === undefined) {
   throw new Error("No product ID provided");
 }
 
-const product = await getEntry("products", id);
+const product = await getEntry("products", id.replace("%23", "#"));
 if (product === undefined) {
   throw new Error(`Product with ID ${id} not found`);
 }
