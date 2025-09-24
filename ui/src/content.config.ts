@@ -1,6 +1,5 @@
 import type { Loader } from "astro/loaders";
 import { defineCollection, z } from "astro:content";
-import { x } from "tinyexec";
 
 function productLoader({
   branch = "archive",
@@ -20,12 +19,7 @@ function productLoader({
     name: "product-loader",
     schema,
     load: async ({ store, parseData }) => {
-      const { stdout: allProductsEverStdout } = await x(
-        "git",
-        ["log", branch, "--pretty=format:", "--name-only", "--diff-filter=A"],
-        { nodeOptions: { cwd: ".." } }
-      );
-
+      const allProductsEverStdout = await Bun.$`git log ${branch} --pretty=format: --name-only --diff-filter=A`.cwd('..').text()
       const allProductsEver = [...new Set(allProductsEverStdout.split("\n"))]
         .filter((line) => line.length > 0)
         .map((line) => {
@@ -49,19 +43,7 @@ function productLoader({
 
         await Promise.all(
           batch.map(async (productPath) => {
-            const { stdout: addedRemovedEventsStdout } = await x(
-              "git",
-              [
-                "log",
-                "--oneline",
-                "--diff-filter=AD",
-                branch,
-                "--",
-                productPath,
-              ],
-              { nodeOptions: { cwd: ".." } }
-            );
-
+            const addedRemovedEventsStdout = await Bun.$`git log --oneline --diff-filter=AD ${branch} -- ${productPath}`.cwd('..').text()
             const addedRemovedEvents = addedRemovedEventsStdout
               .trim()
               .split("\n")
