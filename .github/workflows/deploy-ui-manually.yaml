@@ -16,6 +16,10 @@ jobs:
       - uses: oven-sh/setup-bun@735343b667d3e6f658f44d0eca948eb6282f2b76 # v2.0.2
       - run: bun install --frozen-lockfile
 
+      - name: Print all products that ever existed
+        run: |
+          git log archive --pretty=format: --name-only --diff-filter=A
+
       - name: Build the website
         run: bunx --bun astro build
         working-directory: ./ui
