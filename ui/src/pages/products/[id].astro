@@ -120,7 +120,7 @@ const recurringPattern = detectRecurringPattern(absenceRanges);
 <Layout>
   <main>
     <wa-breadcrumb>
-      <wa-breadcrumb-item href="/">
+      <wa-breadcrumb-item href={import.meta.env.BASE_URL}>
         <wa-icon slot="start" name="house"></wa-icon>
         Home
       </wa-breadcrumb-item>

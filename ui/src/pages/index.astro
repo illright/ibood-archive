@@ -32,7 +32,9 @@ function partition<T>(array: T[], predicate: (item: T) => boolean): [T[], T[]] {
       {
         inStockProducts.map((product) => (
           <li>
-            <a href={`/products/${product.id}`}>{product.id}</a>
+            <a href={`${import.meta.env.BASE_URL}/products/${product.id}`}>
+              {product.id}
+            </a>
           </li>
         ))
       }
@@ -43,7 +45,9 @@ function partition<T>(array: T[], predicate: (item: T) => boolean): [T[], T[]] {
       {
         outOfStockProducts.map((product) => (
           <li>
-            <a href={`/products/${product.id}`}>{product.id}</a>
+            <a href={`${import.meta.env.BASE_URL}/products/${product.id}`}>
+              {product.id}
+            </a>
           </li>
         ))
       }
@@ -64,7 +68,7 @@ function partition<T>(array: T[], predicate: (item: T) => boolean): [T[], T[]] {
     position: sticky;
     top: 0;
     background: var(--wa-color-surface-default);
-		padding-block-end: var(--wa-space-xs);
-		margin-block-end: 0;
+    padding-block-end: var(--wa-space-xs);
+    margin-block-end: 0;
   }
 </style>
