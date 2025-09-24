@@ -33,20 +33,20 @@ let cursor = firstAppearance;
 for (const absence of absenceRanges) {
   timelineSegments.push({
     start: new Date(cursor),
-    end: yesterday(absence.start),
+    end: new Date(absence.start),
     status: "present",
   });
   if (absence.end) {
     timelineSegments.push({
       start: new Date(absence.start),
-      end: yesterday(absence.end),
+      end: new Date(absence.end),
       status: "absent",
     });
     cursor = absence.end;
   } else {
     timelineSegments.push({
       start: new Date(absence.start),
-      end: new Date(),
+      end: tomorrow(new Date()),
       status: "absent",
     });
     break;
@@ -55,22 +55,26 @@ for (const absence of absenceRanges) {
 if (inStock) {
   timelineSegments.push({
     start: new Date(cursor),
-    end: new Date(),
+    end: tomorrow(new Date()),
     status: "present",
   });
 }
 
-function yesterday(dateStr: string) {
-  const date = new Date(dateStr);
-  date.setDate(date.getDate() - 1);
-  return date;
+function yesterday(date: string | Date) {
+  const dateCopy = new Date(date);
+  dateCopy.setDate(dateCopy.getDate() - 1);
+  return dateCopy;
+}
+
+function tomorrow(date: string | Date) {
+  const dateCopy = new Date(date);
+  dateCopy.setDate(dateCopy.getDate() + 1);
+  return dateCopy;
 }
 
 function countDays(range: { start: Date; end: Date; status: string }) {
-  const endInclusive = new Date(range.end);
-  endInclusive.setDate(endInclusive.getDate() + 1);
-  return Math.ceil(
-    (endInclusive.getTime() - range.start.getTime()) / (1000 * 60 * 60 * 24)
+  return Math.floor(
+    (range.end.getTime() - range.start.getTime()) / (1000 * 60 * 60 * 24)
   );
 }
 
@@ -148,10 +152,13 @@ const recurringPattern = detectRecurringPattern(absenceRanges);
         <date datetime={firstAppearance}
           >{dateTimeFormat.format(new Date(firstAppearance))}</date
         >
-        <date datetime={new Date(timelineSegments.at(-1)?.end || new Date())}
+        <date
+          datetime={yesterday(
+            timelineSegments.at(-1)?.end ?? new Date()
+          ).toISOString()}
           >{
             dateTimeFormat.format(
-              new Date(timelineSegments.at(-1)?.end || new Date())
+              yesterday(timelineSegments.at(-1)?.end ?? new Date())
             )
           }</date
         >
@@ -163,8 +170,8 @@ const recurringPattern = detectRecurringPattern(absenceRanges);
         labels={JSON.stringify(
           timelineSegments.map((r) =>
             r.status === "present"
-              ? `In stock: ${dateTimeFormat.formatRange(new Date(r.start), new Date(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
-              : `Out of stock: ${dateTimeFormat.formatRange(new Date(r.start), new Date(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
+              ? `In stock: ${dateTimeFormat.formatRange(r.start, yesterday(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
+              : `Out of stock: ${dateTimeFormat.formatRange(r.start, yesterday(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
           )
         )}
         tooltip-format="@L"
