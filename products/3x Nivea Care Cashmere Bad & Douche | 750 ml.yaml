@@ -30,13 +30,14 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1964089
-  priority: 100
-  slug: nivea-logo
+    - all
+  extension: image/png
+  id: 5b6162e0-2d4d-4888-9723-047c3fb35152
+  priority: 0
+  slug: nivea-png-logo-0
   type: logo
 offerId: 9077c1a8-8fd1-4935-85dd-a956a87a3976
 price:

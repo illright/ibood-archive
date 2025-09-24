@@ -1,4 +1,4 @@
-_id: 68c141d62dcb3756f56936e3
+_id: 68c141d2c8aa2a405563a602
 appOnly: false
 brand: Larson
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Larson
 categories:
   - e3d065c9-cda3-5b1a-b968-74317bebd7bc
-classicId: '2754654'
-classicProductId: '404271'
+classicId: '2754649'
+classicProductId: '404266'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,28 +16,18 @@ directCheckout: true
 discount: 90
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 641d8dc7-9057-5f53-8879-48645f33e54c
+id: b0c3f739-925c-5383-90e2-33d9489720c8
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 1858776
-  priority: 100
+  id: 1858748
+  priority: 0
   slug: larson-velvet-gordijn-ring-140-x-250
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1864952
-  priority: 100
-  slug: larson-velvet-gordijn-ring-140-x-250
-  type: logo
-offerId: 756541d3-8e3f-5a9a-874d-0fa61cf4a18a
+offerId: e18faaaf-6b61-5b60-8937-2d0fa612d1a6
 price:
   cents: 995
   currency: EUR
@@ -47,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 99.95
 slug: larson-velvet-gordijn-ring-140-x-250
-soldOut: false
+soldOut: true
 start: '2025-09-22T22:00:00.000Z'
 title: Larson Velvet Gordijn | Ringbevestiging | 140 x 250 cm

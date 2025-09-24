@@ -1,4 +1,4 @@
-_id: 68d1004be857134857c877bd
+_id: 68d1004251f6da6ef3dfc4d2
 appOnly: false
 brand: METALTEX
 brands:
@@ -6,8 +6,8 @@ brands:
     name: METALTEX
 categories:
   - 9e59b791-9f5c-5271-a93a-526dc8a78615
-classicId: '2764471'
-classicProductId: '604677'
+classicId: '2764463'
+classicProductId: '604674'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,14 +16,14 @@ directCheckout: true
 discount: 33
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: d8af319f-3ff9-4954-8f8e-9d3753c82468
+id: a40398b6-4eb9-4e17-8b0b-e28fd442069b
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2097435
+  id: 2097429
   priority: 0
   slug: metaltex-organizer-badkamer
   type: product
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2102736
+  id: 1662635
   priority: 100
-  slug: metaltex-organizer-badkamer
+  slug: metaltex-logo
   type: logo
-offerId: a7a12248-07b8-4ff5-886f-da1c722ae0af
+offerId: 33607d92-faa9-4db5-933a-e44415fc55b3
 price:
   cents: 1995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 29.99
 slug: metaltex-organizer-badkamer
-soldOut: false
+soldOut: true
 start: '2025-09-22T22:00:00.000Z'
 title: Metaltex Organizer Badkamer

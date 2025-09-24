@@ -1,4 +1,4 @@
-_id: 68d13bc719f66c3003b0fde0
+_id: 68d13ba24844ba947ede9cc4
 appOnly: false
 brand: Björn Borg
 brands:
@@ -6,29 +6,39 @@ brands:
     name: Björn Borg
 categories:
   - c086d7e2-5259-577c-ad9e-3d280cdaa03b
-classicId: '2766371'
-classicProductId: '660831'
+classicId: '2766324'
+classicProductId: '660818'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 42
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 68efba83-0f27-445d-b012-904127d31b18
+id: e62e06a5-320e-414b-b88d-25df959884a5
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 6975ece8-cd0d-45c2-857d-7deb7c6c420b
+  extension: image/jpeg
+  id: e6c7d3e5-a18e-4096-8ac5-a8ed22e5a8e9
   priority: 0
-  slug: 1-png-product-0
+  slug: m-multipack-1-9999-1398-90011-m-90011-cotton-stretch-boxer-12p-bjorn-borg-product-3
   type: product
-offerId: 59b05b4a-908a-4dd4-af4f-ea370fb42180
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2030715
+  priority: 100
+  slug: bjorn-borg-logo
+  type: logo
+offerId: ba3270bf-5402-42d5-9717-15f4a302f2ab
 price:
   cents: 7495
   currency: EUR
@@ -37,7 +47,7 @@ referencePrice:
   cents: 12995
   currency: EUR
   value: 129.95
-slug: 12x-bjorn-borg-katoen-stretch-boxershort
+slug: 12x-bjorn-borg-boxershort
 soldOut: false
 start: '2025-09-22T22:00:00.000Z'
 title: ' 12x Björn Borg Boxershort | Stretchkatoen'

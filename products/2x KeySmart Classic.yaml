@@ -1,4 +1,4 @@
-_id: 68d13cf79883b43890a04bb2
+_id: 68d252d1e49a4e6fec329b01
 appOnly: false
 brand: KeySmart
 brands:
@@ -6,8 +6,8 @@ brands:
     name: KeySmart
 categories:
   - 3d300b32-93ff-58f3-9011-9e462e184eeb
-classicId: '2766868'
-classicProductId: '640512'
+classicId: '2769173'
+classicProductId: '640519'
 deliveryPrice:
   cents: 395
   currency: EUR
@@ -16,19 +16,28 @@ directCheckout: false
 discount: 76
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: e50c0a78-ed3a-4dfd-8318-185d614fdcee
+id: 7cf04941-627e-48c5-aedf-ec3bd84eae43
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 73524a75-5361-411f-9cba-9b687bf9ed70
+  extension: jpg
+  id: 2256763
   priority: 0
-  slug: sk01-png-product-4
+  slug: 2x-keysmart-classic
   type: product
-offerId: de0eed2b-f705-4488-b370-15e7fc1ae1ca
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2260574
+  priority: 100
+  slug: 2x-keysmart-classic
+  type: logo
+offerId: 7b820a2c-0420-437b-a17c-96a26ea2562b
 price:
   cents: 995
   currency: EUR

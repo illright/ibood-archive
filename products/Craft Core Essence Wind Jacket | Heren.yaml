@@ -1,22 +1,22 @@
-_id: 68bab18ed7d07669528a9f3e
+_id: 68d13cc819cd63f684a3a725
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - 1c5e74be-1355-50d0-a823-585096aa2f8d
-classicId: '2750597'
-classicProductId: '618233'
+  - 3d300b32-93ff-58f3-9011-9e462e184eeb
+classicId: '2766773'
+classicProductId: '618237'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 43
+discount: 57
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 2bc9e9f2-1d3d-51b6-9803-e6d0572f8b25
+id: d62e0df1-4220-4c56-9530-e66530f15aec
 image:
   channels:
     - website
@@ -27,11 +27,21 @@ image:
   priority: 0
   slug: craft-core-essence-windbreaker-herren
   type: product
-offerId: 6aed23ec-5949-54d6-a921-6fd14a4b2f56
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1667968
+  priority: 100
+  slug: craft-logo
+  type: logo
+offerId: 4dff430c-32d4-4018-87d2-361f56bf940d
 price:
-  cents: 3995
+  cents: 2995
   currency: EUR
-  value: 39.95
+  value: 29.95
 referencePrice:
   cents: 6995
   currency: EUR

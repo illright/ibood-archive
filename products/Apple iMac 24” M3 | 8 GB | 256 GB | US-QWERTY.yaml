@@ -1,4 +1,4 @@
-_id: 68d13f4ca432bb6b27d15973
+_id: 68d13ed7099fdc3f4b505729
 appOnly: false
 brand: Apple
 brands:
@@ -6,44 +6,33 @@ brands:
     name: Apple
 categories:
   - c120b0fe-5308-504d-8720-708158cc651d
-classicId: '2767763'
-classicProductId: '652817'
+classicId: '2767760'
+classicProductId: '652818'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 46
+discount: 51
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 251008ad-0612-5500-b446-493c4a7ebaea
+id: a2d02589-ca34-56c5-88a8-d2e6e07a2a79
 image:
   channels:
+    - app
+    - website
     - newsletter
     - all
-    - website
-    - app
   extension: image/jpeg
-  id: 326a0a0d-11f0-4f06-8bcc-3e117e493882
+  id: 42e7c924-546e-45d0-88fb-214365fd7971
   priority: 0
-  slug: apple-imac-24-inch-m3-8c-10c-8gb-256gb-us-qwerty-blue-product-3
+  slug: 0202-jpg-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: c9b58163-d018-47fd-9a86-19f47c0f5eab
-  priority: 0
-  slug: apple-png-logo-0
-  type: logo
-offerId: 8093764b-5c98-54c7-b67d-20ad3b503d37
+offerId: 80a2545c-2d2d-5223-8f60-d8bd86f15eb3
 price:
-  cents: 99900
+  cents: 89900
   currency: EUR
-  value: 999
+  value: 899
 referencePrice:
   cents: 184900
   currency: EUR

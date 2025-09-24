@@ -1,4 +1,4 @@
-_id: 68d151d830048c979f3a9bab
+_id: 68d151c3528a64731711e41c
 appOnly: false
 brand: McGregor
 brands:
@@ -6,44 +6,42 @@ brands:
     name: McGregor
 categories:
   - 83f58c86-9a06-5064-ba2a-23954656b56f
-classicId: '2768399'
-classicProductId: '622447'
+classicId: '2768393'
+classicProductId: '537856'
 deliveryPrice:
-  cents: 595
+  cents: 395
   currency: EUR
-  value: 5.95
+  value: 3.95
 directCheckout: false
-discount: 70
+discount: 75
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 8998cb19-9e14-4f00-a74d-7170f2386b77
+id: cc32b1fd-ca11-4267-ae68-6b7ac23b5144
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 01da0943-9bf7-481b-a0ee-c880e42b0891
+  extension: png
+  id: 1766105
   priority: 0
-  slug: mcgregor-classic-poloshirt-product-0
+  slug: mcgregor-classic-poloshirt
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: cd5824f3-31f0-4dc2-ad5f-627940882134
-  priority: 0
-  slug: mcgregor-classic-poloshirt-logo-0
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-classic-poloshirt
   type: logo
-offerId: e8fab109-89a7-482a-97bc-538db48e3b10
+offerId: 1f10d4f4-7164-4ac5-9c30-67e342ef4103
 price:
-  cents: 2395
+  cents: 1995
   currency: EUR
-  value: 23.95
+  value: 19.95
 referencePrice:
   cents: 7995
   currency: EUR

@@ -1,4 +1,4 @@
-_id: 68d152ecb4fbf3058406efc0
+_id: 68d1526bb4fbf3058406efb7
 appOnly: false
 brand: Boston Brothers
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Boston Brothers
 categories:
   - 83f58c86-9a06-5064-ba2a-23954656b56f
-classicId: '2768497'
-classicProductId: '662768'
+classicId: '2768456'
+classicProductId: '662774'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 76054651-10cd-4d3a-bebc-a742ee559412
+id: 0528def4-099b-4110-9d18-037fe4ae367a
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 316ca4c0-261c-45f7-966d-5d18acb22023
+  id: 97799869-c8bc-4853-9dca-0d7239612897
   priority: 0
-  slug: m-navy-bbo35f512-0000-2004-full-zip-cardigan-boston-brothers-product-0
+  slug: 3xl-sand-bbo35f512-0000-1062-full-zip-cardigan-boston-brothers-product-0
   type: product
-offerId: 6f07adf7-61ae-4383-9baf-637363fc158e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
+  type: logo
+offerId: 0d111ae7-8992-4bc0-9b0c-88e47416f260
 price:
   cents: 4995
   currency: EUR

@@ -23,11 +23,22 @@ image:
     - website
     - newsletter
     - all
-  extension: image/png
-  id: fa2ef987-2c26-4136-a1ee-634529c053a1
+  extension: image/jpeg
+  id: 03d4498e-404f-4800-ae9d-25b7ecd69e48
   priority: 0
-  slug: eufy-4-png-product-1
+  slug: main-jpg-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 26385c2c-a3c5-4692-98f1-0fe2a1258af4
+  priority: 0
+  slug: eufy-by-anker-png-logo-0
+  type: logo
 offerId: abf0961c-4d29-5c95-b57f-6ea474308a30
 price:
   cents: 32900
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 549.99
 slug: 4x-eufy-cam-solo-e30-met-zonnepaneel-en-homebase-2
-soldOut: false
+soldOut: true
 start: '2025-09-22T22:00:00.000Z'
 title: 4x Eufy Cam Solo E30 | Zonnepaneel + HomeBase 2
