@@ -1,4 +1,4 @@
-_id: 68c98137db7cada8ee58f3b4
+_id: 68c97e5fb09c161eee7e1e57
 appOnly: false
 brand: Kayori
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Kayori
 categories:
   - df417192-0bf5-5501-91a7-11caea2addbd
-classicId: '2761414'
-classicProductId: '664817'
+classicId: '2761398'
+classicProductId: '573612'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,30 +16,18 @@ directCheckout: true
 discount: 54
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 5e689e5e-a37c-5491-8a22-79676992f088
+id: 5ed3ec7f-8e9d-5d9b-bb5f-8a06d9a94f8f
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/jpeg
-  id: 037d1d81-ffa7-4752-aef3-a1ac95d3d707
-  priority: 0
-  slug: kay010491-kayori-showa-hsl-flanel-90x210-220-antracite-product-0
+  extension: jpg
+  id: 1959210
+  priority: 100
+  slug: kayori-showa-hoeslaken-90-x-210220-cm
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 4e5fc094-b31c-4348-9523-b09112b54f0a
-  priority: 0
-  slug: kayori-png-logo-0
-  type: logo
-offerId: 0e91ea2e-9a4e-5ae6-a41a-1344f5aa7a09
+offerId: 0f220b78-5766-58fd-86fe-e84dc0d8a3ea
 price:
   cents: 1995
   currency: EUR
@@ -48,7 +36,7 @@ referencePrice:
   cents: 4295
   currency: EUR
   value: 42.95
-slug: kayori-showa-hoeslaken-90-x-210-220-cm
-soldOut: false
+slug: kayori-showa-hoeslaken-90-x-210220-cm
+soldOut: true
 start: '2025-09-22T22:00:00.000Z'
 title: Kayori Showa Hoeslaken | 90 x 210/220 cm

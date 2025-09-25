@@ -1,4 +1,4 @@
-_id: 68d13cf019cd63f684a3a730
+_id: 68d252dc50cc9d8814876cde
 appOnly: false
 brand: AGU
 brands:
@@ -6,17 +6,17 @@ brands:
     name: AGU
 categories:
   - 3d300b32-93ff-58f3-9011-9e462e184eeb
-classicId: '2766855'
-classicProductId: '627429'
+classicId: '2769180'
+classicProductId: '627432'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 56
+discount: 60
 end: '2025-09-25T21:59:59.999Z'
 freeDelivery: false
-id: 0aa16b14-938e-42a4-931f-554ebe4038c1
+id: 52f8c528-3da2-47df-9853-1b310a938729
 image:
   channels:
     - website
@@ -24,8 +24,8 @@ image:
     - newsletter
   extension: png
   id: 2199473
-  priority: 0
-  slug: agu-trail-helm-unisex
+  priority: 100
+  slug: agu-trail-mtb-fietshelm
   type: product
 logo:
   channels:
@@ -33,15 +33,15 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2199474
+  id: 1930636
   priority: 100
-  slug: agu-trail-helm-unisex
+  slug: agu-logo
   type: logo
-offerId: d3511c12-77c9-42ac-9ccb-3b567160678c
+offerId: 1f8ebd4e-9d4e-42ac-ab36-73c3352e9c48
 price:
-  cents: 3995
+  cents: 3595
   currency: EUR
-  value: 39.95
+  value: 35.95
 referencePrice:
   cents: 9000
   currency: EUR

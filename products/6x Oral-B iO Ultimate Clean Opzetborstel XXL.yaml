@@ -1,4 +1,4 @@
-_id: 68d1883d57136389bab94b51
+_id: 68d1883f9584906a05fa0c74
 appOnly: false
 brand: Oral-B
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Oral-B
 categories:
   - 91eefe5d-9b85-533b-b7db-baa2bdc81183
-classicId: '2769011'
-classicProductId: '660846'
+classicId: '2769012'
+classicProductId: '660847'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,19 +16,19 @@ directCheckout: true
 discount: 65
 end: '2025-10-02T21:59:59.999Z'
 freeDelivery: false
-id: 74fbccc5-05c4-5b71-961f-00965390e2f0
+id: 3dfab652-e3c2-5dca-b4c9-d782193bcdc8
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 881d98a2-2bd8-4f92-8900-9db34cb12bf6
+  extension: image/avif
+  id: ba85f1cc-8b78-4267-89e1-5675df3b35c6
   priority: 0
-  slug: oral-b-io-ultimate-clean-white-6ct-xxl-product-0
+  slug: oral-b-io-ultimate-clean-black-6ct-xxl-product-1
   type: product
-offerId: 84afde4f-1e60-5268-a9ef-5643d5f2238e
+offerId: 98cdace5-51a0-586f-91be-b1be9c3319ea
 price:
   cents: 2495
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 70.99
 slug: 6x-oral-b-io-ultimate-clean-opzetborstelxxl
-soldOut: false
+soldOut: true
 start: '2025-09-22T22:00:00.000Z'
 title: 6x Oral-B iO Ultimate Clean Opzetborstel XXL
