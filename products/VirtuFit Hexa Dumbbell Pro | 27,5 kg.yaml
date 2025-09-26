@@ -1,12 +1,12 @@
-_id: 68cab6f83af918a512c18410
+_id: 68cabe503af918a512c18477
 appOnly: false
 brand: Virtufit
 brands:
   - id: ec5b8d91-051a-5ffc-a578-2eee4cae9488
     name: Virtufit
 categories:
-  - 1c5e74be-1355-50d0-a823-585096aa2f8d
-classicId: '2762892'
+  - a06c10d5-182f-5cfe-80d7-cedfc20c5fb5
+classicId: '2762959'
 classicProductId: '665133'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 27
-end: '2025-09-25T21:59:59.999Z'
+end: '2025-09-29T21:59:59.999Z'
 freeDelivery: false
-id: 5a251b60-7273-537e-9d27-7fdb0b54ee26
+id: 2aadc16c-f6ea-5eab-af5f-6f987fe0351d
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 737ab554-1b81-491d-b026-ce9b27bbaafd
+    - app
+    - website
+  extension: image/png
+  id: 737ab554-1b81-491d-b026-ce9b27bbaafd-tr
   priority: 0
   slug: virtufit-hexa-dumbbell-pro-27-5-kg-per-stuk-vf02008-27-5-product-0
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: virtufit-png-logo-0
   type: logo
-offerId: d09b3a96-175c-5ea9-8bbb-de6f051a0988
+offerId: dfc8a2a6-820f-5aba-ad21-c081147e656f
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 109.9
 slug: virtufit-hexa-dumbbell-pro-27-5-kg
 soldOut: false
-start: '2025-09-22T22:00:00.000Z'
+start: '2025-09-25T22:00:00.000Z'
 title: VirtuFit Hexa Dumbbell Pro | 27,5 kg

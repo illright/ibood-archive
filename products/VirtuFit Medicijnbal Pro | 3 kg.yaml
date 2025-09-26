@@ -1,12 +1,12 @@
-_id: 68cab7503af918a512c18428
+_id: 68cabe7d3af918a512c184d0
 appOnly: false
 brand: Virtufit
 brands:
   - id: ec5b8d91-051a-5ffc-a578-2eee4cae9488
     name: Virtufit
 categories:
-  - 1c5e74be-1355-50d0-a823-585096aa2f8d
-classicId: '2762898'
+  - a06c10d5-182f-5cfe-80d7-cedfc20c5fb5
+classicId: '2762988'
 classicProductId: '665137'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2025-09-25T21:59:59.999Z'
+end: '2025-09-29T21:59:59.999Z'
 freeDelivery: false
-id: 39f88125-8a9e-5a9b-b267-24e0d9b7f048
+id: c19cd48c-fd3a-5491-8b0b-5c073a645fde
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 1c90f61f-cdeb-475e-990f-5c4a8a1b6da1
+    - app
+    - website
+  extension: image/png
+  id: 1c90f61f-cdeb-475e-990f-5c4a8a1b6da1-tr
   priority: 0
   slug: virtufit-medicijnbal-pro-medicine-ball-3-kg-rubber-zwart-vf02025-product-1
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: virtufit-png-logo-0
   type: logo
-offerId: 765f1fcb-0865-5b88-a117-c6107978a74a
+offerId: e91f644a-7363-5acb-9af3-95373c828b57
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 36.91
 slug: virtufit-medicijnbal-pro-medicine-ball-3-kg-rubber-zwart
 soldOut: false
-start: '2025-09-22T22:00:00.000Z'
+start: '2025-09-25T22:00:00.000Z'
 title: VirtuFit Medicijnbal Pro | 3 kg

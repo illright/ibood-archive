@@ -1,12 +1,12 @@
-_id: 68caabd1febad9309c80641a
+_id: 68cac250bf4fb9aceca661ad
 appOnly: false
 brand: Virtufit
 brands:
   - id: ec5b8d91-051a-5ffc-a578-2eee4cae9488
     name: Virtufit
 categories:
-  - 3d300b32-93ff-58f3-9011-9e462e184eeb
-classicId: '2762811'
+  - a06c10d5-182f-5cfe-80d7-cedfc20c5fb5
+classicId: '2763020'
 classicProductId: '565129'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 30
-end: '2025-09-25T21:59:59.999Z'
+end: '2025-09-29T21:59:59.999Z'
 freeDelivery: false
-id: af3f29a6-dc8f-5f69-a1ec-bb823e8234d8
+id: ef37ea0a-ee96-503c-bfee-42fd33cf1669
 image:
   channels:
     - website
@@ -24,10 +24,20 @@ image:
     - newsletter
   extension: jpg
   id: 1914946
-  priority: 0
-  slug: virtufit-campingstuhl-mit-fustutze
+  priority: 11
+  slug: virtufit-opvouwbare-camping-stoel-met-voetsteun
   type: product
-offerId: 1b0b0e7f-f1b9-5ac0-8de7-10f07b8931a6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1919460
+  priority: 100
+  slug: virtufit-opvouwbare-camping-stoel-met-voetsteun
+  type: logo
+offerId: 84c9c7d7-0f91-5fca-9e67-415508cec8a8
 price:
   cents: 2795
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 39.9
 slug: virtufit-opvouwbare-camping-stoel-met-voetsteun
 soldOut: false
-start: '2025-09-22T22:00:00.000Z'
+start: '2025-09-25T22:00:00.000Z'
 title: VirtuFit Opvouwbare Camping Stoel met Voetsteun
