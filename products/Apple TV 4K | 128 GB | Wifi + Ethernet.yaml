@@ -1,0 +1,53 @@
+_id: 68d65321b1a228312bb34ad6
+appOnly: false
+brand: Apple
+brands:
+  - id: fdd49684-29ac-59d6-adef-6536bdeecf47
+    name: Apple
+categories:
+  - 0f8b3561-ba26-52f7-8d5d-e753a54dbe7f
+classicId: '2774363'
+classicProductId: '647776'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 16
+end: '2025-10-01T21:59:59.999Z'
+freeDelivery: false
+id: 60606ef0-2f91-4237-adc5-a308e1c47c2d
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7528b8b6-ebc3-4673-b21a-afa5ace76d5b
+  priority: 0
+  slug: aptv-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: b0aa75da-89ef-4ba4-b68c-7e6d31bada75
+price:
+  cents: 15900
+  currency: EUR
+  value: 159
+referencePrice:
+  cents: 18900
+  currency: EUR
+  value: 189
+slug: apple-tv-4k-128-gb-wifi-ethernet
+soldOut: true
+start: '2025-09-25T22:00:00.000Z'
+title: Apple TV 4K | 128 GB | Wifi + Ethernet
