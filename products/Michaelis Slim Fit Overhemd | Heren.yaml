@@ -1,4 +1,4 @@
-_id: 68d669156573ca0867beda81
+_id: 68d667c95758f55bac018407
 appOnly: false
 brand: Michaelis
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Michaelis
 categories:
   - 3a74ff26-4018-5500-a43f-2cfa5b2a74db
-classicId: '2775054'
-classicProductId: '650093'
+classicId: '2774874'
+classicProductId: '633615'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 57
 end: '2025-09-29T21:59:59.000Z'
 freeDelivery: false
-id: 0ef09759-2e7a-4f04-b5f8-ba4cc30ea8d7
+id: d6e31dd4-c77d-4f89-a848-3374ca78ce54
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5c72c510-d488-45c2-9c5a-e5c826b78a7e
+  id: 07dbdc1e-7be7-4a1c-8d32-af1aed6c1157
   priority: 0
-  slug: main-png-product-3
+  slug: riu6c3e-png-product-0
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1685056
-  priority: 100
-  slug: michaelis-logo
+    - all
+  extension: image/png
+  id: 7b618680-426f-46fb-bbf6-e7d37fced036
+  priority: 0
+  slug: rvt2o0t-png-logo-0
   type: logo
-offerId: 7e3518e5-caea-49e8-a399-fa893989be86
+offerId: 380e1acf-ead3-4c4e-b59d-5aea20537b32
 price:
   cents: 2995
   currency: EUR

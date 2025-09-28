@@ -1,4 +1,4 @@
-_id: 68d67a29b1a228312bb34f17
+_id: 68d6485c1eb2e333faf29cb6
 appOnly: false
 brand: Samsonite
 brands:
@@ -6,38 +6,40 @@ brands:
     name: Samsonite
 categories:
   - a76ae151-795b-53a5-9328-22ff971cd5c9
-classicId: '2775118'
-classicProductId: '618898'
+classicId: '2772596'
+classicProductId: '649152'
 deliveryPrice:
-  cents: 895
+  cents: 595
   currency: EUR
-  value: 8.95
-directCheckout: false
+  value: 5.95
+directCheckout: true
 discount: 54
 end: '2025-09-29T21:59:59.999Z'
 freeDelivery: false
-id: d8170de4-1560-4fbb-8963-fef85ecc0724
+id: 1421f295-d653-4096-ac5a-e2b195d849d6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2162059
+    - all
+  extension: image/jpeg
+  id: 0c09dc01-4f87-4cb7-977f-3d3e1c617cd7
   priority: 0
-  slug: samsonite-expandable-flux-spinner-55-cm
+  slug: ocean-blue-spinner-55-20-exp-885371621-flux-samsonite-product-3
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1744610
-  priority: 100
-  slug: samsonite-logo
+    - all
+  extension: image/png
+  id: fc4e9f6b-ec18-4d59-ac85-e9fc1bca9a4c
+  priority: 0
+  slug: samsonite-png-logo-0
   type: logo
-offerId: bfecbc71-a460-4737-b6d3-4fafbeba396b
+offerId: 28280170-5f53-497c-aa23-7feb5d64218e
 price:
   cents: 10500
   currency: EUR
@@ -47,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 229
 slug: samsonite-expandable-flux-spinner-55-cm
-soldOut: false
+soldOut: true
 start: '2025-09-25T22:00:00.000Z'
 title: Samsonite Expandable Flux Spinner | 55 cm
