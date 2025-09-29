@@ -1,4 +1,4 @@
-_id: 68d64defb1a228312bb344ed
+_id: 68d64dc04bed0a112e14687e
 appOnly: false
 brand: Lucide
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Lucide
 categories:
   - 75a3d9f3-7dee-5fd5-87d1-c485cab32213
-classicId: '2773344'
-classicProductId: '574897'
+classicId: '2773285'
+classicProductId: '574898'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,28 @@ directCheckout: true
 discount: 72
 end: '2025-10-05T21:59:59.999Z'
 freeDelivery: false
-id: f1ad267a-f26b-4967-897b-21dfb83eb25e
+id: 88070d4c-036e-4166-be1d-17de9176e905
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 1976759
+  id: 1976762
   priority: 0
   slug: lucide-sensas-deckenstrahler-2xgu10
   type: product
-offerId: ef828603-9f94-4c49-ad62-ee0f006cc8cb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
+  type: logo
+offerId: 977cc87e-6ad2-4a24-a7ac-5a22390b941b
 price:
   cents: 2495
   currency: EUR
