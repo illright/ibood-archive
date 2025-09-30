@@ -1,4 +1,4 @@
-_id: 68d648f2bfa59edda90fb1b9
+_id: 68d6363900b6510c56ccca2d
 appOnly: false
 brand: Björn
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Björn
 categories:
   - 6970b615-729f-55cf-bd11-f4c4f1fe79f2
-classicId: '2772713'
-classicProductId: '443624'
+classicId: '2770958'
+classicProductId: '443623'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,16 +16,15 @@ directCheckout: true
 discount: 68
 end: '2025-10-07T21:59:59.999Z'
 freeDelivery: false
-id: 468849f0-bf9a-46cc-b635-84b55865d4f2
+id: 99f6bfab-48da-4cbc-9acb-442b9fff1c79
 image:
   channels:
-    - website
     - app
-    - newsletter
+    - website
   extension: jpg
-  id: 1686897
-  priority: 1
-  slug: bjorn-geschirrset-48-teilig
+  id: 1576478
+  priority: 0
+  slug: bjorn-the-full-service-48-delige-serviesset-stone
   type: product
 logo:
   channels:
@@ -37,7 +36,7 @@ logo:
   priority: 100
   slug: bjorn-logo
   type: logo
-offerId: de292ea6-dfd5-46ef-a1a2-08c51f23d98d
+offerId: b6434d83-3c47-46d9-a61f-d8192ea022aa
 price:
   cents: 19900
   currency: EUR
@@ -47,6 +46,6 @@ referencePrice:
   currency: EUR
   value: 619.9
 slug: bjorn-the-full-service-48-delige-serviesset-stone
-soldOut: false
+soldOut: true
 start: '2025-09-25T22:00:00.000Z'
 title: Björn The Full Service Serviesset Stone | 48-delig
