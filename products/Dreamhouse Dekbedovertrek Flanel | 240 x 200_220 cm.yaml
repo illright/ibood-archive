@@ -1,4 +1,4 @@
-_id: 68d3d8903776e45302ced9db
+_id: 68d3d886707108c72fb04662
 appOnly: false
 brand: Dreamhouse
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Dreamhouse
 categories:
   - 64fa2a41-d1ba-5e38-8e58-f0f163c930f9
-classicId: '2769934'
-classicProductId: '614054'
+classicId: '2769926'
+classicProductId: '614053'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 45
 end: '2025-10-05T21:59:59.999Z'
 freeDelivery: false
-id: 1569ae2f-82c2-5cdf-8696-6b6dd74656c5
+id: 1bb40dc2-5d06-58b8-aede-c1db2f4ae798
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 7c1f734f-b358-4245-939e-0a01521d1817
+  id: 1293dc29-65c3-4676-a4ab-00deef816598
   priority: 0
-  slug: dreamhouse-45-png-product-0
+  slug: dreamhouse-46-png-product-11
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1044162
+    - all
+  extension: image/png
+  id: ccce331b-7b68-4429-82a1-714521722d2c
   priority: 0
-  slug: bettbezug-flanell-200-x-200220-cm
+  slug: dreamhouse-png-logo-0
   type: logo
-offerId: 8603cf23-cd85-5131-bb26-ae365ac912f1
+offerId: a2a5250a-9b52-5737-8b45-75ea7589461f
 price:
   cents: 3295
   currency: EUR

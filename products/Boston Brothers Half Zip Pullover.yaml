@@ -1,22 +1,22 @@
-_id: 68d6615ab1a228312bb34b3b
+_id: 68dba0ef09068d7d0f58c54e
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - ee52449d-4a43-56ee-82e7-8eb8b7b4c20e
-classicId: '2774600'
-classicProductId: '662792'
+  - ecbce477-7e71-5da2-aed3-a6471fbe8145
+classicId: '2776476'
+classicProductId: '662870'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 61
-end: '2025-10-01T21:59:59.999Z'
+end: '2025-10-06T21:59:59.999Z'
 freeDelivery: false
-id: c7410abd-76bb-4b66-bfe3-ffc860a78581
+id: e8a9f16d-089d-47eb-aa60-97ed80354262
 image:
   channels:
     - app
@@ -24,21 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 3751a45c-0dd4-4742-9355-eb752acc1f1c
+  id: 9fd0c9d8-48cd-49ce-a29e-5c1d6949b850
   priority: 0
   slug: 1-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1729661
-  priority: 100
-  slug: boston-brothers-logo
-  type: logo
-offerId: 27960c8b-e50f-49a6-a904-023f171095e1
+offerId: 84157790-64d8-4bda-b218-1c9ea21faaa3
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 89.95
 slug: boston-brothers-half-zip-pullover
 soldOut: false
-start: '2025-09-28T22:00:00.000Z'
+start: '2025-09-29T22:00:00.000Z'
 title: Boston Brothers Half Zip Pullover
