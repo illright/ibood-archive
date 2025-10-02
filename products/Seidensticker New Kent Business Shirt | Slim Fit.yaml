@@ -1,4 +1,4 @@
-_id: 68dba36709068d7d0f58c890
+_id: 68dba362f4d4388a007c38b6
 appOnly: false
 brand: Seidensticker
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Seidensticker
 categories:
   - ecbce477-7e71-5da2-aed3-a6471fbe8145
-classicId: '2776918'
-classicProductId: '662119'
+classicId: '2776910'
+classicProductId: '585235'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
+directCheckout: true
+discount: 78
 end: '2025-10-06T21:59:59.999Z'
 freeDelivery: false
-id: 705884bc-da27-4277-a803-c0e795b41725
+id: bab365d9-2b69-4e5c-ab8d-531f59d64312
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1ab576fd-80fb-4d5b-a51c-49a79b7cb2d9
+  extension: jpg
+  id: 2007152
   priority: 0
-  slug: 1-png-product-1
+  slug: seidensticker-new-kent-overhemd-slim-fit
   type: product
 logo:
   channels:
@@ -38,15 +37,15 @@ logo:
   priority: 100
   slug: seidensticker-logo
   type: logo
-offerId: 0367ade5-903a-4d18-957b-5a5771d45597
+offerId: 430fafd2-3385-4928-9404-2819d1ac7486
 price:
-  cents: 3995
+  cents: 2023
   currency: EUR
-  value: 39.95
+  value: 20.23
 referencePrice:
-  cents: 7999
+  cents: 8999
   currency: EUR
-  value: 79.99
+  value: 89.99
 slug: seidensticker-new-kent-overhemd-slim-fit
 soldOut: false
 start: '2025-09-29T22:00:00.000Z'

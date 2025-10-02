@@ -1,4 +1,4 @@
-_id: 68cc4ef2300409cd20846711
+_id: 68cc4f37300409cd208467f6
 appOnly: false
 brand: Lahti Pro
 brands:
@@ -6,36 +6,46 @@ brands:
     name: Lahti Pro
 categories:
   - 5d9612c6-15e4-5a56-aa88-88a729b13128
-classicId: '2763884'
-classicProductId: '263851'
+classicId: '2763997'
+classicProductId: '240995'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 43
+discount: 50
 end: '2025-10-05T21:59:59.999Z'
 freeDelivery: false
-id: 1d2457dd-bbd7-5463-8fda-aaf74607fb67
+id: b81b713d-6c0a-5d6b-858a-dff944001a41
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1664646
+  extension: jpg
+  id: 1312620
   priority: 0
-  slug: lahti-pro-sweatshirt
+  slug: lahti-pro-trui-l4012
   type: product
-offerId: 3389e5e6-dacd-5ce5-a33f-81904e903e9d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1623876
+  priority: 100
+  slug: lahti-pro-trui-l4012
+  type: logo
+offerId: c44149d0-fc89-5ba0-91ad-255b681e4afb
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 3495
+  cents: 3990
   currency: EUR
-  value: 34.95
+  value: 39.9
 slug: lahti-pro-trui-l4012
 soldOut: false
 start: '2025-09-28T22:00:00.000Z'
