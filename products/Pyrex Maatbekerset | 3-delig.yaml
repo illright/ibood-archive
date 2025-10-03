@@ -19,13 +19,14 @@ freeDelivery: false
 id: 4a1a6b02-42b5-4324-b01f-8d39b45a8edb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 154556
+    - all
+  extension: image/png
+  id: 64b380c2-0d7e-4498-9db6-fa06b62abda7
   priority: 0
-  slug: pyrex-maatbekerset-3-delig
+  slug: 2-png-product-1
   type: product
 logo:
   channels:

@@ -1,4 +1,4 @@
-_id: 68d64d09b1a228312bb34306
+_id: 68d64daa4bed0a112e146853
 appOnly: false
 brand: HOFATS
 brands:
@@ -6,26 +6,27 @@ brands:
     name: HOFATS
 categories:
   - ec252961-4534-5ac3-96d5-546cc512f993
-classicId: '2773118'
-classicProductId: '337104'
+classicId: '2773254'
+classicProductId: '660992'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 16
+discount: 28
 end: '2025-10-05T21:59:59.999Z'
 freeDelivery: false
-id: 22431f75-d4f6-4878-a43c-7250e701f814
+id: 2c516310-9561-4d90-acbf-3b024b216f0d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1048988
-  priority: 1
-  slug: hofats-spin-90-sfeerlantaarn
+    - all
+  extension: image/jpeg
+  id: 12151f83-1a5b-4ed3-9fc2-3e25d41f4e30
+  priority: 0
+  slug: hofats-spin-90-sfeerlantaarn-zwart-41-product-0
   type: product
 logo:
   channels:
@@ -38,15 +39,15 @@ logo:
   priority: 0
   slug: hofats-logo-0
   type: logo
-offerId: b32d7bc1-950d-4c53-95da-61981f840d96
+offerId: 2164d5ce-4784-4988-88ba-0678d8b1156b
 price:
   cents: 9995
   currency: EUR
   value: 99.95
 referencePrice:
-  cents: 11900
+  cents: 13900
   currency: EUR
-  value: 119
+  value: 139
 slug: hofats-spin-90-sfeerlantaarn
 soldOut: false
 start: '2025-09-29T22:00:00.000Z'

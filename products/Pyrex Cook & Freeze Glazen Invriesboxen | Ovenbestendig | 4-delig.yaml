@@ -19,24 +19,15 @@ freeDelivery: false
 id: 27c9f9e2-6d29-4622-98b6-fde7f70cb5bd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 606843
+    - all
+  extension: image/jpeg
+  id: 2f6ec866-32a0-4971-a82c-e1e90874a4bb
   priority: 0
-  slug: pyrex-cf-invries-schalenset-4-delig
+  slug: 5-jpg-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
-  type: logo
 offerId: a6695d8d-1f53-4631-8f8b-cabb2545692d
 price:
   cents: 2995

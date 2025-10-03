@@ -19,24 +19,15 @@ freeDelivery: false
 id: f38bb799-e041-4bef-b165-6988a6c8ac07
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1575498
+    - all
+  extension: image/png
+  id: c4c347c4-1f67-4226-9bfd-cf261a35d471
   priority: 0
-  slug: pyrex-cook-freeze-glasgefa-set
+  slug: 22-png-product-2
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
-  type: logo
 offerId: 3b53d0ff-4559-43e5-bf42-8ebb04a7bb74
 price:
   cents: 3995

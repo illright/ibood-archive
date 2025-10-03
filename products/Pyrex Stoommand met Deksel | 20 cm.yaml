@@ -19,24 +19,15 @@ freeDelivery: false
 id: 5253da70-0fd6-4c01-a0d7-4e9c5c3ab517
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1768065
+    - all
+  extension: image/png
+  id: f699b016-24a8-4a79-b5ff-5edeac82d429
   priority: 0
-  slug: pyrex-stoommand-met-deksel-20-cm
+  slug: 21-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
-  type: logo
 offerId: 5104f7ac-851c-4ab6-800c-ad27ea5f0232
 price:
   cents: 1995
