@@ -19,24 +19,15 @@ freeDelivery: false
 id: a36e91b6-be4d-4019-8177-1ec9b2496bef
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 903888
+    - all
+  extension: image/png
+  id: 436dcb8f-53f2-4513-98ae-b0be5759d459
   priority: 0
-  slug: pyrex-cook-go-glasgefa-set-2-tlg
+  slug: 18-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
-  type: logo
 offerId: 34a75199-975a-45ae-84d8-33d538c2b898
 price:
   cents: 1995

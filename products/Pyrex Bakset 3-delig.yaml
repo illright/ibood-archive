@@ -19,24 +19,15 @@ freeDelivery: false
 id: 43794d2c-4638-48ec-b413-b01a6eb80964
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2212103
+    - all
+  extension: image/png
+  id: 506be617-f6bf-4e38-a5f4-b925569f951c
   priority: 0
-  slug: pyrex-koch-und-backset-3-teilig
+  slug: 20-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
-  type: logo
 offerId: a510f84e-e498-4712-9fb7-be392a515c97
 price:
   cents: 1995

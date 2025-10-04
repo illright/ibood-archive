@@ -1,4 +1,4 @@
-_id: 68da495a038b2a46e37fa761
+_id: 68da49530c4282e7c7e6fc6d
 appOnly: false
 brand: Ambiante
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Ambiante
 categories:
   - 21973185-859c-5a0e-bc10-945c0c9451bb
-classicId: '2775437'
-classicProductId: '666378'
+classicId: '2775436'
+classicProductId: '666372'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,28 @@ directCheckout: true
 discount: 39
 end: '2025-10-05T21:59:59.999Z'
 freeDelivery: false
-id: 41d4e793-5f0d-4b97-8d3f-8c2f772d653b
+id: f3ed2294-5962-4b4f-ad3f-dae47b421010
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2164143
+  id: 2164348
   priority: 100
-  slug: ambiante-jersey-hoeslaken-90-x-200210-cm
+  slug: ambiante-jersey-spannbettlaken-90-x-200210-cm
   type: product
-offerId: 3ab311bd-9103-47d5-9f81-4c5a7383b23f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1880018
+  priority: 100
+  slug: ambiante-logo
+  type: logo
+offerId: d563d002-6c20-410c-b59f-ea2047ee56e9
 price:
   cents: 1695
   currency: EUR

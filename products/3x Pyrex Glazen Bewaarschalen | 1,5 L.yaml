@@ -19,13 +19,14 @@ freeDelivery: false
 id: 8b1b1c82-cd2f-4c7e-aa3f-3f95320986ce
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2212097
+    - all
+  extension: image/png
+  id: d5ecac0a-111a-4ac3-8fa8-464fcf04f62d
   priority: 0
-  slug: 3x-pyrex-aufbewahrungsbehalter-15-l
+  slug: 19-png-product-1
   type: product
 logo:
   channels:

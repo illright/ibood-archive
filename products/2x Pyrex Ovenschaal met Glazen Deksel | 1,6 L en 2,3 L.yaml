@@ -19,24 +19,15 @@ freeDelivery: false
 id: 513fd8f7-141f-46d4-8b37-ce1d9b7d1f0e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1908627
+    - all
+  extension: image/jpeg
+  id: 5cc4b09b-3888-4927-b658-d35901c6b2b6
   priority: 0
-  slug: pyrex-auflaufform-set-mit-glasdeckel
+  slug: 4-jpg-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
-  type: logo
 offerId: 98f9ab6f-c928-4870-9a08-fd5c998c6516
 price:
   cents: 2495

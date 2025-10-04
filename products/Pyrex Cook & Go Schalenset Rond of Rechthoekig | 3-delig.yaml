@@ -19,24 +19,15 @@ freeDelivery: false
 id: 586345d6-177c-481d-b7e0-74cb94f0a371
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 705734
+    - all
+  extension: image/png
+  id: 58c28721-ebdc-4c28-aff7-2b401ea5faac
   priority: 0
-  slug: pyrex-cg-schalenset-rond-of-rechthoekig-3-delig
+  slug: 14-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
-  type: logo
 offerId: 535817f7-78c0-4679-9ec8-e331425b9ca5
 price:
   cents: 1995

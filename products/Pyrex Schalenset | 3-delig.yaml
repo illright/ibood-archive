@@ -19,24 +19,15 @@ freeDelivery: false
 id: a29453c4-b983-4d81-8402-afb6612d6aa9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1869642
-  priority: 100
-  slug: pyrex-schalenset-3-delig
+    - all
+  extension: image/jpeg
+  id: a5f19280-8fcf-4233-925f-61a1ab3e8f59
+  priority: 0
+  slug: 7-jpg-product-101
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
-  type: logo
 offerId: a14031d6-8328-4a43-982a-dca3896b4bb5
 price:
   cents: 1995
