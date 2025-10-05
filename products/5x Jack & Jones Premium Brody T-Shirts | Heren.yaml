@@ -1,4 +1,4 @@
-_id: 68dba4044ca5d4c112af1d6b
+_id: 68df8c18f3971ae1d9b8cf98
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Jack & Jones
 categories:
   - ecbce477-7e71-5da2-aed3-a6471fbe8145
-classicId: '2777139'
-classicProductId: '651037'
+classicId: '2781689'
+classicProductId: '589655'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 58
 end: '2025-10-06T21:59:59.999Z'
 freeDelivery: false
-id: ed9e6391-7858-4bc2-b7f4-d7e7dee9c6a4
+id: 857ddfe2-efeb-4ab8-89d2-c1d78c9898c5
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: aca4dd8a-d3b1-4ecd-b6f4-650b9d23eb9f
+  extension: png
+  id: 2031884
   priority: 0
-  slug: main-png-product-2
+  slug: 5x-jack-jones-premium-brody-t-shirts-heren
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2031818
+  id: 1829631
   priority: 100
-  slug: 5x-jack-jones-premium-brody-t-shirts-herren
+  slug: jack-jones-logo
   type: logo
-offerId: 869095c3-cc83-40b3-8fff-24d0eb46a005
+offerId: 09609645-337d-4e37-a3d1-8547e84a2f73
 price:
   cents: 2495
   currency: EUR

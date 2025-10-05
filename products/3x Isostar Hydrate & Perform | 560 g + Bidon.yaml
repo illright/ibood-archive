@@ -1,4 +1,4 @@
-_id: 68dba602d0c4482b209bda73
+_id: 68dba56a7168e2194cbfded8
 appOnly: false
 brand: ISOSTAR
 brands:
@@ -6,8 +6,8 @@ brands:
     name: ISOSTAR
 categories:
   - fe87cdf5-e12e-5863-b659-cfb26c28c9dc
-classicId: '2777833'
-classicProductId: '668329'
+classicId: '2777750'
+classicProductId: '668330'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,18 @@ directCheckout: true
 discount: 44
 end: '2025-10-06T21:59:59.999Z'
 freeDelivery: false
-id: 99b3b285-cbdc-5c0a-9096-bc654b8febe2
+id: 381f7b33-a999-594a-a569-470f44c3712f
 image:
   channels:
-    - website
-    - app
     - newsletter
+    - app
+    - website
   extension: png
-  id: 1998039
+  id: 1998040
   priority: 0
   slug: 3x-isostar-hydrate-perform-560-g-bidon
   type: product
-offerId: b2d64038-e468-5f26-bcd8-9d71465c1b51
+offerId: e5966445-5372-52a4-873d-c6993285feae
 price:
   cents: 2195
   currency: EUR
@@ -37,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 38.97
 slug: 3x-isostar-hydrate-perform-560-g-bidon
-soldOut: false
+soldOut: true
 start: '2025-10-01T22:00:00.000Z'
 title: 3x Isostar Hydrate & Perform | 560 g + Bidon
