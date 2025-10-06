@@ -1,4 +1,4 @@
-_id: 68dd26192b73e1abb7dedcb9
+_id: 68dd21efec5eac9a90f955e9
 appOnly: false
 brand: Delsey
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Delsey
 categories:
   - 921f491c-c37e-58eb-8863-5dcda55a6f33
-classicId: '2779731'
-classicProductId: '496698'
+classicId: '2779692'
+classicProductId: '496699'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 55
 end: '2025-10-09T21:59:59.999Z'
 freeDelivery: false
-id: 8c8e2120-dce4-4578-9ac4-56efce8c16e5
+id: 7113c590-34ae-4b0e-94ac-34ad3ab24ea4
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fd75b2b2-5a85-4bef-8cb1-3d2146bbeaee
+  extension: png
+  id: 1677294
   priority: 0
-  slug: delsey-air-armour-m-expandable-trolley-68-cm-product-14
+  slug: delsey-air-armour-m-expandable-trolley-68-cm
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1677285
+  id: 1612713
   priority: 100
-  slug: delsey-air-armour-m-expandable-trolley-68-cm
+  slug: delsey-logo
   type: logo
-offerId: d261ea41-d7db-4c07-a9ab-43884bc91810
+offerId: cc901397-1160-43ac-86c3-949b11c440a8
 price:
   cents: 8995
   currency: EUR
@@ -48,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 199
 slug: delsey-air-armour-m-expandable-trolley-68-cm
-soldOut: false
+soldOut: true
 start: '2025-10-02T22:00:00.000Z'
 title: Delsey Air Armour M Expandable Trolley | 68 cm

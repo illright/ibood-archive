@@ -1,33 +1,42 @@
-_id: 68da5dcd6b9276ae997cce96
+_id: 68de81cebfb1bbca8133f334
 appOnly: false
 brand: Comfort Essentials
 brands:
   - id: e2b67ca2-60a4-5739-a727-e907dd3eadf6
     name: Comfort Essentials
 categories:
-  - 3904f14b-0d85-51eb-bf39-c6230159581e
-classicId: '2775848'
-classicProductId: '552447'
+  - 9c5ca7b5-4a92-504f-97ae-dc8ba5ecce3e
+classicId: '2781059'
+classicProductId: '592149'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2025-10-06T21:59:59.999Z'
+end: '2025-10-12T21:59:59.999Z'
 freeDelivery: false
-id: 2b167a11-8f20-55f6-b588-81e80165890d
+id: ec41a4b2-0e15-4766-af2c-895b729ef934
 image:
+  channels:
+    - website
+    - app
+  extension: png
+  id: 2152044
+  priority: 2
+  slug: comfort-essentials-gummistiefel-damen
+  type: product
+logo:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2152042
-  priority: 0
+  id: 1864061
+  priority: 100
   slug: comfort-essentials-gummistiefel-damen
-  type: product
-offerId: c97672ba-1cdc-5529-9462-5194d8c9d22d
+  type: logo
+offerId: 6f053423-5573-49d3-a32f-c75cd2f70e25
 price:
   cents: 2495
   currency: EUR
@@ -38,5 +47,5 @@ referencePrice:
   value: 49.95
 slug: comfort-essentials-rubberen-laarzen-dames
 soldOut: false
-start: '2025-10-02T22:00:00.000Z'
+start: '2025-10-05T22:00:00.000Z'
 title: Comfort Essentials Rubberen Laarzen | Dames

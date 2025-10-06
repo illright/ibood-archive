@@ -1,22 +1,22 @@
-_id: 68da5dbcf3b75e6827e1c8b8
+_id: 68dba548ff20fef6f4695041
 appOnly: false
 brand: Comfort Essentials
 brands:
   - id: e2b67ca2-60a4-5739-a727-e907dd3eadf6
     name: Comfort Essentials
 categories:
-  - 3904f14b-0d85-51eb-bf39-c6230159581e
-classicId: '2775840'
-classicProductId: '270583'
+  - 46a59159-eab9-5354-8b7a-5f5afebf6ea3
+classicId: '2777668'
+classicProductId: '270585'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 70
+discount: 64
 end: '2025-10-06T21:59:59.999Z'
 freeDelivery: false
-id: d058ecc1-573d-560b-96f5-12afbd248f00
+id: 2f0ce57c-5430-438d-b042-1956422e69b0
 image:
   channels:
     - website
@@ -25,18 +25,28 @@ image:
   extension: jpg
   id: 769222
   priority: 0
-  slug: 2x-pierre-calvini-shorts
+  slug: 2x-pierre-calvini-loungewear-shorts
   type: product
-offerId: f50ec560-3dad-57e9-8e5c-bc042bda9e08
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1948295
+  priority: 100
+  slug: comfort-essentials-logo
+  type: logo
+offerId: c85c6806-8f11-4d59-b450-99e1e3e4f984
 price:
-  cents: 1495
+  cents: 1795
   currency: EUR
-  value: 14.95
+  value: 17.95
 referencePrice:
   cents: 4995
   currency: EUR
   value: 49.95
 slug: 2x-pierre-calvini-loungewear-shorts
 soldOut: false
-start: '2025-10-02T22:00:00.000Z'
+start: '2025-09-29T22:00:00.000Z'
 title: 2x Pierre Calvini Loungewear Shorts

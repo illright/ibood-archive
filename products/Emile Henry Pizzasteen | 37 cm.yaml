@@ -1,4 +1,4 @@
-_id: 68da49ace1663c365a201715
+_id: 68da49a9e1663c365a20170f
 appOnly: false
 brand: Emile Henry
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Emile Henry
 categories:
   - 4f3a7a50-3f9d-5df3-8e9e-0308e99b332e
-classicId: '2775468'
-classicProductId: '639611'
+classicId: '2775466'
+classicProductId: '639612'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: true
 discount: 69
 end: '2025-10-07T21:59:59.999Z'
 freeDelivery: false
-id: aaed9ec8-d023-4591-9631-2af0b133ffcb
+id: 7581f347-914a-4dba-97ca-d1e658401a5f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2282689
+    - all
+  extension: image/png
+  id: 3ff0a7ae-9301-44ca-93f4-1c110742f596
   priority: 0
-  slug: emile-henry-pizzastein-37-cm-orange
+  slug: pan-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 0
   slug: emile-henry-logo-0
   type: logo
-offerId: dc4523b2-010e-4ac3-8ee7-271aac64d7c5
+offerId: 28ec866d-fbad-4689-9ecd-2594ee1883aa
 price:
   cents: 2495
   currency: EUR

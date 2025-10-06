@@ -1,43 +1,52 @@
-_id: 68d64d8a469b706a34471bbd
+_id: 68d645c7a964e12be30237f6
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - cd3f0394-27d8-5ccd-89d9-54a804e5600e
-classicId: '2773214'
-classicProductId: '210511'
+  - e85da3c6-0d3b-57c9-aab7-729bc9b82515
+classicId: '2772140'
+classicProductId: '240612'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 25
-end: '2025-10-05T21:59:59.999Z'
+discount: 44
+end: '2025-10-07T21:59:59.999Z'
 freeDelivery: false
-id: a36e91b6-be4d-4019-8177-1ec9b2496bef
+id: e330ddf7-ee90-43a0-95d9-e07858fc2206
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 436dcb8f-53f2-4513-98ae-b0be5759d459
+  extension: jpg
+  id: 606274
   priority: 0
-  slug: 18-png-product-1
+  slug: pyrex-cg-schalenset-rond-of-vierkant-2-delig
   type: product
-offerId: 34a75199-975a-45ae-84d8-33d538c2b898
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1617634
+  priority: 100
+  slug: pyrex-logo
+  type: logo
+offerId: 8409c353-ec0b-486f-8f88-34e60a16cf22
 price:
-  cents: 1995
+  cents: 1495
   currency: EUR
-  value: 19.95
+  value: 14.95
 referencePrice:
   cents: 2650
   currency: EUR
   value: 26.5
 slug: pyrex-cg-schalenset-rond-of-vierkant-2-delig
 soldOut: false
-start: '2025-09-30T22:00:00.000Z'
+start: '2025-09-25T22:00:00.000Z'
 title: Pyrex Cook & Go Schalenset Rond of Vierkant | 2-delig

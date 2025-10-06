@@ -19,11 +19,12 @@ freeDelivery: false
 id: 633e1a9b-3589-46d1-9a1b-8a1ab53f46ac
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1535016
+    - all
+  extension: jpg
+  id: 1535015
   priority: 0
   slug: delsey-segur-20-trolley-105-l
   type: product
