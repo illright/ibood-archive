@@ -1,12 +1,12 @@
-_id: 68d501a0026f6c5473059f4f
+_id: 68e3b12939b04532c2412afd
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - 777f0996-c25b-509d-bdfa-5dfcd9fc3d9d
-classicId: '2770453'
+  - c7e287df-c6b3-5277-9ecd-1dca830aaebf
+classicId: '2783699'
 classicProductId: '182303'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 71
-end: '2025-10-07T21:59:59.999Z'
+end: '2025-10-13T21:59:59.999Z'
 freeDelivery: false
-id: 8876c3be-f9ba-5cea-a0e3-358dec6ac428
+id: 62bf39a7-b302-4479-84bb-f852a3595807
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: lifa-living-beistelltisch-emilyella
   type: product
-offerId: 81dd7ee1-fe6b-5a44-997e-f47ca1bb1550
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1772501
+  priority: 100
+  slug: lifa-living-logo
+  type: logo
+offerId: fe1b354f-6633-49b4-8b77-2cd84f08f04b
 price:
   cents: 1295
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 44.95
 slug: lifa-living-bijzettafel-emily
 soldOut: false
-start: '2025-10-01T22:00:00.000Z'
+start: '2025-10-06T22:00:00.000Z'
 title: Lifa Living Bijzettafel Emily
