@@ -1,22 +1,22 @@
-_id: 68a5934196eb367240680b6f
+_id: 68e4d983d81c7090fcac2433
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 3ccdf3df-b9e4-53a6-a395-2b619aeb09c1
-classicId: '2734462'
+  - df6add42-7c54-5325-92f5-527fd6bd5494
+classicId: '2784818'
 classicProductId: '659920'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 35
 end: '2025-10-12T21:59:59.999Z'
 freeDelivery: false
-id: 3d07f59d-32f3-5db2-82a5-0b80c6a9252c
+id: 379bb6c0-a209-40db-8f09-29050555f43b
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 3e27ec2b-e4ac-55b6-a9c7-5183d8181108
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1681527
+  priority: 100
+  slug: giorgio-logo
+  type: logo
+offerId: f5b18f19-1911-4897-96fb-3aa8b210e564
 price:
   cents: 12995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 199.95
 slug: giorgio-business-schoenen-heren
 soldOut: false
-start: '2025-10-05T22:00:00.000Z'
+start: '2025-10-06T22:00:00.000Z'
 title: Giorgio Business Schoenen | Heren

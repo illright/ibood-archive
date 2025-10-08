@@ -1,4 +1,4 @@
-_id: 68e37e72aa7f67206c827b77
+_id: 68e4c2a4d81c7090fcac2082
 appOnly: false
 brand: Buccan
 brands:
@@ -6,24 +6,24 @@ brands:
     name: Buccan
 categories:
   - b906777a-3254-59ef-a6f4-591883040de9
-classicId: '2782574'
-classicProductId: '583376'
+classicId: '2784149'
+classicProductId: '583379'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 80
 end: '2025-10-13T21:59:59.999Z'
 freeDelivery: false
-id: c2aa6337-600f-47cb-83c7-35ead2696a77
+id: 1afe0d1f-0674-40ec-b6de-c3bab4b2986e
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 1837849
+  id: 1992674
   priority: 0
   slug: 2x-buccan-dumbbell-touch-tafellamp
   type: product
@@ -35,9 +35,9 @@ logo:
   extension: png
   id: 1819370
   priority: 100
-  slug: 2x-buccan-dumbbell-touch-tafellamp
+  slug: buccan-logo
   type: logo
-offerId: 948e1269-1abc-410c-99e6-b3d0af0d06a9
+offerId: 3e844bd0-3048-4985-be67-7ccb62ccf8e2
 price:
   cents: 1995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 99.98
 slug: 2x-buccan-dumbbell-touch-tafellamp
-soldOut: false
+soldOut: true
 start: '2025-10-06T22:00:00.000Z'
 title: 2x Buccan Dumbbell Touch Tafellamp | 3 Lichtstanden

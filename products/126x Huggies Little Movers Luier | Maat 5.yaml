@@ -1,22 +1,22 @@
-_id: 68df84cb0049a0f0f13483d2
+_id: 68e4cc63865d76081ed2bd32
 appOnly: false
 brand: Huggies
 brands:
   - id: 8bec6453-228c-5a98-afdd-349eafeab282
     name: Huggies
 categories:
-  - 094f715c-731c-5579-8734-55c6443f2de9
-classicId: '2781286'
+  - 8a6f15cc-266c-510c-a1f8-8e35b97fa7d8
+classicId: '2784497'
 classicProductId: '613809'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 45
-end: '2025-10-08T21:59:59.999Z'
+discount: 50
+end: '2025-10-10T21:59:59.999Z'
 freeDelivery: false
-id: 8c60ca25-e420-4c8b-851b-9c85b4fe02a2
+id: ffe3c105-6d81-4360-b3f5-9d1dc7a70cc9
 image:
   channels:
     - website
@@ -24,29 +24,30 @@ image:
     - newsletter
   extension: png
   id: 2147406
-  priority: 100
-  slug: 126x-huggies-little-movers-luier-maat-5
+  priority: 0
+  slug: huggies-little-movers-windeln-gr-5-126-stuck
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1609355
-  priority: 100
-  slug: huggies-logo
+    - all
+  extension: image/png
+  id: f580c710-0cf5-43bd-bb28-c1f58f9d84f8
+  priority: 0
+  slug: huggies-logo-png-logo-0
   type: logo
-offerId: 92b76d0e-3d4b-4ad2-81c0-7cd213711fb2
+offerId: 59784cd9-e439-495e-a03a-2977c90acdb4
 price:
-  cents: 3295
+  cents: 2995
   currency: EUR
-  value: 32.95
+  value: 29.95
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: 126x-huggies-little-movers-luier-maat-5
 soldOut: false
-start: '2025-10-02T22:00:00.000Z'
+start: '2025-10-07T22:00:00.000Z'
 title: 126x Huggies Little Movers Luier | Maat 5

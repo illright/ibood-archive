@@ -1,52 +1,54 @@
-_id: 68df84c30049a0f0f13483b2
+_id: 68e4cc5c2d02541adf12ed8d
 appOnly: false
 brand: Huggies
 brands:
   - id: 8bec6453-228c-5a98-afdd-349eafeab282
     name: Huggies
 categories:
-  - 094f715c-731c-5579-8734-55c6443f2de9
-classicId: '2781276'
+  - 8a6f15cc-266c-510c-a1f8-8e35b97fa7d8
+classicId: '2784494'
 classicProductId: '613813'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 51
-end: '2025-10-08T21:59:59.999Z'
+discount: 54
+end: '2025-10-10T21:59:59.999Z'
 freeDelivery: false
-id: 206ebeb6-ea52-4ca3-b3bc-ed42e4d7e625
+id: 868d8d20-a4a9-4580-b1f3-ef37e3a7bde6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2147444
-  priority: 100
-  slug: 96x-huggies-little-movers-luierbroekje-maat-6
+    - all
+  extension: image/avif
+  id: 983481e2-4f6e-45f9-959d-52751807e5d3
+  priority: 0
+  slug: 2153537-avif-product-101
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1609355
-  priority: 100
-  slug: huggies-logo
+    - all
+  extension: image/png
+  id: b1c0d611-419c-4019-ac94-c269e6e5389e
+  priority: 0
+  slug: huggies-logo-png-logo-0
   type: logo
-offerId: 5bcca9b6-d505-4b1c-9153-fcffb18a421b
+offerId: 0d4837b0-15ef-4ed6-80c4-91d50dce5818
 price:
-  cents: 2995
+  cents: 2795
   currency: EUR
-  value: 29.95
+  value: 27.95
 referencePrice:
   cents: 6099
   currency: EUR
   value: 60.99
 slug: 96x-huggies-little-movers-luierbroekje-maat-6
 soldOut: false
-start: '2025-10-02T22:00:00.000Z'
+start: '2025-10-07T22:00:00.000Z'
 title: 96x Huggies Little Movers Luierbroekje | Maat 6

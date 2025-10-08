@@ -1,12 +1,12 @@
-_id: 68a593266a6f729fa8f43aa6
+_id: 68e4d97c46e45c3314e54d70
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 3ccdf3df-b9e4-53a6-a395-2b619aeb09c1
-classicId: '2734459'
+  - df6add42-7c54-5325-92f5-527fd6bd5494
+classicId: '2784816'
 classicProductId: '659889'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 35
 end: '2025-10-12T21:59:59.999Z'
 freeDelivery: false
-id: 83760892-35b6-5829-a667-efcd2b1d3312
+id: ce4ece47-eb86-42c9-bf73-4ee2689fcfdc
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 135657-png-product-1
   type: product
-offerId: c77b38ed-0029-5258-a4b1-96db1da59941
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1681527
+  priority: 100
+  slug: giorgio-logo
+  type: logo
+offerId: 5dac5cbb-dbf1-40f6-b18b-ca8a27c5c57a
 price:
   cents: 12995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 199.95
 slug: giorgio-suede-schoenen-heren
 soldOut: false
-start: '2025-10-05T22:00:00.000Z'
+start: '2025-10-06T22:00:00.000Z'
 title: Giorgio Suede Schoenen | Heren

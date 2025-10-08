@@ -1,4 +1,4 @@
-_id: 68e3a7dcc76c39e47c35a0fe
+_id: 68da993d4bed0a112e15083f
 appOnly: false
 brand: Lifa Living
 brands:
@@ -6,32 +6,42 @@ brands:
     name: Lifa Living
 categories:
   - 9e629bc9-62cb-53f5-9524-0871139d08bf
-classicId: '2783606'
-classicProductId: '501228'
+classicId: '2776070'
+classicProductId: '297502'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 69
+discount: 66
 end: '2025-10-13T21:59:59.999Z'
 freeDelivery: false
-id: 2b37cf73-a417-4904-93d1-06efaceec9bc
+id: 863aa3cd-7ad7-522d-9b4e-c8b402b12baf
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 1874569
+  extension: png
+  id: 880610
   priority: 0
   slug: lifa-living-xl-schaffell-ca-70-x-100-cm
   type: product
-offerId: 6fd6729b-52e7-41d3-9b4c-1090b18dea83
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1977260
+  priority: 100
+  slug: lifa-living-xl-schaffell-ca-70-x-100-cm
+  type: logo
+offerId: 743b1a03-cc56-58f2-8a66-9a4da9212a17
 price:
-  cents: 1995
+  cents: 2195
   currency: EUR
-  value: 19.95
+  value: 21.95
 referencePrice:
   cents: 6495
   currency: EUR

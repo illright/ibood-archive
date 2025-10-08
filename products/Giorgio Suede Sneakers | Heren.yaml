@@ -1,22 +1,22 @@
-_id: 68a5931d81936dbc9a1d6df1
+_id: 68e4d980d81c7090fcac2427
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 3ccdf3df-b9e4-53a6-a395-2b619aeb09c1
-classicId: '2734458'
+  - df6add42-7c54-5325-92f5-527fd6bd5494
+classicId: '2784814'
 classicProductId: '659875'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 36
 end: '2025-10-12T21:59:59.999Z'
 freeDelivery: false
-id: 0176a1cf-0fd2-5f7a-b756-bb2ec7fc565f
+id: 04cf3877-77a5-42ff-b36f-3b7b01be8ed6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 3-png-product-1
   type: product
-offerId: 76ca9e8b-6031-5ac6-9bdf-1cdfaa3666a9
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1681527
+  priority: 100
+  slug: giorgio-logo
+  type: logo
+offerId: ef2522b3-7c28-47df-bac2-a749ad9b8eed
 price:
   cents: 13995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 219.95
 slug: giorgio-suede-sneakers-heren
 soldOut: false
-start: '2025-10-05T22:00:00.000Z'
+start: '2025-10-06T22:00:00.000Z'
 title: Giorgio Suede Sneakers | Heren

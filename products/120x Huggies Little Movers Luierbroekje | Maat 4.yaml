@@ -1,22 +1,22 @@
-_id: 68df854ef3971ae1d9b8cdc8
+_id: 68e4cc769afdaddad7679d4a
 appOnly: false
 brand: Huggies
 brands:
   - id: 8bec6453-228c-5a98-afdd-349eafeab282
     name: Huggies
 categories:
-  - 094f715c-731c-5579-8734-55c6443f2de9
-classicId: '2781454'
+  - 8a6f15cc-266c-510c-a1f8-8e35b97fa7d8
+classicId: '2784502'
 classicProductId: '613811'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 49
-end: '2025-10-08T21:59:59.999Z'
+discount: 53
+end: '2025-10-10T21:59:59.999Z'
 freeDelivery: false
-id: 77eda9f1-41c6-416d-a7d7-ff016bfeb922
+id: be7560d3-2a6f-470b-9ac7-4dd657473902
 image:
   channels:
     - website
@@ -24,29 +24,30 @@ image:
     - newsletter
   extension: png
   id: 2147420
-  priority: 100
-  slug: 120x-huggies-little-movers-luierbroekje-maat-4
+  priority: 0
+  slug: huggies-little-movers-pants-gr-4-120-stuck
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1609355
-  priority: 100
-  slug: huggies-logo
+    - all
+  extension: image/png
+  id: 87396cbf-d565-4e51-a9df-accace52db1a
+  priority: 0
+  slug: huggies-logo-png-logo-101
   type: logo
-offerId: 8a773b7b-1321-4e15-808e-46c4ddd85824
+offerId: 314e2584-d3b7-4d57-b310-49ca77a58385
 price:
-  cents: 2995
+  cents: 2795
   currency: EUR
-  value: 29.95
+  value: 27.95
 referencePrice:
   cents: 5899
   currency: EUR
   value: 58.99
 slug: 120x-huggies-little-movers-luierbroekje-maat-4
 soldOut: false
-start: '2025-10-02T22:00:00.000Z'
+start: '2025-10-07T22:00:00.000Z'
 title: 120x Huggies Little Movers Luierbroekje | Maat 4
