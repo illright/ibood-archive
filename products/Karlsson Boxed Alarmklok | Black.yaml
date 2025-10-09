@@ -1,12 +1,12 @@
-_id: 68e3a7db51b0b113a50f4af5
+_id: 68e39152ef10740ed9650195
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 9e629bc9-62cb-53f5-9524-0871139d08bf
-classicId: '2783607'
+  - 905afce9-8aac-59db-9172-b9ee32e4e385
+classicId: '2783240'
 classicProductId: '631580'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2025-10-13T21:59:59.999Z'
+end: '2025-10-14T21:59:59.999Z'
 freeDelivery: false
-id: a06b9b26-c169-4c03-a322-069a4f779ced
+id: 722660dd-3479-4221-ac49-e2984df0e238
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2211219
+    - all
+  extension: image/png
+  id: 9d42727f-ce31-4550-a932-92c3474ca559
   priority: 0
-  slug: karlsson-boxed-tischuhr
+  slug: karlsson-121-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 0f69b619-ae81-42b9-8306-3441c6460047
+offerId: 9a3f29e9-fb85-4a96-bb4d-3d86d097580c
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 77.75
 slug: karlsson-boxed-alarmklok
 soldOut: false
-start: '2025-10-06T22:00:00.000Z'
+start: '2025-10-08T22:00:00.000Z'
 title: Karlsson Boxed Alarmklok | Black

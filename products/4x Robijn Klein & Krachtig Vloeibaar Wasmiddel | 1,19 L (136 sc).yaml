@@ -1,31 +1,32 @@
-_id: 68df7e1983d3287c867c2a59
+_id: 68e65f0d56237cda06ed82c3
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 34d18d22-f42c-5be9-a245-c04e5034ed7e
-classicId: '2781201'
-classicProductId: '628670'
+  - 58a69699-1c69-58b9-aaf3-852bc428a9ef
+classicId: '2787587'
+classicProductId: '628671'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 71
-end: '2025-10-08T21:59:59.999Z'
+discount: 69
+end: '2025-10-15T21:59:59.999Z'
 freeDelivery: false
-id: eb21fd76-dcea-456f-aaa7-557df33df07e
+id: cba91901-870d-411f-8c6e-2614a0fdf0fd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2207020
+    - all
+  extension: image/png
+  id: a3497077-851a-4c37-816b-34bb0e7bb24d
   priority: 0
-  slug: 4x-robjin-waschmittel
+  slug: ariel-main-png-product-2
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: robijn-logo
   type: logo
-offerId: 0e6bb14a-b6d8-4323-bedb-a9423e01e339
+offerId: 533ad484-0396-4720-a2e9-380e66a4df90
 price:
-  cents: 3195
+  cents: 3395
   currency: EUR
-  value: 31.95
+  value: 33.95
 referencePrice:
   cents: 10900
   currency: EUR
   value: 109
 slug: 4x-robijn-k-k-wasmiddel-1-19-l-136sc
 soldOut: false
-start: '2025-10-02T22:00:00.000Z'
+start: '2025-10-08T22:00:00.000Z'
 title: 4x Robijn Klein & Krachtig Vloeibaar Wasmiddel | 1,19 L (136 sc)

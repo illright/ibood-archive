@@ -1,22 +1,22 @@
-_id: 68e3b0687966fbdc30547086
+_id: 68e3afa27966fbdc3054705d
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - ef14ae60-e6d1-54b0-b460-e51177736866
-classicId: '2783664'
-classicProductId: '570591'
+  - 9e629bc9-62cb-53f5-9524-0871139d08bf
+classicId: '2783648'
+classicProductId: '570588'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 50
+directCheckout: false
+discount: 54
 end: '2025-10-13T21:59:59.999Z'
 freeDelivery: false
-id: 9a08a78e-0e71-4c35-ba0b-2e8264d3e20b
+id: 2b13d89d-467f-44fc-bdd2-02f7bd2948a5
 image:
   channels:
     - website
@@ -25,7 +25,7 @@ image:
   extension: png
   id: 1942488
   priority: 0
-  slug: house-nordic-watford-sitzbank
+  slug: house-nordic-watford-opbergbank-95-cm
   type: product
 logo:
   channels:
@@ -33,15 +33,15 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1644555
+  id: 1942413
   priority: 100
-  slug: house-nordic-logo
+  slug: house-nordic-watford-opbergbank-95-cm
   type: logo
-offerId: d6681552-5652-4a8c-8d92-ad026bb78a73
+offerId: 060f8bb4-e8f5-49cb-8def-49e2daad7a62
 price:
-  cents: 6495
+  cents: 5995
   currency: EUR
-  value: 64.95
+  value: 59.95
 referencePrice:
   cents: 12995
   currency: EUR
