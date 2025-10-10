@@ -1,4 +1,4 @@
-_id: 68e633febe1a6c08a98c070b
+_id: 68e7796139eb062e5f6175fa
 appOnly: false
 brand: Erthskin London
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Erthskin London
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787169'
+classicId: '2788307'
 classicProductId: '615614'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 77
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: eb983054-a65f-4b00-a984-47b3978805ae
+id: 22b53ee0-442b-4c4f-820d-9369926c5aac
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: erthskin-london-egf-cell-effect-serum-60-ml
   type: product
-offerId: bf092d57-f17f-42d6-80ae-cbdcd58a51c7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1838817
+  priority: 100
+  slug: erthskin-london-logo
+  type: logo
+offerId: 2245d8c5-7420-4b18-84f1-8f23693929d6
 price:
   cents: 1795
   currency: EUR

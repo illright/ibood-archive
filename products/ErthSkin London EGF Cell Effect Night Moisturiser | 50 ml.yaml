@@ -1,4 +1,4 @@
-_id: 68e6341fbe1a6c08a98c0741
+_id: 68e7794e39eb062e5f6175e4
 appOnly: false
 brand: Erthskin London
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Erthskin London
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787211'
+classicId: '2788280'
 classicProductId: '615609'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 77
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: 63da0154-5f0f-4939-9bec-da1450d21843
+id: 5af22fae-7ed2-413b-a810-abcb4d342a86
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: erthskin-london-egf-cell-effect-night-moisturiser
   type: product
-offerId: fe88c0a8-a14c-4692-9d0e-5492ac829199
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1838817
+  priority: 100
+  slug: erthskin-london-logo
+  type: logo
+offerId: f70540f3-6ec4-4ed3-9309-ad7f8be4707b
 price:
   cents: 1495
   currency: EUR

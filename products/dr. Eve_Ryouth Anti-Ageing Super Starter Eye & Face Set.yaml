@@ -1,4 +1,4 @@
-_id: 68e633fcf992e245ea709aed
+_id: 68e77940b465e06f92400d79
 appOnly: false
 brand: dr.Eve_Ryouth
 brands:
@@ -6,7 +6,7 @@ brands:
     name: dr.Eve_Ryouth
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787165'
+classicId: '2788266'
 classicProductId: '204047'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 84
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: 1f2621ff-1412-4199-b924-e0a884969bae
+id: 822d7bd2-b85c-4596-a1c4-dc72765b742d
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: dr-everyouth-anti-ageing-starter-set
   type: product
-offerId: 8eaa6dec-67ce-4b39-b353-c84c0f5e31f8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1620656
+  priority: 100
+  slug: dr-eve-ryouth-logo
+  type: logo
+offerId: 89d51a5d-9b04-4bc9-afac-4b4dbea756fe
 price:
   cents: 2495
   currency: EUR

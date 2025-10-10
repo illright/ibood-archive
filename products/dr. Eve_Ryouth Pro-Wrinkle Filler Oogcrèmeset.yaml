@@ -1,4 +1,4 @@
-_id: 68e6341f12ed5ca0fd50756f
+_id: 68e779312ca7c50c27a3eeaa
 appOnly: false
 brand: dr.Eve_Ryouth
 brands:
@@ -6,7 +6,7 @@ brands:
     name: dr.Eve_Ryouth
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787206'
+classicId: '2788255'
 classicProductId: '129519'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 82
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: a9672ba7-d3e8-4d9b-833f-466b2d53add7
+id: 6738cdb8-1b71-40de-8c5b-333df3d25000
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: dr-everyouth-pro-wrinkle-filler-oogcremeset
   type: product
-offerId: a5f83de0-2df1-4c46-888d-c88f166f3559
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1620656
+  priority: 100
+  slug: dr-eve-ryouth-logo
+  type: logo
+offerId: 54eac29d-da78-46bc-83fb-84126726aa00
 price:
   cents: 1695
   currency: EUR

@@ -1,4 +1,4 @@
-_id: 68e61c34caaa824c5e80059e
+_id: 68e61c0c2d0e067974e1c1ec
 appOnly: false
 brand: Pyrex
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Pyrex
 categories:
   - 72321fe5-a5b7-5227-a39d-5c8da60d28f1
-classicId: '2786553'
-classicProductId: '629997'
+classicId: '2786459'
+classicProductId: '629998'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 51
+discount: 49
 end: '2025-10-14T21:59:59.999Z'
 freeDelivery: false
-id: dcd18aff-4fcd-41e6-953d-87803696612a
+id: 62949b45-82f9-48c6-8ac6-e00e30309cb7
 image:
   channels:
     - app
@@ -24,19 +24,30 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 506be617-f6bf-4e38-a5f4-b925569f951c
+  id: ee2edc96-eb80-4494-9a1c-4745cd928245
   priority: 0
-  slug: 20-png-product-1
+  slug: 15-png-product-1
   type: product
-offerId: d1ece8bb-5e70-4e60-b8b3-2bfc77da3139
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 752a9045-7a03-43bb-b0c5-d6365973ed06
+  priority: 0
+  slug: pyrex-logo-0
+  type: logo
+offerId: 5f782165-b13a-4241-995a-7369ea027342
 price:
-  cents: 1995
+  cents: 2295
   currency: EUR
-  value: 19.95
+  value: 22.95
 referencePrice:
-  cents: 4080
+  cents: 4490
   currency: EUR
-  value: 40.8
+  value: 44.9
 slug: pyrex-bakset-3-delig
 soldOut: false
 start: '2025-10-07T22:00:00.000Z'

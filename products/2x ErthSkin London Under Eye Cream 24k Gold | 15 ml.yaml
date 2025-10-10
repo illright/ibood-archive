@@ -1,4 +1,4 @@
-_id: 68e6340b4c92924243938931
+_id: 68e7795ed492d01818c2255d
 appOnly: false
 brand: Erthskin London
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Erthskin London
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787185'
+classicId: '2788308'
 classicProductId: '666507'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 40
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: 4724e77d-322e-4816-af0b-2751bdb718ae
+id: ab5f251b-3a11-4521-9f5a-0d47f96a0b8c
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 2x-erthskin-under-eye-cream-24k-gold-15-ml
   type: product
-offerId: b6f4f66a-bbc4-4c99-8273-21998d7cdfcb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1838817
+  priority: 100
+  slug: erthskin-london-logo
+  type: logo
+offerId: 9deb7709-f707-404b-b862-67c0b590430c
 price:
   cents: 1795
   currency: EUR

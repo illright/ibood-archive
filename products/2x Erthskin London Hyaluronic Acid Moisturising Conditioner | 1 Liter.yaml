@@ -1,4 +1,4 @@
-_id: 68e633f42d0e067974e1c2dc
+_id: 68e7796859d4fe30c39b7129
 appOnly: false
 brand: Erthskin London
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Erthskin London
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787154'
+classicId: '2788320'
 classicProductId: '546585'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 82
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: bf7a9d71-b537-4065-8bc2-b6af391f931c
+id: 1874feb3-cfee-4f64-bf8f-1054109550a5
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 2x-erthskin-moisturising-conditioner-1-liter
   type: product
-offerId: ea1cb812-bc68-4bea-8ae1-8a9bcf86f9a7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1838817
+  priority: 100
+  slug: erthskin-london-logo
+  type: logo
+offerId: 297fbadf-dca1-406b-bc44-70f4969ca04b
 price:
   cents: 1795
   currency: EUR
