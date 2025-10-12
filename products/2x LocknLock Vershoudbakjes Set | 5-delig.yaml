@@ -1,4 +1,4 @@
-_id: 68d278d73776e45302ced9bd
+_id: 68d27946c387babba87805e6
 appOnly: false
 brand: LOCK&LOCK
 brands:
@@ -6,8 +6,8 @@ brands:
     name: LOCK&LOCK
 categories:
   - 0eca2b50-c39e-5d70-9b1b-e89949026076
-classicId: '2769438'
-classicProductId: '666681'
+classicId: '2769440'
+classicProductId: '666680'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: true
 discount: 37
 end: '2025-10-14T21:59:59.999Z'
 freeDelivery: false
-id: e8161a59-95b7-560e-bea6-2c894405ceec
+id: 1c06b597-e296-5613-b763-927ea139de8e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 136798
+    - all
+  extension: image/jpeg
+  id: f68d5c67-c124-445b-85e8-e3d8fd04aa65
   priority: 0
-  slug: lock-lock-aufbewahrungsboxen-5-tlg
+  slug: locknlock-vershouddozen-voordeelset-small-5-delig-bpa-free-hpl806s5-product-1
   type: product
 logo:
   channels:
@@ -34,11 +35,11 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 4bc39b6d-480a-4915-8712-cabf30efe677
+  id: 2b17bdc0-032f-4076-875e-6349ce55dec4
   priority: 0
-  slug: locknlock-png-logo-101
+  slug: locknlock-png-logo-0
   type: logo
-offerId: bccc43a3-ff88-5057-89ca-e9f695a151e2
+offerId: b7cb8390-7879-55e9-9170-0656315e6a6f
 price:
   cents: 2495
   currency: EUR

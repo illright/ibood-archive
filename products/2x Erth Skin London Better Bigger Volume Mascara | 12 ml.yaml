@@ -1,4 +1,4 @@
-_id: 68e634044a6918561f20b06d
+_id: 68e7796439eb062e5f6175fe
 appOnly: false
 brand: Erthskin London
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Erthskin London
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787178'
+classicId: '2788313'
 classicProductId: '666510'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 85
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: dd07c19b-55c5-46e5-9311-fb16bc275240
+id: 77d03575-8ff1-4a31-807a-19375db3d5a2
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 2x-erth-skin-better-bigger-volume-mascara-12-ml
   type: product
-offerId: 47fa3cd7-d980-46c6-9cff-be698e0f6b4a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1838817
+  priority: 100
+  slug: erthskin-london-logo
+  type: logo
+offerId: 75eb2527-c6b6-4977-97df-d2197ae00840
 price:
   cents: 1495
   currency: EUR
