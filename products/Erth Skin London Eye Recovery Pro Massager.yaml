@@ -1,4 +1,4 @@
-_id: 68e633f812ed5ca0fd507541
+_id: 68e7795fd492d01818c22569
 appOnly: false
 brand: Erthskin London
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Erthskin London
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787159'
+classicId: '2788310'
 classicProductId: '666529'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 85
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: 2c461dfe-94cd-4da0-a39f-c137d963bda6
+id: 76b75225-69c3-4ae3-8ae0-45a2d3e3ebe0
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: erth-skin-london-eye-recovery-pro-massager-ers117-product-7
   type: product
-offerId: 4b849a76-2850-4622-a24c-180b0ccfb712
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1838817
+  priority: 100
+  slug: erthskin-london-logo
+  type: logo
+offerId: 911ed181-ebfc-4305-8320-c69304c39c4b
 price:
   cents: 1995
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 129
 slug: erth-skin-london-eye-recovery-pro-massager
-soldOut: false
+soldOut: true
 start: '2025-09-25T22:00:00.000Z'
 title: Erth Skin London Eye Recovery Pro Massager

@@ -1,12 +1,12 @@
-_id: 68e77abc2ca7c50c27a3ef0d
+_id: 68e61356caaa824c5e8001dd
 appOnly: false
 brand: Lucovitaal
 brands:
   - id: 621885b0-f26c-5004-bc8f-542a070ef545
     name: Lucovitaal
 categories:
-  - 9a9e47ed-0754-5839-9fa5-9d23773afd2b
-classicId: '2788336'
+  - 1a3ec887-9734-5b47-ab94-3703e4274ffa
+classicId: '2786075'
 classicProductId: '472688'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 80
-end: '2025-10-12T21:59:59.999Z'
+end: '2025-10-16T21:59:59.999Z'
 freeDelivery: false
-id: 56b63eef-be58-498b-9b7a-14e20c472c37
+id: 6fa19d6f-52eb-4c03-96e9-bb4a74976180
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1558522
-  priority: 100
-  slug: lucovitaal-logo
+    - all
+  extension: image/png
+  id: bc1b9c76-f759-413f-abb6-874f53d19ee1
+  priority: 0
+  slug: lucovitaal-png-logo-0
   type: logo
-offerId: 945471ec-20bc-49de-9d21-e0d6751d545f
+offerId: f8fd8788-d28b-432d-923e-7f82a789845b
 price:
   cents: 1195
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 59.97
 slug: 3x-28-lucovitaal-cranmad-capsules
 soldOut: false
-start: '2025-10-07T22:00:00.000Z'
+start: '2025-10-12T22:00:00.000Z'
 title: 3x 28 Lucovitaal CranMad Capsules

@@ -1,4 +1,4 @@
-_id: 68e633f02d0e067974e1c2cb
+_id: 68e7796939eb062e5f61760a
 appOnly: false
 brand: Erthskin London
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Erthskin London
 categories:
   - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2787149'
+classicId: '2788323'
 classicProductId: '642720'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 80
 end: '2025-10-13T21:59:59.000Z'
 freeDelivery: false
-id: 34bb75c6-5999-4dd3-8c83-309f39418b83
+id: 82c8986a-34c2-4418-9bdb-ce0a3f78ca37
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: erth-skin-london-7-colour-gezicht-nek-led-masker
   type: product
-offerId: 6e9064a7-d3c0-4670-be94-5ea28f342e43
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1838817
+  priority: 100
+  slug: erthskin-london-logo
+  type: logo
+offerId: 8d31f5cd-8b61-4e2f-95d6-00a79d43f3df
 price:
   cents: 4995
   currency: EUR
