@@ -1,41 +1,52 @@
-_id: 68da60b6e1663c365a201aa1
+_id: 68ecc00908810ffaac85a262
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - e494da4a-ea61-56ad-b6f7-e20847f4373d
-classicId: '2775863'
-classicProductId: '583295'
+  - ba899ca6-5b3c-5a79-8f69-d20fc59f2962
+classicId: '2788970'
+classicProductId: '583298'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 22
-end: '2025-10-13T21:59:59.999Z'
+directCheckout: false
+discount: 55
+end: '2025-10-19T21:59:59.999Z'
 freeDelivery: false
-id: 0efa6bfd-99b2-5eec-9f38-c43f72440a43
+id: 0e07c72f-d90b-4b68-bc96-ff998b68dd0d
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 1994642
-  priority: 0
+    - app
+    - newsletter
+  extension: png
+  id: 1999948
+  priority: 40
   slug: dutchbone-vloerkleed-200-x-300-cm
   type: product
-offerId: bf14c55a-2505-5923-a8db-9e8ae1ba39a5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1999917
+  priority: 100
+  slug: dutchbone-logo
+  type: logo
+offerId: 2febc311-3f9e-4ddc-a5ff-2f734c36c552
 price:
-  cents: 24900
+  cents: 17900
   currency: EUR
-  value: 249
+  value: 179
 referencePrice:
-  cents: 31900
+  cents: 39900
   currency: EUR
-  value: 319
+  value: 399
 slug: dutchbone-vloerkleed-200-x-300-cm
 soldOut: false
-start: '2025-10-06T22:00:00.000Z'
+start: '2025-10-13T22:00:00.000Z'
 title: Dutchbone Vloerkleed | 200 x 300 cm
