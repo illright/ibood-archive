@@ -1,4 +1,4 @@
-_id: 68ece04e96d766389b7975fa
+_id: 68ece03df34ea90d3c0fd07c
 appOnly: false
 brand: Petrol
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Petrol
 categories:
   - 797f50d0-6b12-5713-882d-feeb7ed93ddb
-classicId: '2790124'
-classicProductId: '665295'
+classicId: '2790103'
+classicProductId: '665289'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 60
+discount: 44
 end: '2025-10-20T21:59:59.999Z'
 freeDelivery: false
-id: 4f6c6ab5-dfa4-4201-b65f-1c2d677c732a
+id: f15d6f9c-992d-432f-8dd8-c47fac99569a
 image:
   channels:
     - app
@@ -24,26 +24,25 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 0b01f0be-930c-41b9-bc52-6683b31d765d
+  id: 50bb807d-eeed-4381-8970-33a9ce258f23
   priority: 0
-  slug: s-deep-black-m-3050-tsr128-9111-men-t-shirt-ss-classic-print-petrol-product-0
+  slug: l-deep-black-m-3050-tsr125-9111-men-t-shirt-ss-classic-print-petrol-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 43289eeb-38e8-4353-8f33-6f018b34c57f
-  priority: 0
-  slug: petrol-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 7872a900-034c-45f6-8c94-a3f31337fcfb
+offerId: 018740e5-e28e-47f2-8881-62de103d33e9
 price:
-  cents: 995
+  cents: 1395
   currency: EUR
-  value: 9.95
+  value: 13.95
 referencePrice:
   cents: 2499
   currency: EUR

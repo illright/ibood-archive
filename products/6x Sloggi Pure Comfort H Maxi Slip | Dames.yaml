@@ -1,4 +1,4 @@
-_id: 68ecd45c08810ffaac85a643
+_id: 68ecd453e63af2a6c9271c7c
 appOnly: false
 brand: Sloggi
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Sloggi
 categories:
   - cc5537a2-3c6a-552b-b344-e098e07a3b61
-classicId: '2789790'
-classicProductId: '627565'
+classicId: '2789779'
+classicProductId: '627575'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,29 +16,28 @@ directCheckout: false
 discount: 36
 end: '2025-10-20T21:59:59.999Z'
 freeDelivery: false
-id: a52c6c44-48fd-4ba3-adfb-579268415913
+id: cef2a2ab-24aa-46e5-ac26-b974a41a88a7
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2193558
+  id: 2193562
   priority: 0
   slug: 6x-sloggi-pure-comfort-h-maxi-slip-dames
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ceb5d3d9-18bf-4e43-95e3-dea6fb59a9c5
-  priority: 0
-  slug: sloggi-logo-0
+  extension: png
+  id: 2193417
+  priority: 100
+  slug: 6x-sloggi-pure-comfort-h-maxi-slip-dames
   type: logo
-offerId: cab6a321-0f0b-4b7b-a729-1996d8a553ad
+offerId: 02aad3a5-6c29-4488-9871-4f5fa467f2a0
 price:
   cents: 2795
   currency: EUR

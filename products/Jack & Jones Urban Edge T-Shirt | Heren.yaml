@@ -1,4 +1,4 @@
-_id: 68ece08f420276090812034d
+_id: 68ece08c6a5c3a33c36a8aa7
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,24 +6,24 @@ brands:
     name: Jack & Jones
 categories:
   - 731b39a0-4953-552e-97fd-8dc64f38b8e0
-classicId: '2790198'
-classicProductId: '632854'
+classicId: '2790197'
+classicProductId: '632848'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
+directCheckout: false
 discount: 65
 end: '2025-10-20T21:59:59.999Z'
 freeDelivery: false
-id: a7a4e693-51e0-4364-9e82-83d81e95055b
+id: 7153eb49-bfc4-4289-b1a7-b68f7d6934bc
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 2252734
+  extension: jpg
+  id: 2225593
   priority: 0
   slug: jack-jones-urban-edge-t-shirt-heren
   type: product
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1902974
+  id: 1829631
   priority: 100
-  slug: jack-jones-urban-edge-t-shirt-heren
+  slug: jack-jones-logo
   type: logo
-offerId: 389f2faf-7b1e-4d54-bb9a-277b4afab86d
+offerId: 5ac31158-eca6-4b77-9a82-ab43458cef61
 price:
   cents: 695
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 19.99
 slug: jack-jones-urban-edge-t-shirt-heren
-soldOut: false
+soldOut: true
 start: '2025-10-13T22:00:00.000Z'
 title: Jack & Jones Urban Edge T-Shirt | Heren
