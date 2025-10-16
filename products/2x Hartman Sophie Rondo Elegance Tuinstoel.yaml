@@ -1,4 +1,4 @@
-_id: 68ecd2ee08810ffaac85a584
+_id: 68ef69fdcac9b5e531d409b7
 appOnly: false
 brand: Hartman
 brands:
@@ -6,44 +6,43 @@ brands:
     name: Hartman
 categories:
   - eccef0b0-f14a-52c0-b28f-3cf24dd95e60
-classicId: '2789679'
-classicProductId: '644389'
+classicId: '2792577'
+classicProductId: '651888'
 deliveryPrice:
-  cents: 595
+  cents: 895
   currency: EUR
-  value: 5.95
-directCheckout: false
-discount: 69
+  value: 8.95
+directCheckout: true
+discount: 68
 end: '2025-10-19T21:59:59.999Z'
 freeDelivery: false
-id: d1ddb24f-193c-4750-b1ae-6438c6666eb5
+id: 4c1acae5-d7b5-4718-a33b-4c180d063274
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 7fd56613-f642-4a97-9a8c-4ba8fc118305
+  extension: image/jpeg
+  id: dee07b36-2ea6-41c7-95de-8c06e7bbc39c
   priority: 0
-  slug: hartman-06-png-product-1
+  slug: hartman-21-jpg-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 86d678a7-76bc-4ee1-a95d-ba8a8712bad7
-  priority: 0
-  slug: hartman-png-logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: da708f93-c1fe-4cdb-a033-54dfb2056a74
+offerId: 053f2970-b0dd-4755-a33d-181058db617f
 price:
-  cents: 7495
+  cents: 7695
   currency: EUR
-  value: 74.95
+  value: 76.95
 referencePrice:
   cents: 23990
   currency: EUR

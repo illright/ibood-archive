@@ -1,31 +1,32 @@
-_id: 68ee06c485ed6cdb8eb828fa
+_id: 68ef5958cac9b5e531d40836
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - 7327695b-2923-52b3-9cb0-efd7d8bcfaab
-classicId: '2790579'
-classicProductId: '497893'
+  - ba899ca6-5b3c-5a79-8f69-d20fc59f2962
+classicId: '2792285'
+classicProductId: '497891'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 60
+directCheckout: true
+discount: 68
 end: '2025-10-19T21:59:59.999Z'
 freeDelivery: false
-id: 00c4ecac-47b9-4461-8589-1c743024c8e2
+id: f6c0a88f-6cdf-4bf9-8b52-2f5032bc9c7c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1892545
+    - all
+  extension: image/png
+  id: 8395033a-d003-42f2-bb8f-e3adc06584f5
   priority: 0
-  slug: 2x-multifurn-jill-esszimmerstuhl
+  slug: stoel-03-png-product-7
   type: product
 logo:
   channels:
@@ -37,11 +38,11 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: ab097ba9-a7e5-486e-b0ba-428d6305f6ac
+offerId: 4d0f2c15-0139-4fc2-9c26-2335003426db
 price:
-  cents: 15900
+  cents: 12900
   currency: EUR
-  value: 159
+  value: 129
 referencePrice:
   cents: 39800
   currency: EUR
