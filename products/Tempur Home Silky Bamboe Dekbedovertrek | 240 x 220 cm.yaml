@@ -1,4 +1,4 @@
-_id: 68de7a3527b0523c70284ef3
+_id: 68de7a29d61923d852fa6154
 appOnly: false
 brand: Tempur
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Tempur
 categories:
   - 07bd2bc3-f363-51c7-a99d-3cfe5bd73683
-classicId: '2780910'
-classicProductId: '507920'
+classicId: '2780895'
+classicProductId: '507919'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 30
 end: '2025-10-21T21:59:59.999Z'
 freeDelivery: false
-id: d3f5fd4f-53b4-5370-bca6-78e53c806717
+id: c7736b24-547a-5bf9-8c3c-b623f6ed7849
 image:
   channels:
     - app
@@ -24,11 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 7f285513-0d98-4def-b354-afba84957aa4
+  id: 4f305d3f-6cc5-408b-a1cb-357248a6afd6
   priority: 0
-  slug: tempur-03-png-product-3
+  slug: tempur-04-png-product-1
   type: product
-offerId: 31e61058-5816-55ef-8231-a7e346942f60
+offerId: 9a6b3692-6307-5d3a-9b86-a5128b6f37a7
 price:
   cents: 8995
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 129
 slug: tempur-home-dekbedovertrek-240-x-220-cm
-soldOut: false
+soldOut: true
 start: '2025-10-14T22:00:00.000Z'
 title: Tempur Home Silky Bamboe Dekbedovertrek | 240 x 220 cm
