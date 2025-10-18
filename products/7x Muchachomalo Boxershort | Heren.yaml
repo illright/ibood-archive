@@ -1,4 +1,4 @@
-_id: 68ecd446cb97ef6fbd7e25c3
+_id: 68f2224c4d7ed090abdfb25a
 appOnly: false
 brand: Muchachomalo
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Muchachomalo
 categories:
   - cc5537a2-3c6a-552b-b344-e098e07a3b61
-classicId: '2789761'
-classicProductId: '644311'
+classicId: '2795296'
+classicProductId: '644302'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 65
-end: '2025-10-20T21:59:59.999Z'
+end: '2025-10-21T21:59:59.000Z'
 freeDelivery: false
-id: 10581ad9-b98c-464e-91ae-90fb42780504
+id: 1d87b29f-9b5c-49e0-a26d-c6cd1987d48b
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2006210
-  priority: 100
-  slug: muchachomalo-logo
+    - all
+  extension: image/png
+  id: 66484d8e-9524-4151-9e5d-73b964dad769
+  priority: 0
+  slug: 2207431-png-logo-0
   type: logo
-offerId: 7e042b6e-8f74-45d4-9b64-401f11786d54
+offerId: 225e3e65-3fce-4e37-b1f5-09e538c7a978
 price:
   cents: 3495
   currency: EUR

@@ -1,4 +1,4 @@
-_id: 68dbd19f1e9f72d303378b89
+_id: 68dbd19b1e9f72d303378b7d
 appOnly: false
 brand: Heckett Lane
 brands:
@@ -6,36 +6,46 @@ brands:
     name: Heckett Lane
 categories:
   - 28051a10-1dfe-5577-a526-c252a97a75ad
-classicId: '2778134'
-classicProductId: '387981'
+classicId: '2778132'
+classicProductId: '462166'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 54
+discount: 43
 end: '2025-10-21T21:59:59.999Z'
 freeDelivery: false
-id: 9325d293-4d98-58f9-8c6c-7c9925270e3d
+id: f5a6122b-5d3a-5bfc-b146-f9f4e6f4c806
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 1876233
+  id: 1876227
   priority: 100
   slug: elementi-hoeslaken-90-x-200-210-220-cm
   type: product
-offerId: 7173d762-b66e-5940-b724-ffa58a8aca50
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1876505
+  priority: 100
+  slug: elementi-hoeslaken-90-x-200-210-220-cm
+  type: logo
+offerId: b6a7ab1e-5bc5-529f-b9e3-27f58a8dc7c2
 price:
   cents: 2295
   currency: EUR
   value: 22.95
 referencePrice:
-  cents: 4995
+  cents: 3995
   currency: EUR
-  value: 49.95
+  value: 39.95
 slug: elementi-hoeslaken-90-x-200-210-220-cm
 soldOut: false
 start: '2025-10-14T22:00:00.000Z'
