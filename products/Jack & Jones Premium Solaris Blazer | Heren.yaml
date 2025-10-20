@@ -1,4 +1,4 @@
-_id: 68ece07d0973bb18ec550ac5
+_id: 68ece06ada937c72200c60a4
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,24 +6,24 @@ brands:
     name: Jack & Jones
 categories:
   - 731b39a0-4953-552e-97fd-8dc64f38b8e0
-classicId: '2790175'
-classicProductId: '632930'
+classicId: '2790149'
+classicProductId: '632933'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 69
 end: '2025-10-20T21:59:59.999Z'
 freeDelivery: false
-id: 190a810b-a185-488d-b2db-08847eaeb898
+id: 102d7a47-23e1-4fd1-ad85-77ab817c3990
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2226244
+  id: 2226251
   priority: 0
   slug: jack-jones-premium-solaris-blazer-heren
   type: product
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1829631
+  id: 1902974
   priority: 100
-  slug: jack-jones-logo
+  slug: jack-jones-premium-solaris-blazer-heren
   type: logo
-offerId: 05572d3e-8299-449b-a1ee-3f9785ac2e07
+offerId: e2288f60-1c85-4b00-bf5a-bdd69aa4f5aa
 price:
   cents: 3995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 129.99
 slug: jack-jones-premium-solaris-blazer-heren
-soldOut: false
+soldOut: true
 start: '2025-10-13T22:00:00.000Z'
 title: Jack & Jones Premium Solaris Blazer | Heren

@@ -1,4 +1,4 @@
-_id: 68ef6d1ecac9b5e531d40a25
+_id: 68ef6d22cac9b5e531d40a34
 appOnly: false
 brand: Dutchbone
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Dutchbone
 categories:
   - f3aae14e-ab70-5746-bb07-9237a9b7c15f
-classicId: '2792623'
-classicProductId: '628933'
+classicId: '2792626'
+classicProductId: '628931'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 50
 end: '2025-10-20T21:59:59.999Z'
 freeDelivery: false
-id: 699a9838-86bb-4ea2-a52a-3a60019f0a38
+id: 6ad693fc-672b-45f8-a4f8-8d41a855b123
 image:
   channels:
     - app
@@ -24,21 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4bc4f88e-db79-4538-87c3-e51886e4df74
+  id: 923adbdb-cfe2-4f45-adae-5952846bd415
   priority: 0
-  slug: stoel-06-png-product-1
+  slug: stoel-08-png-product-10
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1999917
-  priority: 100
-  slug: dutchbone-logo
-  type: logo
-offerId: 42d262ac-0eaf-4680-b17f-ae34ea7abcdc
+offerId: ebfc873d-96ca-465f-9f7f-b682a993c70f
 price:
   cents: 17900
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 360
 slug: 2x-dutchbone-oliver-draaibare-eetstoel
-soldOut: false
+soldOut: true
 start: '2025-10-15T22:00:00.000Z'
 title: 2x Dutchbone Oliver Draaibare Eetkamerstoel

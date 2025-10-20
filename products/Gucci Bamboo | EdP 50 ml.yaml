@@ -1,12 +1,12 @@
-_id: 68d6431f6a19217b405a618a
+_id: 68ef49a1cac9b5e531d4052f
 appOnly: false
 brand: Gucci
 brands:
   - id: e2d2a109-1dd0-5269-947d-a4f61f7b8756
     name: Gucci
 categories:
-  - 63c524cf-d9bc-555d-9b36-f762b85af217
-classicId: '2771633'
+  - fb9d0471-c136-5d3c-bd4e-bcbff21b5194
+classicId: '2791586'
 classicProductId: '224603'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2025-10-19T21:59:59.000Z'
+end: '2025-11-02T22:59:59.999Z'
 freeDelivery: false
-id: 968aac49-182c-41f2-9a46-84b3cd6a5f66
+id: 97e8c7be-0645-5b72-bd3f-9ccf191612db
 image:
   channels:
     - website
@@ -27,17 +27,7 @@ image:
   priority: 100
   slug: gucci-bamboo-edp-50-ml
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 2000510
-  priority: 100
-  slug: gucci-logo
-  type: logo
-offerId: 7689eb6e-b0d7-4d84-9e20-e0017832b2b5
+offerId: fce4c588-00ac-59b2-90a7-184e1d6479e2
 price:
   cents: 4495
   currency: EUR
@@ -47,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 85
 slug: gucci-bamboo-edp-50-ml
-soldOut: true
-start: '2025-09-25T22:00:00.000Z'
+soldOut: false
+start: '2025-10-19T22:00:00.000Z'
 title: Gucci Bamboo | EdP 50 ml
