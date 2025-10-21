@@ -1,22 +1,22 @@
-_id: 68ef6c65cac9b5e531d40a01
+_id: 68f5f7a12906b21ca39901fb
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - f3aae14e-ab70-5746-bb07-9237a9b7c15f
-classicId: '2792605'
+  - 8a36c54a-a1f1-5c23-8f0c-2de43ae1d578
+classicId: '2796178'
 classicProductId: '637331'
 deliveryPrice:
   cents: 2995
   currency: EUR
   value: 29.95
-directCheckout: false
+directCheckout: true
 discount: 58
-end: '2025-10-20T21:59:59.999Z'
+end: '2025-10-26T22:59:59.999Z'
 freeDelivery: false
-id: 23cf1885-a907-4f9e-9d82-69f6025dd668
+id: 3cd41361-b1a2-4a23-bd7f-0196e16a2205
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 08b75c28-b0e0-463b-a91f-0b5ba906eadc
-  priority: 0
-  slug: aka-main-png-product-1
+  id: d5a3d300-82b0-4fce-a064-c1c778aff014
+  priority: 101
+  slug: dutchbone-aka-eettafel-180-x-90-cm-product-101
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2506203a-20d6-462f-a897-29143778f304
-  priority: 0
-  slug: dutchbone-png-logo-0
+  extension: png
+  id: 1999917
+  priority: 100
+  slug: dutchbone-logo
   type: logo
-offerId: 727ee420-27fb-4f8b-817a-23f46b28779d
+offerId: f420c3d6-931a-46c1-b178-b7d60ed4d071
 price:
   cents: 37900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 899
 slug: dutchbone-aka-eettafel-180-x-90-cm
 soldOut: false
-start: '2025-10-15T22:00:00.000Z'
+start: '2025-10-20T22:00:00.000Z'
 title: Dutchbone Aka Eettafel | 180 x 90 cm

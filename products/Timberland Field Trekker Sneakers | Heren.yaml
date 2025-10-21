@@ -1,4 +1,4 @@
-_id: 68ecbaa1c8db3e202f3bbdc4
+_id: 68f5e1b11433810804e0669a
 appOnly: false
 brand: Timberland
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Timberland
 categories:
   - 22ebaa8d-6b5f-51f8-8e84-9806fd4032e9
-classicId: '2788955'
-classicProductId: '660578'
+classicId: '2795920'
+classicProductId: '660594'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 47
-end: '2025-10-20T21:59:59.999Z'
+end: '2025-10-21T21:59:59.999Z'
 freeDelivery: false
-id: c143a483-d300-45df-bb9f-9c30e320f6b6
+id: d26580c2-edf4-4276-9418-82c472d342eb
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2008165
-  priority: 100
-  slug: timberland-logo
+    - all
+  extension: image/png
+  id: 4a38b537-b796-43e3-8009-b0b4ab9ea259
+  priority: 0
+  slug: timberland-png-logo-0
   type: logo
-offerId: 3a62d8f9-4bc2-4050-9349-a75a0eed78b2
+offerId: 223d274f-b351-416e-a034-885bb049eb79
 price:
   cents: 7995
   currency: EUR

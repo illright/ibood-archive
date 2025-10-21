@@ -1,31 +1,32 @@
-_id: 68ee40955f35bd822d593c3d
+_id: 68f608611433810804e06aa4
 appOnly: false
 brand: Beddinghouse DDesign
 brands:
   - id: efb0a85e-af44-5cfc-884e-61618013067d
     name: Beddinghouse DDesign
 categories:
-  - 28051a10-1dfe-5577-a526-c252a97a75ad
-classicId: '2791101'
-classicProductId: '563184'
+  - ba6751d6-87c8-56f1-97f2-20d0b3c55193
+classicId: '2796653'
+classicProductId: '495211'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 80
-end: '2025-10-21T21:59:59.999Z'
+directCheckout: false
+discount: 78
+end: '2025-10-26T22:59:59.999Z'
 freeDelivery: false
-id: 55b69887-3c1b-4050-ad03-76ecc065173e
+id: ff8ec4c1-242a-40e8-952e-81c3d1081169
 image:
   channels:
-    - website
-    - app
     - newsletter
-  extension: png
-  id: 2000194
-  priority: 0
-  slug: beddinghouse-overtrek-katoensatijn-240-x-200220
+    - all
+    - app
+    - website
+  extension: image/jpeg
+  id: 0aba8c87-7e16-4964-9991-356f2077073a
+  priority: 1
+  slug: main1564-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: beddinghouse-ddesign-logo
   type: logo
-offerId: 3b74ce3f-eb4e-4e16-8ba6-fca39a08488a
+offerId: 6f2d721c-06cb-4688-9cf4-acec7aa68fd4
 price:
-  cents: 4295
+  cents: 4495
   currency: EUR
-  value: 42.95
+  value: 44.95
 referencePrice:
-  cents: 21995
+  cents: 19995
   currency: EUR
-  value: 219.95
+  value: 199.95
 slug: beddinghouse-overtrek-katoensatijn-240-x-200220
 soldOut: false
-start: '2025-10-14T22:00:00.000Z'
+start: '2025-10-20T22:00:00.000Z'
 title: Beddinghouse Dekbedovertrek 100% Katoensatijn | 240 x 200/220 cm

@@ -1,22 +1,22 @@
-_id: 68eccb0c08810ffaac85a3d7
+_id: 68f5ffbf1fea9121d657c2ed
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - ac775bc0-b502-551c-9072-5c4fc78427f2
-classicId: '2789269'
-classicProductId: '661550'
+  - 488f7e87-7593-5fa8-b5b7-82baebd7e070
+classicId: '2796544'
+classicProductId: '661551'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 33
-end: '2025-10-22T21:59:59.999Z'
+end: '2025-10-21T21:59:59.000Z'
 freeDelivery: false
-id: 89b983fd-43fb-4c7b-ab71-93c5281cdd06
+id: b7e53547-1e81-4471-b97a-2ce117f2c4dc
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: m-black-763410-15000-gloves-full-finger-multisport-waterproof-odlo-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1620425
-  priority: 100
-  slug: odlo-logo
-  type: logo
-offerId: 146b4733-6c0e-4ec5-a4ed-5c0080659d94
+offerId: 18cfb7ec-8f94-42a1-ae55-fdc0c436b2cc
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 60
 slug: odlo-multisport-waterdichte-handschoenen
-soldOut: false
-start: '2025-10-13T22:00:00.000Z'
+soldOut: true
+start: '2025-10-14T22:00:00.000Z'
 title: Odlo Multisport Waterdichte Handschoenen

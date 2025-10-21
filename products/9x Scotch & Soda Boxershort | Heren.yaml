@@ -1,22 +1,22 @@
-_id: 68f22247c0aab613a13c6ba2
+_id: 68f2098811fc04322bdf4c23
 appOnly: false
 brand: Scotch and Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch and Soda
 categories:
-  - cc5537a2-3c6a-552b-b344-e098e07a3b61
-classicId: '2795283'
-classicProductId: '658663'
+  - b61d0534-338e-5971-861b-071edc476d50
+classicId: '2794949'
+classicProductId: '673171'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 56
-end: '2025-10-21T21:59:59.000Z'
+discount: 61
+end: '2025-10-21T21:59:59.999Z'
 freeDelivery: false
-id: d68c22a5-7846-41a0-8488-36f7c415fb37
+id: a6d56e11-5028-55d4-8893-0fbc74580405
 image:
   channels:
     - app
@@ -24,20 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 54b9e156-f6bc-49b5-bc17-1cb1e8100884
+  id: fa61fdd8-4b60-455e-a421-5b35b1e413a3
   priority: 0
-  slug: main-black-combo-png-product-1
+  slug: main-png-product-1
   type: product
-offerId: 923240cc-f99c-4305-9bcc-04832b69d342
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: badbe12f-f289-4b77-b71b-9979773ed644
+  priority: 0
+  slug: scotch-and-soda-png-logo-0
+  type: logo
+offerId: 89e40b9d-96a4-599f-8b74-27ab23cf3e82
 price:
-  cents: 3995
+  cents: 3495
   currency: EUR
-  value: 39.95
+  value: 34.95
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: 9x-scotch-soda-boxershort
 soldOut: false
-start: '2025-10-13T22:00:00.000Z'
+start: '2025-10-20T22:00:00.000Z'
 title: 9x Scotch & Soda Boxershort | Heren

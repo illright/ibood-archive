@@ -1,4 +1,4 @@
-_id: 68ef816ccef49c13571a4775
+_id: 68ef816bcac9b5e531d40acd
 appOnly: false
 brand: Merrell
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Merrell
 categories:
   - e08e4b8f-60c2-542f-99f9-fc6c1f022181
-classicId: '2792675'
-classicProductId: '668449'
+classicId: '2792674'
+classicProductId: '659705'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 46
 end: '2025-10-23T21:59:59.999Z'
 freeDelivery: false
-id: d246efbc-f65e-4d1b-9121-ae5be9fe87e1
+id: e433e5cc-f81e-4b67-a1c0-2af9aaa296ea
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d66df747-b95d-4612-b291-58d389fe4b3a
+  id: bbac76c2-d5bc-4531-850f-33d35b00db9a
   priority: 0
-  slug: merrel-24-png-product-1
+  slug: main-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: merrell-logo
   type: logo
-offerId: bb8898d5-83d7-4ccb-abb4-e2db8c83f4f8
+offerId: 1ee96c99-398d-4b88-a977-f4dffa84fb7f
 price:
   cents: 7495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 140
 slug: merrell-speed-eco-wandelschoenen
-soldOut: false
+soldOut: true
 start: '2025-10-19T22:00:00.000Z'
 title: Merrell Speed Eco Wandelschoenen | Heren
