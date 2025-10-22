@@ -1,4 +1,4 @@
-_id: 68f5f7bcc761c463a177c42f
+_id: 68f5f79a4bb65843d4b9067c
 appOnly: false
 brand: Lifa Living
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Lifa Living
 categories:
   - 8a36c54a-a1f1-5c23-8f0c-2de43ae1d578
-classicId: '2796220'
-classicProductId: '489448'
+classicId: '2796172'
+classicProductId: '489449'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 61
+discount: 59
 end: '2025-10-26T22:59:59.999Z'
 freeDelivery: false
-id: 18b0c88d-4b51-414b-8d3e-26f162f36475
+id: 71abba20-287a-4f5e-b6ae-5c28d6629066
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c14254ba-9796-4e69-b9e7-7ddeb05d280b
+  extension: png
+  id: 2238279
   priority: 0
-  slug: lifa-living-01-png-product-1
+  slug: lifa-living-oxford-lederen-bureaustoel
   type: product
 logo:
   channels:
@@ -38,15 +37,15 @@ logo:
   priority: 100
   slug: lifa-living-logo
   type: logo
-offerId: c6bdb04f-85d1-4b06-9faf-d924d0820db3
+offerId: 0d5db06a-893c-454d-b953-a7c3d69aca99
 price:
   cents: 8995
   currency: EUR
   value: 89.95
 referencePrice:
-  cents: 22995
+  cents: 21995
   currency: EUR
-  value: 229.95
+  value: 219.95
 slug: lifa-living-oxford-lederen-bureaustoel
 soldOut: false
 start: '2025-10-20T22:00:00.000Z'

@@ -1,12 +1,12 @@
-_id: 68ecc4dbda937c72200c5d61
+_id: 68f0b284a87f743b74e3fe7b
 appOnly: false
 brand: FlinQ
 brands:
   - id: c5850d1b-064a-5297-987d-113f01df60eb
     name: FlinQ
 categories:
-  - d250e580-11d8-5516-a2ba-aa43c3dda865
-classicId: '2789145'
+  - 0a56ebff-13d4-531b-88e2-ce1e896c1154
+classicId: '2793480'
 classicProductId: '658675'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2025-10-23T21:59:59.999Z'
+end: '2025-10-22T21:59:59.999Z'
 freeDelivery: false
-id: bf0e7051-58f3-57f6-a74c-b9362e89bfb8
+id: df267f59-047d-4ce0-a9ea-25ddf7bedd59
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: ailader-png-product-1
   type: product
-offerId: 670294e5-4ac4-5682-b1a7-bbf30299dd2b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2006222
+  priority: 100
+  slug: flinq-logo
+  type: logo
+offerId: b6290a4a-4afe-4fdc-8b81-8da83fcc368d
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 99.99
 slug: flinq-nano-gan-100-w-pd-oplader-3x-usb
 soldOut: false
-start: '2025-10-16T22:00:00.000Z'
+start: '2025-10-15T22:00:00.000Z'
 title: FlinQ Nano GaN 100 W PD Oplader | 2x USB-C | 1x USB-A

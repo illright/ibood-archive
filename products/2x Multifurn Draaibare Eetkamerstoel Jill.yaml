@@ -1,22 +1,22 @@
-_id: 68f6086e9deb9bfb5325743c
+_id: 68f5f7cb2906b21ca399022e
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - ba6751d6-87c8-56f1-97f2-20d0b3c55193
-classicId: '2796674'
-classicProductId: '497891'
+  - 8a36c54a-a1f1-5c23-8f0c-2de43ae1d578
+classicId: '2796241'
+classicProductId: '445795'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 68
+discount: 60
 end: '2025-10-26T22:59:59.999Z'
 freeDelivery: false
-id: fc259489-9fdb-42b4-b847-ecbff6d396eb
+id: ad70671d-b106-4cce-a1ea-b423b67997ec
 image:
   channels:
     - website
@@ -29,20 +29,19 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d5a36ebf-8337-4f62-af40-1a6150b95b3c
-  priority: 0
-  slug: multifurn-png-logo-0
+  extension: png
+  id: 1633646
+  priority: 100
+  slug: multifurn-logo
   type: logo
-offerId: 6c4d4686-c9d7-4cd4-b4a6-c694a520b012
+offerId: e00bbf0e-98d6-44b5-a946-9fe48f72f16d
 price:
-  cents: 12900
+  cents: 15900
   currency: EUR
-  value: 129
+  value: 159
 referencePrice:
   cents: 39800
   currency: EUR

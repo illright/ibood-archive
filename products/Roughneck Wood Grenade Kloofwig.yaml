@@ -1,12 +1,12 @@
-_id: 68e38e2f7966fbdc30546e0e
+_id: 68f739a09f75b5394470fbfc
 appOnly: false
 brand: Roughneck
 brands:
   - id: 98bab236-d75c-5c10-8029-bdb28f266cc3
     name: Roughneck
 categories:
-  - 4a487a1e-4804-5c1a-bf91-76bbbace75b6
-classicId: '2783159'
+  - 89185c2b-058d-53e9-afc2-c9937047f192
+classicId: '2797497'
 classicProductId: '100898'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2025-10-26T22:59:59.999Z'
+end: '2025-10-27T22:59:59.999Z'
 freeDelivery: false
-id: ad45d799-b0db-5308-8174-c58bd32481de
+id: fc69c565-be38-45b8-90cf-762b6ffc584a
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: roughneck-wood-grenade-kloofwig
   type: product
-offerId: 4756fcdb-9809-5f39-b35f-c40f97065405
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1782683
+  priority: 100
+  slug: roughneck-logo
+  type: logo
+offerId: 3883a465-27b4-45ce-9acd-1067e7d9cd1b
 price:
   cents: 1295
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 26.81
 slug: roughneck-wood-grenade-kloofwig
 soldOut: false
-start: '2025-10-19T22:00:00.000Z'
+start: '2025-10-20T22:00:00.000Z'
 title: Roughneck Wood Grenade Kloofwig

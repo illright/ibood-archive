@@ -1,22 +1,22 @@
-_id: 68f1019bb3234fee7e3cb07c
+_id: 68f0b2a2b110ff857d517289
 appOnly: false
 brand: Smartwares
 brands:
   - id: 576da428-3edf-5c2a-8133-8b00d79538ab
     name: Smartwares
 categories:
-  - 306ed948-0609-5c63-8c62-17dfa0cd2299
-classicId: '2794742'
-classicProductId: '673125'
+  - 0a56ebff-13d4-531b-88e2-ce1e896c1154
+classicId: '2793524'
+classicProductId: '581339'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 86
-end: '2025-10-26T22:59:59.999Z'
+discount: 76
+end: '2025-10-22T21:59:59.999Z'
 freeDelivery: false
-id: c5b9b525-3165-56ed-990b-2f8cfbd351f2
+id: a9de2265-7050-415b-8d16-bf98a2aec0a0
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: smartwares-full-hd-mini-ip-camera-130o
   type: product
-offerId: 285456e4-366e-55d6-9725-4edfa1e0f483
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1634806
+  priority: 100
+  slug: smartwares-logo
+  type: logo
+offerId: e6b219fc-279c-4d65-a703-60f1f8ad2493
 price:
-  cents: 1995
+  cents: 1695
   currency: EUR
-  value: 19.95
+  value: 16.95
 referencePrice:
-  cents: 14398
+  cents: 7199
   currency: EUR
-  value: 143.98
+  value: 71.99
 slug: smartwares-full-hd-mini-ip-camera-130o
 soldOut: false
-start: '2025-10-20T22:00:00.000Z'
+start: '2025-10-15T22:00:00.000Z'
 title: Smartwares Full HD Mini IP-Camera | 130º | Connected at Home

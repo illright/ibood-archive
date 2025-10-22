@@ -1,4 +1,4 @@
-_id: 68ef9845cac9b5e531d40ba4
+_id: 68f73b8774510fff1ba40944
 appOnly: false
 brand: Marcel's Green Soap
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Marcel's Green Soap
 categories:
   - ffa92011-f087-50db-a9cf-916e68805abb
-classicId: '2792747'
-classicProductId: '671746'
+classicId: '2797884'
+classicProductId: '669395'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 51
 end: '2025-10-27T22:59:59.999Z'
 freeDelivery: false
-id: a175460e-a885-58d1-8780-6a6fb757a021
+id: 5706abc5-6ee7-4a56-a0ce-11bb251bf001
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: marcel-s-green-soap-10-png-product-1
   type: product
-offerId: 702c0cab-1e37-524c-8008-2947de1d1b81
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f87acb5e-d0d5-4dc0-bb00-d7679488d8aa
+  priority: 0
+  slug: marcel-s-green-soap-png-logo-0
+  type: logo
+offerId: 936be0bb-76e3-4c8e-bfe8-b3025c33586c
 price:
   cents: 1395
   currency: EUR
