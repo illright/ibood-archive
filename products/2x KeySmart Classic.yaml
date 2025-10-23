@@ -1,42 +1,52 @@
-_id: 68ef64061134b089d9f801c4
+_id: 68f8cb9ae084dc6ff5886b0e
 appOnly: false
 brand: KeySmart
 brands:
   - id: f73b75f1-b630-54d5-a63c-ca89b03137c5
     name: KeySmart
 categories:
-  - 160799e6-2389-5849-ad32-d7e91483c12d
-classicId: '2792402'
-classicProductId: '649849'
+  - e4bfea41-64dc-5102-adf9-e2fb70ecccaf
+classicId: '2800714'
+classicProductId: '649850'
 deliveryPrice:
-  cents: 595
+  cents: 395
   currency: EUR
-  value: 5.95
-directCheckout: false
-discount: 71
+  value: 3.95
+directCheckout: true
+discount: 69
 end: '2025-10-26T22:59:59.999Z'
 freeDelivery: false
-id: d2ebb2bb-806c-4536-b990-f2722548e0c5
+id: c299f945-f17f-4f5d-b5a8-54b57486f756
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2256763
+  id: 2256765
   priority: 0
-  slug: 2x-keysmart-classic
+  slug: 2x-keysmart-classic-schlusselhalter
   type: product
-offerId: 0787c62c-b1da-4033-80d5-7828b1567083
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2260574
+  priority: 100
+  slug: 2x-keysmart-classic-schlusselhalter
+  type: logo
+offerId: 373c3e87-4c4a-427c-a01b-af256d89ff6a
 price:
-  cents: 1200
+  cents: 1295
   currency: EUR
-  value: 12
+  value: 12.95
 referencePrice:
   cents: 4190
   currency: EUR
   value: 41.9
 slug: 2x-keysmart-classic
 soldOut: false
-start: '2025-10-14T22:00:00.000Z'
+start: '2025-10-21T22:00:00.000Z'
 title: 2x KeySmart Classic

@@ -1,4 +1,4 @@
-_id: 68ee1ec70427bb9defb96201
+_id: 68ee1ec20427bb9defb961f7
 appOnly: false
 brand: NOONY
 brands:
@@ -6,8 +6,8 @@ brands:
     name: NOONY
 categories:
   - b22f4af2-62bb-518a-947f-0581006c218d
-classicId: '2790993'
-classicProductId: '507520'
+classicId: '2790991'
+classicProductId: '507519'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,26 +16,18 @@ directCheckout: true
 discount: 38
 end: '2025-10-26T22:59:59.999Z'
 freeDelivery: false
-id: f0c87e07-9121-5197-b2b3-7070272350f9
+id: 9c6f895a-dbcb-5d6d-b553-ac1ff91498f2
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 1430831
+    - app
+    - newsletter
+  extension: png
+  id: 1411296
   priority: 0
-  slug: noony-hoodie-decke-unisex-blabla
+  slug: noony-hoodie-decke-unisex-fries
   type: product
-logo:
-  channels:
-    - app
-    - website
-  extension: jpg
-  id: 1412690
-  priority: 0
-  slug: noony-hoodie-decke-unisex-blabla
-  type: logo
-offerId: c6fed793-9e97-5cb1-8f18-221d8fe0a224
+offerId: 4cba9b8b-28e8-5eaf-a617-1efa23f97d78
 price:
   cents: 2495
   currency: EUR

@@ -1,22 +1,22 @@
-_id: 68f77f01e75197ef6cfbd3a4
+_id: 68f78c441e7883c988d44e52
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 2e3c3f04-b518-56de-bcea-3dfd2bf7cd0e
-classicId: '2798909'
+  - 68689ff4-5d5e-5a75-ac78-fa1573c59694
+classicId: '2799088'
 classicProductId: '609404'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 65
-end: '2025-10-28T22:59:59.999Z'
+directCheckout: false
+discount: 60
+end: '2025-10-26T22:59:59.999Z'
 freeDelivery: false
-id: 0b1e7625-460d-4943-9b5f-3e863ab3eaf2
+id: a48cdb6f-4597-4fb4-9d9c-d818e75f37ba
 image:
   channels:
     - app
@@ -30,19 +30,20 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612713
-  priority: 100
-  slug: delsey-logo
+    - all
+  extension: image/png
+  id: a7b1585b-6db1-485f-b023-602c24b53856
+  priority: 0
+  slug: delsey-clavel-trolley-55cm-logo-0
   type: logo
-offerId: b9d2299a-32b3-4c55-b6bb-2554f013fcdc
+offerId: 775b2143-495a-4ccf-adf1-7db1fe32ea35
 price:
-  cents: 7000
+  cents: 7995
   currency: EUR
-  value: 70
+  value: 79.95
 referencePrice:
   cents: 19900
   currency: EUR
