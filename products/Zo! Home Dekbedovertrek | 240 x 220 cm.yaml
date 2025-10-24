@@ -1,32 +1,31 @@
-_id: 68f8c9dbea628c444d28433d
+_id: 68f8c3fdea628c444d2842f8
 appOnly: false
 brand: ZoHome
 brands:
   - id: 1b22d264-4d0a-55aa-90ad-01edc2c8d955
     name: ZoHome
 categories:
-  - f2f055a3-a0e2-5c3b-8844-7d578caa052c
-classicId: '2800322'
-classicProductId: '637966'
+  - ba6751d6-87c8-56f1-97f2-20d0b3c55193
+classicId: '2800285'
+classicProductId: '571119'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 56
+directCheckout: false
+discount: 63
 end: '2025-10-26T22:59:59.999Z'
 freeDelivery: false
-id: 8b52f46c-7d5a-4588-96c2-4b08e5bc85c1
+id: 011ca40f-89af-442a-b553-635330f8f687
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: dc22db03-ccd0-4e76-ac81-9a1704776ca6
+  extension: png
+  id: 2246808
   priority: 0
-  slug: textiel-04-png-product-40
+  slug: zo-home-dekbedovertrek-240-x-220-cm
   type: product
 logo:
   channels:
@@ -34,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1944366
+  id: 2246782
   priority: 100
-  slug: zohome-logo
+  slug: zo-home-dekbedovertrek-240-x-220-cm
   type: logo
-offerId: a3004372-4f2c-4c1e-ab74-5898aca11c9e
+offerId: 4ae708e5-e437-438e-9867-ec50b461e919
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 7995
   currency: EUR
   value: 79.95
 slug: zo-home-dekbedovertrek-240-x-220-cm
 soldOut: false
-start: '2025-10-21T22:00:00.000Z'
+start: '2025-10-20T22:00:00.000Z'
 title: Zo! Home Dekbedovertrek | 240 x 220 cm

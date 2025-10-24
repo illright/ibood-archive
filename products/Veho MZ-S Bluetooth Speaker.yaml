@@ -1,4 +1,4 @@
-_id: 68f630be0e688de51942c422
+_id: 68f630bc0ed088900bf6b1e2
 appOnly: false
 brand: Veho
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Veho
 categories:
   - 6bf9c63c-f665-54da-8d77-ee50c8ec064b
-classicId: '2797084'
-classicProductId: '418111'
+classicId: '2797083'
+classicProductId: '418113'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,19 +16,18 @@ directCheckout: true
 discount: 75
 end: '2025-10-27T22:59:59.999Z'
 freeDelivery: false
-id: 8d89eccd-9ac8-5c8e-afe2-4310ef6efa1f
+id: 88745437-6c03-58bb-b871-f321251bae46
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 344ddd30-d2f7-4fe7-abd4-39e6df348911
-  priority: 0
-  slug: speaka-png-product-1
+  extension: png
+  id: 2014356
+  priority: 100
+  slug: veho-mz-s-bluetooth-speaker
   type: product
-offerId: ff33f22f-4f6e-5a86-9f89-99d05f022835
+offerId: 7ec365d1-b6f1-5b94-b302-725f41c56a1f
 price:
   cents: 1995
   currency: EUR
