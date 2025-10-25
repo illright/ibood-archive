@@ -1,22 +1,22 @@
-_id: 68f77cb385cfd90364926396
+_id: 68fa11ead6345eb60eae2219
 appOnly: false
 brand: AB Lifestyle
 brands:
   - id: 48fa8c06-3349-5e6f-bdb6-f7e3d591abcc
     name: AB Lifestyle
 categories:
-  - 8a6e0475-75f3-5099-8b2b-16f433feecac
-classicId: '2798713'
-classicProductId: '649441'
+  - b323733d-4477-5b5b-88b7-28c0bcb3e8a5
+classicId: '2802165'
+classicProductId: '649444'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 79
-end: '2025-10-28T22:59:59.999Z'
+end: '2025-10-27T22:59:59.999Z'
 freeDelivery: false
-id: a3dde8fd-97cc-4d0b-9a27-5ae307f1693e
+id: 6b74386c-7593-4f85-8e0b-267ec127ebb5
 image:
   channels:
     - app
@@ -28,16 +28,16 @@ image:
   priority: 0
   slug: 1-png-product-2
   type: product
-offerId: f1a277e6-74b0-4db4-ae81-4521e4267aa4
+offerId: 42cfce82-2f6e-4445-b85d-b3d1f6361893
 price:
-  cents: 1500
+  cents: 1495
   currency: EUR
-  value: 15
+  value: 14.95
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: ab-lifestyle-ronin-poloshirt-sky-cool-grey
-soldOut: false
-start: '2025-10-21T22:00:00.000Z'
+soldOut: true
+start: '2025-10-23T22:00:00.000Z'
 title: AB Lifestyle Ronin Poloshirt | Sky Cool Grey

@@ -1,22 +1,22 @@
-_id: 68f77dc4e75197ef6cfbd2bc
+_id: 68fa11da0ce9d035314d1aaa
 appOnly: false
 brand: Profuomo
 brands:
   - id: 69ef4c51-3092-5a9e-a2da-bc665a89eb9f
     name: Profuomo
 categories:
-  - 76e37c8c-1c3c-5a04-b084-2c04815113fb
-classicId: '2798830'
-classicProductId: '632074'
+  - b323733d-4477-5b5b-88b7-28c0bcb3e8a5
+classicId: '2802146'
+classicProductId: '632083'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 57
-end: '2025-10-28T22:59:59.999Z'
+directCheckout: true
+discount: 43
+end: '2025-10-27T22:59:59.999Z'
 freeDelivery: false
-id: d765c177-e563-4b60-b848-f67a84eaf8ac
+id: ae55a901-9918-46d1-87c9-8da1707b7867
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: profuomo-logo
   type: logo
-offerId: 217402b9-50a5-44dc-9bff-f51e6e0357c4
+offerId: f5b64d02-c595-4e91-9d4f-812524be6835
 price:
-  cents: 3000
+  cents: 3995
   currency: EUR
-  value: 30
+  value: 39.95
 referencePrice:
   cents: 6995
   currency: EUR
   value: 69.95
 slug: profuomo-basic-pique-poloshirt
-soldOut: false
-start: '2025-10-21T22:00:00.000Z'
+soldOut: true
+start: '2025-10-23T22:00:00.000Z'
 title: Profuomo Basic Piqué Poloshirt | Heren
