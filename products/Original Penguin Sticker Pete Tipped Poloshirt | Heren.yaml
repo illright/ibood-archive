@@ -1,43 +1,54 @@
-_id: 68f77cc8a5d2af9ca329b075
+_id: 68fa11e2d6345eb60eae220a
 appOnly: false
 brand: Original Penguin
 brands:
   - id: 18863ac5-1510-54f2-b877-ed28426ed60e
     name: Original Penguin
 categories:
-  - 3ea00c01-c1df-59be-8c50-b877d4f0dd80
-classicId: '2798745'
-classicProductId: '636964'
+  - b323733d-4477-5b5b-88b7-28c0bcb3e8a5
+classicId: '2802154'
+classicProductId: '636978'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2025-10-28T22:59:59.999Z'
+end: '2025-10-27T22:59:59.999Z'
 freeDelivery: false
-id: e4783e14-7be6-49bf-932c-feab19963538
+id: e13f8557-9d05-40e3-a14d-b42e047a65c6
 image:
   channels:
+    - app
+    - website
     - newsletter
     - all
-    - website
-    - app
   extension: image/png
-  id: 73488755-b386-4259-a0a9-17a1f63710ad
+  id: 21c86d15-8a08-461e-89e2-d7701d2bc81f
   priority: 0
-  slug: true-black-01-png-product-0
+  slug: dark-sapphire-01-png-product-0
   type: product
-offerId: 40eca638-ebaf-460a-9a13-9d0a007532c1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d77c21fd-5f61-4b32-8b95-7d1ec0a40a00
+  priority: 0
+  slug: original-penguin-png-logo-0
+  type: logo
+offerId: 702d6786-a511-412a-ac75-2fd4785babd5
 price:
-  cents: 2000
+  cents: 1995
   currency: EUR
-  value: 20
+  value: 19.95
 referencePrice:
   cents: 6000
   currency: EUR
   value: 60
 slug: original-penguin-sticker-pete-tipped-poloshirt-heren
-soldOut: false
-start: '2025-10-21T22:00:00.000Z'
+soldOut: true
+start: '2025-10-23T22:00:00.000Z'
 title: Original Penguin Sticker Pete Tipped Poloshirt | Heren

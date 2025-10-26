@@ -1,4 +1,4 @@
-_id: 68fa0bc2310d83b216d7db8e
+_id: 68fa0bd8310d83b216d7dbb7
 appOnly: false
 brand: Petrol
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Petrol
 categories:
   - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2802011'
-classicProductId: '665585'
+classicId: '2802027'
+classicProductId: '665577'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 55
+directCheckout: false
+discount: 46
 end: '2025-10-31T22:59:59.999Z'
 freeDelivery: false
-id: 6850c01f-d416-40f8-a0cc-b872b4223c73
+id: 32640ef3-b576-4363-ac54-25b15e2b23cc
 image:
   channels:
     - app
@@ -24,30 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d5e2dcc1-911a-48ca-90ff-7e666000f02d
+  id: 0886c112-a4d6-40f2-9ceb-4a3dc63840ec
   priority: 0
-  slug: petrol-734-png-product-1
+  slug: petrol-72-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 3ea5cf69-1b11-4290-9732-f35117d0cf67
+  priority: 0
+  slug: petrol-png-logo-0
   type: logo
-offerId: ac410afd-09f4-4403-a8ad-387e0d5724d7
+offerId: 8e5d1bf8-9797-4231-9c26-f403c73c3c28
 price:
-  cents: 2495
+  cents: 2995
   currency: EUR
-  value: 24.95
+  value: 29.95
 referencePrice:
   cents: 5499
   currency: EUR
   value: 54.99
 slug: petrol-sweater-heren
-soldOut: false
+soldOut: true
 start: '2025-10-24T22:00:00.000Z'
 title: Petrol Sweater | Heren
