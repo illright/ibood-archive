@@ -22,12 +22,16 @@ if (product === undefined) {
   throw new Error(`Product with ID ${id} not found`);
 }
 
+const priceHistory = product.data.priceHistory.map((entry) => ({
+  ...entry,
+  start: new Date(entry.start),
+  end: new Date(entry.end),
+}));
 const presenceRanges = product.data.presenceRanges.map((range) => ({
   ...range,
   start: new Date(range.start),
   end: new Date(range.end),
 }));
-
 const currentPresence = presenceRanges.at(-1)?.type;
 
 function yesterday(date: string | Date) {
@@ -116,6 +120,16 @@ function getLabelForType(type: "present" | "absent" | "soldOut"): string {
       return "Sold out";
   }
 }
+
+function atLeastTwo<Value>(values: Array<Value>): Array<Value> {
+  if (values.length >= 2) {
+    return values;
+  } else if (values.length === 1) {
+    return [values[0], values[0]];
+  } else {
+    throw new Error("No values provided");
+  }
+}
 ---
 
 <script>
@@ -165,7 +179,6 @@ function getLabelForType(type: "present" | "absent" | "soldOut"): string {
         >
       </div>
       <tc-stack
-        class="chart"
         horizontal
         values={JSON.stringify(presenceRanges.map(countDays))}
         labels={JSON.stringify(
@@ -177,7 +190,7 @@ function getLabelForType(type: "present" | "absent" | "soldOut"): string {
         tooltip-format="@L"
         radius="20"
         gap="3"
-        style={`width: 100%; ${presenceRanges.map((r, i) => `--shape-color-${i + 1}: var(${getColorForType(r.type)});`).join(" ")}`}
+        style={presenceRanges.map((r, i) => `--shape-color-${i + 1}: var(${getColorForType(r.type)});`).join(" ")}
       ></tc-stack>
 
       <p slot="footer">
@@ -207,19 +220,59 @@ function getLabelForType(type: "present" | "absent" | "soldOut"): string {
         }
       </p>
     </wa-card>
-  </main>
 
-  <!-- <PriceGraph /> -->
+    <wa-card>
+      <h2 slot="header">
+        <wa-icon name="boxes-stacked" variant="solid"></wa-icon>
+        Price history
+      </h2>
+      <div class="wa-flank">
+        <div class="wa-split:column">
+          <span>
+            €{Math.max(...priceHistory.map((entry) => entry.priceCents / 100))}
+          </span>
+          <span>
+            €{Math.min(...priceHistory.map((entry) => entry.priceCents / 100))}
+          </span>
+        </div>
+        <tc-line
+          values={JSON.stringify(
+            atLeastTwo(priceHistory.map((entry) => entry.priceCents / 100))
+          )}
+          labels={JSON.stringify(
+            atLeastTwo(
+              priceHistory.map((entry) =>
+                dateTimeFormat.formatRange(entry.start, yesterday(entry.end))
+              )
+            )
+          )}
+          tooltip-format="€@V (@L)"
+          min={Math.min(...priceHistory.map((entry) => entry.priceCents / 100))}
+        ></tc-line>
+      </div>
+    </wa-card>
+  </main>
 </Layout>
 
 <style>
   main {
     margin-block-start: var(--wa-space-2xl);
+    padding-block-end: var(--wa-space-2xl);
     display: grid;
     gap: var(--wa-space-3xl);
   }
 
   wa-card h2 {
     margin-block: var(--wa-space-s);
+  }
+
+  tc-stack {
+    width: 100%;
+  }
+
+  tc-line {
+    width: 100%;
+    height: 150px;
+    margin-block: 0.5lh;
   }
 </style>
