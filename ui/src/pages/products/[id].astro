@@ -22,43 +22,13 @@ if (product === undefined) {
   throw new Error(`Product with ID ${id} not found`);
 }
 
-const { firstAppearance, absenceRanges } = product.data;
+const presenceRanges = product.data.presenceRanges.map((range) => ({
+  ...range,
+  start: new Date(range.start),
+  end: new Date(range.end),
+}));
 
-const inStock =
-  absenceRanges.at(-1)?.end === undefined ||
-  absenceRanges.at(-1)?.end !== new Date().toISOString().split("T")[0];
-
-const timelineSegments = [];
-let cursor = firstAppearance;
-for (const absence of absenceRanges) {
-  timelineSegments.push({
-    start: new Date(cursor),
-    end: new Date(absence.start),
-    status: "present",
-  });
-  if (absence.end) {
-    timelineSegments.push({
-      start: new Date(absence.start),
-      end: new Date(absence.end),
-      status: "absent",
-    });
-    cursor = absence.end;
-  } else {
-    timelineSegments.push({
-      start: new Date(absence.start),
-      end: tomorrow(new Date()),
-      status: "absent",
-    });
-    break;
-  }
-}
-if (inStock) {
-  timelineSegments.push({
-    start: new Date(cursor),
-    end: tomorrow(new Date()),
-    status: "present",
-  });
-}
+const currentPresence = presenceRanges.at(-1)?.type;
 
 function yesterday(date: string | Date) {
   const dateCopy = new Date(date);
@@ -66,27 +36,21 @@ function yesterday(date: string | Date) {
   return dateCopy;
 }
 
-function tomorrow(date: string | Date) {
-  const dateCopy = new Date(date);
-  dateCopy.setDate(dateCopy.getDate() + 1);
-  return dateCopy;
-}
-
-function countDays(range: { start: Date; end: Date; status: string }) {
+function countDays(range: { start: Date; end: Date }) {
   return Math.floor(
     (range.end.getTime() - range.start.getTime()) / (1000 * 60 * 60 * 24)
   );
 }
 
 function detectRecurringPattern(
-  absenceRanges: Array<{ start: string; end?: string | undefined }>
+  absenceRanges: Array<{ start: Date; end: Date | undefined }>
 ) {
   // Check for regular intervals between absences
   if (absenceRanges.length >= 3) {
     const intervals = [];
     for (let i = 1; i < absenceRanges.length; i++) {
-      const prevStart = new Date(absenceRanges[i - 1].start);
-      const currentStart = new Date(absenceRanges[i].start);
+      const prevStart = absenceRanges[i - 1].start;
+      const currentStart = absenceRanges[i].start;
       const daysDiff = Math.ceil(
         (currentStart.getTime() - prevStart.getTime()) / (1000 * 60 * 60 * 24)
       );
@@ -114,7 +78,44 @@ function detectRecurringPattern(
   return null;
 }
 
-const recurringPattern = detectRecurringPattern(absenceRanges);
+const recurringPattern = detectRecurringPattern(
+  presenceRanges.filter((r) => r.type === "absent")
+);
+
+function getBadgeTypeForType(
+  type: "present" | "absent" | "soldOut"
+): "success" | "danger" | "warning" {
+  switch (type) {
+    case "present":
+      return "success";
+    case "absent":
+      return "danger";
+    case "soldOut":
+      return "warning";
+  }
+}
+
+function getColorForType(type: "present" | "absent" | "soldOut"): string {
+  switch (type) {
+    case "present":
+      return "--wa-color-green-50";
+    case "absent":
+      return "--wa-color-red-50";
+    case "soldOut":
+      return "--wa-color-yellow-50";
+  }
+}
+
+function getLabelForType(type: "present" | "absent" | "soldOut"): string {
+  switch (type) {
+    case "present":
+      return "In stock";
+    case "absent":
+      return "Not on the website";
+    case "soldOut":
+      return "Sold out";
+  }
+}
 ---
 
 <script>
@@ -134,10 +135,10 @@ const recurringPattern = detectRecurringPattern(absenceRanges);
     <hgroup>
       <h1>{id}</h1>
       {
-        inStock ? (
-          <wa-tag variant="success">In stock!</wa-tag>
-        ) : (
-          <wa-tag variant="danger">Out of stock</wa-tag>
+        currentPresence !== undefined && (
+          <wa-tag variant={getBadgeTypeForType(currentPresence)}>
+            {getLabelForType(currentPresence)}
+          </wa-tag>
         )
       }
       <!-- if in stock, <HowMuchTimeLeft /> until out of stock again -->
@@ -149,16 +150,16 @@ const recurringPattern = detectRecurringPattern(absenceRanges);
         Availability
       </h2>
       <div class="wa-split">
-        <date datetime={firstAppearance}
-          >{dateTimeFormat.format(new Date(firstAppearance))}</date
+        <date datetime={presenceRanges[0].start.toISOString()}
+          >{dateTimeFormat.format(presenceRanges[0].start)}</date
         >
         <date
           datetime={yesterday(
-            timelineSegments.at(-1)?.end ?? new Date()
+            presenceRanges.at(-1)?.end ?? new Date()
           ).toISOString()}
           >{
             dateTimeFormat.format(
-              yesterday(timelineSegments.at(-1)?.end ?? new Date())
+              yesterday(presenceRanges.at(-1)?.end ?? new Date())
             )
           }</date
         >
@@ -166,18 +167,17 @@ const recurringPattern = detectRecurringPattern(absenceRanges);
       <tc-stack
         class="chart"
         horizontal
-        values={JSON.stringify(timelineSegments.map(countDays))}
+        values={JSON.stringify(presenceRanges.map(countDays))}
         labels={JSON.stringify(
-          timelineSegments.map((r) =>
-            r.status === "present"
-              ? `In stock: ${dateTimeFormat.formatRange(r.start, yesterday(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
-              : `Out of stock: ${dateTimeFormat.formatRange(r.start, yesterday(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
+          presenceRanges.map(
+            (r) =>
+              `${getLabelForType(r.type)}: ${dateTimeFormat.formatRange(r.start, yesterday(r.end))} (${countDays(r)} ${pluralRules.select(countDays(r)) === "one" ? "day" : "days"})`
           )
         )}
         tooltip-format="@L"
         radius="20"
         gap="3"
-        style={`width: 100%; ${timelineSegments.map((_, i) => `--shape-color-${i + 1}: var(${i % 2 === 0 ? "--wa-color-green-50" : "--wa-color-red-50"});`).join(" ")}`}
+        style={`width: 100%; ${presenceRanges.map((r, i) => `--shape-color-${i + 1}: var(${getColorForType(r.type)});`).join(" ")}`}
       ></tc-stack>
 
       <p slot="footer">
@@ -192,10 +192,12 @@ const recurringPattern = detectRecurringPattern(absenceRanges);
             <span>
               This product has been out of stock
               <strong>
-                {absenceRanges.length}{" "}
+                {presenceRanges.filter((r) => r.type !== "present").length}{" "}
                 {
                   { one: "time", other: "times" }[
-                    pluralRules.select(absenceRanges.length) as "one" | "other"
+                    pluralRules.select(
+                      presenceRanges.filter((r) => r.type !== "present").length
+                    ) as "one" | "other"
                   ]
                 }
               </strong>{" "}

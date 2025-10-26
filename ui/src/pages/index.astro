@@ -6,9 +6,7 @@ const products = await getCollection("products");
 const [inStockProducts, outOfStockProducts] = partition(
   products,
   (product) =>
-    product.data.absenceRanges.at(-1)?.end === undefined ||
-    product.data.absenceRanges.at(-1)?.end !==
-      new Date().toISOString().split("T")[0]
+    product.data.presenceRanges.at(-1)?.type === "present"
 );
 
 function partition<T>(array: T[], predicate: (item: T) => boolean): [T[], T[]] {
@@ -40,7 +38,7 @@ function partition<T>(array: T[], predicate: (item: T) => boolean): [T[], T[]] {
       }
     </ul>
 
-    <h1 id="out-of-stock">Products out of stock</h1>
+    <h1 id="out-of-stock">Products out of stock or off the website</h1>
     <ul aria-labelledby="out-of-stock">
       {
         outOfStockProducts.map((product) => (
