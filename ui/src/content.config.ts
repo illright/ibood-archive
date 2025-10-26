@@ -162,9 +162,9 @@ class ProductStats {
 
 function productLoader({
   branch = "archive",
-  pathPrefix = "products/",
 } = {}): Loader {
   const ProductDisplayData = z.object({
+    originalUrl: z.string().url(),
     presenceRanges: z.array(
       z.object({
         type: z.enum(["present", "soldOut", "absent"]),
@@ -257,6 +257,7 @@ function productLoader({
         const product = {
           id,
           data: {
+            originalUrl: `https://ibood.com/nl/s-nl/o/${stats.slug}/${stats.classicId}`,
             presenceRanges: stats.getPresenceRanges(earliestDate).map((range) => ({
               type: range.type,
               start: range.start.toISOString().slice(0, 'YYYY-MM-DD'.length),
