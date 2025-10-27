@@ -1,4 +1,4 @@
-_id: 68f630b52dbe72a43c3ee85c
+_id: 68f630b12dbe72a43c3ee855
 appOnly: false
 brand: Veho
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Veho
 categories:
   - 6bf9c63c-f665-54da-8d77-ee50c8ec064b
-classicId: '2797077'
-classicProductId: '608582'
+classicId: '2797072'
+classicProductId: '261180'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,28 +16,29 @@ directCheckout: true
 discount: 78
 end: '2025-10-27T22:59:59.999Z'
 freeDelivery: false
-id: 3c8f7466-95a4-5c07-bbc5-d63926d661d2
+id: 3a0a5a3c-077a-51b3-af03-5216043e4a81
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 2141160
+  extension: png
+  id: 1731180
   priority: 0
-  slug: veho-mz-4-bluetooth-lautsprecher
+  slug: veho-mz-4-bt-lautsprecher
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1503946
-  priority: 100
-  slug: veho-mz-4-bluetooth-lautsprecher
+    - all
+  extension: image/png
+  id: 8ebdc880-d552-4d9b-8b56-b64889c22644
+  priority: 0
+  slug: veho-zb-4neb-bt-kopfhorer-png-logo-0
   type: logo
-offerId: 8a622aa8-9fa9-5889-aa40-f13df420e72b
+offerId: 4ab98416-36b8-5d6f-b379-ff33d2c3e1a9
 price:
   cents: 1995
   currency: EUR

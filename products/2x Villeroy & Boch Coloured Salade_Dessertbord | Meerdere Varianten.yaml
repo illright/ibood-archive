@@ -1,4 +1,4 @@
-_id: 68dce4c82ed683e11dab56a3
+_id: 68ef50011134b089d9f7fe47
 appOnly: false
 brand: Villeroy & Boch
 brands:
@@ -6,32 +6,42 @@ brands:
     name: Villeroy & Boch
 categories:
   - 71947abc-e90b-5d68-ad2d-cc464fcbebdc
-classicId: '2778745'
-classicProductId: '528511'
+classicId: '2791685'
+classicProductId: '528512'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
+discount: 57
 end: '2025-10-28T22:59:59.999Z'
 freeDelivery: false
-id: 97c856e6-a5b6-5522-9c32-946a68de93a2
+id: 52c87b99-bfa5-4f5a-ac40-94bc294af8e0
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2223333
+  id: 1781428
   priority: 0
-  slug: 2x-villeroy-boch-boston-salat-dessertteller
+  slug: 2x-villeroy-boch-coloured-saladedessertbord
   type: product
-offerId: e5b2cf2d-5cb5-5c11-b14e-3b5619f3ec21
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
+  type: logo
+offerId: baa573a9-24f7-4350-b35e-dd3894d64405
 price:
-  cents: 1995
+  cents: 1695
   currency: EUR
-  value: 19.95
+  value: 16.95
 referencePrice:
   cents: 3980
   currency: EUR
