@@ -1,12 +1,12 @@
-_id: 68fb3cae6884812cf23fb012
+_id: 68ff6518c3d09370197ba366
 appOnly: false
 brand: FlinQ
 brands:
   - id: c5850d1b-064a-5297-987d-113f01df60eb
     name: FlinQ
 categories:
-  - 89185c2b-058d-53e9-afc2-c9937047f192
-classicId: '2802889'
+  - 8c01f78c-0874-5fdc-b9a3-29985d6e6e23
+classicId: '2804868'
 classicProductId: '561361'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2025-10-27T22:59:59.999Z'
+end: '2025-11-03T22:59:59.999Z'
 freeDelivery: false
-id: 1cf633f4-4487-413a-b2d1-cba303118386
+id: f881ae19-5ce8-4b10-8724-56c1cd1b670d
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: flinq-smart-lichterkette-fur-innen-auenbereich
   type: product
-offerId: d9f84572-281a-4a68-a074-78bef7bdde39
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2006222
+  priority: 100
+  slug: flinq-logo
+  type: logo
+offerId: 330f328c-7522-453f-b2d8-ebce4590f0a2
 price:
   cents: 3495
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 99.99
 slug: flinq-smart-rgb-premium-lichtslinger-ip44-15-m
 soldOut: false
-start: '2025-10-20T22:00:00.000Z'
+start: '2025-10-27T23:00:00.000Z'
 title: FlinQ Smart RGB Premium Lichtslinger | 15 m | IP44 | 16 Lampen

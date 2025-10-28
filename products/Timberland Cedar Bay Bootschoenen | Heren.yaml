@@ -1,31 +1,32 @@
-_id: 68f77e2fe75197ef6cfbd2ea
+_id: 68fa32b4310d83b216d7dd15
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - b8bbe439-d087-57c4-9665-4364f3d02a2d
-classicId: '2798846'
-classicProductId: '343797'
+  - 2d6b0bd9-fa18-5d02-8ae6-4e8685796a48
+classicId: '2802435'
+classicProductId: '513047'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 59
-end: '2025-10-28T22:59:59.999Z'
+directCheckout: true
+discount: 52
+end: '2025-11-02T22:59:59.999Z'
 freeDelivery: false
-id: 30d16555-4848-45e2-b999-7a69bcb97673
+id: afbc3a41-4689-48ba-9520-7ff22da28209
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1761091
+    - all
+  extension: image/png
+  id: d6b8d093-b4a5-46c8-a589-b0e489f27cfc
   priority: 0
-  slug: timberland-cedar-bay-bootschoenen-heren
+  slug: tl03-png-product-1
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1760933
+  id: 2008165
   priority: 100
-  slug: timberland-cedar-bay-bootschoenen-heren
+  slug: timberland-logo
   type: logo
-offerId: 8dd8bd94-f432-44f2-8691-2669016538eb
+offerId: 7d4afd04-b6ba-42ac-9f30-6b951d450ce2
 price:
-  cents: 4500
+  cents: 5245
   currency: EUR
-  value: 45
+  value: 52.45
 referencePrice:
   cents: 11000
   currency: EUR
   value: 110
 slug: timberland-cedar-bay-bootschoenen-heren
-soldOut: false
-start: '2025-10-21T22:00:00.000Z'
+soldOut: true
+start: '2025-10-26T23:00:00.000Z'
 title: Timberland Cedar Bay Bootschoenen | Heren
