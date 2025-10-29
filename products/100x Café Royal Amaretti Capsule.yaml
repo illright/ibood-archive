@@ -1,0 +1,53 @@
+_id: 6900849edf253a4dc5bc2951
+appOnly: false
+brand: Café Royal
+brands:
+  - id: d149b760-f0c5-504f-aaaa-03d2788a3714
+    name: Café Royal
+categories:
+  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
+classicId: '2805763'
+classicProductId: '671329'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 38
+end: '2025-11-03T22:59:59.999Z'
+freeDelivery: false
+id: d2761fce-fb77-455e-ba05-bdbc2bbb48ed
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 286151b1-b0ec-4674-aee9-5a1e12305608
+  priority: 0
+  slug: cafe-royal-04-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1983334
+  priority: 100
+  slug: cafe-royal-logo
+  type: logo
+offerId: bd88ae4d-b53f-4d85-8964-9a2d381eda73
+price:
+  cents: 2195
+  currency: EUR
+  value: 21.95
+referencePrice:
+  cents: 3550
+  currency: EUR
+  value: 35.5
+slug: 100x-cafe-royal-amaretti-capsule
+soldOut: false
+start: '2025-10-27T23:00:00.000Z'
+title: 100x Café Royal Amaretti Capsule

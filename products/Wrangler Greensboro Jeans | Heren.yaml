@@ -1,31 +1,32 @@
-_id: 68f77dac3792bf8c0491e87b
+_id: 6900bb76e0e363c343c53075
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - 76e37c8c-1c3c-5a04-b084-2c04815113fb
-classicId: '2798812'
-classicProductId: '608961'
+  - 013973e5-c428-5853-89cd-677d17630e9f
+classicId: '2806432'
+classicProductId: '656679'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 67
-end: '2025-10-28T22:59:59.999Z'
+directCheckout: false
+discount: 50
+end: '2025-11-03T22:59:59.999Z'
 freeDelivery: false
-id: 36cd1371-2fa8-481e-a97f-ffa1ad56ef80
+id: d269cc2c-43fe-4a6a-8e02-d9583163394c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2198167
+    - all
+  extension: image/png
+  id: 8eff4622-d9d3-455d-99c2-0170adab8b32
   priority: 0
-  slug: wrangler-greensboro-jeans-heren
+  slug: w31-l32-dark-earth-greensboro-112371571-greensboro-wrangler-product-5
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: wrangler-logo
   type: logo
-offerId: ba2b979b-ae8d-4228-96bf-bf1a02ea5c07
+offerId: 95cf4bd8-b6c9-4cc6-bcea-763de2be1373
 price:
-  cents: 3000
+  cents: 3995
   currency: EUR
-  value: 30
+  value: 39.95
 referencePrice:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 slug: wrangler-greensboro-jeans-heren
-soldOut: true
-start: '2025-10-21T22:00:00.000Z'
+soldOut: false
+start: '2025-10-27T23:00:00.000Z'
 title: Wrangler Greensboro Jeans | Heren

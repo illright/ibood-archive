@@ -1,22 +1,22 @@
-_id: 68fa32f00ce9d035314d1d32
+_id: 68ff487bc3d09370197b9d2f
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - 5278dba1-f386-5d76-a3d9-87f739984e87
-classicId: '2802488'
-classicProductId: '653751'
+  - 90a3a3e2-0fc7-5091-ba7c-6d8243c9ce75
+classicId: '2804074'
+classicProductId: '653748'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 47
-end: '2025-11-02T22:59:59.999Z'
+directCheckout: true
+discount: 43
+end: '2025-11-03T22:59:59.000Z'
 freeDelivery: false
-id: cca503a2-4ce7-43e2-b3b1-0ceac0d3a6bb
+id: 488ca4c9-a52f-4acd-8c72-14b673dec8cd
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2011608
-  priority: 100
-  slug: reebok-logo
+    - all
+  extension: image/png
+  id: 150ceb5a-15c4-4061-b4ad-0433ed6805eb
+  priority: 0
+  slug: reebok-png-logo-0
   type: logo
-offerId: a271e6a0-c8de-4229-b185-9dbb312152f3
+offerId: 0576cbd3-044b-4bfe-ad94-85860b671739
 price:
-  cents: 4995
+  cents: 5395
   currency: EUR
-  value: 49.95
+  value: 53.95
 referencePrice:
   cents: 9500
   currency: EUR
   value: 95
 slug: reebok-nanoflex-tr-2-sneakers-unisex
 soldOut: false
-start: '2025-10-26T23:00:00.000Z'
+start: '2025-10-27T23:00:00.000Z'
 title: Reebok Nanoflex TR 2 Sneakers | Unisex

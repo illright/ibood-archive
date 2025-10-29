@@ -1,22 +1,22 @@
-_id: 68fa0bc8d6345eb60eae211f
+_id: 6900bc2847573eec586faffa
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2802013'
-classicProductId: '665371'
+  - e73c8da2-25d8-570e-9eb2-ab5829c5885c
+classicId: '2806555'
+classicProductId: '665374'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
-end: '2025-10-31T22:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2025-11-03T22:59:59.999Z'
 freeDelivery: false
-id: c7fb1b53-1d30-4818-820c-a258491e755c
+id: f90f7860-5b83-452c-ae64-61dcdc539e33
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 55fe3482-001e-45e3-9379-3fcb6ea7dd5b
+offerId: 0ec7e35c-ed30-480c-82c0-6650f96d090d
 price:
-  cents: 1995
+  cents: 2495
   currency: EUR
-  value: 19.95
+  value: 24.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: petrol-sweater-ronde-hals-heren
 soldOut: false
-start: '2025-10-24T22:00:00.000Z'
+start: '2025-10-27T23:00:00.000Z'
 title: Petrol Sweater | Ronde Hals | Heren | Mossy Stone

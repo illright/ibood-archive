@@ -1,22 +1,22 @@
-_id: 68f8807931ec2fde97592904
+_id: 6900bba5e0e363c343c530ae
 appOnly: false
 brand: Seidensticker
 brands:
   - id: 1d526062-f5ca-5b64-aa47-092abced1dba
     name: Seidensticker
 categories:
-  - f47f6f38-5723-5a02-b880-e55e7aa7a4d9
-classicId: '2799331'
-classicProductId: '412181'
+  - e73c8da2-25d8-570e-9eb2-ab5829c5885c
+classicId: '2806462'
+classicProductId: '412177'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 72
-end: '2025-10-28T22:59:59.999Z'
+directCheckout: false
+discount: 44
+end: '2025-11-03T22:59:59.999Z'
 freeDelivery: false
-id: 8ecf4b08-06c1-4478-8cd2-fba20260fa20
+id: f6309549-1f0b-4a6b-9706-65c2a88b3cc1
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: seidensticker-merino-coltrui
   type: product
-offerId: 6efa8992-6804-470d-85c8-a6f0ae6b681e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1741033
+  priority: 100
+  slug: seidensticker-logo
+  type: logo
+offerId: 38c4be39-a587-4854-907b-f3e45562d765
 price:
-  cents: 2500
+  cents: 4995
   currency: EUR
-  value: 25
+  value: 49.95
 referencePrice:
   cents: 8999
   currency: EUR
   value: 89.99
 slug: seidensticker-merino-coltrui
-soldOut: true
-start: '2025-10-21T22:00:00.000Z'
+soldOut: false
+start: '2025-10-27T23:00:00.000Z'
 title: Seidensticker Merino Coltrui

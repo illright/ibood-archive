@@ -1,31 +1,32 @@
-_id: 68f77eeae75197ef6cfbd369
+_id: 68fa32f4d6345eb60eae242c
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - 2e3c3f04-b518-56de-bcea-3dfd2bf7cd0e
-classicId: '2798891'
-classicProductId: '510487'
+  - d1e83ab6-aada-5432-ad89-e2493045c08b
+classicId: '2802491'
+classicProductId: '456749'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2025-10-28T22:59:59.999Z'
+discount: 40
+end: '2025-11-02T22:59:59.999Z'
 freeDelivery: false
-id: b2801521-217d-4aa4-a5bf-528b1eec4674
+id: 3da53ade-4186-4745-a5e8-67d70052ceda
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1734909
+    - all
+  extension: image/png
+  id: 4951aaeb-2c56-4437-80fd-aa343cdadd00
   priority: 0
-  slug: clarks-atticus-ltlace-schoenen
+  slug: cl02-png-product-2
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: clarks-logo
   type: logo
-offerId: d51a35c4-3e46-4df1-8f84-9c7f1ec39d94
+offerId: 95aba544-9671-4dec-b560-10a69c0e305c
 price:
-  cents: 5000
+  cents: 5995
   currency: EUR
-  value: 50
+  value: 59.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: clarks-atticus-ltlace-schoenen
 soldOut: false
-start: '2025-10-21T22:00:00.000Z'
+start: '2025-10-26T23:00:00.000Z'
 title: Clarks Atticus LTLace Schoenen | Heren
