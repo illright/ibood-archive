@@ -1,4 +1,4 @@
-_id: 68fa32add6345eb60eae23c1
+_id: 6901d6241d5e8c49fbf1efc8
 appOnly: false
 brand: Timberland
 brands:
@@ -6,27 +6,29 @@ brands:
     name: Timberland
 categories:
   - 2d6b0bd9-fa18-5d02-8ae6-4e8685796a48
-classicId: '2802430'
-classicProductId: '660578'
+classicId: '2806788'
+classicProductId: '660596'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 47
 end: '2025-11-02T22:59:59.999Z'
 freeDelivery: false
-id: 5bcf0891-9fa4-468d-a143-cf685cc3668d
+id: 8eb6f4e2-3bf8-4186-b184-23656a092444
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 7ac68123-a812-4663-a2e2-975f96322f96
+  id: 3fe07f68-3249-42b4-a9a3-1dfccd528f17-tr
   priority: 0
-  slug: tl03-png-product-2
+  slug: timberland-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: timberland-logo
   type: logo
-offerId: 3ee7d99e-84f2-4305-8206-8489c7b9f78f
+offerId: 746bd879-603f-44ec-84ab-5e977b212452
 price:
   cents: 7995
   currency: EUR
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 150
 slug: timberland-field-trekker-sneakers-heren
-soldOut: false
+soldOut: true
 start: '2025-10-26T23:00:00.000Z'
 title: Timberland Field Trekker Sneakers | Heren
