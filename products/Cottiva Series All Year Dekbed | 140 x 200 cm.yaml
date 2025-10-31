@@ -1,4 +1,4 @@
-_id: 68ff4790c3d09370197b9c39
+_id: 68ff478dfd5911981a6bfe29
 appOnly: false
 brand: Sleep Comfy
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Sleep Comfy
 categories:
   - 8b1cba37-2996-5738-8cf4-90463d647ece
-classicId: '2803949'
-classicProductId: '668326'
+classicId: '2803947'
+classicProductId: '668318'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 53
 end: '2025-11-02T22:59:59.999Z'
 freeDelivery: false
-id: 70b06ddf-c010-45d5-b268-2ec596d35a20
+id: 2c5d4470-3907-41f1-bef6-21191cf06fc4
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 3cee4992-2725-4477-94a4-fd4046686f24
+  id: 191e3eb5-7e4f-4065-9b24-dfa1b6b3563d
   priority: 0
-  slug: sleep-comfy-cottiva-series-all-year-dekbed-zonder-overtrek-roze-en-creme-140x200-cm-30-dagen-product-0
+  slug: sleep-comfy-cottiva-series-all-year-dekbed-zonder-overtrek-geel-en-antraciet-140x200-cm-30-d-product-2
   type: product
-offerId: 67ea5f73-4892-4fc1-9d48-fc7403fa46d9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4bb43313-24c7-4987-967b-b534b4e4258d
+  priority: 0
+  slug: sleep-comfy-logo-0
+  type: logo
+offerId: 70ff5504-8f19-4ea8-988f-4e1872766f38
 price:
   cents: 4195
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 89
 slug: sleep-comfy-cottiva-series-dekbed-140-x-200-cm
-soldOut: false
+soldOut: true
 start: '2025-10-27T23:00:00.000Z'
 title: Cottiva Series All Year Dekbed | 140 x 200 cm

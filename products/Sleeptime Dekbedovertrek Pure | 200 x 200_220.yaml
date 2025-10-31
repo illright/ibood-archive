@@ -1,4 +1,4 @@
-_id: 68ff4d51c3d09370197ba029
+_id: 68ff4d61fd5911981a6c001f
 appOnly: false
 brand: Sleeptime
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Sleeptime
 categories:
   - 7552654e-525f-5314-a3ef-a3e6eddda191
-classicId: '2804476'
-classicProductId: '666901'
+classicId: '2804502'
+classicProductId: '666931'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 49
 end: '2025-11-02T22:59:59.999Z'
 freeDelivery: false
-id: 55654c87-bff4-4bec-b208-40280b4fe3b3
+id: e014a139-9c95-4d58-a535-0e0c00da36d5
 image:
   channels:
     - app
@@ -24,21 +24,11 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 372028f4-0c78-45cf-8999-4772c5c24efe
+  id: 0491273f-9dbf-4396-b1ea-e622ae2310e6
   priority: 0
-  slug: 17026463-sleeptime-dbo-200x200-220-w-2-x-ks-60x70-pure-graphic-garden-antraciet-product-1
+  slug: 17026427-sleeptime-dbo-200x200-220-w-2-x-ks-60x70-pure-mellow-stone-grijs-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1524027
-  priority: 100
-  slug: sleeptime-logo
-  type: logo
-offerId: 3074144b-17e4-44ed-92de-e5935cff16ea
+offerId: 6c9193bc-360d-4a80-af7d-192f2f487291
 price:
   cents: 1795
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 34.95
 slug: sleeptime-dekbedovertrek-pure-200-x-200-220
-soldOut: false
+soldOut: true
 start: '2025-10-27T23:00:00.000Z'
 title: Sleeptime Dekbedovertrek Pure | 200 x 200/220

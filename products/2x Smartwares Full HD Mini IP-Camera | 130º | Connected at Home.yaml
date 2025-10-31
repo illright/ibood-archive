@@ -1,12 +1,12 @@
-_id: 6901fd83779f0de6913f3c13
+_id: 6901ef93c5f5c755dda8e71f
 appOnly: false
 brand: Smartwares
 brands:
   - id: 576da428-3edf-5c2a-8133-8b00d79538ab
     name: Smartwares
 categories:
-  - 1d0ce7f7-fdd3-566b-8e7a-9edcb29d363f
-classicId: '2807632'
+  - 06424800-04ad-5e6c-aeeb-56a10aaf8403
+classicId: '2807525'
 classicProductId: '673125'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 86
-end: '2025-11-02T22:59:59.999Z'
+end: '2025-11-05T22:59:59.999Z'
 freeDelivery: false
-id: 23a86377-bd02-427d-a5fd-7b9dd1d225cc
+id: f0ee44b1-0831-4382-8329-72cd6fd6d51a
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1634806
-  priority: 100
-  slug: smartwares-logo
+    - all
+  extension: image/png
+  id: 9db6f362-11ac-4ffa-be3a-6fdcb809215e
+  priority: 0
+  slug: smartwares-logo-png-logo-0
   type: logo
-offerId: 015dea78-b001-4318-9e7b-b4e1ed003d24
+offerId: bff5af7a-7a0e-43af-b7be-f45886cb5d22
 price:
   cents: 1995
   currency: EUR
