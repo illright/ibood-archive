@@ -19,13 +19,14 @@ freeDelivery: false
 id: 45c6ff0c-8d26-41b7-b419-1f6612a60561
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2249816
+    - all
+  extension: image/png
+  id: f3d06fe7-e970-47ec-b710-3e729a8ee339
   priority: 0
-  slug: assa-abloy-deurdranger-en-3-dc135
+  slug: deurhanger-main-png-product-1
   type: product
 logo:
   channels:

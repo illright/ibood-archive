@@ -1,4 +1,4 @@
-_id: 68ff3706c3d09370197b9a1d
+_id: 68ff37651ed43283933c17ec
 appOnly: false
 brand: Hugo Boss
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Hugo Boss
 categories:
   - c3ccf9b6-0ca9-5d64-91d7-312f8f36e7d7
-classicId: '2803634'
-classicProductId: '527573'
+classicId: '2803774'
+classicProductId: '601706'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 73
+discount: 72
 end: '2025-11-03T22:59:59.999Z'
 freeDelivery: false
-id: a5d27031-a63f-43a5-b7ea-318b783cf90a
+id: 0e98981d-0ff7-46e1-a817-1df53b39de21
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1786542
+    - all
+  extension: image/png
+  id: f3339980-76d5-45d2-aa4b-4d229224aaf0
   priority: 0
-  slug: hugo-boss-zonnebril
+  slug: main-png-product-2
   type: product
 logo:
   channels:
@@ -37,15 +38,15 @@ logo:
   priority: 100
   slug: hugo-boss-logo
   type: logo
-offerId: 1b19b816-d2dc-4e5d-bfbd-4eade950b660
+offerId: dd480ed9-4226-40c6-86d7-ae8c8a33d81e
 price:
-  cents: 5995
+  cents: 5383
   currency: EUR
-  value: 59.95
+  value: 53.83
 referencePrice:
-  cents: 22000
+  cents: 19500
   currency: EUR
-  value: 220
+  value: 195
 slug: hugo-boss-zonnebril
 soldOut: true
 start: '2025-10-26T23:00:00.000Z'

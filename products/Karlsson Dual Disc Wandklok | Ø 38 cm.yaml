@@ -1,4 +1,4 @@
-_id: 68ff3051fcae6405f88d6fd7
+_id: 690365123d49cc205b4388c3
 appOnly: false
 brand: Karlsson
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Karlsson
 categories:
   - 6efca0de-74ae-5088-aad8-bc0bcfefa593
-classicId: '2803539'
-classicProductId: '640696'
+classicId: '2808882'
+classicProductId: '640697'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 79
+discount: 84
 end: '2025-11-02T22:59:59.999Z'
 freeDelivery: false
-id: 3c4afee4-2f26-4dec-8c63-10a12ec31788
+id: 9db18f5e-d08c-4240-b0a4-21594d3b8da2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251691
+    - all
+  extension: image/png
+  id: 3071edf4-0f38-4618-a51a-429e8fcbb26f
   priority: 0
-  slug: karlsson-dual-disc-wanduhr-schwarz-38-cm
+  slug: 12-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: a30b6d34-922d-4161-a5cb-d5c8359b226b
+offerId: faf45617-2ed2-4e31-a0cc-2011a029d3c6
 price:
-  cents: 1995
+  cents: 1495
   currency: EUR
-  value: 19.95
+  value: 14.95
 referencePrice:
   cents: 9575
   currency: EUR
   value: 95.75
 slug: karlsson-dual-disc-wandklok-38-cm
-soldOut: false
+soldOut: true
 start: '2025-10-27T23:00:00.000Z'
 title: Karlsson Dual Disc Wandklok | Ø 38 cm
