@@ -1,4 +1,4 @@
-_id: 69021b08c9178cfb12c6f86f
+_id: 69021b0386f31d79d2e7d331
 appOnly: false
 brand: VANS
 brands:
@@ -6,24 +6,24 @@ brands:
     name: VANS
 categories:
   - c7afcb68-7379-5497-8e17-0df61130cb74
-classicId: '2808002'
-classicProductId: '622931'
+classicId: '2808001'
+classicProductId: '622927'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 60
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: d0de9245-9c9b-4097-b26d-e65312d7b499
+id: a235d49b-cdbf-4634-891a-555e411a5060
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 2183708
+  extension: png
+  id: 2220000
   priority: 0
   slug: vans-full-patch-hoodie-heren
   type: product
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 6c738b8d-f1a1-43bc-a1d9-9282d29fa814
+offerId: f4208392-39c5-4083-9894-8750f4fabca3
 price:
   cents: 2995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 75
 slug: vans-full-patch-hoodie-heren
-soldOut: false
+soldOut: true
 start: '2025-10-29T23:00:00.000Z'
 title: Vans Full Patch Hoodie | Heren
