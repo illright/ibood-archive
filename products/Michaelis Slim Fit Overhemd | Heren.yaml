@@ -1,22 +1,22 @@
-_id: 6900bc6b626eb3864dcbabff
+_id: 6908b39ef16ef0492ed0d073
 appOnly: false
 brand: Michaelis
 brands:
   - id: 2d2a09a5-7d0f-535a-8a8f-db955f1c6162
     name: Michaelis
 categories:
-  - e73c8da2-25d8-570e-9eb2-ab5829c5885c
-classicId: '2806594'
-classicProductId: '633603'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812626'
+classicProductId: '650068'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 57
-end: '2025-11-03T22:59:59.999Z'
+discount: 50
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 2130e4cf-63f8-4a05-b599-7a312e35f398
+id: f2f3e2a4-c5d1-461e-9fbe-a848ee1791db
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 07dbdc1e-7be7-4a1c-8d32-af1aed6c1157
+  id: e2216044-bcf4-4b55-bf57-22cae9775579
   priority: 0
-  slug: riu6c3e-png-product-0
+  slug: top-02-png-product-2
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: michaelis-logo
   type: logo
-offerId: 9d3d8139-9c42-4b6f-b943-bc5f60a1b7dc
+offerId: 081b4631-d27f-4132-886c-65c3c3f82d75
 price:
-  cents: 2995
+  cents: 3495
   currency: EUR
-  value: 29.95
+  value: 34.95
 referencePrice:
   cents: 6995
   currency: EUR
   value: 69.95
 slug: michaelis-slim-fit-overhemd-heren
-soldOut: true
-start: '2025-10-27T23:00:00.000Z'
+soldOut: false
+start: '2025-11-03T23:00:00.000Z'
 title: Michaelis Slim Fit Overhemd | Heren

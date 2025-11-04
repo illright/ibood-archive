@@ -1,44 +1,43 @@
-_id: 68ff3726231bf3df6c9192ee
+_id: 6908b7ca19fc4344edc9310a
 appOnly: false
 brand: Sloggi
 brands:
   - id: e875fa22-6b99-5f8c-921a-817b3bae18ba
     name: Sloggi
 categories:
-  - ea33f7de-7a95-5485-b8b3-fdb76d9c74bf
-classicId: '2803675'
-classicProductId: '636383'
+  - 5224d1bc-b182-5d83-ac44-6c580aa5f537
+classicId: '2812689'
+classicProductId: '636387'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 56
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: b4e07306-c7a3-4217-af6f-af10ac4f42e5
+id: afed9ff8-7539-4dfe-b196-2c214b4e3715
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2239431
+  id: 2239432
   priority: 0
   slug: 6x-sloggi-start-short-heren
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ceb5d3d9-18bf-4e43-95e3-dea6fb59a9c5
-  priority: 0
-  slug: sloggi-logo-0
+  extension: png
+  id: 2239271
+  priority: 100
+  slug: 6x-sloggi-start-short-heren
   type: logo
-offerId: e02c8ce2-15eb-4a0e-ae15-b0549c643d5c
+offerId: 3ec31d3c-50ab-4602-9075-139c9aa5c8f4
 price:
   cents: 4495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 101.95
 slug: 6x-sloggi-start-short-heren
 soldOut: false
-start: '2025-10-26T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 6x Sloggi Start Short | Heren

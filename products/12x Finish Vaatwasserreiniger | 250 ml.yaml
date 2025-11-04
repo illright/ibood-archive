@@ -1,30 +1,31 @@
-_id: 6900830ac8e5ad289cf98a40
+_id: 6908d44566f95b91aae6ab21
 appOnly: false
 brand: Finish
 brands:
   - id: 609dbe56-ce2a-57a6-8d8a-a995c110554b
     name: Finish
 categories:
-  - c8fbbe9f-d89b-5931-b3c0-45702acd95d9
-classicId: '2805458'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813613'
 classicProductId: '464419'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 50
-end: '2025-11-03T22:59:59.999Z'
+directCheckout: false
+discount: 58
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 28f8c53f-5cee-4445-8a1a-01cd993ce254
+id: fba27d32-8fd7-4765-9c14-27a6225b764d
 image:
   channels:
-    - app
     - website
+    - app
+    - newsletter
   extension: png
-  id: 1674538
-  priority: 0
-  slug: 12x-finish-spulmaschinenreiniger-250-ml
+  id: 1674536
+  priority: 100
+  slug: 12x-finish-vaatwasserreiniger-250-ml
   type: product
 logo:
   channels:
@@ -32,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1614266
+  id: 1552919
   priority: 100
-  slug: finish-logo
+  slug: 12x-finish-vaatwasserreiniger-250-ml
   type: logo
-offerId: 8ec5a5ea-5319-437b-a039-49bf7990189a
+offerId: b944bd7d-77d7-4ad7-9fc6-effa2e7709b9
 price:
-  cents: 2995
+  cents: 2495
   currency: EUR
-  value: 29.95
+  value: 24.95
 referencePrice:
   cents: 5988
   currency: EUR
   value: 59.88
 slug: 12x-finish-vaatwasserreiniger-250-ml
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 12x Finish Vaatwasserreiniger | 250 ml

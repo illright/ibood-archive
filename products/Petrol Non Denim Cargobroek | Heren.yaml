@@ -1,22 +1,22 @@
-_id: 68ff344c7c23e943000b8397
+_id: 6908b18e97a5997c5863d715
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2803579'
-classicProductId: '665642'
+  - f5d80d7d-df49-5012-b8cd-01a3c456f501
+classicId: '2812266'
+classicProductId: '619224'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2025-11-03T22:59:59.999Z'
+directCheckout: true
+discount: 71
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: f0875bef-754d-440d-841a-76fb353d39aa
+id: 218b770d-d63f-441d-8ab3-80f24abe75ee
 image:
   channels:
     - app
@@ -25,7 +25,7 @@ image:
     - all
   extension: image/png
   id: 71949f16-7ae7-4260-b738-b2ba11af5cb9
-  priority: 1
+  priority: 0
   slug: non-denim-cargo-petrol-product-2
   type: product
 logo:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 03d97536-4586-4021-893e-86c0b6fa990a
+offerId: 7519aaeb-f1aa-47b8-9cc5-d0476c46f7d5
 price:
-  cents: 3495
+  cents: 1995
   currency: EUR
-  value: 34.95
+  value: 19.95
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: non-denim-cargo-petrol
 soldOut: false
-start: '2025-10-24T22:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Petrol Non Denim Cargobroek | Heren

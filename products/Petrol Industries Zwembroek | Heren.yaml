@@ -1,22 +1,22 @@
-_id: 68fa0bdd3ac5f09d432b3733
+_id: 69021aa9c9178cfb12c6f80e
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2802032'
-classicProductId: '636775'
+  - fd0e8afc-a684-52c0-aa0b-d29d205cc725
+classicId: '2807856'
+classicProductId: '636770'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 86
-end: '2025-11-03T22:59:59.999Z'
+directCheckout: false
+discount: 72
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: fa77499e-ada2-48a8-add0-c8cc1a687c63
+id: 9833e6cb-9d00-40cc-8235-ba18e700e343
 image:
   channels:
     - app
@@ -24,31 +24,30 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8feda27b-d6e7-4b3d-a85c-7854a45509fc
+  id: cc75a387-41bb-45c9-b9f4-5a78089c02ba
   priority: 0
-  slug: petrol-22-png-product-2
+  slug: main-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0d998386-9e85-4405-92ff-8c54927ba4c4
-  priority: 0
-  slug: 1819625-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 318ae402-44c9-4d6f-8a29-c6947f92e930
+offerId: 03fca204-3d96-4383-9196-b8d98f08baca
 price:
-  cents: 495
+  cents: 995
   currency: EUR
-  value: 4.95
+  value: 9.95
 referencePrice:
   cents: 3599
   currency: EUR
   value: 35.99
 slug: petrol-zwemshorts-voor-heren
-soldOut: true
-start: '2025-10-24T22:00:00.000Z'
+soldOut: false
+start: '2025-10-29T23:00:00.000Z'
 title: Petrol Industries Zwembroek | Heren

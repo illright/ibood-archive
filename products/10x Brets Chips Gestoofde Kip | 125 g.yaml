@@ -1,12 +1,12 @@
-_id: 6900849adf253a4dc5bc2943
+_id: 6908d397c41844a9b379bfc6
 appOnly: false
 brand: Brets
 brands:
   - id: 14997e30-42ef-5569-bf3b-cbf7ba607313
     name: Brets
 categories:
-  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
-classicId: '2805757'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813466'
 classicProductId: '666707'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: f382e4d7-95b4-4ae7-bcc5-54a6aa3669f4
+id: 77187569-30ff-49b2-9648-9b90cba2a7b6
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: brets-03-png-product-1
   type: product
-offerId: 1151ce6f-4605-4868-a5ae-8f4709f80ac4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6096cb1f-357d-4489-9ff0-0a6a4f9f9614
+  priority: 0
+  slug: brets-logo-0
+  type: logo
+offerId: db74e85f-910d-49a3-aced-464564785aac
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 28.9
 slug: brets-10x-gestoofde-kip-125gr-13497917001512
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 10x Brets Chips Gestoofde Kip | 125 g

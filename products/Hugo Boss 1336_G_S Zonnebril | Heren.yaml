@@ -1,12 +1,12 @@
-_id: 68ff372d4c75ffcf530dd437
+_id: 6908b87597256df393e0aead
 appOnly: false
 brand: Hugo Boss
 brands:
   - id: ea8978ea-f226-5c2a-bb5f-4458ac381560
     name: Hugo Boss
 categories:
-  - c3ccf9b6-0ca9-5d64-91d7-312f8f36e7d7
-classicId: '2803690'
+  - f12c746a-36f6-51e4-8e16-b908c888d024
+classicId: '2812768'
 classicProductId: '664388'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 87b04cda-687b-4849-9768-212aa7095f4a
+id: 94496309-e082-4221-a02b-e966e8910616
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: hg-1336gs-207980kb756t4-hugo-boss-sunglasses-product-0
   type: product
-offerId: 57098745-ecdb-43f3-bcb9-155fdcef910a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1797875
+  priority: 100
+  slug: hugo-boss-logo
+  type: logo
+offerId: 5fb4cf68-569d-49bd-b168-e65b2266c89e
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 155
 slug: hugo-boss-1336gs-zonnebril
 soldOut: false
-start: '2025-10-26T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Hugo Boss 1336/G/S Zonnebril | Heren

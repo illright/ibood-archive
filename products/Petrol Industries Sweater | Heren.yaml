@@ -1,22 +1,22 @@
-_id: 68fa0b890ce9d035314d1962
+_id: 6908b36466f95b91aae6a628
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2801975'
-classicProductId: '670088'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812573'
+classicProductId: '670089'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 77ca9f51-cefc-45fd-85c5-379ce07b523e
+id: de97d031-fa14-497e-a0ca-c983a5ad7cbd
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xxl-antique-bronze-m-3050-swc368-7145-men-sweater-collar-zip-petrol-product-2
   type: product
-offerId: 73dff275-66c0-440f-9ce1-fe2c97bb973f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
+  type: logo
+offerId: 0056c435-0457-4dba-9139-ad95033bb406
 price:
   cents: 2995
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: petrol-industries-sweater-heren
-soldOut: true
-start: '2025-10-24T22:00:00.000Z'
+soldOut: false
+start: '2025-11-03T23:00:00.000Z'
 title: Petrol Industries Sweater | Heren

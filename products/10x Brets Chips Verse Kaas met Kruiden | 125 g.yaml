@@ -1,12 +1,12 @@
-_id: 6900849adf253a4dc5bc2941
+_id: 6908d393c95bece2ab8e446a
 appOnly: false
 brand: Brets
 brands:
   - id: 14997e30-42ef-5569-bf3b-cbf7ba607313
     name: Brets
 categories:
-  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
-classicId: '2805754'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813463'
 classicProductId: '666703'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: e98d3c30-4251-4f73-88a6-907a06506dba
+id: 9259dc70-8a08-4a08-83ef-554cc90b23de
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: brets-05-png-product-1
   type: product
-offerId: 1adef117-6a69-406c-8e92-9301f74b8a76
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6096cb1f-357d-4489-9ff0-0a6a4f9f9614
+  priority: 0
+  slug: brets-logo-0
+  type: logo
+offerId: 9abb914c-0892-4806-855e-5b290d6e0b4d
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 28.9
 slug: 10x-brets-chips-verse-kaas-met-kruiden-125-g
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 10x Brets Chips Verse Kaas met Kruiden | 125 g

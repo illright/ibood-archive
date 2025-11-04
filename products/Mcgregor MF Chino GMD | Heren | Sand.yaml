@@ -1,12 +1,12 @@
-_id: 6900baf1626eb3864dcbab0a
+_id: 6908b11b19fc4344edc92ec4
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 013973e5-c428-5853-89cd-677d17630e9f
-classicId: '2806369'
+  - f5d80d7d-df49-5012-b8cd-01a3c456f501
+classicId: '2812159'
 classicProductId: '669463'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 46
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: f724a18a-620c-4a9d-9d80-5ae9d7f474b3
+id: 1a6eaf77-f022-42ee-86bf-3c4b41b40867
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: chinooo-png-product-1
   type: product
-offerId: 9d4cfc63-6697-42b1-a3b8-119c85e16efb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: ff68f109-6973-4899-8c4a-579651e14607
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: mcgregor-mf-chino-gmd-heren-sand
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Mcgregor MF Chino GMD | Heren | Sand

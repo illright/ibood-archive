@@ -1,22 +1,22 @@
-_id: 6900bc1f626eb3864dcbabc2
+_id: 6908b36766f95b91aae6a637
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - e73c8da2-25d8-570e-9eb2-ab5829c5885c
-classicId: '2806542'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812575'
 classicProductId: '669522'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: bcd19e75-37f5-409e-b7ae-36631a74faf1
+id: bffa3318-eb0e-4fd1-9359-d1ba2e434868
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: longsleeve-png-product-1
   type: product
-offerId: 89ecb2a6-6031-4112-8c87-f67bcfe6ba8b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: 8402ea45-7b80-4446-974a-cd4ad1f8df19
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: mcgregor-longsleeve-gestreept-heren
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: McGregor Longsleeve | Heren

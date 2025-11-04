@@ -1,22 +1,22 @@
-_id: 68fa0bc8310d83b216d7db9b
+_id: 6908b31766f95b91aae6a5ab
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2802015'
-classicProductId: '665352'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812531'
+classicProductId: '665348'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 58
-end: '2025-11-03T22:59:59.999Z'
+discount: 50
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 5a9936c8-0b3c-4ae8-b2c8-79a3d37af855
+id: b7eb1aa3-dac7-4615-950c-e73f3ee9f062
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 2c3c2208-ec3f-4703-a2e5-668fa46177b5
+  priority: 0
+  slug: petrol-png-logo-0
   type: logo
-offerId: cc037546-b139-4e46-8630-961759523304
+offerId: fbe18c24-d13e-415d-9259-857d148e8cb3
 price:
-  cents: 2495
+  cents: 2995
   currency: EUR
-  value: 24.95
+  value: 29.95
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: petrol-hoodie-print-heren-antique-white
 soldOut: false
-start: '2025-10-24T22:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Petrol Hoodie Print | Heren | Antique White

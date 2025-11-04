@@ -1,22 +1,22 @@
-_id: 69008497c8e5ad289cf98cad
+_id: 6908d392c41844a9b379bfb4
 appOnly: false
 brand: Brets
 brands:
   - id: 14997e30-42ef-5569-bf3b-cbf7ba607313
     name: Brets
 categories:
-  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
-classicId: '2805753'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813462'
 classicProductId: '666706'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 41
-end: '2025-11-03T22:59:59.999Z'
+discount: 48
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 0e5d0940-ff2d-4b55-838d-0b99e4d3154a
+id: 9d9486c1-f973-4c1e-ba06-e8fa82f405fb
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: brets-01-png-product-1
   type: product
-offerId: 23127a29-8940-4dbf-a3f6-7468efa6e50b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6096cb1f-357d-4489-9ff0-0a6a4f9f9614
+  priority: 0
+  slug: brets-logo-0
+  type: logo
+offerId: 071457c9-d0be-43b1-a20a-a2742738c54c
 price:
-  cents: 1695
+  cents: 1495
   currency: EUR
-  value: 16.95
+  value: 14.95
 referencePrice:
   cents: 2890
   currency: EUR
   value: 28.9
 slug: brets-10x-cote-de-boeuf-125-gr-13497917001758
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 10x Brets Chips gegrilde Côte de Boeuf | 125 g

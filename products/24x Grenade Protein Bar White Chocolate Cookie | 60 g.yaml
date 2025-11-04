@@ -1,12 +1,12 @@
-_id: 68f9eac1d6345eb60eae1e91
+_id: 6908d48419fc4344edc9361a
 appOnly: false
 brand: Grenade
 brands:
   - id: 179c4788-baf2-582f-89b1-ae64df02c5d8
     name: Grenade
 categories:
-  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
-classicId: '2801835'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813643'
 classicProductId: '674619'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: c8b437e1-7b9a-5539-a225-4705d6f88800
+id: fb90c0a1-ca5f-4dd4-90bb-8c347296c5db
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: grenade-01-png-product-1
   type: product
-offerId: 845367f8-078b-5a33-8414-56ecfde1477b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6232b055-998a-46b3-bb3b-7d1a41000700
+  priority: 0
+  slug: grenade-logo-0
+  type: logo
+offerId: 98712a19-45d8-472a-bae9-e39f3b805695
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 76.56
 slug: 24x-grenade-protein-bar-white-chocolate-cookie-60-g
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 24x Grenade Protein Bar White Chocolate Cookie | 60 g

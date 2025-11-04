@@ -1,43 +1,44 @@
-_id: 690372e4b1cdd82e8750d270
+_id: 6908b7b066f95b91aae6a6c0
 appOnly: false
 brand: Sloggi
 brands:
   - id: e875fa22-6b99-5f8c-921a-817b3bae18ba
     name: Sloggi
 categories:
-  - ea33f7de-7a95-5485-b8b3-fdb76d9c74bf
-classicId: '2808945'
-classicProductId: '627579'
+  - 5224d1bc-b182-5d83-ac44-6c580aa5f537
+classicId: '2812671'
+classicProductId: '627565'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 36
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: bcc89299-bf65-4b3d-b1f4-ebcd4e6fb263
+id: b7d4f79d-b925-4c44-a74d-bb20c98a11ad
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2193562
+  id: 2193558
   priority: 0
   slug: 6x-sloggi-pure-comfort-h-maxi-slip-dames
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2193417
-  priority: 100
-  slug: 6x-sloggi-pure-comfort-h-maxi-slip-dames
+    - all
+  extension: image/png
+  id: ceb5d3d9-18bf-4e43-95e3-dea6fb59a9c5
+  priority: 0
+  slug: sloggi-logo-0
   type: logo
-offerId: e22f80cf-3c00-492a-925b-d16383c45cf7
+offerId: 13d65b64-a45f-41b2-8fcf-b14f9167c568
 price:
   cents: 2795
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 43.95
 slug: 6x-sloggi-pure-comfort-h-maxi-slip-dames
 soldOut: false
-start: '2025-10-26T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 6x Sloggi Pure Comfort H Maxi Slip | Dames

@@ -1,12 +1,12 @@
-_id: 6900bc045e36947649b73966
+_id: 6908b2fc97a5997c5863d8da
 appOnly: false
 brand: Lee Jeans
 brands:
   - id: e5977104-f5e7-52a0-b91e-221b59650c5b
     name: Lee Jeans
 categories:
-  - e73c8da2-25d8-570e-9eb2-ab5829c5885c
-classicId: '2806517'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812518'
 classicProductId: '656449'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 57
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 1a4871b5-40b9-43f4-95c0-9ef32b520ac1
+id: 2f95363b-7637-43bc-9aea-b5f3c796e0c9
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xl-mercantile-green-112370424-pocket-tee-lee-product-7
   type: product
-offerId: daedaaec-6006-4f7d-b593-e49207771d64
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1782704
+  priority: 100
+  slug: lee-jeans-logo
+  type: logo
+offerId: 62cbaece-c40f-4d57-a339-a289121a2460
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 29.95
 slug: mercantile-green-112370424-pocket-tee-lee
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Lee Pocket T-shirt | Mercantile Groen | Heren

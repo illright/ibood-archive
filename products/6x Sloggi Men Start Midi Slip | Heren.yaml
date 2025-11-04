@@ -1,12 +1,12 @@
-_id: 68da990a79bb942f8e0421fc
+_id: 6908b7a819fc4344edc930b9
 appOnly: false
 brand: Sloggi
 brands:
   - id: e875fa22-6b99-5f8c-921a-817b3bae18ba
     name: Sloggi
 categories:
-  - ea33f7de-7a95-5485-b8b3-fdb76d9c74bf
-classicId: '2776068'
+  - 5224d1bc-b182-5d83-ac44-6c580aa5f537
+classicId: '2812667'
 classicProductId: '668352'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 99dfc1ca-b9dc-54ef-a7b4-049f41bf604c
+id: b0371e37-4848-497b-9035-26b5594f551c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 1221-png-product-3
   type: product
-offerId: 60cf94da-6a4d-5adf-a785-052e074382c8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ceb5d3d9-18bf-4e43-95e3-dea6fb59a9c5
+  priority: 0
+  slug: sloggi-logo-0
+  type: logo
+offerId: 80c820b7-c02f-4f8a-a4d8-45875da0c164
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 102
 slug: 6x-sloggi-men-start-midi-slip-heren
 soldOut: false
-start: '2025-10-26T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 6x Sloggi Men Start Midi Slip | Heren

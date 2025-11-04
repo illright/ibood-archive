@@ -1,12 +1,12 @@
-_id: 68f772fde75197ef6cfbcf75
+_id: 6908d3c3c41844a9b379c033
 appOnly: false
 brand: Dash
 brands:
   - id: da60b153-3965-5af9-bc41-3d8c68182c54
     name: Dash
 categories:
-  - c8fbbe9f-d89b-5931-b3c0-45702acd95d9
-classicId: '2798549'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813506'
 classicProductId: '663763'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 55
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 0a5befb0-dd85-5340-b5ae-c713232db59a
+id: cd55931f-cf6b-44f0-a7d0-256e1f1d1918
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: dash-01-png-product-1
   type: product
-offerId: 18a03499-2a6f-5c56-ba36-b014f1be3838
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5e169dfa-5858-49a2-81e3-1bcd79a39b2d
+  priority: 0
+  slug: dash-logo-0
+  type: logo
+offerId: 2db995a4-8731-4964-9a50-80d42609bd4f
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 43.96
 slug: 4x-dash-platinum-vloeibaar-wasmiddel-810-ml-72sc
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 4x Dash Platinum Vloeibaar Wasmiddel | 810 ml (72sc)

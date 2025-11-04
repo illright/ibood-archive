@@ -1,22 +1,22 @@
-_id: 68f647db2dbe72a43c3ee9a4
+_id: 6908b29897a5997c5863d808
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2797312'
-classicProductId: '673760'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812432'
+classicProductId: '673739'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 44
-end: '2025-11-03T22:59:59.999Z'
+discount: 43
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: a01f58b9-7cef-5c6e-958a-ecaa3ea8fb71
+id: e1ab3137-c7ec-43ce-9f91-42692bc0d991
 image:
   channels:
     - app
@@ -24,31 +24,30 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: aacd4ce0-efaa-478c-98dd-9118ae4b0dd5
+  id: 5ebfb981-692d-4634-b733-5e8aefd271c4
   priority: 0
-  slug: petrol-97-png-product-1
+  slug: petrol-93-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0d10e88b-500f-47f8-8034-b739848962cb
-  priority: 0
-  slug: petrol-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 01e5299d-ab52-5cca-bb83-d9519cca9489
+offerId: 501ae6a2-b2bd-4aaa-a381-a6273f65fa87
 price:
-  cents: 4495
+  cents: 3995
   currency: EUR
-  value: 44.95
+  value: 39.95
 referencePrice:
-  cents: 7999
+  cents: 6999
   currency: EUR
-  value: 79.99
+  value: 69.99
 slug: petrol-gebreide-trui-met-kraag-heren
-soldOut: true
-start: '2025-10-24T22:00:00.000Z'
+soldOut: false
+start: '2025-11-03T23:00:00.000Z'
 title: Petrol Gebreide Trui met Kraag | Heren

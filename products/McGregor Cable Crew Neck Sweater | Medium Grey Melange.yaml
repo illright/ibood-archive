@@ -1,12 +1,12 @@
-_id: 6900bc10e0e363c343c5313c
+_id: 6908b34419fc4344edc9300e
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - e73c8da2-25d8-570e-9eb2-ab5829c5885c
-classicId: '2806523'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812552'
 classicProductId: '669530'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 46
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: e88836bb-45f8-4008-99c1-bf4291f914d0
+id: 56e56af5-02d8-4e1f-9504-9dfc9fb2445f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: d2d81032-203c-4593-b030-9a46aab6a721
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: dbb4b260-433c-421a-a419-055f03388a9b
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: mcgregor-cable-crew-neck-sweater-medium-grey-melange
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: McGregor Cable Crew Neck Sweater | Medium Grey Melange

@@ -1,12 +1,12 @@
-_id: 690372e0db1e1f54766e9c55
+_id: 6908b7c619fc4344edc930f8
 appOnly: false
 brand: Happy Socks
 brands:
   - id: c8081aa1-e3db-525f-92b6-4e2bf3640849
     name: Happy Socks
 categories:
-  - ea33f7de-7a95-5485-b8b3-fdb76d9c74bf
-classicId: '2808944'
+  - 5224d1bc-b182-5d83-ac44-6c580aa5f537
+classicId: '2812683'
 classicProductId: '453641'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 1e066595-3d60-49dc-8acd-9200d4d4712f
+id: 27db2343-06d5-45c6-8f09-0067e501308f
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 2-paar-happy-socks-in-giftbox-cats-vs-dogs
   type: product
-offerId: 56a5f741-ca72-440e-a4a9-d1c2b96d5f30
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1668751
+  priority: 100
+  slug: happy-socks-logo
+  type: logo
+offerId: 94738872-d400-40b5-bf7a-6a515cd6ed19
 price:
   cents: 995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 19.95
 slug: 2-paar-happy-socks-in-giftbox-cats-vs-dogs
 soldOut: false
-start: '2025-10-26T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 2 Paar Happy Socks in Giftbox | Cats vs Dogs

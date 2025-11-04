@@ -1,12 +1,12 @@
-_id: 68da99484bed0a112e150845
+_id: 6908b7bc66f95b91aae6a6ca
 appOnly: false
 brand: Sloggi
 brands:
   - id: e875fa22-6b99-5f8c-921a-817b3bae18ba
     name: Sloggi
 categories:
-  - ea33f7de-7a95-5485-b8b3-fdb76d9c74bf
-classicId: '2776071'
+  - 5224d1bc-b182-5d83-ac44-6c580aa5f537
+classicId: '2812676'
 classicProductId: '674558'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 35
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: e3f2cdb3-452d-5832-a9b1-95c695a7a1e0
+id: 95330b32-092c-428b-855e-36f92aad57e1
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: eba100fa-774c-5389-8056-ae2a35166cf4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ceb5d3d9-18bf-4e43-95e3-dea6fb59a9c5
+  priority: 0
+  slug: sloggi-logo-0
+  type: logo
+offerId: 2439799a-5294-4db7-9461-f010a2ad500c
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 25.98
 slug: 2x-sloggi-pur-comfort-tanktop-damen
 soldOut: false
-start: '2025-10-26T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 2x Sloggi Pur Comfort Tanktop | Dames

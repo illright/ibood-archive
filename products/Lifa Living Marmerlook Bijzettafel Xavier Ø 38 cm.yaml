@@ -1,22 +1,22 @@
-_id: 68ff8e0c5a5db4a7bddf4fb7
+_id: 690875469cb5d61ef8e6245e
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - 51ac9df3-c206-5104-8c58-783cc1fe1fd1
-classicId: '2805253'
-classicProductId: '386345'
+  - e7cb3afc-ca25-56b5-8969-9101336c6bc9
+classicId: '2810926'
+classicProductId: '386344'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 64
-end: '2025-11-04T22:59:59.999Z'
+discount: 75
+end: '2025-11-09T22:59:59.999Z'
 freeDelivery: false
-id: 2f4809e0-d083-5c0d-a4d6-30c33eda389a
+id: 55ba5c77-bf25-4a3d-8f24-731787e85c7a
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: lifa-living-xavier-beistelltisch-38-cm
   type: product
-offerId: 95b72b28-1d5a-5a05-92c5-e331c90b5823
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 1273120
+  priority: 100
+  slug: lifa-living-xavier-beistelltisch-38-cm
+  type: logo
+offerId: d0488e8a-dc3d-448d-be03-75c7ba92c026
 price:
   cents: 2495
   currency: EUR
   value: 24.95
 referencePrice:
-  cents: 6995
+  cents: 9995
   currency: EUR
-  value: 69.95
+  value: 99.95
 slug: lifa-living-marmerlook-bijzettafel-xavier-38-cm
 soldOut: false
-start: '2025-10-30T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Lifa Living Marmerlook Bijzettafel Xavier Ø 38 cm

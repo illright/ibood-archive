@@ -1,12 +1,12 @@
-_id: 68f772fa3792bf8c0491e75b
+_id: 6908d3bfc41844a9b379c02a
 appOnly: false
 brand: Dash
 brands:
   - id: da60b153-3965-5af9-bc41-3d8c68182c54
     name: Dash
 categories:
-  - c8fbbe9f-d89b-5931-b3c0-45702acd95d9
-classicId: '2798548'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813504'
 classicProductId: '647888'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 55
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 541c7af2-cf1a-5e0e-9990-0fe59c1d20ec
+id: fe796953-af4b-48ef-a163-2864e7cd9757
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 550x698-jpg-product-0
   type: product
-offerId: 2631b966-0691-51c2-a591-776f4550f782
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5e169dfa-5858-49a2-81e3-1bcd79a39b2d
+  priority: 0
+  slug: dash-logo-0
+  type: logo
+offerId: 24f11b7a-b4be-47cf-a1b3-e05639e3eabc
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 43.96
 slug: dash-vloeistof-platina-kleur-18sc
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 4x Dash Liquid Platinum Color Wasmiddel | 72x Wassen

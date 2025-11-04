@@ -1,12 +1,12 @@
-_id: 68ff37361ed43283933c1702
+_id: 6908b8b1ea30c775640a9303
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - c3ccf9b6-0ca9-5d64-91d7-312f8f36e7d7
-classicId: '2803700'
+  - f12c746a-36f6-51e4-8e16-b908c888d024
+classicId: '2812816'
 classicProductId: '655812'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 32
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 94bfa803-02b9-4ece-8244-3d67d001835b
+id: a1cefa2e-8e1c-49bf-8f44-3d6d27f65273
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a284ca23-b6ce-4e8f-a140-5d0c9c9d7a30
-  priority: 0
-  slug: lyle-scott-png-logo-0
+  extension: png
+  id: 1695004
+  priority: 100
+  slug: lyle-scott-logo
   type: logo
-offerId: fd5d8e1d-09f9-4566-872b-4de0e2f0b5cc
+offerId: a3e15814-aacc-4f75-9706-fd847a57d2a7
 price:
   cents: 2395
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 35
 slug: lyle-scott-merino-wol-muts-he2313a
 soldOut: false
-start: '2025-10-26T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Lyle & Scott Merino Wol Muts | HE2313A | Zwart

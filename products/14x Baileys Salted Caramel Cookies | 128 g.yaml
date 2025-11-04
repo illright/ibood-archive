@@ -1,22 +1,22 @@
-_id: 69008491df253a4dc5bc2924
+_id: 6908d376d50b883e3de8326f
 appOnly: false
 brand: Bailey's
 brands:
   - id: b516bf53-7a3f-58a1-8866-509cf85a5bf2
     name: Bailey's
 categories:
-  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
-classicId: '2805742'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813440'
 classicProductId: '670207'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 52
-end: '2025-11-03T22:59:59.999Z'
+discount: 62
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 8ebd71b0-7c9e-4254-b0b0-b93f677d294c
+id: e6742768-d955-4d90-825f-64c27314a730
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: 14x-baileys-salted-caramel-cookies-128g-product-0
   type: product
-offerId: ae84f05c-d4a9-4b3e-afca-0993dc09d3f0
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 07f50fb3-caf6-49d6-bd7b-f3ead0dd94ff
+  priority: 0
+  slug: bailey-s-logo-0
+  type: logo
+offerId: f280c192-41a6-4a81-851a-b2e0ec00c857
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 5250
   currency: EUR
   value: 52.5
 slug: 14x-baileys-salted-caramel-cookies-128-g
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 14x Baileys Salted Caramel Cookies | 128 g

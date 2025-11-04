@@ -1,12 +1,12 @@
-_id: 6900849bc8e5ad289cf98cbf
+_id: 6908d395c41844a9b379bfbd
 appOnly: false
 brand: Brets
 brands:
   - id: 14997e30-42ef-5569-bf3b-cbf7ba607313
     name: Brets
 categories:
-  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
-classicId: '2805756'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813465'
 classicProductId: '666708'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: a995d170-d13b-4571-8fcc-ddc41de59d20
+id: 22c9af35-0086-46e6-ba69-446e01e58e6b
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: brets-04-png-product-1
   type: product
-offerId: e493e3c7-da29-4899-bfe4-c659babbbcb9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6096cb1f-357d-4489-9ff0-0a6a4f9f9614
+  priority: 0
+  slug: brets-logo-0
+  type: logo
+offerId: 2d789ae5-22d9-4555-a7de-bab2e05c5e21
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 28.9
 slug: brets-10x-geitenkaas-peper-125-gr
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 10x Brets Chips Geitenkaas & Espelette Peper | 125 g

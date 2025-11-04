@@ -1,12 +1,12 @@
-_id: 69008499c8e5ad289cf98cb6
+_id: 6908d394c41844a9b379bfbb
 appOnly: false
 brand: Brets
 brands:
   - id: 14997e30-42ef-5569-bf3b-cbf7ba607313
     name: Brets
 categories:
-  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
-classicId: '2805755'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813464'
 classicProductId: '666704'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: e1caf998-c7f9-4689-a624-42e0fe088b0d
+id: 9c6debb7-a8ed-4544-aa4d-3be543174914
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: brets-02-png-product-1
   type: product
-offerId: 902f5fcd-0864-486d-81d6-0bbfda93ed4f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6096cb1f-357d-4489-9ff0-0a6a4f9f9614
+  priority: 0
+  slug: brets-logo-0
+  type: logo
+offerId: ec1cc703-c3c4-4f85-bf7d-4d4e03dc3fce
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 28.9
 slug: brets-10x-pili-pili-125gr-13497917003882
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 10x Brets Chips Pili pili | 125 g

@@ -1,22 +1,22 @@
-_id: 6900bb2fb366da4e028e442a
+_id: 6908b2b497a5997c5863d86a
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - e73c8da2-25d8-570e-9eb2-ab5829c5885c
-classicId: '2806401'
-classicProductId: '655762'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812459'
+classicProductId: '655765'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 26
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 6a52e6f2-0269-4503-8b78-3e194346c1bb
+id: 39f5b8ac-5b31-442b-86c7-963b94454f45
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: fb463709-099c-463a-8184-8b93af14a645
+  id: d53d58b4-6683-4f90-8f08-02fdfd37e333
   priority: 0
-  slug: 1-png-product-1
+  slug: 2-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: lyle-scott-logo
   type: logo
-offerId: 08178e6b-edbe-429d-90d4-53f8162495ac
+offerId: 9aa26f55-f112-4535-bc8e-4aa1cb6212c3
 price:
-  cents: 6995
+  cents: 7000
   currency: EUR
-  value: 69.95
+  value: 70
 referencePrice:
   cents: 9500
   currency: EUR
   value: 95
 slug: lyle-scott-fleece-hoodie-heren
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: ' Lyle & Scott Fleece Hoodie | Heren'

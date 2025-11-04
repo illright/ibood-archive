@@ -1,12 +1,12 @@
-_id: 6900d68ee0e363c343c53335
+_id: 6908884a66f95b91aae6a293
 appOnly: false
 brand: Roughneck
 brands:
   - id: 98bab236-d75c-5c10-8029-bdb28f266cc3
     name: Roughneck
 categories:
-  - 8c01f78c-0874-5fdc-b9a3-29985d6e6e23
-classicId: '2806749'
+  - 4d4c423f-fa16-5ea9-b2b5-4ae1cb30cbff
+classicId: '2811885'
 classicProductId: '258511'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 8
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 8d6cfed3-66af-4a8f-bdbb-d1c5698de9fd
+id: 516ec61c-d93f-41fe-a2c5-b373fd68ab1c
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: roughneck-steek-schrobzaag-150-mm-dubbele-zaag
   type: product
-offerId: 6d3e3daa-9163-412b-9b06-e246594b86c1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1782683
+  priority: 100
+  slug: roughneck-logo
+  type: logo
+offerId: 2884dd23-29b0-4d26-8648-c8ccdb2e7b02
 price:
   cents: 1195
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 12.95
 slug: roughneck-steek-schrobzaag-150-mm-dubbele-zaag
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Roughneck Steek-/Schrobzaag 150 mm | Dubbele Zaag

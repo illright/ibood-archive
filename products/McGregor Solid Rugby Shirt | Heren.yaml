@@ -1,22 +1,22 @@
-_id: 6900bc10626eb3864dcbaba1
+_id: 6908b34566f95b91aae6a5e8
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - e73c8da2-25d8-570e-9eb2-ab5829c5885c
-classicId: '2806526'
-classicProductId: '669632'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812553'
+classicProductId: '669626'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 54
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: fc086a2d-2bd7-4985-858f-9f2cfa6bd868
+id: ec19e8ca-a003-4527-8baf-d608fe1047f7
 image:
   channels:
     - app
@@ -24,11 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 803fa9b5-5ab8-4435-8fdc-3f997ca5e60f
+  id: 100d4150-611c-4d35-8631-3863805710bc
   priority: 0
-  slug: mcgregor-04-png-product-1
+  slug: mcgregor-03-png-product-1
   type: product
-offerId: d9a7a79e-41aa-4944-abe0-e05bc9e2ea87
+offerId: 97c57e66-0dca-4c5a-80bb-4731cd71f399
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +39,5 @@ referencePrice:
   value: 129.95
 slug: mcgregor-solid-rugby-shirt-heren
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: McGregor Solid Rugby Shirt | Heren

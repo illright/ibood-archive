@@ -1,12 +1,12 @@
-_id: 68f9eb9fd6345eb60eae1e9b
+_id: 6908d5a366f95b91aae6ac84
 appOnly: false
 brand: Naif
 brands:
   - id: ef132678-f683-576e-836d-fa373ef13956
     name: Naif
 categories:
-  - 13665ebc-e6ba-5820-a2af-ddfa202a00b9
-classicId: '2801839'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813786'
 classicProductId: '674623'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: f73e6742-42be-520f-b20a-114f0754f882
+id: c9473fb0-5ee0-4f28-bae3-a5b42ad685d9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: naif-02-png-product-1
   type: product
-offerId: af179a31-9581-5533-b915-f4b04030cc2b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e31747a6-0a8a-491d-8109-c20807853c3b
+  priority: 0
+  slug: naif-logo-0
+  type: logo
+offerId: 832a097b-8fd8-42b7-9a92-65162149695a
 price:
   cents: 2695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 63.84
 slug: 16x-naif-plasticvrije-lotion-billendoekjes-54-stuks-864-doekjes
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 16x Naïf Plasticvrije Lotion Billendoekjes | 54 stuks (864 doekjes)

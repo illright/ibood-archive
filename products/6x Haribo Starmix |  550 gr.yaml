@@ -1,12 +1,12 @@
-_id: 690084bedf253a4dc5bc298e
+_id: 6908d48b66f95b91aae6aba5
 appOnly: false
 brand: Haribo
 brands:
   - id: 274432d1-d2e6-593c-8d06-6d003bbd1e14
     name: Haribo
 categories:
-  - 3fb971e0-69d7-5b3b-a340-1c8a8ff27ad9
-classicId: '2805790'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813650'
 classicProductId: '253754'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 21
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 3c3f2ada-5e89-4208-8bf0-187df8ea74fe
+id: 90b7323c-5377-4fbf-9280-18d6bdc61cef
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: haribo-02-png-product-101
   type: product
-offerId: 8ed611d1-be8a-40a5-9f62-7023118b03e0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1936479
+  priority: 100
+  slug: haribo-logo
+  type: logo
+offerId: b43ee1fb-56b7-4d2a-83d1-1c5410a95489
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 22.8
 slug: 6x-haribo-starmix-550-gr
 soldOut: false
-start: '2025-10-27T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 6x Haribo Starmix |  550 gr

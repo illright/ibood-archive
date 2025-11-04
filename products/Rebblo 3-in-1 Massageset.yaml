@@ -1,12 +1,12 @@
-_id: 68ff488cc3d09370197b9d75
+_id: 68ff7de55a5db4a7bddf4e65
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - 90a3a3e2-0fc7-5091-ba7c-6d8243c9ce75
-classicId: '2804095'
+  - 910ceaa8-bfa0-50ea-9648-49d2253efca4
+classicId: '2805110'
 classicProductId: '502002'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2025-11-03T22:59:59.000Z'
+end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
-id: 59cf05f1-f0ed-4743-9b93-95f5b3744eaf
+id: f0f5913f-04dd-55fd-be08-d773c24e2db1
 image:
   channels:
     - website
@@ -27,17 +27,7 @@ image:
   priority: 1
   slug: rebblo-3-in-1-massageset
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1696206
-  priority: 100
-  slug: rebblo-logo
-  type: logo
-offerId: df40d4be-5f76-4d29-8af6-e5192b9e4603
+offerId: a17b4157-f99d-5586-9fba-01d809026658
 price:
   cents: 1295
   currency: EUR
@@ -47,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 35.95
 slug: rebblo-3-in-1-massageset
-soldOut: true
-start: '2025-10-27T23:00:00.000Z'
+soldOut: false
+start: '2025-11-02T23:00:00.000Z'
 title: Rebblo 3-in-1 Massageset

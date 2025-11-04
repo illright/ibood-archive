@@ -1,22 +1,22 @@
-_id: 68fa0bb4310d83b216d7db7d
+_id: 6908b34066f95b91aae6a5dd
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2802001'
-classicProductId: '665472'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812549'
+classicProductId: '665484'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 40
-end: '2025-11-03T22:59:59.999Z'
+discount: 50
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: bb1e23ef-4a7b-4119-a0a8-54e1bddac54f
+id: 894ca83b-58c3-48ef-aabb-41a51796da62
 image:
   channels:
     - app
@@ -24,30 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: c59d893f-e90c-4b11-9119-a8ce3d50d9a2
+  id: ced18dc5-f114-40d3-8191-92b80327fee9
   priority: 0
-  slug: petrol-58-png-product-1
+  slug: petrol-60-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 97d485a8-f800-44dd-b604-1ac527b60046
+  priority: 0
+  slug: petrol-png-logo-0
   type: logo
-offerId: 1349dc12-bd80-458e-b2ef-bc762a0fe8ce
+offerId: f0690469-b51e-4a7a-9fc6-44bbe63a60ca
 price:
-  cents: 5995
+  cents: 2995
   currency: EUR
-  value: 59.95
+  value: 29.95
 referencePrice:
-  cents: 9999
+  cents: 5999
   currency: EUR
-  value: 99.99
+  value: 59.99
 slug: petrol-geruit-overhemd-met-lange-mouwen-heren
 soldOut: false
-start: '2025-10-24T22:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Petrol geruit overhemd met lange mouwen | Heren

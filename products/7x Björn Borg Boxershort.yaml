@@ -1,22 +1,22 @@
-_id: 69037306b1cdd82e8750d286
+_id: 6908b7ea19fc4344edc9311f
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - ea33f7de-7a95-5485-b8b3-fdb76d9c74bf
-classicId: '2808968'
-classicProductId: '660822'
+  - 5224d1bc-b182-5d83-ac44-6c580aa5f537
+classicId: '2812709'
+classicProductId: '660819'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 44
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 96f4947d-859c-47b5-b229-605d6c19cc69
+id: 5edb6f23-3172-430b-b5fd-dbe0a8981c02
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: bb-main-20-09-png-product-1
   type: product
-offerId: 2e4a99e0-2a20-4c13-8ede-8c7ec6e1e018
+offerId: 9530fcba-5491-463f-b9c1-9b4b56b60509
 price:
   cents: 4995
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 89.95
 slug: bjorn-borg-katoen-stretch-boxer-7p
-soldOut: true
-start: '2025-10-26T23:00:00.000Z'
+soldOut: false
+start: '2025-11-03T23:00:00.000Z'
 title: 7x Björn Borg Boxershort

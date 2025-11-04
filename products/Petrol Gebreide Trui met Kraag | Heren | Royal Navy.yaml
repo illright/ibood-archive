@@ -1,12 +1,12 @@
-_id: 68f647842dbe72a43c3ee987
+_id: 6908b1a5d1cdac81ca33ec06
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3164ba3e-26ac-5c28-800c-de5d3543e7cf
-classicId: '2797299'
+  - 69294ede-486b-55f5-b2b8-94939103d911
+classicId: '2812287'
 classicProductId: '673676'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 43
-end: '2025-11-03T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 78659b6e-9b38-5f19-9f22-3d09b9c422ae
+id: d683853b-d8b0-443e-a8fa-1ee537bbcf78
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: pt02-png-product-1
   type: product
-offerId: b614496a-87b5-5296-904a-eb0920a39c0e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
+  type: logo
+offerId: 2af7e14c-4fc9-4418-b672-e494ff4fef5d
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: petrol-gebreide-trui-met-kraag-heren-royal-navy
 soldOut: false
-start: '2025-10-24T22:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: Petrol Gebreide Trui met Kraag | Heren | Royal Navy
