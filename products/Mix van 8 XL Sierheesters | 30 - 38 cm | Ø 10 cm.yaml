@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 73
+discount: 82
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: b46708d4-8bf2-52de-93ba-c1d4aec5ec0a
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 8x-oh2-xl-sierheesters
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b6c169b0-0f07-4444-b7ee-678f1b40016a
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 8ae64835-2dde-53f0-9d22-254b52cb51c6
 price:
-  cents: 3295
+  cents: 2195
   currency: EUR
-  value: 32.95
+  value: 21.95
 referencePrice:
   cents: 11990
   currency: EUR

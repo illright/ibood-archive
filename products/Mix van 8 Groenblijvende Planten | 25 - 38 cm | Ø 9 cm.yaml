@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 67
+discount: 73
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: b4d736d4-834c-5c96-8efc-e1f4bfc64354
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 63-2-8717032010052-gardenzo-evergreen-mix-in-9cm-pot-x-8-2x-ilex-meserveae-blue-maid-2x-ilex-aquif-product-22
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d310f63a-dfee-4a3d-bf46-9520d86fa166
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: d6c8de2c-6edb-582d-ad4f-2f116f8ec655
 price:
-  cents: 3995
+  cents: 3195
   currency: EUR
-  value: 39.95
+  value: 31.95
 referencePrice:
   cents: 11995
   currency: EUR

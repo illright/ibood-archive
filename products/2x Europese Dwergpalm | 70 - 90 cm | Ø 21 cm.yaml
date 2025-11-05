@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 57
+discount: 63
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: eecbb9c2-9c11-59f4-a5a5-6e1617e4c98d
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 150-4-8717032010823-gardenzo-chamaerops-humilis-large-in-21cm-pot-x-2-2x-chamaerops-humilis-large-product-2
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b057f0c6-708a-429f-9217-0d97f7c58e81
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: e0ab71d8-946a-5db1-9676-0dd1df14d2e6
 price:
-  cents: 6495
+  cents: 5495
   currency: EUR
-  value: 64.95
+  value: 54.95
 referencePrice:
   cents: 14990
   currency: EUR

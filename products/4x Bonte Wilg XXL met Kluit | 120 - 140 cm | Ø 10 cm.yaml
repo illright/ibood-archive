@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 60
+discount: 63
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 27679b56-84fa-54fe-a9c1-7d71baaea41d
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 19-2-8717032005010-gardenzo-salix-integra-hakuro-nishiki-xxl-met-kluit-x-4-4-x-bonte-wilg-met-klui-product-8
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 19b3c5d5-7c9d-4260-bf4f-346b4afb872e
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: d10251f3-b2bf-529e-9289-8314dfdde623
 price:
-  cents: 5995
+  cents: 5495
   currency: EUR
-  value: 59.95
+  value: 54.95
 referencePrice:
   cents: 14990
   currency: EUR

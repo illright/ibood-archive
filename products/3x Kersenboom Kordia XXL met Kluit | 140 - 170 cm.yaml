@@ -13,25 +13,37 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 61
+discount: 70
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 8b7f937c-92b2-562a-8e1f-a416610e4f3b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1474808
+    - all
+  extension: image/jpeg
+  id: 21a4b305-a2fd-4b14-a7ca-739c9e66adeb
   priority: 0
-  slug: 3x-kersenboom-kordia-140-170-cm
+  slug: 17-5-cherry-kordia-sweet-ambiance-jpg-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 938b8bd1-ebb8-4deb-bf80-274459d51f40
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: bda7e8c6-a7ee-5259-af37-fa9a0196a502
 price:
-  cents: 4495
+  cents: 3495
   currency: EUR
-  value: 44.95
+  value: 34.95
 referencePrice:
   cents: 11495
   currency: EUR

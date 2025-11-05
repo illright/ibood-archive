@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 50
+discount: 63
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 5386bc7e-a9db-5743-8ce4-7f9be8423c85
@@ -29,19 +29,20 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1514124
-  priority: 100
-  slug: oh2-olijfboom-op-stam-xxl
+    - all
+  extension: image/png
+  id: a4d7a56d-5018-4c11-854f-4e93055f18af
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
   type: logo
 offerId: 2a096c6f-2aea-59f5-9b76-bf077d53c00f
 price:
-  cents: 3995
+  cents: 2995
   currency: EUR
-  value: 39.95
+  value: 29.95
 referencePrice:
   cents: 7990
   currency: EUR

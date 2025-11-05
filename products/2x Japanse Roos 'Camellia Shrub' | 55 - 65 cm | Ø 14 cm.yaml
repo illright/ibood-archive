@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 69
+discount: 77
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: cb3a48d3-8c40-5e5d-8c8e-4f907acb5551
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 2x-japanische-rose-camellia-shrub-55-65-cm
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 88fb5056-240d-4cf4-b213-5569be9377e0
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 6d9850c9-8610-55ca-b126-e25840d47456
 price:
-  cents: 3695
+  cents: 2795
   currency: EUR
-  value: 36.95
+  value: 27.95
 referencePrice:
   cents: 11990
   currency: EUR

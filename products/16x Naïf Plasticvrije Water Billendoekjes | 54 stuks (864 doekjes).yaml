@@ -19,14 +19,14 @@ freeDelivery: false
 id: 5a979715-6bbd-4d78-8659-3cda540cf976
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 821f69d7-4baa-4acb-a322-44e4bb3c4ebe
-  priority: 0
-  slug: naif-03-png-product-1
+  id: f6a27a2b-b95c-45a9-b286-1231bdeb4d00
+  priority: 1
+  slug: naif-01-png-product-1
   type: product
 logo:
   channels:

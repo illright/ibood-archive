@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 71
+discount: 77
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 1d803bb9-3d5e-5ef5-b628-b79c1be89021
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 8-20-8717032011127-gardenzo-hydrangea-macrophylla-mix-in-9cm-pot-x-8-1x-hydrangea-macrophylla-blau-product-17
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e5c646d1-953e-46e9-9970-4dc110545934
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: f94035fd-4f03-5088-b609-d28f59af16e3
 price:
-  cents: 3495
+  cents: 2795
   currency: EUR
-  value: 34.95
+  value: 27.95
 referencePrice:
   cents: 11990
   currency: EUR

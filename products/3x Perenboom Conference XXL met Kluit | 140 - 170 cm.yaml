@@ -13,25 +13,37 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 61
+discount: 70
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 7715af6f-1817-537c-af3a-983019e91106
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1474807
+    - all
+  extension: image/jpeg
+  id: 5dc47267-0a38-476d-affe-bdff98bbe412
   priority: 0
-  slug: 3x-perenboom-conference-140-170-cm
+  slug: 17-4-peer-conference-ambiance-jpg-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f292d51f-e801-4c49-9674-e5e8362640ec
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 68f569e6-9be5-534a-bcfb-bbe161f0c0a1
 price:
-  cents: 4495
+  cents: 3495
   currency: EUR
-  value: 44.95
+  value: 34.95
 referencePrice:
   cents: 11495
   currency: EUR

@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 68
+discount: 77
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: f324a676-2204-5243-84c7-6b0a9fd87ead
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 70-6-8717032010137-gardenzo-azalea-mix-in-9cm-pot-x-8-2x-azalea-paars-2x-azalea-rood-2x-azalea-roz-product-21
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c6bee983-98ec-4e4f-b13c-b72de0a45b34
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: bfb595ff-df86-5f30-9650-406a1b09c7ab
 price:
-  cents: 3795
+  cents: 2795
   currency: EUR
-  value: 37.95
+  value: 27.95
 referencePrice:
   cents: 11990
   currency: EUR

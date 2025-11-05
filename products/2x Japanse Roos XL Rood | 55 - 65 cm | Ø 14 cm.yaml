@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 69
+discount: 77
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 0767498e-fe3f-5cd6-9082-aee77972ded8
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 2x-japanische-kamelie-rot-5565-cm
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8e7f3405-8d0a-47dc-b9bc-abf9b4c56ee8
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 3de8b340-b127-5332-80b7-4bbdad310af8
 price:
-  cents: 3695
+  cents: 2795
   currency: EUR
-  value: 36.95
+  value: 27.95
 referencePrice:
   cents: 11990
   currency: EUR

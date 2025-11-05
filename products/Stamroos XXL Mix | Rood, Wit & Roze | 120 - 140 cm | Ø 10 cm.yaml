@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 58
+discount: 65
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: d272b38f-87dd-533e-9c39-636ea8bd3d8e
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 3x-xxl-stammrose-mix-set-120140-cm
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b042bd16-d076-4b92-ad72-7d57a87fdad6
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 6b9f2754-13a1-5c32-9d07-01a8861e09e6
 price:
-  cents: 5495
+  cents: 4495
   currency: EUR
-  value: 54.95
+  value: 44.95
 referencePrice:
   cents: 12995
   currency: EUR

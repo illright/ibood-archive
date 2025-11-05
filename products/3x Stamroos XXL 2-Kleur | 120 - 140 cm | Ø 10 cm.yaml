@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 58
+discount: 65
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 981f38ac-90a7-5d56-9785-ec439f236b2e
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 3x-stammrose-2-farbig-110140-cm
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5b6efaf8-69fe-43e2-a0f5-f771eb63ee00
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 495edcc4-30f9-5b4b-9d45-71434739a5c5
 price:
-  cents: 5495
+  cents: 4495
   currency: EUR
-  value: 54.95
+  value: 44.95
 referencePrice:
   cents: 12995
   currency: EUR

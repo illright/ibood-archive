@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 46
+discount: 57
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 1d8b503c-4bea-5edb-902d-84089ba1ce3a
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: mix-van-5-luchtzuiverende-kamerplanten
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8fc3c5fc-c9fe-446e-95a6-b54222fb2564
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: fc8cc3d5-88f6-560d-9b64-9f318f8f7040
 price:
-  cents: 3795
+  cents: 2995
   currency: EUR
-  value: 37.95
+  value: 29.95
 referencePrice:
   cents: 6995
   currency: EUR

@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 58
+discount: 65
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 835da1e0-9798-513c-bedf-7b0aa2bc1d4f
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 3x-rozen-xxl-120-140-cm-jpg-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 75996ed5-9546-494d-97bb-378664f45d11
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 6426ef89-3f9d-5f77-96a5-1cddf7310875
 price:
-  cents: 5495
+  cents: 4495
   currency: EUR
-  value: 54.95
+  value: 44.95
 referencePrice:
   cents: 12995
   currency: EUR

@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 67
+discount: 75
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 3df7434f-e018-56db-a7ac-9514581bc8d3
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 8x-kletterhortensie-3038-cm
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c88f11ce-4d88-4424-8bbb-95feb98ae466
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 423a7f18-e7ed-5ddb-86a0-5925e6f733ef
 price:
-  cents: 3995
+  cents: 2995
   currency: EUR
-  value: 39.95
+  value: 29.95
 referencePrice:
   cents: 11990
   currency: EUR

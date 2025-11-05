@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 68
+discount: 75
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 37f45330-c69b-5c5e-9614-678ec81ba57b
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 13-7-8717032008318-gardenzo-buddleja-davidii-mix-in-9cm-pot-x8-2x-buddleja-davidii-2x-buddleja-roy-product-17
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2ea9911f-3a03-46c2-bc10-59c76dc4bdae
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 5908a335-2e17-5dab-8a3a-63a7da2b0f44
 price:
-  cents: 3795
+  cents: 2995
   currency: EUR
-  value: 37.95
+  value: 29.95
 referencePrice:
   cents: 11990
   currency: EUR

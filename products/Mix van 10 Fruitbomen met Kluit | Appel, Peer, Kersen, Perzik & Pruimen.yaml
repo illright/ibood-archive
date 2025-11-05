@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 60
+discount: 67
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: c1bd6a9d-a8e9-598b-a566-f8c7ed61ea93
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 10x-obstbaume-mischung
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 98c712e6-86db-4035-8784-6ca9ada0bfeb
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 9af67a4c-4407-5ebf-b599-8b4ef7ab868e
 price:
-  cents: 5995
+  cents: 4995
   currency: EUR
-  value: 59.95
+  value: 49.95
 referencePrice:
   cents: 14995
   currency: EUR

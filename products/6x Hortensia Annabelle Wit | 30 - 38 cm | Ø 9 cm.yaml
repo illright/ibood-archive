@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 73
+discount: 82
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 30658630-f927-5b03-8782-54fa76bf105b
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 8-12-8717032008080-gardenzo-hydrangea-arb-annabelle-in-9cm-pot-x-6-6x-annabelle-9-cm-pot-in-tube-product-4
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 32d3851c-3c82-49b1-a320-1f47ca71b912
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 7649276c-393d-5646-ac25-daec47f29f00
 price:
-  cents: 3295
+  cents: 2195
   currency: EUR
-  value: 32.95
+  value: 21.95
 referencePrice:
   cents: 11990
   currency: EUR

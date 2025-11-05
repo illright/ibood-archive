@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 61
+discount: 70
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 90241a06-3728-5c91-8023-fedc67f02a45
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: oh2-3x-fruitbomen-xxl-2-3jr-oud-appel-peer-zoete-kers-140-170-cm-hoogte-kluitmaat-diameter-product-8
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: eb2357a8-51c1-4f8f-b509-b9fc16154ca3
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 5011ba11-3205-5f7c-961c-1474a2fcd499
 price:
-  cents: 4495
+  cents: 3495
   currency: EUR
-  value: 44.95
+  value: 34.95
 referencePrice:
   cents: 11495
   currency: EUR

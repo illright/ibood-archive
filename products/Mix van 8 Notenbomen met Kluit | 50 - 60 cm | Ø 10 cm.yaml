@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 73
+discount: 79
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 20bc8185-a4a9-5045-b7a6-dc2b887794b1
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 16-2-8717032004907-gardenzo-notenplanten-mix-met-kluit-x-8-2x-corylus-avellana-2x-castanea-sativa-product-18
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f6f5be85-5d9a-46ce-b4fe-21511f0d5533
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 687aaa06-57a6-5c58-92c4-82a7d230805f
 price:
-  cents: 3795
+  cents: 2995
   currency: EUR
-  value: 37.95
+  value: 29.95
 referencePrice:
   cents: 13990
   currency: EUR

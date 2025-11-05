@@ -13,25 +13,37 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 61
+discount: 70
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 9fbf5d2a-ca50-5cb5-98dd-789feb85722b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1474811
+    - all
+  extension: image/jpeg
+  id: 16a09bab-6916-4365-a617-a88e13b85569
   priority: 0
-  slug: 3x-kersenboom-morello-140-170-cm
+  slug: 17-6-cherry-rheinische-schattenmorelle-sour-ambiance-jpg-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 184abbc0-c084-4e9e-96e0-611e9afe1150
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 9de04879-3cae-5e96-bcc4-203ab69d16cd
 price:
-  cents: 4495
+  cents: 3495
   currency: EUR
-  value: 44.95
+  value: 34.95
 referencePrice:
   cents: 11495
   currency: EUR

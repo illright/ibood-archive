@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 55
+discount: 60
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 7baf4216-1773-50b3-a0c9-da573fd43383
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 2x-japanische-bunte-weide-120140-cm
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0ed3591b-2d40-448f-8cc4-24dbed158226
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: ffcc0fc9-df63-5694-88a0-30c6f20e17f6
 price:
-  cents: 4495
+  cents: 3995
   currency: EUR
-  value: 44.95
+  value: 39.95
 referencePrice:
   cents: 9990
   currency: EUR

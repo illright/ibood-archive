@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 71
+discount: 79
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: e9166082-bc36-515d-a49d-135b2679fa6d
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 25-2-8717032006642-gardenzo-kiwi-jenny-in-9cm-pot-x-6-6x-actinidia-deliciosa-jenny-9-cm-pot-in-tub-product-2
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3100413d-ee54-47bd-ad04-c9c2554aacd9
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 81f7fa2b-9a15-5f0a-bc65-a3a2324a4e1b
 price:
-  cents: 3495
+  cents: 2495
   currency: EUR
-  value: 34.95
+  value: 24.95
 referencePrice:
   cents: 11990
   currency: EUR

@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 64
+discount: 67
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 69b14127-07e3-5775-9bc5-6adc5d418bde
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 21-2-8717032005034-gardenzo-prunus-triloba-xxl-met-kluit-x-4-4-x-amandelboom-met-kluit-product-5
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77405465-f1ef-4f17-9ef3-ea6847510a03
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 7ac83f7b-fc91-5018-bb77-04299a9954c1
 price:
-  cents: 6495
+  cents: 5995
   currency: EUR
-  value: 64.95
+  value: 59.95
 referencePrice:
   cents: 17990
   currency: EUR

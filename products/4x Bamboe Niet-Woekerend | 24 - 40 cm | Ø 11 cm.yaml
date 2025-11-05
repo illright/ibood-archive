@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 58
+discount: 67
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 63094d41-4a7e-579a-9e2f-c22d9aa76f4b
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 41-4-8717032009933-gardenzo-bamboe-medium-niet-woekerend-in-11cm-pot-x-4-4x-bamboe-medium-niet-woe-product-3
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 873e0711-6ecb-446b-b63b-0eba0202ce1d
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 9abe603c-9857-5f6d-ac85-00e9dbd10b02
 price:
-  cents: 4995
+  cents: 3995
   currency: EUR
-  value: 49.95
+  value: 39.95
 referencePrice:
   cents: 11990
   currency: EUR

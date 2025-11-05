@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 58
+discount: 65
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 9649c95a-e256-53f7-8125-c4b76858a414
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 3x-groblumige-stammrose-xxl-blanc-120140-cm
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6f174b84-f046-47e5-a83a-e6b7bfc95203
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 8d3ad306-5a72-563e-a4ea-a879f6011edb
 price:
-  cents: 5495
+  cents: 4495
   currency: EUR
-  value: 54.95
+  value: 44.95
 referencePrice:
   cents: 12995
   currency: EUR

@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 58
+discount: 65
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 6f67395a-4689-5732-9fb3-f335944bce87
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: set-van-3-xxl-rozen
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 379334e4-cfa2-4fa0-8940-8df4e3619876
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 3636883b-7ab7-547d-a8d0-aff6a958c68e
 price:
-  cents: 5495
+  cents: 4495
   currency: EUR
-  value: 54.95
+  value: 44.95
 referencePrice:
   cents: 12995
   currency: EUR

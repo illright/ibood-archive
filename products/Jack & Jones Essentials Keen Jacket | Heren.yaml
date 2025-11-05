@@ -1,52 +1,43 @@
-_id: 690353b7b1cdd82e8750d1b3
+_id: 6909a6fb62e43c1d1b385136
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 5c3b9bca-bf87-5f95-a6a2-09f554dbc5db
-classicId: '2808841'
-classicProductId: '615581'
+  - 873690fd-205c-5470-abf1-5ba24e13c236
+classicId: '2814004'
+classicProductId: '615577'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 56
+discount: 67
 end: '2025-11-05T22:59:59.999Z'
 freeDelivery: false
-id: 5a0fa9f4-ae52-43fb-9800-31c393ee3b13
+id: 90ac2c27-9a61-5d41-824c-60803d30c59e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2261145
+    - all
+  extension: image/png
+  id: c4572151-4b9e-406e-86d1-4f423a3b3162
   priority: 0
-  slug: jack-jones-essentials-keen-jacke-herren
+  slug: jack-jones-205-png-product-2
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
-  type: logo
-offerId: 5671787f-e688-4ccf-a4e5-5b4437a3c4ca
+offerId: bdbc8fcf-6bdb-5de5-970f-20b74ff10a57
 price:
-  cents: 3995
+  cents: 2995
   currency: EUR
-  value: 39.95
+  value: 29.95
 referencePrice:
   cents: 8999
   currency: EUR
   value: 89.99
 slug: jack-jones-essentials-keen-jacket-heren
 soldOut: false
-start: '2025-10-30T23:00:00.000Z'
+start: '2025-11-04T23:00:00.000Z'
 title: Jack & Jones Essentials Keen Jacket | Heren

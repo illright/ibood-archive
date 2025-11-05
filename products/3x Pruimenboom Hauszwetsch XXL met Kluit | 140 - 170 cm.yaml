@@ -13,25 +13,37 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 61
+discount: 70
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: b92c2ba1-59fa-567d-ac13-26d28a8a5121
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1474820
+    - all
+  extension: image/jpeg
+  id: 67ed2612-48df-49b2-86ff-01fa1e59670b
   priority: 0
-  slug: 3x-pruimenboom-hauszwetsche-140-170-cm
+  slug: 17-7-plum-hauszwetsche-ambiance-jpg-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 1ae45cf5-100c-4945-a0fa-76f34779048a
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: f8e07883-dd8b-5f9d-b1cf-ffd7bf1fbf18
 price:
-  cents: 4495
+  cents: 3495
   currency: EUR
-  value: 44.95
+  value: 34.95
 referencePrice:
   cents: 11495
   currency: EUR

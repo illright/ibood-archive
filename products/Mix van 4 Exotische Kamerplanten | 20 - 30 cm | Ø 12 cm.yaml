@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 46
+discount: 60
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: 84efbe1e-a64a-5c95-8591-648d8cd8d945
@@ -27,11 +27,22 @@ image:
   priority: 0
   slug: 4-oh2-exotische-kamerplanten
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9dec2bdf-2161-4414-a359-58035f16a897
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: ba58a9f5-e3c9-55c9-8512-05fc87c466e7
 price:
-  cents: 3795
+  cents: 2795
   currency: EUR
-  value: 37.95
+  value: 27.95
 referencePrice:
   cents: 6995
   currency: EUR

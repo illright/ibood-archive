@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 70
+discount: 80
 end: '2025-11-06T22:59:59.999Z'
 freeDelivery: false
 id: fe41cd08-64ad-5bca-8b67-ae6600aebdbf
@@ -28,11 +28,22 @@ image:
   priority: 0
   slug: 9-5-8717032006192-gardenzo-pampasgras-in-9cm-pot-x-6-wit-6x-pampasgras-wit-9-cm-pot-in-tube-product-4
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d6f68fbf-7318-49d4-b074-305ec31555f6
+  priority: 0
+  slug: gardenzo-logo-0-png-logo-0
+  type: logo
 offerId: 8e1c9019-cdcc-5ae9-b608-6ea223c70bce
 price:
-  cents: 2995
+  cents: 1995
   currency: EUR
-  value: 29.95
+  value: 19.95
 referencePrice:
   cents: 9990
   currency: EUR

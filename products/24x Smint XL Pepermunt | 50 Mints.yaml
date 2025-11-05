@@ -19,13 +19,14 @@ freeDelivery: false
 id: 41dae688-fa4e-4541-ae83-ae677d13f88a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1900190
+    - all
+  extension: image/png
+  id: 4efba7cf-79b9-41fa-87ae-ed31f7874acf
   priority: 0
-  slug: 12x-smint-xl-pfefferminzbonbons
+  slug: 24x-smint-xl-pepermunt-product-9
   type: product
 logo:
   channels:
