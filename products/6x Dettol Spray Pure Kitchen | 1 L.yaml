@@ -19,13 +19,14 @@ freeDelivery: false
 id: 8bd2bc4d-1367-4b21-90bb-d03639b33c8b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1814348
+    - all
+  extension: image/png
+  id: b9aa99ed-8319-4a7b-85a7-385f8224895b
   priority: 0
-  slug: 6x-dettol-reinigungsspray
+  slug: dettol-03-png-product-1
   type: product
 logo:
   channels:
@@ -33,9 +34,9 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1800785
+  id: 1754153
   priority: 100
-  slug: 6x-dettol-reinigungsspray
+  slug: dettol-logo
   type: logo
 offerId: e44d3f3e-558f-424a-bec3-4e389684a5cd
 price:

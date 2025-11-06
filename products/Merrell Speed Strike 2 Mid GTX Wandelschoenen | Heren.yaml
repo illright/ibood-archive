@@ -1,22 +1,22 @@
-_id: 6908b0da66f95b91aae6a427
+_id: 690b1e041244d9d499564161
 appOnly: false
 brand: Merrell
 brands:
   - id: d199d883-246f-5414-be80-7a8501ca9f77
     name: Merrell
 categories:
-  - 0141a4bd-1aa5-58d9-992d-42cf3ee4f54b
-classicId: '2812134'
-classicProductId: '659687'
+  - eb0cc7c2-b2f3-5cf0-86e5-e8befe730227
+classicId: '2815554'
+classicProductId: '659681'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 39
-end: '2025-11-10T22:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 15b9a03e-96f6-4c91-9c4a-8fa825991741
+id: 8f73de8d-7ea4-457a-a581-85d7b7839a13
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4ef06df4-bd3c-4f42-9f35-fde0a19bcdbf
-  priority: 0
-  slug: buty-merrell-png-logo-0
+  extension: png
+  id: 1718923
+  priority: 100
+  slug: merrell-logo
   type: logo
-offerId: 14677748-1e73-4ddc-aabd-a7d9bdce6436
+offerId: 0bf7f937-2771-4bb9-ba46-f7b301c990dc
 price:
-  cents: 8495
+  cents: 7000
   currency: EUR
-  value: 84.95
+  value: 70
 referencePrice:
   cents: 14000
   currency: EUR
   value: 140
 slug: merrell-speed-strike-2-mid-gtx-wandelschoenen-heren
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-04T23:00:00.000Z'
 title: Merrell Speed Strike 2 Mid GTX Wandelschoenen | Heren

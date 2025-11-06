@@ -1,4 +1,4 @@
-_id: 6909b5ee7ef29d38ed2521ef
+_id: 6909b5e57ef29d38ed2521d3
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Jack & Jones
 categories:
   - 5a3262ed-c9a3-5a08-be84-926f962077ba
-classicId: '2814022'
-classicProductId: '653142'
+classicId: '2814016'
+classicProductId: '653157'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 54
+discount: 50
 end: '2025-11-09T22:59:59.999Z'
 freeDelivery: false
-id: 0090d30e-1dbe-441a-aeb5-b96a5855ea48
+id: 0237aee0-70bd-47a1-90c1-4dc157012238
 image:
   channels:
     - app
@@ -24,19 +24,29 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: ec89fe5d-574c-49af-bf3f-3c4575fde5a0
+  id: 3eb1b842-9a4b-4bf9-8779-452e8c1bd503
   priority: 0
-  slug: l-black-12283584-jwhbrady-long-puffer-jack-jones-product-0
+  slug: s-castlerock-12282422-jwhbrady-puffer-collar-jack-jones-product-0
   type: product
-offerId: 335d8a98-d759-4906-a899-c356c64ce02d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 19a6990a-3dc9-4632-b7cc-b61a23ceb2d0
 price:
-  cents: 5995
+  cents: 3995
   currency: EUR
-  value: 59.95
+  value: 39.95
 referencePrice:
-  cents: 12999
+  cents: 7999
   currency: EUR
-  value: 129.99
+  value: 79.99
 slug: jack-jones-brady-jas-heren
 soldOut: false
 start: '2025-11-04T23:00:00.000Z'
