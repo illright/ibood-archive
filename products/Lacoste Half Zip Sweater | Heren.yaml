@@ -1,4 +1,4 @@
-_id: 68fb7e310f3ea4d4b5fc7ff1
+_id: 68fb7e4d0f3ea4d4b5fc7ffa
 appOnly: false
 brand: Lacoste
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Lacoste
 categories:
   - 4f3be21e-68a4-5433-9758-e69ab75673d6
-classicId: '2803388'
-classicProductId: '497061'
+classicId: '2803400'
+classicProductId: '587499'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,28 @@ directCheckout: false
 discount: 33
 end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 7d76d88a-c581-5095-998a-7c1cc25292f6
+id: d9e872af-d18a-54d1-b0f3-2f812d55de34
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2049571
+  id: 2049487
   priority: 0
   slug: lacoste-half-zip-sweater-heren
   type: product
-offerId: 0a0f950c-31c4-5a2d-bcd7-b946ef2765a4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1679130
+  priority: 100
+  slug: lacoste-half-zip-sweater-heren
+  type: logo
+offerId: 541dcd87-be13-5533-bb27-fb50229c1316
 price:
   cents: 9995
   currency: EUR

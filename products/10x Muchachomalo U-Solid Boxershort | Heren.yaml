@@ -1,4 +1,4 @@
-_id: 6908b7f1f16ef0492ed0d091
+_id: 690c6016d8e31e1c8e2101de
 appOnly: false
 brand: Muchachomalo
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Muchachomalo
 categories:
   - 5224d1bc-b182-5d83-ac44-6c580aa5f537
-classicId: '2812716'
-classicProductId: '659927'
+classicId: '2817015'
+classicProductId: '659934'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 54
 end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 79c59885-afc2-401b-9f14-75a34eb116dd
+id: 322bc1a1-6e41-4528-8aa0-f28abe2fb258
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 404abb8f-ad8e-4a38-811b-86b13aec5759
+  id: 0792bfbb-65a2-4f99-947d-0127c5094d00
   priority: 0
-  slug: main1-png-product-1
+  slug: main-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2006210
-  priority: 100
-  slug: muchachomalo-logo
+    - all
+  extension: image/png
+  id: e6e80f9c-06f1-4437-be91-2d295f085cfc
+  priority: 0
+  slug: 10x-muchachomalo-u-solid-boxershorts-png-logo-0
   type: logo
-offerId: bd0506be-ea02-46b6-897d-b6011d3be181
+offerId: ada10444-5486-474f-b8ea-3ba42ec40a4f
 price:
   cents: 5995
   currency: EUR

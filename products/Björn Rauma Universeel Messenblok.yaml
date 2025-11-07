@@ -17,6 +17,17 @@ discount: 60
 end: '2025-11-11T22:59:59.999Z'
 freeDelivery: false
 id: 814a86d8-7360-52d3-befe-74ef753ef0e7
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 71f0ebb4-3df2-4ecc-a2fd-6c7fc307c935
+  priority: 0
+  slug: main-png-product-1
+  type: product
 offerId: d0f7c58c-1e84-5db4-a82b-1262c7a3eacc
 price:
   cents: 3995
