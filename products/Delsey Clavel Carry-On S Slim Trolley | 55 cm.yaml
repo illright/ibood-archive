@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 2bbd0924-e9ee-4652-8487-c850b59ad081
+    - website
+    - app
+  extension: image/png
+  id: 2bbd0924-e9ee-4652-8487-c850b59ad081-tr
   priority: 0
   slug: blue-76cm-suitcase-l-expandable-00384582112mr-clavel-delsey-product-2
   type: product
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 199
 slug: delsey-clavel-trolley-55cm
-soldOut: false
+soldOut: true
 start: '2025-10-29T23:00:00.000Z'
 title: Delsey Clavel Carry-On S Slim Trolley | 55 cm

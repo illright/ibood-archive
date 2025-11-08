@@ -19,13 +19,16 @@ freeDelivery: false
 id: c5e4aae7-83c1-44a6-8bed-36ba9bf9c29f
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1412532
-  priority: 100
-  slug: tefal-virtuoso-bratpfanne-24-cm
+  extension: image/png
+  id: 61f9c6f6-87d5-4703-ab7c-f2fd80a5cc5a-tr
+  priority: 0
+  slug: tefal-virtuoso-bratpfanne-24-cm-1-jpg-product-101
   type: product
 logo:
   channels:
@@ -48,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 46.99
 slug: tefal-virtuoso-koekenpan-24-cm
-soldOut: false
+soldOut: true
 start: '2025-11-04T23:00:00.000Z'
 title: Tefal Virtuoso Koekenpan | Ø 24 cm

@@ -1,4 +1,4 @@
-_id: 690869793ca4eaab0993e66e
+_id: 6908697b3ca4eaab0993e671
 appOnly: false
 brand: Paco Rabanne
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Paco Rabanne
 categories:
   - 7c8de803-de88-566c-a76f-5114104c0f46
-classicId: '2810449'
-classicProductId: '278068'
+classicId: '2810452'
+classicProductId: '278012'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 53
 end: '2025-11-09T22:59:59.999Z'
 freeDelivery: false
-id: 476a6faf-a8e7-4cf0-a7ab-db8213458832
+id: bf5d3c99-a32a-4519-8c03-82d09832c196
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: paco-rabanne-black-xs
   type: product
-offerId: 88ae94e8-06e9-485f-aa65-d2d6643a7d59
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2000583
+  priority: 100
+  slug: paco-rabanne-logo
+  type: logo
+offerId: 15542578-9f40-4871-b4d2-823edb612f57
 price:
   cents: 4695
   currency: EUR

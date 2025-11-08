@@ -1,22 +1,22 @@
-_id: 69037fe73d49cc205b438a74
+_id: 690dbfcde4d89d128ae718c6
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 0856213e-dafd-5505-b58b-3a107af65618
-classicId: '2809168'
-classicProductId: '619471'
+  - 3297ecd3-9cfa-51b0-992b-59547e0af71e
+classicId: '2818520'
+classicProductId: '619474'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2025-11-09T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 529fb75b-2477-5b82-9367-1cb36b9bfab1
+id: 50f43e5d-ace7-4bf7-8a97-46a9950e19fc
 image:
   channels:
     - website
@@ -25,9 +25,19 @@ image:
   extension: png
   id: 2163031
   priority: 0
-  slug: gorilla-wear-leon-jogginghose-herren
+  slug: gorilla-wear-leon-joggingbroek
   type: product
-offerId: dfe307c8-e94a-508e-8f91-16c23f94ae54
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1956488
+  priority: 100
+  slug: gorilla-wear-logo
+  type: logo
+offerId: b60d6f5f-9234-4e5b-847e-0dbe375a7536
 price:
   cents: 2995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 59.99
 slug: gorilla-wear-leon-joggingbroek
 soldOut: false
-start: '2025-11-04T23:00:00.000Z'
+start: '2025-11-06T23:00:00.000Z'
 title: Gorilla Wear Leon Joggingbroek

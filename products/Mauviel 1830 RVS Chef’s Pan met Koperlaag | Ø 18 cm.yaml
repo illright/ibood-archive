@@ -19,13 +19,16 @@ freeDelivery: false
 id: 650545db-33a4-44fc-b7b3-0b1b61d36f9a
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1544705
+  extension: image/png
+  id: 04ef5351-8e91-4742-8514-0cbca74162a9-tr
   priority: 0
-  slug: mauviel-copperply-chefs-pan-18-cm
+  slug: mauviel-copperply-chefs-pan-18-cm-jpg-product-1
   type: product
 logo:
   channels:

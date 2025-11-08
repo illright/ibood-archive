@@ -19,13 +19,16 @@ freeDelivery: false
 id: eedb6356-5862-4503-bbf3-de5f9a2764b6
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 196973
-  priority: 1
-  slug: 2x-allibert-mila-toiletzitting
+  extension: image/png
+  id: 5352b1a8-2272-44bf-a0a3-457007e83e26-tr
+  priority: 0
+  slug: 2x-allibert-mila-toilettensitz-wei-jpg-product-2
   type: product
 logo:
   channels:

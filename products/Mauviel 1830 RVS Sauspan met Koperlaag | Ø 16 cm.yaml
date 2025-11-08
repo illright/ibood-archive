@@ -19,13 +19,16 @@ freeDelivery: false
 id: dd400d08-5672-4c05-990e-df7257f68e95
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1544715
+  extension: image/png
+  id: 46941aaf-4ca4-4de1-812d-4e09433d00ea-tr
   priority: 0
-  slug: mauviel-copperply-sauspan-16-cm
+  slug: mauviel-copperply-sauspan-16-cm-jpg-product-1
   type: product
 logo:
   channels:

@@ -1,34 +1,43 @@
-_id: 69038188723e89d8d0a4b58e
+_id: 690dbfd2bc58fd57eab1fb56
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - 96855016-b1e1-5995-bae6-f47d36a41469
-classicId: '2809449'
-classicProductId: '459444'
+  - 3297ecd3-9cfa-51b0-992b-59547e0af71e
+classicId: '2818529'
+classicProductId: '459439'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 45
-end: '2025-11-09T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 9546cfab-b4ed-5252-bcf4-5697993fc2c3
+id: cd22ce01-f5dd-46b0-a4bf-cc6c7ba913d4
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6b9f0cd7-a390-4eba-b765-2383ec2a7aff
+  extension: png
+  id: 1534171
   priority: 0
-  slug: gorilla-wear-06-png-product-1
+  slug: gorilla-wear-selah-seamless-sports-bra-dames
   type: product
-offerId: 79553baa-c075-5305-848a-99a3fb6da0ac
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1956488
+  priority: 100
+  slug: gorilla-wear-logo
+  type: logo
+offerId: 40f764b1-b9f3-4555-b38a-5d2255d678ef
 price:
   cents: 2195
   currency: EUR
@@ -39,5 +48,5 @@ referencePrice:
   value: 39.99
 slug: gorilla-wear-selah-seamless-sports-bra-dames
 soldOut: false
-start: '2025-11-04T23:00:00.000Z'
+start: '2025-11-06T23:00:00.000Z'
 title: Gorilla Wear Selah Seamless Sports Bra | Dames

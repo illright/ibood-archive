@@ -1,4 +1,4 @@
-_id: 6908b9eb19fc4344edc93260
+_id: 690dc1419c3e9356e15281c6
 appOnly: false
 brand: Lyle & Scott
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Lyle & Scott
 categories:
   - e2f82820-9931-5005-a0a5-e1b51da00e61
-classicId: '2812950'
-classicProductId: '657126'
+classicId: '2818547'
+classicProductId: '657138'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
+directCheckout: true
+discount: 65
 end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 7ee82279-ff78-42ac-b26e-d2dfa90de018
+id: dd602edf-a6d0-4cd3-beca-1e70c8e484f6
 image:
   channels:
     - app
@@ -30,20 +30,19 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4031ea63-2fdf-4ff3-8d86-db50514ec7ad
-  priority: 0
-  slug: lyle-scott-whitburn-sneakers-herren-png-logo-0
+  extension: png
+  id: 1695004
+  priority: 100
+  slug: lyle-scott-logo
   type: logo
-offerId: 2a85af3d-3557-4d85-be5d-407e54111e95
+offerId: 4a98823c-098b-42f8-87da-73e19aa090c9
 price:
-  cents: 4000
+  cents: 3495
   currency: EUR
-  value: 40
+  value: 34.95
 referencePrice:
   cents: 9990
   currency: EUR

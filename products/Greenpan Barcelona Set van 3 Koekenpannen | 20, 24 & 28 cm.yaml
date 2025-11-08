@@ -19,13 +19,16 @@ freeDelivery: false
 id: 67168d06-1a03-41f8-bdf9-0c712710a6be
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1968375
+  extension: image/png
+  id: f6367d66-9f6e-472c-a050-ea70c6a1874c-tr
   priority: 0
-  slug: greenpan-barcelona-bratpfannen-20-24-28-cm
+  slug: greenpan-barcelona-bratpfannen-20-24-28-cm-1-jpg-product-1
   type: product
 logo:
   channels:

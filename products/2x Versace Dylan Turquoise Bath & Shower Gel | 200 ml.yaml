@@ -1,12 +1,12 @@
-_id: 6903826f41d2858fae7707b9
+_id: 6908d68fc41844a9b379c373
 appOnly: false
 brand: Versace
 brands:
   - id: cb93e330-9dc4-58c2-b70f-791985b3d6bd
     name: Versace
 categories:
-  - 7c8de803-de88-566c-a76f-5114104c0f46
-classicId: '2809637'
+  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
+classicId: '2813970'
 classicProductId: '676300'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-11-09T22:59:59.999Z'
+end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: af5a13d3-1399-569f-bc63-74c79c39ab6f
+id: 5aaf5740-a41f-4246-81d3-475c50a45baf
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 2x-versace-bath-shower-gel
   type: product
-offerId: c6169f33-8d86-51d1-9007-ba04f4f9ed20
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008215
+  priority: 100
+  slug: versace-logo
+  type: logo
+offerId: 260e3b90-dcca-407a-a5fc-3e8d6e626f31
 price:
   cents: 2995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 70.04
 slug: 2x-versace-bath-shower-gel
 soldOut: false
-start: '2025-11-02T23:00:00.000Z'
+start: '2025-11-03T23:00:00.000Z'
 title: 2x Versace Dylan Turquoise Bath & Shower Gel | 200 ml
