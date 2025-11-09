@@ -1,4 +1,4 @@
-_id: 68af22ca7c91f253a86c1437
+_id: 68af20b7952de7ddb5461c18
 appOnly: false
 brand: Odlo
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Odlo
 categories:
   - d0829502-176c-5bd7-9086-548758941e8a
-classicId: '2741640'
-classicProductId: '661512'
+classicId: '2741616'
+classicProductId: '573480'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,19 +16,27 @@ directCheckout: false
 discount: 33
 end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: 1732fef9-5907-5e70-8dc0-ee473c990a55
+id: d6441db6-0579-5764-adad-1ccfa6fcc387
 image:
   channels:
     - app
     - website
-    - newsletter
-    - all
-  extension: image/jpeg
-  id: c19afd04-82eb-44e9-95ea-37832c23ba07
+  extension: jpg
+  id: 1485877
   priority: 0
-  slug: s-shadow-melange-313932-11003-t-shirt-crew-neck-l-s-essential-seamless-odlo-product-6
+  slug: odlo-essential-naadloze-longsleeve-heren
   type: product
-offerId: aed936be-1c14-5d23-ba0d-317c02cc0f17
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1620425
+  priority: 100
+  slug: odlo-logo
+  type: logo
+offerId: 52f1e4fc-c279-5ba1-92a7-ae83a19345cb
 price:
   cents: 3695
   currency: EUR

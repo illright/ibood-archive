@@ -1,4 +1,4 @@
-_id: 6908807419fc4344edc92ac1
+_id: 69087fb472b5d07ca23f94c4
 appOnly: false
 brand: Kayori
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Kayori
 categories:
   - d837eab3-3db0-5777-8a48-8584a95b39e9
-classicId: '2811487'
-classicProductId: '525891'
+classicId: '2811286'
+classicProductId: '471653'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,15 +16,17 @@ directCheckout: true
 discount: 53
 end: '2025-11-09T22:59:59.999Z'
 freeDelivery: false
-id: d5d559b5-8b68-451a-85cc-d0dcfa62fca1
+id: 58a77f08-1e1c-4ce4-a2c0-552779f2c60c
 image:
   channels:
     - app
     - website
-  extension: jpg
-  id: 1497691
+    - newsletter
+    - all
+  extension: image/png
+  id: 4ffd5ded-7b5d-4dc7-b5ea-7841a9f8182a
   priority: 0
-  slug: kayori-spannbettlaken-7080-x-200220-cm
+  slug: dekbed-14-png-product-16
   type: product
 logo:
   channels:
@@ -36,7 +38,7 @@ logo:
   priority: 100
   slug: kayori-logo
   type: logo
-offerId: f069f6b5-06eb-427d-b441-65ec4c31a56e
+offerId: 96efa849-e115-4fd2-afbe-ec34dcc87371
 price:
   cents: 1795
   currency: EUR

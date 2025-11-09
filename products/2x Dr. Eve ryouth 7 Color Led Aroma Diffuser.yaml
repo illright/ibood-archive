@@ -19,13 +19,14 @@ freeDelivery: false
 id: e215f431-0b43-5a89-bd19-b72510b8fab8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1937203
+    - all
+  extension: image/png
+  id: 5c1171ed-92c3-4e9d-a7f5-f2817cf458db-tr
   priority: 0
-  slug: 2x-dr-eve-ryouth-7-color-led-aroma-diffuser
+  slug: 2x-dr-eve-ryouth-led-aromadiffusor-mit-7-farben-png-product-1
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 1937204
   priority: 100
-  slug: 2x-dr-eve-ryouth-7-color-led-aroma-diffuser
+  slug: 2x-dr-eve-ryouth-led-aromadiffusor-mit-7-farben
   type: logo
 offerId: f1128dbc-d45a-57de-8247-7edd969a2323
 price:

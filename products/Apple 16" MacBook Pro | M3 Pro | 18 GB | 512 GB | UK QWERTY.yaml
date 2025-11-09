@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6291806c-dc8a-4aa5-bd62-c8371bc9d2de
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2257660
+  extension: image/png
+  id: 21ad7b7a-5111-420b-94a1-9bad92b1297a-tr
   priority: 0
-  slug: apple-16-macbook-pro-m3-pro-18-gb-uk-qwerty
+  slug: apple-16-macbook-pro-m3-pro-18-gb-uk-qwerty-jpg-product-1
   type: product
 logo:
   channels:

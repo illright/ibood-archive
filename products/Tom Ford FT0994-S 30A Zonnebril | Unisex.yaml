@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1f352e49-7dc9-4830-8708-a30546d5cded
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2252423
-  priority: 100
-  slug: tom-ford-ft0994-s-30a-zonnebril-unisex
+  extension: image/png
+  id: 1f13b51d-fc96-40a1-8b66-0d891dcd486e-tr
+  priority: 0
+  slug: tom-ford-ft0994-s-30a-zonnebril-unisex-jpg-product-101
   type: product
 logo:
   channels:
