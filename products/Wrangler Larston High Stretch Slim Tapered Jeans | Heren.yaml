@@ -1,4 +1,4 @@
-_id: 6908b15166f95b91aae6a45d
+_id: 6908b1207c95a3b3c23d39a2
 appOnly: false
 brand: Wrangler
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Wrangler
 categories:
   - f5d80d7d-df49-5012-b8cd-01a3c456f501
-classicId: '2812198'
-classicProductId: '670706'
+classicId: '2812163'
+classicProductId: '670698'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
+discount: 53
 end: '2025-11-10T22:59:59.999Z'
 freeDelivery: false
-id: c05ef434-2c13-47f5-8487-27ada6b0cc8b
+id: 62531628-46ec-47f4-b08a-0293de5d4bdf
 image:
   channels:
     - app
@@ -24,19 +24,29 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: e737dfc4-e6d5-4792-8341-ac023b3fcc9b
+  id: ba7b15e6-c79c-4061-8230-a6bf999824fc
   priority: 0
-  slug: w31-l32-black-112371641-larston-wrangler-product-7
+  slug: w36-l32-marine-tint-112371025-larston-wrangler-product-4
   type: product
-offerId: 34964501-7858-4878-96f7-950b07c337ee
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
+  type: logo
+offerId: 7fe08c4a-9f25-453c-b6e3-cfd65d4baf07
 price:
   cents: 4495
   currency: EUR
   value: 44.95
 referencePrice:
-  cents: 8995
+  cents: 9495
   currency: EUR
-  value: 89.95
+  value: 94.95
 slug: wrangler-larston-high-stretch-slim-tapered-jeans-heren
 soldOut: false
 start: '2025-11-03T23:00:00.000Z'
