@@ -1,4 +1,4 @@
-_id: 68dcf101feeaa61619a8cbfd
+_id: 69119d3fbc6443016209d897
 appOnly: false
 brand: Gucci
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Gucci
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2778858'
+classicId: '2819286'
 classicProductId: '621899'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 62
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 5e80bebe-2ba2-5015-a016-7aea6ae7166a
+id: b239dd92-eeee-42a6-aeee-2a59ad086d90
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: gucci-bloom-ambrosia-di-fiori-edp-50-ml
   type: product
-offerId: b4150ef3-84c3-5d6e-a548-50ba7ed20615
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2000510
+  priority: 100
+  slug: gucci-logo
+  type: logo
+offerId: 61dd91ed-742e-4b30-a553-122e0d257b4d
 price:
   cents: 4995
   currency: EUR
@@ -37,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 132
 slug: gucci-bloom-ambrosia-di-fiori-edp-50-ml
-soldOut: false
+soldOut: true
 start: '2025-11-09T23:00:00.000Z'
 title: Gucci Bloom Ambrosia Di Fiori Edp | 50 ml

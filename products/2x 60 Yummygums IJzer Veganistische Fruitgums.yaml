@@ -1,12 +1,12 @@
-_id: 6908d6af19fc4344edc938e9
+_id: 691208e2beb4010332f411f5
 appOnly: false
 brand: YUMMYGUMS
 brands:
   - id: 69deab72-6369-529a-ad4a-436f73033e16
     name: YUMMYGUMS
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813999'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822362'
 classicProductId: '665126'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 7f942e21-9253-4017-90cb-bcc1657ed34e
+id: 3da63406-06ed-4752-ba22-e2744ccab804
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: yummy-gums-10-png-product-1
   type: product
-offerId: 9555253e-ca28-4f44-8610-f45402819ecb
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8eebdaea-c936-451a-8fa5-551e5a536218
+  priority: 0
+  slug: yummygums-logo-0
+  type: logo
+offerId: 3c1f922f-9b8f-4b2f-bc17-79c1e7b6aee3
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 49.9
 slug: 2x-60-yummygums-ijzer-veganistische-fruitgums
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 2x 60 Yummygums IJzer Veganistische Fruitgums

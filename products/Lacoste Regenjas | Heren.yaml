@@ -1,22 +1,22 @@
-_id: 6908b2b497a5997c5863d868
+_id: 6911e55ebd15fb2c49034a2e
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 4f3be21e-68a4-5433-9758-e69ab75673d6
-classicId: '2812460'
-classicProductId: '669203'
+  - 04ad790a-2f77-5cd8-aad9-98d8c354efcc
+classicId: '2821195'
+classicProductId: '669207'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 47
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: df7b108d-bd86-4dcf-9ae9-89b62794a71b
+id: 6025729d-7301-4f64-9268-5663886b0ca1
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: lacoste-60-png-product-1
   type: product
-offerId: d67eaee2-36b1-475c-a91d-bed57b3df944
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: d5b77cd4-bf54-4c10-8bcd-79c2e32c478e
 price:
   cents: 16995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 320
 slug: lacoste-regenjas-heren
 soldOut: false
-start: '2025-11-04T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Lacoste Regenjas | Heren

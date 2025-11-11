@@ -1,12 +1,12 @@
-_id: 6908d3b0c41844a9b379bfff
+_id: 69120749d1ef71a7fbe0231f
 appOnly: false
 brand: CHEETOS
 brands:
   - id: 3b05ed53-6fec-533e-bd26-fc4fa5b255be
     name: CHEETOS
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813485'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2821954'
 classicProductId: '671616'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: fe0de597-b4fb-4e7c-8ca9-833a17c5227b
+id: b7e3cbd0-93f9-48b6-b53c-e5ac7357afea
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 14x-cheetos-goals-cheese-100g-product-0
   type: product
-offerId: 6fb1b6e1-7008-4792-8be1-635891431dd7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: cdccd928-3604-41b8-b007-69730f4a2b4c
+  priority: 0
+  slug: cheetos-logo-0
+  type: logo
+offerId: 8677785b-6e52-4f8f-a42a-3bae154f80d4
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 27.86
 slug: 14x-cheetos-goals-cheese-100-g
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 14x Cheetos Goals Cheese | 100 g

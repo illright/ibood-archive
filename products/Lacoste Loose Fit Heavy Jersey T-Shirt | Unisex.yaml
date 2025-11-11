@@ -1,22 +1,22 @@
-_id: 68fb81650718e40881c641da
+_id: 6911e6f4bd15fb2c49034c03
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 4f3be21e-68a4-5433-9758-e69ab75673d6
-classicId: '2803433'
-classicProductId: '675288'
+  - 900a321c-c7a4-5478-a12a-fe367007933d
+classicId: '2821452'
+classicProductId: '675211'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 3407f933-e7af-5c0a-80aa-305d900c8e57
+id: 1ad5ea50-5f21-4403-9e76-7e05ef246390
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 677a045b-5751-4d08-93d8-523f3fc20325
+  id: 9a496cbd-e1e7-488d-a726-edd1d9275063
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 20ae960c-fa45-516b-8b64-bde8b5ebfd15
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: 59f55600-6021-477e-89e1-5dc2082f8829
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 75
 slug: lacoste-loose-fit-heavy-jersey-t-shirt-unisex
 soldOut: false
-start: '2025-11-04T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Lacoste Loose Fit Heavy Jersey T-Shirt | Unisex

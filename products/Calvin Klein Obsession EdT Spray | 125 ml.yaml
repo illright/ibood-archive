@@ -1,4 +1,4 @@
-_id: 68dcf0f975621783c223d576
+_id: 69119ca88ab6f422795016bf
 appOnly: false
 brand: Calvin Klein
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Calvin Klein
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2778852'
+classicId: '2819142'
 classicProductId: '37521'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 59
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: f5d5395e-24ea-5fb2-a98a-4357cda9aa62
+id: 3eaecc2f-53b9-4954-9028-e75541059e7b
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: calvin-klein-obsession-edt-spray-125-ml
   type: product
-offerId: d9362fd4-c6ef-539d-92f3-e9e9bd665a3a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1790666
+  priority: 100
+  slug: calvin-klein-logo
+  type: logo
+offerId: e520fa74-e963-471f-9c60-dde44fd66f0e
 price:
   cents: 2295
   currency: EUR

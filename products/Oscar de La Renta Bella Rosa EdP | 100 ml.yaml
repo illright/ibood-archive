@@ -1,4 +1,4 @@
-_id: 690c99ec8db55797707d1609
+_id: 69119d2ebc6443016209d88f
 appOnly: false
 brand: Oscar Bella
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Oscar Bella
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817974'
+classicId: '2819277'
 classicProductId: '347563'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 66
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 1ca54b08-a1dd-5a82-b62c-c592c977d7b6
+id: 628a72a5-2586-4648-b6d7-878a2d935dfe
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: oscar-de-la-renta-bella-rosa-edp-100-ml
   type: product
-offerId: cedd95b6-081b-5ed6-b866-8da2c231271b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008289
+  priority: 100
+  slug: oscar-bella-logo
+  type: logo
+offerId: c6aef38d-8e4c-4cb1-a830-0f99d4910676
 price:
   cents: 3295
   currency: EUR

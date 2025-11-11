@@ -1,12 +1,12 @@
-_id: 6908d405c41844a9b379c0cd
+_id: 691207956fc4434d79cec020
 appOnly: false
 brand: Durex
 brands:
   - id: 79c1c5f4-3b42-53c6-8c2a-f7e8e1947023
     name: Durex
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813569'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822016'
 classicProductId: '640776'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 73e93c48-1000-4696-b50c-6e54baba85e6
+id: ea6321cf-b53b-44b6-bef5-93045f6b1090
 image:
   channels:
     - app
@@ -34,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1699168
+  id: 2261120
   priority: 100
-  slug: durex-logo
+  slug: 120x-durex-natural-kondom
   type: logo
-offerId: 43b870c4-2f4a-4991-946d-a304a45ada65
+offerId: 3f44edb9-d392-41ca-bc75-833178c76718
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 160
 slug: 120x-durex-natural-condoom
-soldOut: true
-start: '2025-11-03T23:00:00.000Z'
+soldOut: false
+start: '2025-11-10T23:00:00.000Z'
 title: 120x Durex Natural Condoom

@@ -1,4 +1,4 @@
-_id: 690c99cf8db55797707d15e1
+_id: 69119d088ab6f42279501700
 appOnly: false
 brand: Guess
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Guess
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817934'
+classicId: '2819234'
 classicProductId: '468373'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 67
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: b2d2f7cb-5c7d-5eca-b195-18e8b8987f85
+id: b1b79b8c-a5d3-4dcd-864e-7dbff8376eb1
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: guess-by-marciano-for-men-edt-100-ml
   type: product
-offerId: f305d6dc-76f2-55f5-8cf7-66104be1ff41
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008259
+  priority: 100
+  slug: guess-logo
+  type: logo
+offerId: 63cc83a0-0493-4cc3-a07d-f5a35eca30b0
 price:
   cents: 1995
   currency: EUR

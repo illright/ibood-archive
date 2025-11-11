@@ -1,4 +1,4 @@
-_id: 690c99c4aa210934cdfa4879
+_id: 69119cf4c43cf76a0108f5f0
 appOnly: false
 brand: Lacoste
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Lacoste
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817918'
+classicId: '2819209'
 classicProductId: '570003'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 60
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: beb15d36-7473-546e-aead-7a69a6f1e4cb
+id: cea41cf4-5bd1-4ea3-8be2-324f8b668242
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: lacoste-essential-edt-herren
   type: product
-offerId: 82f3bfe7-8499-507f-843a-387f4b0b0bd5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: a7e757a9-337b-4330-b951-f08dd8b58e51
 price:
   cents: 3195
   currency: EUR

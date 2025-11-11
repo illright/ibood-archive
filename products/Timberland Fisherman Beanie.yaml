@@ -1,12 +1,12 @@
-_id: 68d268d7c1b96e62f56314dd
+_id: 6911d9cbbd15fb2c49034860
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - f12c746a-36f6-51e4-8e16-b908c888d024
-classicId: '2769368'
+  - 2a2cda57-470d-54a5-8f1f-776d499df7e5
+classicId: '2820935'
 classicProductId: '666576'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 44
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 6b5b9961-e8bf-5b29-ac68-14480cb70cd4
+id: c0811fa0-ef04-4e48-8845-4055605375d6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: mutz-main-fin-png-product-1
   type: product
-offerId: 02b75e12-6a26-5c9d-a005-c59d8eceb65a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
+  type: logo
+offerId: 1edd0b30-34cb-4fd3-994c-e9749b1e00a7
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 30
 slug: timberland-fisherman-beanie
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Timberland Fisherman Beanie

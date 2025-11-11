@@ -1,4 +1,4 @@
-_id: 690c99da740b1bc5f116f22f
+_id: 69119d20180af628d2f303d2
 appOnly: false
 brand: Calvin Klein
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Calvin Klein
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817941'
+classicId: '2819255'
 classicProductId: '444021'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 70
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: b57a85c5-2e89-5790-93b6-806df269ab9e
+id: f1422c28-fec5-4804-86aa-2deaa0aaa661
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: calvin-klein-eternity-flame-women-edp-100-ml
   type: product
-offerId: 0897f892-4ed1-58ff-a808-4bff3fff22dc
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1790666
+  priority: 100
+  slug: calvin-klein-logo
+  type: logo
+offerId: a44d3d67-5a99-4517-85dd-9ba199339728
 price:
   cents: 2995
   currency: EUR

@@ -1,12 +1,12 @@
-_id: 690887da66f95b91aae6a223
+_id: 6911d661beb4010332f408c8
 appOnly: false
 brand: Makita
 brands:
   - id: 3dbfbe86-4ed5-5b75-9ebb-fbc198e478a4
     name: Makita
 categories:
-  - 4d4c423f-fa16-5ea9-b2b5-4ae1cb30cbff
-classicId: '2811728'
+  - 83fee6ab-4c42-5d43-a71b-8bf3cb64107f
+classicId: '2820759'
 classicProductId: '84624'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 36
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 983e7336-354f-484c-9634-c7e3f7eedd14
+id: 4d53264d-8f33-4858-ae4a-336193d61369
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 160087
+  extension: image/png
+  id: 8dbae6bd-9836-44c4-8873-a90387c32389-tr-tr
   priority: 0
-  slug: makita-dlx2145tj-bohr-schlagschrauber
+  slug: makita-dlx2145tj-bohr-schlagschrauber-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: makita-logo
   type: logo
-offerId: 3e766607-b97d-4d84-949c-8e6f65f7bdd6
+offerId: 834a4a00-8a3b-4ffa-8d57-ead5c6fc5b2a
 price:
   cents: 34995
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 543.29
 slug: makita-18-v-boor-schroefmachine
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Makita 18 V  Combiboor + Slagschroefmachine | DLX2145TJ

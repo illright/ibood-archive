@@ -1,12 +1,12 @@
-_id: 6908b86c06b624a80e0f247b
+_id: 6911da2cbd15fb2c490348bc
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - f12c746a-36f6-51e4-8e16-b908c888d024
-classicId: '2812758'
+  - 2a2cda57-470d-54a5-8f1f-776d499df7e5
+classicId: '2820964'
 classicProductId: '664395'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 7cd2abdc-0597-4323-8376-2b533da79651
+id: 35e31e3a-f8a5-439a-8f48-51880d3a7c4c
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: pld-7049-s-20572800362e3-polaroid-unisex-sunglasses-product-1
   type: product
-offerId: 51755d32-e3de-4c8c-8b82-a71db267c182
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
+  type: logo
+offerId: 2621ff56-5dd4-48d3-9aaa-41d167138440
 price:
   cents: 3995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 100
 slug: polaroid-pld-7049s-zonnebril-zwart-unisex
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Polaroid PLD 7049/S Zonnebril | Zwart | Unisex

@@ -1,12 +1,12 @@
-_id: 690c7536405d30345ad165da
+_id: 6911d6370f1b1d33e8c45f7c
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 4d4c423f-fa16-5ea9-b2b5-4ae1cb30cbff
-classicId: '2817068'
+  - 83fee6ab-4c42-5d43-a71b-8bf3cb64107f
+classicId: '2820709'
 classicProductId: '673395'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 83
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 9ace3112-5cb6-4722-9208-3c02e6ad3241
+id: 8ae974f6-cad0-44a1-8e81-67e7d9eee90f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: ledvanceee-farbe-png-product-1
   type: product
-offerId: 0b572922-f72c-488f-bb8f-d97e378781d8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
+  type: logo
+offerId: 03f0ec02-3dbb-44ab-ba67-fea7bcbfd029
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 179.9
 slug: 2x-ledvance-smart-wifi-outdoor-flex-ledstrip-5m-ip44-rgb-tw
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 2x Ledvance Smart+ Wifi Outdoor Flex LED Strip | 5 M | IP44 | RGB & TW

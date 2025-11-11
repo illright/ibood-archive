@@ -1,42 +1,43 @@
-_id: 68fb7e560f3ea4d4b5fc8001
+_id: 6911d9c8beb4010332f40a03
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 4f3be21e-68a4-5433-9758-e69ab75673d6
-classicId: '2803405'
-classicProductId: '403401'
+  - 2a2cda57-470d-54a5-8f1f-776d499df7e5
+classicId: '2820933'
+classicProductId: '403402'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 30
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: b206367d-385c-5de4-9b92-c8b97a92185b
+id: 5f36fd59-062f-4c87-9e3f-77bbdd8a34ac
 image:
   channels:
-    - app
     - website
+    - app
+    - newsletter
   extension: jpg
-  id: 1341932
+  id: 1362597
   priority: 0
-  slug: lacoste-handschuhe-rv0452
+  slug: lacoste-wollen-handschoenen
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 1348156
+  extension: png
+  id: 1612112
   priority: 100
-  slug: lacoste-handschuhe-rv0452
+  slug: lacoste-logo
   type: logo
-offerId: 82373709-9874-5864-99da-e5138f7e66af
+offerId: a2702a72-ed0a-475e-8c5d-734a5071c722
 price:
   cents: 3495
   currency: EUR
@@ -47,5 +48,5 @@ referencePrice:
   value: 50
 slug: lacoste-wollen-handschoenen
 soldOut: false
-start: '2025-11-04T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Lacoste Wollen Handschoenen

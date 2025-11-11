@@ -1,4 +1,4 @@
-_id: 690c99cb536bc37308c75de6
+_id: 69119d13bc6443016209d815
 appOnly: false
 brand: DKNY
 brands:
@@ -6,7 +6,7 @@ brands:
     name: DKNY
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817930'
+classicId: '2819246'
 classicProductId: '644070'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 54
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 22c7f1f1-7bfa-50e1-b890-d0d4913ba000
+id: 4675424e-aa2f-4263-a0f6-165c87c3c5e6
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: dkny-be-delicious-edp-100-ml
   type: product
-offerId: ba98c4f1-aa50-560b-a398-d31a1e5b9f5b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008251
+  priority: 100
+  slug: dkny-logo
+  type: logo
+offerId: e7c68657-cfe7-4187-a364-d1b527b6ca4a
 price:
   cents: 4695
   currency: EUR

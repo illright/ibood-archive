@@ -1,12 +1,12 @@
-_id: 6908d68819fc4344edc9388b
+_id: 691208c52f44f0977355862b
 appOnly: false
 brand: VENZ
 brands:
   - id: 70e75471-2394-53b6-9021-624413c5aec2
     name: VENZ
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813967'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822339'
 classicProductId: '666984'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 85d05dca-fea2-429c-ae54-49cbc3d9f40a
+id: f11f2e9b-147b-40b6-9a0f-21843973dbe8
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: venz-01-png-product-1
   type: product
-offerId: 3f1135df-fbb3-4165-a37e-1154700c9f24
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 722cb3f3-1113-46f0-ac01-316895226545
+  priority: 0
+  slug: venz-logo-0
+  type: logo
+offerId: 32c4dbb3-2702-46ce-b006-96a339e2d012
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 31.92
 slug: 8x-venz-rimboe-krokovlokken-puur-vanille-200-g
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 8x Venz Rimboe Krokovlokken Puur & Vanille | 200 g

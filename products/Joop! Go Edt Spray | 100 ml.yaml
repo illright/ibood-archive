@@ -1,4 +1,4 @@
-_id: 68dcf11475621783c223d5a9
+_id: 69119cd31848b1d5433c72ff
 appOnly: false
 brand: Joop!
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Joop!
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2778867'
+classicId: '2819183'
 classicProductId: '440845'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 58
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: c3d04deb-af7e-5f5b-b3bb-1d21ef6e87e5
+id: 44d6509b-df50-4b0e-8411-88ef6213bc38
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: joop-go-edt-100-ml
   type: product
-offerId: b016a0bc-4548-523d-90c0-c12b1e5f2dc9
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008254
+  priority: 100
+  slug: joop-logo
+  type: logo
+offerId: bdae9e37-c54a-419e-8a13-7ecbb9a3f049
 price:
   cents: 1995
   currency: EUR

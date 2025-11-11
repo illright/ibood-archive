@@ -1,12 +1,12 @@
-_id: 68fa20260ce9d035314d1c76
+_id: 6912071b6fc4434d79cebf3a
 appOnly: false
 brand: Biteswelove
 brands:
   - id: 12a3a58f-64b9-513b-bf6a-8180f343ad07
     name: Biteswelove
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2802365'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2821914'
 classicProductId: '674887'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 7d346c65-58ea-56f3-8f27-5e9d8f31bdc9
+id: 75826f9d-7aab-45ff-be85-b794f46e0cdd
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 50x-biteswelove-haverrepen-chocolade-30g-product-1
   type: product
-offerId: 7a72bb1f-adfd-5816-8993-b5b2cd363949
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: aed1834c-35d2-4d83-b0e3-cd594a95d916
+  priority: 0
+  slug: biteswelove-logo-0
+  type: logo
+offerId: ba45282d-dbbe-452e-b824-59f12b8dab16
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 41.5
 slug: 50x-biteswelove-chocolate-haverrepen-30-g
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 50x BitesWeLove Chocolate Haverrepen | 30 g

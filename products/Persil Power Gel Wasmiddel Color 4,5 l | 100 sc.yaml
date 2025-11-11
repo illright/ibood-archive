@@ -1,12 +1,12 @@
-_id: 6908d5fac41844a9b379c25d
+_id: 691208602f44f097735585a6
 appOnly: false
 brand: Persil
 brands:
   - id: 74e3ee44-49f0-58ea-a6f2-c8d8594e807b
     name: Persil
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813858'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822242'
 classicProductId: '671953'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 931a7425-73b8-45c9-914c-83eb33592346
+id: 281caa10-0fac-4747-a4fd-5ac86d9ff716
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: persil-01-jpg-product-1
   type: product
-offerId: 61c9403b-add1-4f68-9fbd-48eb8d4565d0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1956288
+  priority: 100
+  slug: persil-logo
+  type: logo
+offerId: d8e5ed14-d62e-4702-8ee3-6b0249c5efcd
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 57.85
 slug: persil-power-gel-wasmiddel-color-4-5-l-100-sc
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Persil Power Gel Wasmiddel Color 4,5 l | 100 sc

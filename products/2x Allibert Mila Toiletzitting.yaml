@@ -1,12 +1,12 @@
-_id: 690887e741b3d86093ce6e3e
+_id: 6911d679bd15fb2c490347c2
 appOnly: false
 brand: Allibert
 brands:
   - id: ac599095-7447-5856-8852-bc0153509343
     name: Allibert
 categories:
-  - 9a0dfc29-06d5-52ec-962e-46f573e0a800
-classicId: '2811757'
+  - 83fee6ab-4c42-5d43-a71b-8bf3cb64107f
+classicId: '2820786'
 classicProductId: '656354'
 deliveryPrice:
   cents: 595
@@ -14,33 +14,30 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: eedb6356-5862-4503-bbf3-de5f9a2764b6
+id: 46d763b7-91c7-43a6-85c5-350be84c5c13
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: 5352b1a8-2272-44bf-a0a3-457007e83e26-tr
-  priority: 0
-  slug: 2x-allibert-mila-toilettensitz-wei-jpg-product-2
+  extension: jpg
+  id: 196973
+  priority: 1
+  slug: 2x-allibert-mila-toiletzitting
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1904757
+  extension: jpg
+  id: 196974
   priority: 100
-  slug: allibert-logo
+  slug: 2x-allibert-mila-toiletzitting
   type: logo
-offerId: 272d2976-60cf-49df-9b5f-718976185331
+offerId: 84383a67-58ef-4207-8315-b3e18ee961c6
 price:
   cents: 1495
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 61
 slug: 2x-allibert-mila-toiletzitting
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 2x Allibert Mila Toiletzitting

@@ -1,12 +1,12 @@
-_id: 6909b704fb8b1328f0b2df6a
+_id: 6911d618c562faef5ccf1ec3
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 4d4c423f-fa16-5ea9-b2b5-4ae1cb30cbff
-classicId: '2814073'
+  - 83fee6ab-4c42-5d43-a71b-8bf3cb64107f
+classicId: '2820670'
 classicProductId: '666133'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 80
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 52b56a49-1b94-4ecc-ab31-b5856b8d79ce
+id: 4ae6d0e6-38a6-421d-a8eb-251ed787b5c9
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 2x-cornerslim-main-3-png-product-2
   type: product
-offerId: 4f7c4157-5751-4544-9a5b-72af2671386b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
+  type: logo
+offerId: 8fea908c-8adc-4275-83f6-8b037195cb46
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 199.9
 slug: ledvance-cornerslim-smart-wifi-vloerlamp-rgb-cct
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 2x Ledvance Cornerslim Smart Wifi Vloerlamp | RGB & CCT

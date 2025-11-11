@@ -1,4 +1,4 @@
-_id: 690c99fb536bc37308c75e2b
+_id: 69119d411848b1d5433c73c4
 appOnly: false
 brand: JOHN VARVATOS
 brands:
@@ -6,7 +6,7 @@ brands:
     name: JOHN VARVATOS
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817986'
+classicId: '2819290'
 classicProductId: '570012'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 63
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: c43ac8ef-dc6f-5904-bb9d-0d3ab7226b87
+id: afe082a9-8461-4d14-aeaa-63740e3e91e6
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: john-varvatos-artisan-blue-man-edt-spray-125-ml
   type: product
-offerId: 38e3c00a-0f0e-5fe2-9da6-51c725a4f7e5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008197
+  priority: 100
+  slug: john-varvatos-logo
+  type: logo
+offerId: 01f141cb-3650-4ce8-836c-fe2a49dabb10
 price:
   cents: 3295
   currency: EUR

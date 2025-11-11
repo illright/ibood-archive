@@ -1,12 +1,12 @@
-_id: 6908d397c95bece2ab8e4472
+_id: 6912073ad1ef71a7fbe02313
 appOnly: false
 brand: BRINTA
 brands:
   - id: 3b17e909-0fc0-5c2e-9cdd-9dda41286f24
     name: BRINTA
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813467'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2821935'
 classicProductId: '666974'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 32
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 5c5b5926-ecab-4e51-8cb4-1c0bcffb8b39
+id: 5435f1a1-0bfe-4eb4-b9ee-951b82b7c403
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 20x-brinta-classic-500gr-product-0
   type: product
-offerId: 341e3063-4aa6-4d6f-b39b-b8cd350b58ac
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: da55c292-93c0-4138-8719-c3c64d26e9a9
+  priority: 0
+  slug: brinta-logo-0
+  type: logo
+offerId: 860e774f-4720-4bb9-b85e-5d2b4a25f44f
 price:
   cents: 2695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.8
 slug: 20x-brinta-volkoren-graanontbijt-500-g
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 20x Brinta Volkoren Graanontbijt | 500 g

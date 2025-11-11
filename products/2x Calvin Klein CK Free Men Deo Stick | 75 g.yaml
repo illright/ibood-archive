@@ -1,4 +1,4 @@
-_id: 68dcf0f3feeaa61619a8cbee
+_id: 69119d38180af628d2f303d7
 appOnly: false
 brand: Calvin Klein
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Calvin Klein
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2778849'
+classicId: '2819281'
 classicProductId: '668755'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 55
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: d420476d-049f-55dc-9db6-846e08a1d961
+id: 8b48b877-c86a-4fac-864c-5030686eafa6
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: 2x-calvin-klein-free-men-deo-stick-75-g
   type: product
-offerId: 5e307b09-b83f-5a8f-9c30-fdf81f344949
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1790666
+  priority: 100
+  slug: calvin-klein-logo
+  type: logo
+offerId: 36ec530e-920c-4238-96e4-6cffbe24a6a5
 price:
   cents: 1795
   currency: EUR

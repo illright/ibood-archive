@@ -1,4 +1,4 @@
-_id: 690c99bead51f42dfa6bd725
+_id: 69119ce61848b1d5433c7315
 appOnly: false
 brand: JOHN VARVATOS
 brands:
@@ -6,7 +6,7 @@ brands:
     name: JOHN VARVATOS
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817911'
+classicId: '2819194'
 classicProductId: '468384'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 61
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 9da07189-1be9-5d65-b245-7f84c8eab5d7
+id: d60f41ab-1a0c-460b-8bd3-ea95e08c6f5f
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: john-varvatos-vintage-edt-125-ml
   type: product
-offerId: eb78464d-3209-57df-acf3-7181b41efee3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008197
+  priority: 100
+  slug: john-varvatos-logo
+  type: logo
+offerId: 4cdb66c0-dc53-4dbe-888d-fcd741162233
 price:
   cents: 3495
   currency: EUR

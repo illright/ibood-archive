@@ -1,12 +1,12 @@
-_id: 6909ffae31d3147cf6f360e0
+_id: 6911e510bd15fb2c490349c0
 appOnly: false
 brand: Cars Jeans
 brands:
   - id: 1606205d-b37b-5b13-b9d4-f198ca94cb65
     name: Cars Jeans
 categories:
-  - f30dcc19-31ac-5f2f-8360-5e8495f24a00
-classicId: '2814763'
+  - 4714d44b-8cd1-5970-9097-8a9050b0956f
+classicId: '2821155'
 classicProductId: '666047'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 58
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: e313ea63-ada7-5c5e-90b9-47d7f5f0c984
+id: c1816109-b153-4b73-b048-f7c0bbcbd7b5
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: jeans-main-png-product-1
   type: product
-offerId: e195ad18-ba3a-5a6d-9a7c-efd9ec9bf4fd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1761081
+  priority: 100
+  slug: cars-jeans-logo
+  type: logo
+offerId: 1799ed9d-341b-4e7c-b74b-ad26b93bc3a5
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: cars-jeans-kirk-jeans-heren
 soldOut: false
-start: '2025-11-09T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Cars Jeans Kirk Jeans | Heren

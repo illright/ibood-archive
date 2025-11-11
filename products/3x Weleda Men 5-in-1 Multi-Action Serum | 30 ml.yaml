@@ -1,12 +1,12 @@
-_id: 68ff6223c3d09370197ba2c0
+_id: 691208ca2f44f09773558637
 appOnly: false
 brand: Weleda
 brands:
   - id: 4f33b879-d034-5389-8ae7-d4be340b01fa
     name: Weleda
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2804804'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822344'
 classicProductId: '675413'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: d394c496-b25c-58b3-b6ef-4a1de7df0473
+id: 765fffa4-55c6-4677-8d64-2b816e3395bf
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: serum-png-product-0
   type: product
-offerId: b1769930-f2a3-5fa9-b344-30bbe42dbd62
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c1dd7c9e-17de-4178-b382-4879a49f2347
+  priority: 0
+  slug: weleda-logo-0
+  type: logo
+offerId: c0dd5a17-a600-42f8-a41a-70c397d902a9
 price:
   cents: 2695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 44.97
 slug: men-5in1-multi-actie-serum-30ml
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 3x Weleda Men 5-in-1 Multi-Action Serum | 30 ml

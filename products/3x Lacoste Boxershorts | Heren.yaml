@@ -1,12 +1,12 @@
-_id: 68fb81730718e40881c641db
+_id: 6911d968c562faef5ccf2024
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 4f3be21e-68a4-5433-9758-e69ab75673d6
-classicId: '2803434'
+  - 8f2e3d2d-0ddf-5562-93e7-bccf6db04a8b
+classicId: '2820856'
 classicProductId: '675292'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 27
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: b89c193e-5645-57d8-b89a-33f6271db70b
+id: 8e5735df-00b5-47f9-a88c-c8b77206b26b
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: f7ccd552-fd4c-5b43-a8f6-3d7f782c5186
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: 155f232c-1835-4101-ac76-95286970bc0d
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 55
 slug: 3x-lacoste-boxershorts-heren
 soldOut: false
-start: '2025-11-04T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 3x Lacoste Boxershorts | Heren

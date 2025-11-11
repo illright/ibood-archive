@@ -1,12 +1,12 @@
-_id: 6908d619c95bece2ab8e4595
+_id: 6912087934dd238525a68790
 appOnly: false
 brand: Rexona
 brands:
   - id: 16a06a68-db15-5296-b4b7-399f250490ac
     name: Rexona
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813880'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822264'
 classicProductId: '294889'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 8741f722-030b-48fb-b8dd-8cfa5451365c
+id: 68cfaeb7-7004-4461-821f-229606a55331
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: 6x-rexona-men-invisible-deo-spray-150-ml
   type: product
-offerId: 4f6cd7a1-815c-4263-88c9-6899a29053cb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1897086
+  priority: 100
+  slug: rexona-logo
+  type: logo
+offerId: 35d5d1f5-6d93-475d-8e34-dd497ba7a486
 price:
   cents: 1795
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 35.4
 slug: 6x-rexona-men-invisible-deo-spray-150-ml
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 6x Rexona Men MotionSense Invisible Black&White Deodorant Spray | 150 ml

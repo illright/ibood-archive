@@ -1,4 +1,4 @@
-_id: 68dcf105feeaa61619a8cc01
+_id: 69119d1fbc6443016209d84a
 appOnly: false
 brand: Hugo Boss
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Hugo Boss
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2778859'
+classicId: '2819260'
 classicProductId: '347530'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 14
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 0d71d736-bf99-575b-8f64-a669f8c211c1
+id: a9543759-5068-4081-b506-092b73d050e2
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: hugoboss-deep-red-edp-fur-damen-50-ml
   type: product
-offerId: ba75ec4c-9c20-5fb5-8287-1cecf6bb59b1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1797875
+  priority: 100
+  slug: hugo-boss-logo
+  type: logo
+offerId: fdb9659f-3c54-407b-976c-cb8108d78e81
 price:
   cents: 2395
   currency: EUR

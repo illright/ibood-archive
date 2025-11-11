@@ -1,4 +1,4 @@
-_id: 690c99b8ad51f42dfa6bd718
+_id: 69119cfbc43cf76a0108f5fb
 appOnly: false
 brand: Paco Rabanne
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Paco Rabanne
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817907'
+classicId: '2819215'
 classicProductId: '278060'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 51
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: dec5c7f4-94b5-51fc-b9df-0f6efbe31e8d
+id: e0938d30-a907-48ed-8e6d-782440b6c07c
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: paco-rabanne-homme-edt-spray-100-ml
   type: product
-offerId: 99b242ed-00ab-52d2-9d9e-99ea07f541cb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2000583
+  priority: 100
+  slug: paco-rabanne-logo
+  type: logo
+offerId: 7f37b15e-0c56-4c51-a44c-64e2bbf9a5ac
 price:
   cents: 3495
   currency: EUR

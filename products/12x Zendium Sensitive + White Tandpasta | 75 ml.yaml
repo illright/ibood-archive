@@ -1,12 +1,12 @@
-_id: 6908d6b4c41844a9b379c3c3
+_id: 691208e46fc4434d79cec279
 appOnly: false
 brand: ZENDIUM
 brands:
   - id: da96ec63-9c5d-52ad-a274-50ef133f8ce0
     name: ZENDIUM
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2814003'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822365'
 classicProductId: '671624'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 5c318160-61ee-42f4-894f-2c3514bc3fd1
+id: cc6b7f65-e8b1-49e9-940a-f71f2b5bb1c9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 12x-zendium-tp-sensitive-whitener-75ml-product-0
   type: product
-offerId: 5cbb0b6f-ce40-4a55-87a4-5739804f56ff
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 50761d8a-22d2-4886-9588-e639a09d9d46
+  priority: 0
+  slug: zendium-logo-0
+  type: logo
+offerId: ae922e98-3b3f-4817-944a-62e618de33ad
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 53.88
 slug: 12x-zendium-sensitive-white-tandpasta-75-ml
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 12x Zendium Sensitive + White Tandpasta | 75 ml

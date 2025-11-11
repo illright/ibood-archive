@@ -19,13 +19,14 @@ freeDelivery: false
 id: 7c927995-7444-51de-b535-25135aa416a8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1466124
-  priority: 100
-  slug: fischer-red-box-duopower-140x-plug-schroef
+    - all
+  extension: image/jpeg
+  id: 1d76d8e4-8dd2-4004-954d-72bceeb55d98
+  priority: 0
+  slug: 1200x975-jpg-product-101
   type: product
 offerId: c4b7c0ae-fc34-5237-9048-d53362a11fda
 price:

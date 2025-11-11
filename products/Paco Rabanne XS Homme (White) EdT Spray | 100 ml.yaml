@@ -1,4 +1,4 @@
-_id: 690c99b5ad51f42dfa6bd711
+_id: 69119cfebc6443016209d7da
 appOnly: false
 brand: Paco Rabanne
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Paco Rabanne
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817906'
+classicId: '2819218'
 classicProductId: '278069'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 58
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 01ffaa78-e50a-5afe-8c7a-9381cff7917d
+id: d4fa9def-566b-4645-8b63-dbee35d84e8b
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: paco-rabanne-xs-homme-white-edt-100-ml
   type: product
-offerId: c44ed810-60d0-5ae9-b0f6-87eb2a35fcf8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2000583
+  priority: 100
+  slug: paco-rabanne-logo
+  type: logo
+offerId: 2de794d3-2401-4e20-89f1-dbfd9324a926
 price:
   cents: 3895
   currency: EUR

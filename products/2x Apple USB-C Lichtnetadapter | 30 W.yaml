@@ -1,4 +1,4 @@
-_id: 690b451bd8e31e1c8e20fc2d
+_id: 690b486ae89e3a80fad2a8f7
 appOnly: false
 brand: Apple
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Apple
 categories:
   - 675b4ae1-508a-5d26-86c6-949014d30ec5
-classicId: '2816022'
-classicProductId: '677104'
+classicId: '2816687'
+classicProductId: '654697'
 deliveryPrice:
   cents: 395
   currency: EUR
@@ -16,19 +16,28 @@ directCheckout: true
 discount: 33
 end: '2025-11-12T22:59:59.999Z'
 freeDelivery: false
-id: 0fc01ef1-872b-51dc-a8c0-0285aa44cfdc
+id: 39a71186-9a46-466c-845b-14d082929436
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 11f03b62-aaa1-41af-bcf7-fc142ac6db02
+  extension: png
+  id: 2108940
   priority: 0
-  slug: adapter-main-png-product-0
+  slug: 2x-apple-usbc-power-adapter-30-w
   type: product
-offerId: 2fbfc594-8782-5b2e-89a6-3bb5de1fcc7b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: 5da57c6e-d4bc-4ed7-a255-027b203b559d
 price:
   cents: 5995
   currency: EUR

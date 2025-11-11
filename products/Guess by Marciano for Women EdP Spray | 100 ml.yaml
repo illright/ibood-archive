@@ -1,4 +1,4 @@
-_id: 690c99db536bc37308c75e02
+_id: 69119d14bc6443016209d81b
 appOnly: false
 brand: Guess
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Guess
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817950'
+classicId: '2819248'
 classicProductId: '468374'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 67
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 87c78bb2-ba1c-5ec5-9808-b15f370db092
+id: b4abc364-4dac-44ad-aa5d-fa40e2f206d7
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: guess-by-marciano-for-women-edp-100-ml
   type: product
-offerId: 5d1d02e3-2210-567c-8737-3f75799574db
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008259
+  priority: 100
+  slug: guess-logo
+  type: logo
+offerId: 29207263-cdf3-4015-b47d-5d189c6f1985
 price:
   cents: 1995
   currency: EUR

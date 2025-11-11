@@ -1,22 +1,22 @@
-_id: 68fb7e2f0718e40881c6418a
+_id: 6911d9c6bd15fb2c4903484d
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 4f3be21e-68a4-5433-9758-e69ab75673d6
-classicId: '2803385'
-classicProductId: '295608'
+  - 2a2cda57-470d-54a5-8f1f-776d499df7e5
+classicId: '2820929'
+classicProductId: '295606'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 42
-end: '2025-11-10T22:59:59.999Z'
+directCheckout: false
+discount: 53
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 8fb370d2-460d-5ae4-bb1f-fb9a6529f766
+id: 6e513f88-3fb7-432d-91e0-a2162c028ef0
 image:
   channels:
     - website
@@ -25,18 +25,28 @@ image:
   extension: png
   id: 1467409
   priority: 0
-  slug: lacoste-cap-rk2662
+  slug: lacoste-sport-cap
   type: product
-offerId: 074e4f41-7ca4-5b18-816c-63e046448108
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: cab4666f-ae34-438a-9542-4e42f7db08e0
 price:
-  cents: 3495
+  cents: 2795
   currency: EUR
-  value: 34.95
+  value: 27.95
 referencePrice:
   cents: 6000
   currency: EUR
   value: 60
 slug: lacoste-sport-cap
 soldOut: false
-start: '2025-11-04T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Lacoste Sport Cap | RK2662

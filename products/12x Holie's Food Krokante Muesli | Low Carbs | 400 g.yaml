@@ -1,12 +1,12 @@
-_id: 6908d497c95bece2ab8e4508
+_id: 691207c46fc4434d79cec06b
 appOnly: false
 brand: Holie
 brands:
   - id: 29153a71-5ac0-56c3-82cf-de9bb4e953db
     name: Holie
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813664'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822069'
 classicProductId: '658762'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 73b26374-6c7d-430e-bc1a-b1f2b9b141d1
+id: 4d349297-8eb3-41a6-9546-6e63039536ca
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: holies-png-product-1
   type: product
-offerId: d5ddf8ef-8d56-43c9-b511-ff7690abf44f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e3bad181-060d-4f89-87da-1edd09451f62
+  priority: 0
+  slug: holie-logo-0
+  type: logo
+offerId: 2501004d-fc00-4e38-bfda-e485cda17afa
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 47.88
 slug: 12x-holie-s-food-krokante-muesli-low-carbs-400-g
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 12x Holie's Food Krokante Muesli | Low Carbs | 400 g

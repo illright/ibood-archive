@@ -1,12 +1,12 @@
-_id: 6909dc6f120a71923ac14cc4
+_id: 6911d91bbd15fb2c490347d2
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 716e5356-1155-5c0a-94fc-ef363e827176
-classicId: '2814351'
+  - 8f2e3d2d-0ddf-5562-93e7-bccf6db04a8b
+classicId: '2820821'
 classicProductId: '389284'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 71
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 2c00a1a8-7073-5219-8aee-7c201f102d42
+id: 0c6368b5-3432-42ca-80f0-3c4a867f8e2f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 12-paar-bamboo-premium-sokken-product-7
   type: product
-offerId: d79ad2a8-91df-5fcf-82a9-194561e28f5f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
+  type: logo
+offerId: 15eb4c9e-aedc-4d5c-a520-722b212b13d8
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.95
 slug: 12-paar-bamboo-elements-premium-sokken
 soldOut: false
-start: '2025-11-09T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 12 Paar Bamboo Elements Premium Sokken | Unisex

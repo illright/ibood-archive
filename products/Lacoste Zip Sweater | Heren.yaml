@@ -1,22 +1,22 @@
-_id: 68fb81540f3ea4d4b5fc8027
+_id: 6911e6c5beb4010332f40c35
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 4f3be21e-68a4-5433-9758-e69ab75673d6
-classicId: '2803419'
-classicProductId: '675217'
+  - 900a321c-c7a4-5478-a12a-fe367007933d
+classicId: '2821430'
+classicProductId: '675220'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 38
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 55c63f76-61a4-536c-9e11-b916d1625828
+id: 4a71d587-9de5-4f19-a425-5f776b60d4ad
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 5e832230-cc1b-5a9c-9563-078526476910
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: 54040268-1b29-4688-8b4d-05403864e323
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 130
 slug: lacoste-zip-sweater-heren
 soldOut: false
-start: '2025-11-04T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Lacoste Zip Sweater | Heren

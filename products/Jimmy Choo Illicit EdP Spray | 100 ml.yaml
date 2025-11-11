@@ -1,4 +1,4 @@
-_id: 690c99d28db55797707d15e9
+_id: 69119d2dbc6443016209d888
 appOnly: false
 brand: Jimmy Choo
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Jimmy Choo
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817937'
+classicId: '2819276'
 classicProductId: '258948'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 70
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: f711a07e-4ac7-5944-9137-31f74799dfa5
+id: afdc4bcb-8163-4f16-93be-41bca1df9674
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: jimmy-choo-illicit-edp-100-ml
   type: product
-offerId: 19acc778-760c-56c9-a192-4470adc519bb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1707573
+  priority: 100
+  slug: jimmy-choo-logo
+  type: logo
+offerId: 31825b4c-cb7e-4b76-b2ec-46eac4e78d38
 price:
   cents: 3495
   currency: EUR

@@ -1,12 +1,12 @@
-_id: 6908b1c397a5997c5863d77f
+_id: 6911e805beb4010332f40d0a
 appOnly: false
 brand: Seidensticker
 brands:
   - id: 1d526062-f5ca-5b64-aa47-092abced1dba
     name: Seidensticker
 categories:
-  - 69294ede-486b-55f5-b2b8-94939103d911
-classicId: '2812308'
+  - 900a321c-c7a4-5478-a12a-fe367007933d
+classicId: '2821566'
 classicProductId: '666396'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: b87ed448-1237-43d5-9bfa-79218e48349c
+id: e396b4f3-0138-439c-95c7-7ca77a43b7b1
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: l-dark-brown-01-251600-29-merino-crew-neck-strickpullover-rf-seidensticker-product-3
   type: product
-offerId: d8c6b78d-5dce-44d3-b566-53cd5b9242e0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1741033
+  priority: 100
+  slug: seidensticker-logo
+  type: logo
+offerId: 29c57e53-4513-4571-a7e1-444cb60a86b1
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 99.99
 slug: seidensticker-merino-pullover-ronde-nek-heren
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Seidensticker Merino Pullover | Ronde Nek | Heren

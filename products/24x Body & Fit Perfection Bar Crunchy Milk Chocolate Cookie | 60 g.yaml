@@ -1,12 +1,12 @@
-_id: 6900b9815e36947649b738c5
+_id: 6912072a6fc4434d79cebf60
 appOnly: false
 brand: Body en Fit
 brands:
   - id: 82671475-a959-51bb-8b74-6506d29cf40e
     name: Body en Fit
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2806346'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2821921'
 classicProductId: '675808'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: af5152ef-f79c-5f50-8f1b-58d527e37c5f
+id: 3b3099bb-4f92-4805-8987-e0a07f54e687
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 499e1e18-0f4e-4d42-8bf9-b2350d2becb8
-  priority: 0
-  slug: bodyandfit-png-logo-0
+  extension: png
+  id: 1998953
+  priority: 100
+  slug: body-en-fit-logo
   type: logo
-offerId: 7c1151f8-5375-5930-8df7-3ced9d5eeacd
+offerId: a2ac95e3-b3b8-4541-bb57-5bf7d50800ae
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 53.9
 slug: 24x-body-fit-perfection-bar-crunchy-milk-chocolate-cookie-60-g
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 24x Body & Fit Perfection Bar Crunchy Milk Chocolate Cookie | 60 g

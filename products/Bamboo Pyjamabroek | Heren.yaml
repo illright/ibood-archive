@@ -1,12 +1,12 @@
-_id: 6909df325ae74a1a53f67d58
+_id: 6911d929beb4010332f40964
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 716e5356-1155-5c0a-94fc-ef363e827176
-classicId: '2814405'
+  - 8f2e3d2d-0ddf-5562-93e7-bccf6db04a8b
+classicId: '2820824'
 classicProductId: '462038'
 deliveryPrice:
   cents: 395
@@ -16,19 +16,29 @@ directCheckout: false
 discount: 67
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 11d6066b-267e-5a4f-9dfd-02a59d16e8a0
+id: 0edc9a4b-e545-4ad3-89d1-d7cb806ffde8
 image:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1577102
+  priority: 0
+  slug: bamboo-pyjamabroek-heren
+  type: product
+logo:
   channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: 7dbbf5e4-d38b-410e-a6da-882053565401
-  priority: 0
-  slug: bamboo-11-png-product-1
-  type: product
-offerId: 51fc7cee-d09c-5455-8142-5657bf9898e2
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
+  type: logo
+offerId: 5a5faa17-e4d5-4895-8a2d-9b5d7e1dd731
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: bamboo-pyjamabroek-heren
 soldOut: false
-start: '2025-11-09T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: Bamboo Pyjamabroek | Heren

@@ -1,4 +1,4 @@
-_id: 690c99c5aa210934cdfa487e
+_id: 69119d05bc6443016209d7e0
 appOnly: false
 brand: DKNY
 brands:
@@ -6,7 +6,7 @@ brands:
     name: DKNY
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817926'
+classicId: '2819226'
 classicProductId: '114915'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 68
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 9cedb6c7-c8da-5538-80ff-159b8b8c6666
+id: 8d0078dc-b8b5-46fc-b610-0bf1a73cc5ba
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: dkny-golden-delicious-edp-100-ml
   type: product
-offerId: d2b12866-09a7-5ec4-b330-9d44a53dcfc3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008251
+  priority: 100
+  slug: dkny-logo
+  type: logo
+offerId: 9a2dc5b1-0160-406a-9add-e9c4227d90c6
 price:
   cents: 2995
   currency: EUR

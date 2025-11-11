@@ -1,4 +1,4 @@
-_id: 690c99c8d8c92a51ad83145b
+_id: 69119cfcbc6443016209d7d1
 appOnly: false
 brand: Versace
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Versace
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817927'
+classicId: '2819219'
 classicProductId: '317689'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 60
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: eb75a463-0e51-56e2-86c1-1f4c28a97a7f
+id: 31e21615-e313-426c-b182-eec84ca957f2
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: versace-the-dreamer-edt-100-ml
   type: product
-offerId: af1f3759-64e3-54dd-8d9b-fc3ebdb42e31
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008215
+  priority: 100
+  slug: versace-logo
+  type: logo
+offerId: 1b8b732a-1d13-438d-8f86-eb8bc2255621
 price:
   cents: 3295
   currency: EUR

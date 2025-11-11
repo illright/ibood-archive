@@ -1,34 +1,45 @@
-_id: 6908bf8d66f95b91aae6a911
+_id: 691207296fc4434d79cebf5a
 appOnly: false
 brand: Body en Fit
 brands:
   - id: 82671475-a959-51bb-8b74-6506d29cf40e
     name: Body en Fit
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813055'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2821920'
 classicProductId: '674020'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 75
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 184ca90a-9696-5083-b9d8-0d1897dc33e1
+id: 2c6e2f4e-3c7b-4ea4-aa79-63cd09821838
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 02d4157b-9e0e-47f0-9f72-5727c5238ea3
-  priority: 2
-  slug: body-fit-13-png-product-1
+  id: 33dd4bfe-d69a-41fb-b18e-01e600971276
+  priority: 0
+  slug: body-fit-11-png-product-1
   type: product
-offerId: 49f3cbe2-48d9-5686-a5fb-b45659c76180
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 986f6ce2-572f-4aaa-81d1-0d7cba701d90
+  priority: 0
+  slug: bodyandfit-png-logo-0
+  type: logo
+offerId: 3fad457d-f5b3-4f60-9d4d-d924d2d4719c
 price:
   cents: 5495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 215.88
 slug: 12x-body-fit-whey-perfection-vanille-280-g
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 12x Body & Fit  Whey Perfection Vanille | 280 g (3360 g)

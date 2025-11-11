@@ -1,4 +1,4 @@
-_id: 690c99bcad51f42dfa6bd721
+_id: 69119cf6bc6443016209d7b4
 appOnly: false
 brand: Lacoste
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Lacoste
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817910'
+classicId: '2819211'
 classicProductId: '570004'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 62
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: ba3dd5b5-e685-578c-8941-503eba3cd242
+id: 7738a025-435d-4ca1-afae-b1a57b7986e5
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: lacoste-booster-edt-herren
   type: product
-offerId: 3e56a191-6ce7-55b4-943a-c76bc68cd932
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: d5570d27-ff10-46e5-a49c-609280b67259
 price:
   cents: 2995
   currency: EUR

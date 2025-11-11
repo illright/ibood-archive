@@ -1,4 +1,4 @@
-_id: 690c99b3ad51f42dfa6bd70a
+_id: 69119cc5c43cf76a0108f5a7
 appOnly: false
 brand: MONCLER
 brands:
@@ -6,7 +6,7 @@ brands:
     name: MONCLER
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817905'
+classicId: '2819167'
 classicProductId: '611475'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 63
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 8bfcf301-258f-54c3-a4f3-459f48f1f276
+id: 5fc267a4-bc61-47da-899f-3986b22c2c5f
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: moncler-pour-femme-edp-spray-100-ml
   type: product
-offerId: 2cac078e-6b65-5430-a749-42f121ab7193
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1878529
+  priority: 100
+  slug: moncler-logo
+  type: logo
+offerId: 271257ec-5c54-4ae6-b20b-f576130a1ab0
 price:
   cents: 4495
   currency: EUR

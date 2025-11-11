@@ -1,12 +1,12 @@
-_id: 6908d6ac19fc4344edc938e1
+_id: 691208e02f44f09773558655
 appOnly: false
 brand: YUMMYGUMS
 brands:
   - id: 69deab72-6369-529a-ad4a-436f73033e16
     name: YUMMYGUMS
 categories:
-  - e09f45e5-3658-5357-9cbc-e88a4e5ad541
-classicId: '2813996'
+  - 1c13b697-09b6-50e1-9ff7-499f74e6c644
+classicId: '2822361'
 classicProductId: '665128'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 49eeb3ad-2adf-4d03-bf8c-dfd46fe0b1aa
+id: 6cf7a3ce-6937-499f-980c-318dd12c11e5
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: yummy-gums-01-png-product-1
   type: product
-offerId: 68670e22-9637-455e-b15f-ab14394d6c2e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8eebdaea-c936-451a-8fa5-551e5a536218
+  priority: 0
+  slug: yummygums-logo-0
+  type: logo
+offerId: b2402527-13c7-4d85-a6e4-cc1a98578ee3
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 35.9
 slug: 2x-60-yummy-gums-ijzer-gummies
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 2x 60 Yummy Gums IJzer Gummies

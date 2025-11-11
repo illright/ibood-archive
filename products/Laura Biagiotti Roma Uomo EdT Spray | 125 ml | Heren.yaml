@@ -1,4 +1,4 @@
-_id: 690c99c38db55797707d15d8
+_id: 69119cfe8ab6f422795016dd
 appOnly: false
 brand: Laura Biagiotti
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Laura Biagiotti
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817915'
+classicId: '2819220'
 classicProductId: '82484'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 62
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 2f5c1c62-566e-5215-b232-4864837be2a0
+id: a8f72378-b7f7-4ad8-80b0-80afc35d9faa
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: laura-biagiotti-roma-edt-125-ml
   type: product
-offerId: e826bcf5-c395-5cb4-bfa7-608e0c870cbc
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008258
+  priority: 100
+  slug: laura-biagiotti-logo
+  type: logo
+offerId: 62657d84-4ae3-43b1-9bd3-8365a359f75c
 price:
   cents: 3395
   currency: EUR

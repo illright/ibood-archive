@@ -1,4 +1,4 @@
-_id: 690c99c0ad51f42dfa6bd72f
+_id: 69119cf3c43cf76a0108f5ef
 appOnly: false
 brand: Hugo Boss
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Hugo Boss
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817912'
+classicId: '2819208'
 classicProductId: '557570'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 52
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 4703d1c2-c01c-5214-8cc2-d1698bbe26f9
+id: 9d6590b7-2fe0-484b-a67c-09d4245eb565
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: hugo-boss-the-scent-pure-accord-edt
   type: product
-offerId: ba122d56-9174-5f51-b731-2fd42233ca7c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1797875
+  priority: 100
+  slug: hugo-boss-logo
+  type: logo
+offerId: db8f46b8-408e-4aa4-95bd-a428b668db59
 price:
   cents: 4295
   currency: EUR

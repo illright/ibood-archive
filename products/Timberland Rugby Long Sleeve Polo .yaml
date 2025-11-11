@@ -1,12 +1,12 @@
-_id: 6908b2d497a5997c5863d8a6
+_id: 6911e86abeb4010332f40d75
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - 69294ede-486b-55f5-b2b8-94939103d911
-classicId: '2812489'
+  - 900a321c-c7a4-5478-a12a-fe367007933d
+classicId: '2821618'
 classicProductId: '666642'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-11-10T22:59:59.999Z'
+end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 0b27d33a-4626-4d55-9c10-ff549c56b50f
+id: 9d2881cf-4cd7-44b8-a165-0aaeb6404236
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: rugby-mainz-png-product-1
   type: product
-offerId: 49824741-53d9-482c-9e40-16538c3b5f36
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
+  type: logo
+offerId: d877e67b-324c-4f58-a8c6-cacef0a9ffb1
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 80
 slug: timberland-rugby-long-sleeve-polo-heren
 soldOut: false
-start: '2025-11-03T23:00:00.000Z'
+start: '2025-11-10T23:00:00.000Z'
 title: 'Timberland Rugby Long Sleeve Polo '
