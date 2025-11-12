@@ -1,4 +1,4 @@
-_id: 6911c9dbc43cf76a0108fb3c
+_id: 6911ca46c43cf76a0108fb7b
 appOnly: false
 brand: Vitality Pur
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Vitality Pur
 categories:
   - fe43ae2e-df9c-5889-ae63-7ec0165a94b7
-classicId: '2820301'
-classicProductId: '207466'
+classicId: '2820440'
+classicProductId: '112795'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: true
 discount: 62
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 736ae954-20f9-4cec-b400-afbe06c9306a
+id: d08912b0-719c-47b3-8334-d37f4b34327b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 523907
+    - all
+  extension: image/png
+  id: 3a6c62cb-6d44-45b1-b4d7-52c5b2de6ecd
   priority: 0
-  slug: spannbettlaken-90100-x-200220-cm
+  slug: dekbed-12-png-product-3
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: vitality-pur-logo
   type: logo
-offerId: e894150e-e7f8-46cf-964a-b5d1c8620454
+offerId: 48d462bf-0390-4887-89d9-883eaa131cfc
 price:
   cents: 995
   currency: EUR

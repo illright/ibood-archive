@@ -19,13 +19,14 @@ freeDelivery: false
 id: f3b3b616-4af6-547e-ac08-6a175d1f5e30
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1729612
+    - all
+  extension: image/png
+  id: b78413cc-8b1f-49a7-8e26-47c870985d75
   priority: 0
-  slug: lahti-pro-t-shirt
+  slug: 1-png-product-1
   type: product
 offerId: f08b91dd-c0cf-5a80-8c36-148a61f0bc6a
 price:

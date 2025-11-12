@@ -1,31 +1,32 @@
-_id: 6911ca20bdafa6f7ad1c34ee
+_id: 6911a82cc43cf76a0108f6e0
 appOnly: false
 brand: Beddinghouse DDesign
 brands:
   - id: efb0a85e-af44-5cfc-884e-61618013067d
     name: Beddinghouse DDesign
 categories:
-  - fe43ae2e-df9c-5889-ae63-7ec0165a94b7
-classicId: '2820394'
-classicProductId: '563184'
+  - 697c0ee6-0170-5930-a604-10cdcd9d882e
+classicId: '2819404'
+classicProductId: '495210'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 80
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: ad33bba8-391a-494d-87e3-667bc38fe9e4
+id: aae9c2e6-7843-4242-ab02-981c0740cdc2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1961262
+    - all
+  extension: image/jpeg
+  id: 5c3f5a8e-ee23-484a-ab98-d884f80e593a
   priority: 0
-  slug: beddinghouse-overtrek-katoensatijn-240-x-200220
+  slug: virtual-red-main-jpg-product-1
   type: product
 logo:
   channels:
@@ -35,17 +36,17 @@ logo:
   extension: png
   id: 1667109
   priority: 100
-  slug: beddinghouse-ddesign-logo
+  slug: beddinghouse-satin-bettwasche-240-x-200220-cm
   type: logo
-offerId: 5daed26d-f15c-4812-b044-31ad107eb644
+offerId: 5ac49b6f-a018-49a0-91d8-a0dd65425518
 price:
-  cents: 4295
+  cents: 3995
   currency: EUR
-  value: 42.95
+  value: 39.95
 referencePrice:
-  cents: 21995
+  cents: 19995
   currency: EUR
-  value: 219.95
+  value: 199.95
 slug: beddinghouse-overtrek-katoensatijn-240-x-200220
 soldOut: false
 start: '2025-11-10T23:00:00.000Z'

@@ -1,31 +1,32 @@
-_id: 690c75acd8e31e1c8e210273
+_id: 6911ca42180af628d2f30ac1
 appOnly: false
-brand: Cinderella
+brand: Dreamhouse
 brands:
-  - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
-    name: Cinderella
+  - id: f603b8a3-86da-5c59-a6ca-bd52f50a1da6
+    name: Dreamhouse
 categories:
-  - e071014a-53d7-5dda-a476-61279245799e
-classicId: '2817105'
-classicProductId: '193789'
+  - fe43ae2e-df9c-5889-ae63-7ec0165a94b7
+classicId: '2820434'
+classicProductId: '614049'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 64
+discount: 46
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: f06d7f67-ab1c-50b8-bc12-aaf88487bee3
+id: 8940e79e-1352-419d-bd7a-8fe780b3b719
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1376971
+    - all
+  extension: image/png
+  id: 66728a59-7cbc-4252-bfb7-06993e8f717c
   priority: 0
-  slug: dekbedovertrek-flanel-200-x-200220-cm
+  slug: dreamhouse-overtrek-flanel-200-x-200220-cm-product-3
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1632345
+  id: 1696825
   priority: 100
-  slug: dekbedovertrek-flanel-200-x-200220-cm
+  slug: dreamhouse-logo
   type: logo
-offerId: 63aacd29-ca8a-5ca7-a41c-50f31fbde514
+offerId: ed9f851c-4255-4286-bbc0-30b36f3e0d1c
 price:
-  cents: 6495
+  cents: 2695
   currency: EUR
-  value: 64.95
+  value: 26.95
 referencePrice:
-  cents: 17995
+  cents: 4995
   currency: EUR
-  value: 179.95
-slug: dekbedovertrek-flanel-200-x-200220-cm
+  value: 49.95
+slug: dreamhouse-overtrek-flanel-200-x-200220-cm
 soldOut: false
 start: '2025-11-10T23:00:00.000Z'
 title: Dekbedovertrek Flanel | 200 x 200/220 cm
