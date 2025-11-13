@@ -19,13 +19,16 @@ freeDelivery: false
 id: aa2b8007-4fb1-50db-a346-ab7500a5b0b2
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 590847
+  extension: image/png
+  id: 9683a234-972f-4e29-ba86-292c9abf3d0d-tr
   priority: 0
-  slug: 2x-woox-filament-smart-wifi-led-e27
+  slug: 2x-woox-smart-filament-led-e27-wlan-jpg-product-1
   type: product
 offerId: 2b867d6b-b255-547c-834c-4a5d1954d8dd
 price:

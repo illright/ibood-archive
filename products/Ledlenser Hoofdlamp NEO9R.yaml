@@ -19,13 +19,16 @@ freeDelivery: false
 id: 74cac724-bfd5-4c6f-861f-f5028c1dc189
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2181377
+  extension: image/png
+  id: 50b6eca2-65f6-410a-8eeb-f76c932c79ac-tr
   priority: 0
-  slug: ledlenser-hoofdlamp-neo9r
+  slug: ledlenser-hoofdlamp-neo9r-1-jpg-product-1
   type: product
 logo:
   channels:

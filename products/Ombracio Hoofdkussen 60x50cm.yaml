@@ -19,13 +19,16 @@ freeDelivery: false
 id: 49ee5631-748b-4be6-88af-147a0e0ab80f
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1995926
-  priority: 100
-  slug: tempur-ombracio-kopfkissen
+  extension: image/png
+  id: c9c21c57-6987-4bef-89b1-a91d24efef41-tr
+  priority: 0
+  slug: tempur-ombracio-kopfkissen-jpg-product-101
   type: product
 logo:
   channels:

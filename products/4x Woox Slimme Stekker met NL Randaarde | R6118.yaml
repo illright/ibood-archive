@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5eb32669-5e3e-5396-9dca-d46249f1e890
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 1617658
+  extension: image/png
+  id: 25b1f5d4-c233-4f21-b1ac-d165fee19bec-tr
   priority: 0
-  slug: 4x-woox-slimme-stekker-r6118
+  slug: 4x-woox-r6118-smarte-steckdose-png-product-1
   type: product
 offerId: bc98dd30-c10f-57ae-8b73-5b41f5e9c74f
 price:

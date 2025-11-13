@@ -1,22 +1,22 @@
-_id: 690b4864d8e31e1c8e20ff32
+_id: 69145ab63664df1f4b55dbaf
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 675b4ae1-508a-5d26-86c6-949014d30ec5
-classicId: '2816681'
+  - 957d2ccc-2a3f-5ece-9505-df1f6d54a161
+classicId: '2823857'
 classicProductId: '665100'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 51
-end: '2025-11-12T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: ab9e64fc-c42a-49c9-89ad-08cb05c74e23
+id: 1c3b2b3d-0493-4128-b2e3-438b50395624
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 94cc46a8-a3a8-42fd-a4dc-22eddcb2a6f3
+  id: d1f7081d-4497-4323-bd4b-dc1ec1fbca5c
   priority: 0
-  slug: mac-studio-main-png-product-1
+  slug: mac-studio-main-2-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: dc54f278-d727-42e1-b303-f7b8027bf48f
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 0dc129b9-50fa-4b8e-b3e0-906ab4be0e8c
+offerId: 91bc8916-a977-4e72-9f1b-34d0d1bcbc01
 price:
   cents: 119900
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 2429
 slug: apple-mac-studio-m2-max-12-core-cpu-30-core-gpu-32-gb-512gb
-soldOut: true
-start: '2025-11-05T23:00:00.000Z'
+soldOut: false
+start: '2025-11-12T23:00:00.000Z'
 title: Apple Mac Studio M2 Max | 12-Core CPU | 30-Core GPU | 32GB | 512GB | 2023

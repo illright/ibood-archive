@@ -19,13 +19,16 @@ freeDelivery: false
 id: 75837877-b0d5-529e-84be-6b807346d7a7
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1178124
+  extension: image/png
+  id: dabaa971-9fbc-4e7a-9050-0f42bf6db53d-tr
   priority: 0
-  slug: 2x-woox-smart-led-spot-gu10-r5143
+  slug: 2x-woox-smart-led-spot-gu10-r5143-jpg-product-1
   type: product
 offerId: 2c0de7de-08ee-5cbc-8a75-562a05843ad5
 price:

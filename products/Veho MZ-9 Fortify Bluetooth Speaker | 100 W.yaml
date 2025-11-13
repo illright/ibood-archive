@@ -1,12 +1,12 @@
-_id: 690b481dd8e31e1c8e20fe83
+_id: 69145a1c0030d10ffb442466
 appOnly: false
 brand: Veho
 brands:
   - id: dd7a10b7-03ce-50be-9c63-95b8034e4244
     name: Veho
 categories:
-  - 577db94a-b134-5e09-94cd-766b6020e13b
-classicId: '2816574'
+  - ba02aefb-f894-5820-875b-3e291e3ee909
+classicId: '2823714'
 classicProductId: '587085'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 66
-end: '2025-11-12T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: d9f74c48-a23a-4ccc-b248-abcb70d12188
+id: feccf985-ee78-4642-afc1-1ec6e42e4d4d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e699eeb7-d7ce-4891-b2ef-accbb11cee45
-  priority: 0
-  slug: veho-zb-4neb-bt-kopfhorer-png-logo-0
+  extension: png
+  id: 1529676
+  priority: 100
+  slug: veho-logo
   type: logo
-offerId: e49acac9-dfd2-437a-b899-25033de54f0a
+offerId: d5059b5d-577d-4f80-9f28-e753683e313d
 price:
   cents: 16995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 499.95
 slug: veho-mz-9-fortify-bluetooth-speaker-100-w
 soldOut: false
-start: '2025-11-05T23:00:00.000Z'
+start: '2025-11-12T23:00:00.000Z'
 title: Veho MZ-9 Fortify Bluetooth Speaker | 100 W

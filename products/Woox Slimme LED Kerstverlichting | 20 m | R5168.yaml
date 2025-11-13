@@ -1,12 +1,12 @@
-_id: 690875f69cb5d61ef8e6261f
+_id: 69145ab828447284b875a1b9
 appOnly: false
 brand: Woox
 brands:
   - id: 660903b4-0b47-529f-a6f5-b655f53736c7
     name: Woox
 categories:
-  - 713a8e63-7e4c-5b38-80a0-07af5b261262
-classicId: '2811150'
+  - 957d2ccc-2a3f-5ece-9505-df1f6d54a161
+classicId: '2823859'
 classicProductId: '581335'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2025-11-13T22:59:59.999Z'
+end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: b3921720-a48b-565e-9b5d-f375a1e6189a
+id: eb2ba607-24dd-4163-93c0-ad3d9965e5cc
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: woox-slimme-led-kerstverlichting-20-m-r5168
   type: product
-offerId: 98e7488e-55f7-57b3-88cf-8d73d925e166
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1660251
+  priority: 100
+  slug: woox-logo
+  type: logo
+offerId: 220dfcbf-b696-4d10-964b-2d198814ae9d
 price:
   cents: 1495
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 39.95
 slug: woox-slimme-led-kerstverlichting-20-m-r5168
 soldOut: false
-start: '2025-11-09T23:00:00.000Z'
+start: '2025-11-12T23:00:00.000Z'
 title: Woox Slimme LED Kerstverlichting | 20 m | R5168

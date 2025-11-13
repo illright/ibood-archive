@@ -1,12 +1,12 @@
-_id: 6911d365c8a310aef368440a
+_id: 690dbe9ce96f1bdd2d0a5389
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - 845f301b-f935-5799-83ee-19f6ad1e2a8a
-classicId: '2820541'
+  - 3297ecd3-9cfa-51b0-992b-59547e0af71e
+classicId: '2818408'
 classicProductId: '653805'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 48
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 5ef0823a-1e5f-4681-ae6f-63cbc443c39b
+id: 5291bff7-5ffd-4ad5-81c0-da4027760e76
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2011608
-  priority: 100
-  slug: reebok-logo
+    - all
+  extension: image/png
+  id: eb074689-5a8f-4635-a966-532207c82bf5
+  priority: 0
+  slug: reebok-png-logo-0
   type: logo
-offerId: 7de600f8-343b-4493-884e-e5371fdc2de3
+offerId: c4e8730b-5dc4-4aa9-a1c6-97234883d8fc
 price:
   cents: 5995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 114.99
 slug: reebok-nano-gym-schoenen-heren
 soldOut: false
-start: '2025-11-11T23:00:00.000Z'
+start: '2025-11-06T23:00:00.000Z'
 title: Reebok Nano Gym Schoenen | Heren
