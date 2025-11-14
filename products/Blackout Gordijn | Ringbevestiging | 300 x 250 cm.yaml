@@ -1,4 +1,4 @@
-_id: 6909f123120a71923ac14ec2
+_id: 6909f1245ae74a1a53f67eee
 appOnly: false
 brand: Larson
 brands:
@@ -6,36 +6,46 @@ brands:
     name: Larson
 categories:
   - fe43ae2e-df9c-5889-ae63-7ec0165a94b7
-classicId: '2814581'
-classicProductId: '76666'
+classicId: '2814579'
+classicProductId: '76664'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 80
+discount: 78
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 1051d9ca-6ee9-5248-8074-dd65e4255f1b
+id: 12f439ac-16a4-562d-9e30-91b8f51f4ce9
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 139029
-  priority: 7
+  id: 139027
+  priority: 11
   slug: larson-verdunkelungsvorhang-ringe-300-x-250-cm
   type: product
-offerId: f7cd3a82-ba0d-5cde-8a30-d1058e12c739
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1958834
+  priority: 100
+  slug: larson-verdunkelungsvorhang-ringe-300-x-250-cm
+  type: logo
+offerId: b9481906-8700-5cd0-a9e3-566082603234
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 9995
+  cents: 8995
   currency: EUR
-  value: 99.95
+  value: 89.95
 slug: larson-blackout-gordijn-ring-300-x-250
 soldOut: false
 start: '2025-11-10T23:00:00.000Z'

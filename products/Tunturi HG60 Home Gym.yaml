@@ -19,13 +19,16 @@ freeDelivery: false
 id: 17b7ac2f-c749-51f0-8bab-9a651e1803c7
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1061324
+  extension: image/png
+  id: 871fce52-8521-4c20-b4df-18c8f7874f9b-tr
   priority: 0
-  slug: tunturi-hg60-home-gym
+  slug: tunturi-hg60-home-gym-jpg-product-1
   type: product
 offerId: 26716539-ab58-5739-a7c2-9010d1ab3c5c
 price:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2370c369-3dd8-45c1-879e-22a7472eb8b4
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 2181720
+  extension: image/png
+  id: 42c1568d-ee77-4266-b449-b7508b6fd635-tr
   priority: 0
-  slug: ledlenser-hoofdlamp-h7r2
+  slug: ledlenser-h7r2-stirnlampe-png-product-1
   type: product
 logo:
   channels:

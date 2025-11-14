@@ -1,4 +1,4 @@
-_id: 690c99f58db55797707d161b
+_id: 69119d301848b1d5433c739b
 appOnly: false
 brand: Karl Lagerfeld
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Karl Lagerfeld
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817984'
+classicId: '2819279'
 classicProductId: '570006'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 68
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 195a3835-bf71-5f39-b11e-6b26a9e59a02
+id: 95ab0374-c4c6-457a-af4f-f7823376b4b7
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: karl-lagerfeld-paris-21-rue-saint-guillaume-edp
   type: product
-offerId: 9760974e-acb9-508f-96a4-eec9c3e5eae3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008198
+  priority: 100
+  slug: karl-lagerfeld-logo
+  type: logo
+offerId: 5e87d84e-0442-4216-af78-dd44dd1bc6d2
 price:
   cents: 1895
   currency: EUR

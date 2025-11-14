@@ -19,13 +19,16 @@ freeDelivery: false
 id: a0da85d1-43c0-5c52-a6c4-1c5f15e17b95
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1349695
+  extension: image/png
+  id: 416d4f9a-ab27-4267-bd7a-048271788338-tr
   priority: 0
-  slug: lahti-pro-jeans-werkbroek
+  slug: lahti-pro-l4051-jeans-arbeitshose-jpg-product-1
   type: product
 offerId: 36386b32-4192-5fa8-b798-5c592b1e4517
 price:

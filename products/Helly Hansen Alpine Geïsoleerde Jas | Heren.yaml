@@ -1,4 +1,4 @@
-_id: 69144d5d0030d10ffb44232a
+_id: 69144d53a9a3c0206c086790
 appOnly: false
 brand: Helly Hansen
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Helly Hansen
 categories:
   - 6ca4e6b4-89c7-591e-b37b-edd7f5e7acd4
-classicId: '2823582'
-classicProductId: '659596'
+classicId: '2823580'
+classicProductId: '659601'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 44
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: cc780ba7-9194-4b41-9012-6d976567a465
+id: 8763f628-7570-4552-b7f3-4ec241ed5eaa
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 9e62a187-a2a5-43ea-8e9c-e7054dfcc45d
+  id: 4abb37c5-979c-40e7-83a1-3b9ccd479e30
   priority: 0
-  slug: s-598-navy-65874-598-s-alpine-insulated-jacket-helly-hansen-product-2
+  slug: s-991-black-65874-991-s-alpine-insulated-jacket-helly-hansen-product-1
   type: product
-offerId: 1addc9de-65c8-4890-b663-2a3537977ed5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
+  type: logo
+offerId: 8aa33e90-f230-42b1-a38c-029d9a28453f
 price:
   cents: 13995
   currency: EUR
@@ -37,7 +47,7 @@ referencePrice:
   cents: 25000
   currency: EUR
   value: 250
-slug: helly-hansen-alpine-geisoleerde-jas-heren-navy
+slug: alpine-geisoleerde-jas-helly-hansen-heren-zwart
 soldOut: false
 start: '2025-11-11T23:00:00.000Z'
 title: Helly Hansen Alpine Geïsoleerde Jas | Heren

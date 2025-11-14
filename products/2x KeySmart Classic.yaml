@@ -19,13 +19,16 @@ freeDelivery: false
 id: 3f76296c-59c7-46c7-a0e7-ec960c3f4c4b
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2256762
-  priority: 2
-  slug: 2x-keysmart-classic-schlusselhalter
+  extension: image/png
+  id: f518145b-1197-413f-90dd-70d9aeacd3e2-tr
+  priority: 0
+  slug: 2x-keysmart-classic-schlusselhalter-jpg-product-1
   type: product
 offerId: e41a7f5d-1a91-446b-9118-865728476c09
 price:

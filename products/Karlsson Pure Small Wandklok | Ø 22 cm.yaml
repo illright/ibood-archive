@@ -19,13 +19,14 @@ freeDelivery: true
 id: 2f1538a3-5748-5851-855d-d3b69aa06b86
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2211178
+    - all
+  extension: image/jpeg
+  id: 057e0381-55bb-4733-b5a6-943008adae13
   priority: 0
-  slug: karlsson-pure-small-wandklok
+  slug: karlsson-pure-small-wanduhr-22-cm-jpg-product-2
   type: product
 logo:
   channels:

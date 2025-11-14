@@ -19,13 +19,16 @@ freeDelivery: false
 id: 91994569-77e5-51e0-bd15-e206d90cf269
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1162932
+  extension: image/png
+  id: e955c580-0dd3-40f5-acbc-32b571751a28-tr
   priority: 0
-  slug: 24x-72-kleenex-original-taschentucher
+  slug: 24x-72-kleenex-original-taschentucher-jpg-product-1
   type: product
 logo:
   channels:
