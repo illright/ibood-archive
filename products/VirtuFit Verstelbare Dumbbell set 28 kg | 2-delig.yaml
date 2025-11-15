@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5c59dce7-c45d-43df-9124-7d4e804b3289
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1392229
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d27d8fdb-1dd3-43f9-8b3d-649f871cf7ac-tr
   priority: 0
-  slug: virtufit-verstelbare-dumbbell-set-28-kg-2-delig
+  slug: 2x-virtufit-vinyl-hantel-je-14-kg-jpg-product-2
   type: product
 logo:
   channels:

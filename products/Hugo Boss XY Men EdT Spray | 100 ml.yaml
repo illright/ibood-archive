@@ -1,4 +1,4 @@
-_id: 690c99cc536bc37308c75ded
+_id: 69119d058ab6f422795016f5
 appOnly: false
 brand: Hugo Boss
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Hugo Boss
 categories:
   - ef2f9c88-c578-51c3-8ac6-48b336d8ed01
-classicId: '2817933'
+classicId: '2819227'
 classicProductId: '114931'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 56
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 2e895f7e-16ce-505b-a94b-7ddbef71f632
+id: f0cd2705-d9a0-46a7-9f8e-deea7ebcf7ac
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: hugo-boss-xy-men-edt-100-ml
   type: product
-offerId: 79f6d4a4-18a1-5f6c-b4ad-f25d19920e67
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1797875
+  priority: 100
+  slug: hugo-boss-logo
+  type: logo
+offerId: 78513a63-2b08-4e99-8d40-1903defb3c43
 price:
   cents: 3495
   currency: EUR

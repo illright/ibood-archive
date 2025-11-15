@@ -1,4 +1,4 @@
-_id: 69145c7b28447284b875a2f7
+_id: 69171d8e4a6b69984dc116c6
 appOnly: false
 brand: Pyrex
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Pyrex
 categories:
   - d0467782-b123-5d4d-a78d-272ed49a2196
-classicId: '2824206'
-classicProductId: '76441'
+classicId: '2826450'
+classicProductId: '76444'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,18 +16,27 @@ directCheckout: true
 discount: 60
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: aec78cd3-d9f9-4e2d-9eb1-aefc2ff0becc
+id: 63a8d60c-6c99-46b8-91cd-eab5c7692604
 image:
   channels:
-    - website
     - app
-    - newsletter
   extension: jpg
-  id: 446183
-  priority: 8
+  id: 821864
+  priority: 0
   slug: pyrex-slowcook-ovaal-33-cm-58-l
   type: product
-offerId: 8a5d5a2c-1fa3-48b3-be87-a5abcfa17c74
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 752a9045-7a03-43bb-b0c5-d6365973ed06
+  priority: 0
+  slug: pyrex-logo-0
+  type: logo
+offerId: 6c03e8e4-2aea-4236-913e-bc407c98a1f2
 price:
   cents: 7995
   currency: EUR
