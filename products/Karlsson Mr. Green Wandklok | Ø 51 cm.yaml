@@ -19,13 +19,16 @@ freeDelivery: true
 id: bb89644c-f55e-51bc-8e93-c620558f3cdc
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2211153
+  extension: image/png
+  id: 88a65cbe-54cb-45ec-bb16-97826f2e827f-tr
   priority: 0
-  slug: karlsson-mr-green-wanduhr-grun-51-cm
+  slug: karlsson-mr-green-wanduhr-grun-51-cm-1-jpg-product-1
   type: product
 logo:
   channels:

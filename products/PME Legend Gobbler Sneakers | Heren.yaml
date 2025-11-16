@@ -1,32 +1,31 @@
-_id: 69021b36779f0de6913f3de7
+_id: 6908b8ef66f95b91aae6a776
 appOnly: false
 brand: PME Legend
 brands:
   - id: 9c38479a-ce20-5e2e-bcab-88b0a1bd612b
     name: PME Legend
 categories:
-  - c7afcb68-7379-5497-8e17-0df61130cb74
-classicId: '2808045'
-classicProductId: '614204'
+  - 2b3878f4-36ed-57a9-8021-34080fe1d3d1
+classicId: '2812880'
+classicProductId: '586280'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 68
+discount: 55
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 24b38252-04b2-4ae5-9a5e-a8f6d67a3ef5
+id: 6764b593-d201-47fc-b176-d822a77abed1
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b138ea45-5148-4430-8cb5-ce0d8028365f
+  extension: png
+  id: 2020006
   priority: 0
-  slug: pme-legend-gobbler-men-pbo2402250-product-4
+  slug: pme-legend-gobbler-sneakers-heren
   type: product
 logo:
   channels:
@@ -34,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1505855
+  id: 2018229
   priority: 100
-  slug: pme-legend-logo
+  slug: pme-legend-gobbler-sneakers-heren
   type: logo
-offerId: 15a14f13-9fc1-4c42-8cee-7fed6db7e511
+offerId: c5d1f72b-a00b-4a12-8427-4cf6a70e165e
 price:
-  cents: 3495
+  cents: 4995
   currency: EUR
-  value: 34.95
+  value: 49.95
 referencePrice:
-  cents: 10999
+  cents: 10995
   currency: EUR
-  value: 109.99
-slug: pme-legend-gobbler-men-pbo2402250
-soldOut: false
-start: '2025-10-29T23:00:00.000Z'
+  value: 109.95
+slug: pme-legend-gobbler-sneakers-heren
+soldOut: true
+start: '2025-11-11T23:00:00.000Z'
 title: PME Legend Gobbler Sneakers | Heren

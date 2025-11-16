@@ -1,4 +1,4 @@
-_id: 690334f647a4b351708f9612
+_id: 690334ee47a4b351708f9602
 appOnly: false
 brand: De Witte Lietaer
 brands:
@@ -6,8 +6,8 @@ brands:
     name: De Witte Lietaer
 categories:
   - fe43ae2e-df9c-5889-ae63-7ec0165a94b7
-classicId: '2808424'
-classicProductId: '212384'
+classicId: '2808419'
+classicProductId: '212386'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,19 @@ directCheckout: true
 discount: 50
 end: '2025-11-16T22:59:59.999Z'
 freeDelivery: false
-id: 627bfa62-1110-502e-bb8e-088d3910aeeb
+id: 5ec3a4be-c646-51fe-af91-53d098245a88
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 533703
-  priority: 15
-  slug: bettwasche-zygo-240-x-220-cm
+    - all
+  extension: image/png
+  id: afd86036-5236-44a9-b467-d498d48f22e2
+  priority: 0
+  slug: dwl01-png-product-19
   type: product
-offerId: 676c67d0-69f3-5ab4-b828-37b20419f2b7
+offerId: b289abfe-35ac-5679-9f31-2fd1a1820a1c
 price:
   cents: 9995
   currency: EUR
