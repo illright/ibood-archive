@@ -1,4 +1,4 @@
-_id: 690b6086d8e31e1c8e2100fc
+_id: 690b607ed8e31e1c8e2100f7
 appOnly: false
 brand: ROBEY
 brands:
@@ -6,8 +6,8 @@ brands:
     name: ROBEY
 categories:
   - e2ec2916-48f9-5afc-bd42-caa80721eaa3
-classicId: '2816896'
-classicProductId: '667108'
+classicId: '2816893'
+classicProductId: '667097'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 42
 end: '2025-11-17T22:59:59.999Z'
 freeDelivery: false
-id: 1b26c8f6-ddc6-5801-a2f0-69a0ec79a607
+id: 761c5596-2952-5110-ab8a-6d9f7dd099b3
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 57ed1110-9883-44e5-8133-4fca788d9fb5
+  id: b2a4878f-2ae4-4d33-8ff8-db5fa1414d0d
   priority: 0
-  slug: s-black-orange-950-rs3004-unisex-performance-half-zip-top-robey-product-2
+  slug: m-black-yellow-940-rs3004-unisex-performance-half-zip-top-robey-product-2
   type: product
-offerId: 4b410cd4-9c30-5ba1-8287-e6eac4f55e6c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 12b32152-12fb-44ac-b92c-bf14de1b7bdf
+  priority: 0
+  slug: robey-png-logo-0
+  type: logo
+offerId: 86e19c06-86ad-5270-80e5-918d386dc125
 price:
   cents: 3195
   currency: EUR
