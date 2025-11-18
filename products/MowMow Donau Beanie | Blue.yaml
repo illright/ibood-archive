@@ -1,12 +1,12 @@
-_id: 690373e984045684bd8600ec
+_id: 691afe78c3fcbde1baa810ac
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - 124c5023-d8ab-5c04-be85-465d30f653fe
-classicId: '2808984'
+  - 563219af-1813-5a1e-853b-1d08492adeb2
+classicId: '2828012'
 classicProductId: '676262'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 19fc2b11-e78d-5735-bdc8-bb2e935d46c5
+id: 798a1fd1-732e-4d30-bce0-7c60961efd24
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: blue-mmmm-d32-donau-beanie-merino-mowmow-product-1
   type: product
-offerId: b8463823-24b8-5dbe-82ab-0d4505e70397
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3c333314-56d0-41dd-8949-3fdf72d33365
+  priority: 0
+  slug: mowmow-logo-0
+  type: logo
+offerId: 9dc99cba-90b5-4ecb-a8e9-2a75c682565d
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 34.95
 slug: mowmow-donau-beanie-blue
 soldOut: false
-start: '2025-11-12T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: MowMow Donau Beanie | Blue

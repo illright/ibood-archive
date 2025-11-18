@@ -1,22 +1,22 @@
-_id: 690dbdbcbc58fd57eab1faf6
+_id: 691af85dade54afe1a9cc267
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - f0c733e5-c915-59b7-bc9a-2d82038294b0
-classicId: '2818176'
+  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
+classicId: '2827209'
 classicProductId: '435005'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 27
-end: '2025-11-17T22:59:59.999Z'
+directCheckout: true
+discount: 29
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 9160a917-47db-5d97-b63f-0190a7cd0966
+id: de43f09e-a48c-4a6c-a507-104ba557853a
 image:
   channels:
     - website
@@ -24,19 +24,29 @@ image:
     - newsletter
   extension: jpg
   id: 1443195
-  priority: 0
-  slug: lahti-pro-oxford-arbeitshalbschuhe-leder
+  priority: 100
+  slug: lahti-leren-werkschoenen
   type: product
-offerId: 01f8a18a-6280-5d53-80d6-171ec8767643
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1591171
+  priority: 100
+  slug: lahti-pro-logo
+  type: logo
+offerId: 79308e84-0bdd-44f5-b95f-3130071d89c2
 price:
-  cents: 3995
+  cents: 3895
   currency: EUR
-  value: 39.95
+  value: 38.95
 referencePrice:
   cents: 5495
   currency: EUR
   value: 54.95
 slug: lahti-leren-werkschoenen
 soldOut: false
-start: '2025-11-10T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: Lahti Oxford Leren Werkschoenen

@@ -1,0 +1,53 @@
+_id: 691b1e9941d3e9d802217fe0
+appOnly: false
+brand: Café Royal
+brands:
+  - id: d149b760-f0c5-504f-aaaa-03d2788a3714
+    name: Café Royal
+categories:
+  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
+classicId: '2830298'
+classicProductId: '671333'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 38
+end: '2025-11-19T22:59:59.999Z'
+freeDelivery: false
+id: 787791d3-ba06-42be-ac32-410cf5f7615c
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 45380005-ed93-44aa-9b8b-d2c1d60ce9e0
+  priority: 0
+  slug: cafe-royal-05-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1983334
+  priority: 100
+  slug: cafe-royal-logo
+  type: logo
+offerId: 058aa026-3bc8-4f00-9f80-28816f2509ba
+price:
+  cents: 2195
+  currency: EUR
+  value: 21.95
+referencePrice:
+  cents: 3550
+  currency: EUR
+  value: 35.5
+slug: 100x-cafe-royal-chocolate-peanut-capsule
+soldOut: false
+start: '2025-11-17T23:00:00.000Z'
+title: 100x Café Royal Chocolate Peanut Capsule

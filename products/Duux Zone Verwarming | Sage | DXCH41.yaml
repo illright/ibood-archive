@@ -1,12 +1,12 @@
-_id: 6895adf829baf1653c979d79
+_id: 691b350de031760fed975c85
 appOnly: false
 brand: Duux
 brands:
   - id: ee0464f7-a5fb-5f85-b907-8b2578d2f118
     name: Duux
 categories:
-  - 6e7b05b2-5c56-5ac1-aba9-7892a078a73f
-classicId: '2722596'
+  - 81e85a4d-ff4a-58fc-a9eb-3edb05ec30d0
+classicId: '2832013'
 classicProductId: '658293'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 44921842-b056-5af5-8f1a-268fbfbdbe1d
+id: cdf81a79-3e58-449c-ace8-194779de708b
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9615422e-f7ef-4496-ab31-bab91741be4d
-  priority: 0
-  slug: duux-png-logo-0
+  extension: png
+  id: 1695408
+  priority: 100
+  slug: duux-logo
   type: logo
-offerId: 99ef80f1-103b-5c41-9d88-7ef390260739
+offerId: 43739970-2f48-4ebb-951c-bbf0aaaa0616
 price:
-  cents: 3999
+  cents: 3995
   currency: EUR
-  value: 39.99
+  value: 39.95
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: duux-zone-heater-sage
 soldOut: false
-start: '2025-11-16T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: Duux Zone Verwarming | Sage | DXCH41

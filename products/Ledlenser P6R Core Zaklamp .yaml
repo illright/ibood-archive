@@ -1,22 +1,22 @@
-_id: 69086de066f95b91aae69c50
+_id: 691af902abfeb5b3f71ee870
 appOnly: false
 brand: LedLenser
 brands:
   - id: 2ec06e75-31b3-50d7-8a47-d22814e936ca
     name: LedLenser
 categories:
-  - 6189a835-3335-5d48-b8b7-95fea4f87803
-classicId: '2810501'
+  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
+classicId: '2827487'
 classicProductId: '622270'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 65
-end: '2025-11-17T22:59:59.999Z'
+discount: 66
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 9b319b81-d097-5f8a-9147-98e8336eb72e
+id: 823b88c9-d747-47b1-a953-4c95f4b8a28d
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: ledlenser-p6r-core-taschenlampe
   type: product
-offerId: 3d11c377-ee08-52d1-b93e-647c7fe82306
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1773932
+  priority: 100
+  slug: ledlenser-logo
+  type: logo
+offerId: c47455e9-c1b0-4ee9-9c91-af3d8a544834
 price:
-  cents: 3495
+  cents: 3395
   currency: EUR
-  value: 34.95
+  value: 33.95
 referencePrice:
   cents: 9990
   currency: EUR
   value: 99.9
 slug: ledlenser-p6r-core-zaklamp
 soldOut: false
-start: '2025-11-16T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: 'Ledlenser P6R Core Zaklamp '

@@ -1,12 +1,12 @@
-_id: 690370793d49cc205b438928
+_id: 691afe79c3fcbde1baa810af
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - 124c5023-d8ab-5c04-be85-465d30f653fe
-classicId: '2808919'
+  - 563219af-1813-5a1e-853b-1d08492adeb2
+classicId: '2828014'
 classicProductId: '610081'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: ef6152ae-2117-5b70-8e2c-c32f306139f2
+id: c78b9c50-f9e7-448a-b369-753583bdce3f
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: mowmow-marble-merino-beanie-jpg-product-101
   type: product
-offerId: 7bbb5637-907d-5fa8-b803-de6032214e18
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3c333314-56d0-41dd-8949-3fdf72d33365
+  priority: 0
+  slug: mowmow-logo-0
+  type: logo
+offerId: 5075e805-713c-4cc0-932d-318873653a32
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 34.95
 slug: mowmow-marble-beanie-grey
 soldOut: false
-start: '2025-11-12T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: MowMow Marble Beanie | Grey

@@ -1,36 +1,44 @@
-_id: 690b665c405d30345ad16539
+_id: 691afdecf92adfe4439312df
 appOnly: false
 brand: ROBEY
 brands:
   - id: 82e8e076-54ff-566a-a794-c1ba2fad56e9
     name: ROBEY
 categories:
-  - e2ec2916-48f9-5afc-bd42-caa80721eaa3
-classicId: '2816945'
-classicProductId: '677212'
+  - 563219af-1813-5a1e-853b-1d08492adeb2
+classicId: '2827875'
+classicProductId: '667144'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 4b274e59-781d-592d-922b-fe571a649236
+id: 558d72cf-4b65-40aa-99ef-26f5953cf42e
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: a65fa047-2ae9-4561-9b33-9e9ca52be87a-tr
+  id: 014da465-963d-4d4b-a520-f2653b934dd9
   priority: 0
-  slug: s-dark-grey-806-rs3006-unisex-playmaker-training-top-robey-product-7
+  slug: l-white-100-rs3006-unisex-playmaker-training-top-robey-product-1
   type: product
-offerId: 49df70d7-9bc1-57d8-a3e3-8ba901ff9e1e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1706266
+  priority: 100
+  slug: robey-logo
+  type: logo
+offerId: 11f81a8c-e643-41a2-a440-de6c575e20ed
 price:
   cents: 2695
   currency: EUR
@@ -41,5 +49,5 @@ referencePrice:
   value: 67.95
 slug: robey-playmaker-half-zip-top-unisex
 soldOut: false
-start: '2025-11-11T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: Robey Playmaker Half-Zip Top | Unisex

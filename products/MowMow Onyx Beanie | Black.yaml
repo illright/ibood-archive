@@ -1,12 +1,12 @@
-_id: 6903707a3d49cc205b43892b
+_id: 691afe79f92adfe4439313b7
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - 124c5023-d8ab-5c04-be85-465d30f653fe
-classicId: '2808920'
+  - 563219af-1813-5a1e-853b-1d08492adeb2
+classicId: '2828015'
 classicProductId: '610082'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: a9d75c95-e342-5cff-8702-dfef1f8bd141
+id: 31fe81c9-ef4e-4a3e-b54c-63bddb2a454b
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: mowmow-onyx-merino-beanie-jpg-product-1
   type: product
-offerId: 3f026440-c458-569e-ba2b-f353325ac6c9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3c333314-56d0-41dd-8949-3fdf72d33365
+  priority: 0
+  slug: mowmow-logo-0
+  type: logo
+offerId: 1b435758-d8ef-4da7-9db1-820f4950cc5c
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 34.95
 slug: mowmow-onyx-beanie-black
 soldOut: false
-start: '2025-11-12T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: MowMow Onyx Beanie | Black

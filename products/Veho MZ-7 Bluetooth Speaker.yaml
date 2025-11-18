@@ -1,12 +1,12 @@
-_id: 690dc0241554ceabdde7b209
+_id: 691598112bae2052665a410c
 appOnly: false
 brand: Veho
 brands:
   - id: dd7a10b7-03ce-50be-9c63-95b8034e4244
     name: Veho
 categories:
-  - 060ce7ed-1215-57e8-8737-64a59edc3a03
-classicId: '2818301'
+  - 8c42e6aa-1e25-5947-aa52-0c27cf1182ed
+classicId: '2825297'
 classicProductId: '407559'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 82
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: c9d7811a-f501-5455-a3f4-1eebbaa9b93d
+id: adccce54-d73e-504a-b439-46735af6083a
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0576cd6c-d3e7-47e4-abd1-4398b81738c3
-  priority: 0
-  slug: veho-zb-4neb-bt-kopfhorer-png-logo-0
+  extension: png
+  id: 1529676
+  priority: 100
+  slug: veho-logo
   type: logo
-offerId: f13a3eb6-ee1e-5967-ac32-c2543ce08ca0
+offerId: 3963895d-62c0-58f6-930a-be17f7f3c1d0
 price:
   cents: 6995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 399
 slug: veho-mz-7-bluetooth-speaker
 soldOut: false
-start: '2025-11-12T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: Veho MZ-7 Bluetooth Speaker

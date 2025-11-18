@@ -1,12 +1,12 @@
-_id: 69037420b1cdd82e8750d2ad
+_id: 691afe72abfeb5b3f71eebd6
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - 124c5023-d8ab-5c04-be85-465d30f653fe
-classicId: '2808987'
+  - 563219af-1813-5a1e-853b-1d08492adeb2
+classicId: '2828003'
 classicProductId: '676264'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 4f0fd65f-aef9-5643-9f43-62a6eff93ac8
+id: 26e5b745-4ca8-466c-85b3-64d11dc215a7
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: green-mmmm-d35-maas-beanie-merino-mowmow-product-0
   type: product
-offerId: e760087a-0961-5d6b-8344-7247f1d03ad2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3c333314-56d0-41dd-8949-3fdf72d33365
+  priority: 0
+  slug: mowmow-logo-0
+  type: logo
+offerId: 53038a42-b4ec-4e3f-9983-cfa86e6eb6fc
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 34.95
 slug: mowmow-maas-beanie-green
 soldOut: false
-start: '2025-11-12T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: MowMow Maas Beanie | Green

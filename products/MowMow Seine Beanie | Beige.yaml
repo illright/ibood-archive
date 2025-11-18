@@ -1,12 +1,12 @@
-_id: 6903741f3d49cc205b43899f
+_id: 691afe78c3fcbde1baa810aa
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - 124c5023-d8ab-5c04-be85-465d30f653fe
-classicId: '2808986'
+  - 563219af-1813-5a1e-853b-1d08492adeb2
+classicId: '2828013'
 classicProductId: '676263'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: f9915fab-78ba-589b-94ae-fabb5f367089
+id: 3a3b7263-021c-4c5d-8b3e-2a5e4274bede
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: beige-mmmm-d33-seine-beanie-merino-mowmow-product-1
   type: product
-offerId: 4706df06-07f2-5c29-bf1d-9c300a7175f1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3c333314-56d0-41dd-8949-3fdf72d33365
+  priority: 0
+  slug: mowmow-logo-0
+  type: logo
+offerId: 9cd3632a-04c4-44e1-ae95-f454cd094792
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 34.95
 slug: mowmow-seine-beanie-beige
 soldOut: false
-start: '2025-11-12T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: MowMow Seine Beanie | Beige

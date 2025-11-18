@@ -1,12 +1,12 @@
-_id: 690373e6869c6d47235c4467
+_id: 691afe758195a25d979c2c7e
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - 124c5023-d8ab-5c04-be85-465d30f653fe
-classicId: '2808981'
+  - 563219af-1813-5a1e-853b-1d08492adeb2
+classicId: '2828008'
 classicProductId: '676259'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: b7287775-4a13-5980-aae6-387462b63e84
+id: 8b056d84-c1b4-4e60-b968-f2a14060ad7a
 image:
   channels:
     - website
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 69a48bbb-137c-539a-87a9-5d28f57d1567
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3c333314-56d0-41dd-8949-3fdf72d33365
+  priority: 0
+  slug: mowmow-logo-0
+  type: logo
+offerId: 790b5adc-f6d1-4d06-bb1f-353254b9eefe
 price:
   cents: 2195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 34.95
 slug: mowmow-birch-beanie-beige
 soldOut: false
-start: '2025-11-12T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: 'MowMow Birch Beanie | Beige '

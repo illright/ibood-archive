@@ -1,12 +1,12 @@
-_id: 6909dd255ae74a1a53f67cfc
+_id: 691321c2854d0e81bfbabc1a
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 716e5356-1155-5c0a-94fc-ef363e827176
-classicId: '2814357'
+  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
+classicId: '2822848'
 classicProductId: '535268'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 34546f59-8298-5fd2-8264-2976682cda66
+id: aafc4e5c-da59-5c9c-96ed-64566059bb92
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: bamboo-10-png-product-1
   type: product
-offerId: 4f908aa8-2d27-5da9-b2b7-7fcc064166b6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3286e485-1103-496c-bff9-8a41c18122e7
+  priority: 0
+  slug: bamboo-elements-png-logo-0
+  type: logo
+offerId: de4a209a-32d9-5517-8d4f-d8b3ea30b749
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 29.95
 slug: 2x-bamboo-singlet-dames
 soldOut: false
-start: '2025-11-09T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: 2x Bamboo Singlet | Dames

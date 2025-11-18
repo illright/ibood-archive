@@ -1,12 +1,12 @@
-_id: 690373da869c6d47235c445f
+_id: 691afe76abfeb5b3f71eebe4
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - 124c5023-d8ab-5c04-be85-465d30f653fe
-classicId: '2808980'
+  - 563219af-1813-5a1e-853b-1d08492adeb2
+classicId: '2828010'
 classicProductId: '676257'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-17T22:59:59.999Z'
+end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 3d3bfa7b-a02b-5c3b-b118-d55b41ae805b
+id: 407b02b5-5f3b-4f4d-973e-72138e5195ef
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: black-mmmm-c21-oak-beanie-merino-mowmow-product-0
   type: product
-offerId: 6a871477-3ed8-52fc-9e91-dc2885c812e0
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3c333314-56d0-41dd-8949-3fdf72d33365
+  priority: 0
+  slug: mowmow-logo-0
+  type: logo
+offerId: 6b0ce513-634b-4b0a-aa76-362037f51ea8
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 34.95
 slug: mowmow-oak-beanie-black
 soldOut: false
-start: '2025-11-12T23:00:00.000Z'
+start: '2025-11-17T23:00:00.000Z'
 title: MowMow Oak Beanie | Black
