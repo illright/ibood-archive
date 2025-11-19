@@ -1,4 +1,4 @@
-_id: 691b2dc36180c7cbc239d1e7
+_id: 691c3c1ccc7c93f350e113a1
 appOnly: false
 brand: Apple
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Apple
 categories:
   - dbba2784-289e-59f4-beb3-f8552c761e2b
-classicId: '2831850'
-classicProductId: '677104'
+classicId: '2832275'
+classicProductId: '654697'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
-discount: 33
+discount: 44
 end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 9b03f006-71e5-47f7-9d83-1c27d229c903
+id: 6375ca9d-a6dc-49a8-b4ea-575bf850ceed
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 11f03b62-aaa1-41af-bcf7-fc142ac6db02
+  extension: png
+  id: 2108940
   priority: 0
-  slug: adapter-main-png-product-0
+  slug: 2x-apple-usbc-power-adapter-30-w
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: 48e1493e-0528-419b-a77d-590df6f7dc66
+offerId: 309f69aa-6931-4309-b4d0-14d22654751b
 price:
-  cents: 5995
+  cents: 4995
   currency: EUR
-  value: 59.95
+  value: 49.95
 referencePrice:
   cents: 9000
   currency: EUR
   value: 90
 slug: 2x-apple-usb-c-lichtnetadapter-30-w
-soldOut: false
+soldOut: true
 start: '2025-11-17T23:00:00.000Z'
 title: 2x Apple USB-C Lichtnetadapter | 30 W

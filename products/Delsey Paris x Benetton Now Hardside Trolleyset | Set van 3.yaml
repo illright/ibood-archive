@@ -1,4 +1,4 @@
-_id: 691b130099c6d73bdd53ba38
+_id: 6911e293beb4010332f40ac2
 appOnly: false
 brand: Delsey
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Delsey
 categories:
   - 6d92414f-c773-5e05-8000-315af3dd31a1
-classicId: '2829024'
+classicId: '2821126'
 classicProductId: '665223'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 58
+directCheckout: false
+discount: 60
 end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: bd264b15-08ef-4260-a445-0ad8f55d94e1
+id: 003995c2-30c5-57af-886a-e3f08af9f00f
 image:
   channels:
     - app
@@ -28,21 +28,11 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1612713
-  priority: 100
-  slug: delsey-logo
-  type: logo
-offerId: d1a457d4-fc70-41ee-a9ce-4e9108fd634a
+offerId: 0f73e02b-5e44-5d99-bb78-01c4f6e3fef0
 price:
-  cents: 15995
+  cents: 14995
   currency: EUR
-  value: 159.95
+  value: 149.95
 referencePrice:
   cents: 37900
   currency: EUR

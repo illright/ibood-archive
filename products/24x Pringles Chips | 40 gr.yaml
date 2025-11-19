@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 25
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: afd2a8b8-f097-4bd4-8ddb-978c4abf02fd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1423161
+    - all
+  extension: image/png
+  id: 9a0531ef-2923-45f5-b1de-4b85ebb1460c
   priority: 0
-  slug: 24x-pringles-versch-sorten-40-g
+  slug: pringels-01-png-product-1
   type: product
 logo:
   channels:

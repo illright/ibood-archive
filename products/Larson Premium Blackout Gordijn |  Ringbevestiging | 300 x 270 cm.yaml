@@ -1,4 +1,4 @@
-_id: 6909f46f80ac3e31ef8cfaa6
+_id: 6909f46d31d3147cf6f360ba
 appOnly: false
 brand: Larson
 brands:
@@ -6,36 +6,46 @@ brands:
     name: Larson
 categories:
   - e1d14f0d-0925-54b3-839c-78e31e7d8586
-classicId: '2814742'
-classicProductId: '252768'
+classicId: '2814741'
+classicProductId: '252766'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 86
+discount: 82
 end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: d32aac9b-3ef6-54cf-9098-7aaa605b6b4f
+id: a2428087-d7cd-5907-929b-f58fd68ccec3
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 926637
-  priority: 27
+  id: 926706
+  priority: 23
   slug: larson-blackout-gordijn-ring-300-x-270-cm
   type: product
-offerId: 579caaac-ef12-5bf8-9be2-eac89255ee3e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 856090
+  priority: 100
+  slug: larson-logo
+  type: logo
+offerId: eaeac27d-928f-5c87-9ca3-cefb048fc47b
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 13995
+  cents: 10995
   currency: EUR
-  value: 139.95
+  value: 109.95
 slug: larson-blackout-gordijn-ring-300-x-270-cm
 soldOut: false
 start: '2025-11-17T23:00:00.000Z'

@@ -1,4 +1,4 @@
-_id: 69146c53a9a3c0206c0869bd
+_id: 691afe64f92adfe443931386
 appOnly: false
 brand: Heat Essentials
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Heat Essentials
 categories:
   - 563219af-1813-5a1e-853b-1d08492adeb2
-classicId: '2824497'
-classicProductId: '588328'
+classicId: '2827986'
+classicProductId: '508649'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 60
+directCheckout: true
+discount: 72
 end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 181b9724-d78f-5621-9850-8116edd78b8c
+id: a5e282c8-5304-48a9-93b9-80161fcbc34a
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: heat-essentials-fleece-thermo-legging-heren
   type: product
-offerId: 45686c08-b4a9-53af-a515-4545e9f27a76
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1643389
+  priority: 100
+  slug: heat-essentials-logo
+  type: logo
+offerId: f35f673c-c0f0-4698-b30a-25306744afa4
 price:
-  cents: 995
+  cents: 695
   currency: EUR
-  value: 9.95
+  value: 6.95
 referencePrice:
   cents: 2495
   currency: EUR
   value: 24.95
 slug: heat-essentials-fleece-thermo-legging-heren
-soldOut: false
+soldOut: true
 start: '2025-11-17T23:00:00.000Z'
 title: Heat Essentials Fleece Thermo Legging | Heren

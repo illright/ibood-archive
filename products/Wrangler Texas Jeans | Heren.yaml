@@ -1,4 +1,4 @@
-_id: 691b1e0d7dfda03a8b6df2b6
+_id: 691b1f37936de5a6b487b1a5
 appOnly: false
 brand: Wrangler
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Wrangler
 categories:
   - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2829863'
-classicProductId: '656816'
+classicId: '2830962'
+classicProductId: '597933'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
+directCheckout: true
+discount: 89
 end: '2025-11-19T22:59:59.000Z'
 freeDelivery: false
-id: 20f3206e-cb04-47b0-86d4-b863fe6b4c84
+id: 7f403d79-d01f-4f5c-a491-484283ba4563
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 249d5977-8320-424c-826e-6d489a21dfed
+  extension: png
+  id: 2093041
   priority: 0
-  slug: wrangler-mainz-png-product-1
+  slug: wrangler-texas-jeans
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: wrangler-logo
   type: logo
-offerId: c3ccda4b-0546-445b-bb65-bddab10560e2
+offerId: 39e82917-fd1e-4cdd-9d4f-a8df9edd80bf
 price:
-  cents: 4495
+  cents: 995
   currency: EUR
-  value: 44.95
+  value: 9.95
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
-slug: wrangler-texas-jeans-heren
-soldOut: false
+slug: wrangler-texas-jeans
+soldOut: true
 start: '2025-11-17T23:00:00.000Z'
 title: Wrangler Texas Jeans | Heren

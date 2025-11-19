@@ -1,4 +1,4 @@
-_id: 691b2da63befe883388b7d97
+_id: 691c6d7f52302f890278f687
 appOnly: false
 brand: Technivolt
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Technivolt
 categories:
   - dbba2784-289e-59f4-beb3-f8552c761e2b
-classicId: '2831795'
+classicId: '2832503'
 classicProductId: '542025'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 76
 end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: cf28f4d2-fc7e-43dd-8a6e-bee4521868a6
+id: 14c525b6-e96f-47d5-958b-e4eb843e2a14
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 501200e3-451a-4790-8ecb-7f1ab4719a58
+  extension: png
+  id: 1815982
   priority: 0
-  slug: dingeroo-png-product-1
+  slug: technisat-technivolt-100-e-auto-laadstation-11kw
   type: product
 logo:
   channels:
@@ -36,9 +35,9 @@ logo:
   extension: png
   id: 1816096
   priority: 100
-  slug: technisat-technivolt-100-e-auto-laadstation-11kw
+  slug: technivolt-logo
   type: logo
-offerId: 289b0631-a2fd-41d7-b517-69af0a2ea2ef
+offerId: 0607f34c-a6b7-4589-a43a-d999853ca5e5
 price:
   cents: 16900
   currency: EUR

@@ -19,24 +19,15 @@ freeDelivery: false
 id: 8e953b62-ef37-4954-b96e-14e414ca642c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1645634
+    - all
+  extension: image/png
+  id: fd691274-2ed2-403e-bc59-1723f349f7ae
   priority: 0
-  slug: jack-jones-glenn-jj-original-jeans
+  slug: jack-jones-144-png-product-2
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1642196
-  priority: 100
-  slug: jack-jones-glenn-jj-original-jeans
-  type: logo
 offerId: 51f4088d-caba-49b2-a472-e9064e78b86e
 price:
   cents: 2495

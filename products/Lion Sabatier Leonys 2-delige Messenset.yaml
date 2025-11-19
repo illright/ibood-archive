@@ -1,4 +1,4 @@
-_id: 69086ca819fc4344edc92526
+_id: 691af56eade54afe1a9cc1a8
 appOnly: false
 brand: SABATIER
 brands:
@@ -6,17 +6,17 @@ brands:
     name: SABATIER
 categories:
   - 187c4f88-19f4-5624-a26a-ee444568b23b
-classicId: '2810500'
+classicId: '2826855'
 classicProductId: '183777'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 57
+discount: 42
 end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 151ef7f1-13f2-5e0f-87df-950e29128ca1
+id: 4adf23cb-60e7-42ec-89b7-27b0a4e14e05
 image:
   channels:
     - website
@@ -27,15 +27,25 @@ image:
   priority: 0
   slug: lion-sabatier-intl-leonys-2-delige-messenset
   type: product
-offerId: 1b94623c-2d39-5f1f-8fa5-8c07c31ca874
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1992717
+  priority: 100
+  slug: sabatier-logo
+  type: logo
+offerId: f9ffcfd9-5964-4a1b-8a16-92280140d22e
 price:
-  cents: 1695
+  cents: 1795
   currency: EUR
-  value: 16.95
+  value: 17.95
 referencePrice:
-  cents: 3950
+  cents: 3100
   currency: EUR
-  value: 39.5
+  value: 31
 slug: lion-sabatier-intl-leonys-2-delige-messenset
 soldOut: false
 start: '2025-11-17T23:00:00.000Z'

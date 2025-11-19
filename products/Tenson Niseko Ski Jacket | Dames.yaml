@@ -1,4 +1,4 @@
-_id: 691afd2cf92adfe44393113b
+_id: 691afd2af92adfe443931131
 appOnly: false
 brand: TENSON
 brands:
@@ -6,8 +6,8 @@ brands:
     name: TENSON
 categories:
   - 563219af-1813-5a1e-853b-1d08492adeb2
-classicId: '2827557'
-classicProductId: '675939'
+classicId: '2827555'
+classicProductId: '675935'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 43
 end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 1ec4af28-b008-4eed-9747-98022f8a76ea
+id: a145def2-4580-48bd-96a7-bb07283b7eb0
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: bc41e153-a147-4ba6-a8e9-589d6c4f3b47
+  id: 16a38cba-c337-465c-b390-bb91ad44b7b0
   priority: 0
-  slug: 1-png-product-1
+  slug: 1-png-product-2
   type: product
-offerId: 58b0e107-af33-4a6e-9755-d769a09d6ffc
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1504614
+  priority: 100
+  slug: tenson-logo
+  type: logo
+offerId: c0d16a90-6b3c-440d-a8fa-11b462bf304b
 price:
   cents: 11495
   currency: EUR

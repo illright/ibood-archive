@@ -1,4 +1,4 @@
-_id: 691b1300d079d43e1e37b078
+_id: 6911e290bd15fb2c4903498d
 appOnly: false
 brand: Delsey
 brands:
@@ -6,38 +6,29 @@ brands:
     name: Delsey
 categories:
   - 6d92414f-c773-5e05-8000-315af3dd31a1
-classicId: '2829023'
+classicId: '2821125'
 classicProductId: '543067'
 deliveryPrice:
-  cents: 895
+  cents: 595
   currency: EUR
-  value: 8.95
-directCheckout: true
+  value: 5.95
+directCheckout: false
 discount: 48
 end: '2025-11-19T22:59:59.999Z'
 freeDelivery: false
-id: 895cd485-884c-4ac5-8906-3e46bb036ae0
+id: 07f996f2-8b54-5e39-9b78-e049d4190f61
 image:
   channels:
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 2160581
+  extension: image/png
+  id: 1036d9da-5bfa-405c-9ff5-48c48b976259
   priority: 0
-  slug: delsey-3-delige-air-armour-trolley-set
+  slug: delsey-koffers-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1612713
-  priority: 100
-  slug: delsey-logo
-  type: logo
-offerId: 3ee95b0d-2114-4597-b3ff-64bd84df7384
+offerId: 51480bc5-2caa-5855-93db-c34e997be72d
 price:
   cents: 25500
   currency: EUR

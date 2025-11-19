@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 78fa3c05-4c7b-4dca-a494-b23661909fbf
 image:
   channels:
+    - newsletter
     - app
     - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 4d6f47ff-3712-43e4-bbdc-ec0857b935e1
+  extension: png
+  id: 2269747
   priority: 0
-  slug: ariel-01-png-product-1
+  slug: 120x-ariel-all-in-1-pods-plus-ultra
   type: product
 logo:
   channels:
@@ -48,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 125.16
 slug: 120x-ariel-4in1-ultra-wasmiddel-pods
-soldOut: false
+soldOut: true
 start: '2025-11-17T23:00:00.000Z'
 title: 120x Ariel 4in1 +Ultra Wasmiddel Pods

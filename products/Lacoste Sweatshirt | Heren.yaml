@@ -1,4 +1,4 @@
-_id: 691b1e9ede5adcaaa0323a03
+_id: 691b1e874b405c5575154cef
 appOnly: false
 brand: Lacoste
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Lacoste
 categories:
   - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2830323'
-classicProductId: '669322'
+classicId: '2830216'
+classicProductId: '669352'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 54
+discount: 57
 end: '2025-11-19T22:59:59.000Z'
 freeDelivery: false
-id: eb1fccdc-bbd6-49c6-acef-59a2e2842508
+id: 6a700c93-f6e5-486a-a71f-83d4d941fed9
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ae02d7c4-d026-4b5d-830e-c14f8dc5e974
+  extension: png
+  id: 1679423
   priority: 0
-  slug: lacoste-08-png-product-1
+  slug: lacoste-sweatshirt-heren
   type: product
 logo:
   channels:
@@ -38,15 +37,15 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: fb83a33b-3b5b-4779-bcc9-3061b79afaa9
+offerId: 7fb2adc7-602b-46bd-83f0-b0dae83a7d52
 price:
   cents: 5995
   currency: EUR
   value: 59.95
 referencePrice:
-  cents: 13000
+  cents: 14000
   currency: EUR
-  value: 130
+  value: 140
 slug: lacoste-sweatshirt-heren
 soldOut: false
 start: '2025-11-17T23:00:00.000Z'

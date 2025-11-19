@@ -1,13 +1,13 @@
-_id: 691b1f8a475f28274056337e
+_id: 691b1cbdf1fd5a0ea32c6499
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831302'
-classicProductId: '669553'
+  - 65d00743-fdac-5620-a45e-c0706a847480
+classicId: '2829256'
+classicProductId: '669551'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 50
 end: '2025-11-19T22:59:59.000Z'
 freeDelivery: false
-id: ce088dd7-2cb0-4c86-b747-8fa0e50f6223
+id: 3bf2a967-9a85-427a-a459-7460dcfbfcbf
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 4b853dc2-a3ca-4d97-93ed-ef2dc0e2aec5
+offerId: dc18eeec-10b5-40ad-a54b-96540e7b61bb
 price:
   cents: 5995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 119.95
 slug: mcgregor-coltrui-met-merinowol-off-white
-soldOut: false
+soldOut: true
 start: '2025-11-17T23:00:00.000Z'
 title: McGregor Coltrui met Merinowol | Off White

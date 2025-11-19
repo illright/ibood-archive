@@ -1,22 +1,22 @@
-_id: 691323138b8db303a5907ac1
+_id: 691b1ee5c9eeca82bd33c18e
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
-classicId: '2822859'
+  - ad3670ef-ad65-5498-ad55-387d17b93b1e
+classicId: '2830650'
 classicProductId: '655630'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 60
-end: '2025-11-19T22:59:59.999Z'
+discount: 50
+end: '2025-11-19T22:59:59.000Z'
 freeDelivery: false
-id: 4ad124df-23d8-520f-b260-cc4c44a46a38
+id: 54447db8-219c-4f42-a39e-be673a1a3c73
 image:
   channels:
     - app
@@ -28,15 +28,26 @@ image:
   priority: 0
   slug: main-png-product-0
   type: product
-offerId: 353e7ff4-5c5b-5dbb-b5da-5e5ff3b88706
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
+  type: logo
+offerId: 8a96b5d9-10d3-450a-af9d-b8a40e1a8760
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 4995
+  cents: 3995
   currency: EUR
-  value: 49.95
+  value: 39.95
 slug: bamboe-elements-pique-poloshirt-heren
 soldOut: false
 start: '2025-11-17T23:00:00.000Z'
