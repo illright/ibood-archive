@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 4f91eb7a-e286-5453-bb2c-e9b7cf1ded85
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1366249
+  extension: image/png
+  id: 17738dc1-589e-4c77-ab35-a2bc4c89afbc-tr
   priority: 0
-  slug: velleman-5-in-1-instelbare-robot-ksr19
+  slug: vellemann-ksr19-5-in-1-roboter-jpg-product-1
   type: product
 offerId: b3325dbb-d824-5078-8658-40e30c2efd70
 price:

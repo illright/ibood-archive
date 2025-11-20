@@ -1,4 +1,4 @@
-_id: 691b1f9b511e97674902f653
+_id: 691b1f368dc6827e45dd9388
 appOnly: false
 brand: Seidensticker
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Seidensticker
 categories:
   - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831369'
-classicProductId: '615238'
+classicId: '2830961'
+classicProductId: '662118'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 74
-end: '2025-11-19T22:59:59.000Z'
+discount: 50
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
-id: 5983ec41-37fb-4ee0-bf94-c3d7d9087a51
+id: fee6f7af-a4fb-48ad-88d6-0299332f8193
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2142409
+    - all
+  extension: image/png
+  id: 1ab576fd-80fb-4d5b-a51c-49a79b7cb2d9
   priority: 0
-  slug: seidensticker-new-kent-overhemd-slim-fit
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: seidensticker-logo
   type: logo
-offerId: 1677c9d2-63ed-46b7-9e45-610cf901db97
+offerId: bfaae535-8b9e-4500-bae2-bdf0989b6e49
 price:
-  cents: 2095
+  cents: 3995
   currency: EUR
-  value: 20.95
+  value: 39.95
 referencePrice:
   cents: 7999
   currency: EUR
   value: 79.99
 slug: seidensticker-new-kent-overhemd-slim-fit
-soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+soldOut: true
+start: '2025-11-19T23:00:00.000Z'
 title: Seidensticker New Kent Business Shirt | Slim Fit

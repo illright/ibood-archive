@@ -14,7 +14,7 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 62481ff2-726d-5de7-8072-28c467d51a92
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 86c78e92-f5a2-4d02-a40c-2c94f29f0b5a
+    - website
+    - app
+  extension: image/png
+  id: 86c78e92-f5a2-4d02-a40c-2c94f29f0b5a-tr
   priority: 0
   slug: tavola-mokken-schaal-set-wind-azur-18-delig-product-0
   type: product

@@ -16,7 +16,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 57ff7082-e0e3-528b-b218-f946f20e42c4
 image:
@@ -25,11 +25,21 @@ image:
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 6447597b-d3c0-4561-89d9-4f7f64638827
+  extension: image/jpeg
+  id: 74aacf4e-cf64-431b-ad94-74a3127a11df
   priority: 0
-  slug: apple00-png-product-1-1-png-product-0
+  slug: apple-macbook-air-15-m2-8-gb-512-gb-jpg-product-0
   type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1739931
+  priority: 100
+  slug: apple-macbook-air-15-m2-8-gb-512-gb
+  type: logo
 offerId: e0a6d530-56f0-566a-93ae-70946234e34a
 price:
   cents: 114900
@@ -39,7 +49,7 @@ referencePrice:
   cents: 219900
   currency: EUR
   value: 2199
-slug: products-information
-soldOut: false
+slug: apple-macbook-air-15-m2-chip-8gb-512gb-2023
+soldOut: true
 start: '2025-11-17T23:00:00.000Z'
-title: Apple MacBook Pro 2023 14'' M3 8C 10C 16GB 1TB UK QWERTY CPO
+title: Apple MacBook Air 15" | M2-chip | 16 GB | 1TB | UK QWERTY | 2023 | CPO

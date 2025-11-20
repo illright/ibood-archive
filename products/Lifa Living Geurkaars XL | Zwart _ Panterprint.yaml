@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 1e70fe58-87f0-553c-9604-fac47ea81c5e
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2127041
+  extension: image/png
+  id: ca9ca624-e07f-4a9a-a8b8-d7a72c1d0d7b-tr
   priority: 0
-  slug: lifa-living-xl-duftkerze-prairie-de-lavande
+  slug: lifa-living-xl-duftkerze-prairie-de-lavande-jpg-product-1
   type: product
 logo:
   channels:

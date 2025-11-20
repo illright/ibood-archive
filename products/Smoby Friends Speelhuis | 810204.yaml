@@ -14,7 +14,7 @@ deliveryPrice:
   value: 19.95
 directCheckout: true
 discount: 59
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 80a4b5be-f295-556a-b2e5-b659f5f67ea6
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: ab525820-62d8-4046-9152-a4da7e43a507
+    - website
+    - app
+  extension: image/png
+  id: ab525820-62d8-4046-9152-a4da7e43a507-tr
   priority: 0
   slug: smoby-friends-haus-evo-810204-garden-shed-for-children-3032168102040-3-3-product-0
   type: product

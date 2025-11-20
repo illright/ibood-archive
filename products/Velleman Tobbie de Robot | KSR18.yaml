@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 29
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 846899c1-4ca1-5dad-b9d7-b00d056253b9
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1366198
+  extension: image/png
+  id: c0f203f0-904f-43c9-a881-6c4121fb9273-tr
   priority: 0
-  slug: velleman-tobbie-de-robot-ksr18
+  slug: vellemann-ksr18-tobbie-der-roboter-jpg-product-1
   type: product
 offerId: 11aa3286-7389-5c75-a957-0ecffd38bfbc
 price:

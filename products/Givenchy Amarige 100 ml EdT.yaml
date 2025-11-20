@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 98e96607-2e19-489a-9dfd-3301cb24dade
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1193869
-  priority: 100
-  slug: givenchy-amarige-100-ml-edt
+  extension: image/png
+  id: 7d65e206-fc8e-4a41-82c4-94a09d07708b-tr
+  priority: 0
+  slug: givenchy-amarige-edt-100-ml-jpg-product-101
   type: product
 logo:
   channels:

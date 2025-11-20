@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 4f28cf79-08e1-4c50-921b-ae5ed9fd3667
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1261698
+  extension: image/png
+  id: d725668a-4fee-4824-b553-ccdbd4895d1e-tr
   priority: 0
-  slug: 12x-myprotein-riegel-fudge-brownie
+  slug: 12x-myprotein-riegel-fudge-brownie-jpg-product-1
   type: product
 logo:
   channels:

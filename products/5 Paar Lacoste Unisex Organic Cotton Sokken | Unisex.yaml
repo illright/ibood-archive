@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: fdffcba4-b367-46bd-950e-8e77a47461d1
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1980632
+  extension: image/png
+  id: 9660eb59-4d4b-494c-bbba-5d9e0b1eb26e-tr
   priority: 0
-  slug: 5-paar-lacoste-unisex-organic-cotton-sokken-unisex
+  slug: 5er-pack-lacoste-baumwollsocken-jpg-product-1
   type: product
 logo:
   channels:

@@ -1,4 +1,4 @@
-_id: 691afe11f92adfe443931315
+_id: 691afd728195a25d979c29c9
 appOnly: false
 brand: Odlo
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Odlo
 categories:
   - 563219af-1813-5a1e-853b-1d08492adeb2
-classicId: '2827910'
-classicProductId: '661452'
+classicId: '2827679'
+classicProductId: '661451'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 33
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
-id: 638d19fd-c120-473e-9ae4-0eb27eeb6825
+id: 164564eb-eddc-4047-b4cb-1b0c459714b4
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 335a229d-99dc-4ee1-b486-42ac10138a23
+  id: 862269b2-b6c7-4fff-8d57-09b481e69136
   priority: 0
-  slug: s-urban-chic-159102-10877-bl-top-crew-neck-l-s-active-warm-odlo-product-0
+  slug: l-agate-gray-159101-10867-bl-top-crew-neck-l-s-active-warm-odlo-product-0
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 427035f3-5810-4155-ba55-5e5de860f8db
+offerId: 3c0fd63d-8118-4be4-872d-2a2c3ef2d894
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 60
 slug: odlo-active-warm-baselayer
-soldOut: false
+soldOut: true
 start: '2025-11-17T23:00:00.000Z'
 title: Odlo Active Warm Baselayer

@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 129aefb6-1c5f-473b-8e1b-03de2848f772
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 4be2c987-f4b9-4958-9429-916eb97791b0
+    - website
+    - app
+  extension: image/png
+  id: 4be2c987-f4b9-4958-9429-916eb97791b0-tr
   priority: 0
   slug: 68119-beurer-maremed-mk-500-zeelucht-simulator-stille-nachtmodus-product-8-jpeg-product-0
   type: product

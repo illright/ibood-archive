@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: d6bb80d4-08b3-49c4-b627-2e5ba10d4d6d
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 440b0844-7cdc-4523-b8d7-d81f122e58a2
+    - website
+    - app
+  extension: image/png
+  id: 440b0844-7cdc-4523-b8d7-d81f122e58a2-tr
   priority: 0
   slug: 60l-midnight-black-ec0a5ejy001-migrate-duffel-eagle-creek-product-0
   type: product

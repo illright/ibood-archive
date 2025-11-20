@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: ed8c1478-8d4b-4881-aa59-4ccc2a9f856f
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: e77b94dc-b9b4-4b80-8eb3-354fec20481c
+    - website
+    - app
+  extension: image/png
+  id: e77b94dc-b9b4-4b80-8eb3-354fec20481c-tr
   priority: 0
   slug: grey-siux-backpack-pro-tour-product-1
   type: product

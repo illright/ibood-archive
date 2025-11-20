@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 25
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: b27770f9-9981-44db-87ec-f1eb8bc4e26b
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 1f5dc83d-6a30-40fd-a743-bf323e2832e0
+    - website
+    - app
+  extension: image/png
+  id: 1f5dc83d-6a30-40fd-a743-bf323e2832e0-tr
   priority: 0
   slug: xiaomi-watch-s4-47mm-zwart-product-1
   type: product

@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 85
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: e187e944-7022-4503-a861-4e58c318997f
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: b4362e6c-8cfd-4bb0-bcbb-bc6d6d5d37f8
+    - website
+    - app
+  extension: image/png
+  id: b4362e6c-8cfd-4bb0-bcbb-bc6d6d5d37f8-tr
   priority: 0
   slug: herhs2605-dayne-heritor-automatic-watch-product-0
   type: product
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 550
 slug: heritor-automatic-dayne-horloge-heren-rose-gold
-soldOut: false
+soldOut: true
 start: '2025-11-17T23:00:00.000Z'
 title: Heritor Automatic Dayne Horloge | Heren | Rose Gold

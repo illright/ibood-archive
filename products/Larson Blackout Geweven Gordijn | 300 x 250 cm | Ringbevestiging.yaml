@@ -1,4 +1,4 @@
-_id: 6909f44e80ac3e31ef8cfa60
+_id: 6909f44b31d3147cf6f36095
 appOnly: false
 brand: Larson
 brands:
@@ -6,29 +6,38 @@ brands:
     name: Larson
 categories:
   - e1d14f0d-0925-54b3-839c-78e31e7d8586
-classicId: '2814721'
-classicProductId: '59303'
+classicId: '2814718'
+classicProductId: '59301'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
-id: 53671c82-5ebf-5718-8d55-19a65e113a4d
+id: dc5d6971-9ba9-5bb1-a3f9-098be869221b
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ada51f42-dcbc-49e4-99e6-8726b3e3f5e3
+  extension: png
+  id: 2080609
   priority: 0
-  slug: dekbed-54-png-product-8
+  slug: larson-verdunkelungsvorhang-gewebt-300-x-250
   type: product
-offerId: b27c30c8-5e2f-5999-9070-1aad4cc151e5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2080803
+  priority: 100
+  slug: larson-verdunkelungsvorhang-gewebt-300-x-250
+  type: logo
+offerId: da65a2d3-6ada-5367-a90f-06f4e0322e97
 price:
   cents: 1995
   currency: EUR

@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 46
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-20T22:59:59.999Z'
 freeDelivery: false
 id: 1d387a5c-587f-5933-938a-1dddf4a6aee7
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2245991
+  extension: image/png
+  id: 6e291217-4016-4741-8009-62515dbe05c3-tr
   priority: 0
-  slug: mikamax-deluxe-globe-decanteerset-850-ml
+  slug: mikamax-deluxe-globe-dekanter-set-jpg-product-1
   type: product
 offerId: 0c3ca21c-6ebb-531c-9489-bcef15f19fa6
 price:
