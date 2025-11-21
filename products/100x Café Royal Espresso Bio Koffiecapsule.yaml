@@ -1,12 +1,12 @@
-_id: 690c9eae8db55797707d162f
+_id: 691f2d3399679535f617fe89
 appOnly: false
 brand: Café Royal
 brands:
   - id: d149b760-f0c5-504f-aaaa-03d2788a3714
     name: Café Royal
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2818005'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2835813'
 classicProductId: '539735'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 85bcfab7-7a71-5627-b39f-9a4ab16aaf1e
+id: 21b2a209-f44b-4a95-b186-862537d52b07
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: cafe-royal-02-png-product-1
   type: product
-offerId: 5b055b01-0381-5cbf-810d-932ce9703efa
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1983334
+  priority: 100
+  slug: cafe-royal-logo
+  type: logo
+offerId: 611ab362-fc6e-4cf7-acb7-f5a2f788889b
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 35.5
 slug: 100x-cafe-royal-espresso-bio-koffiecapsule
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 100x Café Royal Espresso Bio Koffiecapsule

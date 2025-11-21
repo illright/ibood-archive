@@ -1,22 +1,22 @@
-_id: 691b1d13d8bb272ae2fad118
+_id: 691f185d167386c92bcea1f4
 appOnly: false
 brand: SCHIESSER
 brands:
   - id: 8db8a07d-6bcb-53d4-bcc3-2210db5e26b0
     name: SCHIESSER
 categories:
-  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
-classicId: '2829429'
+  - d80923c1-f1d2-5dd2-a9b6-68ceb61b1e3d
+classicId: '2834436'
 classicProductId: '664218'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 45
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 12ba27b5-5138-4307-b8f7-6fb21379b89a
+id: c28d4381-8e96-476f-ac8d-3cd1ebceabac
 image:
   channels:
     - app
@@ -30,7 +30,7 @@ image:
   priority: 0
   slug: xl-assorted-8-180841-919-007-3pack-supermini-brief-schiesser-product-0
   type: product
-offerId: 8bbf4ddb-2bd2-4a9f-8eb2-3bb20c8db86a
+offerId: bc255d6a-d119-4823-b5ce-e1f07e14bdef
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +41,5 @@ referencePrice:
   value: 39.95
 slug: 3x-schiesser-slip-herren-180841-919
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 3x Schiesser Slip | Heren | 180841-919

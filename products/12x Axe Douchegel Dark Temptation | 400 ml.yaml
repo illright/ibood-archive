@@ -1,12 +1,12 @@
-_id: 6915a0fdc0d846ef2fc5ba67
+_id: 691f2d08eb9c6da35c690724
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2825336'
+  - 3d90d059-bab3-5e52-93bf-fbc899233f45
+classicId: '2835698'
 classicProductId: '655305'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: c25a213e-bc3b-5b08-a089-09a585fbceb4
+id: 1f6ad880-8e43-47aa-b02c-e4dcea725f0e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0ffda522-3e57-4f3a-b920-c50a266d9c1c
-  priority: 0
-  slug: axe-logo-png-logo-0
+  extension: png
+  id: 1692918
+  priority: 100
+  slug: axe-logo
   type: logo
-offerId: 69102703-e8f5-51c5-a1f1-7ba78b9be916
+offerId: 226be5f9-0029-4fa4-9610-b778a9b0f50c
 price:
   cents: 3195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 76.68
 slug: 12x-axe-douchegel-dark-temptation-400-ml
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 12x Axe Douchegel Dark Temptation | 400 ml

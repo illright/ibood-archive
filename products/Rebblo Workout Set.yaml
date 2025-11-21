@@ -1,12 +1,12 @@
-_id: 6915d59043f6a59c3b0af142
+_id: 6915d2c2803bc21f0779f8f1
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825739'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825679'
 classicProductId: '428814'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 83
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: ce2f321d-c958-5f4e-81ae-6ec6039af334
+id: 8ed373c2-90d0-52c5-a707-5fa8f4592cda
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1426888
+    - all
+  extension: image/png
+  id: 3d4b4408-7122-4a81-a659-98b6d4e23aac-tr
   priority: 0
-  slug: rebblo-workout-set
+  slug: rebblo-workout-set-mehrtlg-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: rebblo-logo
   type: logo
-offerId: dcc18e49-2703-5ee8-9261-074ff69ee70a
+offerId: cc7820bc-3bab-5ae9-a854-114ed5743bc7
 price:
   cents: 1195
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 69.95
 slug: rebblo-workout-set
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Rebblo Workout Set

@@ -1,12 +1,12 @@
-_id: 6915d58c43f6a59c3b0af132
+_id: 6915d2bd43f6a59c3b0af113
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825737'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825676'
 classicProductId: '502007'
 deliveryPrice:
   cents: 395
@@ -14,20 +14,31 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 59
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 9ab7e28a-4bb3-5a7d-bafc-99f31cf5b334
+id: 50dfbea2-6d6a-58db-b3dd-9bdad8988524
 image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fc4c2326-b4f3-468f-9edb-69ea9ae6af2c-tr
+  priority: 0
+  slug: rebblo-verstellbares-springseil-3-m-jpg-product-1
+  type: product
+logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 1696194
-  priority: 0
-  slug: rebblo-verstelbaar-springtouw
-  type: product
-offerId: 659f0f5c-868d-586b-a87b-cbb35e9afc2f
+  extension: png
+  id: 1696206
+  priority: 100
+  slug: rebblo-logo
+  type: logo
+offerId: 53436c8c-5e51-5740-8baa-6bd4cfd62c82
 price:
   cents: 695
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 16.95
 slug: rebblo-verstelbaar-springtouw
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Rebblo Verstelbaar Springtouw

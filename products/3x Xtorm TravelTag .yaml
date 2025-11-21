@@ -1,12 +1,12 @@
-_id: 6911fa24beb4010332f40f37
+_id: 691f1d58bbb5703a2f165b5f
 appOnly: false
 brand: XTORM
 brands:
   - id: 3010b7cb-df9d-526c-b2a9-621e6b1c948c
     name: XTORM
 categories:
-  - dbba2784-289e-59f4-beb3-f8552c761e2b
-classicId: '2821789'
+  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
+classicId: '2835029'
 classicProductId: '677797'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 27
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-26T22:59:59.999Z'
 freeDelivery: false
-id: 4b27982e-64b8-5313-8e67-84223773b301
+id: 7cb69700-fd82-4a6b-b678-d28b4d99aa66
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: xtorm-traveltag-3-pack-xtag01-product-3
   type: product
-offerId: 2d2c08a8-8120-52ed-96c0-9c1d3101021e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2035508
+  priority: 100
+  slug: xtorm-logo
+  type: logo
+offerId: 52992d71-174d-4258-a5ed-70b8cdf00921
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 29.95
 slug: xtorm-traveltag-3-pack-xtag01-8718182278149
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: '3x Xtorm TravelTag '

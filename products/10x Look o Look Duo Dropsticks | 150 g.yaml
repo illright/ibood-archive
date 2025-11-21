@@ -1,12 +1,12 @@
-_id: 691b1f60c3a60c84e553a036
+_id: 691f2dd3f0d3e2bd5480f39e
 appOnly: false
 brand: Look o Look
 brands:
   - id: 3cd96243-d442-5c63-91b0-0e81fc9aecd5
     name: Look o Look
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2831154'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836127'
 classicProductId: '676779'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 6a4cbc22-63eb-4e0b-9c25-ace25d56a56b
+id: 60d994db-594f-456f-925a-9c6627d6686d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: kook-o-look-png-product-1
   type: product
-offerId: 85ba95bd-9694-4806-8b17-d03e5b79274a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 310b28cb-822d-4830-919b-9dbfbdae8b03
+  priority: 0
+  slug: look-o-look-logo-0
+  type: logo
+offerId: 3b18d871-18f0-4e59-9776-2bf751ff5808
 price:
   cents: 1195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 24.9
 slug: 10x-look-o-look-duo-dropsticks-150-g
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 10x Look o Look Duo Dropsticks | 150 g

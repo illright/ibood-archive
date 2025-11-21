@@ -1,12 +1,12 @@
-_id: 690ca7a0740b1bc5f116f272
+_id: 691ed7ec99679535f617fd5a
 appOnly: false
 brand: Smartwares
 brands:
   - id: 576da428-3edf-5c2a-8133-8b00d79538ab
     name: Smartwares
 categories:
-  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
-classicId: '2818029'
+  - cd21ceba-2abe-5c9f-82f2-ff6d624f5e51
+classicId: '2833252'
 classicProductId: '677434'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-24T22:59:59.999Z'
 freeDelivery: false
-id: c310f152-26a0-5425-8fa8-ae3507f339d4
+id: 896e6502-e6ab-4fa5-89d9-bffc3c2fb2ed
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: smartwareszs-8-png-product-3
   type: product
-offerId: 014e1a3e-072b-5a6f-9163-3f828e1f43e8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1634806
+  priority: 100
+  slug: smartwares-logo
+  type: logo
+offerId: 5137f79d-ab5c-4d9c-9dbf-ff83c7b6e14b
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 67.98
 slug: 3x-smartwares-led-spotlampen
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 3x Smartwares  LED-Spotlampen

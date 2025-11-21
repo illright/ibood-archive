@@ -1,12 +1,12 @@
-_id: 6909fe7c80ac3e31ef8cfad2
+_id: 691f0b380d287816b2cc8f0f
 appOnly: false
 brand: Princess
 brands:
   - id: 85bf90f4-bfee-5c4a-8e46-948bae97f32d
     name: Princess
 categories:
-  - 81e85a4d-ff4a-58fc-a9eb-3edb05ec30d0
-classicId: '2814761'
+  - 2f5cb33d-64e7-5f0b-90f2-022e80ac8c97
+classicId: '2834068'
 classicProductId: '612682'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 65
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 76658dbc-ddf1-5cbe-a6e5-480d06ee3931
+id: 7900b184-ec9a-4201-996d-29bb0f160cca
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: princess-steam-airfryer-oven-10l
   type: product
-offerId: dbab4b53-1996-5771-8491-f094de633118
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1699182
+  priority: 100
+  slug: princess-logo
+  type: logo
+offerId: 5f61bfea-9c3f-4f05-8420-d94f5164762b
 price:
   cents: 6995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 199.99
 slug: princess-steam-airfryer-oven-10l
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Princess Steam Airfryer Oven 182085 | Groot 10L | 12 Programma's | inclusief accessoires

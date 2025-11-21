@@ -1,12 +1,12 @@
-_id: 6913359250c02027c93e6bc6
+_id: 691f2dc188d6100beb551503
 appOnly: false
 brand: Holie
 brands:
   - id: 29153a71-5ac0-56c3-82cf-de9bb4e953db
     name: Holie
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2822871'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836031'
 classicProductId: '678089'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: d9b97dd8-64da-555f-92bf-6b80f1147f42
+id: 03f0dc7f-79f2-4055-83a2-5bc889565aa1
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: holie-s-02-png-product-1
   type: product
-offerId: 17aaa0e0-8d88-5482-a09a-13c90bba93fc
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e3bad181-060d-4f89-87da-1edd09451f62
+  priority: 0
+  slug: holie-logo-0
+  type: logo
+offerId: 728940b2-adbc-446c-be01-c7aa3d2441af
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 31.52
 slug: 2x-holie-mixdoos-granola-crunchy-muesli
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 2x Holie Mixdoos Granola / Crunchy Muesli |  350 g & 400 g

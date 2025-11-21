@@ -1,12 +1,12 @@
-_id: 69133592e995c4510e91e18f
+_id: 691f2db0dbc38c0d69842b3b
 appOnly: false
 brand: Holie
 brands:
   - id: 29153a71-5ac0-56c3-82cf-de9bb4e953db
     name: Holie
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2822872'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836014'
 classicProductId: '678091'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 91383ae4-9991-5112-8b4c-286f4508ec35
+id: f14058f0-4f7e-4ac7-bf3f-0ca465ba5e8f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: holie-s-03-png-product-1
   type: product
-offerId: 0460aaf6-2a49-5537-a5c5-cfbb6670be2f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e3bad181-060d-4f89-87da-1edd09451f62
+  priority: 0
+  slug: holie-logo-0
+  type: logo
+offerId: e37a1375-73f4-47f2-9874-e01e60d79233
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 57.96
 slug: 54x-holie-crunchy-bar-protein-peanut-40-g
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 54x Holie Crunchy Bar Protein Peanut | 40 g

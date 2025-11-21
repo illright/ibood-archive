@@ -1,12 +1,12 @@
-_id: 69149accd7caca96709715cf
+_id: 6914a2eb19335e266f738bca
 appOnly: false
 brand: Medisana
 brands:
   - id: 49e95cec-d8b1-5785-b84d-1cc0d54d350c
     name: Medisana
 categories:
-  - 81e85a4d-ff4a-58fc-a9eb-3edb05ec30d0
-classicId: '2824875'
+  - eea27062-2ffd-58e7-aaf0-db5b327631de
+classicId: '2825154'
 classicProductId: '623586'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 5725926f-6471-5124-8d51-4efebac2515b
+id: 48d428f9-5e92-50d2-bcb1-a252f1f5922f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5b5973ad-0a98-4c55-bfc2-9d8658dfee7d
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1979769
+  priority: 100
+  slug: medisana-logo
   type: logo
-offerId: d158417d-2581-551f-8f62-e1eff4fe92ec
+offerId: 71d05575-572b-5a73-8439-4b7ed5e327bf
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119.95
 slug: medisana-voetmassage-fmg880
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Medisana Voetmassage | FMG880

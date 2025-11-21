@@ -1,12 +1,12 @@
-_id: 691321e9854d0e81bfbabc1b
+_id: 691f18172deebb2fb3aebd48
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
-classicId: '2822849'
+  - d80923c1-f1d2-5dd2-a9b6-68ceb61b1e3d
+classicId: '2834339'
 classicProductId: '550652'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 1bf21669-03b3-5747-80ba-b02b96d1a885
+id: ab81a201-acc2-4244-8d7c-b66c938e49d0
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: 12-paar-bamboe-sneakersokken-unisex
   type: product
-offerId: 42527a48-78b6-5775-9b27-71bf479fa65f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
+  type: logo
+offerId: 8024bfe8-4721-43d6-9b48-f7db4ffc5c16
 price:
   cents: 1995
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 49.95
 slug: 12-paar-bamboe-sneakersokken-unisex
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 12 Paar Bamboe Sneakersokken | Unisex

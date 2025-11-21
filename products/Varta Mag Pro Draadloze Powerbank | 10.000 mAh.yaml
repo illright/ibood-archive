@@ -1,12 +1,12 @@
-_id: 691b1e71c3a60c84e5539fb1
+_id: 691f2dbe63fdc8b95338f44f
 appOnly: false
 brand: Varta
 brands:
   - id: 032858ef-b673-5571-8a36-b61440255ef2
     name: Varta
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2830116'
+  - 0b2e7319-d6b7-5ee1-a166-6792f07c9956
+classicId: '2836047'
 classicProductId: '647655'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 32
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 54f7fe18-2c8f-44b7-a5c0-f02c80d1f2dc
+id: a43f00f7-cee0-4ce9-b8e7-b8d310047b28
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: varta-logo
   type: logo
-offerId: e7acb8c5-69bb-4bfe-900b-2695aad9fc63
+offerId: 6e8080ed-c140-42bb-bbfc-8fa92ddcacc2
 price:
   cents: 3795
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 55.95
 slug: varta-mag-pro-draadloze-power-bank-10000-zwart
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Varta Mag Pro Draadloze Powerbank | 10.000 mAh

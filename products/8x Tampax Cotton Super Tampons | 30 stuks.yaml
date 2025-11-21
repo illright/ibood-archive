@@ -1,12 +1,12 @@
-_id: 6904b48f3955bb98f976a3b0
+_id: 691f2ed590cdf8e2bc980772
 appOnly: false
 brand: Tampax
 brands:
   - id: 5c0b2108-d9ac-558a-bb7d-1a9b5acb4818
     name: Tampax
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2810093'
+  - 3d90d059-bab3-5e52-93bf-fbc899233f45
+classicId: '2836355'
 classicProductId: '676559'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 76a8aa9f-fe0b-5eb2-b4b9-a917b939506d
+id: b938e3db-2c0e-4883-9f3c-98f38a9ee095
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: tampax-01-png-product-1
   type: product
-offerId: 545300ea-4690-5546-b700-2efa4e809be6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9fc53916-aba5-4a80-ab45-ab92b572162a
+  priority: 0
+  slug: tampax-logo-0
+  type: logo
+offerId: b6e5e9a0-ade2-4b90-a234-3138d89e1f08
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 43.89
 slug: 8x-tampax-cotton-super-tampons-30-stuks
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 8x Tampax Cotton Super Tampons | 30 stuks

@@ -1,22 +1,22 @@
-_id: 69132302854d0e81bfbabc3a
+_id: 691f17de5d722805ea885d6b
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
-classicId: '2822858'
-classicProductId: '462021'
+  - d80923c1-f1d2-5dd2-a9b6-68ceb61b1e3d
+classicId: '2834287'
+classicProductId: '462036'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 67
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 1f2d4ecc-0cb9-5860-a839-25e9c78bbfcc
+id: c7e887b1-8bbf-4b27-af82-de256ab2a185
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: bamboo-casual-t-shirt-heren
   type: product
-offerId: 2b004dd4-54ce-5cac-85c4-ef1da3937cf1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
+  type: logo
+offerId: afa546dc-2bb2-4b80-ad8a-3413023eee50
 price:
   cents: 1495
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 44.95
 slug: bamboo-casual-t-shirt-heren
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Bamboo Casual T-Shirt | Heren

@@ -1,12 +1,12 @@
-_id: 6915d585eee93e89eb36454d
+_id: 6915d2b6803bc21f0779f8e6
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825731'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825670'
 classicProductId: '477121'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 75
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 9ddd1a4c-719e-5dcf-8532-ec10f63f0572
+id: e0474d5b-f28c-5502-b41e-797e43c94956
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1605274
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 660c2364-f192-48e3-b5ca-ed2dc333cd22-tr
   priority: 0
-  slug: rebblo-powerbag-25-kg
+  slug: rebblo-powerbag-25-kg-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: rebblo-logo
   type: logo
-offerId: 37d0dbfd-bf87-5e4c-b205-6d1f86b95581
+offerId: d68292ad-b489-5a1e-99f1-9e05efdd6a4b
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 119.95
 slug: rebblo-powerbag-25-kg
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Rebblo Powerbag | 25 kg

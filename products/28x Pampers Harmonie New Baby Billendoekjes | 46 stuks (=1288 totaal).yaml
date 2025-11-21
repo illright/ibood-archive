@@ -1,12 +1,12 @@
-_id: 6904b48e3955bb98f976a3ae
+_id: 691f2e45fe0ccf7921e017c3
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2810092'
+  - 3d90d059-bab3-5e52-93bf-fbc899233f45
+classicId: '2836297'
 classicProductId: '676558'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: dd280e5b-6b30-5dbf-bfc1-e8d4db115fcc
+id: f8f66a27-671f-4323-9248-189fac47caae
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 14x-pampers-wipes-harmonie-new-baby-46pcs-product-0
   type: product
-offerId: 0327c272-76a4-5d22-af5e-35ab4a8b3cae
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1919243
+  priority: 100
+  slug: pampers-logo
+  type: logo
+offerId: 6d972ae1-ad20-44b6-a6fa-0327b2b93ebf
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 94.92
 slug: 28x-pampers-harmonie-new-baby-billendoekjes-46-stuks
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 28x Pampers Harmonie New Baby Billendoekjes | 46 stuks (=1288 totaal)

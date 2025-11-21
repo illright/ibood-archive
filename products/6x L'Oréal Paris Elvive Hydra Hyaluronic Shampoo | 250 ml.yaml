@@ -1,12 +1,12 @@
-_id: 69148d83a9a3c0206c086ae5
+_id: 691f2df58bfcfaa69bc7c96f
 appOnly: false
 brand: L'Oreal Elvive
 brands:
   - id: 4009d12e-5bcf-5620-a710-6695122cb452
     name: L'Oreal Elvive
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2824790'
+  - 3d90d059-bab3-5e52-93bf-fbc899233f45
+classicId: '2836214'
 classicProductId: '678464'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 0f27c281-f383-500c-9bec-afa644df5f12
+id: 7c358b59-9809-4584-9253-53cc27763898
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: l-oreal-01-png-product-1
   type: product
-offerId: 9e784ad1-8f41-51fd-9097-5a477bf2cdbd
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3167b8f8-270a-4f26-9553-f3e04e7be256
+  priority: 0
+  slug: l-oreal-elvive-logo-0
+  type: logo
+offerId: f86e0d53-2dea-420b-9bc1-eba5eed85df8
 price:
   cents: 1395
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.54
 slug: 6x-l-oreal-paris-elvive-hydra-hyaluronic-shampoo-250-ml
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 6x L'Oréal Paris Elvive Hydra Hyaluronic Shampoo | 250 ml

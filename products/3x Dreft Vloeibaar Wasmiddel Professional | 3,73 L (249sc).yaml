@@ -1,12 +1,12 @@
-_id: 690df7ac74d5d32ef70bf867
+_id: 691f2c3955ca917b1d9802f5
 appOnly: false
 brand: Dreft
 brands:
   - id: 18c0c9f2-49bc-56f9-a912-d3b1334ea7eb
     name: Dreft
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2818703'
+  - 0b2e7319-d6b7-5ee1-a166-6792f07c9956
+classicId: '2835475'
 classicProductId: '655471'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: cc0890e4-2645-5ad9-aad7-3954216131a7
+id: c5c8fe58-1065-4ea6-b179-59be5561cf37
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 3x-dreft-vloeibaar-wasmiddel-professional-83sc-249sc-product-0
   type: product
-offerId: bbb66c4f-c468-566f-9d3e-78673f6fd97a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0cbc7681-1a41-4970-b158-3ff83fa6e084
+  priority: 0
+  slug: dreft-logo-0
+  type: logo
+offerId: a2e6de8a-8dcb-4107-a3b8-4d6e0c516b83
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 106.77
 slug: 3x-dreft-vloeibaar-wasmiddel-professional-3-73-l-249sc
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 3x Dreft Vloeibaar Wasmiddel Professional | 3,73 L (249sc)

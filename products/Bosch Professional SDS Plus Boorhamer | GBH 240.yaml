@@ -1,12 +1,12 @@
-_id: 6911e1c5bd15fb2c49034955
+_id: 691ed76ec498b4a1d173cc66
 appOnly: false
 brand: Bosch
 brands:
   - id: 169a5b37-c6f7-5ed0-83e7-162bb01acc79
     name: Bosch
 categories:
-  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
-classicId: '2821093'
+  - cd21ceba-2abe-5c9f-82f2-ff6d624f5e51
+classicId: '2833044'
 classicProductId: '649394'
 deliveryPrice:
   cents: 595
@@ -14,23 +14,31 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-24T22:59:59.999Z'
 freeDelivery: false
-id: fd0f1e51-19a5-5c52-9a9d-e738e86c6a52
+id: 510f03ea-f2b5-4144-8f66-1d1a5f485254
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - website
-    - app
-  extension: image/png
-  id: 76b293ce-b2ff-4647-ad8b-7da3fa59be6c-tr
+  extension: image/jpeg
+  id: 76b293ce-b2ff-4647-ad8b-7da3fa59be6c
   priority: 0
   slug: bosch-professional-boorhamer-gbh-240-met-sds-plus-in-koffer-product-4
   type: product
-offerId: 045b15d1-7c9d-5164-8221-642ce6574781
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1599478
+  priority: 100
+  slug: bosch-logo
+  type: logo
+offerId: 3b35d362-03ef-4b2a-98a3-489e492a503f
 price:
   cents: 11995
   currency: EUR
@@ -41,5 +49,5 @@ referencePrice:
   value: 208.25
 slug: bosch-boorhamer-gbh-240-sds-plus-koffer
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Bosch Professional SDS Plus Boorhamer | GBH 240

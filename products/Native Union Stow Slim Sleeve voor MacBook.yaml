@@ -1,22 +1,22 @@
-_id: 690b2af0405d30345ad161e1
+_id: 691f1d722deebb2fb3aebd98
 appOnly: false
 brand: Native Union
 brands:
   - id: ea840525-f6c1-5327-9a35-b0e585d0699e
     name: Native Union
 categories:
-  - dbba2784-289e-59f4-beb3-f8552c761e2b
-classicId: '2815611'
+  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
+classicId: '2835062'
 classicProductId: '677097'
 deliveryPrice:
-  cents: 595
+  cents: 395
   currency: EUR
-  value: 5.95
+  value: 3.95
 directCheckout: false
 discount: 67
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-26T22:59:59.999Z'
 freeDelivery: false
-id: ddad498f-5ed5-5cb4-9bec-5f78f310bc1a
+id: ed0d698a-a0ce-4f62-91a8-d595c4976187
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: native-union-stow-macbook-laptoptasche
   type: product
-offerId: 071eebe8-32c6-54d7-af1f-82c0871ae449
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1747653
+  priority: 100
+  slug: native-union-logo
+  type: logo
+offerId: 1cf016c9-0e4d-402e-b99b-e2d269a85504
 price:
   cents: 2295
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 69.99
 slug: native-union-stow-slim-macbook-sleeve
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Native Union Stow Slim Sleeve voor MacBook

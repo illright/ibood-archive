@@ -1,12 +1,12 @@
-_id: 6914ae60d10bde5c6c7970fa
+_id: 691f2e75f0bcc5b35f5f9bb0
 appOnly: false
 brand: Tony's Chocolonely
 brands:
   - id: 153c7cf1-d44b-53af-ab11-afe86c58f050
     name: Tony's Chocolonely
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2825271'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836320'
 classicProductId: '678514'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 4e5075a8-2508-5a51-b030-76d22f8b4170
+id: 0a79b6d3-3168-4e14-8e30-0020a17da62d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: tony-chocolony-03-png-product-1
   type: product
-offerId: 9ee37621-4681-55d0-ae5e-e26d4439e0e4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1744224
+  priority: 100
+  slug: tony-s-chocolonely-logo
+  type: logo
+offerId: e5754821-8995-429f-98e7-6478aa546fa4
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 41.98
 slug: 2x-tonys-chocolonely-stapelbare-bewaarblik-inc-chocoladerepen-3x-180-g
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 2x Tonys Chocolonely Stapelbare Bewaarblik Inc. Chocoladerepen | 3x 180 g

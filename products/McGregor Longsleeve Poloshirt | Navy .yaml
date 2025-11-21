@@ -1,22 +1,22 @@
-_id: 691b1f8cd8bb272ae2fad1fd
+_id: 691f2fffc498b4a1d173cde4
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831313'
-classicProductId: '663723'
+  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
+classicId: '2836453'
+classicProductId: '663720'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 56
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 771034fb-c24b-4e39-a8e6-5499279c4522
+id: c7742433-edec-4ec7-9a72-477dd5d3077c
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: ec710a33-e3fa-4d10-910e-b8f32b2e9b64
+offerId: fb6b607e-f586-45d4-83f6-1820f96e1d3f
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 89.95
 slug: mcgregor-longsleeve-poloshirt-navy
-soldOut: true
-start: '2025-11-19T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: 'McGregor Longsleeve Poloshirt | Navy '

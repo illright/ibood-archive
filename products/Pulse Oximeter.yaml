@@ -1,12 +1,12 @@
-_id: 6915d599eee93e89eb364554
+_id: 6915d2c7803bc21f0779f8fb
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825744'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825684'
 classicProductId: '272535'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 64fc04e1-160e-5640-94d9-0a17f3a5ff08
+id: 8db7661f-2f05-5c8d-966c-e813d195c067
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 776243
+    - all
+  extension: image/png
+  id: 7fd8249b-1071-4044-8cad-4cc28428c887-tr
   priority: 0
-  slug: pulse-oximeter
+  slug: pulsoximeter-im-miniformat-1-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: rebblo-logo
   type: logo
-offerId: f4c96a08-91f6-5424-8c58-5fa04c69e550
+offerId: 68312f92-2364-5c73-8d90-4b8eed30b15e
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: pulse-oximeter
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Pulse Oximeter

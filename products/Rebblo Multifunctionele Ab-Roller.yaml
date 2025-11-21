@@ -1,12 +1,12 @@
-_id: 6915d59243f6a59c3b0af145
+_id: 6915d2c4803bc21f0779f8f5
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825740'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825682'
 classicProductId: '272540'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: e0689e49-0cfb-5c96-89bd-98f02261d39f
+id: cfa794e5-e3e4-5014-bcd2-005e57369946
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 776286
-  priority: 100
-  slug: rebblo-multifunctionele-ab-roller
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 6b6bfa5c-18c3-4af3-85eb-8806e6c3eccd-tr
+  priority: 0
+  slug: rebblo-ab-roller-mit-widerstandsbandern-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: rebblo-logo
   type: logo
-offerId: 1e9225f9-c23d-565a-9322-c4b7b2d8601f
+offerId: 1aca7570-6ed1-54ba-9ca8-92488818840a
 price:
   cents: 1295
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 29.95
 slug: rebblo-multifunctionele-ab-roller
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Rebblo Multifunctionele Ab-Roller

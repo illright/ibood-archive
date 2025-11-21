@@ -1,12 +1,12 @@
-_id: 691b350653d2c8a886d9c452
+_id: 691f0a5de46d3e28af592dde
 appOnly: false
 brand: FlinQ
 brands:
   - id: c5850d1b-064a-5297-987d-113f01df60eb
     name: FlinQ
 categories:
-  - 81e85a4d-ff4a-58fc-a9eb-3edb05ec30d0
-classicId: '2831997'
+  - c827a93e-ad7c-59fa-925d-88588b856de5
+classicId: '2833577'
 classicProductId: '585118'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 68
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: ba33844b-a928-45f4-9a93-6a8c0fc00a97
+id: 369721a2-9a29-456c-af04-a5eee6b89256
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: flinq-intelligentes-infrarot-heizpaneel-450-w
   type: product
-offerId: d8c06c93-2dc5-4233-a603-df1995a121f4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2006222
+  priority: 100
+  slug: flinq-logo
+  type: logo
+offerId: 205de180-a370-41bc-9d1d-247a8447f049
 price:
   cents: 6495
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 199.99
 slug: flinq-smart-indoor-infrarood-heater-450-w
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: FlinQ Smart Indoor Infrarood Heater | 450 W

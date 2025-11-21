@@ -1,12 +1,12 @@
-_id: 691593c2eee93e89eb3642bd
+_id: 691f2d08bc73cfce67474eea
 appOnly: false
 brand: AUTODROP
 brands:
   - id: 809368a8-565a-5506-a243-a7fbc0b95d2e
     name: AUTODROP
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2825292'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2835703'
 classicProductId: '678559'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 39
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: f49815f8-f58b-548e-9600-86b2a54e16bf
+id: c639dc68-bda1-48d9-96d9-f8bf20fa45c7
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: autodrop-02-png-product-1
   type: product
-offerId: abddf8ad-8524-5e45-9af9-a92bfe4e686c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6670cdbc-3f6a-4776-b22d-383add876a17
+  priority: 0
+  slug: autodrop-logo-0
+  type: logo
+offerId: 93f22a1b-f682-4faa-b54d-1c301b3bc267
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 32.85
 slug: 15x-autodrop-zot-zoete-sneeuwschuivers-180-g
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 15x Autodrop Zot Zoete Sneeuwschuivers | 180 g

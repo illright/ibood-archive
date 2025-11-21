@@ -1,12 +1,12 @@
-_id: 6911fa22beb4010332f40f33
+_id: 691f1d738955ba40652f5503
 appOnly: false
 brand: XTORM
 brands:
   - id: 3010b7cb-df9d-526c-b2a9-621e6b1c948c
     name: XTORM
 categories:
-  - dbba2784-289e-59f4-beb3-f8552c761e2b
-classicId: '2821787'
+  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
+classicId: '2835066'
 classicProductId: '677796'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-26T22:59:59.999Z'
 freeDelivery: false
-id: 8bec2baa-d1ab-5377-b8e9-8680ef64f816
+id: 58f88f59-fb2e-45ca-bcfd-52cf55517106
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xtorm-foldable-wireless-travel-charger-3in1-xwf31-product-0
   type: product
-offerId: 77fb6ac7-bbc0-580d-b5ec-6aaf9970fa01
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2035508
+  priority: 100
+  slug: xtorm-logo
+  type: logo
+offerId: 0904747e-d5d1-44b8-8370-9bb0d4077e48
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 99.95
 slug: xtorm-vouwbare-draadloze-travel-oplader-3in1-xwf31
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Xtorm Opvouwbare Draadloze Travel Oplader 3-in-1

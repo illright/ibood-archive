@@ -1,22 +1,22 @@
-_id: 691b1e47d33a43dedb54214b
+_id: 691f2e17eb574b5d8f8ea527
 appOnly: false
 brand: Protein Works
 brands:
   - id: 9729d8c4-10e7-50ca-b489-73f2a0f67c19
     name: Protein Works
 categories:
-  - af86ef13-ba38-5ba7-a9f4-c5250f833bf1
-classicId: '2829954'
-classicProductId: '539368'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836270'
+classicProductId: '643500'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 72
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: d5583a69-c92e-4b1d-9c1b-a4bc4a5ec98b
+id: 0101c961-e087-4e80-aa83-022791a82db2
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: protein-works-logo
   type: logo
-offerId: 74974129-c797-4d9c-84af-9435d41cdd4e
+offerId: 7fad2d3c-d2ae-487c-990b-d5a53c9431ff
 price:
   cents: 2995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 107.99
 slug: vegan-protein-extreme-2-kg
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Protein Works Vegan Protein Extreme | 2 kg

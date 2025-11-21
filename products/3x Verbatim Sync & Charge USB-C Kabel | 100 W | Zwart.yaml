@@ -1,12 +1,12 @@
-_id: 6911ec2cbeb4010332f40f02
+_id: 691f1d345a43ae55df9ac82c
 appOnly: false
 brand: VERBATIM
 brands:
   - id: 8732759a-56e3-589f-a609-d7d8cdb5cb3c
     name: VERBATIM
 categories:
-  - dbba2784-289e-59f4-beb3-f8552c761e2b
-classicId: '2821761'
+  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
+classicId: '2834966'
 classicProductId: '678092'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 25
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-26T22:59:59.999Z'
 freeDelivery: false
-id: 83802167-f739-5195-bb0d-c466479df7ad
+id: 0c9c2394-5d92-450d-906a-620144a22615
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: verbatim-sync-charge-usb-c-to-usb-c-100w-120-cm-product-4
   type: product
-offerId: 36b8fd78-ca8c-561d-924c-83205f60da28
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 46ec6c6b-d2fc-430f-9976-27725f2e6518
+  priority: 101
+  slug: verbatim-logo-101
+  type: logo
+offerId: 40950d26-0045-4bca-88b7-417ab68d70d4
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 23.97
 slug: 3x-verbatim-sync-charge-usb-c-kabel-100-w
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 3x Verbatim Sync & Charge USB-C Kabel | 100 W | Zwart

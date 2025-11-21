@@ -1,34 +1,31 @@
-_id: 691b1cfee031760fed975b33
+_id: 691f17c778f9801cde3327af
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
-classicId: '2829370'
-classicProductId: '567169'
+  - d80923c1-f1d2-5dd2-a9b6-68ceb61b1e3d
+classicId: '2834274'
+classicProductId: '567170'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 40
-end: '2025-11-20T22:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: fdffcba4-b367-46bd-950e-8e77a47461d1
+id: 7701d065-9423-460c-aa97-d63d516b77e1
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: 9660eb59-4d4b-494c-bbba-5d9e0b1eb26e-tr
+  extension: jpg
+  id: 1980632
   priority: 0
-  slug: 5er-pack-lacoste-baumwollsocken-jpg-product-1
+  slug: 5-paar-lacoste-unisex-organic-cotton-sokken-unisex
   type: product
 logo:
   channels:
@@ -40,16 +37,16 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 16864557-0b67-4a92-86f5-59a80afc8888
+offerId: 61385bc7-a6c7-46bf-a852-d9fb2b1afa9e
 price:
-  cents: 2995
+  cents: 2495
   currency: EUR
-  value: 29.95
+  value: 24.95
 referencePrice:
   cents: 5000
   currency: EUR
   value: 50
 slug: 5-paar-lacoste-unisex-organic-cotton-sokken-unisex
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 5 Paar Lacoste Unisex Organic Cotton Sokken | Unisex

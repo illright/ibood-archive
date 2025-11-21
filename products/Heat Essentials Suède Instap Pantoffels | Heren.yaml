@@ -1,12 +1,12 @@
-_id: 69146cb10030d10ffb44264f
+_id: 691f17f54a229b144538de3e
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - a7cc58b1-a035-5c8b-8552-ddff468120ba
-classicId: '2824567'
+  - 03763129-8617-525b-be86-a32203903ee3
+classicId: '2834306'
 classicProductId: '588355'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 52
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: e9891151-a8f1-5812-9a78-b6a80cd9c76a
+id: 68f5e0e8-6d4e-428d-9d32-7bc07afa3800
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: heat-essentials-pantoffeln
   type: product
-offerId: 088d0387-90b3-5bb3-8436-959a010d4fa0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1643389
+  priority: 100
+  slug: heat-essentials-logo
+  type: logo
+offerId: 35c020ed-5664-4172-99a6-2335345d3cbd
 price:
   cents: 1695
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 34.95
 slug: heat-essentials-suede-instap-pantoffels-heren
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Heat Essentials Suède Instap Pantoffels | Heren

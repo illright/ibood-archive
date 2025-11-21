@@ -1,12 +1,12 @@
-_id: 691454e50030d10ffb44241a
+_id: 691f194781d6b45020673022
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - e4a796b4-0bbb-59d7-be35-1b2b063319c2
-classicId: '2823688'
+  - f0f246c7-953a-51e7-a327-2caf8dba80ae
+classicId: '2834723'
 classicProductId: '678372'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 25
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 0eb9de75-c29a-5798-8809-c59a024718e4
+id: 1a3c072a-1015-4dea-bb11-adf76d147e2b
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: black-farine-velours-nh5081bw-53-4ha1-men-backpack-racket-lacoste-product-2
   type: product
-offerId: 08f4cae7-bd09-5560-8ddb-5c426a82e299
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: 76ac4115-994e-4fc9-8306-02ff3071c5dd
 price:
   cents: 8995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 120
 slug: lacoste-brewen-tennisrackettas
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Lacoste Brewen Tennisrackettas

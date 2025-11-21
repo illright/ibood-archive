@@ -1,31 +1,32 @@
-_id: 69170ce8f92adfe443930b30
+_id: 691dd224eb6a5dabcdd51c18
 appOnly: false
 brand: Varta
 brands:
   - id: 032858ef-b673-5571-8a36-b61440255ef2
     name: Varta
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2826183'
-classicProductId: '679279'
+  - 0b2e7319-d6b7-5ee1-a166-6792f07c9956
+classicId: '2832912'
+classicProductId: '679435'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 1570e211-fa0a-5a68-90f4-415bdb0639ee
+id: 87df1872-e8d9-50cc-a257-4fdc34d1c18b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1455688
+    - all
+  extension: image/png
+  id: 2617bf57-0b7d-416a-9b8b-ceb2da02654f
   priority: 0
-  slug: 72x-varta-longlife-batterij-aa
+  slug: aa-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: varta-logo
   type: logo
-offerId: 3c018ac8-3299-57af-81ea-2d52d283e1f0
+offerId: cb1f5c7c-8b67-5109-b2ea-d8b2d1efd01b
 price:
   cents: 2295
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 53.97
 slug: 72x-varta-longlife-batterij-aa
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: 72x Varta Longlife Batterij | AA

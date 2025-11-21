@@ -1,22 +1,22 @@
-_id: 691b1f0a8dc6827e45dd9376
+_id: 691f3287bc73cfce67474f65
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2830812'
+  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
+classicId: '2836764'
 classicProductId: '630341'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 70
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 05cb1595-ea7a-4e2e-8e82-5cf7fa7a32b6
+id: 55982d75-04e3-4105-970b-2fd321b799c3
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1594720
+  id: 2222699
   priority: 100
-  slug: petrol-logo
+  slug: petrol-miami-florida-sweater-seashell
   type: logo
-offerId: 4cdf894a-1fd2-4568-8de4-e47add87e822
+offerId: 857f2eeb-dca7-4f00-8157-87a019809ffa
 price:
   cents: 1795
   currency: EUR
@@ -48,5 +48,5 @@ referencePrice:
   value: 59.99
 slug: petrol-miami-florida-sweater-seashell
 soldOut: false
-start: '2025-11-19T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Petrol Miami Florida Sweater | Seashell

@@ -1,22 +1,22 @@
-_id: 6913129c854d0e81bfbabb62
+_id: 691ed7bb6934ff72bb96ccce
 appOnly: false
 brand: Yale
 brands:
   - id: 9c6d965a-5791-52b9-925e-65f628b2b3e4
     name: Yale
 categories:
-  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
-classicId: '2822720'
+  - cd21ceba-2abe-5c9f-82f2-ff6d624f5e51
+classicId: '2833172'
 classicProductId: '322556'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 60
-end: '2025-11-20T22:59:59.999Z'
+discount: 73
+end: '2025-11-24T22:59:59.999Z'
 freeDelivery: false
-id: de18567c-a1d7-53bf-8dac-0bf3b94cdf6c
+id: de1abc73-f9ae-493e-a202-dc4de29bb30b
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 100
   slug: yale-y300cb-stalen-hangslot
   type: product
-offerId: ba5b892d-75a0-5f11-b106-eb08b4a73944
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 1432942
+  priority: 100
+  slug: yale-logo
+  type: logo
+offerId: a775e7ff-b6ff-4cfe-af35-4c828ae92e5b
 price:
-  cents: 2995
+  cents: 1995
   currency: EUR
-  value: 29.95
+  value: 19.95
 referencePrice:
   cents: 7506
   currency: EUR
   value: 75.06
 slug: yale-y300cb-stalen-hangslot
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Yale Y300cb Stalen Hangslot

@@ -1,12 +1,12 @@
-_id: 691b1d06bc958fea43318309
+_id: 691f18330b9be30ec2340882
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
-classicId: '2829397'
+  - d80923c1-f1d2-5dd2-a9b6-68ceb61b1e3d
+classicId: '2834367'
 classicProductId: '663894'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 58
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: e2b556cb-d3f2-4ae1-88a2-1f417656b33f
+id: 06d870e9-0bb8-47d1-8566-839417cf9e4e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2001405
+    - all
+  extension: image/png
+  id: e2a3ace8-ddc9-4090-b207-bde082138a04
   priority: 0
-  slug: 2x-bamboo-menstruatie-ondergoed-brief
+  slug: bamboo-02-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 101
   slug: bamboo-elements-logo-101
   type: logo
-offerId: 92091eab-1a1d-47f6-94df-e645cf3c3461
+offerId: 7425abf3-595a-4f17-b6a7-79e615de8aa7
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.9
 slug: 2x-bamboo-menstruatie-ondergoed-brief
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 2x Bamboo Menstruatie Ondergoed | Brief

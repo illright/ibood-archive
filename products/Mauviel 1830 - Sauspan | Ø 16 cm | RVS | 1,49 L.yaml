@@ -1,12 +1,12 @@
-_id: 691af596c0f40eb831a3fcbe
+_id: 691f0aa78b154b031aa5e6b8
 appOnly: false
 brand: Mauviel 1830
 brands:
   - id: 02547635-0087-5f5f-b714-da42dbc0de7c
     name: Mauviel 1830
 categories:
-  - 1d1af20f-ec2e-5ace-9ee9-7ee245e3557d
-classicId: '2826937'
+  - cdcaf10a-1b12-587b-9a7e-f1bf00154cf4
+classicId: '2833752'
 classicProductId: '461472'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: e0e6aecb-b9f7-4141-b092-f082726ebbba
+id: 0e996a6d-9363-4f06-bd7f-90b5b0cd4d1b
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2157580
+  extension: image/png
+  id: 76ebdeb2-84eb-4bc1-a69d-771e9cf6a021-tr
   priority: 0
-  slug: mauviel-1830-sauspan-16-cm-rvs
+  slug: mauviel-1830-saucentopf-16-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: mauviel-1830-logo
   type: logo
-offerId: 9162d942-7c89-4069-8d5f-d77fbb2d09dd
+offerId: c7fc4542-b571-40b9-902f-0cfc02d66ac7
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 79.99
 slug: mauviel-1830-sauspan-16-cm-rvs
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Mauviel 1830 - Sauspan | Ø 16 cm | RVS | 1,49 L

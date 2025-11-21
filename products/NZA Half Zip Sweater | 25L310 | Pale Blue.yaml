@@ -1,22 +1,22 @@
-_id: 691b1f98e20cb301e4313719
+_id: 691f33984a229b144538df62
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831361'
-classicProductId: '672773'
+  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
+classicId: '2836907'
+classicProductId: '672774'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 978f3aa1-cfac-4127-873f-0026f9e600c8
+id: d7708f88-9bd5-4a89-93f0-06be8dee03cf
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: 791ec17b-e7a8-4c46-895d-e188e6e42f4e
+offerId: 475b4d30-d104-4b12-8fd6-cf9d5f460674
 price:
   cents: 4995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 99.99
 slug: nza-half-zip-sweater-25l310-pale-blue
-soldOut: true
-start: '2025-11-19T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: NZA Half Zip Sweater | 25L310 | Pale Blue

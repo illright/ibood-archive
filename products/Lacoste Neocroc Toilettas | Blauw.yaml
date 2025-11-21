@@ -1,12 +1,12 @@
-_id: 691454e6a9a3c0206c086828
+_id: 691f1918ec9608c44af1cecc
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - e4a796b4-0bbb-59d7-be35-1b2b063319c2
-classicId: '2823692'
+  - f0f246c7-953a-51e7-a327-2caf8dba80ae
+classicId: '2834620'
 classicProductId: '678379'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 31
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: bc03ddc4-bf1f-58c2-8e0c-3e2ccd8e927d
+id: 639111ac-5365-4176-b2d9-0c5326f8c0ec
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: abimes-nu5089ne-53-4hn1-unisex-toilet-kit-lacoste-product-1
   type: product
-offerId: 73a9e926-dee4-56ea-88f5-1686a22f1d9b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: 8d648a16-9bad-469f-8370-06bbb161909c
 price:
   cents: 4495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 65
 slug: lacoste-neocroc-toilettas-blauw
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Lacoste Neocroc Toilettas | Blauw

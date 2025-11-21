@@ -1,44 +1,45 @@
-_id: 691b1d228dc6827e45dd92c5
+_id: 691f18a9dee708df7f144e8f
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - a7cc58b1-a035-5c8b-8552-ddff468120ba
-classicId: '2829463'
-classicProductId: '653608'
+  - 03763129-8617-525b-be86-a32203903ee3
+classicId: '2834495'
+classicProductId: '653596'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 52
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 0645e0b8-3cfa-48e1-9c1c-928e6897fdda
+id: fe6d121d-6d11-4c13-b638-a5b8c8c76fbc
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 85478827-bc2a-4be5-98db-4146473bd5d3
+  extension: image/jpeg
+  id: 1b52f313-0d9d-4118-8eba-16447e4a2f6c
   priority: 0
-  slug: reebok-01-png-product-1
+  slug: 42-ftwwht-glegrn-ftwwht-100032882-51-club-c-revenge-sneaker-unisex-reebok-product-3
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2011608
-  priority: 100
-  slug: reebok-logo
+    - all
+  extension: image/png
+  id: 17249b96-0511-4fe1-977f-eb1ae5689347
+  priority: 0
+  slug: reebok-png-logo-0
   type: logo
-offerId: 10f24821-450d-419c-819d-aad6018c6274
+offerId: 638623e4-c9b3-4cdf-a66d-ee093d0f7717
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 105
 slug: reebok-club-c-revenge-sneakers-unisex
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Reebok Club C Revenge Sneakers | Unisex

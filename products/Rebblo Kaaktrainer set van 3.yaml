@@ -1,12 +1,12 @@
-_id: 6915d576f16c9e47879734ef
+_id: 6915d2a6eee93e89eb364507
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825719'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825659'
 classicProductId: '561159'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 4446aeeb-00de-5933-a2d5-00ae13507fc1
+id: c8b92fc0-98cd-5bf6-b839-47c990a602f9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1899544
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d03e21a6-240d-4604-b91b-8ec9f536ef11-tr
   priority: 0
-  slug: rebblo-kiefertrainer-im-set-3-tlg
+  slug: rebblo-kiefertrainer-im-set-3-tlg-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: rebblo-logo
   type: logo
-offerId: 1f5474aa-5bd2-5910-a1b9-97e89aef4c26
+offerId: a06fe31c-00a9-59ac-8744-aa6105aa69d5
 price:
   cents: 895
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 14.95
 slug: rebblo-kaaktrainer-set-van-3
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Rebblo Kaaktrainer set van 3

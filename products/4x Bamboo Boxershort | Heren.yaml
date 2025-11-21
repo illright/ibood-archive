@@ -1,12 +1,12 @@
-_id: 6913222b8b8db303a5907aa9
+_id: 691f17985d722805ea885d66
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
-classicId: '2822851'
+  - d80923c1-f1d2-5dd2-a9b6-68ceb61b1e3d
+classicId: '2834230'
 classicProductId: '389298'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 62
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 598a5037-b28f-5ad3-a2f6-1ee01645dcb4
+id: db2ef54d-e9a5-4275-ac2b-11b70372451b
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 4x-bamboo-bambus-boxershorts
   type: product
-offerId: f28ff44c-e2d9-5776-86a9-795a73c05831
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1989006
+  priority: 100
+  slug: 4x-bamboo-bambus-boxershorts
+  type: logo
+offerId: 1857cbd3-d53a-481b-8473-93581d397854
 price:
   cents: 2295
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 59.95
 slug: 4x-bamboo-boxershort
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 4x Bamboo Boxershort | Heren

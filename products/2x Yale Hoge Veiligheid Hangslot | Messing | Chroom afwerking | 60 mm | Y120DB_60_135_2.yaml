@@ -1,12 +1,12 @@
-_id: 691319d9854d0e81bfbabb82
+_id: 691ed7c512cce2568dda36d8
 appOnly: false
 brand: Yale
 brands:
   - id: 9c6d965a-5791-52b9-925e-65f628b2b3e4
     name: Yale
 categories:
-  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
-classicId: '2822753'
+  - cd21ceba-2abe-5c9f-82f2-ff6d624f5e51
+classicId: '2833190'
 classicProductId: '678048'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 45
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-24T22:59:59.999Z'
 freeDelivery: false
-id: e5bef148-3d52-53f2-aa82-5bed4c0a9cf3
+id: f612184a-9ded-41e5-97fd-267f6e6186dc
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: yale-2-pack-hangslot-edc-y120db-60-135-2-product-4
   type: product
-offerId: d4440ca8-a018-53f2-8157-f35f6d659162
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 1432942
+  priority: 100
+  slug: yale-logo
+  type: logo
+offerId: 42a123f0-f1ec-4f06-aa5c-1d5135183b69
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 54.45
 slug: yale-2-pack-hangslot-edc-y120db-60-135-2
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 2x Yale Hoge Veiligheid Hangslot | Messing | Chroom afwerking | 60 mm | Y120DB/60/135/2

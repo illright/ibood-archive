@@ -1,29 +1,29 @@
-_id: 691afd80abfeb5b3f71ee9ee
+_id: 691f2ba090cdf8e2bc98070d
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - f0e099ee-de43-5c77-82af-9ea4e6221cc8
-classicId: '2827700'
-classicProductId: '624332'
+  - c8a86da0-2871-515e-b6f7-b9f71a380c41
+classicId: '2835333'
+classicProductId: '624333'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: a81b6497-6dce-46f4-9e9f-be5ac5dab2b7
+id: c83d488a-801c-4b98-be64-536a25b499ce
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2197395
+  id: 2197398
   priority: 0
   slug: helly-hansen-oslo-plus-rucksack-16-liter
   type: product
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: aa33fb3b-53ec-4e57-925d-525cce1e58d7
+offerId: b4f79b3f-34c0-4606-917a-44ceb140b491
 price:
   cents: 3500
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 80
 slug: helly-hansen-oslo-plus-rugzak
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Helly Hansen Oslo Plus Rugzak

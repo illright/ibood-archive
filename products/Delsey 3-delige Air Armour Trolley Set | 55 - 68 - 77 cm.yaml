@@ -1,34 +1,43 @@
-_id: 6911e290bd15fb2c4903498d
+_id: 691f1901bbb5703a2f165b29
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 6d92414f-c773-5e05-8000-315af3dd31a1
-classicId: '2821125'
+  - f0f246c7-953a-51e7-a327-2caf8dba80ae
+classicId: '2834574'
 classicProductId: '543067'
 deliveryPrice:
-  cents: 595
+  cents: 895
   currency: EUR
-  value: 5.95
-directCheckout: false
+  value: 8.95
+directCheckout: true
 discount: 48
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 07f996f2-8b54-5e39-9b78-e049d4190f61
+id: 395882e9-e5d5-4fe4-947a-4d774078c2ac
 image:
   channels:
-    - newsletter
-    - all
     - website
     - app
-  extension: image/png
-  id: 1036d9da-5bfa-405c-9ff5-48c48b976259
+    - newsletter
+  extension: png
+  id: 2160581
   priority: 0
-  slug: delsey-koffers-png-product-1
+  slug: delsey-3-delige-air-armour-trolley-set
   type: product
-offerId: 51480bc5-2caa-5855-93db-c34e997be72d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
+  type: logo
+offerId: f4f00e9e-9ca3-4dea-b1b1-7e3c89b30b3b
 price:
   cents: 25500
   currency: EUR
@@ -39,5 +48,5 @@ referencePrice:
   value: 489
 slug: delsey-3-delige-air-armour-trolley-set
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Delsey 3-delige Air Armour Trolley Set | 55 - 68 - 77 cm

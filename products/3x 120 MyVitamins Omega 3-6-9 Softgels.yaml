@@ -1,12 +1,12 @@
-_id: 6911c8c4c43cf76a0108f9fb
+_id: 691f2dfabbb5703a2f165bef
 appOnly: false
 brand: MyProtein
 brands:
   - id: 5d1e6318-10d4-5152-842b-30593b51fa02
     name: MyProtein
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2820015'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836223'
 classicProductId: '677723'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 598b068b-cbae-5bdd-8272-aecbb7f75878
+id: 17278823-2b9d-4f14-9c3e-5df95afbac2f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: myvitamins-01-png-product-1
   type: product
-offerId: 9330830e-d1c6-54fb-b46b-a9d0a6804e63
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1876835
+  priority: 100
+  slug: myprotein-logo
+  type: logo
+offerId: 6debdc92-edb7-4c51-a35f-da1e542ee816
 price:
   cents: 1495
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 44.97
 slug: 3x-120-myvitamins-omega-3-6-9-softgels
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: 3x 120 MyVitamins Omega 3-6-9 Softgels

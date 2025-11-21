@@ -1,12 +1,12 @@
-_id: 691593c2eee93e89eb3642bc
+_id: 691f2d72f0d3e2bd5480f37e
 appOnly: false
 brand: Fisherman’s Friend
 brands:
   - id: 37f5dce8-21ec-5677-97e6-ed2bb1c70acc
     name: Fisherman’s Friend
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2825291'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2835907'
 classicProductId: '678557'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 03e7c0c6-760a-5cb2-ab59-53da57e3c21e
+id: d9ceb7a8-ed41-4aac-a67c-44227186d4d8
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 24x-fisherman-s-friend-spearmint-25g-product-0
   type: product
-offerId: 43e94027-2ddd-5edf-b73f-a3205ab2c194
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f72f9f61-e1f8-422c-aa51-5e1773218d8f
+  priority: 0
+  slug: fisherman-s-friend-logo-0
+  type: logo
+offerId: 4dfdaf3d-7112-4fd7-aaaa-ead98dcd8245
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 35.76
 slug: 24x-fisherman-s-friend-spearmint-25-g
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 24x Fisherman's Friend Spearmint | 25 g

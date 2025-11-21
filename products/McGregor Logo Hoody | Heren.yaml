@@ -1,22 +1,22 @@
-_id: 691b1cb98fec3e22a4a87621
+_id: 691f339e99679535f617ff04
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 65d00743-fdac-5620-a45e-c0706a847480
-classicId: '2829248'
+  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
+classicId: '2836914'
 classicProductId: '669618'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2025-11-20T22:59:59.000Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 136a1c01-7cc3-4c83-9431-a757e06572b6
+id: 1853bd99-d282-41fa-86ae-1596f7ec078a
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: mcgregor-02-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1765373
-  priority: 100
-  slug: mcgregor-logo
-  type: logo
-offerId: e69d5d68-5dee-46c2-ae50-62eea13641e6
+offerId: 3d113334-8fe9-47a0-bf1e-6fa0486a8141
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 99.95
 slug: mcgregor-logo-hoody-heren
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: McGregor Logo Hoody | Heren

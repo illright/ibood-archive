@@ -1,12 +1,12 @@
-_id: 691489270030d10ffb442721
+_id: 691f2deb8955ba40652f5576
 appOnly: false
 brand: L'Oreal
 brands:
   - id: 0f1aa44b-2052-5292-9466-40ec16b9346e
     name: L'Oreal
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2824697'
+  - 3d90d059-bab3-5e52-93bf-fbc899233f45
+classicId: '2836184'
 classicProductId: '53370'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: d67d5c1d-7242-5ac7-b2b2-dcca7d6e37f8
+id: 0efafcc4-c698-44e3-b5d3-df01c23cc5c8
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1487434
-  priority: 100
-  slug: l-oreal-logo
+    - all
+  extension: image/png
+  id: 5e0d9441-296f-4dab-8f6c-1c4620ec9706
+  priority: 101
+  slug: l-oreal-logo-101
   type: logo
-offerId: d293ad5b-b82d-59c1-ad9c-b0da90caab44
+offerId: 0a194365-fce1-4e91-9ac2-eb86def837cc
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 89.99
 slug: 6x-loreal-hydra-energetic-moisturizer
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 6x L’Oréal Paris Hydra Energetic Moisturizer | 50 ml

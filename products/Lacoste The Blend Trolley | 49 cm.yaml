@@ -1,12 +1,12 @@
-_id: 691454e6a9a3c0206c086822
+_id: 691f193c99679535f617fe04
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - e4a796b4-0bbb-59d7-be35-1b2b063319c2
-classicId: '2823691'
+  - f0f246c7-953a-51e7-a327-2caf8dba80ae
+classicId: '2834702'
 classicProductId: '678378'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 31
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: a8a7836a-9868-5399-b2fc-2995eaa28676
+id: dca56f23-4f53-4832-8268-4e2bb52c265d
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: monogram-black-gris-nu4664lx-53-4hx1-unisex-trolley-lacoste-product-4
   type: product
-offerId: fc6e885f-6bd1-5882-b59f-d9961f9e375d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: ad795c87-6f43-42a3-b1c3-8e5181ca12df
 price:
   cents: 26995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 390
 slug: lacoste-the-blend-trolley-49-cm
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Lacoste The Blend Trolley | 49 cm

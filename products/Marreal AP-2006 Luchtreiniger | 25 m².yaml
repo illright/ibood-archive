@@ -1,22 +1,22 @@
-_id: 691b3520bf74a77ded9eb8a1
+_id: 691f0a6263fdc8b95338f320
 appOnly: false
 brand: Marreal
 brands:
   - id: 4cc968b8-a7a5-5f4e-ae95-03b5a15500d5
     name: Marreal
 categories:
-  - 81e85a4d-ff4a-58fc-a9eb-3edb05ec30d0
-classicId: '2832055'
+  - 07858119-f9ae-55cf-8f8a-8f10a825ce31
+classicId: '2833591'
 classicProductId: '648307'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 87
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 84ebe6fb-bf2b-41b3-9288-b4c88f6a1781
+id: 84b2a61f-b560-45b4-bc6f-18a04b247adf
 image:
   channels:
     - app
@@ -24,11 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 47b1a58a-bf6a-40a9-b2ab-a3d3488c20ba
+  id: af1d7f34-d34b-472f-b585-d9a3662175f9
   priority: 0
-  slug: air3-png-product-2
+  slug: marreal-01-png-product-1
   type: product
-offerId: ad18cb01-3591-4d0d-866a-e918cd86bd76
+offerId: 074c347b-ad7f-4465-8b79-0a1027b1868f
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +39,5 @@ referencePrice:
   value: 189.95
 slug: marreal-ap-2006-luchtreiniger-25-m2
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Marreal AP-2006 Luchtreiniger | 25 m²

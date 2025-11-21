@@ -1,22 +1,22 @@
-_id: 6915a77deee93e89eb364324
+_id: 691f0a99dbc38c0d69842a33
 appOnly: false
 brand: BK
 brands:
   - id: e5056490-ff9e-545f-98cd-4e160da1629d
     name: BK
 categories:
-  - 1d1af20f-ec2e-5ace-9ee9-7ee245e3557d
-classicId: '2825345'
-classicProductId: '678625'
+  - cdcaf10a-1b12-587b-9a7e-f1bf00154cf4
+classicId: '2833713'
+classicProductId: '654472'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 60
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: a7bc0792-068c-5482-b607-b4f505c1d4f5
+id: 4aeb0853-ae45-4f74-a2ae-a70f1a236a6a
 image:
   channels:
     - app
@@ -34,12 +34,12 @@ logo:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 20abb61b-5c19-429b-85c6-21e8da81c1c1
+  extension: image/png
+  id: e4b733db-716a-46c5-a142-6a87fc8d1429
   priority: 0
-  slug: bk-logo-101
+  slug: bk-png-logo-0
   type: logo
-offerId: 892df7ba-cf99-52e0-9dda-ace39d81c7c1
+offerId: d65e9dd4-8e67-47a3-a887-e8baff2a5228
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 86.98
 slug: bk-blue-label-set-van-2-koekenpannen-24-28-cm
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: BK Blue Label Set van 2 Koekenpannen | Ø 24 + 28 cm

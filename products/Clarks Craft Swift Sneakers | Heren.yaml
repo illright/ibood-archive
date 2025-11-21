@@ -1,32 +1,31 @@
-_id: 691b1cf1941657cef48869c1
+_id: 691f190578f9801cde3327d4
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - a7cc58b1-a035-5c8b-8552-ddff468120ba
-classicId: '2829329'
-classicProductId: '510561'
+  - 03763129-8617-525b-be86-a32203903ee3
+classicId: '2834585'
+classicProductId: '561837'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2025-11-20T22:59:59.999Z'
+directCheckout: true
+discount: 67
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 549577cc-f7b7-43d2-997e-44fedd6e5637
+id: ce501a2f-7bca-45e7-a412-f6bfad9d08a7
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 43336a28-44fa-439b-b524-e392d835d61b
+  extension: jpg
+  id: 2205545
   priority: 0
-  slug: cl01-png-product-1
+  slug: clarks-craft-swift-sneakers-heren
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: clarks-logo
   type: logo
-offerId: f19ced8a-3ada-4192-8f66-0ed5d67a0928
+offerId: 3cc6f016-3ffa-41d5-910c-cd0a55797fc3
 price:
-  cents: 5995
+  cents: 3995
   currency: EUR
-  value: 59.95
+  value: 39.95
 referencePrice:
   cents: 12000
   currency: EUR
   value: 120
 slug: clarks-craft-swift-sneakers-heren
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Clarks Craft Swift Sneakers | Heren

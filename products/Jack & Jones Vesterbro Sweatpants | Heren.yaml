@@ -1,22 +1,22 @@
-_id: 691b1da18dc6827e45dd92ec
+_id: 691f2dbe4a229b144538defa
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 5f6cce01-4f5a-506a-9858-f8d3f36ed1b7
-classicId: '2829726'
-classicProductId: '652616'
+  - 6f27de36-56c4-5b9b-9505-937323d845b3
+classicId: '2836046'
+classicProductId: '652626'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 9adb4b20-0943-4fba-96e0-451165e2d293
+id: f3c6acec-399b-40ed-b1d9-f40a5af68df0
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: be057c6e-deeb-48ff-b4b4-0715c4836d92
+  id: e27b5d0d-39f8-45e7-bd08-77e591c061e3
   priority: 0
-  slug: m-black-12266535-jwhvesterbro-sweat-pants-jack-and-jones-pants-studio-product-0
+  slug: l-iron-gate-12266535-jwhvesterbro-sweat-pants-jack-and-jones-pants-studio-product-0
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 240e0220-1395-4803-a01a-f74f84dd1433
+offerId: ad3bd0d0-a0ea-4b1f-b0db-0701bfd5db5f
 price:
   cents: 1995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: jack-jones-vesterbro-sweatpants-heren
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Jack & Jones Vesterbro Sweatpants | Heren

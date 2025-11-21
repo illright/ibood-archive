@@ -1,22 +1,22 @@
-_id: 691b1f5b8fec3e22a4a876fe
+_id: 691f33603427864c221e514f
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831127'
+  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
+classicId: '2836870'
 classicProductId: '670094'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: a015d1ba-de20-43a1-939d-d3d80988ca52
+id: 10dd73a8-8ded-4faa-a8f0-3a1b579ee415
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: xl-indie-blue-m-3050-swh307-5190-men-sweater-hooded-zip-petrol-product-6
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
-  type: logo
-offerId: d6bb3d8e-8824-4278-8889-44c7b88ec0c0
+offerId: dedee2f3-b9df-4331-8e10-13a93356bd35
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 59.99
 slug: petrol-industries-hoodie-met-rits-heren
 soldOut: false
-start: '2025-11-19T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Petrol Industries Hoodie met Rits | Heren

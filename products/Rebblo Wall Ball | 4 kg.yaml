@@ -1,12 +1,12 @@
-_id: 6915d582803bc21f0779f910
+_id: 6915d2b5803bc21f0779f8e2
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825729'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825667'
 classicProductId: '477122'
 deliveryPrice:
   cents: 595
@@ -14,30 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 75545d11-90b0-52bf-997c-6cd2a58315f3
+id: c303e5cc-9c21-5e78-813f-059f58df8325
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1605284
+    - all
+  extension: image/jpeg
+  id: 43d7f26c-5884-4b88-9743-cbf6ab48e6d8
   priority: 0
-  slug: rebblo-wall-ball-gewichtsball-4-kg
+  slug: rebblo-wall-ball-gewichtsball-4-kg-jpg-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1696206
-  priority: 100
-  slug: rebblo-logo
-  type: logo
-offerId: 0857d0cc-752c-5523-85e9-da2fabb0d96f
+offerId: d45012ce-0493-57ca-8df3-8b07230af1e6
 price:
   cents: 2795
   currency: EUR
@@ -48,5 +39,5 @@ referencePrice:
   value: 123.95
 slug: rebblo-wall-ball-4-kg
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Rebblo Wall Ball | 4 kg

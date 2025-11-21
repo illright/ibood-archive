@@ -1,22 +1,22 @@
-_id: 691b1e664b405c5575154cd7
+_id: 691f2debafe8356ad9ee8563
 appOnly: false
 brand: MyProtein
 brands:
   - id: 5d1e6318-10d4-5152-842b-30593b51fa02
     name: MyProtein
 categories:
-  - af86ef13-ba38-5ba7-a9f4-c5250f833bf1
-classicId: '2830059'
-classicProductId: '382662'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836181'
+classicProductId: '382663'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 41
-end: '2025-11-20T22:59:59.999Z'
+discount: 47
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 852d652d-af24-4f90-b6ff-27a10a75aa27
+id: 35810ef1-afc7-440e-b1ef-b250fced2d01
 image:
   channels:
     - website
@@ -25,7 +25,7 @@ image:
   extension: png
   id: 1688397
   priority: 0
-  slug: 12x-myprotein-riegel
+  slug: 12x-myprotein-layered-bar
   type: product
 logo:
   channels:
@@ -33,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1876835
+  id: 1688226
   priority: 100
-  slug: myprotein-logo
+  slug: 12x-myprotein-layered-bar
   type: logo
-offerId: a69e35b6-9e92-452d-b70b-09c4956536dd
+offerId: d5bc8f49-fa9f-4d5c-938c-a2161007110a
 price:
-  cents: 1995
+  cents: 1795
   currency: EUR
-  value: 19.95
+  value: 17.95
 referencePrice:
   cents: 3398
   currency: EUR
   value: 33.98
 slug: 12x-myprotein-layered-bar
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 12x MyProtein Layered Bar

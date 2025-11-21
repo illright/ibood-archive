@@ -1,22 +1,22 @@
-_id: 690492d53955bb98f976a2d6
+_id: 691f2c23eb6a5dabcdd51d1a
 appOnly: false
 brand: Dash
 brands:
   - id: da60b153-3965-5af9-bc41-3d8c68182c54
     name: Dash
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2809966'
+  - 0b2e7319-d6b7-5ee1-a166-6792f07c9956
+classicId: '2835425'
 classicProductId: '651959'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 60
-end: '2025-11-20T22:59:59.999Z'
+discount: 59
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 69018374-5ce4-58d6-b35d-3175291589d8
+id: a74579d0-fad5-45ef-9aa9-f1deb49b7307
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: dash-03-png-product-1
   type: product
-offerId: dfb83262-8dde-5c5a-9964-f414ac4ae303
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5e169dfa-5858-49a2-81e3-1bcd79a39b2d
+  priority: 0
+  slug: dash-logo-0
+  type: logo
+offerId: e71d1e0a-10b0-4a3b-99a2-29e4d8571fc5
 price:
-  cents: 3195
+  cents: 3295
   currency: EUR
-  value: 31.95
+  value: 32.95
 referencePrice:
   cents: 7996
   currency: EUR
   value: 79.96
 slug: 128x-dash-4in1-platinum-wasmiddel-pods
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 128x Dash 4in1 Platinum Wasmiddel Pods met Extra Vlekkenverwijdering

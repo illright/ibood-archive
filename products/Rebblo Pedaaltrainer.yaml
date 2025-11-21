@@ -1,12 +1,12 @@
-_id: 6915d58743f6a59c3b0af128
+_id: 6915d2b9803bc21f0779f8ec
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825735'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825673'
 classicProductId: '502003'
 deliveryPrice:
   cents: 595
@@ -14,30 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: ef5ea506-7a90-5b1c-8197-5ffbd684ee83
+id: f01ea301-6e47-583c-b51d-6652a55a49c5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1694141
+    - all
+  extension: image/png
+  id: d2d24340-b508-4eb1-92dc-86c1457e4bae-tr
   priority: 0
-  slug: rebblo-pedaltrainer
+  slug: rebblo-pedaltrainer-jpg-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1696206
-  priority: 100
-  slug: rebblo-logo
-  type: logo
-offerId: 4e11e9ad-2904-52d9-8ae8-348d850a9389
+offerId: 30eadd0c-3d71-578b-9aa3-995b97f252a5
 price:
   cents: 3495
   currency: EUR
@@ -48,5 +39,5 @@ referencePrice:
   value: 114.95
 slug: rebblo-pedaaltrainer
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: "Rebblo\_Pedaaltrainer"

@@ -1,12 +1,12 @@
-_id: 69132296854d0e81bfbabc2d
+_id: 691f17ebc0d31947e54f3c17
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 6b318ee9-471d-507a-a67b-0acfdaab9c5b
-classicId: '2822855'
+  - d80923c1-f1d2-5dd2-a9b6-68ceb61b1e3d
+classicId: '2834297'
 classicProductId: '630515'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 58
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 5ea3a19c-800d-5fc0-a242-6b9e0a782ae0
+id: 85239dbf-a8b7-4341-81ae-59b702294fd1
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: main-png-product-2
   type: product
-offerId: 9c01c16e-a87e-50a9-8f40-6302b77afa81
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
+  type: logo
+offerId: 20dd0b49-829d-4192-ae82-cf6fb32df3c5
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.95
 slug: 2x-bamboo-elements-t-shirt
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 2x Bamboo Elements T-Shirt | Ronde of V-Hals

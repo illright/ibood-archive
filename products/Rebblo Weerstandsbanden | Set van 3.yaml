@@ -1,12 +1,12 @@
-_id: 6915d596223c2983e8064e58
+_id: 6915d2c443f6a59c3b0af120
 appOnly: false
 brand: Rebblo
 brands:
   - id: 1c0d8bc2-8312-5348-a560-ab57fc730d92
     name: Rebblo
 categories:
-  - f854cda5-6ef0-59a4-b125-d8b2ead2b342
-classicId: '2825742'
+  - 85a68673-f5f6-57b8-b15e-63fdae6e5733
+classicId: '2825683'
 classicProductId: '272538'
 deliveryPrice:
   cents: 395
@@ -14,30 +14,23 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 73
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 8e417e22-0de7-5e85-8319-90dd9b8fb026
+id: f38ad8d6-5813-5f23-9be2-bddee64c41c0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 776257
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9ba91168-575a-4728-8e31-ca4be6706d44-tr
   priority: 0
-  slug: rebblo-weerstandsbanden-set-van-3
+  slug: widerstandsbander-3-stuck-jpg-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1696206
-  priority: 100
-  slug: rebblo-logo
-  type: logo
-offerId: 06c4b540-4c1c-53c8-83bb-1449cf397c7e
+offerId: ee2426f8-3f60-5a6f-bd54-2399bafb214f
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +41,5 @@ referencePrice:
   value: 54.95
 slug: rebblo-weerstandsbanden-set-van-3
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Rebblo Weerstandsbanden | Set van 3

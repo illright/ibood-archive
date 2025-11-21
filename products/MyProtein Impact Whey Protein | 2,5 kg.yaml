@@ -1,22 +1,22 @@
-_id: 691b1ec1b1fe3b1d98ee046d
+_id: 691f2de6f0d3e2bd5480f3a7
 appOnly: false
 brand: MyProtein
 brands:
   - id: 5d1e6318-10d4-5152-842b-30593b51fa02
     name: MyProtein
 categories:
-  - af86ef13-ba38-5ba7-a9f4-c5250f833bf1
-classicId: '2830524'
-classicProductId: '514893'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836171'
+classicProductId: '328336'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 33
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 0db31c52-8215-498b-9ccd-e0e701f96207
+id: fb105bc3-0acf-4688-a783-c02c4fed6f97
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: myprotein-logo
   type: logo
-offerId: d686b97b-f250-4192-85d4-8ad37a40f8bf
+offerId: 221ed69e-6268-4dd7-89bf-2697eeb2910b
 price:
   cents: 4995
   currency: EUR
@@ -48,5 +48,5 @@ referencePrice:
   value: 74.99
 slug: myprotein-impact-whey-protein-25-kg
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: MyProtein Impact Whey Protein | 2,5 kg

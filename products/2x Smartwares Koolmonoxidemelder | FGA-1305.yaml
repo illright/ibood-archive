@@ -1,12 +1,12 @@
-_id: 690ca79d740b1bc5f116f261
+_id: 691ed7f863fdc8b95338f301
 appOnly: false
 brand: Smartwares
 brands:
   - id: 576da428-3edf-5c2a-8133-8b00d79538ab
     name: Smartwares
 categories:
-  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
-classicId: '2818019'
+  - cd21ceba-2abe-5c9f-82f2-ff6d624f5e51
+classicId: '2833265'
 classicProductId: '677430'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-24T22:59:59.999Z'
 freeDelivery: false
-id: 5cf1327d-38fb-5645-b2a3-39bf9553a9cb
+id: dd17d91c-24ba-4ffe-b432-05db58abc689
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: smartwareszs-png-product-1
   type: product
-offerId: a69f6b4b-d352-5f81-97a8-37a0003e0ae4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1634806
+  priority: 100
+  slug: smartwares-logo
+  type: logo
+offerId: edb922a4-d222-4e8c-afb2-c9fac6288be1
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 49.98
 slug: 2x-smartwares-koolmonoxidemelder-10-jaar-fga-1305
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 2x Smartwares Koolmonoxidemelder | FGA-1305

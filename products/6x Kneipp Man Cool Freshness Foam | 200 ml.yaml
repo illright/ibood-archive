@@ -1,22 +1,22 @@
-_id: 690c5c24d8e31e1c8e21017b
+_id: 691f2ddb55ca917b1d980340
 appOnly: false
 brand: Kneipp
 brands:
   - id: 245a04d2-57d4-57cb-9862-42e7828e14d7
     name: Kneipp
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2816976'
+  - 3d90d059-bab3-5e52-93bf-fbc899233f45
+classicId: '2836145'
 classicProductId: '471035'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
-end: '2025-11-20T22:59:59.999Z'
+discount: 58
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 8eace0bf-f667-55aa-8e6d-2f00f857f6f7
+id: a69c96a7-797c-4c56-a81d-00d67142d907
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: 6x-kneipp-kuhle-frische-duschschaum-200-ml
   type: product
-offerId: 7a092577-7bb4-5562-b565-6f63ce4fd83f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1912761
+  priority: 100
+  slug: kneipp-logo
+  type: logo
+offerId: 21cbe237-1aa8-4e3d-9cd5-8213e6e02dc6
 price:
-  cents: 2295
+  cents: 2495
   currency: EUR
-  value: 22.95
+  value: 24.95
 referencePrice:
   cents: 5994
   currency: EUR
   value: 59.94
 slug: 6x-kneipp-man-cool-freshness-foam-200-ml
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 6x Kneipp Man Cool Freshness Foam | 200 ml

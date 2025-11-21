@@ -1,12 +1,12 @@
-_id: 690df7ae9c3e9356e152820d
+_id: 691f2c3938c50501657e1229
 appOnly: false
 brand: Dreft
 brands:
   - id: 18c0c9f2-49bc-56f9-a912-d3b1334ea7eb
     name: Dreft
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2818704'
+  - 0b2e7319-d6b7-5ee1-a166-6792f07c9956
+classicId: '2835469'
 classicProductId: '655474'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 88696fc9-23c6-5d8b-8fe8-f1de26ed4c2b
+id: 9ac37415-f174-42a2-b78f-516f5baf8e20
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 4x-dreft-vloeibaar-wasmiddel-regular-52sc-208sc-product-1
   type: product
-offerId: b47b1cad-f1be-5c06-825a-7948a21b2323
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0cbc7681-1a41-4970-b158-3ff83fa6e084
+  priority: 0
+  slug: dreft-logo-0
+  type: logo
+offerId: 53e84b14-3234-421e-8361-d709e8854eb7
 price:
   cents: 3295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 99.96
 slug: 4x-dreft-vloeibaar-wasmiddel-regular-2-34-l-208sc
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 4x Dreft Vloeibaar Wasmiddel Regular | 2,34 L (208sc)

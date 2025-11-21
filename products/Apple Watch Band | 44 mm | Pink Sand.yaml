@@ -1,12 +1,12 @@
-_id: 691b2d973befe883388b7d93
+_id: 691f1d8755ca917b1d9802c8
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - dbba2784-289e-59f4-beb3-f8552c761e2b
-classicId: '2831759'
+  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
+classicId: '2835085'
 classicProductId: '644382'
 deliveryPrice:
   cents: 395
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 80
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-26T22:59:59.999Z'
 freeDelivery: false
-id: 84f92ff0-1cc6-48c3-b9e3-837f3e444304
+id: fc8f295c-b941-43bb-bd9f-5b8dd759b54b
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7b2570f3-c83c-41b3-a6f8-6dee6b545e0f
+  extension: jpg
+  id: 2269540
   priority: 0
-  slug: 1-png-product-1
+  slug: apple-sport-band-pink-sand-44-mm
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: 2e48dc00-1381-4639-b526-3c8300d6e535
+offerId: d81db1ee-bfd4-4400-9938-b11f8955f887
 price:
   cents: 995
   currency: EUR
@@ -48,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: apple-watch-band-44-mm-pink-sand
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Apple Watch Band | 44 mm | Pink Sand

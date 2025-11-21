@@ -1,22 +1,22 @@
-_id: 691b1f8cbf74a77ded9eb846
+_id: 691f2d70eb6a5dabcdd51d51
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831312'
-classicProductId: '627901'
+  - 6f27de36-56c4-5b9b-9505-937323d845b3
+classicId: '2835900'
+classicProductId: '627903'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 77
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: d8f1dd85-2894-4fdc-80bb-69994804a0fe
+id: 853b0dc2-d63d-47f4-bf5b-997694d65377
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1765373
+  id: 2198761
   priority: 100
-  slug: mcgregor-logo
+  slug: mcgregor-corduroy-chino-modern-fit
   type: logo
-offerId: 4b7926bc-71d4-40c7-afd9-824bcec9da3b
+offerId: 54d1f8d7-eaa5-4dcd-a9e8-166e4eb47285
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +48,5 @@ referencePrice:
   value: 129.95
 slug: mcgregor-corduroy-chino-modern-fit
 soldOut: false
-start: '2025-11-19T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: McGregor Corduroy Chino | Modern Fit

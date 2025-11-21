@@ -1,22 +1,22 @@
-_id: 691b1dacd33a43dedb542137
+_id: 691f3406eb574b5d8f8ea592
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 5f6cce01-4f5a-506a-9858-f8d3f36ed1b7
-classicId: '2829756'
-classicProductId: '557187'
+  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
+classicId: '2836993'
+classicProductId: '557199'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 2cd3cedc-c8d3-48fd-835d-116ae647ca2b
+id: 0a2fdd24-88fe-4149-bf0a-462a357bf048
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 8d7ba9a1-7486-42b2-887d-5b0bd35eb996
+offerId: e494f204-a832-432e-b41e-5ed1fa1fe043
 price:
   cents: 2195
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: jack-jones-core-classic-sweater
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Jack & Jones Core Classic Sweater

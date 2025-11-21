@@ -1,12 +1,12 @@
-_id: 691454e6a9a3c0206c086827
+_id: 691f19072deebb2fb3aebd66
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - e4a796b4-0bbb-59d7-be35-1b2b063319c2
-classicId: '2823693'
+  - f0f246c7-953a-51e7-a327-2caf8dba80ae
+classicId: '2834586'
 classicProductId: '678377'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 28
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 68a39979-4d98-5bf3-a0ab-8471c62e56ea
+id: b47cb949-cd11-4713-9b8a-66617bc56506
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: marine-166-nh3270ce-53-4hg1-unisex-reporter-bag-lacoste-product-2
   type: product
-offerId: 16f0b752-cf90-53a5-b895-9252664f0b87
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: 75c4b20d-2f4c-435d-a030-dabf997af33d
 price:
   cents: 12995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 180
 slug: lacoste-chantaco-reportertas
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Lacoste Chantaco Reportertas

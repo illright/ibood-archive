@@ -1,22 +1,22 @@
-_id: 6914705d0030d10ffb442694
+_id: 691ed7f838c50501657e112d
 appOnly: false
 brand: Velleman
 brands:
   - id: bfbaa7de-e419-52bd-b68f-dcdd8f8be509
     name: Velleman
 categories:
-  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
-classicId: '2824616'
+  - cd21ceba-2abe-5c9f-82f2-ff6d624f5e51
+classicId: '2833267'
 classicProductId: '483644'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
-discount: 24
-end: '2025-11-20T22:59:59.999Z'
+discount: 41
+end: '2025-11-24T22:59:59.999Z'
 freeDelivery: false
-id: 608209a6-fbe5-5861-9ef8-40c6e2486fc4
+id: 510eb6d7-a3a2-445b-b275-7dd6b04f054d
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 100
   slug: velleman-precisietangenset-5-delig
   type: product
-offerId: 68108ebc-3e80-5f2c-a61d-b4c8515dfc94
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1528101
+  priority: 100
+  slug: velleman-logo
+  type: logo
+offerId: 3f69ece4-a184-4091-9966-5287d4b785c0
 price:
-  cents: 1295
+  cents: 995
   currency: EUR
-  value: 12.95
+  value: 9.95
 referencePrice:
   cents: 1695
   currency: EUR
   value: 16.95
 slug: velleman-precisietangenset-5-delig
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Velleman Precisietangenset | 5-delig

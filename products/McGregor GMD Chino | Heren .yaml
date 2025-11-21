@@ -1,22 +1,22 @@
-_id: 691b1cbb4f34ea2df995be94
+_id: 691f2dc3eb574b5d8f8ea515
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 65d00743-fdac-5620-a45e-c0706a847480
-classicId: '2829252'
-classicProductId: '470354'
+  - 6f27de36-56c4-5b9b-9505-937323d845b3
+classicId: '2836065'
+classicProductId: '470352'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 77
-end: '2025-11-20T22:59:59.000Z'
+directCheckout: false
+discount: 67
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: aa093505-544b-46c4-9959-88715b4d6aa4
+id: 50a0ff8d-c262-4ebc-8692-8961fb2c2045
 image:
   channels:
     - website
@@ -33,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1765373
+  id: 1593222
   priority: 100
-  slug: mcgregor-logo
+  slug: mcgregor-gmd-chino
   type: logo
-offerId: 3d21bf9c-c626-4468-b882-43b6f5d254e2
+offerId: 3bfdf6a1-0816-4ead-abf4-64e9a9db89f4
 price:
-  cents: 2795
+  cents: 3995
   currency: EUR
-  value: 27.95
+  value: 39.95
 referencePrice:
   cents: 11995
   currency: EUR
   value: 119.95
 slug: mcgregor-gmd-chino
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: 'McGregor GMD Chino | Heren '

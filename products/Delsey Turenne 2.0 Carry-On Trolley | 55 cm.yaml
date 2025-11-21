@@ -1,22 +1,22 @@
-_id: 691b1301b7fad4ccab4f452d
+_id: 691f1915f45e80bec2072889
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 6d92414f-c773-5e05-8000-315af3dd31a1
-classicId: '2829025'
+  - f0f246c7-953a-51e7-a327-2caf8dba80ae
+classicId: '2834616'
 classicProductId: '665227'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 63
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 0dd22f0f-c7a5-481c-89b6-4e67747e5162
+id: bba40852-996e-463f-be83-32c6b1ebd652
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612713
-  priority: 100
-  slug: delsey-logo
+    - all
+  extension: image/png
+  id: 203d0130-98e3-4208-90b2-1dad165f2bbb
+  priority: 0
+  slug: delsey-logo-png-logo-0
   type: logo
-offerId: c5072b3b-85d2-472e-a73e-340eba8cd75f
+offerId: bc0f4482-d121-4753-817e-b3cadf2059dc
 price:
   cents: 12995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 349
 slug: delsey-turenne-2-0-carry-on-trolley-55-cm
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Delsey Turenne 2.0 Carry-On Trolley | 55 cm

@@ -1,22 +1,22 @@
-_id: 691b1d532df1e1dcaa78cd14
+_id: 691f2d040fb59327a9b4b449
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 5f6cce01-4f5a-506a-9858-f8d3f36ed1b7
-classicId: '2829563'
-classicProductId: '653982'
+  - 04e8d65e-71a8-51b4-bbe6-06894c9a5a77
+classicId: '2835696'
+classicProductId: '653984'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2025-11-19T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: e59860e2-f30c-4834-9d43-f0d3c924b114
+id: 4aa069f9-7584-4e97-976a-de9575bec65e
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 96e77fad-483b-4259-96be-f704543bd339
+offerId: e20bef3c-f89c-4264-8cf9-fbc2218c628c
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 59.99
 slug: jack-jones-eddie-corduroy-overhemd-buttercream
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Jack & Jones Eddie Corduroy Overhemd | Buttercream

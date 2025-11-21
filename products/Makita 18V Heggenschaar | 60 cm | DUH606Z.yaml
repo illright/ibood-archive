@@ -1,12 +1,12 @@
-_id: 691451a5a9a3c0206c0867f0
+_id: 691ed78788d6100beb55139c
 appOnly: false
 brand: Makita
 brands:
   - id: 3dbfbe86-4ed5-5b75-9ebb-fbc198e478a4
     name: Makita
 categories:
-  - 24896e5e-bda0-5cab-99c8-c3a3c7dd9b88
-classicId: '2823673'
+  - cd21ceba-2abe-5c9f-82f2-ff6d624f5e51
+classicId: '2833085'
 classicProductId: '671694'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 34
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-24T22:59:59.999Z'
 freeDelivery: false
-id: a86d3ee3-d0fb-529b-a96f-91e3a97041e2
+id: 3e8b2994-c259-4b07-984f-059a13e42987
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: makita-duh606z-heggenschaar-product-6
   type: product
-offerId: 83ddab68-058a-52b1-865a-78ba974c5ad9
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1699648
+  priority: 100
+  slug: makita-logo
+  type: logo
+offerId: 81be5172-a902-473b-b845-5a660de7ac09
 price:
   cents: 14995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 228.69
 slug: makita-18v-heggenschaar-60cm-duh606z
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Makita 18V Heggenschaar | 60 cm | DUH606Z

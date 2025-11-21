@@ -1,22 +1,22 @@
-_id: 691b1f8d73540df20587d775
+_id: 691f33f2aa4ddbfa0a66f0d6
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831308'
+  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
+classicId: '2836980'
 classicProductId: '665259'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: f17f127f-c4b6-4be5-b584-622cf4f81aa0
+id: ac9c6667-62f3-48d8-8be9-5cbcdca538a5
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: cf26085c-1f6b-4bbe-a13b-0f30ceab4250
+offerId: 4c64b29d-4aca-4a7b-a372-660275b62adb
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: petrol-sweater-heren-ronde-nek
 soldOut: false
-start: '2025-11-19T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Petrol Sweater | Heren | Ronde Nek

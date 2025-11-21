@@ -1,22 +1,22 @@
-_id: 691b1d8c6180c7cbc239d0cc
+_id: 691f18c099679535f617fdee
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - a7cc58b1-a035-5c8b-8552-ddff468120ba
-classicId: '2829665'
-classicProductId: '653681'
+  - 03763129-8617-525b-be86-a32203903ee3
+classicId: '2834514'
+classicProductId: '653694'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 52
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 820dd0c2-0bed-4baa-bebe-bc91fd2ea336
+id: 4b386796-39b1-47a8-b9cd-c5e4828f1d02
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8efb26d3-4442-49dc-964e-69c5d675d50d
+  id: 3bba63b1-4e03-4416-9222-89acf59b385a
   priority: 0
-  slug: reebok-13-png-product-1
+  slug: reebok-14-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: reebok-logo
   type: logo
-offerId: f58f7b14-6003-4094-b3f3-0e9812b06183
+offerId: c3e035aa-8d61-47f4-81cc-1e874e14b3bd
 price:
   cents: 4995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 105
 slug: reebok-club-c-grounds-uk-sneakers-heren
-soldOut: true
-start: '2025-11-17T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Reebok Club C Grounds UK Sneakers | Heren

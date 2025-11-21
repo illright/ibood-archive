@@ -1,12 +1,12 @@
-_id: 68f5eb9c0192aee4969796fa
+_id: 691f1d9e8bfcfaa69bc7c8e0
 appOnly: false
 brand: INSTA360
 brands:
   - id: be49764f-4b5f-5922-9484-5167da07f3d2
     name: INSTA360
 categories:
-  - dbba2784-289e-59f4-beb3-f8552c761e2b
-classicId: '2796006'
+  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
+classicId: '2835120'
 classicProductId: '673348'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 24
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-26T22:59:59.999Z'
 freeDelivery: false
-id: db84b619-1489-5979-9f16-f17fb32a2585
+id: 28db946b-f95d-4b80-b378-393c4f476eed
 image:
   channels:
     - app
@@ -28,7 +28,16 @@ image:
   priority: 0
   slug: insta360-ace-pro-product-3
   type: product
-offerId: b4448809-aa81-5162-85ff-91aa45cfa134
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  id: 169800
+  priority: 100
+  slug: insta360-logo
+  type: logo
+offerId: 6016d551-8e30-47d9-afeb-1ca734436ada
 price:
   cents: 24995
   currency: EUR
@@ -39,5 +48,5 @@ referencePrice:
   value: 329.99
 slug: insta360-ace-pro
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Insta360 Ace Pro Action Camera | 6970357856251

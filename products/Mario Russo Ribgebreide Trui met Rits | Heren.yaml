@@ -1,22 +1,22 @@
-_id: 691b1f8773540df20587d76f
+_id: 691f33a3f88ea4e964b6c181
 appOnly: false
 brand: Mario Russo
 brands:
   - id: f470bb88-e4c4-568c-b7b0-ef5a02dd4265
     name: Mario Russo
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831290'
-classicProductId: '672069'
+  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
+classicId: '2836918'
+classicProductId: '672070'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 60
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 852844fd-04f4-4494-b7cf-bbb564c7e6f9
+id: f80e97d9-5c74-4dff-b69f-827607ee5b01
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: truitje-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 91cb2e11-03c6-41d8-a919-457fc5840610
-  priority: 0
-  slug: mario-russo-logo-0
-  type: logo
-offerId: d57a5cf7-1027-4a05-ade0-5450f9b9cc2e
+offerId: d6d27f0b-2c15-4477-8849-7732ad4a4469
 price:
   cents: 3995
   currency: EUR
@@ -49,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 99.99
 slug: mario-russo-ribgebreide-trui-met-rits-heren
-soldOut: true
-start: '2025-11-19T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Mario Russo Ribgebreide Trui met Rits | Heren

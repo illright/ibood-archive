@@ -1,31 +1,32 @@
-_id: 691af5a752eb32da96e1bb56
+_id: 691f0b09f0d3e2bd5480f29c
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - 187c4f88-19f4-5624-a26a-ee444568b23b
-classicId: '2826982'
-classicProductId: '443631'
+  - a06d9024-9002-561b-b696-19ab936ed2fb
+classicId: '2834010'
+classicProductId: '443629'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 65
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: b430f953-eae5-43c5-85dc-0d7ec8b9d5a1
+id: 9f937dc5-e52f-49b4-b2fb-0bfb2f575f8e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1668757
+    - all
+  extension: image/jpeg
+  id: 82421387-1488-445e-ae76-30abcb3f6162
   priority: 0
-  slug: bjorn-the-essentials-18-delige-serviesset
+  slug: bjorn-servies-the-essentials-service-iris-18-pieces-ivory-white-product-1
   type: product
 logo:
   channels:
@@ -33,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1576198
+  id: 1619105
   priority: 100
-  slug: bjorn-the-essentials-18-delige-serviesset
+  slug: bjorn-logo
   type: logo
-offerId: 18a340ad-0362-44d7-92e5-aa2f74af175b
+offerId: ddd11aa4-1acf-4181-b83b-da7b56f26892
 price:
   cents: 8995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 259.9
 slug: bjorn-the-essentials-18-delige-serviesset
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Björn The Essentials Serviesset | 18-delig

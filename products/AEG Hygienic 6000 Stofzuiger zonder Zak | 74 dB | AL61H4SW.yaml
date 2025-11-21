@@ -1,12 +1,12 @@
-_id: 6913466deb95d508087692da
+_id: 691f0b573ded8ef75daf9066
 appOnly: false
 brand: AEG
 brands:
   - id: 24684d3a-e900-5d86-bf58-a8e81b48a5aa
     name: AEG
 categories:
-  - 81e85a4d-ff4a-58fc-a9eb-3edb05ec30d0
-classicId: '2823532'
+  - 2f5cb33d-64e7-5f0b-90f2-022e80ac8c97
+classicId: '2834114'
 classicProductId: '664171'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 52
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 9695be57-4d4c-5dda-bc05-d0d5bd1dc340
+id: 75926a46-ac32-4843-bc7c-2af9fab5cfcd
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: aeg-al61h4sw-hygienic-6000-stofzuiger-zonder-zak-74-db-product-20
   type: product
-offerId: f1969d1c-70c7-5b4a-8ac4-3969f346f5f6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1774563
+  priority: 100
+  slug: aeg-logo
+  type: logo
+offerId: c09c8613-5cfe-4da9-a99d-07c2f19310d2
 price:
   cents: 11900
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 249.95
 slug: aeg-al61h4sw-hygienic-6000-stofzuiger-zonder-zak-74-db
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: AEG Hygienic 6000 Stofzuiger zonder Zak | 74 dB | AL61H4SW

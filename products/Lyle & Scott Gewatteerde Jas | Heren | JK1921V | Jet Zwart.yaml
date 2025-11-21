@@ -1,22 +1,22 @@
-_id: 691b1f975ada61dc1c6bd2ca
+_id: 691f2d0bbbea828f847c74b7
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - ad3670ef-ad65-5498-ad55-387d17b93b1e
-classicId: '2831347'
-classicProductId: '669149'
+  - 04e8d65e-71a8-51b4-bbe6-06894c9a5a77
+classicId: '2835709'
+classicProductId: '669142'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 40
-end: '2025-11-20T22:59:59.999Z'
+discount: 33
+end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: efa64d82-8fb1-4b6d-a3c7-08f02085e593
+id: 1cf20f97-ed22-4729-81a8-e302e3cf79ae
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5fb6fad9-f1f1-4ec6-8691-2fe36f2dfe0c
+  id: c3cfd86a-33da-4569-b0e9-3c5fd76e058a
   priority: 0
-  slug: lyle-05-png-product-1
+  slug: lyle-06-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: lyle-scott-logo
   type: logo
-offerId: df0a4be6-5706-4dac-ae67-fc0c3a6eaba9
+offerId: bf3dab4b-bb95-4302-adc4-2ce200807092
 price:
-  cents: 8995
+  cents: 9995
   currency: EUR
-  value: 89.95
+  value: 99.95
 referencePrice:
   cents: 15000
   currency: EUR
   value: 150
 slug: lyle-scott-gewatteerde-jas-jk1921v
-soldOut: true
-start: '2025-11-19T23:00:00.000Z'
+soldOut: false
+start: '2025-11-20T23:00:00.000Z'
 title: Lyle & Scott Gewatteerde Jas | Heren | JK1921V | Jet Zwart

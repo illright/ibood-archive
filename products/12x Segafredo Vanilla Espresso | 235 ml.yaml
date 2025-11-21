@@ -1,12 +1,12 @@
-_id: 690ca0ca740b1bc5f116f257
+_id: 691f2e42ec9608c44af1cf73
 appOnly: false
 brand: SEGAFREDO
 brands:
   - id: 0ed38616-b3c2-5ff5-bbc7-9ca7025018c5
     name: SEGAFREDO
 categories:
-  - c4c45811-7e85-5256-a4bd-d2ee67e5a1af
-classicId: '2818011'
+  - 68b7c226-7de3-59c5-819d-b319e686a49d
+classicId: '2836289'
 classicProductId: '677412'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2025-11-20T22:59:59.999Z'
+end: '2025-11-27T22:59:59.999Z'
 freeDelivery: false
-id: 6fd4ea97-1054-5575-b5e7-e984449a4dbf
+id: 90149491-15e7-4931-90c1-98d9dda00780
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 12x-segafredo-vanilla-espresso-235ml-product-1
   type: product
-offerId: 60b2d705-bb22-5b03-863e-7502a866ec51
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0aa70abc-3f45-4f0f-a29d-9b678c06ac1a
+  priority: 0
+  slug: segafredo-logo-0
+  type: logo
+offerId: e9e74851-b7a9-47ef-abee-1d5327541067
 price:
   cents: 1195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 23.4
 slug: 12x-segafredo-vanilla-espresso-235-ml
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: 12x Segafredo Vanilla Espresso | 235 ml

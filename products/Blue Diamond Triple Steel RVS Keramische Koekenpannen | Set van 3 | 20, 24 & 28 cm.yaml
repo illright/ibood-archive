@@ -1,31 +1,32 @@
-_id: 6915abf2eee93e89eb364369
+_id: 691f0a5f90fd54f668f19a14
 appOnly: false
 brand: Blue Diamond
 brands:
   - id: 6567f73b-aff5-5e2c-a06b-57eac8535431
     name: Blue Diamond
 categories:
-  - 1d1af20f-ec2e-5ace-9ee9-7ee245e3557d
-classicId: '2825378'
-classicProductId: '678606'
+  - 07858119-f9ae-55cf-8f8a-8f10a825ce31
+classicId: '2833584'
+classicProductId: '624339'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 76
-end: '2025-11-20T22:59:59.999Z'
+directCheckout: false
+discount: 71
+end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: 89541dc9-edb6-5f87-947d-f650d50c1887
+id: 98dce262-a997-468b-afae-99fd740eb7f2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2183294
+    - all
+  extension: image/png
+  id: 482ac510-bbfd-40b1-84a5-6a06ad6a0483
   priority: 0
-  slug: blue-diamond-bratpfannen-set
+  slug: blue-diamond-3-ply-koekenpan-20-24-28-cm-product-15
   type: product
 logo:
   channels:
@@ -38,16 +39,16 @@ logo:
   priority: 0
   slug: blue-diamond-logo-0
   type: logo
-offerId: 2d93f73c-f7ef-50a4-81f3-bf7dccf07414
+offerId: 0f983664-1ab1-46b2-901e-0ebbc78c68b3
 price:
-  cents: 4995
+  cents: 5995
   currency: EUR
-  value: 49.95
+  value: 59.95
 referencePrice:
   cents: 20970
   currency: EUR
   value: 209.7
 slug: blue-diamond-3-ply-koekenpan-20-24-28-cm
 soldOut: false
-start: '2025-11-17T23:00:00.000Z'
+start: '2025-11-20T23:00:00.000Z'
 title: Blue Diamond Triple Steel RVS Keramische Koekenpannen | Set van 3 | 20, 24 & 28 cm
