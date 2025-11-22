@@ -1,4 +1,4 @@
-_id: 691f18ebf0d3e2bd5480f2ea
+_id: 691f18b1167386c92bcea1f8
 appOnly: false
 brand: Greve
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Greve
 categories:
   - 03763129-8617-525b-be86-a32203903ee3
-classicId: '2834554'
-classicProductId: '641345'
+classicId: '2834501'
+classicProductId: '659754'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 78
+discount: 45
 end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 9142db4a-c8c8-42e6-9921-c55fb2d710ca
+id: c1bc566e-f7b8-4c3c-a38d-9af30948a105
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1912825
+    - all
+  extension: image/png
+  id: 822e9ca9-8251-47cb-b276-2226a1b90654
   priority: 0
-  slug: greve-wave-sneakers-herren
+  slug: sneaker-main-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: greve-logo
   type: logo
-offerId: 6dd3e9b3-b648-45b5-a1ef-904243f849e6
+offerId: 17d7c58c-bee3-4e0b-807e-a21a02fd3129
 price:
-  cents: 5995
+  cents: 11995
   currency: EUR
-  value: 59.95
+  value: 119.95
 referencePrice:
-  cents: 27000
+  cents: 22000
   currency: EUR
-  value: 270
-slug: greve-wave-sneakers
+  value: 220
+slug: greve-wave-sneaker-mannen
 soldOut: false
 start: '2025-11-20T23:00:00.000Z'
 title: Greve Wave Sneakers | Heren

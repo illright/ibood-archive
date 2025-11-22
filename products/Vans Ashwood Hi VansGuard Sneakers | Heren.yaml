@@ -1,4 +1,4 @@
-_id: 691f18638955ba40652f54ac
+_id: 691f186288d6100beb551444
 appOnly: false
 brand: VANS
 brands:
@@ -6,17 +6,17 @@ brands:
     name: VANS
 categories:
   - 03763129-8617-525b-be86-a32203903ee3
-classicId: '2834449'
-classicProductId: '653385'
+classicId: '2834447'
+classicProductId: '653390'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 37
 end: '2025-11-23T22:59:59.999Z'
 freeDelivery: false
-id: 910694cd-401d-44e6-804e-c87dd7869ca9
+id: cd451df1-cc2b-42cd-8173-85c5fed3e845
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: de2109a7-366d-45eb-9996-70d937ade9da
+  id: 8d13023a-5eb6-4b76-bc87-837f61f46655
   priority: 0
-  slug: 1-png-product-0
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: caf812af-8d63-4c43-ad30-f8428b13393b
+offerId: c875460d-fb17-43e6-b0ba-44a7b2dca862
 price:
   cents: 5995
   currency: EUR
