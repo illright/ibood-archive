@@ -19,13 +19,14 @@ freeDelivery: false
 id: b10678c0-1063-48c5-976c-3cd73b9ea32d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2105707
+    - all
+  extension: image/png
+  id: 3fafb459-4f90-4507-89de-70f30595ee2b
   priority: 0
-  slug: 15x-tonys-chocolonely-chocoladereep
+  slug: raspberry-png-product-1
   type: product
 logo:
   channels:
