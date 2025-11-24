@@ -1,12 +1,12 @@
-_id: 691f32905a43ae55df9ac915
+_id: 69206a36a006dd051586aa06
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
-classicId: '2836768'
+  - f2a32577-b4e3-511e-ab3f-fb964d4b77b9
+classicId: '2839584'
 classicProductId: '671631'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: e9a7b425-2050-4ebc-93f3-f4be59f240d8
+id: 6e020948-68a1-4c61-bf68-7cad7336dc76
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 125984c8-5ef8-408a-9b6e-804659f8bf06
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: fe7972eb-f549-4ea8-ae6f-f7f63fd80eee
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: mcgregor-fishermans-zip-mock-sweater-heren
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: McGregor Fishermans Zip Mock Sweater | Dark Olive

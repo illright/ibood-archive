@@ -1,22 +1,22 @@
-_id: 691f33817a3a7fb80d8a0922
+_id: 69206aa1a006dd051586aaba
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
-classicId: '2836886'
-classicProductId: '665341'
+  - 2a7a4404-0a5a-579a-83e4-08d36f961e73
+classicId: '2839770'
+classicProductId: '665345'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 121069e7-69f8-4398-b609-b0bf14b77d86
+id: 30b3a3f9-9d18-408f-959f-6e9d86670066
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 50c928b6-6766-40c6-bab1-3ea80cb1ef1d
+offerId: 4b37e478-1605-43a8-b482-d170a1e8d918
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: petrol-hoodie-print-heren-mossy-stone
-soldOut: true
-start: '2025-11-20T23:00:00.000Z'
+soldOut: false
+start: '2025-11-23T23:00:00.000Z'
 title: Petrol Hoodie Print | Heren | Mossy Stone

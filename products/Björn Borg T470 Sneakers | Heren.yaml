@@ -1,12 +1,12 @@
-_id: 691f1919dbc38c0d69842aa3
+_id: 6921d17e18505c52cc933235
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 03763129-8617-525b-be86-a32203903ee3
-classicId: '2834624'
+  - b94922ca-df09-5f83-8345-651ac78b0416
+classicId: '2840022'
 classicProductId: '611768'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 8b289fd3-c257-421d-8bf6-ef69740622ba
+id: 8e4a9693-8024-45ad-bde2-4233a73990d6
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4700a467-ca7f-4fde-9d57-6616ce62653d
+  id: cccc055b-b301-4310-be38-aa43717796d2
   priority: 0
-  slug: schoenen-03-png-product-3
+  slug: bjorn-borg-sneakers-t470-product-0
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2030715
-  priority: 100
-  slug: bjorn-borg-logo
+    - all
+  extension: image/png
+  id: 9866d438-c018-436d-b60b-935e845dbb85
+  priority: 0
+  slug: bjorn-borg-sneakers-t470-logo-0
   type: logo
-offerId: 6bcfe456-8b41-4eab-89fc-8c4481f483a0
+offerId: 928e1038-0373-4077-ad36-0dbc63b5a487
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 79.95
 slug: bjorn-borg-sneakers
-soldOut: true
-start: '2025-11-20T23:00:00.000Z'
+soldOut: false
+start: '2025-11-23T23:00:00.000Z'
 title: Björn Borg T470 Sneakers | Heren

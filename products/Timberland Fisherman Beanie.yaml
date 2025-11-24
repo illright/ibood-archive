@@ -1,22 +1,22 @@
-_id: 691f1950bc73cfce67474e85
+_id: 6920384a7cff776b31b21e96
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - f0f246c7-953a-51e7-a327-2caf8dba80ae
-classicId: '2834756'
-classicProductId: '666576'
+  - 001ad367-4f07-5b70-b574-5118f646967e
+classicId: '2837287'
+classicProductId: '666578'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 44
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: e6aab7c2-dbb8-4d61-95e3-3f94616d703d
+id: 53e2da38-751d-43dd-8756-aad2a6fc362c
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: timberland-logo
   type: logo
-offerId: 14d999ca-08b3-4b43-a462-294d081b9ae0
+offerId: e3014c5e-4649-4d57-a52a-4bf6ba01c704
 price:
   cents: 1695
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 30
 slug: timberland-fisherman-beanie
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: Timberland Fisherman Beanie

@@ -1,12 +1,12 @@
-_id: 691f2d134691fda7fa8a0df7
+_id: 692065a05278d35cacb0732e
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 6f27de36-56c4-5b9b-9505-937323d845b3
-classicId: '2835736'
+  - e3ce7d90-6f13-54da-920c-184aa1fe4e6d
+classicId: '2838948'
 classicProductId: '636729'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 80
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: f46d2301-35a1-443c-92f0-153a23fda9f3
+id: e4fa698f-dcd0-410b-86f8-4202b75769e6
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4134925d-a9b0-431c-a2d3-9c16d621ad5a
-  priority: 0
-  slug: petrol-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 393871fd-707b-4df3-bf38-656afa487728
+offerId: fa1a8dcb-7262-4b30-8edb-0e8947f53753
 price:
   cents: 995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: chino-petrol-mannen-korte-broek
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: Petrol Chino Shorts | Heren

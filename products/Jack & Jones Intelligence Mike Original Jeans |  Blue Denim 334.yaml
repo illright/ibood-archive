@@ -1,22 +1,22 @@
-_id: 691f2dcbafe8356ad9ee8558
+_id: 69206ab86efb3199fd3c7e46
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 6f27de36-56c4-5b9b-9505-937323d845b3
-classicId: '2836092'
+  - c79da4a4-924f-5fcb-acea-c36e7e1967c7
+classicId: '2839804'
 classicProductId: '652666'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 3239a514-345a-4d7c-93a1-77a0d7637840
+id: d080e9bf-a971-4f76-a297-222baffe466d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d3d67d9d-9845-4ce3-afd0-3fbced546ac8
-  priority: 0
-  slug: jack-jones-o-neck-t-shirt-core-classic-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 56bb3244-02ac-4e1c-9047-a5c8cf366721
+offerId: 90c99c37-b854-406e-a234-e6577b26720b
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-intelligence-mike-original-jeans-blue-denim-334
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: Jack & Jones Intelligence Mike Original Jeans |  Blue Denim 334

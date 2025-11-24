@@ -1,12 +1,12 @@
-_id: 691f18e70fb59327a9b4b3b7
+_id: 6921d1560b34eef2816a067c
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 03763129-8617-525b-be86-a32203903ee3
-classicId: '2834552'
+  - b94922ca-df09-5f83-8345-651ac78b0416
+classicId: '2839985'
 classicProductId: '645540'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 73
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 8f65dc58-9795-4686-a9ab-6751d3a02c72
+id: edea97c9-81c6-4b59-b231-a7b65ed32af9
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5c9943a1-8a94-4727-8d0f-f8a15791684e
-  priority: 0
-  slug: greve-png-logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: 791d8e91-c0e1-43f5-b08a-c11572bb85e3
+offerId: c0900928-2075-4ff3-a842-ec683c464012
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 260
 slug: greve-wave-profondo-talco-instappers
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: Greve Wave Profondo Talco Instappers

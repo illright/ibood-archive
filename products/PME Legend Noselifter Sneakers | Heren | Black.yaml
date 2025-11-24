@@ -1,12 +1,12 @@
-_id: 691f182c4691fda7fa8a0d6d
+_id: 69205486fabe95f89f09c788
 appOnly: false
 brand: PME Legend
 brands:
   - id: 9c38479a-ce20-5e2e-bcab-88b0a1bd612b
     name: PME Legend
 categories:
-  - 03763129-8617-525b-be86-a32203903ee3
-classicId: '2834363'
+  - 97c071d5-602e-528f-bc3a-92e99e58e4db
+classicId: '2838563'
 classicProductId: '670359'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 5437adf2-664b-4ae5-9632-aebd2f41c6d0
+id: 067436d1-b7da-4cc5-ac08-b2cd6993251d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 44-black-pbo2508040-999-noselifter-pme-legend-product-4
   type: product
-offerId: c8dc2d48-2441-456a-8e01-98862fd31cfb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1505855
+  priority: 100
+  slug: pme-legend-logo
+  type: logo
+offerId: 410f250a-634d-450f-9309-9f3672d1c6aa
 price:
   cents: 5495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 99.99
 slug: pme-legend-noselifter-sneakers-heren-black
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: PME Legend Noselifter Sneakers | Heren | Black

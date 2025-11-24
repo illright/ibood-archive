@@ -1,12 +1,12 @@
-_id: 691f30b6f0d3e2bd5480f3d5
+_id: 692069e5eec618f1cc1437b2
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
-classicId: '2836568'
+  - 5b0153b0-f0b4-5505-a573-107e6ab67537
+classicId: '2839378'
 classicProductId: '672730'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: a9107669-ec25-46da-b4ed-db896d658b0b
+id: 1d6643f6-1ead-46b8-9233-a203328aa0ef
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: m-lead-blue-melange-2654-25ls103-ss-polo-nza-product-0
   type: product
-offerId: 825f81d8-c6c9-4281-88ee-b5354a717c23
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
+  type: logo
+offerId: 32165f15-583c-444d-b745-d9b1fd357a8d
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 79.99
 slug: nza-poloshirt-katoen-25ls103-lead-blue-melange
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: NZA Poloshirt Katoen | 25LS103 | Lead Blue Melange

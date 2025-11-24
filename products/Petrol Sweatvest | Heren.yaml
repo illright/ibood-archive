@@ -1,12 +1,12 @@
-_id: 691f33ba6847c4f8cb5a8424
+_id: 69206aab6efb3199fd3c7e16
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
-classicId: '2836943'
+  - 2a7a4404-0a5a-579a-83e4-08d36f961e73
+classicId: '2839779'
 classicProductId: '665398'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 65ea1a2f-bf35-4840-a305-0c67162e0538
+id: e13a26ad-1723-404a-907e-a7ba33354e9c
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: f365af27-d27e-4eb1-9036-1156641d6c95
+offerId: 393f01bc-a2ae-4f7e-a59d-bdfcb147553f
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: petrol-sweatvest-heren
-soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+soldOut: true
+start: '2025-11-23T23:00:00.000Z'
 title: Petrol Sweatvest | Heren

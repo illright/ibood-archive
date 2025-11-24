@@ -1,31 +1,32 @@
-_id: 691f17f9c0d31947e54f3c19
+_id: 6916ff40abfeb5b3f71ee181
 appOnly: false
 brand: Alpacas
 brands:
   - id: cfc3caf0-ae6b-5b38-8c06-4d5d61302025
     name: Alpacas
 categories:
-  - 03763129-8617-525b-be86-a32203903ee3
-classicId: '2834310'
-classicProductId: '587656'
+  - 9588fa08-9787-59d8-9f3b-2412173d268e
+classicId: '2826139'
+classicProductId: '458408'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 44
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 79bee5c3-f65b-4450-b76c-61ea5f829ccc
+id: ca79b4f6-c016-52ab-bc32-6759dd5fa876
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2070875
+    - all
+  extension: image/png
+  id: e1c6475e-9b1f-45cb-8af1-bf2e458b047a
   priority: 0
-  slug: alpacas-footwear-winterboots-lammfell
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: alpacas-logo
   type: logo
-offerId: 3c6d2404-3c97-444d-847f-b2582baee614
+offerId: 7b88f2ce-e7aa-5ce8-bcb7-7eb5c5c4ae39
 price:
   cents: 4495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: alpacas-footwear-zachte-winterboots
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: Alpacas Footwear Zachte Winterboots | Heren & Dames

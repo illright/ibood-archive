@@ -1,12 +1,12 @@
-_id: 691f3404ec9608c44af1cfcb
+_id: 69206a5b175b4adb009efc3c
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
-classicId: '2836992'
+  - c79da4a4-924f-5fcb-acea-c36e7e1967c7
+classicId: '2839672'
 classicProductId: '669848'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 710ed696-0632-425a-a6ee-7e2148be03a6
+id: fafae780-c9f6-4291-8a7e-2a393ec291e3
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-jpg-product-1
   type: product
-offerId: 41de501c-9e6b-47ff-82bb-2bb4ee364354
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: b04c1561-83ce-45e4-9992-42fa32b40c58
 price:
   cents: 1995
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: jack-and-jones-perfect-knit-half-zip-pullover-grey-melange
-soldOut: true
-start: '2025-11-20T23:00:00.000Z'
+soldOut: false
+start: '2025-11-23T23:00:00.000Z'
 title: Jack & Jones Perfect Knit Half-Zip Pullover | Grey Melange

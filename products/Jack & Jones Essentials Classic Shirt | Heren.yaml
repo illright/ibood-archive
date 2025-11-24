@@ -1,22 +1,22 @@
-_id: 691f33cdbc73cfce67474f80
+_id: 6920672feec618f1cc143729
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
-classicId: '2836955'
-classicProductId: '632730'
+  - 681a2197-5591-5154-99d4-1206c93ac0cc
+classicId: '2839250'
+classicProductId: '589619'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 63
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 41357e48-afba-4a9d-92e2-cab59a66f80c
+id: 0e50920a-334f-4184-a37d-702a5d02b0bc
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: f2172d04-051c-4c42-ad15-d981b67c6e97
+offerId: 4523ffbd-4af4-4315-8151-4c151e6e7833
 price:
   cents: 1495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 39.95
 slug: jack-jones-essentials-classic-shirt-heren
-soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+soldOut: true
+start: '2025-11-23T23:00:00.000Z'
 title: Jack & Jones Essentials Classic Shirt | Heren

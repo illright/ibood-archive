@@ -1,12 +1,12 @@
-_id: 691f33f3eb9c6da35c6907b7
+_id: 69206aafeec618f1cc14397c
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ec580dca-3f6e-54c9-b007-33fe4a89fb81
-classicId: '2836981'
+  - 2a7a4404-0a5a-579a-83e4-08d36f961e73
+classicId: '2839790'
 classicProductId: '665387'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-11-23T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 3fd7b927-d161-4973-8a58-666dfb104617
+id: 0db314e7-3d92-42de-8f03-cee479e39e5b
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 65364b52-3fc9-46fd-a4fa-d151663b5fd8
+offerId: 74eca6ea-04a1-48cb-9fa4-b2958663f57d
 price:
   cents: 1995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: petrol-sweater-ronde-hals-heren
-soldOut: true
-start: '2025-11-20T23:00:00.000Z'
+soldOut: false
+start: '2025-11-23T23:00:00.000Z'
 title: Petrol Sweater | Ronde Hals | Heren | Deep Black
