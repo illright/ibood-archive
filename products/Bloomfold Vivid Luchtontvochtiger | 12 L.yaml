@@ -19,14 +19,28 @@ freeDelivery: false
 id: 6fea8545-f4d9-58fd-a372-ec1321538f3e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2224271
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 82d90b81-58b8-4e9d-92a0-95624dc81b78-tr
   priority: 0
-  slug: bloomfold-vivid-luftentfeuchter-12-l-pro-tag
+  slug: bloomfold-luchtontvochtiger-12l-vivid-zwart-product-12
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9eaabffc-17dc-4a60-acd4-7d27a4e6da56
+  priority: 0
+  slug: bloomfold-png-logo-0
+  type: logo
 offerId: 8550a432-4cae-543f-bafa-3620da00a768
 price:
   cents: 13900

@@ -19,14 +19,28 @@ freeDelivery: false
 id: df9d0cb6-3b29-5d53-875a-5a6a2ebbe0e0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2224275
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3f28b16d-8bcc-4c82-a153-f48dbe9d60a1-tr
   priority: 0
-  slug: bloomfold-orbit-luftentfeuchter-25-l-pro-tag
+  slug: bloomfold-orbit-luchtontvochtiger-25l-product-6
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 1e4c78e4-6b53-466c-b13d-f107fb98dd5f
+  priority: 0
+  slug: bloomfold-png-logo-0
+  type: logo
 offerId: 36dc47ba-478b-55be-82e3-4df214d688e9
 price:
   cents: 18900

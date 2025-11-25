@@ -1,4 +1,4 @@
-_id: 69206a84175b4adb009efc76
+_id: 69206a760d9fae1d7585f640
 appOnly: false
 brand: Petrol
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Petrol
 categories:
   - 2a7a4404-0a5a-579a-83e4-08d36f961e73
-classicId: '2839738'
-classicProductId: '673703'
+classicId: '2839718'
+classicProductId: '673796'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 38
+directCheckout: true
+discount: 44
 end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 8692733a-2650-4190-9553-1c54721b9ee8
+id: 638c6c1d-dab3-4666-8fab-8b761ac9e2e4
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: aba3a9cc-4c46-43a3-8ae1-1b6d533dd6c9
+  id: 6c33b7cd-ca93-4a0c-a6a0-abf853d8d6ef
   priority: 0
-  slug: petrol-86-png-product-1
+  slug: petrol-113-png-product-1
   type: product
 logo:
   channels:
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: a82b3e95-67a0-49f0-8670-c34fbc4b3c28
+offerId: 185b5fb2-3d5d-4e1c-8175-6162a8dde590
 price:
-  cents: 4995
+  cents: 4495
   currency: EUR
-  value: 49.95
+  value: 44.95
 referencePrice:
   cents: 7999
   currency: EUR

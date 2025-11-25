@@ -1,4 +1,4 @@
-_id: 69206aad6efb3199fd3c7e1f
+_id: 69206aa9175b4adb009efca3
 appOnly: false
 brand: Petrol
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Petrol
 categories:
   - 2a7a4404-0a5a-579a-83e4-08d36f961e73
-classicId: '2839783'
-classicProductId: '665526'
+classicId: '2839777'
+classicProductId: '665500'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 67
+discount: 50
 end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 94f4bfb1-7b97-45a6-8c36-45d9123ce152
+id: 0ebb77c9-4e55-4bc9-a2c0-184dc3e67649
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 625759f9-ab6b-4a8e-9995-8c9b9cf49fa8
+  id: 9577997e-4024-4653-94ef-63ba2b30ae47
   priority: 0
-  slug: petrol-65-png-product-1
+  slug: petrol-62-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 99d7254d-a9ac-4e63-ab4e-e4162c974b98
+offerId: 0970e54f-8b7f-430b-b474-43479b7fe76d
 price:
-  cents: 1995
+  cents: 3495
   currency: EUR
-  value: 19.95
+  value: 34.95
 referencePrice:
-  cents: 5999
+  cents: 6999
   currency: EUR
-  value: 59.99
+  value: 69.99
 slug: petrol-zipper-sweater-heren
-soldOut: false
+soldOut: true
 start: '2025-11-23T23:00:00.000Z'
 title: Petrol Zipper Sweater | Heren

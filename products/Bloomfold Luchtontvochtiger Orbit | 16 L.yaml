@@ -20,13 +20,25 @@ id: b4b364a6-5d00-5b9a-93b7-02659ce4e6d5
 image:
   channels:
     - website
-    - app
     - newsletter
-  extension: jpg
-  id: 2224273
-  priority: 100
-  slug: bloomfold-orbit-luftentfeuchter-16-l-pro-tag
+    - all
+    - app
+  extension: image/jpeg
+  id: 21b21ed1-41c8-4b35-b91a-7767ba758a25
+  priority: 0
+  slug: bloomfold-orbit-luchtontvochtiger-16l-product-13
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6a7e9dbd-3951-43ce-9329-0c36c365f536
+  priority: 0
+  slug: bloomfold-png-logo-0
+  type: logo
 offerId: 9106acad-08b2-5975-bfb3-0e4b7b0374b5
 price:
   cents: 14900

@@ -1,12 +1,12 @@
-_id: 691ed7d94a229b144538ddcf
+_id: 69241a5cea637e2d9d9653ac
 appOnly: false
 brand: Rain-X
 brands:
   - id: e395bed3-6d5a-5a71-b90e-15a8d0bd951f
     name: Rain-X
 categories:
-  - cd21ceba-2abe-5c9f-82f2-ff6d624f5e51
-classicId: '2833220'
+  - 00ea7d0d-5f49-5b83-bbae-53ad1c56c593
+classicId: '2840279'
 classicProductId: '640483'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 32
-end: '2025-11-24T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 4feba1e0-1f83-4519-8eb3-d2797fd45abf
+id: 6f9b5d32-cf44-4815-a314-6d9fb76e527d
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: rain-x-cerami-x-hoogschuim-was-wax-1l
   type: product
-offerId: 147b5dd6-3d66-4575-8fbb-7c4b22ca8bfe
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2262833
+  priority: 100
+  slug: rain-x-cerami-x-hoogschuim-was-wax-1l
+  type: logo
+offerId: a5829392-da71-4063-aaeb-3875f2cad9ad
 price:
   cents: 1395
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 20.51
 slug: rain-x-cerami-x-hoogschuim-was-wax-1l
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-24T23:00:00.000Z'
 title: Rain-X Cerami-X Hoogschuim Was & Wax | 1L

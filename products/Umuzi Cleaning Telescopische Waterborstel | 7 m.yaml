@@ -1,12 +1,12 @@
-_id: 691f3a3f0947fc058be0cc91
+_id: 692419d5007f843c9e58e814
 appOnly: false
 brand: Umuzi Cleaning
 brands:
   - id: e5944613-85c7-5aa4-9442-e510e4a02de4
     name: Umuzi Cleaning
 categories:
-  - 2961f4fc-8ef7-58ed-af5f-df4e1bed9c52
-classicId: '2837121'
+  - 00ea7d0d-5f49-5b83-bbae-53ad1c56c593
+classicId: '2840128'
 classicProductId: '464264'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 77
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 7cc5f8bf-1a1c-4cba-8171-3e9dfd334491
+id: 7cdf4d0f-aac9-4b3c-a6d5-09a30e056703
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1579810
-  priority: 100
-  slug: umuzi-cleaning-logo
+    - all
+  extension: image/png
+  id: 880899ef-cfc8-4b64-b23e-19d2a2d7bde8
+  priority: 0
+  slug: umuzi-cleaning-telescopische-waterborstel-7-m-logo-0
   type: logo
-offerId: 5621ff7c-06b9-41ae-b9f5-51f6f71ca626
+offerId: 5a60ce06-3598-4c09-83c4-0a24132497cb
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 129.95
 slug: umuzi-cleaning-telescopische-waterborstel-7-m
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-11-24T23:00:00.000Z'
 title: Umuzi Cleaning Telescopische Waterborstel | 7 m

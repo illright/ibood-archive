@@ -1,4 +1,4 @@
-_id: 6915bfaeeee93e89eb3644f8
+_id: 6915bfa9eee93e89eb3644f1
 appOnly: false
 brand: Securit
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Securit
 categories:
   - a8af67ad-6ea5-547a-bc4e-45a3c66c050e
-classicId: '2825654'
-classicProductId: '678960'
+classicId: '2825650'
+classicProductId: '678966'
 deliveryPrice:
   cents: 395
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 52
 end: '2025-11-25T22:59:59.999Z'
 freeDelivery: false
-id: e9319a46-da19-5c34-ac63-a8fedd4e1f53
+id: 1f90ef88-71e1-525f-892f-72e362902573
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 9be5e4ff-40f7-49c4-88bc-64ce31a6ce61
+  id: a4df1587-8520-465d-bfb1-4ec458c57ac9
   priority: 0
-  slug: securit-42-png-product-1
+  slug: securit-49-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1722642
-  priority: 100
-  slug: securit-logo
+    - all
+  extension: image/png
+  id: 7b674921-0ea7-4c2d-b4cb-dd070d18610e
+  priority: 0
+  slug: securit-png-logo-0
   type: logo
-offerId: 44bbe991-a833-5674-b4e6-a7bbe164c3cf
+offerId: c1621d0a-887f-5ea2-80f3-f84f05e9a68f
 price:
   cents: 1195
   currency: EUR
