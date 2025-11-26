@@ -1,12 +1,12 @@
-_id: 6911a60b180af628d2f30426
+_id: 692573a24c656b2226f38aa2
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - 8a638766-e666-597d-94ec-c7f5bb3bb940
-classicId: '2819327'
+  - 0ce1559b-1a5e-5bc4-ae11-8c168a603926
+classicId: '2841704'
 classicProductId: '612458'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 25
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-02T22:59:59.999Z'
 freeDelivery: false
-id: 4dada4a3-d358-553d-9d1d-410afefaf0ad
+id: df8c1d8a-2749-4a54-b175-8c11fbb97b75
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2e21defb-92b7-4ac4-b7fb-e0e3a4202e7a
-  priority: 0
-  slug: leifheit-png-logo-0
+  extension: png
+  id: 1831727
+  priority: 100
+  slug: leifheit-logo
   type: logo
-offerId: ba565daf-a5ea-5d6d-96a5-93de4c8916f2
+offerId: 0276ca62-0edf-44c4-b42d-51e51afe88ad
 price:
   cents: 1495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 19.99
 slug: leifheit-comfort-clean-hakmolen
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-11-25T23:00:00.000Z'
 title: Leifheit Comfort & Clean Hakmolen

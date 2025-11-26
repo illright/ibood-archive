@@ -1,12 +1,12 @@
-_id: 6911a615180af628d2f3043a
+_id: 692572a9ffc71026613a4082
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - 8a638766-e666-597d-94ec-c7f5bb3bb940
-classicId: '2819334'
+  - 3599611e-3632-5f22-a216-0f3336186a77
+classicId: '2841357'
 classicProductId: '612463'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 19
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-02T22:59:59.999Z'
 freeDelivery: false
-id: feeb042f-f224-5447-b9e7-f85342989341
+id: b31713d5-41fe-4454-b94a-a5c7cb5d2acd
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 15a3c08f-984f-4c0e-8189-fbf0b0297974
-  priority: 0
-  slug: leifheit-png-logo-0
+  extension: png
+  id: 1831727
+  priority: 100
+  slug: leifheit-logo
   type: logo
-offerId: 3fd427ba-914d-5efe-a217-c95204ac692b
+offerId: b492f273-a79e-4a1a-b726-bec9d64941a1
 price:
   cents: 4295
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 52.99
 slug: leifheit-wanddroogrek-8-m-drooglengte
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-11-25T23:00:00.000Z'
 title: Leifheit Wanddroogrek 81 Protect Plus | 8 meter drooglengte

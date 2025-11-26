@@ -17,6 +17,17 @@ discount: 63
 end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
 id: 1fb84a55-cf60-41d1-9f6c-14827de3b5a8
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 82aec55b-fd0b-42eb-b9a3-e3ce40d83d55
+  priority: 0
+  slug: jack-and-jones-jeans-intelligence-denim-short-product-0
+  type: product
 logo:
   channels:
     - website

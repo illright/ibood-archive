@@ -1,12 +1,12 @@
-_id: 6911a5f5180af628d2f303f9
+_id: 692572b758c0f8bbec72d099
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - 8a638766-e666-597d-94ec-c7f5bb3bb940
-classicId: '2819311'
+  - 3599611e-3632-5f22-a216-0f3336186a77
+classicId: '2841378'
 classicProductId: '390074'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-02T22:59:59.999Z'
 freeDelivery: false
-id: 935bc353-28b0-54e5-b463-3df37f6f738c
+id: bb32c90b-850b-4dd3-9499-c1bee842686c
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 051e0535-993b-432e-956e-a35d7e972b3c
-  priority: 0
-  slug: leifheit-png-logo-0
+  extension: png
+  id: 1831727
+  priority: 100
+  slug: leifheit-logo
   type: logo
-offerId: ed6c78b0-0d64-52e7-be58-f1fce203f212
+offerId: ffea1e93-7d9c-4a59-a734-08aa72cfdb80
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 74.99
 slug: leifheit-dry-clean-raamzuiger
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-11-25T23:00:00.000Z'
 title: Leifheit Dry & Clean Raamzuiger | Met steel

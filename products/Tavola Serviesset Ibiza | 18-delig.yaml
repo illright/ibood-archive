@@ -1,12 +1,12 @@
-_id: 691f0b020d287816b2cc8f05
+_id: 692573ea4c656b2226f38ac0
 appOnly: false
 brand: Tavola
 brands:
   - id: 8e070edc-3176-5f68-8f2b-9e230677f316
     name: Tavola
 categories:
-  - a06d9024-9002-561b-b696-19ab936ed2fb
-classicId: '2833999'
+  - 0ce1559b-1a5e-5bc4-ae11-8c168a603926
+classicId: '2841726'
 classicProductId: '640678'
 deliveryPrice:
   cents: 895
@@ -14,20 +14,23 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2025-11-25T22:59:59.999Z'
+end: '2025-12-02T22:59:59.999Z'
 freeDelivery: false
-id: 65b84d40-6f22-417f-9622-d9294eb88ebb
+id: 66e08ff6-ea5a-479a-9b01-dcb25262cc12
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2253100
-  priority: 100
-  slug: tavola-serviesset-ibiza-18-delig
+  extension: image/png
+  id: 62b5ec31-0d6f-4a18-bfa5-3c0fc7762e8a-tr
+  priority: 0
+  slug: imperial-kitchen-ibiza-geschirrset-18-teilig-jpg-product-101
   type: product
-offerId: 8b46ec9d-7135-42d9-b52b-815c9261de57
+offerId: 7062e90f-453c-448a-93fd-0db49f3802ee
 price:
   cents: 3995
   currency: EUR
@@ -38,5 +41,5 @@ referencePrice:
   value: 84.95
 slug: tavola-serviesset-ibiza-18-delig
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-25T23:00:00.000Z'
 title: Tavola Serviesset Ibiza | 18-delig
