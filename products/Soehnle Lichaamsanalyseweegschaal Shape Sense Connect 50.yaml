@@ -1,12 +1,12 @@
-_id: 6911a605c43cf76a0108f663
+_id: 6925737912d779815a205986
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - 8a638766-e666-597d-94ec-c7f5bb3bb940
-classicId: '2819322'
+  - 183ec289-57a4-5f56-81a6-fa0326304deb
+classicId: '2841654'
 classicProductId: '384511'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-02T22:59:59.999Z'
 freeDelivery: false
-id: 01bbf7a8-abe4-5821-8d71-2dd09f0289c4
+id: 8b227ee1-0821-4c71-a4ba-dff3a3ee809a
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5ec09691-af54-4c54-ab6f-40de02ee147f
-  priority: 0
-  slug: soehnle-png-logo-0
+  extension: png
+  id: 1831727
+  priority: 100
+  slug: leifheit-logo
   type: logo
-offerId: 596b54c0-1e18-5ce4-a0e5-b2843aa2f686
+offerId: 7a93c7b8-7a5a-4dec-a0ec-78147dae895f
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 52.99
 slug: lichaamsanalyseweegschaal-shape-sense-connect-50
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-11-25T23:00:00.000Z'
 title: Soehnle Lichaamsanalyseweegschaal Shape Sense Connect 50

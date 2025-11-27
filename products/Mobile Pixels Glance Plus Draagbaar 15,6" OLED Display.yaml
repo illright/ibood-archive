@@ -1,12 +1,12 @@
-_id: 691f1d60fe0ccf7921e01720
+_id: 6926e868059d10e19989172d
 appOnly: false
 brand: Mobile Pixels
 brands:
   - id: 6e0bb8dd-fb76-5a3f-91ea-dbfb66503d9e
     name: Mobile Pixels
 categories:
-  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
-classicId: '2835038'
+  - 480c6857-32d0-53d9-96c2-16fab83deabe
+classicId: '2842862'
 classicProductId: '567789'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-03T22:59:59.999Z'
 freeDelivery: false
-id: 7b3390bf-79e2-4d94-b60a-5fb1c8502620
+id: dba3f4bd-45c8-481e-a345-1c524b8e2fbc
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1738614
-  priority: 100
-  slug: mobile-pixels-logo
+    - all
+  extension: image/png
+  id: 9057a0aa-c2c4-4bb2-99ed-e3917d663721
+  priority: 0
+  slug: mobile-pixels-png-logo-1
   type: logo
-offerId: bbd3dbf2-23f5-4a88-b795-54e9b5ade3ac
+offerId: b435df22-6da5-4729-888e-45dd7e75e500
 price:
   cents: 18900
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 329
 slug: mobile-pixels-glance-plus-156-oled-display
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-26T23:00:00.000Z'
 title: Mobile Pixels Glance Plus Draagbaar 15,6" OLED Display

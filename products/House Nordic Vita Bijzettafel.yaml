@@ -13,19 +13,20 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 40
+discount: 60
 end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
 id: fb357186-a9cf-42ad-a336-42ca4b41ebab
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2071848
+    - all
+  extension: image/png
+  id: 6ef39193-19f3-4e60-ad2a-3097a84ecc20
   priority: 0
-  slug: house-nordic-vita-bijzettafel
+  slug: 123-png-product-12
   type: product
 logo:
   channels:
@@ -39,9 +40,9 @@ logo:
   type: logo
 offerId: 26ad38ea-5505-4194-900a-7f817a1b531e
 price:
-  cents: 2995
+  cents: 1995
   currency: EUR
-  value: 29.95
+  value: 19.95
 referencePrice:
   cents: 5000
   currency: EUR

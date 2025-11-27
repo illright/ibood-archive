@@ -1,12 +1,12 @@
-_id: 6920795c0d9fae1d7585f718
+_id: 6926e8149248db902f2e022d
 appOnly: false
 brand: Dyson
 brands:
   - id: ce5fb89a-975e-533e-8b6a-e42d1139cacc
     name: Dyson
 categories:
-  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
-classicId: '2839952'
+  - 5cdde8ac-947a-5cfd-9701-226c00ee06e2
+classicId: '2842792'
 classicProductId: '547910'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-03T22:59:59.999Z'
 freeDelivery: false
-id: fcf0a895-2450-42d0-b79e-2140a25936b0
+id: 006375f3-ba8d-4a48-a36d-657847b535d8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2187966
+    - all
+  extension: image/png
+  id: 2eb864e0-d266-40f4-b4b4-80bbbd62845a
   priority: 0
-  slug: dyson-zone-koptelefoon-anc
+  slug: dyson-zone-koptelefoon-active-noise-cancelling-luchtfilter-product-4
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: dyson-logo
   type: logo
-offerId: 1edc1be7-9c35-414c-88cd-9cf640313085
+offerId: 0865bfc2-f1a8-4bec-8924-f5124f448f4d
 price:
   cents: 17900
   currency: EUR
@@ -46,7 +47,7 @@ referencePrice:
   cents: 64995
   currency: EUR
   value: 649.95
-slug: dyson-zone-koptelefoon-anc
-soldOut: true
-start: '2025-11-20T23:00:00.000Z'
+slug: dyson-zone-koptelefoon-active-noise-cancelling-luchtfilter
+soldOut: false
+start: '2025-11-26T23:00:00.000Z'
 title: Dyson Zone Koptelefoon | Active Noise Cancelling | Luchtfilter

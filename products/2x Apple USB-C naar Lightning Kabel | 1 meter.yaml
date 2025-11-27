@@ -1,31 +1,34 @@
-_id: 691f1da112cce2568dda37a4
+_id: 692069356c45b59d3381a471
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
-classicId: '2835127'
-classicProductId: '591155'
+  - 480c6857-32d0-53d9-96c2-16fab83deabe
+classicId: '2839298'
+classicProductId: '681695'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
 discount: 56
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-03T22:59:59.999Z'
 freeDelivery: false
-id: 5e8de8f1-1c8d-498a-a29e-2ac5df50d74c
+id: 05408217-231c-5cc5-b2eb-02f9646f36d2
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 2032785
+  extension: image/png
+  id: b9e970ee-bc4a-4360-9e5b-e575a91f94f6-tr
   priority: 0
-  slug: 2x-apple-kabel-usb-c-auf-lightning-1-m
+  slug: 2x-apple-kabel-usb-c-auf-lightning-1-m-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: 2d1c5af3-8d9c-43c7-9a65-d60880690538
+offerId: 2f50b4fe-d3c9-5269-8439-270f376efd36
 price:
   cents: 2195
   currency: EUR
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 50
 slug: 2x-apple-usb-c-naar-lightning-kabel-1-meter
-soldOut: true
-start: '2025-11-20T23:00:00.000Z'
+soldOut: false
+start: '2025-11-26T23:00:00.000Z'
 title: 2x Apple USB-C naar Lightning Kabel | 1 meter

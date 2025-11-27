@@ -1,12 +1,12 @@
-_id: 691f1d2f2deebb2fb3aebd8f
+_id: 6926e806b34655535e10441b
 appOnly: false
 brand: Ezviz
 brands:
   - id: b12fd545-9bed-5ac8-9890-33d9431a9da1
     name: Ezviz
 categories:
-  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
-classicId: '2834961'
+  - 480c6857-32d0-53d9-96c2-16fab83deabe
+classicId: '2842784'
 classicProductId: '677540'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-03T22:59:59.999Z'
 freeDelivery: false
-id: 80fd92a9-f3b8-4dc4-b468-6a871da54709
+id: 5d05c343-80fb-4791-9aa3-6b95cb1f641e
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1798401
-  priority: 100
-  slug: ezviz-logo
+    - all
+  extension: image/png
+  id: b4d8eff9-f879-438b-893d-2045ca0604d9
+  priority: 0
+  slug: ezviz-horizontaal-png-logo-0
   type: logo
-offerId: 1008cb74-e094-445b-bae3-d95e772bb5f6
+offerId: 4abc66e5-e570-4d8a-97e5-233ff9117edf
 price:
   cents: 6995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 249.99
 slug: ezviz-accu-ip-camera-met-basis-station-2k-hb3
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-26T23:00:00.000Z'
 title: Ezviz Accu IP-Camera met Basis Station | 2K | HB3

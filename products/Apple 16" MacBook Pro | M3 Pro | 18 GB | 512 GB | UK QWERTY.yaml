@@ -1,45 +1,55 @@
-_id: 691f1d2983a42348de69bb43
+_id: 6926e8a92cd818abf6e75b44
 appOnly: false
-brand: Apple | FlinQ
+brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
-  - id: c5850d1b-064a-5297-987d-113f01df60eb
-    name: FlinQ
 categories:
-  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
-classicId: '2834940'
-classicProductId: '675528'
+  - 480c6857-32d0-53d9-96c2-16fab83deabe
+classicId: '2842912'
+classicProductId: '639792'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 43
-end: '2025-11-26T22:59:59.999Z'
+directCheckout: true
+discount: 38
+end: '2025-12-03T22:59:59.999Z'
 freeDelivery: false
-id: f2bd78b8-c416-4331-9cc9-9b7c5d9fb283
+id: 4d99c33c-1954-463d-adf5-dcf92e9be2ef
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: 32a63aaa-3b6b-4760-8294-c8de7df6e7eb
+  id: 21ad7b7a-5111-420b-94a1-9bad92b1297a-tr
   priority: 0
-  slug: macbook-main-png-product-1
+  slug: apple-16-macbook-pro-m3-pro-18-gb-uk-qwerty-jpg-product-1
   type: product
-offerId: dda31eb5-7a93-4b4f-90b8-fd92b5fa9030
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: 355f340b-eda4-4571-92aa-37cede16f4fa
 price:
-  cents: 169900
+  cents: 189900
   currency: EUR
-  value: 1699
+  value: 1899
 referencePrice:
-  cents: 299900
+  cents: 304900
   currency: EUR
-  value: 2999
+  value: 3049
 slug: apple-16-macbook-pro-m3-pro-18-gb-uk-qwerty
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-26T23:00:00.000Z'
 title: Apple 16" MacBook Pro | M3 Pro | 18 GB | 512 GB | UK QWERTY

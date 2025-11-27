@@ -1,12 +1,12 @@
-_id: 691f1d69bbb5703a2f165b62
+_id: 6926e8a53322575830ff898f
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - bf97bdcb-24c7-5b2a-be00-38a93cc79740
-classicId: '2835052'
+  - 480c6857-32d0-53d9-96c2-16fab83deabe
+classicId: '2842878'
 classicProductId: '656031'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2025-11-26T22:59:59.999Z'
+end: '2025-12-03T22:59:59.999Z'
 freeDelivery: false
-id: b9019b68-c2dc-4691-9095-26e69cd24195
+id: f4fcf58b-72d2-48ff-8e8f-ea0e3a763a18
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1789994
-  priority: 100
-  slug: apple-logo
+    - all
+  extension: image/png
+  id: 8d6a14bf-b48b-4185-bde6-0619b3752091
+  priority: 0
+  slug: apple-png-logo-0
   type: logo
-offerId: df3a6958-990a-4a59-ab69-a6ed5d3091e1
+offerId: a8dc8628-7b50-4493-9f5b-6e92bdfa0749
 price:
   cents: 34900
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 829
 slug: apple-watch-series-9-gps-cellular-rvs-45-mm-sportband-m-l-cpo
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-26T23:00:00.000Z'
 title: Apple Watch Series 9 GPS + Cellular | RVS | 45 mm Sportband M/L | CPO

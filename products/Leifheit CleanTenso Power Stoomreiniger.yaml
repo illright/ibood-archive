@@ -1,22 +1,22 @@
-_id: 6911a5ef180af628d2f303f4
+_id: 692573624c656b2226f38a4e
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - 8a638766-e666-597d-94ec-c7f5bb3bb940
-classicId: '2819307'
+  - 183ec289-57a4-5f56-81a6-fa0326304deb
+classicId: '2841618'
 classicProductId: '576789'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 23
-end: '2025-11-26T22:59:59.999Z'
+discount: 31
+end: '2025-12-02T22:59:59.999Z'
 freeDelivery: false
-id: 5f9f31ed-2d1d-582d-b5a8-0bd0a7aff9c7
+id: 4b62c9ec-66de-4fba-a4b6-f187ab8fdf8a
 image:
   channels:
     - website
@@ -29,25 +29,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d82ad456-72fa-4570-9e0a-55921403ce52
-  priority: 0
-  slug: leifheit-png-logo-0
+  extension: png
+  id: 1831727
+  priority: 100
+  slug: leifheit-logo
   type: logo
-offerId: c083250e-d6c9-5ab2-9d8f-7362a8038286
+offerId: 19c1ea8d-7afb-47e6-ac42-64c478a6e5af
 price:
-  cents: 9995
+  cents: 8995
   currency: EUR
-  value: 99.95
+  value: 89.95
 referencePrice:
   cents: 12999
   currency: EUR
   value: 129.99
 slug: leifheit-cleantenso-power-stoomreiniger
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-11-25T23:00:00.000Z'
 title: Leifheit CleanTenso Power Stoomreiniger

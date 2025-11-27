@@ -19,13 +19,16 @@ freeDelivery: false
 id: a25f501e-5a7d-4148-ba37-5b40c5d62d52
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 681766
+  extension: image/png
+  id: fde5a736-099b-475c-b0f2-e807ae96f8a5-tr
   priority: 0
-  slug: buccan-ovenschaal-32-x-21-cm
+  slug: 1200x402-jpg-product-0
   type: product
 logo:
   channels:
