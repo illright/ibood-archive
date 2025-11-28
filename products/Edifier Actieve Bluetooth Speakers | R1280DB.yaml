@@ -1,4 +1,4 @@
-_id: 6926e7d96725b74a52d4c126
+_id: 6926e7d084bd09dc8353315f
 appOnly: false
 brand: Edifier
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Edifier
 categories:
   - 5cdde8ac-947a-5cfd-9701-226c00ee06e2
-classicId: '2842748'
-classicProductId: '474782'
+classicId: '2842741'
+classicProductId: '64147'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,30 +16,31 @@ directCheckout: true
 discount: 43
 end: '2025-12-03T22:59:59.999Z'
 freeDelivery: false
-id: 427f9348-c8c2-4191-8fc2-a49b452e84ff
+id: 61438357-d27f-484f-bd7e-01798dad4624
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: c1f30607-8aee-4abe-b28a-45f652ad0533
+  id: 42b1689f-d4cb-4feb-8eb8-9fbb408498a5-tr
   priority: 0
-  slug: edifier-01-png-product-1
+  slug: edifier-studio-bluetooth-lautsprechersystem-jpg-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ed968549-e840-4501-b80a-9e85130fb70a
-  priority: 0
-  slug: edifier-png-logo-0
+  extension: png
+  id: 1665211
+  priority: 100
+  slug: edifier-logo
   type: logo
-offerId: d362cfb3-2438-416d-829f-5be94d52e624
+offerId: b9261265-6cbd-43ba-81a0-9d21cda504b7
 price:
   cents: 7995
   currency: EUR

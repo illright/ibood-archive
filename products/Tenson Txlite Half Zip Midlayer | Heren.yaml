@@ -1,22 +1,22 @@
-_id: 6925747658c0f8bbec72d216
+_id: 69285051960c9b67ce053066
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - 0424c6c1-231a-5fd7-9af3-726eee7071b8
-classicId: '2841768'
-classicProductId: '675993'
+  - e679c002-e8e1-5281-8f3c-44b33121e5ab
+classicId: '2843668'
+classicProductId: '675979'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 43
-end: '2025-11-27T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: f147592c-5ea6-47ba-ac50-452a1beffc29
+id: 1cd26a46-a1b8-47be-a2f8-2711c9a5bd41
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 1292bc88-2621-4cf4-87fd-f2fd7c0bdf9e
+  id: 7325d232-0c97-4e03-a65e-ad7e5d522a20
   priority: 0
-  slug: 22-png-product-3
+  slug: 1-png-product-2
   type: product
-offerId: 9a00b356-88da-45fa-941c-9666dd2a9a98
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1504614
+  priority: 100
+  slug: tenson-logo
+  type: logo
+offerId: 57fe9449-5226-4560-a201-952261f7d83f
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 70
 slug: tenson-txlite-half-zip-midlayer-heren
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-27T23:00:00.000Z'
 title: Tenson Txlite Half Zip Midlayer | Heren

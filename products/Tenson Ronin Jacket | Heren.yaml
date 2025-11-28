@@ -1,12 +1,12 @@
-_id: 692043b35278d35cacb068bc
+_id: 69284ffc960c9b67ce05302f
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - 7839aa4e-e507-5ee9-a040-8463beee7d0e
-classicId: '2837444'
+  - e679c002-e8e1-5281-8f3c-44b33121e5ab
+classicId: '2843640'
 classicProductId: '675879'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 54
-end: '2025-11-27T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 38ec8ea3-98c1-564f-9821-bc5897b075d3
+id: 3abab95f-1c54-4e05-8c5c-80ef2d2f3ec1
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: maiin23r-png-product-1
   type: product
-offerId: 529b330c-cb64-557f-a219-c5a8ce4ae35d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1504614
+  priority: 100
+  slug: tenson-logo
+  type: logo
+offerId: 8efa68a9-dbab-47c8-8cc9-d3f299e9b2db
 price:
   cents: 10995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 240
 slug: tenson-ronin-jacket-heren
 soldOut: false
-start: '2025-11-26T23:00:00.000Z'
+start: '2025-11-27T23:00:00.000Z'
 title: Tenson Ronin Jacket | Heren

@@ -1,22 +1,22 @@
-_id: 6925718558c0f8bbec72cfa1
+_id: 6928504f960c9b67ce05305e
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - c8a86da0-2871-515e-b6f7-b9f71a380c41
-classicId: '2841117'
+  - e679c002-e8e1-5281-8f3c-44b33121e5ab
+classicId: '2843665'
 classicProductId: '659553'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 46
-end: '2025-11-27T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 63fd5e1a-9dff-4461-9f1f-f26a6a90ec37
+id: e60fdfe1-24ae-49a2-bf37-1f61e3a7799b
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: m-421-lav-green-54012-421-m-w-coastal-parka-helly-hansen-product-7
   type: product
-offerId: 791f1781-3077-4156-9c42-3e3b92098e40
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
+  type: logo
+offerId: c0c78245-f1e1-4830-ae68-3e2fb646920b
 price:
   cents: 14995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 280
 slug: helly-hansen-w-coastal-parka-dames-groen
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-27T23:00:00.000Z'
 title: Helly Hansen W Coastal Parka | Dames | Groen

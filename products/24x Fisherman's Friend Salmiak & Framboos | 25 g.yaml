@@ -1,12 +1,12 @@
-_id: 691f2d70ec9608c44af1cf53
+_id: 69286d10cc99fe70f6de355b
 appOnly: false
 brand: Fisherman’s Friend
 brands:
   - id: 37f5dce8-21ec-5677-97e6-ed2bb1c70acc
     name: Fisherman’s Friend
 categories:
-  - 68b7c226-7de3-59c5-819d-b319e686a49d
-classicId: '2835901'
+  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
+classicId: '2844137'
 classicProductId: '678556'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2025-11-27T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: fcab578b-25e4-4a59-b6ed-ceb1640fa9ca
+id: c302a9eb-e9ba-47cb-92d9-c1318e68c8c8
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 24x-fisherman-s-friend-salmiak-framboos-25g-product-0
   type: product
-offerId: 37cd75e4-ff6c-407b-abd0-b0fbbb27c29a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f72f9f61-e1f8-422c-aa51-5e1773218d8f
+  priority: 0
+  slug: fisherman-s-friend-logo-0
+  type: logo
+offerId: d081d13f-91a9-4893-973b-7639660df56a
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 35.76
 slug: 24x-fisherman-s-friend-salmiak-framboos-25-g
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-27T23:00:00.000Z'
 title: 24x Fisherman's Friend Salmiak & Framboos | 25 g

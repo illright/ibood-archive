@@ -1,12 +1,12 @@
-_id: 691f2e4e20b83781d0faeca2
+_id: 69286ec4442e51fdbb8130f5
 appOnly: false
 brand: SEGAFREDO
 brands:
   - id: 0ed38616-b3c2-5ff5-bbc7-9ca7025018c5
     name: SEGAFREDO
 categories:
-  - 68b7c226-7de3-59c5-819d-b319e686a49d
-classicId: '2836296'
+  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
+classicId: '2844460'
 classicProductId: '677413'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2025-11-27T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 346632d1-f31e-4406-b542-f9f91643b65a
+id: 6ed81bbb-ce53-42d0-898a-2cdb0395eda2
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 12x-segafredo-latte-macchiatto-dark-roast-235ml-product-0
   type: product
-offerId: b31f6832-885f-4968-9cc4-2f3f409ea672
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0aa70abc-3f45-4f0f-a29d-9b678c06ac1a
+  priority: 0
+  slug: segafredo-logo-0
+  type: logo
+offerId: a86c8433-3834-4b2d-877d-067558fd58b4
 price:
   cents: 1195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 23.4
 slug: 12x-segafredo-latte-macchiato-dark-roast-235-ml
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-27T23:00:00.000Z'
 title: 12x Segafredo Latte Macchiato Dark Roast | 235 ml

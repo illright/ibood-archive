@@ -1,12 +1,12 @@
-_id: 691f2d00167386c92bcea284
+_id: 69286c19cc99fe70f6de33db
 appOnly: false
 brand: AUTODROP
 brands:
   - id: 809368a8-565a-5506-a243-a7fbc0b95d2e
     name: AUTODROP
 categories:
-  - 68b7c226-7de3-59c5-819d-b319e686a49d
-classicId: '2835693'
+  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
+classicId: '2843943'
 classicProductId: '678558'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 39
-end: '2025-11-27T22:59:59.999Z'
+end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 4c687ef0-c678-4aaa-af63-a312b939a847
+id: 965cf0a2-7e87-4820-8e66-432a9b892030
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: autodrop-01-png-product-1
   type: product
-offerId: c1cb6d6b-8fc5-4d49-9b81-0be203f1b803
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6670cdbc-3f6a-4776-b22d-383add876a17
+  priority: 0
+  slug: autodrop-logo-0
+  type: logo
+offerId: 6e4c25d9-f7d7-4d6f-b195-197c5bab631f
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 32.85
 slug: 15x-autodrop-geschuimde-sneeuw-cadillacs-180-g
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-11-27T23:00:00.000Z'
 title: 15x Autodrop Geschuimde Sneeuw Cadillacs | 180 g
