@@ -19,13 +19,14 @@ freeDelivery: false
 id: 046c2d19-96cd-43b5-b132-99307db2b972
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1904960
+    - all
+  extension: image/png
+  id: 3ec4874b-f218-45b1-8521-a19d4d712e8e
   priority: 0
-  slug: samsonite-flux-spinner-uitbreidbare-trolleykoffer
+  slug: 2268926-png-product-1
   type: product
 logo:
   channels:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 269
 slug: samsonite-flux-spinner-uitbreidbare-trolleykoffer-75-cm
-soldOut: false
+soldOut: true
 start: '2025-11-23T23:00:00.000Z'
 title: Samsonite Flux Spinner Uitbreidbare Trolleykoffer | 75 cm

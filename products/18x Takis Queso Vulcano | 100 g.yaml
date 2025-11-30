@@ -19,13 +19,14 @@ freeDelivery: false
 id: b0d0ae2e-a9ea-47fd-87d1-e4934ef1ed30
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1704545
+    - all
+  extension: image/png
+  id: e0b89a54-295a-4345-8c38-f4754d3c4eaf
   priority: 0
-  slug: 9x-takis-queso-vulcano-100-g
+  slug: untitled-1-png-product-1
   type: product
 logo:
   channels:
