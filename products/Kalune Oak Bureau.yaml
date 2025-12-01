@@ -1,4 +1,4 @@
-_id: 692044007cff776b31b22027
+_id: 692044227cff776b31b22074
 appOnly: false
 brand: Kalune
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Kalune
 categories:
   - 7877016a-da87-57cf-b4bd-72bbbcdafb40
-classicId: '2837522'
-classicProductId: '574336'
+classicId: '2837560'
+classicProductId: '608065'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 55
+discount: 63
 end: '2025-12-01T22:59:59.999Z'
 freeDelivery: false
-id: 7a0941a5-0682-408e-b9e2-076ac4a84d73
+id: 9efb9e22-7afd-42bd-9f5f-42090b4ed675
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7275f8da-15fa-4042-a5c4-a7226f2530ce
+  extension: jpg
+  id: 2251873
   priority: 0
-  slug: kalune-oak-bureau-product-9
+  slug: kalune-oak-bureau
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: kalune-logo
   type: logo
-offerId: b3297fb4-e700-478a-a093-621e8b6a5daf
+offerId: 5273beba-75b0-486f-9fac-a052e4685e3a
 price:
-  cents: 8995
+  cents: 7495
   currency: EUR
-  value: 89.95
+  value: 74.95
 referencePrice:
   cents: 19995
   currency: EUR
   value: 199.95
 slug: kalune-oak-bureau
-soldOut: false
+soldOut: true
 start: '2025-11-20T23:00:00.000Z'
 title: Kalune Oak Bureau

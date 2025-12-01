@@ -1,0 +1,52 @@
+_id: 691d95e6bbea828f847c736d
+appOnly: false
+brand: VDN
+brands:
+  - id: f9fc7e91-151f-53b4-8956-47ed556113c2
+    name: VDN
+categories:
+  - 354f10b4-49a4-537b-977e-25fd1c7ab075
+classicId: '2832684'
+classicProductId: '599165'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 29
+end: '2025-12-03T22:59:59.999Z'
+freeDelivery: false
+id: 1db38c7e-b76c-5339-8f95-91baf6ef9f52
+image:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2076721
+  priority: 0
+  slug: vdn-percolator
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1482953
+  priority: 100
+  slug: vdn-logo
+  type: logo
+offerId: b613de89-69b9-54b3-bd2a-f5d025b5ea1e
+price:
+  cents: 2995
+  currency: EUR
+  value: 29.95
+referencePrice:
+  cents: 4199
+  currency: EUR
+  value: 41.99
+slug: vdn-percolator
+soldOut: false
+start: '2025-11-30T23:00:00.000Z'
+title: VDN Percolator

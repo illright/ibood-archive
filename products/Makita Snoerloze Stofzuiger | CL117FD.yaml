@@ -1,32 +1,31 @@
-_id: 692419ceceb9975019afd0f7
+_id: 691f3a428955ba40652f55e2
 appOnly: false
 brand: Makita
 brands:
   - id: 3dbfbe86-4ed5-5b75-9ebb-fbc198e478a4
     name: Makita
 categories:
-  - 00ea7d0d-5f49-5b83-bbae-53ad1c56c593
-classicId: '2840124'
+  - 2961f4fc-8ef7-58ed-af5f-df4e1bed9c52
+classicId: '2837123'
 classicProductId: '450082'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 80
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 7b0a211f-fc3a-4ddb-a302-9485fda2ef70
+id: 95147b0f-5dff-49e1-a4a9-9fc6018c3b6e
 image:
   channels:
+    - newsletter
     - app
     - website
-    - newsletter
-    - all
-  extension: image/png
-  id: ab0989c2-01d4-4f7e-a771-2319e07f806c
+  extension: png
+  id: 1509833
   priority: 0
-  slug: makita-snoerloze-stofzuiger-cl117fd-product-4
+  slug: makita-snoerloze-stofzuiger-cl117fd
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: makita-logo
   type: logo
-offerId: d5360fb0-82e9-468b-89b7-56ce50ae296b
+offerId: 9ecd4ef3-b7fc-4d7a-8cc6-1e8b9d65a460
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 146.2
 slug: makita-snoerloze-stofzuiger-cl117fd
 soldOut: false
-start: '2025-11-24T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: Makita Snoerloze Stofzuiger | CL117FD
