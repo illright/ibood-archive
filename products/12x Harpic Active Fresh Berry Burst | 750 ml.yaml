@@ -1,12 +1,12 @@
-_id: 69286d3ccc99fe70f6de359f
+_id: 692dad0bd090bf57b603c8b2
 appOnly: false
 brand: Harpic
 brands:
   - id: f2170879-1ad1-5f72-8add-d514453cc1a3
     name: Harpic
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2844175'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2848662'
 classicProductId: '677706'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 69
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 17ce4116-ab99-43d6-8b73-c8bccb89c529
+id: c3f8ec9d-fcdf-4adb-91be-82ead79d5641
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 12x-harpic-active-fresh-berry-burst-750ml-product-0
   type: product
-offerId: 2a24b1da-c64f-4b41-93da-e22729123a40
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: faa154c3-8cb4-4208-8fc6-6a202ff9d9b6
+  priority: 0
+  slug: harpic-logo-0
+  type: logo
+offerId: 438da52c-20a1-420e-9a7e-dcaafbee370b
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 53.88
 slug: 12x-harpic-active-fresh-berry-burst-750-ml
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 12x Harpic Active Fresh Berry Burst | 750 ml

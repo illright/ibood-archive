@@ -1,12 +1,12 @@
-_id: 69286c87442e51fdbb812c7e
+_id: 692dac2b58bfd7cfedbf17e3
 appOnly: false
 brand: Côte d'Or
 brands:
   - id: ab7dfc56-c94d-5442-81e0-77b7e9d942c3
     name: Côte d'Or
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2844033'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2848523'
 classicProductId: '623178'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 6a26322f-8272-498f-aad4-e92468ab859a
+id: d9f422f6-13a2-49cd-a2f0-c9d753ff53d5
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2190591
+  id: 2031644
   priority: 100
-  slug: 9x-cote-dor-milchschokolade-haselnusse-rosine
+  slug: cote-d-or-logo
   type: logo
-offerId: fe4b4c4e-02fe-4760-aea0-8e8bef88c262
+offerId: 51d977da-f7c8-4391-848d-764c72ab4129
 price:
   cents: 1895
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 44.91
 slug: 9x-cote-dor-melkchocolade-hazelnoten-rozijnen
-soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+soldOut: true
+start: '2025-12-01T23:00:00.000Z'
 title: 9x Côte d'Or Melkchocolade Hazelnoten & Rozijnen | 180 g

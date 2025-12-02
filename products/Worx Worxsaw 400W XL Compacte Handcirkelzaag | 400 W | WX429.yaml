@@ -1,12 +1,12 @@
-_id: 6926bf7084bd09dc835330b1
+_id: 692d74f058bfd7cfedbf0f71
 appOnly: false
 brand: WORX
 brands:
   - id: 32b8c6a5-4136-539d-9ec3-e20949711e3f
     name: WORX
 categories:
-  - 00ea7d0d-5f49-5b83-bbae-53ad1c56c593
-classicId: '2842541'
+  - 80a241ac-e80c-5d47-8a72-fe5c95f3b473
+classicId: '2846314'
 classicProductId: '678370'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: a7af9f84-8bd2-45b7-b4e7-56f7a77123eb
+id: 2b893fbb-2f3b-416c-87c1-39c123edd0d7
 image:
   channels:
     - app
@@ -28,7 +28,16 @@ image:
   priority: 0
   slug: worx-wx429-kompakt-handcirkelzaag-400-w-product-0
   type: product
-offerId: 244cf257-b26c-4016-8f54-e25e583ca560
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  id: 202678
+  priority: 100
+  slug: worx-logo
+  type: logo
+offerId: f171926d-fa83-4dc5-bcd6-d628e84e4c40
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +48,5 @@ referencePrice:
   value: 172.69
 slug: worx-worxsaw-400w-xl-compacte-candcirkelzaag-400w-wx429
 soldOut: false
-start: '2025-11-24T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Worx Worxsaw 400W XL Compacte Handcirkelzaag | 400 W | WX429

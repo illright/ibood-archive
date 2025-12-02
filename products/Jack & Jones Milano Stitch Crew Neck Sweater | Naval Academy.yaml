@@ -1,22 +1,22 @@
-_id: 69206ab6a006dd051586aace
+_id: 692d9ee5ac03ed6c8b7b4558
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - c79da4a4-924f-5fcb-acea-c36e7e1967c7
-classicId: '2839800'
+  - e6a1c76f-a998-5a53-894c-3f18d943643d
+classicId: '2847646'
 classicProductId: '652724'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 40
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: f8400cfe-dcec-405e-aa2f-97806e787f96
+id: 63e3fe71-1207-4eb0-adff-ffd86a7c686e
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
+    - all
+  extension: image/png
+  id: 243edc22-187b-4891-9bba-c0614ae49a07
+  priority: 0
+  slug: jack-jones-o-neck-t-shirt-core-classic-png-logo-0
   type: logo
-offerId: 4c423939-30c3-4c60-a183-00dd6107fd73
+offerId: 1d052ed9-08f7-4553-82af-4b7b3327debf
 price:
-  cents: 3000
+  cents: 2995
   currency: EUR
-  value: 30
+  value: 29.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: jack-jones-milano-stitch-crew-neck-sweater-naval-academy
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Jack & Jones Milano Stitch Crew Neck Sweater | Naval Academy

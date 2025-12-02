@@ -1,12 +1,12 @@
-_id: 692065fe6c45b59d3381a422
+_id: 692d9e41ac03ed6c8b7b4466
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - 681a2197-5591-5154-99d4-1206c93ac0cc
-classicId: '2838988'
+  - e6a1c76f-a998-5a53-894c-3f18d943643d
+classicId: '2847504'
 classicProductId: '647261'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 75
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 2dee8c33-0962-4c2c-a351-c039c1e470bf
+id: db0d63d3-304d-42cd-930f-84a3060eca04
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: blend-overhemd-oxford-dress-blues-heren
   type: product
-offerId: 1cc855a8-19e3-40bd-a105-4093dcddf1de
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2284735
+  priority: 100
+  slug: blend-overhemd-oxford-dress-blues-heren
+  type: logo
+offerId: d1cd90fd-bfe4-475b-ab0a-a47ca1f2a04a
 price:
   cents: 995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 39.95
 slug: blend-overhemd-oxford-dress-blues-heren
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Blend Overhemd Oxford Dress Blues | Heren

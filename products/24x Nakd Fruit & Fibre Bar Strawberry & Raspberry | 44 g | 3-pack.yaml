@@ -1,12 +1,12 @@
-_id: 69286e10442e51fdbb812f85
+_id: 692dadc5d090bf57b603cad0
 appOnly: false
 brand: Nakd
 brands:
   - id: 4effae53-d1bb-536b-bff2-ff7beec52ab1
     name: Nakd
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2844326'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2848843'
 classicProductId: '672671'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: bcc859a9-32af-43da-9d50-426dbf034d39
+id: 80d41c9a-9629-47dc-a67c-feea25268f43
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 68b2edb5-ee20-479f-849a-1a9d64678230
+  id: ffc3a796-9ef0-4432-b4fb-f0cd39b5ea97
   priority: 0
-  slug: nakd-01-png-product-101
+  slug: nakd-04-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: nakd-logo
   type: logo
-offerId: 3b735d34-8435-47d4-b35d-ef6b9a2c073d
+offerId: 0fa3b695-ee1f-4071-8b78-624fba4e0afb
 price:
   cents: 3295
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 90.96
 slug: 24x-nakd-fruit-fibre-bar-strawberry-raspberry-44-g-3-pack
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 24x Nakd Fruit & Fibre Bar Strawberry & Raspberry | 44 g | 3-pack

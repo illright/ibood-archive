@@ -1,22 +1,22 @@
-_id: 69206a276efb3199fd3c7cda
+_id: 692d9b6158bfd7cfedbf1261
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 5b0153b0-f0b4-5505-a573-107e6ab67537
-classicId: '2839541'
-classicProductId: '672928'
+  - c69a856c-3c55-58f9-bb46-26207176ea32
+classicId: '2846813'
+classicProductId: '672932'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 55
-end: '2025-12-01T22:59:59.999Z'
+directCheckout: false
+discount: 60
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 33619eee-a250-44ec-b8b6-bcb4c3e17aaa
+id: 7f6e6dbb-33a4-46f3-9682-ccc73d63374c
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: 03f25b1c-0fcb-4481-bf03-5b971bab8635
+offerId: 76ed08bd-e120-48ad-97d4-d1cf76b248f8
 price:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 referencePrice:
   cents: 19999
   currency: EUR
   value: 199.99
 slug: nza-bomberjas-25ls802-charcoal-navy
-soldOut: true
-start: '2025-11-23T23:00:00.000Z'
+soldOut: false
+start: '2025-12-01T23:00:00.000Z'
 title: NZA Bomberjas | 25LS802 | Charcoal Navy

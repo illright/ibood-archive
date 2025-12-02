@@ -1,22 +1,22 @@
-_id: 6921d16618505c52cc933209
+_id: 692d9cfe7de1487a2072c724
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - b94922ca-df09-5f83-8345-651ac78b0416
-classicId: '2840001'
-classicProductId: '611758'
+  - c12f3a01-8d7e-5bc4-a68a-6d8857deda5b
+classicId: '2847305'
+classicProductId: '611761'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 64840801-815c-4427-9487-a520b362993b
+id: 148c8ed3-2100-4430-adb6-518df791a3a8
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: bjorn-borg-logo
   type: logo
-offerId: 066e62cc-4e8f-4782-9ac2-1df87a52efb6
+offerId: e7b8e313-a3a9-4585-875b-1666465e153b
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 89.95
 slug: bjorn-borg-sneakers
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Björn Borg T1055 Sneakers | Heren

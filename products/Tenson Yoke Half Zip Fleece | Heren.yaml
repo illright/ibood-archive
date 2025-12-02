@@ -1,12 +1,12 @@
-_id: 692850625b3bf0f49f877624
+_id: 692daf66d090bf57b603ccce
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - e679c002-e8e1-5281-8f3c-44b33121e5ab
-classicId: '2843688'
+  - 22586625-6e68-5ac5-8ad5-efd6e45df317
+classicId: '2849280'
 classicProductId: '675862'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 44
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 1ec5cf2d-3866-4724-ab73-e198cb36313a
+id: 61f59c88-ca59-432a-bcc3-075838babfae
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: de8bcbaa-f8fe-4325-b024-b6469e6248e4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1504614
+  priority: 100
+  slug: tenson-logo
+  type: logo
+offerId: 11f1d4cc-2f35-4282-878d-2337fadb89a6
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 90
 slug: tenson-yoke-half-zip-fleece-heren
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Tenson Yoke Half Zip Fleece | Heren

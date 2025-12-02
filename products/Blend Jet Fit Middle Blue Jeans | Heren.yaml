@@ -1,22 +1,22 @@
-_id: 692065b1d998f5bde5dca76e
+_id: 692d9c5df3e1045b679871c0
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - e3ce7d90-6f13-54da-920c-184aa1fe4e6d
-classicId: '2838966'
-classicProductId: '647218'
+  - d4424b29-eb3a-5f07-819c-2c0efa74d030
+classicId: '2847128'
+classicProductId: '647219'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 70
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: ecebe543-cafb-4f0c-a810-4c5603332ad4
+id: fea76fdd-ec8d-479c-95ae-57f0b6f63300
 image:
   channels:
     - website
@@ -27,7 +27,7 @@ image:
   priority: 0
   slug: blend-jet-fit-middle-blue-jeans-heren
   type: product
-offerId: 4e0c796f-f33e-4e02-aae3-44e28e0e3daa
+offerId: 2c827e6a-2105-469a-b9e5-0e27a61b9bc8
 price:
   cents: 1495
   currency: EUR
@@ -37,6 +37,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: blend-jet-fit-middle-blue-jeans-heren
-soldOut: true
-start: '2025-11-23T23:00:00.000Z'
+soldOut: false
+start: '2025-12-01T23:00:00.000Z'
 title: Blend Jet Fit Middle Blue Jeans | Heren

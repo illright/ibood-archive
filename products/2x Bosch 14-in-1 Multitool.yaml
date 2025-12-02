@@ -1,12 +1,12 @@
-_id: 69296317441bae26d6fcee13
+_id: 692d74fa58bfd7cfedbf0f8e
 appOnly: false
 brand: Bosch
 brands:
   - id: 169a5b37-c6f7-5ed0-83e7-162bb01acc79
     name: Bosch
 categories:
-  - 00ea7d0d-5f49-5b83-bbae-53ad1c56c593
-classicId: '2844727'
+  - 80a241ac-e80c-5d47-8a72-fe5c95f3b473
+classicId: '2846327'
 classicProductId: '679350'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: a1a44f13-6257-42a0-a3eb-6b1c1f31cb63
+id: 8655d61d-4e01-4c1c-8686-62b62a3aa4e4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: faed25dc-08f8-4447-9fae-7f6bcaefbbe2
-  priority: 0
-  slug: bosch-png-logo-0
+  extension: png
+  id: 1599478
+  priority: 100
+  slug: bosch-logo
   type: logo
-offerId: 475c40bd-6ea7-4d85-9150-1033dac2d31e
+offerId: 980eaf32-af3d-426c-b406-f5892c7f98a4
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 59.99
 slug: 2x-bosch-14-in-1-multitool
 soldOut: false
-start: '2025-11-24T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 2x Bosch 14-in-1 Multitool

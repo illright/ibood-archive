@@ -1,22 +1,22 @@
-_id: 692065bc0563557eee2a4a4d
+_id: 692d9d9e58bfd7cfedbf14e7
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 681a2197-5591-5154-99d4-1206c93ac0cc
-classicId: '2838944'
-classicProductId: '638377'
+  - e6a1c76f-a998-5a53-894c-3f18d943643d
+classicId: '2847424'
+classicProductId: '638378'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 80
-end: '2025-12-01T22:59:59.999Z'
+directCheckout: false
+discount: 85
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 28cde8e1-9bca-43f8-b09d-f059747b6d59
+id: 7d163de0-0493-4376-a35a-b66b6140a552
 image:
   channels:
     - website
@@ -37,16 +37,16 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: f1f85a2f-4849-4334-9294-fcf64342600f
+offerId: 841d9988-0ff7-4fd2-b240-f73b7d6d4b45
 price:
-  cents: 1995
+  cents: 1495
   currency: EUR
-  value: 19.95
+  value: 14.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: mcgregor-shirt-gestreept-blauw
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: McGregor Shirt Gestreept | Heren | Blauw

@@ -1,12 +1,12 @@
-_id: 692963151c91bc35dc967cfb
+_id: 692d74cbac03ed6c8b7b3f98
 appOnly: false
 brand: Toughbuilt
 brands:
   - id: 4e85886c-fef9-56e5-a90b-6e8f54a1901b
     name: Toughbuilt
 categories:
-  - 00ea7d0d-5f49-5b83-bbae-53ad1c56c593
-classicId: '2844724'
+  - 80a241ac-e80c-5d47-8a72-fe5c95f3b473
+classicId: '2846267'
 classicProductId: '587824'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 78ad039d-31be-4007-87f4-5abb11388f18
+id: e390c41c-da21-4e06-9964-45fbcd26c5a4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9c6ccefc-43ec-43b7-9977-ecaf91bc43ea
-  priority: 0
-  slug: toughbuilt-2-pack-c700-sawhorse-jobsite-table-2-pack-logo-0
+  extension: png
+  id: 1805638
+  priority: 100
+  slug: toughbuilt-logo
   type: logo
-offerId: e4f509eb-1ba2-4a9c-9675-3b0b8aaa6b16
+offerId: d20e69e3-e9c3-4279-beaa-1d8f3e19d78f
 price:
   cents: 13495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 223.78
 slug: toughbuilt-2-pack-c700-sawhorse-jobsite-table-2-pack
 soldOut: false
-start: '2025-11-24T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 2x Toughbuilt Zaagbok / Schraag | C700

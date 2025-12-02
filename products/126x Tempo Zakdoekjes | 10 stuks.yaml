@@ -1,12 +1,12 @@
-_id: 69297c5132f220b8e43b57cc
+_id: 692daf0746f3045c16e56b2a
 appOnly: false
 brand: Tempo
 brands:
   - id: b8d6bb89-cb5f-5962-98de-53f4b82a4103
     name: Tempo
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2845124'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2849126'
 classicProductId: '671677'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 42dcc493-3d24-4714-b194-4f0e25b9021d
+id: e53b636e-b65f-43c6-aaeb-c4e6336f2663
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: 126x-tempo-zakdoekjes-10-stuks
   type: product
-offerId: 31399f39-4624-4323-947f-14eb94746653
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c2743503-9d93-4060-a986-ead9151d2d8d
+  priority: 0
+  slug: tempo-logo-0
+  type: logo
+offerId: f4b3b8e7-eb06-42fb-bc0a-2366f4b75325
 price:
   cents: 1795
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 35.97
 slug: 126x-tempo-zakdoekjes-10-stuks
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 126x Tempo Zakdoekjes | 10 stuks

@@ -1,22 +1,22 @@
-_id: 69206a1ceec618f1cc143852
+_id: 692d9e56f3e1045b679873e1
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 5b0153b0-f0b4-5505-a573-107e6ab67537
-classicId: '2839520'
-classicProductId: '672815'
+  - e6a1c76f-a998-5a53-894c-3f18d943643d
+classicId: '2847513'
+classicProductId: '672810'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 54
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 0ab1d98f-32d7-49d3-a3aa-05f9e7518805
+id: c872cab4-2f4b-4ab9-918d-401243a0830e
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: 3fa220a1-4a92-4845-a87c-09ecfc36f277
+offerId: 22f9d074-694d-4264-8308-8f80af402540
 price:
   cents: 5995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 129.99
 slug: nza-pullover-met-kwart-ritssluiting-heren-25ls422
-soldOut: true
-start: '2025-11-23T23:00:00.000Z'
+soldOut: false
+start: '2025-12-01T23:00:00.000Z'
 title: NZA Pullover | 1/4 Ritssluiting | Heren | 25LS422

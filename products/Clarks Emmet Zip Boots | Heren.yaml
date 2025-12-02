@@ -1,12 +1,12 @@
-_id: 6920377c5278d35cacb0677e
+_id: 692d9ba9a64993043665a9a8
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - 837ef657-4afb-5a3a-838c-9d3d086fb4b0
-classicId: '2837265'
+  - c12f3a01-8d7e-5bc4-a68a-6d8857deda5b
+classicId: '2846936'
 classicProductId: '671042'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: e208eb8d-25d2-4ea9-95a5-375e0e3937a9
+id: afe1e7b4-a42c-4fec-a889-4c99b5ed5ca8
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1734464
-  priority: 100
-  slug: clarks-logo
+    - all
+  extension: image/png
+  id: a2789ca4-e3e0-4a5e-8c2f-c18b482a38c3
+  priority: 0
+  slug: clarks-png-logo-0
   type: logo
-offerId: 19cc742c-7b8f-43d3-9230-598c52b041ef
+offerId: f36f157c-4c66-4dfb-9202-7088893dc0b7
 price:
   cents: 5995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 100
 slug: clarks-emmet-zip-boots-heren
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Clarks Emmet Zip Boots | Heren

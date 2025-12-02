@@ -1,22 +1,22 @@
-_id: 692065b82ad0659e987a5584
+_id: 692daebf10b25ed8064948e9
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 681a2197-5591-5154-99d4-1206c93ac0cc
-classicId: '2838961'
-classicProductId: '628464'
+  - be27b4b5-085b-55f8-bcf8-705036157ef8
+classicId: '2849051'
+classicProductId: '628465'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 75
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-12T22:59:59.999Z'
 freeDelivery: false
-id: 1d3cb1d3-ddc8-4035-a7dd-60742a4c0bd1
+id: 62640e81-f78d-47af-823b-fd3aa961bb65
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1594720
+  id: 2205937
   priority: 100
-  slug: petrol-logo
+  slug: petrol-light-stripes-t-shirt-heren
   type: logo
-offerId: f78deb98-a52a-457a-a970-cd77e215fa0e
+offerId: 89555ced-6c69-4c6d-ba9f-98c3ff62635f
 price:
   cents: 995
   currency: EUR
@@ -48,5 +48,5 @@ referencePrice:
   value: 39.99
 slug: petrol-light-stripes-t-shirt-heren
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Petrol 'Light Stripes' T-Shirt | Heren | Bright White

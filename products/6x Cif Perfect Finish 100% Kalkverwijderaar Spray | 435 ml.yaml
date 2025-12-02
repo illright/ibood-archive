@@ -1,12 +1,12 @@
-_id: 69286c7ccc99fe70f6de3471
+_id: 692dac1c46f3045c16e56ab9
 appOnly: false
 brand: CIF
 brands:
   - id: 0e8078f7-f3c4-577f-a888-bb66181057ba
     name: CIF
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2844022'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2848513'
 classicProductId: '677700'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 70516e68-d6e1-4d00-83a9-f43f2b742b02
+id: 8020b521-ac3a-430f-a2cd-d2dbe2a533ee
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: cif-01-png-product-1
   type: product
-offerId: 187bff52-ecf7-43a2-b0fb-d7b86ac26686
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1640965
+  priority: 100
+  slug: cif-logo
+  type: logo
+offerId: 2e765f9e-23fc-4d5b-a0ce-3c68014b501c
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 24.95
 slug: 6x-cif-perfect-finish-100-kalkverwijderaar-spray-435-ml
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 6x Cif Perfect Finish 100% Kalkverwijderaar Spray | 435 ml

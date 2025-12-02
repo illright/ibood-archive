@@ -1,12 +1,12 @@
-_id: 6920655d42d4883e781940d0
+_id: 692daf1fa64993043665afe3
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - e3ce7d90-6f13-54da-920c-184aa1fe4e6d
-classicId: '2838924'
+  - be27b4b5-085b-55f8-bcf8-705036157ef8
+classicId: '2849161'
 classicProductId: '628484'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 80
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-12T22:59:59.999Z'
 freeDelivery: false
-id: cf72d460-224f-428c-888a-f535c501e59e
+id: 38f59db4-eb32-4e08-973d-07002dc0a608
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 28d9cab0-50b3-48e8-85f8-920c0090b3ce
+  priority: 0
+  slug: m-ros-sho005-6151-men-shorts-denim-petrol-logo-0
   type: logo
-offerId: 387bb34d-3999-48b7-a256-407f4c28a517
+offerId: 8ba65cc2-264f-4eae-80a0-3049f048c62b
 price:
   cents: 995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 49.99
 slug: m-ros-sho005-6151-men-shorts-denim-petrol
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Petrol Industries Denim Shorts | Heren

@@ -1,22 +1,22 @@
-_id: 69206a036efb3199fd3c7c64
+_id: 692d9ea058bfd7cfedbf15bd
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - c23a0a13-68a0-5322-81d9-15d3dc8f18ca
-classicId: '2839437'
+  - e6a1c76f-a998-5a53-894c-3f18d943643d
+classicId: '2847576'
 classicProductId: '669311'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 871a2d25-5e26-4756-a818-6c1882bebf3c
+id: fb4bf319-2341-48eb-ad16-7e5e1ed83e4c
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 44d37421-1a76-46ed-bd24-a80a6e7f103d
+offerId: a09987cf-1cb4-42ed-9059-c528ea917c9a
 price:
   cents: 5995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 120
 slug: lacoste-mesh-panel-sweatshirt-heren
-soldOut: true
-start: '2025-11-23T23:00:00.000Z'
+soldOut: false
+start: '2025-12-01T23:00:00.000Z'
 title: Lacoste Mesh Panel Sweatshirt | Heren

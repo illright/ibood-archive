@@ -1,12 +1,12 @@
-_id: 691c796d17604b5aeec5c998
+_id: 692da7da6afa0054e18aaabc
 appOnly: false
 brand: Siux
 brands:
   - id: 90eea59b-d5f0-528a-9a70-451dccb50cc9
     name: Siux
 categories:
-  - e679c002-e8e1-5281-8f3c-44b33121e5ab
-classicId: '2832549'
+  - 222fe072-d61b-5cb3-b31f-3178b5cce09c
+classicId: '2848301'
 classicProductId: '679051'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 0ee62ba3-f966-5969-a755-f3b14da31d42
+id: 536604f3-2aa4-4bce-b136-eb8c0fc20281
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: siux-diablo-revolution-lite-3-padelracket-product-8
   type: product
-offerId: 60afb0ec-68dd-5c02-b3a0-84f0d67d86b4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1699254
+  priority: 100
+  slug: siux-logo
+  type: logo
+offerId: c56dff75-7b64-451a-88e2-e2c7928efc37
 price:
   cents: 9995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 229.95
 slug: siux-diablo-revolution-lite-3-padelracket-gevorderde-speler
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Siux Diablo Revolution Lite 3 Padelracket | Gevorderde Speler

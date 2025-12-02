@@ -1,12 +1,12 @@
-_id: 692850348ada969ce239889c
+_id: 692daf47d090bf57b603cc9b
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - e679c002-e8e1-5281-8f3c-44b33121e5ab
-classicId: '2843647'
+  - 22586625-6e68-5ac5-8ad5-efd6e45df317
+classicId: '2849232'
 classicProductId: '663439'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 6f17c8ee-4305-4d8d-8309-f6cc1ce43aa0
+id: 19c66ea7-1d99-49bd-abe6-0c597860d0e6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 6f815648-6591-4981-8060-f2eaed368d7b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1667968
+  priority: 100
+  slug: craft-logo
+  type: logo
+offerId: 81f1f8d9-a2a6-4c78-8033-78f6c7f05492
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: 2x-craft-core-basislaag
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 2x Craft Core Basislaag | Heren

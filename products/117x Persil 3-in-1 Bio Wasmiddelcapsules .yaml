@@ -1,12 +1,12 @@
-_id: 69286e86442e51fdbb81303e
+_id: 692dae3d58bfd7cfedbf1b80
 appOnly: false
 brand: Persil
 brands:
   - id: 74e3ee44-49f0-58ea-a6f2-c8d8594e807b
     name: Persil
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2844405'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2848935'
 classicProductId: '677703'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: b597ac34-ef8e-4b45-a728-aff8532f922a
+id: af0f3454-bfb0-42e5-b5ed-9cd9b17c6e3d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: persil-01-png-product-1
   type: product
-offerId: f8635782-5ff2-4503-807e-78e9ae537300
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1956288
+  priority: 100
+  slug: persil-logo
+  type: logo
+offerId: 6e9f3e30-592f-42d2-82ce-2425d5f8a397
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 76.98
 slug: 117x-persil-3-in-1-bio-wasmiddelcapsules
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: '117x Persil 3-in-1 Bio Wasmiddelcapsules '

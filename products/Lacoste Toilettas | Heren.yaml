@@ -1,12 +1,12 @@
-_id: 692069f3eec618f1cc1437cc
+_id: 692d9baccd1b2c31f77140f5
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - c23a0a13-68a0-5322-81d9-15d3dc8f18ca
-classicId: '2839398'
+  - 3488fa79-eb48-5911-b2ae-9a36b2e67fe2
+classicId: '2846946'
 classicProductId: '655167'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 13808fe4-e363-4944-ae09-26549dd6aeee
+id: 9fcd6a4b-aea0-4b27-8fd9-63b506c90330
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: fe2cb868-d213-47a9-9533-995089dd8d4a
+offerId: f6c11d3e-cc55-441b-9c1e-a135212a8082
 price:
   cents: 4500
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 80
 slug: lacoste-toilettas-heren
-soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+soldOut: true
+start: '2025-12-01T23:00:00.000Z'
 title: Lacoste Toilettas | Heren

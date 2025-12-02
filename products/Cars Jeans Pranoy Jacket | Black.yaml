@@ -1,12 +1,12 @@
-_id: 69172af7abfeb5b3f71ee360
+_id: 692d9b58cd1b2c31f7714080
 appOnly: false
 brand: Cars Jeans
 brands:
   - id: 1606205d-b37b-5b13-b9d4-f198ca94cb65
     name: Cars Jeans
 categories:
-  - efc57a6a-b3f0-5dff-943b-07c1e5324ac0
-classicId: '2826549'
+  - c69a856c-3c55-58f9-bb46-26207176ea32
+classicId: '2846795'
 classicProductId: '678804'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: e475f9f2-4be9-55ee-a5b2-f567a04735c8
+id: 7a9a1046-8e2d-4612-a65c-a60e544be7ba
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: s-black-6476401-pranoy-polyester-cars-jacket-product-5
   type: product
-offerId: 585f4ddc-5938-501b-a57e-e98a8550eded
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1761081
+  priority: 100
+  slug: cars-jeans-logo
+  type: logo
+offerId: 723b9d2b-6967-4f95-8bfb-46a9c540d60d
 price:
   cents: 4995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 99.95
 slug: cars-jeans-harwick-jacket-heren
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Cars Jeans Pranoy Jacket | Black

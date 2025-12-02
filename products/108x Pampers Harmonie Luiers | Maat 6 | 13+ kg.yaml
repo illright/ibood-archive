@@ -1,22 +1,22 @@
-_id: 69286e51442e51fdbb813022
+_id: 692dae2158bfd7cfedbf1b54
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2844394'
-classicProductId: '673423'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2848917'
+classicProductId: '679079'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 68
-end: '2025-12-01T22:59:59.999Z'
+discount: 74
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 8422930d-42ce-45ae-a642-3f6a83355086
+id: b803cade-0a25-475e-a71e-6d6a0d9cb82c
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b0cf75fd-56fa-430b-9e89-8f3e17566056
-  priority: 0
-  slug: pampers-png-logo-0
+  extension: png
+  id: 1919243
+  priority: 100
+  slug: pampers-logo
   type: logo
-offerId: e3c7bb82-7ae1-4f76-8469-7410ccd975fe
+offerId: b94118f6-a164-4db0-8e22-eae12ea7555f
 price:
   cents: 2995
   currency: EUR
   value: 29.95
 referencePrice:
-  cents: 9308
+  cents: 11728
   currency: EUR
-  value: 93.08
+  value: 117.28
 slug: 108x-pampers-harmonie-luiers-maat-6-13-kg
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 108x Pampers Harmonie Luiers | Maat 6 | 13+ kg

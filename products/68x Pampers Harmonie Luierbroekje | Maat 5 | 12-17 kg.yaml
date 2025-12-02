@@ -1,12 +1,12 @@
-_id: 691c82af4a229b144538dd98
+_id: 692dae2658bfd7cfedbf1b59
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2832595'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2848920'
 classicProductId: '679080'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 9a91a3ed-0bcb-52dd-bf73-6c1d902c1f2e
+id: 0d6974de-b8ee-4d5b-86fe-85d33a16ccd1
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: pampers-02-png-product-1
   type: product
-offerId: f1f77e87-282d-5bf0-b786-f12df07647b9
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1919243
+  priority: 100
+  slug: pampers-logo
+  type: logo
+offerId: 268adf81-b003-4bc6-babf-f34646b38015
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 60.77
 slug: 68x-pampers-harmonie-luierbroekje-maat-5
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 68x Pampers Harmonie Luierbroekje | Maat 5 | 12-17 kg

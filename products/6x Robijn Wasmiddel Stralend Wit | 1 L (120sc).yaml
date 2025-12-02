@@ -1,31 +1,34 @@
-_id: 69297c4f32f220b8e43b57c6
+_id: 691dc4b1054815dba617e03a
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2845123'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2832843'
 classicProductId: '328605'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 64
-end: '2025-12-01T22:59:59.999Z'
+discount: 71
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 290ddd7c-05eb-4d22-9bef-e63f3607737a
+id: 55197dc3-1f24-576b-9616-67e34929bd54
 image:
   channels:
-    - newsletter
-    - website
     - app
-  extension: png
-  id: 2087041
+    - website
+    - newsletter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 4d4af0e9-c54f-48a1-beb2-9e281f9ed9e7-tr
   priority: 0
-  slug: 6x-robijn-wasmiddel-1-l
+  slug: 6x-robijn-wasmiddel-1-l-1-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +40,16 @@ logo:
   priority: 100
   slug: robijn-logo
   type: logo
-offerId: 691b5396-9c3b-4cc7-b923-f3a59c4d4b6d
+offerId: c205eb67-8987-5dd0-b5d3-f1bc45224f26
 price:
   cents: 2295
   currency: EUR
   value: 22.95
 referencePrice:
-  cents: 6330
+  cents: 7914
   currency: EUR
-  value: 63.3
+  value: 79.14
 slug: 6x-robijn-wasmiddel-stralend-wit-1-l-120sc
-soldOut: true
-start: '2025-11-27T23:00:00.000Z'
+soldOut: false
+start: '2025-12-01T23:00:00.000Z'
 title: 6x Robijn Wasmiddel Stralend Wit | 1 L (120sc)

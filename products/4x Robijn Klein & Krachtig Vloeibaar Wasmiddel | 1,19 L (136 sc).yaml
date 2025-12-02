@@ -1,12 +1,12 @@
-_id: 69286eb2442e51fdbb81309b
+_id: 692dae931cd695c51900ca0d
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 1c35c937-bd80-5ed1-b074-bc2787a654bc
-classicId: '2844441'
+  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
+classicId: '2848995'
 classicProductId: '628672'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 79
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 8eeef034-48a0-4923-b5bf-0da42f8ff81c
+id: 4a22f562-0ab0-476d-a25f-b857ea03a21c
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 60a6c747-d509-4b23-a3f1-c92c91d4a970
-  priority: 0
-  slug: robijn-png-logo-0
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
   type: logo
-offerId: ff30a008-d284-4116-ac90-8beb5a743b36
+offerId: c0334c72-dc03-4b52-b3bf-f343a5ce617b
 price:
   cents: 2295
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 109
 slug: 4x-robijn-k-k-wasmiddel-1-19-l-136sc
 soldOut: false
-start: '2025-11-27T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: 4x Robijn Klein & Krachtig Vloeibaar Wasmiddel | 1,19 L (136 sc)

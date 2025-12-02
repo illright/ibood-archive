@@ -1,22 +1,22 @@
-_id: 69206a4c6efb3199fd3c7d34
+_id: 692d9eaaac03ed6c8b7b44e6
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - c79da4a4-924f-5fcb-acea-c36e7e1967c7
-classicId: '2839626'
-classicProductId: '669757'
+  - e6a1c76f-a998-5a53-894c-3f18d943643d
+classicId: '2847586'
+classicProductId: '669759'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 57
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 159d4af0-06fe-42ea-9e41-e38b1bd84535
+id: 5723195e-49f6-44ce-914c-f4c6ea967fd4
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: ad48914e-f0d4-426c-b761-f03eff5bd52f
+offerId: 52442e88-b108-47d3-a0fc-4c4e972ff5fd
 price:
   cents: 1295
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: jack-jones-charge-faded-sweater-chambray-blue
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Jack & Jones Charge Faded Sweater | Chambray Blue

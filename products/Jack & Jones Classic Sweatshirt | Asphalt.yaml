@@ -1,22 +1,22 @@
-_id: 69206ab9a006dd051586aad2
+_id: 692d9eefac03ed6c8b7b4571
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - c79da4a4-924f-5fcb-acea-c36e7e1967c7
-classicId: '2839806'
-classicProductId: '652613'
+  - e6a1c76f-a998-5a53-894c-3f18d943643d
+classicId: '2847663'
+classicProductId: '652612'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 7b81b3a0-69bc-4d40-9f95-79e734fe3091
+id: 25bd414a-9dd6-4221-8d7c-d708832f3dcc
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: s-asphalt-12266197-jwhclassic-twill-sweat-crew-neck-jack-and-jones-core-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
-  type: logo
-offerId: 2a55ee8b-dff0-4190-b5dc-9bf80ed19742
+offerId: edaeffac-2cba-409d-a0e0-b4c21cc19e08
 price:
   cents: 2195
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: jack-and-jones-classic-sweatshirt-asphalt
-soldOut: true
-start: '2025-11-23T23:00:00.000Z'
+soldOut: false
+start: '2025-12-01T23:00:00.000Z'
 title: Jack & Jones Classic Sweatshirt | Asphalt

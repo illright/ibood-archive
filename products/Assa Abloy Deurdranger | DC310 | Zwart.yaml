@@ -1,12 +1,12 @@
-_id: 69241a1bea637e2d9d965311
+_id: 692d7544d42cfdd8b4cc65f4
 appOnly: false
 brand: Assa Abloy
 brands:
   - id: 57af0488-f2f5-5d74-bb2a-7b89e48b643a
     name: Assa Abloy
 categories:
-  - 00ea7d0d-5f49-5b83-bbae-53ad1c56c593
-classicId: '2840205'
+  - 80a241ac-e80c-5d47-8a72-fe5c95f3b473
+classicId: '2846398'
 classicProductId: '678046'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2025-12-01T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 70547a8f-ad47-4c6f-8707-0d7014210d15
+id: f718e1eb-d7c7-4885-9329-cbcd559811e7
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: assa-abloy-deurdranger-en-3-6-dc310-d9005-black-product-0
   type: product
-offerId: 43241a2b-7c41-4790-9559-bb08c780fa96
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6c9be897-2cab-439e-a075-58d5612a8035
+  priority: 0
+  slug: assa-abloy-logo-0
+  type: logo
+offerId: 9ff7157e-9e30-4546-b98f-7f937842c39d
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 219
 slug: assa-abloy-deurdranger-dc310-zwart
 soldOut: false
-start: '2025-11-24T23:00:00.000Z'
+start: '2025-12-01T23:00:00.000Z'
 title: Assa Abloy Deurdranger | DC310 | Zwart
