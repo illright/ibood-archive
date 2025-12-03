@@ -1,4 +1,4 @@
-_id: 692dac84d090bf57b603c7f3
+_id: 691dc4acff8625c8f9a75027
 appOnly: false
 brand: Dove
 brands:
@@ -6,25 +6,27 @@ brands:
     name: Dove
 categories:
   - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848562'
+classicId: '2832838'
 classicProductId: '660159'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 72
+discount: 60
 end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: e21f9936-cc4a-4a3e-9c8b-b97c9acaa6b1
+id: e8434aa3-aced-5097-93d6-4ec20d881218
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 5b85d9de-84b4-4cf0-823c-af2f230e724c
+    - app
+    - website
+  extension: image/png
+  id: 5b85d9de-84b4-4cf0-823c-af2f230e724c-tr
   priority: 0
   slug: 6x-dove-w-invisible-care-72h-200ml-product-4
   type: product
@@ -38,15 +40,15 @@ logo:
   priority: 100
   slug: dove-logo
   type: logo
-offerId: 8aef9ff3-ecd8-493a-a8f6-b4e32064e469
+offerId: 436e8702-293a-5130-bd83-77cedad5ffac
 price:
-  cents: 1295
+  cents: 1895
   currency: EUR
-  value: 12.95
+  value: 18.95
 referencePrice:
-  cents: 4674
+  cents: 4794
   currency: EUR
-  value: 46.74
+  value: 47.94
 slug: 6x-dove-invisible-care-deo-spray-200-ml
 soldOut: false
 start: '2025-12-01T23:00:00.000Z'

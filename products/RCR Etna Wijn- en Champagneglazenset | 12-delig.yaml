@@ -1,12 +1,12 @@
-_id: 692572884c656b2226f388ed
+_id: 692eaf278db0289e7ada121e
 appOnly: false
 brand: RCR
 brands:
   - id: 7416aa81-c2b8-518a-9f83-32817e55652c
     name: RCR
 categories:
-  - a429dd32-e4f6-5d53-8682-60f7c072a4eb
-classicId: '2841222'
+  - 4f1bd177-e586-53e8-84d3-77036974f262
+classicId: '2849551'
 classicProductId: '632955'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 78
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: ddf2792a-4966-4237-94ae-0a7653f86439
+id: 0f9eb91b-5293-4db0-8b34-b125f407c957
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: etna-6-wein-und-6-champagnerglaser-28-19-cl
   type: product
-offerId: 11f1ec2c-5d0c-4caf-8c3f-3b0114c337f8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 03beb563-475e-478d-8dbf-09cef94bc3a7
+  priority: 0
+  slug: rcr-logo-0
+  type: logo
+offerId: 22ce6cf2-aed5-4671-8b3b-0ad2a41687a1
 price:
   cents: 1295
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: rcr-etna-wijn-en-champagneglazenset-12-delig
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: RCR Etna Wijn- en Champagneglazenset | 12-delig

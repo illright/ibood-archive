@@ -1,12 +1,12 @@
-_id: 6925726812d779815a2057cf
+_id: 692eaf45fdfbabd2b069dbef
 appOnly: false
 brand: OXO
 brands:
   - id: 6c02d4fd-b956-53db-8b7c-18f6ab5f2422
     name: OXO
 categories:
-  - 0ce1559b-1a5e-5bc4-ae11-8c168a603926
-classicId: '2841205'
+  - a8a20b5a-60c0-5608-a475-8eb652045edc
+classicId: '2849641'
 classicProductId: '564723'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: 725d0c35-c8c6-4894-9fd4-6da7c5fc8d58
+id: fe4f161a-66ab-4414-8726-39901b58e918
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: 4x-oxo-pop-20-voorraaddoos-laag-16-l
   type: product
-offerId: 8c8a4de0-ad5a-47fc-b0f6-4aeffc5492bf
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fcdb40ae-7d39-4146-a9f0-8d545cc7b8f4
+  priority: 0
+  slug: oxo-logo-0
+  type: logo
+offerId: 57a57b7f-df16-4c81-a077-061927c53f9f
 price:
   cents: 3995
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 63.8
 slug: 4x-oxo-pop-20-voorraaddoos-laag-16-l
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: 4x Oxo Pop 2.0 Voorraaddoos Laag | 1,6 L

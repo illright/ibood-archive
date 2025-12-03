@@ -1,12 +1,12 @@
-_id: 692572e212d779815a20589e
+_id: 692eaf658db0289e7ada1274
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - 55cae6b8-e88d-5732-9e7d-583caca03cc9
-classicId: '2841414'
+  - 1a2f9b63-00c4-5cb4-b945-1ab35522f9aa
+classicId: '2849684'
 classicProductId: '76440'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 55
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: 6c465fd0-936f-494b-8591-791c5c21aa6e
+id: 469de1eb-e237-4756-b223-c919062ab88a
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 752a9045-7a03-43bb-b0c5-d6365973ed06
-  priority: 0
-  slug: pyrex-logo-0
+  extension: jpg
+  id: 821841
+  priority: 100
+  slug: pyrex-slowcook-braadpan-29-cm-38-l
   type: logo
-offerId: e71668dd-30bb-4b23-a223-5e13cf415678
+offerId: b0142838-c281-4762-8e75-79cd06e92ebd
 price:
   cents: 6995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 155
 slug: pyrex-slowcook-braadpan-29-cm-38-l
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: Pyrex Slowcook Braadpan | 29 cm | 3,8 L

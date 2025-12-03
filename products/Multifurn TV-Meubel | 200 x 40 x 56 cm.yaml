@@ -1,4 +1,4 @@
-_id: 692043cb5278d35cacb068c8
+_id: 692043cdfabe95f89f09bf13
 appOnly: false
 brand: Multifurn
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Multifurn
 categories:
   - 7877016a-da87-57cf-b4bd-72bbbcdafb40
-classicId: '2837452'
-classicProductId: '519446'
+classicId: '2837456'
+classicProductId: '519445'
 deliveryPrice:
   cents: 1995
   currency: EUR
@@ -16,17 +16,15 @@ directCheckout: true
 discount: 39
 end: '2025-12-07T22:59:59.000Z'
 freeDelivery: false
-id: 278b2367-be21-44a6-9e33-bb2e536dae5a
+id: 1a3fa384-f9cd-4713-899b-cb8c3258c2c4
 image:
   channels:
     - app
     - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 1b5aa02a-3d3d-40b7-8208-aff9394e9d58
+  extension: jpg
+  id: 1716603
   priority: 0
-  slug: mokka-170-png-product-4
+  slug: multifurn-tv-meubel-200-x-40-x-56-cm
   type: product
 logo:
   channels:
@@ -38,7 +36,7 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: 34d7ff06-ca4d-4a1c-b4ef-179ec2048f0d
+offerId: f0a1cf15-c2be-43e3-989e-1fe6999c69cd
 price:
   cents: 42900
   currency: EUR
@@ -48,6 +46,6 @@ referencePrice:
   currency: EUR
   value: 699
 slug: multifurn-tv-meubel-200-x-40-x-56-cm
-soldOut: false
+soldOut: true
 start: '2025-11-20T23:00:00.000Z'
 title: Multifurn TV-Meubel | 200 x 40 x 56 cm

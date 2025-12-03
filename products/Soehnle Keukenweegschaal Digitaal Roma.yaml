@@ -1,12 +1,12 @@
-_id: 6925737758c0f8bbec72d192
+_id: 692eafafa46fe9ba2c1b42dd
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - 183ec289-57a4-5f56-81a6-fa0326304deb
-classicId: '2841652'
+  - c7abf43b-aeca-5ca6-a92d-bd4e2183e704
+classicId: '2849918'
 classicProductId: '576783'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: c8ebf073-0995-4407-a9ef-200fa5b9b36d
+id: 46e31674-c0fe-4e4d-9410-163146b18ec0
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4830a12f-79cc-490d-85d1-7ee17efb4caa
-  priority: 0
-  slug: soehnle-png-logo-0
+  extension: png
+  id: 1831727
+  priority: 100
+  slug: leifheit-logo
   type: logo
-offerId: 162b81fe-cf4a-423b-b569-58373026679d
+offerId: 9d1e50f3-631a-469f-b92d-566481ba04e3
 price:
   cents: 1595
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 24.99
 slug: soehnle-keukenweegschaal-digitaal-roma
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: Soehnle Keukenweegschaal Digitaal Roma

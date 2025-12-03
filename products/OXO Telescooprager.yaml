@@ -1,12 +1,12 @@
-_id: 6925727ebf188a681db0feb6
+_id: 692eaf4ee6960e0d475477fc
 appOnly: false
 brand: OXO
 brands:
   - id: 6c02d4fd-b956-53db-8b7c-18f6ab5f2422
     name: OXO
 categories:
-  - 3599611e-3632-5f22-a216-0f3336186a77
-classicId: '2841245'
+  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
+classicId: '2849660'
 classicProductId: '602281'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: 11f19137-ada1-484a-b10b-e088a35b5425
+id: 28b300e7-3a52-4dd9-943d-e47e2e104e22
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 100
   slug: oxo-telescooprager
   type: product
-offerId: 0b8234b0-a144-4661-a4ca-1d22eb687fe3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fcdb40ae-7d39-4146-a9f0-8d545cc7b8f4
+  priority: 0
+  slug: oxo-logo-0
+  type: logo
+offerId: b2fde9ff-2900-4efb-9b70-ba90886de5c0
 price:
   cents: 1295
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 21.95
 slug: oxo-telescooprager
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: OXO Telescooprager

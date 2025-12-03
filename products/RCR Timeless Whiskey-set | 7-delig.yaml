@@ -1,12 +1,12 @@
-_id: 6925734c58c0f8bbec72d145
+_id: 692eafd4ad132244d6860104
 appOnly: false
 brand: RCR
 brands:
   - id: 7416aa81-c2b8-518a-9f83-32817e55652c
     name: RCR
 categories:
-  - 0ce1559b-1a5e-5bc4-ae11-8c168a603926
-classicId: '2841584'
+  - a8a20b5a-60c0-5608-a475-8eb652045edc
+classicId: '2850012'
 classicProductId: '660226'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 34
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: 7171f100-db61-46c0-8fa3-905df72c2970
+id: 011ecb15-9e09-4e23-be63-e32eeb0c9912
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: timless-7-png-product-2
   type: product
-offerId: 5a23ddec-99c1-4a5d-977e-9131c0cad5f1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 03beb563-475e-478d-8dbf-09cef94bc3a7
+  priority: 0
+  slug: rcr-logo-0
+  type: logo
+offerId: 2b07bf9f-deea-45be-b787-ba3c9291b04f
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 60.5
 slug: rcr-timeless-whiskey-set-7-delig
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: RCR Timeless Whiskey-set | 7-delig

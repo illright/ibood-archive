@@ -1,12 +1,12 @@
-_id: 6925727a4c656b2226f388c1
+_id: 692eaf089eba34d23fadb3cb
 appOnly: false
 brand: Tefal
 brands:
   - id: 74eb78fb-ffd2-5a7d-b58d-8f45efa26fa7
     name: Tefal
 categories:
-  - 55cae6b8-e88d-5732-9e7d-583caca03cc9
-classicId: '2841238'
+  - 1a2f9b63-00c4-5cb4-b945-1ab35522f9aa
+classicId: '2849516'
 classicProductId: '340891'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: d3be1a9f-95be-49b4-9469-d92a94d2347d
+id: 7645a862-21f5-45a3-8842-0f1241ea75ee
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1931207
-  priority: 100
-  slug: tefal-starteasy-koekenpan-24-cm
+    - all
+  extension: image/png
+  id: 5fc55cf7-b889-478e-8e9f-4d22ef5f302e
+  priority: 0
+  slug: tefal-topdeals-logo-0
   type: logo
-offerId: 2fec5b1f-2d9f-4eed-afa5-980008841e31
+offerId: 2de1b60a-dd3a-4ae2-a283-89b438719819
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 37.99
 slug: tefal-starteasy-koekenpan-24-cm
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: Tefal Start'easy Koekenpan | Ø 24 cm | C26704

@@ -1,12 +1,12 @@
-_id: 69257308aea264fcf227f0fe
+_id: 692eafad4a0cc01d5f88bb63
 appOnly: false
 brand: OXO
 brands:
   - id: 6c02d4fd-b956-53db-8b7c-18f6ab5f2422
     name: OXO
 categories:
-  - 0ce1559b-1a5e-5bc4-ae11-8c168a603926
-classicId: '2841468'
+  - a8a20b5a-60c0-5608-a475-8eb652045edc
+classicId: '2849910'
 classicProductId: '564721'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: aa61762d-4a62-43b3-be42-2321e112146c
+id: daf4c679-91a2-4029-b676-113a9ca26e50
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: 4x-voorraadbus-pop-20-rechthoekig-26-liter
   type: product
-offerId: 65a2a947-744c-475a-b2b8-8a82544417ce
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fcdb40ae-7d39-4146-a9f0-8d545cc7b8f4
+  priority: 0
+  slug: oxo-logo-0
+  type: logo
+offerId: 087c8b82-9482-4de5-b675-ae63c525a2a1
 price:
   cents: 4495
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 75.8
 slug: 4x-voorraadbus-pop-20-rechthoekig-26-liter
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: 4x OXO POP 2.0 Voorraadbus Rechthoekig Medium 2,6 liter

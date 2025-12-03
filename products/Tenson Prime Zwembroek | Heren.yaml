@@ -1,4 +1,4 @@
-_id: 692d6a9eac03ed6c8b7b3f80
+_id: 692d6a96cd1b2c31f7713e91
 appOnly: false
 brand: TENSON
 brands:
@@ -6,26 +6,27 @@ brands:
     name: TENSON
 categories:
   - c13087a7-0c84-5d7d-b5a8-dce6d0054c1d
-classicId: '2846215'
-classicProductId: '640960'
+classicId: '2846207'
+classicProductId: '640958'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 83
+directCheckout: true
+discount: 78
 end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 46cb8cd1-fc01-472d-8f26-32f85ccfdd3b
+id: 3a453268-fdff-44bc-8a09-c783b9295555
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2258145
-  priority: 100
-  slug: tenson-prime-schwimmshorts-herren-pink
+    - all
+  extension: image/png
+  id: 2067c547-4099-42cc-8b4f-c0f5615bcf66
+  priority: 0
+  slug: main-png-product-1
   type: product
 logo:
   channels:
@@ -37,11 +38,11 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: 803823a0-3220-4ca3-a4f0-2e6618aedc8b
+offerId: e06dcf0b-d8aa-4e60-ac71-297927e93f20
 price:
-  cents: 750
+  cents: 1000
   currency: EUR
-  value: 7.5
+  value: 10
 referencePrice:
   cents: 4495
   currency: EUR

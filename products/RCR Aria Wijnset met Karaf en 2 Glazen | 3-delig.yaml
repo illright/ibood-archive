@@ -1,12 +1,12 @@
-_id: 6925732712d779815a2058f8
+_id: 692eafcb4a0cc01d5f88bb67
 appOnly: false
 brand: RCR
 brands:
   - id: 7416aa81-c2b8-518a-9f83-32817e55652c
     name: RCR
 categories:
-  - 0ce1559b-1a5e-5bc4-ae11-8c168a603926
-classicId: '2841512'
+  - a8a20b5a-60c0-5608-a475-8eb652045edc
+classicId: '2850005'
 classicProductId: '660227'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 33
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: bc2cdd95-2946-4517-b68f-f650379f146c
+id: ed8f7890-3e9f-409c-a395-c164a0e8cefb
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: rcr-3-delige-wijnset-aria-product-0
   type: product
-offerId: 10b08a1b-141e-4bbe-a711-43b1becc8868
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 03beb563-475e-478d-8dbf-09cef94bc3a7
+  priority: 0
+  slug: rcr-logo-0
+  type: logo
+offerId: 32a8caf5-d5a5-4386-aa1f-40e35fdc76d2
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 37.2
 slug: rcr-aria-weinset-met-karaf-en-2-glazen-3-delig
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: RCR Aria Wijnset met Karaf en 2 Glazen | 3-delig

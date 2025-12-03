@@ -1,12 +1,12 @@
-_id: 6925732cffc71026613a4108
+_id: 692eafa711795c0305c7d485
 appOnly: false
 brand: RCR
 brands:
   - id: 7416aa81-c2b8-518a-9f83-32817e55652c
     name: RCR
 categories:
-  - 0ce1559b-1a5e-5bc4-ae11-8c168a603926
-classicId: '2841523'
+  - a8a20b5a-60c0-5608-a475-8eb652045edc
+classicId: '2849915'
 classicProductId: '660223'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 31
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: 5ae024b9-1ba2-494c-8d0f-62c15d22fe33
+id: f84506be-46a4-41f1-8a62-206f81b73260
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: brillante-png-product-1
   type: product
-offerId: f1c66d06-ae65-49dd-84c4-a9b8c2fae639
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 03beb563-475e-478d-8dbf-09cef94bc3a7
+  priority: 0
+  slug: rcr-logo-0
+  type: logo
+offerId: 2e36b37d-63c0-4f64-801f-5be3bd6f7232
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 58
 slug: rcr-brilliante-whiskey-set-7-delig
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: RCR Brilliante Whiskeyset | 7-delig

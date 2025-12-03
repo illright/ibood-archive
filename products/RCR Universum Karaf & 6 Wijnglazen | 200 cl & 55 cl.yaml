@@ -1,12 +1,12 @@
-_id: 692572794c656b2226f388bd
+_id: 692eaf28b440fb3d28b74fc3
 appOnly: false
 brand: RCR
 brands:
   - id: 7416aa81-c2b8-518a-9f83-32817e55652c
     name: RCR
 categories:
-  - a429dd32-e4f6-5d53-8682-60f7c072a4eb
-classicId: '2841232'
+  - 4f1bd177-e586-53e8-84d3-77036974f262
+classicId: '2849563'
 classicProductId: '644242'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: b4e34c9a-e97b-4c31-842e-78a59161849e
+id: 801994ef-19ad-4fb4-8069-84f2e7ab0e6c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: rcr-png-product-1
   type: product
-offerId: 451a196f-240f-48fb-8d17-450f9029b5bb
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 03beb563-475e-478d-8dbf-09cef94bc3a7
+  priority: 0
+  slug: rcr-logo-0
+  type: logo
+offerId: 673ad7f5-55c4-4294-83f5-3ec10c14a022
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 53
 slug: rcr-universum-karaf-6-wijnglazen-200-cl-55-cl
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: RCR Universum Karaf & 6 Wijnglazen | 200 cl & 55 cl

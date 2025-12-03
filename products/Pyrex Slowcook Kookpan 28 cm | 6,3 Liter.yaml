@@ -1,12 +1,12 @@
-_id: 692573304c656b2226f389f5
+_id: 692eaf9d8db0289e7ada130e
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - 55cae6b8-e88d-5732-9e7d-583caca03cc9
-classicId: '2841517'
+  - 1a2f9b63-00c4-5cb4-b945-1ab35522f9aa
+classicId: '2849855'
 classicProductId: '291788'
 deliveryPrice:
   cents: 895
@@ -14,30 +14,31 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 62
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: b7e87402-b3af-4dfc-85cd-6b74493bcd40
+id: 4e74a931-dca7-49a8-8eba-df37a95d5db1
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 857134
+  extension: png
+  id: 1578494
   priority: 0
   slug: pyrex-slowcook-schmortopf-63-l-28-cm
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1617634
-  priority: 100
-  slug: pyrex-logo
+    - all
+  extension: image/png
+  id: 752a9045-7a03-43bb-b0c5-d6365973ed06
+  priority: 0
+  slug: pyrex-logo-0
   type: logo
-offerId: 4d742d31-fd25-4e02-9b3a-1119b8149cab
+offerId: 0270e509-e46d-447a-8356-e91588d27773
 price:
   cents: 6995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 185
 slug: pyrex-slowcook-kookpan-28-cm-63-l
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: Pyrex Slowcook Kookpan 28 cm | 6,3 Liter

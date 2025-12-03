@@ -1,12 +1,12 @@
-_id: 6925738548e921afebfe8f34
+_id: 692eb037a46fe9ba2c1b4369
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - 0ce1559b-1a5e-5bc4-ae11-8c168a603926
-classicId: '2841696'
+  - a8a20b5a-60c0-5608-a475-8eb652045edc
+classicId: '2850075'
 classicProductId: '612460'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 34
-end: '2025-12-02T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: be81deee-12ae-4f7a-a38d-64468da10077
+id: 760a7caa-9bf9-47d9-986d-e14d99f80676
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 92aaae29-33ff-4e23-b2ca-4b71866b06ba
-  priority: 0
-  slug: leifheit-png-logo-0
+  extension: png
+  id: 1831727
+  priority: 100
+  slug: leifheit-logo
   type: logo
-offerId: 3fa16871-5bd8-4a79-b203-d08b864d2d12
+offerId: a54f9397-b98e-4a06-82ba-03445492bd90
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 37.99
 slug: leifheit-parat-plus-rollenhouder
 soldOut: false
-start: '2025-11-25T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: Leifheit Parat Plus Rollenhouder

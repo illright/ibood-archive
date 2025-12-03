@@ -1,4 +1,4 @@
-_id: 692dabc8d090bf57b603c738
+_id: 692dabbc1cd695c51900c9e7
 appOnly: false
 brand: Bolsius
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Bolsius
 categories:
   - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848484'
-classicProductId: '678754'
+classicId: '2848472'
+classicProductId: '678752'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 55
 end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 443eeee2-47bf-490c-9ea7-32f50e707f20
+id: 194edf5f-dc6f-422c-85ab-f1f42202e03b
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: ef45d6fc-1b4a-4e65-ab8c-094e42360567
+  id: af237ee1-faad-41e1-ade4-49088fa2c8d2
   priority: 0
-  slug: bolsius-07-png-product-1
+  slug: bolsius-06-png-product-1
   type: product
-offerId: 572c78cd-4902-491f-80bb-37d1db6be6ad
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1580436
+  priority: 100
+  slug: bolsius-logo
+  type: logo
+offerId: e7ec1bac-ebd3-43f9-8835-7305d31d63a0
 price:
   cents: 1495
   currency: EUR

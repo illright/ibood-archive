@@ -1,12 +1,12 @@
-_id: 6920557dfabe95f89f09c7b8
+_id: 692eaf10a46fe9ba2c1b41a2
 appOnly: false
 brand: Samura
 brands:
   - id: 3a5fdc44-5875-5e72-8076-0dcea8fa54a6
     name: Samura
 categories:
-  - e17a8b7f-6454-54ea-9181-8139a9f2fd51
-classicId: '2838585'
+  - a8a20b5a-60c0-5608-a475-8eb652045edc
+classicId: '2849522'
 classicProductId: '676500'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-04T22:59:59.999Z'
+end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: 1dd2cc5d-ef2a-51a9-8439-fd91e58ef2dc
+id: 1592965a-1876-4760-91c9-e8a78005ef96
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: samura-harakiri-set-of-6-kitchen-steak-knives-product-1
   type: product
-offerId: 42c9c293-efc2-5d01-aa02-1cdf1a0d4227
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1676072
+  priority: 100
+  slug: samura-logo
+  type: logo
+offerId: 58b0687d-714b-460e-ab7f-113e849632b5
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: samura-harakiri-set-met-6-keukenmessen
 soldOut: false
-start: '2025-11-30T23:00:00.000Z'
+start: '2025-12-02T23:00:00.000Z'
 title: Samura Harakiri set met 6 Keukenmessen
