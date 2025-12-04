@@ -1,12 +1,12 @@
-_id: 6926e8b484bd09dc83533221
+_id: 6929798432f220b8e43b5786
 appOnly: false
 brand: Woox
 brands:
   - id: 660903b4-0b47-529f-a6f5-b655f53736c7
     name: Woox
 categories:
-  - 480c6857-32d0-53d9-96c2-16fab83deabe
-classicId: '2842930'
+  - 1fb4b801-f204-5f47-9ef4-9df35bb0f979
+classicId: '2845083'
 classicProductId: '233142'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2025-12-03T22:59:59.999Z'
+end: '2025-12-08T22:59:59.999Z'
 freeDelivery: false
-id: 4b2a1029-8710-4126-bed3-535b8ee51558
+id: 0394b172-a646-515c-a57f-2e982432f0e1
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 2x-woox-filament-smart-wifi-led-e27
   type: product
-offerId: cd4a412b-0bd1-4aee-9d15-d26eb128e0cb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1660251
+  priority: 100
+  slug: woox-logo
+  type: logo
+offerId: d15c23e2-7c44-510d-9b9e-05c10175c03e
 price:
   cents: 1495
   currency: EUR
@@ -37,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 37.95
 slug: 2x-woox-filament-smart-wifi-led-e27
-soldOut: true
-start: '2025-11-26T23:00:00.000Z'
+soldOut: false
+start: '2025-12-03T23:00:00.000Z'
 title: 2x Woox Filament Smart Wifi LED Lamp | E27

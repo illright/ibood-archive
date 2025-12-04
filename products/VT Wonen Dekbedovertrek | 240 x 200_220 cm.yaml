@@ -1,4 +1,4 @@
-_id: 6928295fed2bf643d4a3e4b1
+_id: 69271d512be952a7953a9a97
 appOnly: false
 brand: VT WONEN
 brands:
@@ -6,49 +6,47 @@ brands:
     name: VT WONEN
 categories:
   - 7d53d974-ee1c-5ac4-ad48-f94f64b4118b
-classicId: '2843370'
-classicProductId: '681760'
+classicId: '2843042'
+classicProductId: '467943'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 40
+discount: 75
 end: '2025-12-04T22:59:59.999Z'
 freeDelivery: false
-id: fa5a0ee6-9ed8-5f6c-bfc5-83dacd39cfa6
+id: 6a20ced5-b2ce-574a-a206-8c3cb2104bdd
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/jpeg
-  id: 9a54f938-f7c6-471a-bc0a-9e19b63538f7
-  priority: 0
-  slug: 329793-vt-dbo-up-side-down-sand-240x200-220-product-0
+  extension: jpg
+  id: 1572568
+  priority: 1
+  slug: vt-wonen-overtrek-satijn-240-x-200220-cm
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 27a5c813-a9aa-4398-8bb8-a731038617f7
-  priority: 0
-  slug: vt-wonen-png-logo-0
+  extension: png
+  id: 1812454
+  priority: 100
+  slug: vt-wonen-logo
   type: logo
-offerId: 3d8a8cc0-a5ea-57c9-bf91-1926261b6b82
+offerId: 386277e8-abe4-53fb-aa63-23099c8ec3b4
 price:
-  cents: 5995
+  cents: 3995
   currency: EUR
-  value: 59.95
+  value: 39.95
 referencePrice:
-  cents: 9995
+  cents: 15995
   currency: EUR
-  value: 99.95
-slug: vt-wonen-dekbedovertrek-240-x-200-220-cm
-soldOut: false
+  value: 159.95
+slug: vt-wonen-overtrek-satijn-240-x-200220-cm
+soldOut: true
 start: '2025-11-30T23:00:00.000Z'
 title: VT Wonen Dekbedovertrek | 240 x 200/220 cm

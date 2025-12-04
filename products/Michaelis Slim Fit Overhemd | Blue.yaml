@@ -1,4 +1,4 @@
-_id: 692d9f40a64993043665ac16
+_id: 692d9f3fa64993043665ac11
 appOnly: false
 brand: Michaelis
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Michaelis
 categories:
   - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847722'
-classicProductId: '661829'
+classicId: '2847721'
+classicProductId: '661813'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 50
 end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 34739eab-8d62-409d-b679-89945b34ebdf
+id: 6f36f0d1-8db2-433b-b638-7d45e1cb99f4
 image:
   channels:
     - app
@@ -24,7 +24,7 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 0cc11864-ac1a-4484-a09a-33798a466e37
+  id: 32fe73cd-c40b-4fb7-bf5f-661c28bba64d
   priority: 0
   slug: 1-png-product-1
   type: product
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: michaelis-logo
   type: logo
-offerId: adc57390-1908-4e41-9346-f42c061ec888
+offerId: 27ec8295-3b57-41ea-96bd-4cb623feda98
 price:
   cents: 3495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 69.95
 slug: michaelis-slim-fit-overhemd-heren
-soldOut: false
+soldOut: true
 start: '2025-12-01T23:00:00.000Z'
 title: Michaelis Slim Fit Overhemd | Blue
