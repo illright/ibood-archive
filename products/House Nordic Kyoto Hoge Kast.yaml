@@ -1,4 +1,4 @@
-_id: 692043d37cff776b31b21fc4
+_id: 6931a099b74bdc5eed881f92
 appOnly: false
 brand: House Nordic
 brands:
@@ -6,8 +6,8 @@ brands:
     name: House Nordic
 categories:
   - 7877016a-da87-57cf-b4bd-72bbbcdafb40
-classicId: '2837465'
-classicProductId: '597748'
+classicId: '2862468'
+classicProductId: '597749'
 deliveryPrice:
   cents: 1995
   currency: EUR
@@ -16,15 +16,17 @@ directCheckout: true
 discount: 38
 end: '2025-12-07T22:59:59.000Z'
 freeDelivery: false
-id: 186b25b5-6650-4e33-ace1-b6fde09d9747
+id: 80238ebd-b1b7-42f6-be98-4badda336635
 image:
   channels:
     - app
     - website
-  extension: jpg
-  id: 2068255
+    - newsletter
+    - all
+  extension: image/png
+  id: 86d42583-8dfd-435c-ad41-363fb15f7630
   priority: 0
-  slug: house-nordic-kyoto-hoge-kast
+  slug: kassie-png-product-1
   type: product
 logo:
   channels:
@@ -36,7 +38,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: 31671447-2282-44f9-9317-f50d02317118
+offerId: 30ab5ce1-6f00-405c-bf35-a6316b803d8e
 price:
   cents: 27900
   currency: EUR

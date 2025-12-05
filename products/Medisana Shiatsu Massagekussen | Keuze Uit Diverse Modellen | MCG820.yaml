@@ -19,14 +19,15 @@ freeDelivery: false
 id: 204bd2c9-6414-4db3-8f52-2dcff99fa4d0
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - website
+    - all
+    - app
   extension: image/png
-  id: 29460aad-47ac-461b-8b52-703ea3d39b02
+  id: 2feeb8c2-29da-4664-a183-ec3738bc3467
   priority: 0
-  slug: medisana-shiatsu-massagekussen-product-15
+  slug: medisana-shiatsu-massagekussen-product-20
   type: product
 logo:
   channels:
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 249.95
 slug: medisana-shiatsu-massagekussen
-soldOut: false
+soldOut: true
 start: '2025-12-02T23:00:00.000Z'
 title: Medisana Shiatsu Massagekussen | Keuze Uit Diverse Modellen | MCG820

@@ -1,4 +1,4 @@
-_id: 692eaeb8a46fe9ba2c1b40b1
+_id: 692eaf2d345868d3ddd051c1
 appOnly: false
 brand: FlinQ
 brands:
@@ -6,8 +6,8 @@ brands:
     name: FlinQ
 categories:
   - 8522ea1c-cf53-5454-a0d5-a69760cb88fc
-classicId: '2849439'
-classicProductId: '334148'
+classicId: '2849565'
+classicProductId: '334149'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: true
 discount: 70
 end: '2025-12-09T22:59:59.999Z'
 freeDelivery: false
-id: e2e091db-9aaf-444f-a1cc-f711f20bf12d
+id: deef7cbf-b1fd-4e7b-af21-f166d397fbba
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1704554
+    - all
+  extension: image/png
+  id: cd442f36-63f6-43c1-aba1-341c18687ac8
   priority: 0
-  slug: flinq-smart-paneelverwarmer
+  slug: paneel-main-png-product-0
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: flinq-logo
   type: logo
-offerId: 8735c301-2ae2-4e0f-b329-7ab5f00f9dea
+offerId: c42f87ea-b3aa-4044-9a55-d991eae7b1e6
 price:
   cents: 6995
   currency: EUR
@@ -46,7 +47,7 @@ referencePrice:
   cents: 22995
   currency: EUR
   value: 229.95
-slug: flinq-smart-paneelverwarmer
-soldOut: false
+slug: flinq-smart-paneelverwarmer-2000-w
+soldOut: true
 start: '2025-12-02T23:00:00.000Z'
 title: FlinQ Smart Paneelverwarmer | 2000 W
