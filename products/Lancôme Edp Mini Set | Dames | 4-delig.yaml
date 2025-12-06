@@ -19,13 +19,14 @@ freeDelivery: false
 id: db189876-f2e0-54b7-889b-d39801b050a3
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1815814
-  priority: 100
-  slug: lancome-edp-mini-set-dames-4-delig
+    - all
+  extension: image/jpeg
+  id: 5542dbf3-4aed-4530-b06b-b5ab6dd07c77
+  priority: 0
+  slug: lancome-eau-de-parfum-set-4-teilig-damen-jpg-product-101
   type: product
 logo:
   channels:
