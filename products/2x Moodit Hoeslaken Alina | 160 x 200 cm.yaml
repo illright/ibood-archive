@@ -1,4 +1,4 @@
-_id: 691f1f960fb59327a9b4b3ff
+_id: 691f1f967a3a7fb80d8a084a
 appOnly: false
 brand: Moodit
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Moodit
 categories:
   - 391d4996-646d-56da-a7a1-48822caaa0c5
-classicId: '2835171'
-classicProductId: '680246'
+classicId: '2835170'
+classicProductId: '680248'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: true
 discount: 50
 end: '2025-12-07T22:59:59.999Z'
 freeDelivery: false
-id: 37bf3cd4-5744-5a2a-b953-765d3e7b7b18
+id: 0f672722-e83a-57cd-90b8-aac0d39d70a2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2028828
+    - all
+  extension: image/png
+  id: 13e2c650-c86d-48b1-b98c-493919af06c3
   priority: 0
-  slug: 2x-moodit-alina-spannbettlaken-160-x-200-cm
+  slug: moodit-06-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: moodit-logo
   type: logo
-offerId: 84bfdc84-fa8d-51c3-be81-9eaf705dddf1
+offerId: b2173db7-9bf8-5612-b162-1ec970e92676
 price:
   cents: 4495
   currency: EUR
