@@ -1,22 +1,22 @@
-_id: 692d9ee6f3e1045b679874d1
+_id: 6932d322e737494d3450a8ed
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847647'
+  - 3f61f29d-0120-5064-a7d6-cf5090deb87b
+classicId: '2864371'
 classicProductId: '652725'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 40
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: dfff331d-fea2-4ea4-9f28-f94966e2bec5
+id: 98512dc1-e6e2-4712-a0ac-ff6d8b436309
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
+    - all
+  extension: image/png
+  id: a4d11029-1dea-44f6-9b0c-94353b3f83ec
+  priority: 0
+  slug: jack-jones-o-neck-t-shirt-core-classic-png-logo-0
   type: logo
-offerId: 2a2cdede-9b32-4701-831b-976f4310d7c0
+offerId: 56cf2314-cdbc-4f9a-ab7f-c68921701f03
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-milano-stitch-crew-neck-sweater-light-grey
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Jack & Jones Milano Stitch Crew Neck Sweater | Light Grey

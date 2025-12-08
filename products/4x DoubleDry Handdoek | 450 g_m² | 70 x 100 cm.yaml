@@ -1,22 +1,22 @@
-_id: 692053da0d9fae1d7585f1dd
+_id: 6932e020a6b79430568856d2
 appOnly: false
 brand: DoubleDry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: DoubleDry
 categories:
-  - e76181c5-a7f4-5972-a15b-abe7590d6bed
-classicId: '2838519'
-classicProductId: '602162'
+  - 41aff56f-f073-5ac8-8234-b93e5b46c9dc
+classicId: '2865645'
+classicProductId: '602171'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-12-07T22:59:59.000Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: f70ed303-4faf-44d2-8cdd-94590aab2ce6
+id: 0becb04d-35d4-411b-b58b-5f843deaf2d3
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 15f1fab7-73a2-4741-94d0-3df66a87da78
+  id: 79dba551-3321-4912-8688-d09355e9388c
   priority: 0
-  slug: doubledry-19-png-product-1
+  slug: doubledry-16-png-product-1
   type: product
-offerId: 04edb41e-d3fe-4918-bb5d-e60b7fd3536c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973103
+  priority: 100
+  slug: doubledry-logo
+  type: logo
+offerId: a031b8a1-64fe-4095-a60e-c38c83fe8410
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 59.9
 slug: 4x-doubledry-handdoek-70-x-100-cm
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: 4x DoubleDry Handdoek | 450 g/m² | 70 x 100 cm

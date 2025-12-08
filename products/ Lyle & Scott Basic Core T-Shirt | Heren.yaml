@@ -1,12 +1,12 @@
-_id: 692d9dc4a64993043665ab51
+_id: 6932d3ad725331bb433c9165
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847447'
+  - c83b56d7-4a8e-5540-87e2-5b39a80366fd
+classicId: '2864467'
 classicProductId: '655738'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 37
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 9eb0a9cc-0029-4b60-b924-ebb2c5d232f6
+id: 6aec8227-719f-49fe-bf41-da35ac183c1d
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1695004
-  priority: 100
-  slug: lyle-scott-logo
+    - all
+  extension: image/png
+  id: 5f913523-06b4-47d9-a6b1-4b9bc0f7d0d5
+  priority: 0
+  slug: lyle-scott-martin-ss-t-shirt-heren-png-logo-0
   type: logo
-offerId: 840178ec-50e4-4908-9604-f6003817ef05
+offerId: 56a14a20-cf10-44df-b107-e5b33bb624ec
 price:
   cents: 2195
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 35
 slug: lyle-scott-basic-core-t-shirt-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: ' Lyle & Scott Basic Core T-Shirt | Heren'

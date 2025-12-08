@@ -1,12 +1,12 @@
-_id: 692045e6fabe95f89f09c24d
+_id: 6932de07e0975e5924bc7635
 appOnly: false
 brand: Trio
 brands:
   - id: c20640a1-47f7-50d6-8fb4-6f3a3ab283d1
     name: Trio
 categories:
-  - 6c82d599-2f79-59db-8460-dcedd74ac587
-classicId: '2837901'
+  - c90997c8-97da-5058-a74a-440b7a176733
+classicId: '2864875'
 classicProductId: '644037'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2025-12-07T22:59:59.000Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: bc2c58a4-4bc7-4aed-add8-90ed3f108c12
+id: edcdb401-15cd-47ec-9257-3715267c6e91
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2268546
+    - all
+  extension: image/png
+  id: e535db88-3424-488b-a84f-74ef0685f551
   priority: 0
-  slug: trio-plafonniere-barca-led-75-cm
+  slug: trio-94-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: trio-logo
   type: logo
-offerId: de18d445-0c03-4047-870a-3d5ad698d321
+offerId: 74c4c7e0-2411-41db-b20a-d49022a502f6
 price:
   cents: 6495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 191.99
 slug: trio-plafonniere-barca-led-75-cm
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Trio Plafonnière Barca | LED | 75 cm

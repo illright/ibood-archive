@@ -1,32 +1,32 @@
-_id: 692d9ba7cd1b2c31f77140ee
+_id: 6932c1655f1044c65bf86486
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - 3488fa79-eb48-5911-b2ae-9a36b2e67fe2
-classicId: '2846934'
-classicProductId: '666602'
+  - 69f498c1-e018-5ee7-9796-c795b4778f0a
+classicId: '2863660'
+classicProductId: '666600'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 47
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 16dd05f0-8b31-40bd-b101-3a64649c65fb
+id: 822ab43f-215f-4887-9bd1-da5a22d8836a
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 4ffc23eb-7013-4a0c-8c11-8882addc911f
+  id: 2bdd9805-4d4a-4764-a049-b40f139b64ae
   priority: 0
-  slug: calv-main-png-product-1
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: timberland-logo
   type: logo
-offerId: a2cc75ce-239d-4116-8127-cb6a7f4d2873
+offerId: 4562cb88-6be5-46bb-95dd-041634aa4c23
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 75
 slug: timberland-26-liter-rugzak-unisex
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-07T23:00:00.000Z'
 title: Timberland Calv Rugzak | 26 L

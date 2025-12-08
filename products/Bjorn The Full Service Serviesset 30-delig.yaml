@@ -1,31 +1,34 @@
-_id: 692eaf35b440fb3d28b74ffc
+_id: 69302fcbdc12694395a52716
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - 4f1bd177-e586-53e8-84d3-77036974f262
-classicId: '2849606'
-classicProductId: '303744'
+  - 837c88c3-8b26-53d7-b448-d7f4d92736df
+classicId: '2852285'
+classicProductId: '303747'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 74
-end: '2025-12-09T22:59:59.999Z'
+discount: 63
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: e39c4df7-fa52-4770-9768-f3cb3d77d106
+id: eb4a3087-f094-4912-996a-4bcc05410389
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1668777
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c5b2a5ee-2635-400c-905d-fd76f965b743-tr
   priority: 0
-  slug: bjorn-the-full-service-serviesset-30-delig
+  slug: bjorn-the-full-service-serviesset-30-delig-2-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,16 +40,16 @@ logo:
   priority: 100
   slug: bjorn-logo
   type: logo
-offerId: b43a8121-b7a8-477b-9590-28922b3cfe43
+offerId: 6cec49b0-26da-45a6-b47a-350f15dcf5c7
 price:
-  cents: 9995
+  cents: 13900
   currency: EUR
-  value: 99.95
+  value: 139
 referencePrice:
   cents: 37990
   currency: EUR
   value: 379.9
 slug: bjorn-the-full-service-serviesset-30-delig
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Bjorn The Full Service Serviesset 30-delig

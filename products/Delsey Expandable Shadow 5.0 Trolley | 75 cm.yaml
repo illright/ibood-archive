@@ -1,12 +1,12 @@
-_id: 692d9b29ac03ed6c8b7b414d
+_id: 6932c12be0975e5924bc727a
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 3488fa79-eb48-5911-b2ae-9a36b2e67fe2
-classicId: '2846726'
+  - 69f498c1-e018-5ee7-9796-c795b4778f0a
+classicId: '2863602'
 classicProductId: '677780'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 58
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: ab612c9f-a92e-4fe2-9986-4d130e337120
+id: 476b7182-182c-4b2f-8d21-836a8b6b0fc6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: de-main-png-product-1
   type: product
-offerId: 6901b384-c4d3-4fb3-bb92-7638d83c02f3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
+  type: logo
+offerId: 1b4a1651-d750-42fa-b3a3-0342fbab37c0
 price:
   cents: 12995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 309
 slug: delsey-expandable-shadow-5-0-trolley-75-cm
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Delsey Expandable Shadow 5.0 Trolley | 75 cm

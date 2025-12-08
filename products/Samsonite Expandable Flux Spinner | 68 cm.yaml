@@ -1,12 +1,12 @@
-_id: 692d9affcd1b2c31f7713fdd
+_id: 6920379ffabe95f89f09bddd
 appOnly: false
 brand: Samsonite
 brands:
   - id: 76fdbcf4-cdc0-5321-9cad-2639a5d8bdf0
     name: Samsonite
 categories:
-  - 3488fa79-eb48-5911-b2ae-9a36b2e67fe2
-classicId: '2846673'
+  - 2dd117c2-6f33-57ef-b1d6-9c8741216bff
+classicId: '2837282'
 classicProductId: '618900'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 54
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 1a2783b4-cdd0-4163-ac85-4e7b1675ce44
+id: d5b0b427-98da-43a3-8638-c3ed697ad5c9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1904960
+    - all
+  extension: image/png
+  id: c2c9eb46-68f6-4591-8792-35917a84896c
   priority: 0
-  slug: samsonite-flux-spinner-uitbreidbare-trolleykoffer
+  slug: 2268926-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: samsonite-logo
   type: logo
-offerId: cac3f87f-a586-4355-83f0-e4ace0f99c4a
+offerId: 03087424-6fea-42db-b584-e8f99af184b8
 price:
   cents: 11500
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 249
 slug: samsonite-expandable-flux-spinner-68-cm
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: Samsonite Expandable Flux Spinner | 68 cm

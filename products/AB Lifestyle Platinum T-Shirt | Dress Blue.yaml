@@ -1,22 +1,22 @@
-_id: 692d9e35cd1b2c31f77142fc
+_id: 6932d3fee0975e5924bc74ee
 appOnly: false
 brand: AB Lifestyle
 brands:
   - id: 48fa8c06-3349-5e6f-bdb6-f7e3d591abcc
     name: AB Lifestyle
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847496'
-classicProductId: '649523'
+  - c83b56d7-4a8e-5540-87e2-5b39a80366fd
+classicId: '2864513'
+classicProductId: '649524'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 83
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 2abe3005-0652-4933-bc53-f68b98217248
+id: ace26dcd-6634-4ab5-99e7-2268627ba2f1
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 6232a879-0ff6-418f-b85b-523eb4a2c1a6
-  priority: 0
-  slug: ab-lifestyle-png-logo-0
-  type: logo
-offerId: 4608109e-3eb7-42f2-8a20-180f68e180f0
+offerId: 5600a7c0-23f8-437d-bb90-67ad14050e57
 price:
   cents: 995
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 59.99
 slug: ab-lifestyle-platinum-t-shirt-dress-blue
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: AB Lifestyle Platinum T-Shirt | Dress Blue

@@ -1,12 +1,12 @@
-_id: 692eafcdb440fb3d28b750e7
+_id: 69302fba8c2fd5edff63cfb7
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2850000'
+  - 837c88c3-8b26-53d7-b448-d7f4d92736df
+classicId: '2852265'
 classicProductId: '608520'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 80bf0a73-f8b3-4d65-bc23-770d239e85a7
+id: d4ded32a-b125-41d3-b1f7-11ffc4a2a10e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2114084
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 35cc24d2-b662-486b-83a7-b9fb545f3be0-tr
   priority: 0
-  slug: bjorn-gourmet-geschirrset-36-teilig
+  slug: bjorn-gourmet-geschirrset-36-teilig-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: bjorn-logo
   type: logo
-offerId: 9e82e276-7d00-41dc-9809-78f0e5791609
+offerId: d1f93b75-68e3-4572-a7f6-c02d690df44a
 price:
   cents: 19900
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 609.9
 slug: bjorn-the-full-service-serviesset-gourmet-36-delig
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Björn The Full Service Serviesset Gourmet | 36-delig

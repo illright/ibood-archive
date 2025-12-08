@@ -1,12 +1,12 @@
-_id: 692052ecfabe95f89f09c48f
+_id: 6932decfe737494d3450ad87
 appOnly: false
 brand: Emma Sleep
 brands:
   - id: 858c5e2a-cc67-5bb7-9658-9e59ca3ca2d2
     name: Emma Sleep
 categories:
-  - 64caea08-f465-5197-9d3a-76c07de27686
-classicId: '2838187'
+  - 0d461ddf-12b0-5573-9499-db46dbb8a561
+classicId: '2865088'
 classicProductId: '645807'
 deliveryPrice:
   cents: 1995
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 19.95
 directCheckout: true
 discount: 56
-end: '2025-12-07T22:59:59.000Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 0fff6967-3d58-438e-abf3-884dda34a5ef
+id: cf29c8f4-82bb-4762-ae1a-c979e9512135
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 34fa4d0f-5df8-48f6-83dd-b0e7ea30d0da
-  priority: 0
-  slug: emma-22-lite-png-product-101
+  id: 5473bde8-47d1-4603-aa95-2d5e395b0312
+  priority: 1
+  slug: emma-03-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: emma-sleep-logo-0
   type: logo
-offerId: 0158b4fe-d76a-4fe5-b707-d576fb3a9bd3
+offerId: f65336e0-3da6-4b67-8d32-eaadbb5ace64
 price:
   cents: 34900
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 799
 slug: emma-sleep-22-lite-hybrid-matras-160-x-200-cm
 soldOut: false
-start: '2025-11-20T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Emma Sleep 22 Lite Hybrid Matras | 160 x 200 cm

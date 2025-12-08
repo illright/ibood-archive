@@ -1,12 +1,12 @@
-_id: 692d9e6bac03ed6c8b7b4481
+_id: 6932d463648146c20b1204f6
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847526'
+  - c83b56d7-4a8e-5540-87e2-5b39a80366fd
+classicId: '2864534'
 classicProductId: '669120'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 25
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 30ccd18a-d475-4b66-861e-17ae00ed399f
+id: ae38aede-51cd-4d99-b1b0-1222b4bf64d9
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1695004
-  priority: 100
-  slug: lyle-scott-logo
+    - all
+  extension: image/png
+  id: 4653ff35-e8ae-467a-8030-6d619779c695
+  priority: 0
+  slug: lyle-scott-png-logo-0
   type: logo
-offerId: 6e6c358d-27e5-4103-b290-696a4e23d34c
+offerId: 21ff6033-c59d-4d0c-84d7-ce43950b06e1
 price:
   cents: 5995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 80
 slug: lyle-scott-katoen-merino-trui-kn2110vc
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Lyle & Scott Katoen Merino Trui | Heren | KN2110VC | Jet Zwart

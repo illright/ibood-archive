@@ -1,22 +1,22 @@
-_id: 692d9c61cd1b2c31f7714189
+_id: 6932d322348e0df57bfed084
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d4424b29-eb3a-5f07-819c-2c0efa74d030
-classicId: '2847125'
-classicProductId: '652575'
+  - 3f61f29d-0120-5064-a7d6-cf5090deb87b
+classicId: '2864373'
+classicProductId: '652569'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 40
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 886283ce-9f24-4a30-83cf-9767f5774d72
+id: 2d486ec5-94b4-4023-b61d-aad132015b0b
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: c2076a5e-ae61-4b0e-8765-de8f8c8b01c1
+offerId: afc46cc6-5412-4af3-b931-ecb9322d8d85
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-intelligence-jeans-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Jack & Jones Intelligence Jeans | Heren

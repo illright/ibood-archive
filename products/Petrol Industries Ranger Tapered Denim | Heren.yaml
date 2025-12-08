@@ -1,12 +1,12 @@
-_id: 692dae2ad090bf57b603cb5c
+_id: 6932d1e5648146c20b1203b9
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - be27b4b5-085b-55f8-bcf8-705036157ef8
-classicId: '2848919'
+  - d3e1547a-4bdb-5387-bf2f-97252145c6e9
+classicId: '2863959'
 classicProductId: '581705'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2025-12-12T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 4af460d8-2fce-450e-a74b-bbd612812340
+id: d0c1a0be-8a63-4c79-b07d-8f1e31787186
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 66cb1ba9-676f-4219-93d4-adeae6bfecef
-  priority: 0
-  slug: petrol-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: e9e44cbc-9645-4cd0-aa08-7aae0de3f535
+offerId: cc071df2-dae7-4cf6-933b-eab4dccbbe0d
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 89.99
 slug: petrol-industries-ranger-tapered-denim
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Petrol Industries Ranger Tapered Denim | Heren

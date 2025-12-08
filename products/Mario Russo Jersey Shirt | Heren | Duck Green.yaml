@@ -1,22 +1,22 @@
-_id: 692d9ee0ac03ed6c8b7b4549
+_id: 6932d534e0975e5924bc752f
 appOnly: false
 brand: Mario Russo
 brands:
   - id: f470bb88-e4c4-568c-b7b0-ef5a02dd4265
     name: Mario Russo
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847639'
+  - c83b56d7-4a8e-5540-87e2-5b39a80366fd
+classicId: '2864646'
 classicProductId: '672618'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 70
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 3314298d-2876-44cd-a9f4-a32a53c5cd22
+id: 24ad0f8c-2f57-44d7-87d0-7d4a9a06fa66
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: mar-main-png-product-1
   type: product
-offerId: 0a1de6d9-ec3d-4ea3-a59d-67117466cc1b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 91cb2e11-03c6-41d8-a919-457fc5840610
+  priority: 0
+  slug: mario-russo-logo-0
+  type: logo
+offerId: e50ce9ad-9543-491c-be4a-aa4500f63960
 price:
   cents: 2995
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 99.99
 slug: mario-russo-jersey-shirt-heren
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-07T23:00:00.000Z'
 title: Mario Russo Jersey Shirt | Heren | Duck Green

@@ -1,31 +1,32 @@
-_id: 692d9ef6ac03ed6c8b7b458a
+_id: 6932d32a10ca3ad4cbdeb96f
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847673'
-classicProductId: '643278'
+  - 3f61f29d-0120-5064-a7d6-cf5090deb87b
+classicId: '2864385'
+classicProductId: '676079'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 40
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: d9c5648f-2b45-49de-bdf3-04810d63a3aa
+id: b0e850f5-7fde-4f1d-9aec-9928a34e2baa
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2266196
+    - all
+  extension: image/png
+  id: 7cb1fd97-09ce-400b-a4a7-831bee0d6314
   priority: 0
-  slug: jack-jones-essentials-bradley-polosweater
+  slug: jack-jones-206-png-product-1
   type: product
 logo:
   channels:
@@ -34,11 +35,11 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 97208b39-5e36-41d2-b891-1ed7159d40e7
+  id: bdd00343-b0db-4846-b98e-16ba93f6cb10
   priority: 0
   slug: jack-jones-png-logo-0
   type: logo
-offerId: 0e063187-f522-4c93-ba47-92fa47059ac7
+offerId: 080fd6a6-9f01-4151-a304-a6e6da12cc34
 price:
   cents: 1795
   currency: EUR
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 29.99
 slug: jack-jones-essentials-bradley-sweat-polo-herren
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-07T23:00:00.000Z'
 title: Jack & Jones Essentials Bradley Sweat-Polo | Heren

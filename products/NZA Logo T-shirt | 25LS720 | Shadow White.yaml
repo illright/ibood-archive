@@ -1,12 +1,12 @@
-_id: 692d9ef17de1487a2072c788
+_id: 6932d551348e0df57bfed0fd
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847662'
+  - c83b56d7-4a8e-5540-87e2-5b39a80366fd
+classicId: '2864673'
 classicProductId: '672902'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 13e5c887-8126-4daf-a814-6d08065a0232
+id: ff366e18-44cf-465a-aae7-99c192b82d0d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: l-shadow-white-1014-25ls720-ss-tee-nza-product-0
   type: product
-offerId: f10343cf-0873-49e7-94e5-3e260b85710e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
+  type: logo
+offerId: 1de9399b-f619-48ba-93f4-e080df5232b5
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: nza-logo-t-shirt-25ls720-shadow-white
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: NZA Logo T-shirt | 25LS720 | Shadow White

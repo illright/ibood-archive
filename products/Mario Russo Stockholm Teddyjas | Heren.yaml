@@ -1,22 +1,22 @@
-_id: 692d9b81a64993043665a983
+_id: 6932d25ae737494d3450a82b
 appOnly: false
 brand: Mario Russo
 brands:
   - id: f470bb88-e4c4-568c-b7b0-ef5a02dd4265
     name: Mario Russo
 categories:
-  - c69a856c-3c55-58f9-bb46-26207176ea32
-classicId: '2846870'
-classicProductId: '672014'
+  - 970f9d59-04c7-52e8-9612-6c313b27e88a
+classicId: '2864096'
+classicProductId: '672020'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 85
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 0535e549-2f10-489a-a67e-50dc3ff85a33
+id: 5bf3f5cc-b834-4450-b7ef-955f1cde20ec
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: mar-main-png-product-1
   type: product
-offerId: 5ee19e1e-d34e-46af-8aab-2f2725305dc4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 91cb2e11-03c6-41d8-a919-457fc5840610
+  priority: 0
+  slug: mario-russo-logo-0
+  type: logo
+offerId: b8485538-dd63-44f3-b4d8-3f57e83c45a4
 price:
   cents: 2995
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 199.99
 slug: mario-russo-stockholm-teddyjas-heren
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-07T23:00:00.000Z'
 title: Mario Russo Stockholm Teddyjas | Heren

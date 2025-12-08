@@ -1,12 +1,12 @@
-_id: 692d9cbef3e1045b67987247
+_id: 6932d2d510ca3ad4cbdeb84c
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - c12f3a01-8d7e-5bc4-a68a-6d8857deda5b
-classicId: '2847241'
+  - c152df9a-8b49-582b-90db-30572a08c72b
+classicId: '2864280'
 classicProductId: '657554'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 35
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 2eca68fb-ae6a-4a1d-b9f9-3a93c72fd269
+id: 3f21b776-2ca4-45a5-ab95-d11390649a23
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612112
-  priority: 100
-  slug: lacoste-logo
+    - all
+  extension: image/png
+  id: 98bde713-19a0-4518-b821-a381b75f0698
+  priority: 0
+  slug: lacoste-png-logo-0
   type: logo
-offerId: c3a8b762-e88b-4f30-b7d8-74e5b4cc5f31
+offerId: eefd2ded-596f-4926-9c54-fea3b2c01107
 price:
   cents: 6495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 100
 slug: lacoste-court-pro-sneakers-heren-zwart-50sma0073
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Lacoste Court Pro Sneakers  | Heren | Zwart | 50SMA0073

@@ -1,29 +1,28 @@
-_id: 692052d75278d35cacb06da4
+_id: 6932de44725331bb433c93ed
 appOnly: false
 brand: Riviera Maison
 brands:
   - id: 70d4acec-4a15-562a-868b-777682fe8e04
     name: Riviera Maison
 categories:
-  - e76181c5-a7f4-5972-a15b-abe7590d6bed
-classicId: '2838141'
-classicProductId: '547939'
+  - 41aff56f-f073-5ac8-8234-b93e5b46c9dc
+classicId: '2864937'
+classicProductId: '547937'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2025-12-07T22:59:59.000Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 66afa65a-e34c-4e6e-8596-92fa79110219
+id: 6b1aa484-029b-461f-842c-b033dda09711
 image:
   channels:
-    - website
     - app
-    - newsletter
+    - website
   extension: jpg
-  id: 2087291
+  id: 2087156
   priority: 0
   slug: riviera-maison-beyond-bademantel
   type: product
@@ -37,7 +36,7 @@ logo:
   priority: 100
   slug: riviera-maison-logo
   type: logo
-offerId: 7eba6bf9-cb60-4c1e-b2f7-1753126ee6c1
+offerId: a86fcd3a-ed61-4f15-b211-8966332e73bb
 price:
   cents: 4995
   currency: EUR
@@ -47,6 +46,6 @@ referencePrice:
   currency: EUR
   value: 139.95
 slug: riviera-maison-beyond-badjas
-soldOut: true
-start: '2025-11-20T23:00:00.000Z'
+soldOut: false
+start: '2025-12-07T23:00:00.000Z'
 title: Riviera Maison Beyond Badjas Unisex

@@ -1,22 +1,22 @@
-_id: 692d9b8df3e1045b679870d9
+_id: 6925a7814c656b2226f38c05
 appOnly: false
 brand: Alpacas
 brands:
   - id: cfc3caf0-ae6b-5b38-8c06-4d5d61302025
     name: Alpacas
 categories:
-  - c12f3a01-8d7e-5bc4-a68a-6d8857deda5b
-classicId: '2846908'
-classicProductId: '673963'
+  - e32ee756-e503-5f17-97e8-f0d929c76901
+classicId: '2842145'
+classicProductId: '673951'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 9e577d04-ec83-4541-981b-48c01533a577
+id: 13a6f1cd-12c2-490d-874c-3ad489d048cf
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: accb72a7-3e89-42ed-9507-cc92483856b6
-  priority: 0
-  slug: alpacas-footwear-lammfell-winterboots-damen-png-logo-0
+  extension: png
+  id: 1711103
+  priority: 100
+  slug: alpacas-logo
   type: logo
-offerId: a2ffa495-3f13-44fc-bf3a-9b5b2506dc95
+offerId: 4afeb1f7-032f-4d09-9f56-ad7c64618977
 price:
   cents: 3295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: alpacas-w66c0112b-boots-unisex
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-11-23T23:00:00.000Z'
 title: Alpacas W66C0112B Pantoffels | Unisex

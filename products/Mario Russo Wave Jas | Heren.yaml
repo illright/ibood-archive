@@ -1,12 +1,12 @@
-_id: 692d9b78f3e1045b679870a5
+_id: 6932d24410ca3ad4cbdeb63f
 appOnly: false
 brand: Mario Russo
 brands:
   - id: f470bb88-e4c4-568c-b7b0-ef5a02dd4265
     name: Mario Russo
 categories:
-  - c69a856c-3c55-58f9-bb46-26207176ea32
-classicId: '2846857'
+  - 970f9d59-04c7-52e8-9612-6c313b27e88a
+classicId: '2864067'
 classicProductId: '672126'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 73
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 02198a5f-dee0-435f-a67a-ad879ae03a73
+id: 4c801ac3-65dc-4f03-98ed-59dd2b1e469a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: jassi-png-product-1
   type: product
-offerId: 2a659dc4-e9b3-4800-b540-2aa990bea242
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 91cb2e11-03c6-41d8-a919-457fc5840610
+  priority: 0
+  slug: mario-russo-logo-0
+  type: logo
+offerId: f15a6cfc-87c7-47bc-aa0c-7d8cf020e64d
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 149.99
 slug: mario-russo-wave-jas-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Mario Russo Wave Jas | Heren

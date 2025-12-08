@@ -1,22 +1,22 @@
-_id: 692d9eebf3e1045b679874e7
+_id: 6932d550e737494d3450aaa1
 appOnly: false
 brand: Mario Russo
 brands:
   - id: f470bb88-e4c4-568c-b7b0-ef5a02dd4265
     name: Mario Russo
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847658'
-classicProductId: '671960'
+  - c83b56d7-4a8e-5540-87e2-5b39a80366fd
+classicId: '2864667'
+classicProductId: '671973'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: b056b27e-4356-4840-bcba-2716ec5588db
+id: 99dc61bd-8ead-459a-8779-182d9a194f6f
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: mario-russo-01-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 91cb2e11-03c6-41d8-a919-457fc5840610
-  priority: 0
-  slug: mario-russo-logo-0
-  type: logo
-offerId: f065ac65-ef9d-4c88-85e2-f52e57011ce6
+offerId: 71865322-45f2-47e9-8c75-5848f05efb50
 price:
   cents: 1995
   currency: EUR
@@ -49,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: mario-russo-torino-hoodie-heren
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-07T23:00:00.000Z'
 title: Mario Russo Torino Hoodie | Heren

@@ -1,22 +1,22 @@
-_id: 692d9b96cd1b2c31f77140da
+_id: 6932d263c9f40e4f969d03f8
 appOnly: false
 brand: Mario Russo
 brands:
   - id: f470bb88-e4c4-568c-b7b0-ef5a02dd4265
     name: Mario Russo
 categories:
-  - c69a856c-3c55-58f9-bb46-26207176ea32
-classicId: '2846910'
+  - 970f9d59-04c7-52e8-9612-6c313b27e88a
+classicId: '2864117'
 classicProductId: '672408'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 75
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 1134b2ae-6171-4696-b56f-700248abadf9
+id: 2bf4a6fd-36fa-4b4f-a6e9-a48148d0c353
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: leso-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 91cb2e11-03c6-41d8-a919-457fc5840610
-  priority: 0
-  slug: mario-russo-logo-0
-  type: logo
-offerId: a38594e0-a371-4dc3-baf7-9a48987f5714
+offerId: e8bc0f15-61bf-4ce8-b597-9141c396317b
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 59.99
 slug: mario-russo-basic-pullover-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Mario Russo Basic Pullover | Heren

@@ -1,22 +1,22 @@
-_id: 692d9ee3ac03ed6c8b7b4550
+_id: 6932d53be737494d3450aa82
 appOnly: false
 brand: 7Square
 brands:
   - id: d86cdca8-7bcd-5034-8189-d961ecae1932
     name: 7Square
 categories:
-  - e6a1c76f-a998-5a53-894c-3f18d943643d
-classicId: '2847641'
-classicProductId: '648129'
+  - c83b56d7-4a8e-5540-87e2-5b39a80366fd
+classicId: '2864649'
+classicProductId: '648131'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 80
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: f154b8a1-f511-4902-96ed-8c329cc5e28c
+id: 258bbdbd-c141-41b3-8a9f-71ef77de2591
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1655689
-  priority: 100
-  slug: 7square-logo
+    - all
+  extension: image/png
+  id: 5d010a87-a193-417d-803a-e6f48d5b6a13
+  priority: 0
+  slug: 1655687-png-logo-0
   type: logo
-offerId: cfaa235b-4ec1-4b61-8edd-d2bc9169f528
+offerId: 93825cbd-0dde-411e-b877-58da74bc5ce7
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 99.95
 slug: 7square-mellon-zip-poloshirt-fresco-blue
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: 7Square Mellon Zip Poloshirt | Fresco Blue

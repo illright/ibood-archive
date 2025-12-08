@@ -1,12 +1,12 @@
-_id: 691f2bc3eb6a5dabcdd51d14
+_id: 6932e0d3725331bb433c970e
 appOnly: false
 brand: Mimi Innovations
 brands:
   - id: 877d5512-4955-5cc8-a3e3-2992769417ad
     name: Mimi Innovations
 categories:
-  - cc029e1b-2e56-562b-bf9e-dc95a50da370
-classicId: '2835344'
+  - b1debe60-9c2b-514f-8567-47da745211dd
+classicId: '2865888'
 classicProductId: '585138'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2025-12-07T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 28ae7833-5fa1-5b6d-87e9-87f1926ab40b
+id: 8ab0c292-6afe-48da-a25b-6678435c748b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ce7429b2-f0e7-455b-8bdf-673bed198513
-  priority: 0
-  slug: mimi-innovations-logo-png-logo-0
+  extension: png
+  id: 2002395
+  priority: 100
+  slug: mimi-innovations-logo
   type: logo
-offerId: bc4d8486-bd33-5d53-8cc9-db22396a0a3c
+offerId: c7cfea29-d495-4fcb-a1ee-df99651c68ec
 price:
   cents: 4995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 199
 slug: mimi-innovations-houten-wereldkaart-180-x-108-cm
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Houten Wereldkaart | 180 x 108 cm | Brown HDF

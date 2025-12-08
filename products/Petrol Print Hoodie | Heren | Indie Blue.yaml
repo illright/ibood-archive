@@ -1,12 +1,12 @@
-_id: 692daea210b25ed8064948a9
+_id: 6932d370725331bb433c913f
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - be27b4b5-085b-55f8-bcf8-705036157ef8
-classicId: '2849012'
+  - c83b56d7-4a8e-5540-87e2-5b39a80366fd
+classicId: '2864430'
 classicProductId: '665249'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-12-12T22:59:59.999Z'
+end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 7f7f717c-5193-4aac-abf7-67db7255c6fa
+id: 9d2295c8-e549-4c65-bca0-f0bed6f4712e
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 95531df5-5ddb-4935-98ad-fbb648a294a8
+  priority: 0
+  slug: petrol-png-logo-0
   type: logo
-offerId: 0cb15cbf-a69e-45d4-bdf9-731efa9bbfd0
+offerId: 86e40785-d8b2-4a0e-99d4-03ad17978ff7
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.99
 slug: petrol-print-hoodie-heren-indie-blue
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-07T23:00:00.000Z'
 title: Petrol Print Hoodie | Heren | Indie Blue
