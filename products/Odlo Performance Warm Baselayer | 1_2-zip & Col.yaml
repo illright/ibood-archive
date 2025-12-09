@@ -1,12 +1,12 @@
-_id: 692dafbea64993043665b08c
+_id: 6932aa2f648146c20b12019e
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - 22586625-6e68-5ac5-8ad5-efd6e45df317
-classicId: '2849310'
+  - af4c2538-61d9-5f4c-8a31-cc387d5b26c3
+classicId: '2862683'
 classicProductId: '661496'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 3804220e-bd47-4dd6-afba-4cb282d07d20
+id: c6de3aa9-acd3-4552-ac0b-a0ec8bbc199d
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 45dfb91f-26ca-44af-9edb-6088848f9795
+    - app
+    - website
+  extension: image/png
+  id: 45dfb91f-26ca-44af-9edb-6088848f9795-tr
   priority: 0
   slug: xl-urban-chic-196222-10877-bl-top-turtle-neck-l-s-half-zip-performance-warm-odlo-product-0
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: d9dfd237-bc7d-4e48-9fc7-3c3d967428ad
+offerId: 39283638-3b1b-4b83-baa1-757fc0024add
 price:
   cents: 5995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 90
 slug: odlo-performace-warm-baselayer-1-2-zip-col
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Odlo Performance Warm Baselayer | 1/2-zip & Col

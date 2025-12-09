@@ -19,13 +19,14 @@ freeDelivery: false
 id: 7c593d94-06e6-5dc5-bcc3-1bbf6cc8962c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2208725
+    - all
+  extension: image/png
+  id: 8c91e2ff-73eb-4695-af9f-c4ea8cd2a54f
   priority: 0
-  slug: 4x-broste-copenhagen-sandvig-tumblerglas-565-ml
+  slug: broste-18-png-product-2
   type: product
 logo:
   channels:

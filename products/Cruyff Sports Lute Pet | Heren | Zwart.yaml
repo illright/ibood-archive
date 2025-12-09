@@ -1,12 +1,12 @@
-_id: 692eb67aa46fe9ba2c1b442f
+_id: 693695235dd5f5c851bf56be
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 4c1b1812-edef-5aba-ab2d-a4bd896a2793
-classicId: '2850503'
+  - ba17d5b9-66f3-5e37-a3cb-1f27a5380719
+classicId: '2867314'
 classicProductId: '664724'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,34 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 28
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 7dd243c6-7d29-4831-bd7b-1e1d00b3df51
+id: f73f6ed7-31c1-401f-9e9d-0db1f6dc026a
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 3020e3f1-fb69-42b0-9d00-409e65170d48
+    - app
+    - website
+  extension: image/png
+  id: 3020e3f1-fb69-42b0-9d00-409e65170d48-tr
   priority: 0
   slug: o-s-black-csa253105-998-lute-cap-men-cruff-sports-product-1
   type: product
-offerId: 5cecac21-b819-4c88-bec7-fdb1d196641b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 896d60b3-e490-493f-95e9-9dce68a39d96
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: f28e5fbc-f261-483e-b830-a22306adee56
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +52,5 @@ referencePrice:
   value: 24.95
 slug: cruyff-sports-lute-pet-zwart
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Cruyff Sports Lute Pet | Heren | Zwart

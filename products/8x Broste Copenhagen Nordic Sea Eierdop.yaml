@@ -19,13 +19,14 @@ freeDelivery: false
 id: 6b2b650d-7eda-54a4-beb1-ec1a7047a528
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2207845
+    - all
+  extension: image/png
+  id: 4a843839-ad63-474a-b999-5f239ef13289
   priority: 0
-  slug: 8x-broste-copenhagen-nordic-sea-eierdop
+  slug: broste-09-png-product-2
   type: product
 logo:
   channels:

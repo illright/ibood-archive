@@ -19,13 +19,14 @@ freeDelivery: false
 id: f5cc188a-5176-55e2-9ed5-a843fe874a28
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1929155
+    - all
+  extension: image/png
+  id: 6bbfdf1d-3268-4b9b-bf1b-a79cb8090644
   priority: 0
-  slug: 6x-broste-copenhagen-nordic-sea-mok-25-cl
+  slug: broste-02-png-product-1
   type: product
 logo:
   channels:

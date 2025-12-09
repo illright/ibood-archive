@@ -1,34 +1,44 @@
-_id: 692dafeea64993043665b0bd
+_id: 693175694948c75a2e5903a7
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 22586625-6e68-5ac5-8ad5-efd6e45df317
-classicId: '2849342'
-classicProductId: '667959'
+  - 3d6b5e07-a94a-5318-86df-f841080122db
+classicId: '2858359'
+classicProductId: '667951'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 57
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 4732df46-f90d-4b42-b410-a11fa8998440
+id: 1b48573e-dfe9-511a-afbd-0066041f67d0
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 2bdb6e81-0755-4619-b260-311708e1c272
+  extension: image/png
+  id: 7fb2554b-4579-48a6-a1bc-83ff774db0d5
   priority: 0
-  slug: 45-47-beige-outdoor-merino-wollen-compressie-sokken-heat-essentials-product-1
+  slug: heat-essentials-12-png-product-1
   type: product
-offerId: edb5ed23-50ee-4c09-973d-4dcb481de249
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1643389
+  priority: 100
+  slug: heat-essentials-logo
+  type: logo
+offerId: 562f8450-9249-5720-921e-d614f6d2a366
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 34.95
 slug: 2x-heat-essentials-outdoor-kompressionssocken-unisex
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Heat Essentials Outdoor-compressiesokken | Unisex

@@ -1,30 +1,32 @@
-_id: 6929a2bec6dce3025cd85e8f
+_id: 6936a5ef1eadaba9143b64a1
 appOnly: false
 brand: Varta
 brands:
   - id: 032858ef-b673-5571-8a36-b61440255ef2
     name: Varta
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2845327'
-classicProductId: '682360'
+  - 2e4daf38-e8c2-53c9-a009-29a27e2c1080
+classicId: '2867569'
+classicProductId: '683445'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: b8e25125-5f14-5699-9e9c-1681b482f4fb
+id: edd2ed32-a142-5117-89e1-2cff88bd5c40
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 92b771bf-ce20-4ed1-ae3d-f4314a9e4d53
+    - app
+    - website
+  extension: image/png
+  id: 92b771bf-ce20-4ed1-ae3d-f4314a9e4d53-tr
   priority: 0
   slug: aaa-aaa-jpg-product-2
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: varta-logo
   type: logo
-offerId: 156b7dc0-7c68-5f77-915a-a616cd8d4130
+offerId: 0c3a8daf-fc2a-51a2-9b37-980868818e9c
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 94.98
 slug: 80x-varta-longlife-power-alkaline-batterij-aaa
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Varta Longlife Power AAA Storagebox | 40 stuks

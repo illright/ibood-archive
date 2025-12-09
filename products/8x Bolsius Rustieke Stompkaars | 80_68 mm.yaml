@@ -1,22 +1,22 @@
-_id: 692dabc8d090bf57b603c738
+_id: 6936d5bbe0975e5924bc7b08
 appOnly: false
 brand: Bolsius
 brands:
   - id: 96ec547b-ffbd-5fc2-b03f-f14679a99f8d
     name: Bolsius
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848484'
-classicProductId: '678754'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2869895'
+classicProductId: '678752'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 443eeee2-47bf-490c-9ea7-32f50e707f20
+id: b0b956c4-4768-4aea-aa8d-2377639752bf
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: ef45d6fc-1b4a-4e65-ab8c-094e42360567
+  id: af237ee1-faad-41e1-ade4-49088fa2c8d2
   priority: 0
-  slug: bolsius-07-png-product-1
+  slug: bolsius-06-png-product-1
   type: product
-offerId: 572c78cd-4902-491f-80bb-37d1db6be6ad
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1580436
+  priority: 100
+  slug: bolsius-logo
+  type: logo
+offerId: 07c7eaca-f00f-45e4-9bc2-3eb5154d245b
 price:
   cents: 1495
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 33.52
 slug: 8x-bolsius-rustieke-stompkaars-80-68-mm
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-08T23:00:00.000Z'
 title: 8x Bolsius Rustieke Stompkaars | 80/68 mm

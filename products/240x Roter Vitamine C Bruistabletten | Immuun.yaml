@@ -1,12 +1,12 @@
-_id: 692045567cff776b31b221e4
+_id: 6936d8483aadc61d9be5e2a8
 appOnly: false
 brand: Roter
 brands:
   - id: 09c2086f-e087-5f14-b47d-ff7a942efeac
     name: Roter
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2837773'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870423'
 classicProductId: '680299'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: edff48ec-f780-5971-924a-f6d38aa2c180
+id: 8165b18e-9d37-4aae-a859-41ee3d9a76e9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: imuun-mian-png-product-1
   type: product
-offerId: c10df390-6d6f-556e-aa9c-ddfef9e8319f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a50f1a7b-b309-41ec-bee8-981144fe0fcf
+  priority: 0
+  slug: roter-logo-0
+  type: logo
+offerId: a5479ab6-0144-473b-8060-1b65121d6d82
 price:
   cents: 2695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 65.94
 slug: 240x-roter-vitamine-c-bruistabletten-immuun
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 240x Roter Vitamine C Bruistabletten | Immuun

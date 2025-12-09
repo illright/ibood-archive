@@ -19,13 +19,14 @@ freeDelivery: false
 id: 30acb1be-6a6a-5d9a-a62b-d9cb857aaf60
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2208435
+    - all
+  extension: image/png
+  id: f9da00a8-c7de-4b00-ad7c-7d314c62aa4d
   priority: 0
-  slug: 4x-broste-copenhagen-amber-rode-wijnglas-650-ml
+  slug: broste-14-png-product-2
   type: product
 logo:
   channels:

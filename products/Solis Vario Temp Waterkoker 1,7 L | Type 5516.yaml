@@ -19,13 +19,14 @@ freeDelivery: false
 id: 6304fbeb-aac9-44e4-9e57-d8db94bb1a44
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2097790
-  priority: 100
-  slug: solis-vario-temp-waterkoker-17-l-type-5516
+    - all
+  extension: image/jpeg
+  id: 1522aa7a-1a27-458d-8112-3e60301173ef
+  priority: 0
+  slug: solis-vario-temp-wasserkocher-jpg-product-101
   type: product
 logo:
   channels:

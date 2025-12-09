@@ -19,13 +19,14 @@ freeDelivery: false
 id: 5003478a-d8d5-43a4-9514-b5458629562c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2065290
+    - all
+  extension: image/jpeg
+  id: 6aa4ed04-214c-4a2d-b19e-93b6a8819efd
   priority: 0
-  slug: beurer-ft-95-infrarot-thermometer
+  slug: beurer-ft-95-infrarot-thermometer-jpg-product-2
   type: product
 logo:
   channels:

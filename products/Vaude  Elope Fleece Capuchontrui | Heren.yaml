@@ -1,12 +1,12 @@
-_id: 691f19ed88d6100beb551478
+_id: 6932b6d8e0975e5924bc71c3
 appOnly: false
 brand: VAUDE
 brands:
   - id: 5bd79664-1a7d-5922-b8fe-f12f6f6be54e
     name: VAUDE
 categories:
-  - 05b91b96-1b61-5285-a881-4ad4fab01024
-classicId: '2834833'
+  - 0776061d-d41c-55f2-93d4-75d61bbc28f8
+classicId: '2863467'
 classicProductId: '679994'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 030815d9-a364-5d54-be6a-36ebb9d9ce96
+id: be9e5df0-bce5-4262-bc5a-57e73f15e6a7
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: l-carmine-46388-me-elope-stormfleece-hoody-men-vaude-product-7
   type: product
-offerId: b6fac0cc-52f7-5633-8386-bca560f7b968
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1735071
+  priority: 100
+  slug: vaude-logo
+  type: logo
+offerId: b58a3b83-691e-4aa9-ba6c-8f8d027e1c35
 price:
   cents: 5995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 150
 slug: vaude-elope-fleece-capuchontrui-heren
 soldOut: false
-start: '2025-12-03T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Vaude  Elope Fleece Capuchontrui | Heren

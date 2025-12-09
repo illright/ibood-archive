@@ -19,13 +19,14 @@ freeDelivery: false
 id: 1f946d7c-d4a5-590a-85b7-72131214a0e9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1929082
+    - all
+  extension: image/png
+  id: 0a96a29b-2159-484c-8081-4e4c0b1c8a17
   priority: 0
-  slug: 4x-broste-copenhagen-nordic-sand-bord-20-cm
+  slug: broste-07-png-product-1
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 1929081
   priority: 100
-  slug: 4x-broste-copenhagen-nordic-sand-bord-20-cm
+  slug: 4x-broste-copenhagen-kleine-teller-nordic-sand
   type: logo
 offerId: f3874589-69ee-5f51-aabf-e93ec329b06a
 price:

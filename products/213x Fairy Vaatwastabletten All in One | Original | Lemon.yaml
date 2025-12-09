@@ -1,12 +1,12 @@
-_id: 6911c7a3180af628d2f308de
+_id: 6936d6b63aadc61d9be5de78
 appOnly: false
 brand: Fairy
 brands:
   - id: 9b17ac23-8210-5492-b4df-a7456fdff12a
     name: Fairy
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2819996'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870066'
 classicProductId: '611956'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: b0b8b9a6-2643-542e-a991-edd0a911a1f4
+id: 23810e25-469b-4a6a-b42f-ef3662aa30cd
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 213x-fairy-vaatwastabletten-all-in-one
   type: product
-offerId: 6b744496-c687-5cf2-b62f-5472119baec8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1912430
+  priority: 100
+  slug: fairy-logo
+  type: logo
+offerId: 2268151a-a48f-4df1-8bfb-8ff08a6c35e6
 price:
   cents: 3695
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 106.24
 slug: 213x-fairy-vaatwastabletten-all-in-one
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 213x Fairy Vaatwastabletten All in One | Original | Lemon

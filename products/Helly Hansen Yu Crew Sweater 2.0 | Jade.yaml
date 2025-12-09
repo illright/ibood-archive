@@ -1,22 +1,22 @@
-_id: 692d6a9eac03ed6c8b7b3f82
+_id: 6932ac9008d53693e4468fcd
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - c13087a7-0c84-5d7d-b5a8-dce6d0054c1d
-classicId: '2846214'
-classicProductId: '574284'
+  - e3f96da3-8a07-59cd-93aa-d00d8475d1f5
+classicId: '2862716'
+classicProductId: '574283'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 64
-end: '2025-12-08T22:59:59.000Z'
+directCheckout: false
+discount: 50
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: da3b9557-e212-4a0a-a763-349223a97cfd
+id: e141f8d2-5e55-4ee7-8b00-35e5b0674ffc
 image:
   channels:
     - website
@@ -37,16 +37,16 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: 160b2dbe-e32e-446d-b836-a53c0cb0be18
+offerId: 234ecf99-0ff9-459f-988c-4a2eec6f4786
 price:
-  cents: 2500
+  cents: 3495
   currency: EUR
-  value: 25
+  value: 34.95
 referencePrice:
   cents: 7000
   currency: EUR
   value: 70
 slug: helly-hansen-yu-crew-sweater-20-jade
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-08T23:00:00.000Z'
 title: Helly Hansen Yu Crew Sweater 2.0 | Jade

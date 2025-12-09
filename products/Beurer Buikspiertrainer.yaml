@@ -19,13 +19,14 @@ freeDelivery: false
 id: b8de3546-1bd0-429f-9bc3-d9dbdf7fd22b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 107924
+    - all
+  extension: image/jpeg
+  id: 5341e467-9450-4df2-8b87-1a12ced22c83
   priority: 0
-  slug: beurer-buikspiertrainer
+  slug: beurer-bauchmuskeltrainer-jpg-product-2
   type: product
 logo:
   channels:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: beurer-buikspiertrainer
-soldOut: false
+soldOut: true
 start: '2025-12-02T23:00:00.000Z'
 title: Beurer Buikspiertrainer

@@ -1,12 +1,12 @@
-_id: 692868372356624b1885bd6a
+_id: 6936d6625241e1f40f6fc23f
 appOnly: false
 brand: Doritos
 brands:
   - id: 90c8b415-4845-5232-88c9-d92e57ab2832
     name: Doritos
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2843884'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2869995'
 classicProductId: '681897'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 80
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 27077865-458a-53f3-b56a-2d4631d236e7
+id: f5d42a52-fdb3-4bf6-987d-5e5cba6b52a9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: lindt-png-product-1
   type: product
-offerId: efae7f0b-9c5b-59ac-bd88-ffc1d5a8b742
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 670777c2-4f46-491e-abe2-9b25d944b074
+  priority: 0
+  slug: doritos-logo-0
+  type: logo
+offerId: 3074743b-46d1-4051-b821-02881f023d67
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 115.92
 slug: 14x-lindt-lindor-tafel-wit-150g-50g-gratis
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 14x Lindt Lindor Reep Wit | 150 g | 50 g Gratis

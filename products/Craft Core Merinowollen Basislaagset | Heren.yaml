@@ -1,31 +1,32 @@
-_id: 692daf40a64993043665b024
+_id: 6932b817e737494d3450a51d
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - 22586625-6e68-5ac5-8ad5-efd6e45df317
-classicId: '2849219'
-classicProductId: '401650'
+  - aadfba5b-48f5-59bd-ae3c-4cd726d694e4
+classicId: '2863470'
+classicProductId: '401648'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 50
-end: '2025-12-08T22:59:59.999Z'
+directCheckout: false
+discount: 38
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 9909521e-bf2c-4ee2-9fa5-b602e56f9e19
+id: e999d539-b019-4dbe-b389-367edb91c23e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1344894
+    - all
+  extension: image/png
+  id: d8edbecc-7911-4533-8e1c-00f322c59dee-tr
   priority: 0
-  slug: craft-core-merinowollen-basislaagset-heren
+  slug: craft-core-baselayer-set-merinowolle-herren-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: craft-logo
   type: logo
-offerId: 5f9ab6a0-a737-403c-8dde-af86eb17abb1
+offerId: 7d5582e6-27ff-4fe9-a70f-ea2f9cbe60ff
 price:
-  cents: 5995
+  cents: 7995
   currency: EUR
-  value: 59.95
+  value: 79.95
 referencePrice:
-  cents: 12000
+  cents: 12995
   currency: EUR
-  value: 120
+  value: 129.95
 slug: craft-core-merinowollen-basislaagset-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Craft Core Merinowollen Basislaagset | Heren

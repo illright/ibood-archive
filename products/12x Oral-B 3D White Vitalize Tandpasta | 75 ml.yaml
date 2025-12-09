@@ -1,12 +1,12 @@
-_id: 691db7cb35cd1861b1caf33a
+_id: 6936d7f0e0975e5924bc7d57
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2832781'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870354'
 classicProductId: '679378'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 75d3a944-0f25-519e-8a4a-77831c74d898
+id: 06056f63-78c8-4b5a-b825-37972f2a8fb6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 12x-oral-b-tp-3d-white-75ml-vitalize-product-2
   type: product
-offerId: f32d5009-c846-5d7f-88a6-124807f23ad3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800052
+  priority: 100
+  slug: oral-b-logo
+  type: logo
+offerId: 4411a7c1-94da-4453-9bd4-72c0bfcb0193
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 65.88
 slug: 12x-oral-b-3d-white-vitalize-tandpasta-75-ml
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 12x Oral-B 3D White Vitalize Tandpasta | 75 ml

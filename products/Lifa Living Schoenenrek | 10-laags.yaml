@@ -19,13 +19,16 @@ freeDelivery: false
 id: 58eabc3b-37e9-4f23-9812-f05099fb4933
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2105752
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 289b8452-faed-4d62-8e20-6cba06804505-tr
   priority: 0
-  slug: lifa-living-schuhregal-10-ebenen
+  slug: lifa-living-schuhregal-10-ebenen-jpg-product-2
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: c71b5ddf-1c47-4e82-b650-27fac73d6dff
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 549343
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 0bbad25b-ddfb-49ad-9b6a-7c1059c1e5ad-tr
   priority: 0
-  slug: hyper-usb-c-4-in-1-hub-surface-go
+  slug: hyper-usb-c-hub-4-in-1-surface-go-jpg-product-1
   type: product
 logo:
   channels:

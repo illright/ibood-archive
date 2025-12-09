@@ -1,12 +1,12 @@
-_id: 692da7d4f676f974d00ae3fb
+_id: 69369526631ccb34ed33b20a
 appOnly: false
 brand: Siux
 brands:
   - id: 90eea59b-d5f0-528a-9a70-451dccb50cc9
     name: Siux
 categories:
-  - 222fe072-d61b-5cb3-b31f-3178b5cce09c
-classicId: '2848298'
+  - 761d12ff-c549-5963-bcb0-03fd00b18d73
+classicId: '2867329'
 classicProductId: '679050'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 55114999-8658-43b0-a6bd-dce7925aa275
+id: 53f50f43-2341-422d-8fc1-03e5c8278711
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: siux-fenix-lite-5-padelracket-product-2
   type: product
-offerId: b1d65926-e2e7-4771-8aa8-b1bfdeec3a1a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1699254
+  priority: 100
+  slug: siux-logo
+  type: logo
+offerId: 80f4f7da-33c2-424b-a11b-f2a9b0c4947d
 price:
   cents: 10995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 229.95
 slug: siux-fenix-elite-5-padelracket-gevorderden
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Siux Fenix Elite 5 padelracket | Gevorderden

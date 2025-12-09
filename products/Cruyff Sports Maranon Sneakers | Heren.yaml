@@ -1,22 +1,22 @@
-_id: 692eb686fdfbabd2b069dd83
+_id: 6936952b5dd5f5c851bf56d5
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 4c1b1812-edef-5aba-ab2d-a4bd896a2793
-classicId: '2850508'
-classicProductId: '664502'
+  - ba17d5b9-66f3-5e37-a3cb-1f27a5380719
+classicId: '2867336'
+classicProductId: '664499'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 2c31a7e1-5c4c-4489-8ce0-c903dc0a723a
+id: 357a8b00-a674-40ff-951a-43028ef466d2
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 50d55e2d-cc74-4c51-a517-843e1847d3db
+  id: 2bb60153-9fc6-411f-9aae-463683796469
   priority: 0
-  slug: cruyff-97-png-product-1
+  slug: cruyff-101-png-product-1
   type: product
-offerId: 982aaeb1-2545-460f-bea6-d89bdd31e46e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f4f4c202-0549-4cff-85be-9b8c8c70fc04
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: 1556f2a4-2750-474f-80bd-53e3f54c0d83
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 89.95
 slug: cruff-sports-maranon-sneakers-herren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Cruyff Sports Maranon Sneakers | Heren

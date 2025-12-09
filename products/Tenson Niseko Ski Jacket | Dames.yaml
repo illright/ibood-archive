@@ -1,22 +1,22 @@
-_id: 692daf69d090bf57b603ccd4
+_id: 6932b489e737494d3450a504
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - 22586625-6e68-5ac5-8ad5-efd6e45df317
-classicId: '2849285'
-classicProductId: '675935'
+  - 66499aef-9f45-5e10-be3a-787b372f4035
+classicId: '2863460'
+classicProductId: '675939'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 43
-end: '2025-12-08T22:59:59.999Z'
+discount: 45
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: d9d79293-7cd9-4392-9194-eae99e536b9b
+id: 957261da-d131-475c-acfe-6331c3240e4f
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 16a38cba-c337-465c-b390-bb91ad44b7b0
+  id: bc41e153-a147-4ba6-a8e9-589d6c4f3b47
   priority: 0
-  slug: 1-png-product-2
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: 34622c33-c335-445f-b328-140c66054335
+offerId: 9a099558-f32b-4038-9177-fe49e822c9d1
 price:
-  cents: 11495
+  cents: 10995
   currency: EUR
-  value: 114.95
+  value: 109.95
 referencePrice:
   cents: 20000
   currency: EUR
   value: 200
 slug: tenson-niseko-ski-jacket-dames
-soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+soldOut: true
+start: '2025-12-08T23:00:00.000Z'
 title: Tenson Niseko Ski Jacket | Dames

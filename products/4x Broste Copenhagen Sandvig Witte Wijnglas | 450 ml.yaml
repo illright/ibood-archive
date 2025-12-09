@@ -19,13 +19,14 @@ freeDelivery: false
 id: 90047396-4251-562f-b0b9-e5670ad44f91
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2208875
+    - all
+  extension: image/png
+  id: 15c7b874-b1dc-42ab-8323-53822e1d2170
   priority: 0
-  slug: 4x-broste-copenhagen-sandvig-witte-wijnglas-450-ml
+  slug: broste-17-png-product-2
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 2208874
   priority: 100
-  slug: 4x-broste-copenhagen-sandvig-witte-wijnglas-450-ml
+  slug: 4x-broste-copenhagen-sandvig-weiweinglas-45-cl
   type: logo
 offerId: 6f3f12e9-f641-5673-b33a-a3acb32db024
 price:

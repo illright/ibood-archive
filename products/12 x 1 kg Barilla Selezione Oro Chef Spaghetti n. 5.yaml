@@ -1,12 +1,12 @@
-_id: 692da91658bfd7cfedbf1765
+_id: 6936d5a23aadc61d9be5dbdb
 appOnly: false
 brand: Barilla
 brands:
   - id: a17eaad1-8748-5a18-828e-96d84332cc0e
     name: Barilla
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848388'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2869873'
 classicProductId: '678401'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 68
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: aa6e693a-f6dc-5e1b-9f6a-b92224d2d152
+id: 048f6430-231d-41cc-82e8-dbb93381b3e5
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: pasta-png-product-1
   type: product
-offerId: 04bb3214-0e83-5f21-a226-99ce986dbf88
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 297bd524-6a1e-4a11-b079-0c2dc6f923d8
+  priority: 0
+  slug: barilla-logo-0
+  type: logo
+offerId: 1b094ff1-80d1-4834-b7b7-ab73fa60f13e
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 63.16
 slug: barilla-selezione-oro-chef-spaghetti-n-5-pack-of-12-12-x-1-kg
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 12 x 1 kg Barilla Selezione Oro Chef Spaghetti n. 5

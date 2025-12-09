@@ -19,13 +19,16 @@ freeDelivery: false
 id: 91903389-a300-4b22-b0c8-c7d9fd280272
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2032744
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d07b15f2-c084-4efa-adab-0aeb592503b8-tr
   priority: 0
-  slug: 2x-apple-usb-c-netzteil-20-w
+  slug: 2x-apple-usb-c-netzteil-20-w-png-product-1
   type: product
 logo:
   channels:

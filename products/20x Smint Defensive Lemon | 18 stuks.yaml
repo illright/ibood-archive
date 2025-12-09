@@ -1,12 +1,12 @@
-_id: 6929934d1c91bc35dc967e5c
+_id: 6936d8603aadc61d9be5e314
 appOnly: false
 brand: Smint
 brands:
   - id: 43508e1b-8e3e-552b-ba16-ce8510dd3257
     name: Smint
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2845144'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870454'
 classicProductId: '681978'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 3d09f9b1-aab6-5615-b3bb-881cfde31da8
+id: 0387a6d7-5732-414c-990d-1807f35ee72f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: smint-02-png-product-1
   type: product
-offerId: 8d733a79-60f9-5a27-ba00-07f4e0233f27
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 1304370
+  priority: 100
+  slug: smint-logo
+  type: logo
+offerId: b2ace99b-5494-422f-ac80-7227d20432a1
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 31.98
 slug: 20x-smint-defensive-lemon-18-stuks
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 20x Smint Defensive Lemon | 18 stuks

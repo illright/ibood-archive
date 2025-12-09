@@ -19,13 +19,14 @@ freeDelivery: false
 id: 8600fe65-7776-595e-8264-26c5407ce8b0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1929215
+    - all
+  extension: image/jpeg
+  id: 4c0d6c12-ca8c-4027-9a76-06e0177749e3
   priority: 0
-  slug: 6x-broste-copenhagen-nordic-vanilla-mok-25-cl
+  slug: 6x-broste-copenhagen-becher-vanilla-jpg-product-3
   type: product
 logo:
   channels:

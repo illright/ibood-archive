@@ -19,13 +19,14 @@ freeDelivery: false
 id: fca6c4c1-6cd7-5daa-8f58-09d69aef3593
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2208321
+    - all
+  extension: image/png
+  id: 99375e81-925c-46f3-8e07-af58222b6749
   priority: 0
-  slug: 4x-broste-copenhagen-nordic-sea-dessertbord-20-cm
+  slug: broste-01-png-product-1
   type: product
 logo:
   channels:

@@ -1,12 +1,12 @@
-_id: 692eb690fdfbabd2b069dd89
+_id: 693695381eadaba9143b63f5
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 4c1b1812-edef-5aba-ab2d-a4bd896a2793
-classicId: '2850513'
+  - ba17d5b9-66f3-5e37-a3cb-1f27a5380719
+classicId: '2867363'
 classicProductId: '664653'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 44164e8b-d6e5-43e5-8522-e32e440efca8
+id: d1a02367-85d2-4f53-885a-7df3403fa47a
 image:
   channels:
     - website
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: cruyff-50-png-product-2
   type: product
-offerId: d2b9522a-5b8f-4290-aad8-280c2b3c3309
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 69a02e37-886b-4732-b573-edd9717131ad
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: 68f407fc-c6ca-485e-9db1-5cb5e37fe7e6
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 89.95
 slug: cruyff-sports-avinex-tracktop-kids
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Cruyff Sports Avinex Tracktop | Kids

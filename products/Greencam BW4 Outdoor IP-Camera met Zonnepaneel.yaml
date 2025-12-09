@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1f040736-d0f5-4f42-b80d-bda7fc315cfc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1930377
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d03501b9-3dd9-4e42-9da9-e04796ee1c0b-tr
   priority: 0
-  slug: greencam-bw4-outdoor-ip-camera-met-zonnepaneel
+  slug: greencam-bw4-auenkamera-solarbetrieben-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 35d02980-04fc-56b7-aa03-c70c14b0a638
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2208428
+    - all
+  extension: image/png
+  id: e24e4ad0-01cc-4a2e-96ed-6674856bfd88
   priority: 0
-  slug: 4x-broste-copenhagen-tumblerglas-350-ml
+  slug: broste-13-png-product-1
   type: product
 logo:
   channels:

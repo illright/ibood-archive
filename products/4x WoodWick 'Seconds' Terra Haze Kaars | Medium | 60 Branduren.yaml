@@ -1,12 +1,12 @@
-_id: 692dafaca64993043665b084
+_id: 6936d96a3aadc61d9be5e4ad
 appOnly: false
 brand: Woodwick
 brands:
   - id: b56b1d96-8b90-576d-8566-281a8ddd996a
     name: Woodwick
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2849307'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870586'
 classicProductId: '670976'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 9fe223e1-bb67-4570-8534-5bf6432571c4
+id: 871c9fb4-a2a9-4f9e-964f-a2f0d2176b22
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: ww01-png-product-1
   type: product
-offerId: 1af10ebc-3f4e-4e2d-acb6-ed653eb8cdff
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1717757
+  priority: 100
+  slug: woodwick-logo
+  type: logo
+offerId: 441d163e-d5d1-4350-88a9-e2b2536a0143
 price:
   cents: 4995
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 111.6
 slug: 4x-woodwick-seconds-terra-haze-kaars-60-branduren
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-08T23:00:00.000Z'
 title: 4x WoodWick 'Seconds' Terra Haze Kaars | Medium | 60 Branduren

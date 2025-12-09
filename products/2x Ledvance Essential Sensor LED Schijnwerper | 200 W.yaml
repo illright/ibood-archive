@@ -1,12 +1,12 @@
-_id: 692db054a64993043665b0c7
+_id: 6936a9891eadaba9143b65f1
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 18957068-aab6-5e33-87d0-24f30365448d
-classicId: '2849351'
+  - 30145539-f1bb-5fc0-9ecf-a164123fc812
+classicId: '2867817'
 classicProductId: '681958'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 85
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 09376948-f79a-428e-8008-86132cf2cd06
+id: 72679dd6-192a-4f35-aeb5-be74a1595e8b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: afe33d66-ae98-4de1-a352-1c6085bfb2bb
-  priority: 0
-  slug: ledvance-png-logo-0
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
   type: logo
-offerId: 0a0d52d0-fcee-48ad-8b35-e03e590c2c8a
+offerId: 044781b8-8133-42fe-bdb2-dc77577c2b88
 price:
   cents: 2795
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 181.5
 slug: 2x-ledvance-essential-sensor-led-schijnwerper-200w
-soldOut: true
-start: '2025-12-02T23:00:00.000Z'
+soldOut: false
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Ledvance Essential Sensor LED Schijnwerper | 200 W

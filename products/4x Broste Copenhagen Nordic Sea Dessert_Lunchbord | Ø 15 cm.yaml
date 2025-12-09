@@ -19,13 +19,14 @@ freeDelivery: false
 id: 424d87df-9181-5b8b-b2d7-586f151d7a8f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1929120
+    - all
+  extension: image/png
+  id: e9601435-023a-4d2d-aaeb-c0c74c51260b
   priority: 0
-  slug: 4x-broste-copenhagen-nordic-sea-bord-15-cm
+  slug: broste-04-png-product-2
   type: product
 logo:
   channels:

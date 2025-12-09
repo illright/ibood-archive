@@ -1,12 +1,12 @@
-_id: 691f1debafe8356ad9ee84e5
+_id: 6936a9013aadc61d9be5d7e4
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 18957068-aab6-5e33-87d0-24f30365448d
-classicId: '2835149'
+  - 30145539-f1bb-5fc0-9ecf-a164123fc812
+classicId: '2867649'
 classicProductId: '682318'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 85
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 4832d8d9-92ba-5b74-a9e4-2505c585dad0
+id: 6641aa0e-094f-46a1-b7f8-00f22490c86c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d5cd09b7-e6c0-4b9b-b131-fbeed2c8453c
-  priority: 0
-  slug: ledvance-png-logo-0
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
   type: logo
-offerId: 0c5eb8dc-4a87-5359-b41e-20f9f4dab798
+offerId: d2fb10f4-283a-4236-adea-afea12da367d
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 193.48
 slug: ledvance-smart-wifi-mood-light-rgbtw-zwart
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Ledvance Smart+ Wifi Mood Light | RGB | Tunable White

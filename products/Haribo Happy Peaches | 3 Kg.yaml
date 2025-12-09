@@ -1,12 +1,12 @@
-_id: 692868352356624b1885bd65
+_id: 6936d6d83aadc61d9be5dedd
 appOnly: false
 brand: Haribo
 brands:
   - id: 274432d1-d2e6-593c-8d06-6d003bbd1e14
     name: Haribo
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2843881'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870105'
 classicProductId: '681892'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 75f4acf4-6f73-58cf-8af5-578549f311df
+id: 357ee1f2-af12-44ec-b9cd-c23e35f622a3
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: haribo-happy-peaches-3kg-product-0
   type: product
-offerId: 2460f767-b130-50df-bf9b-1a545cc6be4f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1936479
+  priority: 100
+  slug: haribo-logo
+  type: logo
+offerId: 473feb3f-db30-4ae9-bcd7-8231c0394d6d
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: haribo-happy-peaches-3-kg
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Haribo Happy Peaches | 3 Kg

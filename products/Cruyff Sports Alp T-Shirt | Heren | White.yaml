@@ -1,12 +1,12 @@
-_id: 692eb6c8fdfbabd2b069ddb9
+_id: 693695a881eeb4263dba6428
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 4c1b1812-edef-5aba-ab2d-a4bd896a2793
-classicId: '2850542'
+  - ba17d5b9-66f3-5e37-a3cb-1f27a5380719
+classicId: '2867440'
 classicProductId: '634752'
 deliveryPrice:
   cents: 595
@@ -14,20 +14,34 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 881185b3-681b-4696-a923-aad426df334c
+id: 74e16322-ae45-44fe-a5f8-d2a909d6ba8f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2198530
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1acd63f8-6c05-4ea9-9681-2884c356171d-tr
   priority: 0
-  slug: cruyff-sports-alp-t-shirt-heren
+  slug: cruyff-sports-alp-ss-top-herren-jpg-product-1
   type: product
-offerId: a63966c6-a07e-4647-8551-f8c46a50fbfc
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3bb0c968-2264-4fd8-b201-4b4e7f0798de
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: ec6636ec-b98e-4a8a-bcad-62ad49db270d
 price:
   cents: 1995
   currency: EUR
@@ -38,5 +52,5 @@ referencePrice:
   value: 44.95
 slug: cruyff-sports-alp-t-shirt-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Cruyff Sports Alp T-Shirt | Heren | White

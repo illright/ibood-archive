@@ -19,13 +19,14 @@ freeDelivery: false
 id: 5eafc39b-1a8c-4fd1-bc37-f0a8359c30fa
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2000539
+    - all
+  extension: image/jpeg
+  id: e0fdd6ce-e7a4-4dbe-8fd1-b43dffe746df
   priority: 0
-  slug: umuzi-prullenbak-one-touch-68-l
+  slug: umuzi-one-touch-abfalleimer-schwarz-68-l-jpg-product-1
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 2004099
   priority: 100
-  slug: umuzi-prullenbak-one-touch-68-l
+  slug: umuzi-one-touch-abfalleimer-schwarz-68-l
   type: logo
 offerId: 5e336160-4123-4212-af2c-285877c32417
 price:

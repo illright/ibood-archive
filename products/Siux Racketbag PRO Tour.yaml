@@ -1,12 +1,12 @@
-_id: 692072286efb3199fd3c7ec1
+_id: 693695291eadaba9143b63dd
 appOnly: false
 brand: Siux
 brands:
   - id: 90eea59b-d5f0-528a-9a70-451dccb50cc9
     name: Siux
 categories:
-  - e32ee756-e503-5f17-97e8-f0d929c76901
-classicId: '2839897'
+  - 761d12ff-c549-5963-bcb0-03fd00b18d73
+classicId: '2867331'
 classicProductId: '663180'
 deliveryPrice:
   cents: 595
@@ -16,15 +16,17 @@ directCheckout: true
 discount: 60
 end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: b3583249-ddf1-4a5a-9bb6-8329852ccee4
+id: f6a4b6ae-984d-4542-b9f3-e720c3568b03
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 2681f1c7-2b29-44fb-b95e-1796e059eddd
+    - website
+    - app
+  extension: image/png
+  id: 2681f1c7-2b29-44fb-b95e-1796e059eddd-tr
   priority: 0
   slug: grey-siux-racketbag-pro-tour-product-2
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: siux-logo
   type: logo
-offerId: c104bba5-0e33-43c5-8046-6dd79c5113d8
+offerId: bcfd885d-3c75-4a2e-bb78-7b35501d18bf
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 99.95
 slug: grey-siux-racketbag-pro-tour
 soldOut: false
-start: '2025-11-23T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Siux Racketbag PRO Tour

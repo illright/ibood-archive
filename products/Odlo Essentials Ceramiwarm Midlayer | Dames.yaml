@@ -1,12 +1,12 @@
-_id: 692d6a960934537d763a365c
+_id: 6932aa3808d53693e4468fab
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - c13087a7-0c84-5d7d-b5a8-dce6d0054c1d
-classicId: '2846208'
+  - af4c2538-61d9-5f4c-8a31-cc387d5b26c3
+classicId: '2862690'
 classicProductId: '661499'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2025-12-08T22:59:59.000Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 9be6a8c4-7b1a-41f6-9e42-1d6458f900f3
+id: 4d05f98e-5363-49e2-9c9a-7e1508cd15f4
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: d35ba20a-3fe3-47fa-af2c-1cc811f699ee
+    - app
+    - website
+  extension: image/png
+  id: d35ba20a-3fe3-47fa-af2c-1cc811f699ee-tr
   priority: 0
   slug: l-shadow-313641-10876-mid-layer-1-2-zip-essential-ceramiwarm-odlo-product-5
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 4905537d-b6e3-4c11-847c-330012881bf6
+offerId: fd7eccdf-8121-46c6-b214-6f48778ae2d6
 price:
   cents: 4000
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 70
 slug: odlo-essentials-ceramiwarm-midlayer-dames
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Odlo Essentials Ceramiwarm Midlayer | Dames

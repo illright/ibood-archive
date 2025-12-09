@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7e81bd28-f646-40ea-b1f8-05ac5be5c8d5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1716055
-  priority: 1
-  slug: apple-lightning-to-usb-kabel-2-meter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 140b6116-b2ac-4aec-b864-b56ff25a58bb-tr
+  priority: 0
+  slug: apple-lightning-to-usb-kabel-2-meter-jpg-product-1
   type: product
 logo:
   channels:

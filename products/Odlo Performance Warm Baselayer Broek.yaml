@@ -1,12 +1,12 @@
-_id: 692dafd9d090bf57b603cd0d
+_id: 6932aa31e0975e5924bc7142
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - 22586625-6e68-5ac5-8ad5-efd6e45df317
-classicId: '2849322'
+  - af4c2538-61d9-5f4c-8a31-cc387d5b26c3
+classicId: '2862684'
 classicProductId: '661482'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 31
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 902ccbbf-d26c-46f0-904d-e175de721d87
+id: 231e9139-2236-43a7-aa3c-ce812f9c61c8
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: b0e05530-66a6-4453-a0b7-7a6d2801da0e
+    - app
+    - website
+  extension: image/png
+  id: d349c86d-7598-4ffe-a723-e5d01b609860-tr
   priority: 0
-  slug: m-skipper-blue-196201-21119-bl-bottom-long-performance-warm-odlo-product-1
+  slug: m-skipper-blue-196201-21119-bl-bottom-long-performance-warm-odlo-product-3
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 3088cd28-72b4-45f9-874f-1791ff44aef3
+offerId: 94d813f9-bc09-411f-b359-f07717a2260c
 price:
   cents: 5495
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 80
 slug: odlo-performance-warm-baselayer-broek
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Odlo Performance Warm Baselayer Broek

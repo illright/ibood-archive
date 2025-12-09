@@ -19,13 +19,14 @@ freeDelivery: false
 id: 25f1a027-580a-58d7-a703-afd764a1d1d0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1929084
+    - all
+  extension: image/png
+  id: d4b60924-37c7-4657-ba44-aa1bb81fb405
   priority: 0
-  slug: 4x-broste-copenhagen-nordic-sand-bord-26-cm
+  slug: broste-07-png-product-2
   type: product
 logo:
   channels:

@@ -1,12 +1,12 @@
-_id: 692d75a87e8ccbef10b9f366
+_id: 6936a9b53796ced4e72f105b
 appOnly: false
 brand: V-tac
 brands:
   - id: 637fa370-38a1-5b6e-afd0-71abf4d56990
     name: V-tac
 categories:
-  - 80a241ac-e80c-5d47-8a72-fe5c95f3b473
-classicId: '2846530'
+  - 30145539-f1bb-5fc0-9ecf-a164123fc812
+classicId: '2867878'
 classicProductId: '650575'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 80
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 32bfd304-b7e8-4c3f-9cb9-58735b6a6257
+id: 36081d3c-6d84-4461-83e2-77a8097bb1dd
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c2cf0595-14fb-44ed-bc0b-a61a921bad7d
-  priority: 0
-  slug: v-tac-lighting-png-logo-0
+  extension: png
+  id: 1516691
+  priority: 100
+  slug: v-tac-logo
   type: logo
-offerId: 09e632ea-6ec5-4434-bfb4-20ce98e33951
+offerId: dc5c3895-9c27-4a86-a196-2c5e70ef04b2
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 149.9
 slug: v-tac-vt-885-einbauleuchte-mit-samsung-chip-3000-4000-k-5-w
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: '10x V-tac VT-885 Inbouwspot met SAMSUNG-Chip | 3000/4000 K | 5 W '

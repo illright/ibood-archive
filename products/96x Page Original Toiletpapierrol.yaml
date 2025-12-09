@@ -1,12 +1,12 @@
-_id: 692ffc35dc12694395a523d8
+_id: 6936d7f53aadc61d9be5e1e1
 appOnly: false
 brand: Page
 brands:
   - id: 78573945-7b76-556e-a494-594c26062da6
     name: Page
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2850976'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870359'
 classicProductId: '438291'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 17fa9e8b-3f19-4e45-96d4-2339210f0d80
+id: 2a09bb51-0489-430b-a856-042ce13aa516
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: page-original-96-rol-41-product-4
   type: product
-offerId: decf4441-049e-449b-87da-104b23197585
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1535053
+  priority: 100
+  slug: page-logo
+  type: logo
+offerId: 5f57edb6-5bc6-45f3-9085-918026f29407
 price:
   cents: 3295
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 69.99
 slug: 96x-page-original-toiletpapierrol
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 96x Page Original Toiletpapierrol

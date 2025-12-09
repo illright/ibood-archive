@@ -1,30 +1,32 @@
-_id: 692daf4bf676f974d00ae557
+_id: 6932ac53e434543bc3edb071
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - 22586625-6e68-5ac5-8ad5-efd6e45df317
-classicId: '2849239'
-classicProductId: '659572'
+  - e3f96da3-8a07-59cd-93aa-d00d8475d1f5
+classicId: '2862701'
+classicProductId: '659573'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2025-12-08T22:59:59.999Z'
+discount: 54
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: a79d0476-7386-4655-a525-7e9333d297c6
+id: 6afabb22-2ab1-457e-b01d-cc3188a10618
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 25912a9c-5679-4829-8764-42a7415493fc
+    - app
+    - website
+  extension: image/png
+  id: 25912a9c-5679-4829-8764-42a7415493fc-tr
   priority: 0
   slug: s-860-alpine-frost-65892-860-s-w-alpine-insulated-jacket-helly-hansen-product-3
   type: product
@@ -38,16 +40,16 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: ad47bfb0-d279-4855-a683-3f2703504100
+offerId: c15d21dc-668f-476e-9612-dd6ac533aa92
 price:
-  cents: 12995
+  cents: 11995
   currency: EUR
-  value: 129.95
+  value: 119.95
 referencePrice:
   cents: 26000
   currency: EUR
   value: 260
 slug: helly-hansen-w-alpine-geisoleerde-jas-blauw-grijs-dames
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Helly Hansen W Alpine Geïsoleerde Jas | Dames

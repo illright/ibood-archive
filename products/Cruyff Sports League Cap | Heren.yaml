@@ -1,12 +1,12 @@
-_id: 692eb670ee61bedd413c6fb8
+_id: 69369525e0975e5924bc77d0
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 4c1b1812-edef-5aba-ab2d-a4bd896a2793
-classicId: '2850502'
+  - ba17d5b9-66f3-5e37-a3cb-1f27a5380719
+classicId: '2867310'
 classicProductId: '626637'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: f2801960-f98e-48a1-a1e3-c7c89d9eadd9
+id: 5ea4fffe-7cb4-4928-91d8-188a21f0a3e6
 image:
   channels:
     - website
@@ -25,9 +25,20 @@ image:
   extension: png
   id: 2201561
   priority: 0
-  slug: cruyff-sports-league-cap-heren
+  slug: cruyff-sports-league-cap-herren
   type: product
-offerId: cd0fcf99-395c-470b-9b8a-4bd34c8979be
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5e93c162-0eed-407e-88d5-a2eceb20bf41
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: 2ae4e109-55ce-4fcd-ad70-54bf609b8902
 price:
   cents: 995
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 24.95
 slug: cruyff-sports-league-cap-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Cruyff Sports League Cap | Heren

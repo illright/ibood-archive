@@ -19,13 +19,16 @@ freeDelivery: false
 id: 38d2473f-2c98-4ef6-8cb6-7c9b1838ebc7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2036264
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 0637c43a-ff94-428e-a3fb-9ea0b8afc958-tr
   priority: 0
-  slug: beurer-ipl-8500-velvet-skin-pro-ipllaser
+  slug: beurer-velvet-skin-pro-ipl-haarentfernungsgerat-jpg-product-2
   type: product
 logo:
   channels:

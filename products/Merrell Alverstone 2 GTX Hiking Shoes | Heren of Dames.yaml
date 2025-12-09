@@ -1,12 +1,12 @@
-_id: 692d6a57ac03ed6c8b7b3f22
+_id: 6932b3e6648146c20b1201d4
 appOnly: false
 brand: Merrell
 brands:
   - id: d199d883-246f-5414-be80-7a8501ca9f77
     name: Merrell
 categories:
-  - 27275eca-4a6f-53f8-9d1c-562e3f0be9a2
-classicId: '2846125'
+  - fff66d82-673a-521c-a9da-cd70aa519864
+classicId: '2863434'
 classicProductId: '646916'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2025-12-08T22:59:59.000Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: cf25ce74-945b-4956-8483-ce8b4d573e33
+id: e37f658f-055c-4301-a545-f3923f19b385
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1718923
-  priority: 100
-  slug: merrell-logo
+    - all
+  extension: image/png
+  id: 65ffc3f5-ce76-44de-a626-22ce28f045b3
+  priority: 0
+  slug: merrell-copy-png-logo-0
   type: logo
-offerId: 0ef50135-7779-46a2-be6c-b7c7f70f7705
+offerId: eeac013a-6d7f-48f2-8eb1-c9e75014af38
 price:
   cents: 7000
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 155
 slug: merrell-alverstone-2-gtx-hiking-shoes-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Merrell Alverstone 2 GTX Hiking Shoes | Heren of Dames

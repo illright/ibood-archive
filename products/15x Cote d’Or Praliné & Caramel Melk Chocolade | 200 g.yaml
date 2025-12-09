@@ -1,12 +1,12 @@
-_id: 692dac2bd090bf57b603c78b
+_id: 6936d61bef98fd4e3931cd61
 appOnly: false
 brand: Côte d'Or
 brands:
   - id: ab7dfc56-c94d-5442-81e0-77b7e9d942c3
     name: Côte d'Or
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848522'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2869950'
 classicProductId: '676912'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 903e55b6-ca0b-4555-b64a-e5f9e1a5d48b
+id: ab51a928-4bef-4e9e-941a-c45d0badec39
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: 15x-cote-d-or-bbb-praline-caramel-200g-product-0
   type: product
-offerId: 64519ed0-bd9b-4c0a-bf04-c0252caed160
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2031644
+  priority: 100
+  slug: cote-d-or-logo
+  type: logo
+offerId: be90d111-e3ce-48cf-817d-12d2c275cea4
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 74.85
 slug: 15x-cote-d-or-praline-caramel-melk-chocolade-200-g
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 15x Cote d’Or Praliné & Caramel Melk Chocolade | 200 g

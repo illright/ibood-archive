@@ -1,12 +1,12 @@
-_id: 692eb681b440fb3d28b751db
+_id: 693695243aadc61d9be5d66e
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 4c1b1812-edef-5aba-ab2d-a4bd896a2793
-classicId: '2850506'
+  - ba17d5b9-66f3-5e37-a3cb-1f27a5380719
+classicId: '2867319'
 classicProductId: '664571'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: b3401f62-d443-4c41-8fc1-66181e8df4ad
+id: 6fb93545-e73d-4f49-b440-e2747da1bb38
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: cruyff-74-png-product-1
   type: product
-offerId: 9b6a4471-b3ff-49a4-803d-04cfe61793f8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 544355f6-3f0d-4162-8da6-7d45fb4050f2
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: 95067e7e-5a28-439b-8e0b-e4180247e1d0
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 89.95
 slug: cruyff-sports-agate-tracktop-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Cruyff Sports Agate Tracktop | Heren

@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 1afa3e2f-f304-4873-ba38-42a119e33000
+    - app
+    - website
+  extension: image/png
+  id: 1afa3e2f-f304-4873-ba38-42a119e33000-tr
   priority: 0
   slug: xiaomi-watch-2-46mm-zwart-product-0
   type: product
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 199
 slug: xiaomi-watch-2-46-mm-amoled-zwart
-soldOut: false
+soldOut: true
 start: '2025-12-03T23:00:00.000Z'
 title: Xiaomi Watch 2 | 46 mm | AMOLED | Zwart

@@ -1,22 +1,22 @@
-_id: 692d74d3ac03ed6c8b7b3fab
+_id: 6936a8e21eadaba9143b64cd
 appOnly: false
 brand: FlinQ
 brands:
   - id: c5850d1b-064a-5297-987d-113f01df60eb
     name: FlinQ
 categories:
-  - 80a241ac-e80c-5d47-8a72-fe5c95f3b473
-classicId: '2846276'
+  - 30145539-f1bb-5fc0-9ecf-a164123fc812
+classicId: '2867610'
 classicProductId: '552754'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 73
-end: '2025-12-08T22:59:59.999Z'
+discount: 77
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: e89d911b-2a8c-466f-a497-669f26a97c3e
+id: 50c0f85a-8b7a-46d9-bda7-56a6e40d1e73
 image:
   channels:
     - app
@@ -30,16 +30,26 @@ image:
   priority: 0
   slug: flinq-tragbarer-kompressor-jpg-product-1
   type: product
-offerId: a5276ea4-c488-4edb-90d9-e5d212a74653
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2006222
+  priority: 100
+  slug: flinq-logo
+  type: logo
+offerId: 596981e2-4e23-436f-951c-0d01eaa93df8
 price:
-  cents: 3995
+  cents: 3495
   currency: EUR
-  value: 39.95
+  value: 34.95
 referencePrice:
   cents: 14999
   currency: EUR
   value: 149.99
 slug: flinq-premium-wireless-air-compressor
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: FlinQ Premium Wireless Air Compressor

@@ -1,12 +1,12 @@
-_id: 6929703b1c91bc35dc967d7b
+_id: 6936ea853aadc61d9be5e787
 appOnly: false
 brand: GP Batteries
 brands:
   - id: 00814a3a-e5b2-5027-8ff0-496b8f492706
     name: GP Batteries
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2844916'
+  - 2e4daf38-e8c2-53c9-a009-29a27e2c1080
+classicId: '2871110'
 classicProductId: '681056'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: f3f649ea-0317-5277-b71d-0b9f2f0d8498
+id: 79e3eb9b-3030-43c4-ba29-462d80e8e2b0
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: gp-charger-recyko-m451d-8-x-2600-mah-aa-gprckchm452d304-product-0
   type: product
-offerId: ad032147-c296-53f5-b5d7-87e79a7cebb5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1669996
+  priority: 100
+  slug: gp-batteries-logo
+  type: logo
+offerId: a78ac0cb-077d-4256-b482-92f34afdc5d9
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 94.95
 slug: gp-recyko-m451d-sneloplader-8x-aa-2600-mah
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: GP Recyko M451D Sneloplader | 8x AA (2600 mAh)

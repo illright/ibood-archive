@@ -1,12 +1,12 @@
-_id: 692d6a990934537d763a3661
+_id: 6932aa3ce0975e5924bc715a
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - c13087a7-0c84-5d7d-b5a8-dce6d0054c1d
-classicId: '2846210'
+  - af4c2538-61d9-5f4c-8a31-cc387d5b26c3
+classicId: '2862692'
 classicProductId: '573497'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2025-12-08T22:59:59.000Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 3c3b0e96-30f8-4361-990d-e15dc8ae7b94
+id: cfd01526-cebf-4668-96a7-4ee7fb6fc334
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1962609
+    - all
+  extension: image/jpeg
+  id: f474478f-6023-46c5-a8f6-e34de7dda54d
   priority: 0
-  slug: odlo-active-warm-basislaagtop-met-col-heren
+  slug: odlo-active-warm-basislaagtop-met-col-heren-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 67d11308-db4b-49bf-9683-c6a1f6fe9d6d
+offerId: a00e2072-1c90-41bc-9557-812c73696a2e
 price:
   cents: 3750
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 65
 slug: odlo-active-warm-basislaagtop-met-col-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Odlo Active Warm-Basislaagtop met Col | Heren

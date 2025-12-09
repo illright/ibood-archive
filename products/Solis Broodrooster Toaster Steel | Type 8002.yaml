@@ -19,13 +19,14 @@ freeDelivery: false
 id: 26f5b332-e0e7-407f-8af6-06b3751f2158
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1165453
+    - all
+  extension: image/jpeg
+  id: 826c5437-610a-4f44-8d95-ea0550716a61
   priority: 0
-  slug: solis-broodrooster-toaster-steel-type-8002
+  slug: solis-8002-toaster-jpg-product-2
   type: product
 logo:
   channels:

@@ -1,30 +1,32 @@
-_id: 692dafe61cd695c51900ca88
+_id: 6932aa36e0975e5924bc7150
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - 22586625-6e68-5ac5-8ad5-efd6e45df317
-classicId: '2849339'
-classicProductId: '661492'
+  - af4c2538-61d9-5f4c-8a31-cc387d5b26c3
+classicId: '2862689'
+classicProductId: '661493'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 33
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 7ee71f89-98df-4fc8-9e45-9fe6ad38eb9a
+id: 68ceb471-528d-43fb-9551-cc3f45fc8157
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: f6fce414-39c1-4062-a059-4948f12cf259
+    - app
+    - website
+  extension: image/png
+  id: f6fce414-39c1-4062-a059-4948f12cf259-tr
   priority: 0
   slug: l-skipper-blue-196221-21119-bl-top-turtle-neck-l-s-half-zip-performance-warm-odlo-product-0
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 72de2966-8e14-4ecc-940b-f33b9a0b8295
+offerId: e1f54887-120c-47f1-a2c2-06343de0e77a
 price:
   cents: 5995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 90
 slug: odlo-performance-warm-baselayer-1-2-rits-opstaande-kraag
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Odlo Performance Warm Baselayer | 1/2 Rits | Opstaande Kraag

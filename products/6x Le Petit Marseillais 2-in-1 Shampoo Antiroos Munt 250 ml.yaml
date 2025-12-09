@@ -1,12 +1,12 @@
-_id: 692da92d345b6c694a3c9ebc
+_id: 6936d7328a4900518f04937e
 appOnly: false
 brand: Les Petit Marseillais
 brands:
   - id: c88a51c1-f17d-500b-9797-c50de6347ae0
     name: Les Petit Marseillais
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848327'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870202'
 classicProductId: '682443'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 25f28e44-52e0-51fb-b0ac-086d4ca7e82d
+id: 5b9583c5-05d5-4ddd-b365-1c8adef69344
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: shampoo-png-product-1
   type: product
-offerId: becef261-84f8-542c-b157-c69d8a22959c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1749426
+  priority: 100
+  slug: les-petit-marseillais-logo
+  type: logo
+offerId: 3185904e-0777-4295-8832-f1ddcdc00f65
 price:
   cents: 995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 20.7
 slug: le-petit-marseillais-2-in-1-shampoo-antiroos-mint-biologische-essentiele-olien-250ml
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 6x Le Petit Marseillais 2-in-1 Shampoo Antiroos Munt 250 ml

@@ -1,12 +1,12 @@
-_id: 692d6a910934537d763a364b
+_id: 6932aa3508d53693e4468fa5
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - c13087a7-0c84-5d7d-b5a8-dce6d0054c1d
-classicId: '2846201'
+  - af4c2538-61d9-5f4c-8a31-cc387d5b26c3
+classicId: '2862688'
 classicProductId: '661435'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2025-12-08T22:59:59.000Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 359910e1-80ad-4a98-b7f6-17e5f534958f
+id: 73f8fba3-c437-4372-967a-aa1d82cded60
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 0fb757f9-3daa-404c-acb2-2847f7c6f480
+    - app
+    - website
+  extension: image/png
+  id: 09eb1f7f-479e-479a-acb2-bd6d75f91b97-tr
   priority: 0
-  slug: m-skipper-blue-111801-21119-bl-bottom-long-merino-200-odlo-product-3
+  slug: m-skipper-blue-111801-21119-bl-bottom-long-merino-200-odlo-product-1
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 64ec2db4-db16-4b03-a080-c91cbc373661
+offerId: dda5efa2-56b3-43c7-ae9d-b97255009542
 price:
   cents: 5500
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 95
 slug: odlo-natural-merino-200-ski-onderbroek-lang
 soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Odlo Natural Merino 200 Lange Ski Onderbroek

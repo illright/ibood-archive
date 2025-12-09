@@ -19,13 +19,16 @@ freeDelivery: false
 id: 37854ece-471e-49f1-9066-1b05091f2426
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 969558
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 929f4529-76ec-4c8d-bb15-634f06d8c314-tr
   priority: 0
-  slug: 4x-vivo-by-villeroy-boch-rode-wijn-glas
+  slug: 4x-vivo-voice-basic-rotweinglas-png-product-2
   type: product
 logo:
   channels:

@@ -1,12 +1,12 @@
-_id: 692dac99d090bf57b603c81e
+_id: 6936eab5ef98fd4e3931d105
 appOnly: false
 brand: Duracell
 brands:
   - id: c6b14b82-c554-5dd0-b8a1-a8a044452d36
     name: Duracell
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848579'
+  - 2e4daf38-e8c2-53c9-a009-29a27e2c1080
+classicId: '2871129'
 classicProductId: '641013'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: bbb94392-be26-46ef-8453-6c501d1149f7
+id: fdc63060-5200-460d-b1b8-9b1db259d746
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: duracell-logo
   type: logo
-offerId: d5355697-40f8-4b8a-a85e-613041e3bd0a
+offerId: 9bff15de-bc70-43e7-bf44-c16d87443908
 price:
   cents: 2195
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 70.43
 slug: 30x-duracell-optimum-aa-alkaline-batterijen
-soldOut: true
-start: '2025-12-01T23:00:00.000Z'
+soldOut: false
+start: '2025-12-08T23:00:00.000Z'
 title: 30x Duracell Optimum AA Alkaline Batterijen

@@ -19,13 +19,14 @@ freeDelivery: false
 id: f16db574-b158-4532-9af7-0e308649d133
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2032820
+    - all
+  extension: image/png
+  id: 74df127b-40db-46b7-b9ab-c61ae06b7f6b-tr
   priority: 0
-  slug: 2x-apple-kabel-usbc-auf-usb-c-1-m
+  slug: 2x-apple-kabel-usbc-auf-usb-c-1-m-png-product-1
   type: product
 logo:
   channels:

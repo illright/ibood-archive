@@ -1,12 +1,12 @@
-_id: 691f20053427864c221e5075
+_id: 6936a9691eadaba9143b65a1
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 18957068-aab6-5e33-87d0-24f30365448d
-classicId: '2835188'
+  - 30145539-f1bb-5fc0-9ecf-a164123fc812
+classicId: '2867782'
 classicProductId: '682311'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 89
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 017b8783-060c-58bf-812a-9d019ff8090c
+id: 702d500e-c600-469b-9400-7ab250b64a09
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: lv008-png-product-1
   type: product
-offerId: ee8afe81-843e-50a3-a459-42bf3c70ffcd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
+  type: logo
+offerId: 25f2c005-3b87-4e91-a5c8-a77ba14b9ae2
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 263.78
 slug: ledvance-smart-wifi-neon-flex-5m-magic-rgb-outdoor-ledstrip-5m
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Ledvance Smart+ Wifi Neon Flex Magic RGB Outdoor LED Strip | 5M

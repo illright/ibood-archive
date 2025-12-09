@@ -19,13 +19,14 @@ freeDelivery: false
 id: e0ecef70-eb07-4f82-9165-305e28ae6749
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2026064
+    - all
+  extension: image/png
+  id: 4bf09504-04ec-4fcb-95bd-e6925b71e876-tr
   priority: 0
-  slug: umuzi-prullenbak-one-touch-58-l
+  slug: umuzi-prullenbak-one-touch-58-l-jpg-product-2
   type: product
 logo:
   channels:

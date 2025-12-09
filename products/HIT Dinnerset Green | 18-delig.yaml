@@ -19,13 +19,14 @@ freeDelivery: false
 id: a6c370f5-3bb5-498a-b256-8badac10f537
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1758537
-  priority: 100
-  slug: hit-dinnerset-green-18-delig
+    - all
+  extension: image/jpeg
+  id: 8f4ee7e0-3482-4413-b538-af8d1bac8c4a
+  priority: 0
+  slug: hit-geschirrset-18-teilig-jpg-product-0
   type: product
 offerId: c4a15408-7f06-4659-801b-09dca52ab19a
 price:

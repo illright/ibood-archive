@@ -1,12 +1,12 @@
-_id: 692dabca58bfd7cfedbf17bc
+_id: 6936d5c53aadc61d9be5dc63
 appOnly: false
 brand: Bolsius
 brands:
   - id: 96ec547b-ffbd-5fc2-b03f-f14679a99f8d
     name: Bolsius
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848481'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2869908'
 classicProductId: '663340'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: df0abba2-14dd-474c-9749-891f03b3d20b
+id: 7b49be52-6a0f-4e6f-b81b-c7e4b9466a40
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: bolsius-114-png-product-1
   type: product
-offerId: e4818522-8430-4d2b-83e0-4d63dcd6af1f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1580436
+  priority: 100
+  slug: bolsius-logo
+  type: logo
+offerId: f1b11ba9-920a-4399-9ef5-fb8c653f785c
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 33.9
 slug: 10x-bolsius-stompkaars-bordeaux-150-58-mm
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 10x Bolsius Stompkaars Bordeaux | 150/58 mm

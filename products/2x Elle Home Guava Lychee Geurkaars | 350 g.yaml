@@ -1,12 +1,12 @@
-_id: 6925c7e458c0f8bbec72d370
+_id: 6936d6963aadc61d9be5ddeb
 appOnly: false
 brand: ELLE
 brands:
   - id: 958f3645-6602-55c6-9154-58e0e04e7907
     name: ELLE
 categories:
-  - ba5312ec-cbc7-5d02-9f0e-4c0aa42a810a
-classicId: '2842463'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870034'
 classicProductId: '681661'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 75
 end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 83a31b48-bc8d-5ef2-941a-691caa11c399
+id: 83c2b939-3f7d-4ffa-8e7e-f00f621010ab
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: elle-home-03-png-product-1
   type: product
-offerId: c6c1474f-75af-59aa-b421-c0786d34eab9
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008169
+  priority: 100
+  slug: elle-logo
+  type: logo
+offerId: 4e2b45ae-23ee-44f6-bfa5-52335011ae77
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 72
 slug: 2x-elle-home-guava-lychee-geurkaars-350-g
 soldOut: false
-start: '2025-12-03T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Elle Home Guava Lychee Geurkaars | 350 g

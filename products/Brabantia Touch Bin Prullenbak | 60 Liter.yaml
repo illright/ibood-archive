@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2666dd95-ad96-4b2c-bb76-22b98f87dea4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2114287
-  priority: 100
-  slug: brabantia-touch-bin-abfalleimer-60-liter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: abcb1095-287a-4757-8b05-779f96ee4782-tr
+  priority: 0
+  slug: brabantia-touch-bin-abfalleimer-60-liter-jpg-product-101
   type: product
 logo:
   channels:

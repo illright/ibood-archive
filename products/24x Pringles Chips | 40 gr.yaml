@@ -1,32 +1,31 @@
-_id: 692dae53a64993043665af0c
+_id: 6936d8303aadc61d9be5e238
 appOnly: false
 brand: Pringles
 brands:
   - id: 5f9015ca-9864-5db7-98f4-1a5b9303da0f
     name: Pringles
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2848944'
-classicProductId: '486978'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870395'
+classicProductId: '661299'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 29
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 340a24b0-9aa9-4ca8-84f1-a31a3feb9372
+id: 95de934a-0ca1-4e3f-94a1-1d09c4e109fe
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 47d99db3-7081-4ba3-8bd5-ee1518450092
+  extension: jpg
+  id: 1423161
   priority: 0
-  slug: pringles-01-png-product-1
+  slug: 24x-pringles-versch-sorten-40-g
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: pringles-logo
   type: logo
-offerId: 97bcf55e-9a4a-47b5-b524-321b7206520a
+offerId: 0b6808b3-9ec8-4e08-8d71-4821b773cf9e
 price:
   cents: 1695
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 24
 slug: 24x-pringles-chips-40-gr
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 24x Pringles Chips | 40 gr

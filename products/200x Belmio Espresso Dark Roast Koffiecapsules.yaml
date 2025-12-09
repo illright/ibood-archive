@@ -1,12 +1,12 @@
-_id: 69203c5a7cff776b31b21f04
+_id: 6936d5a23aadc61d9be5dbd9
 appOnly: false
 brand: BELMIO
 brands:
   - id: 18574202-9c8c-5c86-89ce-03901f63a8a2
     name: BELMIO
 categories:
-  - 10a04c34-4695-5a72-b2d6-b5dd10e4c999
-classicId: '2837349'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2869874'
 classicProductId: '680280'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 7d564def-63a6-55bf-81c4-93c4e969305c
+id: 25dc4ba1-f79b-4f25-b440-07e4e9cdb106
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: belmio-01-png-product-1
   type: product
-offerId: 308d5bb1-91f5-5a74-8c8f-f858927786ca
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1801363
+  priority: 100
+  slug: belmio-logo
+  type: logo
+offerId: 86a05c85-9b90-4bdb-ab7c-69e92fb24db2
 price:
   cents: 3195
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 79.8
 slug: 200x-belmio-espresso-dark-roast-koffiecapsules
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 200x Belmio Espresso Dark Roast Koffiecapsules

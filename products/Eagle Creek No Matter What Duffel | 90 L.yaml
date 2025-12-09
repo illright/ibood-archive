@@ -1,12 +1,12 @@
-_id: 692d6a6458bfd7cfedbf0e52
+_id: 6932ba6ae0975e5924bc71e3
 appOnly: false
 brand: Eagle Creek
 brands:
   - id: ef7f1938-b585-5c4e-94b1-689d0d45e4d7
     name: Eagle Creek
 categories:
-  - 2c468e2f-5fdc-5e90-be17-df9b73866930
-classicId: '2846145'
+  - 8cfc50bf-88da-5809-a054-f10adadd0a88
+classicId: '2863493'
 classicProductId: '636877'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 54
-end: '2025-12-08T22:59:59.000Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: bd8778e5-e9a7-4e91-a7b3-e3f6332b5150
+id: 966c5f9a-cd76-4d48-a7d5-c432349488bb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2251933
+    - all
+  extension: image/png
+  id: 09caf117-7823-4f94-bb13-f2c88c4fd277
   priority: 0
-  slug: eagle-creek-reisetasche-90-l
+  slug: 2-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: eagle-creek-logo
   type: logo
-offerId: e089cce9-d9f9-4de8-ba19-31b5903bc832
+offerId: 3fed7dd4-cb66-4c50-8c17-9dd97675e19d
 price:
   cents: 5500
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 120
 slug: eagle-creek-no-matter-what-duffel-90-l
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Eagle Creek No Matter What Duffel | 90 L

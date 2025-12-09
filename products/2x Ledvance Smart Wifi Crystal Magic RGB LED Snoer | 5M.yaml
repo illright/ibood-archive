@@ -1,12 +1,12 @@
-_id: 691f1de9afe8356ad9ee84e4
+_id: 6936a9503796ced4e72f0ff1
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 18957068-aab6-5e33-87d0-24f30365448d
-classicId: '2835148'
+  - 30145539-f1bb-5fc0-9ecf-a164123fc812
+classicId: '2867750'
 classicProductId: '682316'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 90
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: b5a3c56c-f1be-579b-b23f-9c3d8dfe1e55
+id: c7cabd12-7c6d-4f26-86a7-c75182eea1db
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7e82e6c5-18a4-49c0-99b9-3eb3fb810dac
-  priority: 0
-  slug: ledvance-png-logo-0
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
   type: logo
-offerId: 9e12f8e8-a28e-5540-8975-f6dcadc3bca1
+offerId: de1d2505-bd27-4965-b07d-6b9750ad5b84
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 254.1
 slug: 2x-ledvance-smart-wifi-crystal-magic-rgb-led-snoer-5m
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Ledvance Smart Wifi Crystal Magic RGB LED Snoer | 5M

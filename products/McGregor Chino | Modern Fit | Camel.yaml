@@ -1,12 +1,12 @@
-_id: 6932d2a6e0975e5924bc7434
+_id: 6936dc7de0975e5924bc7f06
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - ff81957c-13c9-5c1d-9c07-dd74eea75533
-classicId: '2864198'
+  - 236e591a-dc2a-5717-9d8a-ef3402339685
+classicId: '2870657'
 classicProductId: '627757'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 83
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-12T22:59:59.999Z'
 freeDelivery: false
-id: 3adb7c36-3e99-4641-8be3-86d43ec1269c
+id: 48cfd867-ef83-4f68-baba-3fa19d8c4f9d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e2649208-4f59-432b-ad60-0829fd327ecf
-  priority: 0
-  slug: mcgregor-chino-modern-fit-camel-logo-0
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
   type: logo
-offerId: 271c78c0-b96f-4964-9eec-9b829692b8b0
+offerId: 3b384e20-4970-429b-b492-364b4fcbf928
 price:
   cents: 1995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 119.95
 slug: mcgregor-chino-modern-fit-camel
-soldOut: true
-start: '2025-12-07T23:00:00.000Z'
+soldOut: false
+start: '2025-12-08T23:00:00.000Z'
 title: McGregor Chino | Modern Fit | Camel

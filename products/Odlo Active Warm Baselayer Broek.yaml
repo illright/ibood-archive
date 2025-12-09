@@ -1,12 +1,12 @@
-_id: 692d6a9bac03ed6c8b7b3f77
+_id: 6932aa3c08d53693e4468fb5
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - c13087a7-0c84-5d7d-b5a8-dce6d0054c1d
-classicId: '2846211'
+  - af4c2538-61d9-5f4c-8a31-cc387d5b26c3
+classicId: '2862693'
 classicProductId: '661466'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,20 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2025-12-08T22:59:59.000Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 0ca67137-4fd7-416e-90d0-e7bae44968bc
+id: db9b89ee-a779-4b99-b56c-e1e0a9fea28b
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 864fe7fb-66cc-425d-a5b8-b94ae59783c4
+    - app
+  extension: image/png
+  id: c4f25b43-305a-4aa5-b919-a093f567afa3-tr
   priority: 0
-  slug: xl-blue-heron-159121-21073-bl-bottom-long-active-warm-odlo-product-4
+  slug: xl-blue-heron-159121-21073-bl-bottom-long-active-warm-odlo-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 8dd4499f-bbc2-407e-9a4f-3c87deff6f4d
+offerId: c8e02c27-8a78-4ab8-940b-525693740905
 price:
   cents: 3500
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 60
 slug: odlo-active-warm-baselayer-broek
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Odlo Active Warm Baselayer Broek

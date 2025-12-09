@@ -1,12 +1,12 @@
-_id: 692da7dbd090bf57b603c5e7
+_id: 693695235dd5f5c851bf56bd
 appOnly: false
 brand: Siux
 brands:
   - id: 90eea59b-d5f0-528a-9a70-451dccb50cc9
     name: Siux
 categories:
-  - 222fe072-d61b-5cb3-b31f-3178b5cce09c
-classicId: '2848297'
+  - 761d12ff-c549-5963-bcb0-03fd00b18d73
+classicId: '2867317'
 classicProductId: '679049'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 50bbf3b9-19fe-414d-8c13-90b660a83c6a
+id: 66b2813d-b467-4904-83b5-5a915a7a105f
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: siux-trilogy-elite-5-padelracket-product-3
   type: product
-offerId: ae460487-28fb-4a8f-8e03-77029281afc8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1699254
+  priority: 100
+  slug: siux-logo
+  type: logo
+offerId: 1ad636a6-6ee3-490c-a869-dbf769a5f3ce
 price:
   cents: 11995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 229.95
 slug: siux-trilogy-elite-5-padelracket
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Siux Trilogy Elite 5 Padelracket | Gevorderde Speler

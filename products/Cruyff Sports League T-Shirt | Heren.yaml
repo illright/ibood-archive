@@ -1,12 +1,12 @@
-_id: 692eb69dfdfbabd2b069dd95
+_id: 6936954a3aadc61d9be5d6aa
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 4c1b1812-edef-5aba-ab2d-a4bd896a2793
-classicId: '2850519'
+  - ba17d5b9-66f3-5e37-a3cb-1f27a5380719
+classicId: '2867387'
 classicProductId: '626592'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 67
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 23f2cc5b-774a-44e2-8cee-664479926c74
+id: 31874ffe-c6f8-4dbe-9828-6beddb57a710
 image:
   channels:
     - website
@@ -25,9 +25,20 @@ image:
   extension: png
   id: 2201433
   priority: 0
-  slug: cruyff-sports-league-t-shirt-heren
+  slug: cruyff-sports-league-tee-herren
   type: product
-offerId: 61dd671e-2cc0-49ff-a323-269ae006294b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: dd02139e-14de-40e0-9423-e49def7a7d34
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: 70cc711c-6152-4b88-933a-e595299219cf
 price:
   cents: 1300
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 39.95
 slug: cruyff-sports-league-t-shirt-heren
 soldOut: false
-start: '2025-12-01T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: Cruyff Sports League T-Shirt | Heren

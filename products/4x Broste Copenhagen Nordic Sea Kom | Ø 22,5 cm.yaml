@@ -19,13 +19,14 @@ freeDelivery: false
 id: cfff0d03-5b75-521a-9a71-5a01e1042e41
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1929206
+    - all
+  extension: image/png
+  id: 933a2a5c-6d84-47bb-bed3-ecb44affde6a
   priority: 0
-  slug: 4x-broste-copenhagen-nordic-sea-kom-225-cm
+  slug: broste-10-png-product-2
   type: product
 logo:
   channels:

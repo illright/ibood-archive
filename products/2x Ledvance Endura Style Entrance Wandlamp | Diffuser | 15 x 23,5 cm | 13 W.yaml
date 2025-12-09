@@ -1,12 +1,12 @@
-_id: 691f1ce4167386c92bcea21d
+_id: 6936a9221eadaba9143b6537
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 18957068-aab6-5e33-87d0-24f30365448d
-classicId: '2834890'
+  - 30145539-f1bb-5fc0-9ecf-a164123fc812
+classicId: '2867688'
 classicProductId: '682306'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 84
-end: '2025-12-08T22:59:59.999Z'
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 13420487-792c-5e0b-b02d-210c7ebc89a2
+id: 61dd4554-5545-4b89-9f27-b801c318b6d3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c23227fe-1505-4719-8462-294c7e34917a
-  priority: 0
-  slug: ledvance-png-logo-0
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
   type: logo
-offerId: ff40e770-52a0-5cc2-a9a8-edf4cb59613d
+offerId: 5a891f7c-9dce-46d6-a742-b602dc0cebd2
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 145.2
 slug: 2x-ledvance-endura-style-entrance-wandlamp-diffuser-15-x-23-5-cm-13-w
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Ledvance Endura Style Entrance Wandlamp | Diffuser | 15 x 23,5 cm | 13 W

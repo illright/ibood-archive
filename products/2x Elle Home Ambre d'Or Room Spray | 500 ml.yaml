@@ -1,12 +1,12 @@
-_id: 6926bdd36725b74a52d4c037
+_id: 6936d6933aadc61d9be5dde6
 appOnly: false
 brand: ELLE
 brands:
   - id: 958f3645-6602-55c6-9154-58e0e04e7907
     name: ELLE
 categories:
-  - ba5312ec-cbc7-5d02-9f0e-4c0aa42a810a
-classicId: '2842529'
+  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
+classicId: '2870032'
 classicProductId: '681663'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 75
 end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 38a8f96d-cfc6-5cfb-927f-55373f8a9d1f
+id: 872375b8-9f2f-4cb5-bae9-08ec2264f998
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: elle-home-05-png-product-1
   type: product
-offerId: ceaae22f-d189-521e-b080-e105b62ca522
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008169
+  priority: 100
+  slug: elle-logo
+  type: logo
+offerId: 80c78db0-d66d-4f43-b5cc-403d277d0739
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 72
 slug: 2x-elle-home-ambre-d-or-room-spray-500-ml
 soldOut: false
-start: '2025-12-03T23:00:00.000Z'
+start: '2025-12-08T23:00:00.000Z'
 title: 2x Elle Home Ambre d'Or Room Spray | 500 ml
