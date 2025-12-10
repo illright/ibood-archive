@@ -19,13 +19,14 @@ freeDelivery: false
 id: e0b04ce5-330e-4249-873d-b1c27987c8e1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 800100
+    - all
+  extension: image/jpeg
+  id: b6025020-4f42-471e-86ce-afe163f1f21a
   priority: 0
-  slug: davidoff-champion-edt-spray-90-ml
+  slug: davidoff-champion-edt-1-jpg-product-1
   type: product
 logo:
   channels:
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 76
 slug: davidoff-champion-edt-spray-90-ml
-soldOut: false
+soldOut: true
 start: '2025-12-03T23:00:00.000Z'
 title: Davidoff Champion EdT Spray | 90 ml

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 17953b41-6b3f-491a-81f3-7fab503bc1db
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1465785
+    - all
+  extension: image/png
+  id: 1d10cc55-64af-48fc-9b42-9ed5d44f76af
   priority: 0
-  slug: moschino-uomo-edt-125-ml
+  slug: moschino-uomo-edt-125-ml-png-product-1
   type: product
 logo:
   channels:

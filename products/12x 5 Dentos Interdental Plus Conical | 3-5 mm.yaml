@@ -19,13 +19,16 @@ freeDelivery: false
 id: 38e12e03-401d-4042-98f4-b22f0316d268
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1363873
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 68565214-af01-40aa-b40f-66c1eaa12ae8-tr
   priority: 0
-  slug: 12x-5-dentos-interdental-plus-conical-3-5-mm
+  slug: 12x-5-dentos-plus-interdentalsticks-35-mm-jpg-product-1
   type: product
 logo:
   channels:

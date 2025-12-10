@@ -1,12 +1,12 @@
-_id: 69369fbf1eadaba9143b646c
+_id: 6937fa7f071d4deb65c5621f
 appOnly: false
 brand: Merten & Storck
 brands:
   - id: 1f22db4d-07cd-52f3-a651-ec68c3d140aa
     name: Merten & Storck
 categories:
-  - 1a2f9b63-00c4-5cb4-b945-1ab35522f9aa
-classicId: '2867533'
+  - ee56cbf9-a730-5106-bfa2-e7e7fffd4ab6
+classicId: '2872236'
 classicProductId: '666660'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 2cc9ecce-0002-4a77-8ec2-5a51199d0024
+id: 4440ee53-55b5-482c-b402-e9074bc446f5
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: cc005063-001-merten-storck-3-ply-rvs-koekenpannen-26-en-30-cm-inclusief-deksels-product-1
   type: product
-offerId: 5f3993e8-bc6a-4ec9-a730-f30f4016bac3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8314efd0-10c7-44a7-ae46-2d1e51852bb7
+  priority: 0
+  slug: merten-storck-logo-0
+  type: logo
+offerId: 38d495df-6434-4e90-8083-4a76c536fbe2
 price:
   cents: 6995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 149.9
 slug: merten-storck-tri-ply-rvs-koekenpannenset-incl-deksel-26-30-cm
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Merten & Storck Tri-Ply RVS Koekenpannenset incl. Deksel | 26 & 30 cm

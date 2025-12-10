@@ -19,13 +19,16 @@ freeDelivery: false
 id: 0d706e7a-bdbf-4adf-bffd-bdb582c2aa11
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1307091
+  extension: image/png
+  id: e3573d1e-ed2e-45b0-bd46-f6b1b80a32ab-tr
   priority: 0
-  slug: calvin-klein-ck-all-edt-spray-200-ml
+  slug: calvin-klein-ck-all-edt-jpg-product-1
   type: product
 logo:
   channels:

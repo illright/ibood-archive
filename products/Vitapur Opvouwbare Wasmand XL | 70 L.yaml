@@ -1,12 +1,12 @@
-_id: 692eaf70e6960e0d47547836
+_id: 6937f9f750d8db655c7bf7b5
 appOnly: false
 brand: Vitapur
 brands:
   - id: f2bb1029-752b-5ecd-ac20-e147b580e5e5
     name: Vitapur
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849715'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872057'
 classicProductId: '570642'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: c94ec285-8fec-4755-8f29-dc419ce47142
+id: bcbf5bab-db78-46b4-809b-756e52cc492a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1956375
+    - all
+  extension: image/jpeg
+  id: 4624f2c6-0cd3-43cc-a4a2-4f79cd546c2a
   priority: 0
-  slug: vitapur-opvouwbare-wasmand-xl-70-l
+  slug: vitapur-faltbarer-waschekorb-70-l-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: vitapur-logo
   type: logo
-offerId: 358c918f-b5d1-4dee-b7f3-7ff3470766b5
+offerId: ab1e1bb8-f676-4da6-b527-9336ee6811a2
 price:
   cents: 3995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: vitapur-opvouwbare-wasmand-xl-70-l
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Vitapur Opvouwbare Wasmand XL | 70 L

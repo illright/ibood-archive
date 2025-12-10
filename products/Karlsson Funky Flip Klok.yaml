@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1f211ec7-8177-4ac8-bef4-79e05d2abbe7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2211124
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b4294804-93af-4dd6-892a-ff7ad9c2ebff-tr
   priority: 0
-  slug: karlsson-funky-flip-wand-und-tischuhr
+  slug: karlsson-funky-flip-wand-und-tischuhr-2-jpg-product-1
   type: product
 logo:
   channels:

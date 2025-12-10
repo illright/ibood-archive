@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6183f686-002d-4a72-9654-99d822229d64
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1659082
-  priority: 100
-  slug: 6x-dettol-lavendel-navulling-500-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 440c5278-21c9-482f-8434-8d0cbb8e960b-tr
+  priority: 0
+  slug: 6x-dettol-waschgel-nachfullpack-lavendel-png-product-101
   type: product
 logo:
   channels:

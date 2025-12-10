@@ -1,12 +1,12 @@
-_id: 692eaf76345868d3ddd0523b
+_id: 6937f9ff58bf0055d09cc440
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849727'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872063'
 classicProductId: '612462'
 deliveryPrice:
   cents: 895
@@ -14,31 +14,31 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 23
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 331a1718-9379-4d4c-aefd-909aaeb0b5fd
+id: dd3a4f9d-664c-43d9-b14d-ebcae2b909f1
 image:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: jpg
-  id: 2130001
-  priority: 0
-  slug: leifheit-pegasus-200-solid-comfort-waschestander
-  type: product
-logo:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 3bbc0528-831f-4348-830e-162d7f9b6e18
+  extension: image/jpeg
+  id: cc23e0bc-06f1-4747-a498-177cbb4c9e00
   priority: 0
-  slug: leifheit-png-logo-0
+  slug: leifheit-pegasus-200-solid-comfort-waschestander-jpg-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1831727
+  priority: 100
+  slug: leifheit-logo
   type: logo
-offerId: 94059ccf-02e6-4cfe-aa0c-04d69fb61953
+offerId: 7f4bde0d-03ea-4b49-8bf9-6fa4067de35c
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 64.99
 slug: leifheit-droogrek-pegasus-200-20-m-drooglengte
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Leifheit Droogrek Pegasus 200 Solid Comfort | 20 meter drooglengte

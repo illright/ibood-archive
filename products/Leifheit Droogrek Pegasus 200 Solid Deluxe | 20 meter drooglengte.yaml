@@ -1,12 +1,12 @@
-_id: 692eaf7a8db0289e7ada12b4
+_id: 6937fa0dad6fef851f183bf6
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849700'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872103'
 classicProductId: '406572'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 20
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 09d696c7-5f95-4706-9fb2-29da239976cf
+id: 9fff43ac-ce2c-4ff8-a72f-1cfb0d917fad
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1347774
+    - all
+  extension: image/jpeg
+  id: 74799367-1402-48bd-87f3-2673de11acd5
   priority: 0
-  slug: suszarka-na-pranie-leifheit-pegasus-200-solid
+  slug: suszarka-na-pranie-leifheit-pegasus-200-solid-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: leifheit-logo
   type: logo
-offerId: 5908b930-5107-4316-bf98-2369ab0047b0
+offerId: ece3172f-44e1-4984-b5a9-74a3ff3207c5
 price:
   cents: 5995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 74.99
 slug: leifheit-droogrek-pegasus-200-20-m-drooglengte
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Leifheit Droogrek Pegasus 200 Solid Deluxe | 20 meter drooglengte

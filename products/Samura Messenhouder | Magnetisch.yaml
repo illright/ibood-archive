@@ -1,12 +1,12 @@
-_id: 692eafd5ad132244d686010a
+_id: 6937f9c4071d4deb65c560dc
 appOnly: false
 brand: Samura
 brands:
   - id: 3a5fdc44-5875-5e72-8076-0dcea8fa54a6
     name: Samura
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2850020'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2871983'
 classicProductId: '676509'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 9813e784-6d82-4990-a6e5-3d099c552e70
+id: ca5fc0f0-b41a-4f08-8945-af219474b293
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: a52f3ae4-fa9d-40e9-ba39-b27621615881
+    - app
+    - website
+  extension: image/png
+  id: a52f3ae4-fa9d-40e9-ba39-b27621615881-tr
   priority: 0
   slug: samura-magnetic-knife-holder-rubber-wood-385x49x18-product-1
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: samura-logo
   type: logo
-offerId: aef0ef34-402b-463a-89c6-a027f4f8044e
+offerId: 0c3b751d-4b43-4ce8-be04-d85519dac717
 price:
   cents: 1195
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 19.99
 slug: samura-messenhouder-magnetisch
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Samura Messenhouder | Magnetisch

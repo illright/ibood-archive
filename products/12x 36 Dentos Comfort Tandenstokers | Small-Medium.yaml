@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6e949567-895f-41ba-9901-8fe710b434c5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1363882
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7c8a833b-1a38-4589-bd30-7dad441ef69c-tr
   priority: 0
-  slug: 12x-36-dentos-comfort-tandenstokers-s-m
+  slug: 432x-dentos-comfort-interdentalsticks-s-jpg-product-1
   type: product
 logo:
   channels:

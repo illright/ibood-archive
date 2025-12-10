@@ -19,13 +19,16 @@ freeDelivery: false
 id: f63168c1-21ce-4da7-8843-1e1c330107fb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1166101
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5b670d43-67e8-4fa1-91fc-88e31bac6525-tr
   priority: 0
-  slug: 2x-davidoff-zino-deo-stick-75-gr
+  slug: 2x-davidoff-zino-deo-stick-75-ml-jpg-product-1
   type: product
 logo:
   channels:

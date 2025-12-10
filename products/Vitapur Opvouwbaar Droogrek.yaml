@@ -1,12 +1,12 @@
-_id: 692eaf368db0289e7ada1246
+_id: 6937f9fb50d8db655c7bf7b9
 appOnly: false
 brand: Vitapur
 brands:
   - id: f2bb1029-752b-5ecd-ac20-e147b580e5e5
     name: Vitapur
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849627'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872060'
 classicProductId: '489605'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 8cb44236-6b3e-4cde-a9c5-df1693792e3a
+id: a1667e70-32ff-49f3-8ae2-8e5d9ce35756
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1649162
+    - all
+  extension: image/jpeg
+  id: 8a6fc320-949d-4a64-9d7c-433b2e402464
   priority: 0
-  slug: vitapur-opvouwbaar-droogrek
+  slug: vitapur-waschestander-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: vitapur-logo
   type: logo
-offerId: d1fbe100-cbc5-4743-9bb1-f8c2f37a7fcf
+offerId: 1ad8095d-54a0-4c89-ab42-835e8eca9bfb
 price:
   cents: 4995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: vitapur-opvouwbaar-droogrek
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Vitapur Opvouwbaar Droogrek

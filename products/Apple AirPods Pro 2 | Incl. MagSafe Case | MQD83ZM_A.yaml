@@ -19,13 +19,16 @@ freeDelivery: false
 id: 915997f2-9120-45aa-8d20-eba892e8972a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1473999
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5a6f592f-4e52-459a-b704-b36098f42aaf-tr
   priority: 0
-  slug: apple-airpods-pro-2-magsafe-case
+  slug: apple-airpods-pro-2-magsafe-ladecase-png-product-3
   type: product
 logo:
   channels:

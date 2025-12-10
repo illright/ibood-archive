@@ -19,13 +19,16 @@ freeDelivery: false
 id: bd0a1041-e135-5732-8488-b8cd893baa8c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 404963
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e28d54b2-5e9e-411e-a0c9-580a14b84349-tr
   priority: 0
-  slug: hsm-wandregal-levels-56-x-22-x-32
+  slug: hsm-wandregal-levels-56-x-22-x-32-png-product-1
   type: product
 offerId: 27040e30-5b16-54f6-b885-e5c307141613
 price:

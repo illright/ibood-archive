@@ -1,12 +1,12 @@
-_id: 692eaf4b345868d3ddd051f7
+_id: 6937f9ea071d4deb65c56141
 appOnly: false
 brand: METALTEX
 brands:
   - id: dd2f31fe-63f5-5d4c-9a29-e7344cb68aac
     name: METALTEX
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849639'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872040'
 classicProductId: '604669'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 27
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 240a7db5-e8d6-475b-84ba-9483477fffa6
+id: dce51596-573f-4af1-9713-876a816bc93a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2097413
+    - all
+  extension: image/jpeg
+  id: 9088f30d-8e17-402b-848d-162463306142
   priority: 0
-  slug: metaltex-kuchenwagen-3-ebenen
+  slug: metaltex-kuchenwagen-3-ebenen-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: metaltex-logo
   type: logo
-offerId: a5a0f595-ca42-4496-8529-b13d683ef2b3
+offerId: 44cb1f55-e86a-4827-a6c7-5f09fcbc62cc
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 33.99
 slug: metaltex-keukentrolley-3-manden
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Metaltex Keukentrolley | 3 Manden

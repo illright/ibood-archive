@@ -19,13 +19,16 @@ freeDelivery: false
 id: f1479282-3fc4-4168-a01d-b876c6b1c941
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 538656
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b3f85428-4b53-4bbd-89e0-54251a6a9ee8-tr
   priority: 0
-  slug: 3x-davidoff-cool-water-aftershave-75ml
+  slug: 3x-davidoff-cool-water-man-aftershave-jpg-product-1
   type: product
 logo:
   channels:

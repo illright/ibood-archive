@@ -19,15 +19,26 @@ freeDelivery: false
 id: f08b927b-70d6-4232-bf53-dab441775850
 image:
   channels:
+    - newsletter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 97df36ee-4077-4188-9784-cd050d8f0433
+  priority: 0
+  slug: sun-04-png-product-1
+  type: product
+logo:
+  channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: 0ccf94a9-a031-475d-990b-bb11e93a0eb2
+  id: 19c4468e-395e-4631-a750-7e25cc79fc1d
   priority: 0
-  slug: sun-01-png-product-1
-  type: product
+  slug: sun-png-logo-0
+  type: logo
 offerId: 1c29371b-83d0-4d02-9d03-1517c534c326
 price:
   cents: 4795

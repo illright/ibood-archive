@@ -1,31 +1,34 @@
-_id: 69369fd01eadaba9143b6472
+_id: 6937f9b258bf0055d09cc3c7
 appOnly: false
 brand: Mauviel 1830
 brands:
   - id: 02547635-0087-5f5f-b714-da42dbc0de7c
     name: Mauviel 1830
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2867539'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2871948'
 classicProductId: '611075'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 75
-end: '2025-12-09T22:59:59.999Z'
+discount: 68
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: cf71d360-6c36-4764-a529-abd856b661af
+id: 5189048b-5a6c-4aee-b0eb-fdc4372ef8ec
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2154701
+    - all
+    - app
+    - website
+  extension: image/png
+  id: af6cd191-bb1a-4de7-abfd-3aa20b7ed4a3-tr
   priority: 0
-  slug: 4x-mauviel-1830-dessertteller-21-cm
+  slug: 4x-mauviel-1830-dessertteller-21-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,16 +40,16 @@ logo:
   priority: 100
   slug: mauviel-1830-logo
   type: logo
-offerId: 4e09df80-d61b-4890-88fc-fcc01733a1a5
+offerId: bde6ee80-73a0-4d78-9ae7-c48f81a65078
 price:
-  cents: 995
+  cents: 1295
   currency: EUR
-  value: 9.95
+  value: 12.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: mauviel-1830-ontbijtbord-21-cm-4-stuks
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Mauviel 1830 - Ontbijtbord | 21 cm | 4 stuks

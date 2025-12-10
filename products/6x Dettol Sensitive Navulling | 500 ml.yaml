@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6237078e-4dc5-48f9-a152-68d65de8d226
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1659081
-  priority: 100
-  slug: 6x-dettol-sensitive-navulling-500-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 97bedca1-3391-4407-9cb6-ef312ba1ab92-tr
+  priority: 0
+  slug: 6x-dettol-waschgel-nachfullpack-sensitive-png-product-101
   type: product
 logo:
   channels:

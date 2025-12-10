@@ -1,12 +1,12 @@
-_id: 692eafe6e6960e0d47547924
+_id: 6937faf950d8db655c7bf93d
 appOnly: false
 brand: Crowd Cookware
 brands:
   - id: 98a951d4-74aa-5f99-a578-fdab2ceb714c
     name: Crowd Cookware
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2850042'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872383'
 classicProductId: '627604'
 deliveryPrice:
   cents: 595
@@ -14,20 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 7cb4f2e1-05eb-40fd-819d-769c5f979e99
+id: 19397c63-1810-4863-9891-d41e33b0d2ce
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2221667
+    - all
+  extension: image/png
+  id: 7d6c6894-6098-4c01-9309-b77a1e931013-tr
   priority: 0
-  slug: crowd-cookware-koksmes-slijpsteen
+  slug: crowd-cookware-wigbold-kuchenmesser-jpg-product-1
   type: product
-offerId: e879493c-c2d9-457f-8d9e-1e82843d964b
+offerId: 7c64e980-1b3d-415e-8357-1337c253da93
 price:
   cents: 4995
   currency: EUR
@@ -38,5 +39,5 @@ referencePrice:
   value: 89
 slug: crowd-cookware-koksmes-slijpsteen
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Crowd Cookware Koksmes + Slijpsteen

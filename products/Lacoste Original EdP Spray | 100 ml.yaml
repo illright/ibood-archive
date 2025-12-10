@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2d95a058-7747-422b-b72b-1cfd7a12c42b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2118069
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 35672a17-4a6f-4710-87d0-eb4fe8591ccc-tr
   priority: 0
-  slug: lacoste-original-edp-spray-100-ml
+  slug: lacoste-original-eau-de-parfum-herren-100-ml-jpg-product-1
   type: product
 logo:
   channels:

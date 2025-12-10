@@ -1,12 +1,12 @@
-_id: 692eaf40e6960e0d475477e2
+_id: 6937f9e8d5bedc30bee1136d
 appOnly: false
 brand: METALTEX
 brands:
   - id: dd2f31fe-63f5-5d4c-9a29-e7344cb68aac
     name: METALTEX
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849618'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872030'
 classicProductId: '604671'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 986ff953-85ac-4490-a5e4-8e1e73216dc9
+id: 63c28fd6-340d-4472-9104-55d270d0452b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2097418
-  priority: 100
-  slug: metaltex-tokyo-line-organizer-keuken
+    - all
+  extension: image/jpeg
+  id: 5db7ab77-13eb-4d59-8d70-db39901c15f5
+  priority: 0
+  slug: metaltex-tokyo-kuchenutensilienhalter-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: metaltex-logo
   type: logo
-offerId: 3f58da8c-b932-4d56-9a74-71e4659e633c
+offerId: f6bb62c0-5ae7-43d6-bb7d-8c3ec51bfca9
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 31.99
 slug: metaltex-tokyo-line-organizer-keuken
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Metaltex Tokyo Line Organizer Keuken

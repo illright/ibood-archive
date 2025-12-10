@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/avif
-  id: 1ae91adc-19c7-44bb-a2a3-ad43faa9d193
+    - app
+    - website
+  extension: image/png
+  id: 1ae91adc-19c7-44bb-a2a3-ad43faa9d193-tr
   priority: 0
   slug: jpg-classique-shower-gel-200ml-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: cc88497c-dfcf-4212-9e1c-d3b5631a0b8f
+  priority: 0
+  slug: jean-paul-gaultier-png-logo-0
+  type: logo
 offerId: df90de4a-45bc-4a28-b640-c2ee0bda1c3d
 price:
   cents: 1995

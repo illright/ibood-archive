@@ -1,12 +1,12 @@
-_id: 692eafaeb440fb3d28b750bf
+_id: 6937fa1a58bf0055d09cc49d
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849926'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872114'
 classicProductId: '258809'
 deliveryPrice:
   cents: 595
@@ -14,30 +14,32 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 4474ce0d-f0a0-47f2-afa9-de080cdf0493
+id: 8580aefb-c475-483a-a8f1-b546aa4f9460
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 705734
+    - all
+  extension: image/jpeg
+  id: b746a0fd-20ea-418c-bcf6-5cf52c5e3a58
   priority: 0
-  slug: pyrex-cg-schalenset-rond-of-rechthoekig-3-delig
+  slug: 3x-pyrex-cook-go-glasgefa-rund-o-eckig-jpg-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1617623
-  priority: 100
-  slug: pyrex-cg-schalenset-rond-of-rechthoekig-3-delig
+    - all
+  extension: image/png
+  id: 752a9045-7a03-43bb-b0c5-d6365973ed06
+  priority: 0
+  slug: pyrex-logo-0
   type: logo
-offerId: 45bd146c-7549-4b78-8668-31740f6ce215
+offerId: 53595c58-0aff-4da9-9f4e-04fb44d954b2
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +50,5 @@ referencePrice:
   value: 37.5
 slug: pyrex-cg-schalenset-rond-of-rechthoekig-3-delig
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Pyrex Cook & Go Schalenset Rond of Rechthoekig | 3-delig

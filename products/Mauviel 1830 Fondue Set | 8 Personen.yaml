@@ -1,22 +1,22 @@
-_id: 692eaf7b345868d3ddd05251
+_id: 6937f9dcad6fef851f183b73
 appOnly: false
 brand: Mauviel 1830
 brands:
   - id: 02547635-0087-5f5f-b714-da42dbc0de7c
     name: Mauviel 1830
 categories:
-  - 1a2f9b63-00c4-5cb4-b945-1ab35522f9aa
-classicId: '2849734'
+  - 9add0fde-2d93-519b-b245-72333fb2b994
+classicId: '2872013'
 classicProductId: '461478'
 deliveryPrice:
-  cents: 595
+  cents: 895
   currency: EUR
-  value: 5.95
-directCheckout: true
+  value: 8.95
+directCheckout: false
 discount: 71
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 40ccd691-9b40-4fd4-aba7-f9499086e135
+id: 17c998eb-2540-4833-bd6b-b87c53997457
 image:
   channels:
     - app
@@ -34,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1566274
+  id: 1546719
   priority: 100
-  slug: mauviel-1830-logo
+  slug: zestaw-do-fondue-mauviel
   type: logo
-offerId: 905a3a3d-2194-4619-8867-4f7498964eea
+offerId: 911ad954-2883-4b70-987f-f8a3aa0b7bad
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 139.99
 slug: mauviel-1830-fondue-set
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Mauviel 1830 Fondue Set | 8 Personen

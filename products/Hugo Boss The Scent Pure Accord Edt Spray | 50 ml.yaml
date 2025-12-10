@@ -19,13 +19,16 @@ freeDelivery: false
 id: 870048b8-8928-492d-9ceb-04d77fd16961
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1883442
-  priority: 100
-  slug: hugo-boss-the-scent-pure-accord-edt
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 471f4102-b871-4e05-a021-8c672851978a-tr
+  priority: 0
+  slug: hugo-boss-the-scent-pure-accord-edt-jpg-product-101
   type: product
 logo:
   channels:

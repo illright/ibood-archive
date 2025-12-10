@@ -1,12 +1,12 @@
-_id: 692eafb6a46fe9ba2c1b42fa
+_id: 6937fa7058bf0055d09cc514
 appOnly: false
 brand: Esschert Design
 brands:
   - id: ff3ac434-56dc-56f4-bc4e-28eb43eec8d7
     name: Esschert Design
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849962'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872212'
 classicProductId: '556728'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 35
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 74d55061-0f2a-43e5-b30a-130d3d854be0
+id: 1adecaab-4d71-4279-8aae-65e700826fc6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1875440
+    - all
+  extension: image/jpeg
+  id: 47e72315-39b8-4d9d-9135-07cfb7ec4d36
   priority: 0
-  slug: esschert-design-notenkraker
+  slug: esschert-design-nussknacker-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: esschert-design-logo
   type: logo
-offerId: 98f1d13c-cf66-43ce-9ba9-1b2d2f2ec54d
+offerId: d4bd8c7e-802e-4f29-8129-096f296c86a5
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 22.99
 slug: esschert-design-notenkraker
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Esschert Design Notenkraker

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 413e3cc5-997e-4d00-8082-9c411ef861d5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1955512
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9ad6d1ed-d8f2-4308-8473-88a4d8f99f36-tr
   priority: 0
-  slug: 2x-elle-home-oude-vermeil-geurkaars-350-g
+  slug: 2x-elle-home-oud-vermeil-duftkerze-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4ec1f084-44b6-4388-b3f2-6b0993159530
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1909484
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 683290e1-51f7-4b76-ac63-bade772f0ab4-tr
   priority: 0
-  slug: 12x-colgate-cool-mint-zahnpasta-100-ml
+  slug: 12x-colgate-cool-mint-zahnpasta-100-ml-png-product-1
   type: product
 logo:
   channels:

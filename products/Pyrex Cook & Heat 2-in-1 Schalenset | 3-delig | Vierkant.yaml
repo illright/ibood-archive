@@ -1,12 +1,12 @@
-_id: 692eafd011795c0305c7d4b4
+_id: 6937faff50d8db655c7bf94d
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2850011'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872390'
 classicProductId: '166061'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: edf1bc0e-4c2a-475e-bce9-3ec754513ac8
+id: 8dede135-ff62-40ff-a777-6ccff52d88d5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1801478
+    - all
+  extension: image/png
+  id: 73f3b968-766d-4221-afe4-33746ea8b27c
   priority: 0
-  slug: 3x-pyrex-cook-heat-glasgefa
+  slug: pyrex-26-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 0
   slug: pyrex-logo-0
   type: logo
-offerId: e1cf17ca-4bf5-4b49-a25a-b1c07e98c5cb
+offerId: 32cfb064-d92a-4829-b3d9-d436d923dc11
 price:
   cents: 2795
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 53.4
 slug: pyrex-ch-schalenset-3-delig
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Pyrex Cook & Heat 2-in-1 Schalenset | 3-delig | Vierkant

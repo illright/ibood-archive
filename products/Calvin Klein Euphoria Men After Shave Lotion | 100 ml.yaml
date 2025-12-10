@@ -19,13 +19,14 @@ freeDelivery: false
 id: 2c26f134-9669-44aa-bce0-a70c41f9c927
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2132387
+    - all
+  extension: image/png
+  id: 688eb71c-fb39-4f2f-898c-a5946524fa28-tr
   priority: 0
-  slug: calvin-klein-euphoria-men-after-shave-lotion
+  slug: calvin-klein-euphoria-men-after-shave-lotion-jpg-product-1
   type: product
 logo:
   channels:

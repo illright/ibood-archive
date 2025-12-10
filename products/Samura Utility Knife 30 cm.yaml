@@ -1,12 +1,12 @@
-_id: 692eaf9a345868d3ddd05290
+_id: 6937f9f3d5bedc30bee11397
 appOnly: false
 brand: Samura
 brands:
   - id: 3a5fdc44-5875-5e72-8076-0dcea8fa54a6
     name: Samura
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849834'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872058'
 classicProductId: '567098'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: cb209eac-ba34-4687-9f73-5906404393be
+id: dfcbb1e1-b967-4c0c-a70f-7acf7de52548
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1966530
+    - all
+  extension: image/jpeg
+  id: 7664a72b-722e-4940-87b5-b9449f4c770b
   priority: 0
-  slug: samura-utility-knife-30-cm
+  slug: samura-stark-allzwecksmesser-30-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: samura-logo
   type: logo
-offerId: f444c698-284f-4c4b-aedb-e4010173e479
+offerId: 3fa0067b-80cb-496b-85dc-a300f28be20d
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 74.99
 slug: samura-utility-knife-30-cm
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Samura Utility Knife 30 cm

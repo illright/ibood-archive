@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 3bbf961b-1ce9-480a-abeb-14f3fee699cd
+    - app
+    - website
+  extension: image/png
+  id: 3bbf961b-1ce9-480a-abeb-14f3fee699cd-tr
   priority: 0
   slug: 6x-bertolli-pasta-sauce-erbe-pouch-460gr-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4fcd5c3d-ef66-42c0-9a76-ec9c034a6634
+  priority: 0
+  slug: bertolli-png-logo-1
+  type: logo
 offerId: 4ff0ba2a-865a-467f-bb10-41e2f2180324
 price:
   cents: 2195

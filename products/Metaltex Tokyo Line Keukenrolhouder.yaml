@@ -1,12 +1,12 @@
-_id: 692eaf80ad132244d6860077
+_id: 6937fa0ed5bedc30bee113cb
 appOnly: false
 brand: METALTEX
 brands:
   - id: dd2f31fe-63f5-5d4c-9a29-e7344cb68aac
     name: METALTEX
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849743'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872088'
 classicProductId: '604673'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,20 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: ab37b03d-99c9-4a12-96ea-3607fbd6a5fb
+id: 7ca823e6-d5c2-4782-b5f3-6835b6a4ba43
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2097426
+    - all
+    - website
+  extension: image/png
+  id: e508c5ea-af3d-4d0f-a2a1-7dd624bcc784-tr
   priority: 0
-  slug: metaltex-tokyo-line-keukenrolhouder
+  slug: metaltex-tokyo-tablett-und-kuchenrollenhalter-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +39,7 @@ logo:
   priority: 100
   slug: metaltex-logo
   type: logo
-offerId: f83c8d82-4d3c-4507-9522-93fe0d22ef36
+offerId: 296ad0bc-4c63-40e7-a085-534ec299371f
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +50,5 @@ referencePrice:
   value: 29.99
 slug: metaltex-tokyo-line-keukenrolhouder
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Metaltex Tokyo Line Keukenrolhouder

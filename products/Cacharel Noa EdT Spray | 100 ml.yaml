@@ -19,13 +19,14 @@ freeDelivery: false
 id: 920bdb11-f255-43a9-a411-81a3eee097c8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1118632
+    - all
+  extension: image/jpeg
+  id: 0dadea71-a7b3-4332-88a4-5e5b8b0c0aa7
   priority: 0
-  slug: cacharel-noa-edt-100-ml
+  slug: cacharel-noa-edt-100-ml-jpg-product-1
   type: product
 logo:
   channels:

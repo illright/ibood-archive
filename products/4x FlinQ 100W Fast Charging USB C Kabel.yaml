@@ -1,31 +1,34 @@
-_id: 693009de8f53578cc486e9c1
+_id: 6936dbc9e0975e5924bc7ead
 appOnly: false
 brand: FlinQ
 brands:
   - id: c5850d1b-064a-5297-987d-113f01df60eb
     name: FlinQ
 categories:
-  - 1e544097-d36f-5217-ac8e-b94af9481294
-classicId: '2851475'
-classicProductId: '621266'
+  - 64a9d219-b9fb-5050-9189-3a5c14b5b377
+classicId: '2870620'
+classicProductId: '683515'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 63
-end: '2025-12-10T22:59:59.999Z'
+discount: 75
+end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 841e17e5-64da-4a4b-995a-05c132d4c4c3
+id: 3c93c159-e9ec-5c45-a166-188a6b2433ac
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1919123
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 54a3717e-b79e-4147-83ea-63bcfc371a83-tr-tr
   priority: 0
-  slug: 4x-flinq-100w-fast-charging-usb-c-kabel
+  slug: 4x-flinq-usb-c-ladekabel-100-w-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,16 +40,16 @@ logo:
   priority: 100
   slug: flinq-logo
   type: logo
-offerId: 8ecc4620-2e4a-4af7-b450-8ed32dd3f5b3
+offerId: c0f7a18c-045c-5422-9da2-d72d2843d58a
 price:
-  cents: 2995
+  cents: 1995
   currency: EUR
-  value: 29.95
+  value: 19.95
 referencePrice:
   cents: 7998
   currency: EUR
   value: 79.98
 slug: 4x-flinq-100w-fast-charging-usb-c-kabel
 soldOut: false
-start: '2025-12-03T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: 4x FlinQ 100W Fast Charging USB C Kabel

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 24d08e90-6d5f-411a-a597-13d0ef950e70
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1955509
+    - all
+    - app
+    - website
+  extension: image/png
+  id: a9536f4c-8a2c-4cf4-948f-b4ed09218e54-tr
   priority: 0
-  slug: 2x-elle-home-figuier-duftkerze
+  slug: 2x-elle-home-figuier-duftkerze-jpg-product-1
   type: product
 logo:
   channels:

@@ -1,12 +1,12 @@
-_id: 692eaf8f345868d3ddd0527f
+_id: 6937fa2cad6fef851f183c3a
 appOnly: false
 brand: Vitapur
 brands:
   - id: f2bb1029-752b-5ecd-ac20-e147b580e5e5
     name: Vitapur
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849792'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872134'
 classicProductId: '489607'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 10ae1171-784e-4489-8794-fecd828f460a
+id: 517144ea-fea0-436e-b1c9-9f3b3c77333b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1649175
-  priority: 100
-  slug: vitapur-droogrek-xxl
+    - all
+  extension: image/jpeg
+  id: bf6f6f1a-8248-444a-ae85-f23e94a38d7f
+  priority: 0
+  slug: vitapur-waschestander-xxl-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: vitapur-logo
   type: logo
-offerId: 807676af-8cb3-447f-9b63-05926e1968bd
+offerId: 530aefcd-6432-46f5-a9d7-b14c0798ade9
 price:
   cents: 5995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 119.95
 slug: vitapur-droogrek-xxl
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Vitapur Droogrek XXL

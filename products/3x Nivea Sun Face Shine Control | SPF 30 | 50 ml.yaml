@@ -19,13 +19,16 @@ freeDelivery: false
 id: 57b84a07-b271-4166-923a-894274b04a9a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2235372
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3dfaf236-621d-43cf-a97a-bc0b5258bdfd-tr
   priority: 0
-  slug: 3x-nivea-sun-face-shine-control-spf-30-50-ml
+  slug: 3x-nivea-sun-sonnencreme-gesicht-spf-30-png-product-1
   type: product
 logo:
   channels:

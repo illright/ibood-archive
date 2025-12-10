@@ -1,12 +1,12 @@
-_id: 692eafa111795c0305c7d471
+_id: 6937fa2c58bf0055d09cc4d4
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849867'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872129'
 classicProductId: '193164'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: a5e9b00b-841e-4d90-b900-fc4caad8a5fb
+id: 21136507-bd23-44c3-9e38-49738e2db3aa
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: f0412610-9d1d-4c7d-95f9-851e0fad5cfd
+  id: f0412610-9d1d-4c7d-95f9-851e0fad5cfd-tr
   priority: 0
   slug: 9-png-product-1
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: pyrex-logo-0
   type: logo
-offerId: 1b5d1056-a93f-4507-bf3f-5e891c796a31
+offerId: 1d69a3c6-da32-4b52-9c71-bfdb8aa9e41a
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 45
 slug: pyrex-set-hoge-vershouddozen-met-deksel-3-delig
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Pyrex Set Hoge Vershouddozen met Deksel | 3-delig

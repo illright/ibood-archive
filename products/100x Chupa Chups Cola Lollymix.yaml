@@ -19,13 +19,14 @@ freeDelivery: false
 id: 4f51e667-960a-4ac2-bdcc-b01c89f474c7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1001836
-  priority: 100
-  slug: 100x-chupa-chups-lollies-cola-cola-zitrone
+    - all
+  extension: image/png
+  id: 70ba3f0b-67eb-4b6d-b4b9-9d586896acfb
+  priority: 0
+  slug: bulk-13-png-product-101
   type: product
 logo:
   channels:

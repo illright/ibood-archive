@@ -1,12 +1,12 @@
-_id: 692eaf3cad132244d685fffb
+_id: 6937f9e558bf0055d09cc41a
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849623'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872024'
 classicProductId: '253396'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 650d5aff-4d76-404e-8420-22202d67fcb8
+id: b2a59532-d641-4590-9470-cb350e94bb1e
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 5c6088be-c748-407b-b1de-f36760e08cdf
+    - app
+    - website
+  extension: image/png
+  id: 5c6088be-c748-407b-b1de-f36760e08cdf-tr
   priority: 0
   slug: joseph-joseph-folio-schneidebrett-set-jpg-product-2
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: joseph-joseph-logo
   type: logo
-offerId: b175f5e3-9a2b-4696-be55-85b77f39452d
+offerId: f8301ad4-c9b5-47ea-ba1e-8c9dd68a7be2
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 99.99
 slug: joseph-joseph-6-delige-folio-snijplankenset
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Joseph Joseph Folio Snijplankenset inclusief Chef's Knife

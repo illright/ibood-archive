@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 51af03b9-e7e4-481e-a903-d9ce7b5d61c5
+    - app
+    - website
+  extension: image/png
+  id: 51af03b9-e7e4-481e-a903-d9ce7b5d61c5-tr
   priority: 0
   slug: 6x-bertolli-pasta-sauze-piccante-pouch-460gr-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e80ea6c1-c3c8-423d-8ee2-60c21ae92d4b
+  priority: 0
+  slug: bertolli-png-logo-0
+  type: logo
 offerId: d7aec87d-43aa-4893-a920-b2266ceaaf6f
 price:
   cents: 2195

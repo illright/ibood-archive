@@ -19,13 +19,14 @@ freeDelivery: false
 id: bdece0e0-7ee3-49ed-aef3-591a5880b7e8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1235132
-  priority: 100
-  slug: salvatore-ferragamo-pour-homme-edt
+    - all
+  extension: image/jpeg
+  id: 018b1b01-4766-41ac-b744-e80483bf72f5
+  priority: 0
+  slug: salvatore-ferragamo-pour-homme-edt-jpg-product-101
   type: product
 logo:
   channels:

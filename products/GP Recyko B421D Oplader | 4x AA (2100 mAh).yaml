@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: a4ac6959-34a0-434b-9838-1445d46c6a6c
+    - app
+    - website
+  extension: image/png
+  id: a4ac6959-34a0-434b-9838-1445d46c6a6c-tr
   priority: 0
   slug: gp-charger-recyko-b421d-4x-2100-mah-aa-gprckchb441d267-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 134e61d4-9442-4927-8bf5-26d7f06ec084
+  priority: 0
+  slug: gp-png-logo-0
+  type: logo
 offerId: a7756851-1a77-4e1c-9b37-87e4ec2d704b
 price:
   cents: 2295

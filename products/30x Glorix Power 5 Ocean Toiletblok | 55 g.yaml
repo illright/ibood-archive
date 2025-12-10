@@ -19,13 +19,16 @@ freeDelivery: false
 id: e587415c-155f-457c-bc09-a9969a7283eb
 image:
   channels:
-    - newsletter
     - app
     - website
-  extension: jpg
-  id: 2207444
+    - newsletter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 63296c28-7294-418b-9ec7-bf20163a57a8-tr
   priority: 0
-  slug: 30x-glorix-power-5-wc-stein-ocean
+  slug: 30x-glorix-power-5-wc-stein-ocean-jpg-product-1
   type: product
 logo:
   channels:

@@ -1,13 +1,13 @@
-_id: 6932dfbb6c77c80268f01e4c
+_id: 6932e02a1ec8eb660bd91f2e
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - 4b989450-9ced-5aa6-b09a-f4df24fb9b6b
-classicId: '2865468'
-classicProductId: '501228'
+  - b1debe60-9c2b-514f-8567-47da745211dd
+classicId: '2865666'
+classicProductId: '297502'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,16 @@ directCheckout: true
 discount: 66
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: d37dcd0a-1a7d-4e02-9147-c35209a31472
+id: 30346b12-e0cc-4578-9126-121a1f324da0
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 880632
+  extension: png
+  id: 880610
   priority: 0
-  slug: lifa-living-schapenvacht-xl
+  slug: lifa-living-xl-schaffell-ca-70-x-100-cm
   type: product
 logo:
   channels:
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: lifa-living-logo
   type: logo
-offerId: 7f81d39f-cdd8-44d4-a7fb-36b5d5382cf5
+offerId: 7bdfaafc-067f-49d6-9281-336baa8b730b
 price:
   cents: 2195
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 64.95
 slug: lifa-living-schapenvacht-xl
-soldOut: false
+soldOut: true
 start: '2025-12-07T23:00:00.000Z'
 title: Lifa Living Schapenvacht XL

@@ -1,12 +1,12 @@
-_id: 692eaf93e6960e0d475478a2
+_id: 6937fa18ad6fef851f183c15
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849813'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872111'
 classicProductId: '612463'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 19
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: eab1f78a-5be4-436e-816b-580978af1e02
+id: 48001183-c50f-4ffe-b12a-f672560588c2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2130012
+    - all
+  extension: image/jpeg
+  id: 3005ed4b-3da1-4f04-b8c3-461445afa01d
   priority: 0
-  slug: leifheit-telegant-81-protect-wandwaschetrockner
+  slug: leifheit-telegant-81-protect-wandwaschetrockner-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: leifheit-logo
   type: logo
-offerId: 09dd99b6-82b8-4da9-8cdd-0315150327b5
+offerId: 94ce66ca-655a-4b6e-9e6d-ae59d2613ab7
 price:
   cents: 4295
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 52.99
 slug: leifheit-wanddroogrek-8-m-drooglengte
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Leifheit Wanddroogrek 81 Protect Plus | 8 meter drooglengte

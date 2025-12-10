@@ -19,13 +19,14 @@ freeDelivery: false
 id: ab47c232-0308-472d-b4ad-6255be445ce7
 image:
   channels:
-    - newsletter
     - app
     - website
-  extension: jpg
-  id: 1277038
+    - newsletter
+    - all
+  extension: image/png
+  id: 6e2df81d-d405-4f50-b3fb-7c530665e1fa
   priority: 0
-  slug: 100x-philips-alkaline-batterie
+  slug: bulk-01-png-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 8156f549-1d4c-4fb9-9117-6125c4e69b11
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1499335
-  priority: 100
-  slug: paco-rabanne-pure-xs-men-edt-100-ml
+    - all
+  extension: image/png
+  id: 2516c4ef-18da-4a03-bcf0-b15c6b785235
+  priority: 0
+  slug: paco-rabanne-pure-xs-men-edt-png-product-101
   type: product
 logo:
   channels:

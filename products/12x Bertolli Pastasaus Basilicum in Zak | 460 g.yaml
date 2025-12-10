@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 468c5e90-845d-49d6-b535-476b1d1e051b
+    - app
+    - website
+  extension: image/png
+  id: 468c5e90-845d-49d6-b535-476b1d1e051b-tr
   priority: 0
   slug: 6x-bertolli-pasta-sauce-basilico-pouch-460gr-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: dc82ca7d-72b6-4145-9ac3-5b354b610c93
+  priority: 0
+  slug: bertolli-png-logo-0
+  type: logo
 offerId: 1bcb1ad2-6bb8-4525-81ad-a5063788d5a1
 price:
   cents: 2195

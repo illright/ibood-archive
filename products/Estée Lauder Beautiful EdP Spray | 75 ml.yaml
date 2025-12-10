@@ -19,13 +19,14 @@ freeDelivery: false
 id: 2bcffc4e-a1c2-4ef7-a7bf-8bea889a9418
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1470038
-  priority: 100
-  slug: estee-lauder-beautiful-edp
+    - all
+  extension: image/jpeg
+  id: adb45b97-170a-4c40-8ad0-27dbce84608e
+  priority: 0
+  slug: estee-lauder-beautiful-edp-jpg-product-101
   type: product
 logo:
   channels:

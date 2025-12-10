@@ -19,13 +19,14 @@ freeDelivery: false
 id: 9a5f45a2-ae37-4039-a7aa-2d2581dcd9b0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1636956
+    - all
+  extension: image/png
+  id: 2d9a531f-c3e1-418b-b885-e32df9497ba1
   priority: 0
-  slug: 12x-guylian-opus-belgische-pralinen
+  slug: bulk-17-png-product-1
   type: product
 offerId: fb9ec7e1-fe60-4074-8d36-81342c132073
 price:

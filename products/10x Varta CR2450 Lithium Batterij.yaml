@@ -19,13 +19,16 @@ freeDelivery: false
 id: 219e3650-d126-45d4-81ac-177f6c3ee01a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485382
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7401c836-ead2-417f-8dcf-362f81d2270f-tr
   priority: 0
-  slug: 10x-varta-cr2450-lithium-batterie
+  slug: 10x-varta-cr2450-lithium-batterie-jpg-product-1
   type: product
 logo:
   channels:

@@ -1,12 +1,12 @@
-_id: 692eaf9ae6960e0d475478b2
+_id: 6937fa7a58bf0055d09cc527
 appOnly: false
 brand: METALTEX
 brands:
   - id: dd2f31fe-63f5-5d4c-9a29-e7344cb68aac
     name: METALTEX
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849842'
+  - 9add0fde-2d93-519b-b245-72333fb2b994
+classicId: '2872226'
 classicProductId: '604667'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: b239ea34-0553-42b9-92d6-87763f2adab0
+id: 1c6f9ccf-c5a5-4bde-bddd-6aaf95ee06d0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2102634
+    - all
+    - app
+    - website
+  extension: image/png
+  id: aaf1a9ea-9f66-40cc-842e-58c153a5de33-tr
   priority: 0
-  slug: metaltex-kuchenwagen-pisa-4-ebenen
+  slug: metaltex-kuchenwagen-pisa-4-ebenen-1-jpg-product-3
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: metaltex-logo
   type: logo
-offerId: 975424fc-403f-4f52-997a-52b662b38618
+offerId: de8a3fc7-e525-4f40-b59e-4d1e31813481
 price:
   cents: 2195
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 32.99
 slug: metaltex-pisa-opbergrek-trolley-4-manden
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Metaltex Pisa Opbergrek Trolley | 4 Manden

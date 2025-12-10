@@ -1,12 +1,12 @@
-_id: 692eafb7a46fe9ba2c1b4305
+_id: 6937fae1d5bedc30bee1152b
 appOnly: false
 brand: RCR
 brands:
   - id: 7416aa81-c2b8-518a-9f83-32817e55652c
     name: RCR
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849961'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872345'
 classicProductId: '660229'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 36
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 55287c03-6f1d-4b19-bb64-596704ecb912
+id: 2346da63-830e-467e-b3b3-333b3b256ec7
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: a57b863c-0711-4c45-b591-ae23edeb5773
+    - app
+    - website
+  extension: image/png
+  id: a57b863c-0711-4c45-b591-ae23edeb5773-tr
   priority: 0
   slug: rcr-18-delige-glazenset-opera-product-3
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: rcr-logo-0
   type: logo
-offerId: 8edeabba-db79-4dac-8a63-3d3069a8bf82
+offerId: 4baae594-11da-47f9-8dac-a3a0e1780e4e
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 93.3
 slug: rcr-opera-glazenset-18-delig
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: RCR Opera Glazenset | 18-delig

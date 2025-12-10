@@ -19,13 +19,16 @@ freeDelivery: false
 id: c4df71ea-a0aa-4f7d-8580-9c847a551892
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 869900
-  priority: 100
-  slug: 6x-rexona-men-invisible-deo-spray-150-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b0400f87-eeef-4a6b-a576-377f7b4fb884-tr
+  priority: 0
+  slug: 6x-rexona-invisible-deo-150-ml-jpg-product-101
   type: product
 logo:
   channels:

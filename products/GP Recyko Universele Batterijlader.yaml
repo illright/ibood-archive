@@ -19,13 +19,16 @@ freeDelivery: false
 id: 8f0f1b3f-7ae5-4861-84de-5d72457a4c92
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2242167
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 4e827444-7a86-460a-9e5e-f56d56213eee-tr
   priority: 0
-  slug: gp-recyko-b631-universal-akkuladegerat
+  slug: gp-recyko-b631-universal-akkuladegerat-jpg-product-1
   type: product
 logo:
   channels:

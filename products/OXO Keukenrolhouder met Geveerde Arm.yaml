@@ -1,12 +1,12 @@
-_id: 692eaf38e6960e0d475477d5
+_id: 6937f9e2071d4deb65c56123
 appOnly: false
 brand: OXO
 brands:
   - id: 6c02d4fd-b956-53db-8b7c-18f6ab5f2422
     name: OXO
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849612'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872025'
 classicProductId: '583301'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 73ff3776-bc7a-414a-beea-c7b538ac06e0
+id: 3d51d19a-dad8-4c58-9895-d9399132f3d7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1994743
-  priority: 100
-  slug: oxo-kuchenrollenhalter-mit-federaktivem-arm
+    - all
+  extension: image/jpeg
+  id: c6e4b262-3a2a-4741-a2a7-b95debf711b3
+  priority: 0
+  slug: oxo-kuchenrollenhalter-mit-federaktivem-arm-jpg-product-101
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 0
   slug: oxo-logo-0
   type: logo
-offerId: 671a97b9-99ab-419e-b684-0c99f067897f
+offerId: fbe0103e-fbd1-447d-96a8-590b837c1dc9
 price:
   cents: 2195
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 34.95
 slug: oxo-keukenrolhouder-met-geveerde-arm
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: OXO Keukenrolhouder met Geveerde Arm

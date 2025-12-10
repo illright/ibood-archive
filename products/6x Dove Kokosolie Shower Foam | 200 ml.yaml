@@ -19,13 +19,16 @@ freeDelivery: false
 id: 3db2f817-9bc5-4364-a775-2adc70eb082e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1366965
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7ceb9010-e8f6-40d1-8c81-e6ab8fee7701-tr
   priority: 0
-  slug: 6x-200-ml-dove-kokosolie-shower-foam
+  slug: 6x-dove-kokos-duschschaum-200-ml-jpg-product-1
   type: product
 logo:
   channels:
@@ -46,7 +49,7 @@ referencePrice:
   cents: 4470
   currency: EUR
   value: 44.7
-slug: 6x-200-ml-dove-kokosolie-shower-foam
+slug: 6x-dove-kokosolie-shower-foam-200-ml
 soldOut: false
 start: '2025-12-08T23:00:00.000Z'
 title: 6x Dove Kokosolie Shower Foam | 200 ml

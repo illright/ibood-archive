@@ -19,13 +19,16 @@ freeDelivery: false
 id: eaa47441-51a5-4a1d-ac65-9d88223e2bde
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1198706
+    - all
+    - app
+    - website
+  extension: image/png
+  id: efc4c263-72a4-436f-9b39-199f6e3eb35b-tr
   priority: 0
-  slug: 6x-rexona-dry-quantum-deodorant-150-ml
+  slug: 6x-rexona-quantum-dry-deodorant-jpg-product-1
   type: product
 logo:
   channels:

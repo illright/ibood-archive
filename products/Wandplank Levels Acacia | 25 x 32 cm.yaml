@@ -19,13 +19,16 @@ freeDelivery: false
 id: 76732fce-24ce-5cc1-b289-b62bc11b1449
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 363694
+    - all
+    - app
+    - website
+  extension: image/png
+  id: fc7eacae-75a3-4231-bedb-c5e2568b103a-tr
   priority: 0
-  slug: wandregal-ebene-akazie-25-x-32-cm
+  slug: wandregal-ebene-akazie-25-x-32-cm-jpg-product-1
   type: product
 offerId: 3c80f53e-5303-5bf4-bae5-1c7c42d95893
 price:

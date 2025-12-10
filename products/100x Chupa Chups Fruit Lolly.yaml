@@ -19,13 +19,14 @@ freeDelivery: false
 id: 8d06cda6-a43d-4697-9313-94ba5f7bb462
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1303607
+    - all
+  extension: image/png
+  id: cce638a1-a42a-4eba-9c82-7a167bbc70bd
   priority: 0
-  slug: 100x-chupa-chups-frucht-lollies
+  slug: bulk-06-png-product-1
   type: product
 logo:
   channels:

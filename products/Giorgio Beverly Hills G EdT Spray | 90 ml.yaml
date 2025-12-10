@@ -19,13 +19,14 @@ freeDelivery: false
 id: 5485aa16-9e63-4ec7-9f32-515530b69f9e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1129819
-  priority: 100
-  slug: giorgio-beverly-hills-g-edp-90-ml
+    - all
+  extension: image/jpeg
+  id: e959c459-707f-4520-a876-469303a64d35
+  priority: 0
+  slug: giorgio-beverly-hills-g-edp-90-ml-jpg-product-101
   type: product
 logo:
   channels:

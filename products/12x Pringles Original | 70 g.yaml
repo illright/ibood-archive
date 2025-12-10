@@ -19,13 +19,16 @@ freeDelivery: false
 id: e749c19b-4e9c-4e30-ae81-b590ec735c43
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2183853
-  priority: 100
-  slug: 12x-pringles-original-70-g
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 8ee6d93f-b4df-47a3-ae12-799834f9dc3c-tr
+  priority: 0
+  slug: 12x-pringles-chips-original-70-g-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 60d1348f-d8fc-59f1-ae97-200d1001c3dd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 404967
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1397fc8c-5b3a-4ee8-9460-30d63541f90d-tr
   priority: 0
-  slug: hsm-collection-wandregal-levels-70-x-22-x-32
+  slug: hsm-collection-wandregal-levels-70-x-22-x-32-jpg-product-1
   type: product
 offerId: ca3bc2e2-c539-5e7f-80ef-4bc571707d9c
 price:

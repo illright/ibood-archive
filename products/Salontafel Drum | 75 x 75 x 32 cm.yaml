@@ -19,13 +19,14 @@ freeDelivery: false
 id: e2e459ce-9e30-55d1-bc63-a505cb45d132
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1980373
+    - all
+  extension: image/jpeg
+  id: 3ca1e712-598a-4795-be7b-a05cfc669350
   priority: 0
-  slug: hsm-collection-drum-beistelltisch-75-x-32-cm
+  slug: hsm-collection-drum-beistelltisch-75-x-32-cm-jpg-product-1
   type: product
 offerId: 090f977d-c4b2-5a78-b6b2-14bb46db2b24
 price:

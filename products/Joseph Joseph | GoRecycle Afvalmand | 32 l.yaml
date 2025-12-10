@@ -1,12 +1,12 @@
-_id: 692eaf108db0289e7ada11fa
+_id: 6937f9bcad6fef851f183b4c
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849523'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2871967'
 classicProductId: '400794'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 24bffcfb-ed42-41e4-b4ba-d37c7c247b19
+id: a3d96c9d-c2eb-471f-ab23-81b4f81da872
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1331784
-  priority: 100
-  slug: kosz-joseph-joseph-gorecycle-32-l
+    - all
+  extension: image/jpeg
+  id: 310d5487-d325-400c-8a61-5901969354d4
+  priority: 0
+  slug: kosz-joseph-joseph-gorecycle-32-l-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: joseph-joseph-logo
   type: logo
-offerId: d730d837-d4c4-4470-9c2f-89a319f0ee70
+offerId: ebe699cc-8b9b-419a-abed-4eca7823010b
 price:
   cents: 3495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 79.99
 slug: joseph-joseph-gorecycle-afvalmand-32-l
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Joseph Joseph | GoRecycle Afvalmand | 32 l

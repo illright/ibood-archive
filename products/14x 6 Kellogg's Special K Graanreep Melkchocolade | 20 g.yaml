@@ -19,13 +19,16 @@ freeDelivery: false
 id: 276bc9d9-c5a7-4690-949a-7dd6a4ccb5f1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1583878
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 34e6c4bb-7be2-4dcf-8124-52375d879ac9-tr
   priority: 0
-  slug: 14x-kellogs-special-k-riegel-milchschokolade
+  slug: 14x-kellogs-special-k-riegel-milchschokolade-png-product-1
   type: product
 logo:
   channels:

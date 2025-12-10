@@ -1,12 +1,12 @@
-_id: 692eb006ad132244d686012a
+_id: 6937fb1650d8db655c7bf991
 appOnly: false
 brand: Crowd Cookware
 brands:
   - id: 98a951d4-74aa-5f99-a578-fdab2ceb714c
     name: Crowd Cookware
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2850054'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872421'
 classicProductId: '627606'
 deliveryPrice:
   cents: 595
@@ -14,20 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 7a8e28f0-1899-4fb4-b226-c752400d40d3
+id: dd327310-ca83-4fe9-8fcd-36dfb4e207ed
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2222190
+    - all
+  extension: image/png
+  id: 0c60ad51-2c04-42eb-b858-8b04d13d9e92-tr
   priority: 0
-  slug: crowd-cookware-3-messen-slijpsteen
+  slug: crowd-cookware-wigbold-messerset-3-teilig-jpg-product-1
   type: product
-offerId: e26945b8-8197-4818-8660-622c12ab784a
+offerId: a2ac3086-4c05-4bdd-a495-9f46f26251a3
 price:
   cents: 6995
   currency: EUR
@@ -38,5 +39,5 @@ referencePrice:
   value: 149
 slug: crowd-cookware-3-messen-slijpsteen
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Crowd Cookware 3 Messen + Slijpsteen

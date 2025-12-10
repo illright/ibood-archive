@@ -1,12 +1,12 @@
-_id: 692eafbc11795c0305c7d4a4
+_id: 6937fae2071d4deb65c562ab
 appOnly: false
 brand: RCR
 brands:
   - id: 7416aa81-c2b8-518a-9f83-32817e55652c
     name: RCR
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849987'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872352'
 classicProductId: '312387'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 3bbc2132-c82b-443f-af28-0d21fe7e80f8
+id: 684ab84c-aae1-4646-b9b5-bf4002d2e82a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 969926
-  priority: 100
-  slug: 6x-rcr-brillante-sektglas
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ca69a4c6-8097-40d7-a321-d2730f5b52b9-tr
+  priority: 0
+  slug: 6x-rcr-brillante-sektglas-jpg-product-101
   type: product
 logo:
   channels:
@@ -38,7 +41,7 @@ logo:
   priority: 0
   slug: rcr-logo-0
   type: logo
-offerId: f5039641-3b67-48f5-8d13-50dc84046849
+offerId: 9d360dd7-0e08-4a0f-87ad-d197eabc3f0a
 price:
   cents: 1795
   currency: EUR
@@ -49,5 +52,5 @@ referencePrice:
   value: 37
 slug: 6x-rcr-brillante-champagneglas
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: 6x RCR Brillante  Champagneglas

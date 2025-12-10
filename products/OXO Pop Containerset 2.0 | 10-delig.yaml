@@ -1,12 +1,12 @@
-_id: 692eaf4be6960e0d475477f4
+_id: 6937f9dcd5bedc30bee11355
 appOnly: false
 brand: OXO
 brands:
   - id: 6c02d4fd-b956-53db-8b7c-18f6ab5f2422
     name: OXO
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849642'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872003'
 classicProductId: '654399'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 2ff0fdfd-6ff0-4128-ab78-fd999106af1b
+id: 7b20892e-f876-4e4b-94f8-ccf4f97a7a2a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: bussen-png-product-1
   type: product
-offerId: e211a99c-5b62-4267-b3b2-3b68d15001ea
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fcdb40ae-7d39-4146-a9f0-8d545cc7b8f4
+  priority: 0
+  slug: oxo-logo-0
+  type: logo
+offerId: 5394ff6a-d1ee-4a64-b95e-efb70d30d19a
 price:
   cents: 6999
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 157
 slug: oxo-pop-container-20-voordeelset-10-delig
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: OXO Pop Containerset 2.0 | 10-delig

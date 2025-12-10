@@ -1,31 +1,34 @@
-_id: 692eaf728db0289e7ada12a4
+_id: 6937f9f1d5bedc30bee11388
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - 4f1bd177-e586-53e8-84d3-77036974f262
-classicId: '2849719'
-classicProductId: '240609'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872049'
+classicProductId: '240610'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 55
-end: '2025-12-09T22:59:59.999Z'
+discount: 43
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: ea02059c-74d2-47a4-b829-bf7ecc9a5aa4
+id: d5870d91-5309-4c41-b52f-c9eabdf4c036
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1303740
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 67b4b970-1c52-4af9-964c-0a2dc5914cd3-tr
   priority: 0
-  slug: pyrex-cook-store-dosen-3-tlg-quadr
+  slug: pyrex-cook-store-dosen-3-tlg-eckig-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +41,16 @@ logo:
   priority: 0
   slug: pyrex-logo-0
   type: logo
-offerId: 99c8da9d-50bb-4fe9-93c2-3beb242cded8
+offerId: da3bc692-b563-4823-a73c-76eeb000c31d
 price:
-  cents: 1495
+  cents: 2295
   currency: EUR
-  value: 14.95
+  value: 22.95
 referencePrice:
-  cents: 3340
+  cents: 4050
   currency: EUR
-  value: 33.4
-slug: pyrex-cs-schalenset-vierkant-3-delig
-soldOut: true
-start: '2025-12-02T23:00:00.000Z'
+  value: 40.5
+slug: pyrex-cook-store-schalenset-3-delig
+soldOut: false
+start: '2025-12-09T23:00:00.000Z'
 title: Pyrex Cook & Store Schalenset | 3-delig

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 3e55d474-46db-484d-8299-7d4151a6a425
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2151228
+    - all
+  extension: image/jpeg
+  id: e9563cc7-e069-4f68-8f55-647e56e82130
   priority: 0
-  slug: mobile-pixels-origami-kickstand
+  slug: mobile-pixels-origami-kickstand-jpg-product-1
   type: product
 logo:
   channels:

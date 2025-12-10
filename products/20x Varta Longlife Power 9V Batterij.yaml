@@ -19,13 +19,16 @@ freeDelivery: false
 id: 06270de7-3c16-529e-90ec-e1a1405010e7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1151195
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 6100f2b5-f878-4524-8ca7-f47a2d8a3683-tr
   priority: 0
-  slug: 20x-varta-longlife-power-9v-batterij
+  slug: 20x-varta-longlife-power-batterie-9-v-jpg-product-1
   type: product
 logo:
   channels:

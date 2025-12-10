@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7d47ebcf-17a1-4de6-b394-699e3fea0fe4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1955498
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cf037977-8815-4573-8921-1c0ee66c8003-tr
   priority: 0
-  slug: 2x-elle-home-peach-geurkaars-350-g
+  slug: 2x-elle-home-peach-duftkerze-jpg-product-1
   type: product
 logo:
   channels:
@@ -35,7 +38,7 @@ logo:
   extension: png
   id: 2136866
   priority: 100
-  slug: 2x-elle-home-peach-geurkaars-350-g
+  slug: 2x-elle-home-peach-duftkerze
   type: logo
 offerId: a8cacd3f-a2b6-40b4-83d0-d393e22c6976
 price:

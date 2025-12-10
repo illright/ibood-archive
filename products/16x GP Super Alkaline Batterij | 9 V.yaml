@@ -19,13 +19,16 @@ freeDelivery: false
 id: d56c06d7-086b-442c-8ed9-6423f582f65b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 628351
-  priority: 100
-  slug: 16x-gp-super-alkaline-batterie-9-v
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 56bc823d-23a8-4bdf-9b24-18b4ab4313fe-tr
+  priority: 0
+  slug: 16x-gp-super-alkaline-batterie-9-v-jpg-product-101
   type: product
 logo:
   channels:

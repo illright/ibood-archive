@@ -1,12 +1,12 @@
-_id: 692eaf73a46fe9ba2c1b4264
+_id: 6937fa0fd5bedc30bee113d1
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849703'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872093'
 classicProductId: '207898'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 4ad22987-aef9-4a05-b5db-d0d10cb8562b
+id: f6e87c77-6683-41cf-be42-cc215f4016c6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 805984
+    - all
+  extension: image/jpeg
+  id: 333a4c68-9a63-4359-9614-10325decd496
   priority: 0
-  slug: split-abfalltrenner-8-l
+  slug: split-abfalltrenner-8-l-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: joseph-joseph-logo
   type: logo
-offerId: fdd030c3-084a-4c70-ada3-3f8e9032438b
+offerId: 6d9b55b2-3fb8-4c4e-bc96-6df1247956d9
 price:
   cents: 1395
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: joseph-joseph-split-afvalemmer-8-l
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Joseph Joseph Split Afvalemmer | 8 L

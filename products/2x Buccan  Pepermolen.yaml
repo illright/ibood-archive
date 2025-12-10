@@ -1,30 +1,32 @@
-_id: 692eaf9ae0ee5ae0d56565cd
+_id: 6937fa11071d4deb65c5616b
 appOnly: false
 brand: Buccan
 brands:
   - id: a98b68cd-9655-5bca-b849-7a8ca6a4e996
     name: Buccan
 categories:
-  - a8a20b5a-60c0-5608-a475-8eb652045edc
-classicId: '2849847'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872095'
 classicProductId: '657151'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 72
-end: '2025-12-09T22:59:59.999Z'
+discount: 75
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 76f2997d-98cd-4d96-b8ef-41b72b1aba8d
+id: f4f3b3dd-d067-40e1-b673-679115744411
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 829f4546-edfa-4360-990f-c4547848e564
+    - app
+    - website
+  extension: image/png
+  id: 829f4546-edfa-4360-990f-c4547848e564-tr
   priority: 0
   slug: buccan-cooking-klassieke-pepermolen-mat-zwart-met-zilver-set-van-2-product-0
   type: product
@@ -38,16 +40,16 @@ logo:
   priority: 100
   slug: buccan-logo
   type: logo
-offerId: afca0e93-6940-4954-8451-9de02899bf73
+offerId: eb30a3a9-f645-4d51-8098-7991866fdcc3
 price:
-  cents: 1695
+  cents: 1495
   currency: EUR
-  value: 16.95
+  value: 14.95
 referencePrice:
   cents: 5995
   currency: EUR
   value: 59.95
 slug: 2x-buccan-pfeffermuehle
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: 2x Buccan  Pepermolen

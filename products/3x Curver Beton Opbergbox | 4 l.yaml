@@ -1,12 +1,12 @@
-_id: 692eaf2c345868d3ddd051bf
+_id: 6937f9d650d8db655c7bf79f
 appOnly: false
 brand: Curver
 brands:
   - id: 17d771df-5025-521d-971d-4abdc3fee536
     name: Curver
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849568'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2871999'
 classicProductId: '675416'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 6f94eeb9-10d3-4661-8b8a-3f39aeac4267
+id: a17cf7e4-bcf6-431a-b574-f23f55f0c047
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 35fa7797-c2ab-4a19-a314-1ba82e9646a7
+    - app
+    - website
+  extension: image/png
+  id: 35fa7797-c2ab-4a19-a314-1ba82e9646a7-tr
   priority: 0
   slug: curver-beton-set-opbergboxen-3x-s-4l-product-3
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: curver-logo
   type: logo
-offerId: 569842e1-2407-4845-9d26-2e417c342ae9
+offerId: 4a50fc07-9f6c-4672-8221-ce91b49214c7
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 63.99
 slug: 3x-curver-beton-opbergbox-4-l
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: 3x Curver Beton Opbergbox | 4 l

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 1ac2e70d-a4cf-44c1-b74f-131f13925af0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 156091
-  priority: 100
-  slug: type-1-tm-11-voor-brother
+    - all
+  extension: image/png
+  id: 9099db4f-add2-429b-87f4-c3ec06e4e740
+  priority: 0
+  slug: bulk-11-png-product-101
   type: product
 offerId: 70382191-3c25-47c9-b042-c907a858cb6e
 price:

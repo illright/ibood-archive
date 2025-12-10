@@ -19,13 +19,14 @@ freeDelivery: false
 id: a5b2f401-c7e6-48ac-b5ea-3d8890163a5a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 15155
-  priority: 1
-  slug: joop-le-bain-edp-75-ml
+    - all
+  extension: image/jpeg
+  id: f2b9bcaf-1681-4a48-af71-0c5572a47c38
+  priority: 0
+  slug: joop-le-bain-edp-75-ml-jpg-product-2
   type: product
 logo:
   channels:

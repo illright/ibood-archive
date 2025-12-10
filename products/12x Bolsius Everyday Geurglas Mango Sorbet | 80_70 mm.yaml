@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 0eaed559-4e20-45be-a3a2-80d362a5f2e5
+    - app
+    - website
+  extension: image/png
+  id: 0eaed559-4e20-45be-a3a2-80d362a5f2e5-tr
   priority: 0
   slug: 6x-bolsius-geurglas-80-70-ed-2kleur-mango-sorbet-101926150310-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5e419561-1114-400f-aa4d-46877d91e94f
+  priority: 0
+  slug: bolsius-png-logo-0
+  type: logo
 offerId: d83330cd-3d5d-44a5-86a5-3bae7d0cbec5
 price:
   cents: 1995

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5a3e20b6-d419-5b30-8d98-467805221fec
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485399
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 43cceae0-782d-495e-9544-331a6ca78832-tr
   priority: 0
-  slug: 16x-varta-longlife-power-batterie-typ-d
+  slug: 16x-varta-longlife-power-batterie-typ-d-png-product-1
   type: product
 logo:
   channels:

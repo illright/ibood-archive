@@ -19,13 +19,14 @@ freeDelivery: false
 id: ec0a44e8-5245-42d0-86c7-3e9b684787b7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 952945
+    - all
+  extension: image/png
+  id: 08fcd171-34dd-4c09-8385-eb44abb27fe3-tr
   priority: 0
-  slug: davidoff-cool-water-woman-edt-30-ml
+  slug: davidoff-cool-water-edt-30-ml-jpg-product-1
   type: product
 logo:
   channels:

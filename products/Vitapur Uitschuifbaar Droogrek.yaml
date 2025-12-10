@@ -1,12 +1,12 @@
-_id: 692eaf43345868d3ddd051ed
+_id: 6937f9efd5bedc30bee1137e
 appOnly: false
 brand: Vitapur
 brands:
   - id: f2bb1029-752b-5ecd-ac20-e147b580e5e5
     name: Vitapur
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849634'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872045'
 classicProductId: '587616'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 6492de09-249e-4bb3-9c7a-3f85d94f5357
+id: 65dff84b-85cb-4ec3-8dc4-08ac13f95c6f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2014992
+    - all
+  extension: image/jpeg
+  id: f5b35179-3508-403e-864f-48b78bed4c72
   priority: 0
-  slug: vitapur-uitschuifbaar-droogrek
+  slug: vitapur-ausziehbarer-waschestander-schwarz-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: vitapur-logo
   type: logo
-offerId: 4803a623-5763-496f-8557-2d2974e73b0b
+offerId: 3e2f679d-3788-4d90-83b7-8af9482c0255
 price:
   cents: 5495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: vitapur-uitschuifbaar-droogrek
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Vitapur Uitschuifbaar Droogrek

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 55087678-08cc-55e1-9eb4-10ec9f4565de
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485373
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 57094296-7063-4518-acc4-f654b1fef5c0-tr
   priority: 0
-  slug: 10x-varta-cr2032-lithium-batterie
+  slug: 10x-varta-cr2032-lithium-batterie-jpg-product-1
   type: product
 logo:
   channels:

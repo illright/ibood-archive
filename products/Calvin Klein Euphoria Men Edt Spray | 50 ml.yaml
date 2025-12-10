@@ -19,13 +19,14 @@ freeDelivery: false
 id: 1d7fd9e6-1df6-4156-a392-8a44aeb5df36
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1815797
-  priority: 100
-  slug: calvin-klein-euphoria-men-edt-spray-50-ml
+    - all
+  extension: image/png
+  id: 23862a69-d84c-404e-9d8b-a058dfe7cac7-tr
+  priority: 0
+  slug: calvin-klein-euphoria-men-edt-50-ml-jpg-product-102
   type: product
 offerId: 4ec18171-38ba-46c7-90b9-532f0db453cd
 price:

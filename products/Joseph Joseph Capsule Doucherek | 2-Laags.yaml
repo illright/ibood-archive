@@ -1,12 +1,12 @@
-_id: 692eaf32b440fb3d28b74feb
+_id: 6937f9e5ad6fef851f183b95
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849564'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872022'
 classicProductId: '400774'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 3b2cf9b5-fe97-4e5f-9ccb-95a4c75e8101
+id: f1e16d9f-cb58-48cb-a444-f705ac83c5b5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1331307
+    - all
+  extension: image/jpeg
+  id: 63f9c796-a49a-4109-8994-9d816eafe023
   priority: 0
-  slug: joseph-joseph-capsule-doucherek-2-laags
+  slug: joseph-joseph-capsule-duschablage-2-ebenen-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: joseph-joseph-logo
   type: logo
-offerId: 87b4d28b-1a59-4297-9df2-4a0c62809c37
+offerId: 1b110057-c4cb-4096-9e67-202f6eb6c70f
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 31.99
 slug: joseph-joseph-capsule-doucherek-2-laags
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Joseph Joseph Capsule Doucherek | 2-Laags

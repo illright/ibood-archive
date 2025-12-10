@@ -19,13 +19,14 @@ freeDelivery: false
 id: 665fe8e5-d7c3-401a-ac07-5b4749d60f61
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 800122
-  priority: 100
-  slug: paco-rabanne-ultra-red-men-edt-100-ml
+    - all
+  extension: image/jpeg
+  id: 49164201-e147-4bad-904d-f428e67829ef
+  priority: 0
+  slug: paco-rabanne-ultra-red-men-edt-100-ml-jpg-product-101
   type: product
 logo:
   channels:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 74
 slug: paco-rabanne-ultra-red-men-edt-spray-100-ml
-soldOut: false
+soldOut: true
 start: '2025-12-03T23:00:00.000Z'
 title: Paco Rabanne Ultra Red Men EdT Spray | 100 ml

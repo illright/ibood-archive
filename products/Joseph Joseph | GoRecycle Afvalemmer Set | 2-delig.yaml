@@ -1,31 +1,32 @@
-_id: 692eaf089eba34d23fadb3c9
+_id: 6937f9b958bf0055d09cc3e2
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849517'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2871959'
 classicProductId: '400795'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
-end: '2025-12-09T22:59:59.999Z'
+discount: 60
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 2f08b5db-250d-46de-bb46-b317210c7633
+id: 102e2bf2-32fa-4861-9b26-163aeeae8490
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1331792
-  priority: 100
-  slug: joseph-joseph-gorecycle-afvalemmer-set-2-delig
+    - all
+  extension: image/jpeg
+  id: d10b1d12-ddc9-41ef-b540-8790b08b508e
+  priority: 0
+  slug: zestaw-koszy-joseph-joseph-gorecycle-2-elem-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: joseph-joseph-logo
   type: logo
-offerId: a4026914-9b22-4609-affa-1ff3f4843a0c
+offerId: 6c1aa4e3-9179-47e1-b63f-2cafa0fcfc95
 price:
-  cents: 4995
+  cents: 3995
   currency: EUR
-  value: 49.95
+  value: 39.95
 referencePrice:
   cents: 9999
   currency: EUR
   value: 99.99
 slug: joseph-joseph-gorecycle-afvalemmer-set-2-delig
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Joseph Joseph | GoRecycle Afvalemmer Set | 2-delig

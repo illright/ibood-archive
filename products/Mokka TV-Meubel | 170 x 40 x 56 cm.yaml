@@ -19,13 +19,16 @@ freeDelivery: false
 id: d0c89dbb-0d7f-4304-a2d6-182dd409ed4b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1716233
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ed12676d-9530-4d85-87b8-d0358bd830e3-tr
   priority: 0
-  slug: mokka-tv-meubel-170-x-40-x-56-cm
+  slug: mokka-tv-meubel-170-x-40-x-56-cm-jpg-product-1
   type: product
 logo:
   channels:

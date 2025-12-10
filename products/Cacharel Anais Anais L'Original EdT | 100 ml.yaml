@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1191c767-489f-403d-bdd4-ed4da70191a5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 986337
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1a568eef-377c-4833-ada1-45f709d8a2ab-tr
   priority: 0
-  slug: cacharel-anais-anais-loriginal-edt-100-ml
+  slug: cacharel-anais-anais-loriginal-edt-100-ml-jpg-product-1
   type: product
 logo:
   channels:

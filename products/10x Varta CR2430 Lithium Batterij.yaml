@@ -19,13 +19,16 @@ freeDelivery: false
 id: 96392751-e2fb-5a05-b345-78e1181cbb97
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485397
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ae9a9422-0e0d-43ec-b45e-130aea3dfb7d-tr
   priority: 0
-  slug: 10x-varta-cr2430-lithium-batterie
+  slug: 10x-varta-cr2430-lithium-batterie-jpg-product-1
   type: product
 logo:
   channels:

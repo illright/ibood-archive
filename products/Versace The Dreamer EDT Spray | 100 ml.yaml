@@ -19,13 +19,14 @@ freeDelivery: false
 id: 4e4eb3ed-828b-4a9e-9089-3184c866854e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 961913
-  priority: 100
-  slug: versace-the-dreamer-edt-100-ml
+    - all
+  extension: image/jpeg
+  id: 099b7d90-9a70-4fa4-a70b-f40f88f2cc01
+  priority: 0
+  slug: versace-the-dreamer-edt-100-ml-jpg-product-101
   type: product
 logo:
   channels:

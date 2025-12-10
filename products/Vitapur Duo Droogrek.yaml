@@ -1,12 +1,12 @@
-_id: 692eaf95fdfbabd2b069dc39
+_id: 6937fa1858bf0055d09cc497
 appOnly: false
 brand: Vitapur
 brands:
   - id: f2bb1029-752b-5ecd-ac20-e147b580e5e5
     name: Vitapur
 categories:
-  - f9fbb89e-b617-5dd3-bfc5-4407062820cc
-classicId: '2849801'
+  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
+classicId: '2872110'
 classicProductId: '587615'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2025-12-09T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 69b8933c-cf2a-4416-b57d-2737e5c89e2e
+id: 00a696d3-f069-40f5-8806-fcf05468509a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2014972
+    - all
+  extension: image/jpeg
+  id: 65f23f75-0a75-4e6c-b2ba-2b4fb02aeb4f
   priority: 0
-  slug: vitapur-duo-droogrek
+  slug: vitapur-duo-waschestander-schwarz-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: vitapur-logo
   type: logo
-offerId: c0c973d1-21f7-4023-8052-3365b474d71e
+offerId: bcf58a8d-a63a-408c-bec1-ae732bb93a09
 price:
   cents: 6995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: vitapur-duo-droogrek
 soldOut: false
-start: '2025-12-02T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Vitapur Duo Droogrek

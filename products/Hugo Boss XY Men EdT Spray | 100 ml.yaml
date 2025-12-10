@@ -19,13 +19,14 @@ freeDelivery: false
 id: c87f1937-7feb-4b9c-86fe-0232bd8cfe38
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 218087
+    - all
+  extension: image/jpeg
+  id: e24467b5-0817-40ac-8613-8b166b0d5915
   priority: 0
-  slug: hugo-boss-xy-men-edt-100-ml
+  slug: hugo-boss-xy-men-edt-100-ml-jpg-product-1
   type: product
 logo:
   channels:

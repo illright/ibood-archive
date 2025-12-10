@@ -19,13 +19,14 @@ freeDelivery: false
 id: 21fa7632-546a-49c9-bbd7-7c5e2ae0165b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 121829
-  priority: 100
-  slug: type-1-tm-8-voor-canon
+    - all
+  extension: image/png
+  id: 52bde924-ec33-4c5f-9d8b-48f363cecb59
+  priority: 0
+  slug: bulk-12-png-product-101
   type: product
 logo:
   channels:
