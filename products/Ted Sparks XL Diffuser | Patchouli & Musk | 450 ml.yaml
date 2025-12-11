@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 8738d50d-3c61-4353-8fb4-b9b6414048bc
+    - app
+    - website
+  extension: image/png
+  id: 8738d50d-3c61-4353-8fb4-b9b6414048bc-tr
   priority: 0
   slug: ted-difxl-c06-ted-sparks-diffuser-xl-patchouli-en-musk-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b7f804be-419a-4521-8fd5-13ee071e3b64
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
 offerId: d42df8e5-9df9-57db-9657-60f41772f64f
 price:
   cents: 2995

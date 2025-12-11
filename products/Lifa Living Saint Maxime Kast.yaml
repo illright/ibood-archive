@@ -19,13 +19,14 @@ freeDelivery: false
 id: c0e6b375-62d5-435c-8f0e-3e882c526752
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1687786
+    - all
+  extension: image/png
+  id: 270dd49a-cb71-49e6-8a28-07df695571bc-tr
   priority: 0
-  slug: lifa-living-saint-maxime-regal
+  slug: lifa-living-saint-maxime-regal-jpg-product-1
   type: product
 logo:
   channels:

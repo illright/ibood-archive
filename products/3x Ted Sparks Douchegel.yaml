@@ -19,13 +19,16 @@ freeDelivery: false
 id: f5806257-c67c-5acd-87d2-b4719b3a158b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1708762
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 632c1530-170e-4aef-88ae-d8c7d6c46b49-tr
   priority: 0
-  slug: 3x-ted-sparks-douchegel
+  slug: 3x-ted-sparks-duschschaum-png-product-1
   type: product
 offerId: 78e97dc3-ed96-5573-95f8-8d413a5d6532
 price:

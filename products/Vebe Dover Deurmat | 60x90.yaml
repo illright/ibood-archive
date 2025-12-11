@@ -19,13 +19,16 @@ freeDelivery: false
 id: 72bd9282-ff9f-4f7a-9c19-39685db11f97
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1464339
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5e514fbd-85f4-4627-be9e-22f73fad6e63-tr
   priority: 0
-  slug: spectrum-dover-deurmat-60x90
+  slug: spectrum-dover-deurmat-60x90-1-jpg-product-1
   type: product
 offerId: 4f61677a-aac2-4c0f-91c5-b25f0f01112c
 price:

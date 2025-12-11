@@ -19,13 +19,16 @@ freeDelivery: false
 id: 43071e4e-4b6c-44f1-814b-33a40c504639
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2283052
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c2363f43-885c-4340-bc10-ce61b89f14e9-tr
   priority: 0
-  slug: 6x-lenor-weichspuler-meeresbrise-1827-ml
+  slug: 6x-lenor-weichspuler-meeresbrise-1827-ml-jpg-product-1
   type: product
 logo:
   channels:

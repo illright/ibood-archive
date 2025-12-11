@@ -19,14 +19,26 @@ freeDelivery: false
 id: d8fc0fcc-034f-5574-a5be-9b4db27665e4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1707954
+    - all
+  extension: image/png
+  id: d30497c4-b1f5-43af-94d2-fd5f7d998a7b
   priority: 0
-  slug: 2x-ted-sparks-demi-geurkaars
+  slug: ted-sparks-14-png-product-14
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fcaeaa1f-7a76-4ae9-8620-94b21a0ed960
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
 offerId: 93b431a9-8ea3-5ef0-8aae-78a099a66e1c
 price:
   cents: 2995

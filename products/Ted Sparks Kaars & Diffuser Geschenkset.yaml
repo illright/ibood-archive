@@ -19,13 +19,16 @@ freeDelivery: false
 id: eec5a863-3c49-5cc8-9b51-9437ad19512e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1707393
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 69fd6981-768d-4cc2-a247-c23ed79b4beb-tr
   priority: 0
-  slug: ted-sparks-kaars-diffuser-geschenkset
+  slug: ted-sparks-geschenkset-kerze-diffusor-1-jpg-product-1
   type: product
 offerId: 42f0e1be-c906-56a9-8c1d-da438a2dc141
 price:

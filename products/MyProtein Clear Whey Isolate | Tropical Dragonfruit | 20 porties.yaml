@@ -19,13 +19,16 @@ freeDelivery: false
 id: 10dd15e7-c4bc-4a30-a578-d510739d227e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2160767
-  priority: 100
-  slug: myprotein-clear-whey-isolate-tropical-dragonfruit
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 801d4e7c-84ea-44a1-9463-a1f9820b34d0-tr
+  priority: 0
+  slug: myprotein-clear-whey-isolate-drachenfrucht-jpg-product-101
   type: product
 logo:
   channels:

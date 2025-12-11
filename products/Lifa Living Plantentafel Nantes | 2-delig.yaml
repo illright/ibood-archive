@@ -19,13 +19,16 @@ freeDelivery: false
 id: 957517d7-3edb-4cc9-9cb3-5f000dcaf3d0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 604792
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1673074a-5147-4690-8d1d-7cd24b79bbe3-tr
   priority: 0
-  slug: lifa-living-nantes-pflanzentischset
+  slug: lifa-living-nantes-pflanzentischset-jpg-product-1
   type: product
 logo:
   channels:

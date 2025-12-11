@@ -19,13 +19,16 @@ freeDelivery: false
 id: 13c1b374-332d-48ec-887b-9474499b74ab
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2236649
-  priority: 100
-  slug: stelton-nohr-cold-brew-filter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9c4561b8-72de-4d51-90b6-0c6695895a5f-tr
+  priority: 0
+  slug: stelton-nohr-cold-brew-kaffeefilter-jpg-product-101
   type: product
 logo:
   channels:

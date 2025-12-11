@@ -19,13 +19,16 @@ freeDelivery: false
 id: 98e4c077-ab2b-4d31-9198-0dbfc78a6b24
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 399771
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 18a60984-2dc4-49fb-b1e4-e66ff598251c-tr
   priority: 0
-  slug: 3x-nivea-sun-zonnemelk-spf-15-of-spf-20
+  slug: 3x-nivea-sun-sonnenmilch-jpg-product-1
   type: product
 logo:
   channels:

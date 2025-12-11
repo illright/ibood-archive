@@ -19,13 +19,14 @@ freeDelivery: false
 id: e33285be-9bec-456a-80e6-bcf03a0c2af6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2282696
+    - all
+  extension: image/png
+  id: dacefcb2-4d7d-4d40-88ae-ad339d1d0024-tr
   priority: 0
-  slug: emile-henry-runder-schmortopf-25-l-schwarz
+  slug: emile-henry-runder-schmortopf-25-l-schwarz-jpg-product-1
   type: product
 logo:
   channels:

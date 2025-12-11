@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2dc30329-6a66-4738-ac99-fd6f8ca3fa72
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1036893
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7ddf3ed5-8b89-461d-92e6-16ac48e7411f-tr
   priority: 0
-  slug: 11x-reeses-peanut-butter-rounds
+  slug: 11x-reeses-peanut-butter-rounds-jpg-product-1
   type: product
 logo:
   channels:

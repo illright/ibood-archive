@@ -19,13 +19,16 @@ freeDelivery: false
 id: 14e552a4-6c9d-4c4f-981d-22fa87578ed5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1801358
-  priority: 100
-  slug: esschert-design-buitenklok
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e097eba9-3c57-4bfb-8e9a-9e810a380167-tr
+  priority: 0
+  slug: esschert-design-gartenuhr-jpg-product-101
   type: product
 logo:
   channels:

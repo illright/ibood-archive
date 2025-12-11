@@ -1,12 +1,12 @@
-_id: 6932ca59e0975e5924bc7337
+_id: 69393b68e45a91afa78b7eb4
 appOnly: false
 brand: Mobile Pixels
 brands:
   - id: 6e0bb8dd-fb76-5a3f-91ea-dbfb66503d9e
     name: Mobile Pixels
 categories:
-  - 1e544097-d36f-5217-ac8e-b94af9481294
-classicId: '2863865'
+  - 7eb2d7c3-a868-5620-bd04-8722ab26bb95
+classicId: '2873441'
 classicProductId: '567791'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-12-10T22:59:59.999Z'
+end: '2025-12-17T22:59:59.999Z'
 freeDelivery: false
-id: aa476cf8-7f8a-4845-a5a3-21a3a59ccd2c
+id: 3fb24d56-7920-451b-93a7-d0343b8810b2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1732852
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 92b4308e-acd0-42fc-8af3-55cc9b649613-tr
   priority: 0
-  slug: 133-mobile-pixels-duex-plus-zweitbildschirm
+  slug: 133-mobile-pixels-duex-plus-zweitbildschirm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: mobile-pixels-logo
   type: logo
-offerId: e142b765-4698-4116-a2cd-a09da2df6933
+offerId: e4575e15-8335-47c8-ac0a-5866c12911f5
 price:
   cents: 9995
   currency: EUR
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 199
 slug: mobile-pixels-duex-plus-133-lcd-display
-soldOut: true
-start: '2025-12-03T23:00:00.000Z'
+soldOut: false
+start: '2025-12-10T23:00:00.000Z'
 title: Mobile Pixels Duex Plus Draagbaar 13,3" LCD Display

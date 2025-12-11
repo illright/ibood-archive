@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5326628f-ea2d-51a9-bac0-c41b4523b164
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1708500
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 8080c356-ca73-4301-90d9-2b6f7e579c2d-tr
   priority: 0
-  slug: ted-sparks-magnum-geurkaars
+  slug: ted-sparks-magnum-duftkerze-4-dochte-jpg-product-4
   type: product
 offerId: d26f80e1-a128-5c84-91c2-84979a5422a9
 price:

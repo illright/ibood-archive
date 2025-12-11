@@ -19,13 +19,14 @@ freeDelivery: false
 id: 680be5f0-360a-4499-b6ba-f3734475e5bd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2096791
+    - all
+  extension: image/jpeg
+  id: cd8cb950-7f61-4a96-8572-ad6251646dec
   priority: 0
-  slug: zuiver-sense-hocker-espresso
+  slug: zuiver-sense-hocker-espresso-1-jpg-product-1
   type: product
 logo:
   channels:

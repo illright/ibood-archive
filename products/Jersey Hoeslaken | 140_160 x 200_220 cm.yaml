@@ -1,30 +1,32 @@
-_id: 6932e03b725331bb433c95b3
+_id: 69299a8cce347fd72ae6717c
 appOnly: false
 brand: Vitality Pur
 brands:
   - id: 4b698a8c-2327-5f2e-8632-31b4cb03d028
     name: Vitality Pur
 categories:
-  - 4b989450-9ced-5aa6-b09a-f4df24fb9b6b
-classicId: '2865680'
-classicProductId: '207467'
+  - 7a7c7246-37d5-5d4d-bf8d-0204cb719252
+classicId: '2845255'
+classicProductId: '112804'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 55
+discount: 48
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: c0274572-2f90-4fa7-99b2-ac65c913e26f
+id: 2a67ffd7-ef6f-5f76-aa63-e58220d6a710
 image:
   channels:
     - app
     - website
-  extension: jpg
-  id: 589712
+    - newsletter
+    - all
+  extension: image/png
+  id: 353a7ab5-7d2b-48b5-830a-1db227e56ea3
   priority: 0
-  slug: spannbettlaken-140160-x-200220-cm
+  slug: vitality-28-png-product-2
   type: product
 logo:
   channels:
@@ -36,16 +38,16 @@ logo:
   priority: 100
   slug: vitality-pur-logo
   type: logo
-offerId: 8879fd78-e814-4703-9f62-75fafe2993d7
+offerId: 97b08a80-54a5-56e0-bbb4-1966b09132d7
 price:
-  cents: 1295
+  cents: 1495
   currency: EUR
-  value: 12.95
+  value: 14.95
 referencePrice:
   cents: 2895
   currency: EUR
   value: 28.95
 slug: vitality-pur-hoeslaken-140160-x-200220-cm
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-10T23:00:00.000Z'
 title: Jersey Hoeslaken | 140/160 x 200/220 cm

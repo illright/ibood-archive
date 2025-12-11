@@ -19,13 +19,16 @@ freeDelivery: false
 id: d5286cc0-dee1-400d-9d7f-d866cdb344e7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1660088
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e5f0da5c-35e8-4ff8-b0e0-a57a99e20924-tr
   priority: 0
-  slug: white-label-living-belmond-fauteuil
+  slug: wehkamp-home-sessel-belmond-drehbar-jpg-product-1
   type: product
 logo:
   channels:

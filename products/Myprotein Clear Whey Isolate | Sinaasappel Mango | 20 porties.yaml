@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4448624b-2709-4a06-9a2d-7887eccd1867
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2160678
-  priority: 100
-  slug: myprotein-clear-whey-isolate-sinaasappel-mango
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f4678a8a-afed-4c6f-a442-867b7b1d1422-tr
+  priority: 0
+  slug: myprotein-clear-whey-isolate-orangemango-jpg-product-101
   type: product
 logo:
   channels:

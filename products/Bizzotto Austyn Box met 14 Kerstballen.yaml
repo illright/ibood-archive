@@ -1,30 +1,32 @@
-_id: 6932e0881ec8eb660bd92002
+_id: 6939539be45a91afa78b8070
 appOnly: false
 brand: Bizzotto
 brands:
   - id: 697db554-7695-52ca-9aed-49c669f2121c
     name: Bizzotto
 categories:
-  - b1debe60-9c2b-514f-8567-47da745211dd
-classicId: '2865801'
+  - abf53fdc-190d-575f-81d6-11a0c3569e24
+classicId: '2873588'
 classicProductId: '674979'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 57
-end: '2025-12-14T22:59:59.999Z'
+discount: 60
+end: '2025-12-24T22:59:59.999Z'
 freeDelivery: false
-id: b42a5430-3e4a-4c0a-bb63-6be30d9c146c
+id: 15641340-f488-426e-8eec-d58bb238917d
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 44a4d419-fda9-4132-b440-d38012fa36b1
+    - app
+    - website
+  extension: image/png
+  id: 44a4d419-fda9-4132-b440-d38012fa36b1-tr
   priority: 0
   slug: 971228-box14-austyn-ball-d75-bizzotto-product-0
   type: product
@@ -39,16 +41,16 @@ logo:
   priority: 0
   slug: bizzotto-logo-0
   type: logo
-offerId: b49a81a6-32dd-4bb1-9f57-ea0d52c3569b
+offerId: 19b7d4c5-c51d-44f5-82d1-14c2acd79f8c
 price:
-  cents: 1595
+  cents: 1495
   currency: EUR
-  value: 15.95
+  value: 14.95
 referencePrice:
   cents: 3695
   currency: EUR
   value: 36.95
 slug: bizzotto-austyn-box-met-14-kerstballen
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Bizzotto Austyn Box met 14 Kerstballen

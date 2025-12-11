@@ -19,13 +19,16 @@ freeDelivery: false
 id: 278e8c0a-59a5-4cc0-a083-4ade39daeef6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1969007
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 2060c7e1-fb2c-4ba4-8f71-cf3be9ba3167-tr
   priority: 0
-  slug: olaplex-lashbond-building-serum-45-ml
+  slug: olaplex-lashbond-building-serum-45-ml-jpg-product-1
   type: product
 logo:
   channels:

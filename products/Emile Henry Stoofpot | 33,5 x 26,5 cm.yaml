@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2643301c-3f0c-4f37-91e9-c022b2e94000
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2282686
-  priority: 100
-  slug: emile-henry-ovaler-schmortopf-dunkelgrun
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 440176f9-c111-4176-b2b4-a6dcdc355490-tr
+  priority: 0
+  slug: emile-henry-ovaler-schmortopf-dunkelgrun-jpg-product-101
   type: product
 logo:
   channels:

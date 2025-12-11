@@ -19,13 +19,14 @@ freeDelivery: false
 id: 7c5ea6a2-4f0d-5070-9390-285a2dc3d18d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1708832
+    - all
+  extension: image/png
+  id: b53d9eef-3894-4eec-ab23-2ae4421b16bb
   priority: 0
-  slug: 2x-ted-sparks-bodyscrub
+  slug: ted-sparks-04-png-product-2
   type: product
 offerId: c34abee9-1608-5888-bacb-3f09d2873430
 price:

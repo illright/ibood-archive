@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7014474b-fe63-4885-8271-28d7d444843e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2265802
+    - all
+    - app
+    - website
+  extension: image/png
+  id: aa48b974-4e2c-40dd-b1e6-a968e25b89cc-tr
   priority: 0
-  slug: pinolino-commode-classic-101-x-76-x-97-cm
+  slug: pinolino-commode-classic-101-x-76-x-97-cm-jpg-product-1
   type: product
 logo:
   channels:

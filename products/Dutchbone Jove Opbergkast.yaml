@@ -19,13 +19,16 @@ freeDelivery: false
 id: dbb4bf5f-4b3a-498d-b56e-386c20d5d7d7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1797506
-  priority: 100
-  slug: dutchbone-jove-opbergkast
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 8bc92e2f-9e4f-4160-a371-2159806701c2-tr
+  priority: 0
+  slug: dutchbone-jove-opbergkast-jpg-product-101
   type: product
 logo:
   channels:

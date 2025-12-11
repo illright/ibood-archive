@@ -19,14 +19,28 @@ freeDelivery: false
 id: 3b002f9d-f7de-5350-907d-5e785b2c38bd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2231619
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d345f133-e59a-4158-8b63-27749db337ba-tr
   priority: 0
-  slug: ted-sparks-demi-geurkaars-moss-sandalwood
+  slug: ted-sparks-demi-duftkerze-moss-sandalwood-jpg-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3dfb6734-ff9b-47ca-b468-93e6e2dc7b92
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
 offerId: 22b6ef6d-5196-5a7c-8cc9-34dd0ac9d311
 price:
   cents: 1495

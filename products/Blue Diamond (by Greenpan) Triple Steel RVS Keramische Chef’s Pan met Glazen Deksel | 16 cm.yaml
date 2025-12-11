@@ -19,13 +19,16 @@ freeDelivery: false
 id: b3332935-3174-4cd3-bbfb-84298ff9ebb8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2183632
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ca0d4026-b4f9-48ed-a6d1-723cf00258eb-tr
   priority: 0
-  slug: blue-diamond-triple-steel-chef-schmorpfanne
+  slug: blue-diamond-triple-steel-chef-schmorpfanne-jpg-product-1
   type: product
 logo:
   channels:

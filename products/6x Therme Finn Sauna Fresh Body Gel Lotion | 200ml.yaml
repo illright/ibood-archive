@@ -19,13 +19,16 @@ freeDelivery: false
 id: 036754c7-e874-45fa-8d87-f42c936da1c0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1245862
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e8f0de20-eab3-45ba-ac5f-52b385b46992-tr
   priority: 0
-  slug: 6x-therme-finn-sauna-fresh-body-gel-lotion-200ml
+  slug: 6x-therme-finn-sauna-bodylotion-jpg-product-1
   type: product
 logo:
   channels:

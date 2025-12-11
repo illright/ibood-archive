@@ -19,13 +19,16 @@ freeDelivery: false
 id: 56546ae2-d13b-467d-824a-d19384bee820
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1354604
+  extension: image/png
+  id: d44b3f06-98d8-44db-ab8a-5ab159280261-tr
   priority: 0
-  slug: 6x-saigon-pink-lotus-hydra-bodylotion
+  slug: 6x-therme-saigon-pink-lotus-bodylotion-jpg-product-1
   type: product
 logo:
   channels:

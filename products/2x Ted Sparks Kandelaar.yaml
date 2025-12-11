@@ -19,13 +19,16 @@ freeDelivery: false
 id: 73a3a745-19ea-5d42-a858-2bf5b59d1874
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1792093
+    - all
+    - app
+    - website
+  extension: image/png
+  id: a62872dc-fbd7-4739-9642-67f81cde1830-tr
   priority: 0
-  slug: 2x-ted-sparks-kandelaar
+  slug: 2x-ted-sparks-kerzenstander-jpg-product-1
   type: product
 offerId: 3fb3fa7e-9b82-5b07-af75-35945153f5c2
 price:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 088de9bf-4bb7-452d-9913-f4cbce7905b5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2159551
-  priority: 100
-  slug: myvitamins-alpha-men-multivitamine-tabletten
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9d21d6c0-eae6-4bee-9013-8650440cbf28-tr
+  priority: 0
+  slug: myprotein-alpha-men-multivitamin-240-stuck-jpg-product-101
   type: product
 logo:
   channels:

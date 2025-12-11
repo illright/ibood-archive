@@ -19,13 +19,16 @@ freeDelivery: false
 id: bb160e77-3dc5-4f28-bb87-79d12047346c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2018405
-  priority: 100
-  slug: waatr-crazycap-pro-lyt-handvat-740-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 84ada4bc-5764-4513-adaa-79aad56ce3f2-tr
+  priority: 0
+  slug: waatr-crazycap-pro-lyt-handgriff-740-ml-jpg-product-101
   type: product
 logo:
   channels:

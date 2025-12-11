@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7404b5b6-b8b5-4d01-a4b4-e4dbbf03e883
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1928539
-  priority: 100
-  slug: spinder-design-barato-1-wandkapstok
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cd40208f-2596-4066-b7ac-77464326dd6f-tr
+  priority: 0
+  slug: spinder-design-barato-1-wandgarderobe-schwarz-jpg-product-101
   type: product
 logo:
   channels:

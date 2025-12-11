@@ -19,13 +19,16 @@ freeDelivery: false
 id: 436d5f6c-6dfd-4b6c-be40-f4058dacafbf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2147395
-  priority: 100
-  slug: meguiars-softshell-tasche
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d28ec949-8e8c-49fe-afce-2fecd6d540b8-tr
+  priority: 0
+  slug: meguiars-softshell-tasche-jpg-product-101
   type: product
 logo:
   channels:

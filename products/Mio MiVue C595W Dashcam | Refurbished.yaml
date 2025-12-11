@@ -1,12 +1,12 @@
-_id: 692ff6a19e4d179c682e4fc1
+_id: 69393b2c85aaf75b4636bad3
 appOnly: false
 brand: MIO
 brands:
   - id: b487af82-ad33-5930-a857-222875d904ce
     name: MIO
 categories:
-  - 1e544097-d36f-5217-ac8e-b94af9481294
-classicId: '2850940'
+  - 7eb2d7c3-a868-5620-bd04-8722ab26bb95
+classicId: '2873366'
 classicProductId: '678951'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2025-12-10T22:59:59.999Z'
+end: '2025-12-17T22:59:59.999Z'
 freeDelivery: false
-id: 09d715b6-96f3-584a-adcf-db8a9a6bf770
+id: 8d1ddc26-1e9e-453b-b02d-ef18d88e8cd8
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7a3e7028-0e0f-41dc-9f16-3431ba2b75b5
-  priority: 0
-  slug: mio-png-logo-0
+  extension: png
+  id: 1776013
+  priority: 100
+  slug: mio-logo
   type: logo
-offerId: 37adb18a-077e-55a1-898e-2569107a96f0
+offerId: 97ce21dd-ebcc-44a2-a2db-0307ee569433
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 169.95
 slug: mio-mivue-c595w-dashcam-refurbished
 soldOut: false
-start: '2025-12-03T23:00:00.000Z'
+start: '2025-12-10T23:00:00.000Z'
 title: Mio MiVue C595W Dashcam | Refurbished

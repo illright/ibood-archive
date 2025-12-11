@@ -19,13 +19,14 @@ freeDelivery: false
 id: a4fe5de2-7483-4796-9572-db83610a0e81
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2151471
-  priority: 100
-  slug: house-nordic-forno-wandplank-120-x-20-cm
+    - all
+  extension: image/jpeg
+  id: 6ae9aaae-f485-4703-b97e-26ffbdcd5236
+  priority: 0
+  slug: house-nordic-forno-regal-jpg-product-101
   type: product
 logo:
   channels:

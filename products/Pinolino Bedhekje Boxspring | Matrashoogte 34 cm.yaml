@@ -19,13 +19,16 @@ freeDelivery: false
 id: 3c714e8e-11a5-4663-9cc7-92dd2730601b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2265822
-  priority: 100
-  slug: pinolino-bedhekje-boxspring
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cf71727c-8a8c-4e61-9ff0-b35c26639fe5-tr
+  priority: 0
+  slug: pinolino-bedhekje-boxspring-jpg-product-101
   type: product
 logo:
   channels:

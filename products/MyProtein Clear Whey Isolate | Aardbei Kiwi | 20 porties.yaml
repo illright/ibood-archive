@@ -20,12 +20,15 @@ id: cdfceb94-d90a-413c-ae85-343fa23bb74c
 image:
   channels:
     - website
-    - app
     - newsletter
-  extension: jpg
-  id: 2160700
-  priority: 100
-  slug: myprotein-clear-whey-isolate-aardbei-kiwi
+    - all
+    - app
+    - app
+    - website
+  extension: image/png
+  id: fac9a366-b1de-424d-9750-643ec9033feb-tr
+  priority: 0
+  slug: myprotein-clear-whey-isolate-erdbeerekiwi-jpg-product-101
   type: product
 logo:
   channels:

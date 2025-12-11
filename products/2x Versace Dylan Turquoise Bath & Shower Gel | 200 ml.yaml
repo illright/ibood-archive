@@ -19,13 +19,16 @@ freeDelivery: false
 id: 0777ed67-187f-44aa-8ece-98b17e4f4811
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 750331
+  extension: image/png
+  id: 16b2a5f7-5e38-4c9c-8f87-3d38a3887704-tr
   priority: 0
-  slug: 2x-versace-bath-shower-gel
+  slug: 2x-versace-dylan-turquoise-duschgel-jpg-product-1
   type: product
 logo:
   channels:

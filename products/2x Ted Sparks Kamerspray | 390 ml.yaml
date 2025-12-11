@@ -19,14 +19,26 @@ freeDelivery: false
 id: 7b69b639-936a-5ea0-b63f-3b6bde888c7b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1708462
+    - all
+  extension: image/png
+  id: 1832d852-6b0f-4772-9437-88cf2ba6a2ad
   priority: 0
-  slug: 2x-ted-sparks-kamerspray-390-ml
+  slug: ted-sparks-13-png-product-13
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5fa24bf8-0262-4fa5-bb16-7add5803a88e
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
 offerId: 8f1215e9-1db3-59c1-ad18-0847cba8ab69
 price:
   cents: 2495

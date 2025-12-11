@@ -19,13 +19,16 @@ freeDelivery: false
 id: f2cbb775-0db3-4c19-b612-e7965aede4c5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1374939
-  priority: 100
-  slug: house-nordic-genk-wandplank
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 78f16de0-1224-48fd-a834-4aaf7d9aa527-tr
+  priority: 0
+  slug: poka-scienna-house-nordic-genk-jpg-product-101
   type: product
 logo:
   channels:

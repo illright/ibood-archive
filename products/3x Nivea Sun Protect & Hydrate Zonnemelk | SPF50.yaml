@@ -19,13 +19,14 @@ freeDelivery: false
 id: d5757093-618d-4b43-8156-6d86a4b696cd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 549040
-  priority: 100
-  slug: 3x-nivea-hydrate-zonnemelk-spf50
+    - all
+  extension: image/jpeg
+  id: 483a47f1-55ba-4c25-9cd1-a7e5719a7bce
+  priority: 0
+  slug: 3x-protect-hydrate-sonnenmilch-lsf50-jpg-product-101
   type: product
 logo:
   channels:

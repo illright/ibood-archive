@@ -19,13 +19,16 @@ freeDelivery: false
 id: c2edf2d0-b206-55ed-b267-e7696c0db8ba
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1708453
+    - all
+    - app
+    - website
+  extension: image/png
+  id: bbb8bddb-4e8d-466b-806b-fa0495902fe6-tr
   priority: 0
-  slug: ted-sparks-diffuser-xl-450-ml
+  slug: ted-sparks-xl-diffusor-geschenkset-jpg-product-6
   type: product
 logo:
   channels:
@@ -35,7 +38,7 @@ logo:
   extension: png
   id: 1708450
   priority: 100
-  slug: ted-sparks-diffuser-xl-450-ml
+  slug: ted-sparks-xl-diffusor-geschenkset
   type: logo
 offerId: 68dc762b-d376-596d-9882-a0d0a4eb125c
 price:

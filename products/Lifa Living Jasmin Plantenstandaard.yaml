@@ -19,13 +19,16 @@ freeDelivery: false
 id: ae61e0db-5653-4b7d-878d-1982dd1d2646
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 933802
-  priority: 100
-  slug: lifa-living-jasmin-plantenstandaard
+    - all
+    - app
+    - website
+  extension: image/png
+  id: dce242cf-ac3a-4e8f-91d6-de25baf30f20-tr
+  priority: 0
+  slug: lifa-living-jasmin-pflanzenregal-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 897f1273-17d3-4f2e-b2e0-8cf88fcb6d37
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2108931
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 22096fac-d2e9-4a65-b014-8918af50abf8-tr
   priority: 0
-  slug: kalune-design-exxen-salontafel
+  slug: kalune-exxen-couchtisch-jpg-product-1
   type: product
 logo:
   channels:

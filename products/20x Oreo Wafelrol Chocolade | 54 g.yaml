@@ -19,13 +19,16 @@ freeDelivery: false
 id: abf104f6-5646-4b1e-a40a-8cabeba280c6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 900795
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 245f896c-69bf-40f9-8ccf-2b8dbdfcc1c6-tr
   priority: 0
-  slug: 20x-oreo-schoko-waffelrolle-54-g
+  slug: 20x-oreo-schoko-waffelrolle-54-g-jpg-product-1
   type: product
 logo:
   channels:

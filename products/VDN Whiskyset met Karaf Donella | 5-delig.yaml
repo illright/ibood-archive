@@ -19,13 +19,16 @@ freeDelivery: false
 id: 26bce203-4628-437f-9ce6-dbe32ec6e848
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1368093
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 10663394-ba2b-4a93-9938-68aa5356d276-tr
   priority: 0
-  slug: vdn-whiskyset-met-karaf-donella-5-delig
+  slug: vadeni-donella-whisky-set-jpg-product-1
   type: product
 logo:
   channels:

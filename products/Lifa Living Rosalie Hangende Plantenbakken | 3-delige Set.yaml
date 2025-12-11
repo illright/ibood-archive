@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1572bc28-00c1-4a4b-a04b-8c16068edb17
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2105821
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 46354d59-9083-47b1-a03c-ae5c9567a794-tr
   priority: 0
-  slug: lifa-living-rosalie-wand-pflanzenhalter-set
+  slug: lifa-living-rosalie-wand-pflanzenhalter-set-jpg-product-1
   type: product
 logo:
   channels:

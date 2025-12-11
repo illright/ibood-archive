@@ -1,4 +1,4 @@
-_id: 692576ef07830b6493f0a7f8
+_id: 692576c24c656b2226f38b10
 appOnly: false
 brand: Ted Sparks
 brands:
@@ -6,42 +6,35 @@ brands:
     name: Ted Sparks
 categories:
   - ba644c34-0f2f-5f63-a00c-c1151be3ca12
-classicId: '2841895'
-classicProductId: '505735'
+classicId: '2841847'
+classicProductId: '505729'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 63
+discount: 58
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 53ff35a3-1e8f-5574-b5b2-71718ccbf876
+id: 4207887d-1d54-50cf-ae09-c83a280eb5e5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1708372
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 4b93f51d-2af0-458a-876b-fddb0757b59f-tr
   priority: 0
-  slug: ted-sparks-diffuser-200-ml
+  slug: ted-sparks-diffuser-200-ml-1-jpg-product-24
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1708154
-  priority: 100
-  slug: ted-sparks-diffuser-200-ml
-  type: logo
-offerId: b950b0cf-0f8a-5a41-a714-5c28dceb6634
+offerId: f76087c4-ce13-5c34-8343-7dd198aa757f
 price:
-  cents: 1495
+  cents: 1695
   currency: EUR
-  value: 14.95
+  value: 16.95
 referencePrice:
   cents: 3995
   currency: EUR

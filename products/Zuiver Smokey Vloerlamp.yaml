@@ -19,13 +19,16 @@ freeDelivery: false
 id: 573539fd-1ab0-4c54-832f-41f211e8d677
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251713
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7ca9a830-d449-41c8-9f44-ea5325ca81d4-tr
   priority: 0
-  slug: zuiver-smokey-stehleuchte
+  slug: zuiver-smokey-stehleuchte-jpg-product-1
   type: product
 logo:
   channels:

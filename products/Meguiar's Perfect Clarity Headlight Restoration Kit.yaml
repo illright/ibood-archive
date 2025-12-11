@@ -19,13 +19,16 @@ freeDelivery: false
 id: a2031558-42cc-4c95-a125-6f63fff9d2d1
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2238845
+  extension: image/png
+  id: fcbeb261-4f2d-4d67-a15c-a15941bc7cc6-tr
   priority: 0
-  slug: meguiars-perfect-clarity-headlight-restoration-kit
+  slug: meguiars-perfect-clarity-headlight-restoration-kit-jpg-product-1
   type: product
 logo:
   channels:

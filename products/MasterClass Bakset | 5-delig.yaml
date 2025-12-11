@@ -19,13 +19,16 @@ freeDelivery: false
 id: fbf38fe3-a37d-45cc-8aa4-a45fcc8fa4aa
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2204665
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 042efc2c-4958-43c5-a899-b38e2e83ec6e-tr
   priority: 0
-  slug: masterclass-bakset-5-delig
+  slug: masterclass-backset-5-teilig-jpg-product-1
   type: product
 offerId: e71594ac-3cab-4645-bfda-ffbffc939579
 price:

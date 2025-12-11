@@ -19,13 +19,16 @@ freeDelivery: false
 id: f32d5c82-41ec-45aa-91e2-eeb6d04f421b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1453081
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 2a4c9db1-2828-4b08-93bd-0a28e530b445-tr
   priority: 0
-  slug: 2x-meguiars-ultimate-quik-spruhwachs
+  slug: 2x-meguiars-ultimate-quik-spruhwachs-jpg-product-1
   type: product
 logo:
   channels:

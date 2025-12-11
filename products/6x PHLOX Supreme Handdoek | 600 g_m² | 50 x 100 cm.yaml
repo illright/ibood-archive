@@ -1,4 +1,4 @@
-_id: 6932dffb1ec8eb660bd91ecc
+_id: 6932dfeca6b7943056885605
 appOnly: false
 brand: PHLOX
 brands:
@@ -6,8 +6,8 @@ brands:
     name: PHLOX
 categories:
   - 41aff56f-f073-5ac8-8234-b93e5b46c9dc
-classicId: '2865579'
-classicProductId: '576328'
+classicId: '2865555'
+classicProductId: '576326'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: true
 discount: 73
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 04f0b210-f59b-4780-88fb-a462daefe07d
+id: c1d8b878-5647-4b1f-9e9f-5d23743e434a
 image:
   channels:
-    - newsletter
     - app
     - website
-  extension: jpg
-  id: 1317013
+    - newsletter
+    - all
+  extension: image/png
+  id: 3a3dea3a-0d64-451b-af83-e6844e88d856-tr
   priority: 0
-  slug: 6x-phlox-supreme-handdoek-50-x-100-cm
+  slug: 6x-phlox-supreme-handdoek-50-x-100-cm-jpg-product-14
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: phlox-logo
   type: logo
-offerId: 42461727-955d-4cdb-afba-004506718d32
+offerId: 3820e820-bbe2-4c79-a98c-be28fd93a3ff
 price:
   cents: 2195
   currency: EUR

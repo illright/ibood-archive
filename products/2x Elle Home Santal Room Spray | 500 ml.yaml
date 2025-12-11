@@ -1,12 +1,12 @@
-_id: 6936d697e0975e5924bc7b92
+_id: 6926be079248db902f2e0137
 appOnly: false
 brand: ELLE
 brands:
   - id: 958f3645-6602-55c6-9154-58e0e04e7907
     name: ELLE
 categories:
-  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
-classicId: '2870035'
+  - ba5312ec-cbc7-5d02-9f0e-4c0aa42a810a
+classicId: '2842532'
 classicProductId: '681664'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 75
 end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 29693ea9-d828-4d5d-be5e-8aaa0af955fd
+id: fcc9b142-c0e5-59ea-bd6d-bce9ec5aac78
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: elle-home-06-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 2008169
-  priority: 100
-  slug: elle-logo
-  type: logo
-offerId: e15f6b0a-7318-495e-af74-fc08509b7061
+offerId: a8e18fec-2009-5cb6-a898-11c6957f7349
 price:
   cents: 1795
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 72
 slug: 2x-elle-home-santal-room-spray-500-ml
-soldOut: false
-start: '2025-12-08T23:00:00.000Z'
+soldOut: true
+start: '2025-12-03T23:00:00.000Z'
 title: 2x Elle Home Santal Room Spray | 500 ml

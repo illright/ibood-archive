@@ -19,12 +19,14 @@ freeDelivery: false
 id: e65a2ddf-f10f-43e0-9378-3f1e72b50ee9
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: adf2004b-f4f8-4eda-b158-c6c2eb8f42a0
+    - website
+    - app
+    - app
+    - website
+  extension: image/png
+  id: adf2004b-f4f8-4eda-b158-c6c2eb8f42a0-tr
   priority: 0
   slug: eva-trio-rvs-steelpan-o-13-cm-1-1-liter-zilver-product-0
   type: product

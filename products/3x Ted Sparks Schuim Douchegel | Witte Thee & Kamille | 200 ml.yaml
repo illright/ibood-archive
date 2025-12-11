@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: f90665a4-837e-46f3-908e-14b9029153b2
+    - app
+    - website
+  extension: image/png
+  id: f90665a4-837e-46f3-908e-14b9029153b2-tr
   priority: 0
   slug: ted-fsg-c08-ted-sparks-foaming-shower-gel-white-tea-en-chamomile-product-0
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a247f475-5155-48be-ba1c-b6a44ea1eb23
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
 offerId: 21aa16af-2464-5c03-b8f4-522635551526
 price:
   cents: 3995

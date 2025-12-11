@@ -1,12 +1,12 @@
-_id: 69300a0adc12694395a52547
+_id: 69393b0998860542ac1d45ab
 appOnly: false
 brand: Belkin
 brands:
   - id: 5323cc6d-5714-5703-8143-bc15cf4e02c2
     name: Belkin
 categories:
-  - 1e544097-d36f-5217-ac8e-b94af9481294
-classicId: '2851526'
+  - 7eb2d7c3-a868-5620-bd04-8722ab26bb95
+classicId: '2873313'
 classicProductId: '678615'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-12-10T22:59:59.999Z'
+end: '2025-12-17T22:59:59.999Z'
 freeDelivery: false
-id: 299ce5ce-36f5-4f85-9fab-5a620097718a
+id: a9bc15d7-6059-400e-85b4-2dcb5a4d8e89
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: belkin-usb-c-11-in-1-pro-gan-dock-product-3
   type: product
-offerId: 391d3191-7dc4-4023-a6f2-1573232dd2b0
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+  extension: image/png
+  id: cce5b27f-13f6-46b9-aecc-4f7744c9882d
+  priority: 0
+  slug: belkin-logo
+  type: logo
+offerId: 8e360705-5b2b-46eb-b637-63fcf1453dd9
 price:
   cents: 9995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 199.99
 slug: belkin-pro-usb-c-11-in-1-gan-dockingstation-150-w
 soldOut: false
-start: '2025-12-03T23:00:00.000Z'
+start: '2025-12-10T23:00:00.000Z'
 title: Belkin PRO USB-C 11-in-1 GaN Dockingstation | 150 W

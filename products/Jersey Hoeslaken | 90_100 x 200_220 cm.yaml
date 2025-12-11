@@ -1,31 +1,32 @@
-_id: 6932e0401ec8eb660bd91f70
+_id: 69299aac34afddf875cf454f
 appOnly: false
 brand: Vitality Pur
 brands:
   - id: 4b698a8c-2327-5f2e-8632-31b4cb03d028
     name: Vitality Pur
 categories:
-  - 4b989450-9ced-5aa6-b09a-f4df24fb9b6b
-classicId: '2865693'
-classicProductId: '112797'
+  - 7a7c7246-37d5-5d4d-bf8d-0204cb719252
+classicId: '2845275'
+classicProductId: '112795'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
+discount: 54
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: e6adb409-1ac1-496d-ab35-cb8e3cf1d378
+id: 3e173d1c-0d57-5709-9d66-57d9514b5c0d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 214188
+    - all
+  extension: image/png
+  id: 3a6c62cb-6d44-45b1-b4d7-52c5b2de6ecd
   priority: 0
-  slug: spannbettlaken-90100-x-200220-cm
+  slug: dekbed-12-png-product-3
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: vitality-pur-logo
   type: logo
-offerId: 906f8500-6781-4bff-a458-b1251a600aba
+offerId: 4ba7d489-4f8a-5c69-8036-1e3358ba36c2
 price:
-  cents: 995
+  cents: 1195
   currency: EUR
-  value: 9.95
+  value: 11.95
 referencePrice:
   cents: 2595
   currency: EUR
   value: 25.95
 slug: vitality-pur-hoeslaken-90100-x-200220-cm
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-10T23:00:00.000Z'
 title: Jersey Hoeslaken | 90/100 x 200/220 cm

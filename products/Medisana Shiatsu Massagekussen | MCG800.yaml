@@ -19,13 +19,16 @@ freeDelivery: false
 id: a67b5a3d-396d-4cc0-8d2a-289f53b6eebd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1246327
+    - all
+    - app
+    - website
+  extension: image/png
+  id: aa609553-d962-459f-ba8d-097a5d75ac78-tr
   priority: 0
-  slug: medisana-mcg800-komfort-shiatsu-massagekissen
+  slug: medisana-mcg800-komfort-shiatsu-massagekissen-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,14 +19,26 @@ freeDelivery: false
 id: 503e7da2-fbf6-5e05-843a-5844c202ef39
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1708539
+    - all
+  extension: image/png
+  id: a9c2ee42-2b5b-4ea3-bef1-60e7be80c0b3
   priority: 0
-  slug: 3x-ted-sparks-handzeep-390-ml
+  slug: ted-sparks-15-png-product-6
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: cb6e4024-cf46-4702-b1e2-ff94cc6f5a28
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
 offerId: d6d83c5b-d78a-5432-a4af-989786a01a74
 price:
   cents: 2495

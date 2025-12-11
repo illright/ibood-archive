@@ -19,13 +19,16 @@ freeDelivery: false
 id: 0c34278c-64b8-4cfc-a632-3f8b5586450d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1434221
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ef1e8218-0dd2-4394-98ca-6dd042e9ad4a-tr
   priority: 0
-  slug: 2x-multifurn-yerevan-eetkamerstoel
+  slug: 2x-multifurn-yerevan-esszimmerstuhl-mikroleder-jpg-product-1
   type: product
 logo:
   channels:

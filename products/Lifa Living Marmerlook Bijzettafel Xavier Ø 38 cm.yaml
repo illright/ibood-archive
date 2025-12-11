@@ -19,13 +19,14 @@ freeDelivery: false
 id: cdfdcd2c-1401-4fc5-8c59-9f0d5f8f6453
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1271358
+    - all
+  extension: image/jpeg
+  id: a11cef13-b709-4eb9-b190-5c69188120ee
   priority: 0
-  slug: lifa-living-xavier-beistelltisch-38-cm
+  slug: lifa-living-xavier-beistelltisch-38-cm-jpg-product-1
   type: product
 logo:
   channels:

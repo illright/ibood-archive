@@ -19,13 +19,14 @@ freeDelivery: false
 id: a8c0422e-0385-419e-a232-c88656d41208
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2239545
+    - all
+  extension: image/jpeg
+  id: 55d39287-e29f-4622-b140-18d25537e332
   priority: 0
-  slug: kalune-design-sable-koffietafel-black
+  slug: kalune-design-sable-koffietafel-black-jpg-product-1
   type: product
 logo:
   channels:

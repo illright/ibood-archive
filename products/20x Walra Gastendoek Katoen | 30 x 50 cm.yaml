@@ -19,13 +19,16 @@ freeDelivery: false
 id: 8dcc20a4-3e07-4d39-9044-8d8aa5c74878
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1309978
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 80705b20-b746-4f3e-97a3-6c3be686f3d4-tr
   priority: 0
-  slug: 20x-walra-gastendoek-katoen-30-x-50-cm
+  slug: 20x-walra-baumwollhandtuch-30-x-50-cm-3-jpg-product-35
   type: product
 logo:
   channels:

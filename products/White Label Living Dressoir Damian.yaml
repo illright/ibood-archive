@@ -19,13 +19,16 @@ freeDelivery: false
 id: 9e2ce6ea-2daa-4930-818b-07424f55610a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 846930
-  priority: 100
-  slug: white-label-living-dressoir-damian
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ad16c011-3952-4ad7-b8ba-666ee823ea13-tr
+  priority: 0
+  slug: white-label-living-dressoir-damian-jpg-product-101
   type: product
 logo:
   channels:

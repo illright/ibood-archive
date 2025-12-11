@@ -19,13 +19,16 @@ freeDelivery: false
 id: e5402b91-8f7b-4dfb-a09f-f49bf69136ab
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1134208
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 2dc52be2-99f2-47d2-b84d-ef67097d83c8-tr
   priority: 0
-  slug: 6x-nivea-men-aftershavebalsem-protect-care
+  slug: 6x-nivea-men-protect-care-aftershave-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 42bb29dc-75bd-4498-b539-68ae30978480
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251588
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c093f0ac-c1dc-4480-a204-00742c72f984-tr
   priority: 0
-  slug: white-label-living-marcio-couchtisch
+  slug: white-label-living-marcio-couchtisch-jpg-product-1
   type: product
 logo:
   channels:

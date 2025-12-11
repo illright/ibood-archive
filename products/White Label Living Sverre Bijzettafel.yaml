@@ -19,13 +19,14 @@ freeDelivery: false
 id: 035d76ab-6340-4860-a556-6dd752158b13
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251860
+    - all
+  extension: image/png
+  id: 96d864b9-894a-475b-90f9-1c8ff0a86325-tr
   priority: 0
-  slug: white-label-living-sverre-square-beistelltisch
+  slug: white-label-living-sverre-square-beistelltisch-jpg-product-1
   type: product
 logo:
   channels:

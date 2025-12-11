@@ -19,13 +19,14 @@ freeDelivery: false
 id: 013a9c20-4416-4860-bcd1-53d36d1ba704
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2242304
+    - all
+  extension: image/jpeg
+  id: 2a594ac6-1fa9-4dd0-bb4b-eb9ddb9ccd6c
   priority: 0
-  slug: zo-home-lino-bettwasche-140-x-220-cm
+  slug: zo-home-lino-bettwasche-140-x-220-cm-jpg-product-1
   type: product
 logo:
   channels:

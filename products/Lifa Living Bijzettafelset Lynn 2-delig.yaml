@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4c4ba87b-b455-42b4-a810-2e8cb29f6307
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1400976
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cd7c4b92-6f87-4784-a84c-995b52c07fd3-tr
   priority: 0
-  slug: lifa-living-lynn-beistelltisch-set-2-teilig
+  slug: lifa-living-lynn-beistelltisch-set-2-teilig-jpg-product-1
   type: product
 logo:
   channels:

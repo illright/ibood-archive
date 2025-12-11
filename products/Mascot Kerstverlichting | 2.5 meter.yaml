@@ -1,31 +1,32 @@
-_id: 6932dfac6c77c80268f01e30
+_id: 69395382e45a91afa78b8059
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - b1debe60-9c2b-514f-8567-47da745211dd
-classicId: '2865448'
+  - abf53fdc-190d-575f-81d6-11a0c3569e24
+classicId: '2873577'
 classicProductId: '256404'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 83
-end: '2025-12-14T22:59:59.999Z'
+discount: 87
+end: '2025-12-24T22:59:59.999Z'
 freeDelivery: false
-id: 37b29f3a-0060-424c-8b96-ae8ced3df4ba
+id: e73f6305-8254-4e5c-a000-eaced46294cd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 689747
+    - all
+  extension: image/png
+  id: e978deed-098a-444c-8c4e-67306634d56a-tr
   priority: 0
-  slug: kerstverlichting-25-meter
+  slug: weihnachtsbaum-beleuchtung-25-m-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: lifa-living-logo
   type: logo
-offerId: dd8d7d5d-7bd0-4027-92f5-4347150f5c05
+offerId: 8592146f-b08b-483e-886f-c50d8c326424
 price:
-  cents: 495
+  cents: 395
   currency: EUR
-  value: 4.95
+  value: 3.95
 referencePrice:
   cents: 2995
   currency: EUR
   value: 29.95
 slug: kerstverlichting-25-meter
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Mascot Kerstverlichting | 2.5 meter

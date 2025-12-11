@@ -19,13 +19,16 @@ freeDelivery: false
 id: 65b5738a-5999-43f9-b990-d69536add47d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2002356
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 190dfd86-c55a-49bb-9d44-c39c766297bf-tr
   priority: 0
-  slug: 6x-therme-bali-flower-shower-200-ml
+  slug: 6x-therme-bali-flower-duschgel-200-ml-jpg-product-1
   type: product
 logo:
   channels:

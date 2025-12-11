@@ -1,4 +1,4 @@
-_id: 692576df58c0f8bbec72d243
+_id: 692576d4aea264fcf227f21a
 appOnly: false
 brand: Ted Sparks
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Ted Sparks
 categories:
   - ba644c34-0f2f-5f63-a00c-c1151be3ca12
-classicId: '2841876'
-classicProductId: '505493'
+classicId: '2841871'
+classicProductId: '505494'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,30 @@ directCheckout: true
 discount: 50
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 7bcc4319-ddba-5e59-9b0c-ea0f10fbc545
+id: 6e0226ea-2822-50f8-836b-84e01d75b4fc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1707425
+    - all
+  extension: image/png
+  id: 4890f6f1-a4cb-40b6-8e05-4f975a766661
   priority: 0
-  slug: ted-sparks-mini-kaarsenset-3-delig
+  slug: ted-sparks-09-png-product-11
   type: product
-offerId: 7ee720c2-e313-574c-ad50-c32e00f1b342
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 91477d53-b27e-48d1-8e92-9db25458929c
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
+offerId: d4a4bee5-4c54-56e0-a138-0ae4e8abb858
 price:
   cents: 1495
   currency: EUR

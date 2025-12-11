@@ -19,13 +19,16 @@ freeDelivery: false
 id: de8a8739-59ee-4527-9843-4713de01559a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 549038
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5b81b97f-8cca-400a-be7c-ac7726b31613-tr
   priority: 0
-  slug: 3x-nivea-sensitive-lsf50
+  slug: 3x-nivea-sensitive-lsf50-jpg-product-1
   type: product
 logo:
   channels:

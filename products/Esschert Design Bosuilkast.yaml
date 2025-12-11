@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1d8d5dd7-db7f-46c2-8e9d-2a9bca808cb3
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1903882
-  priority: 100
-  slug: esschert-design-bosuilkast
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 75615755-da8f-4f3f-bf2d-cc41a7dde25e-tr
+  priority: 0
+  slug: esschert-design-waldkauzkasten-jpg-product-101
   type: product
 logo:
   channels:

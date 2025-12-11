@@ -19,13 +19,14 @@ freeDelivery: false
 id: 835b63ab-2eb0-4829-9f9c-96e6ee85f288
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2211226
+    - all
+  extension: image/png
+  id: 7b7b8dbf-23ed-4224-9c21-52a05012db58
   priority: 0
-  slug: karlsson-wood-melange-wandklok
+  slug: karlsson-130-png-product-1
   type: product
 logo:
   channels:

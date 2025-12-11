@@ -1,22 +1,22 @@
-_id: 692433214414378884e8b80f
+_id: 6930237d8f53578cc486ec25
 appOnly: false
 brand: Eclat Skin London
 brands:
   - id: d7455e77-aaa6-58d8-8111-aea1804ad717
     name: Eclat Skin London
 categories:
-  - ba5312ec-cbc7-5d02-9f0e-4c0aa42a810a
-classicId: '2840828'
+  - 10f93e84-ae0f-5997-b7f7-03c2e4c58647
+classicId: '2852151'
 classicProductId: '600042'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 87
+discount: 82
 end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 97747474-15f1-4955-b6c7-cfc09a65d748
+id: d7f426a4-7cca-51ab-b6b0-3733c0a8b773
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: erthskin-london-blackhead-remover-set
   type: product
-offerId: 53d0663a-e1b6-4d57-88ba-caf0609b8096
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1936933
+  priority: 100
+  slug: eclat-skin-london-logo
+  type: logo
+offerId: ce382fed-bf17-5697-b590-ef959cc11fa1
 price:
-  cents: 1795
+  cents: 2495
   currency: EUR
-  value: 17.95
+  value: 24.95
 referencePrice:
   cents: 13899
   currency: EUR
   value: 138.99
 slug: erthskin-london-blackhead-remover-set
-soldOut: true
-start: '2025-12-03T23:00:00.000Z'
+soldOut: false
+start: '2025-12-10T23:00:00.000Z'
 title: ErthSkin London Blackhead Remover + Hyaluronzuur Toner Set

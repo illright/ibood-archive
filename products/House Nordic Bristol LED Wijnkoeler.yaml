@@ -19,13 +19,16 @@ freeDelivery: false
 id: 420ece2f-debb-4800-a08b-6d9fa3e41a44
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2272330
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 8b19b4df-2f63-4c14-ac52-b7e0b0a79837-tr
   priority: 0
-  slug: house-nordic-bristol-led-wijnkoeler
+  slug: house-nordic-bristol-led-weinkuhler-jpg-product-1
   type: product
 logo:
   channels:

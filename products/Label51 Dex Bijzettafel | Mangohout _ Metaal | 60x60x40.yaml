@@ -19,13 +19,16 @@ freeDelivery: false
 id: 0331b32e-6d93-4d87-a98a-8cc371cc3566
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1970995
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 420eaa30-5843-4231-a182-a507b4b5a61a-tr
   priority: 0
-  slug: label-51-beistelltisch-mangoholz-60-x-60-x-40
+  slug: label-51-beistelltisch-mangoholz-60-x-60-x-40-jpg-product-1
   type: product
 logo:
   channels:

@@ -1,12 +1,12 @@
-_id: 69300a12dc12694395a52552
+_id: 69393b08321fa3a0206d8e79
 appOnly: false
 brand: Belkin
 brands:
   - id: 5323cc6d-5714-5703-8143-bc15cf4e02c2
     name: Belkin
 categories:
-  - 1e544097-d36f-5217-ac8e-b94af9481294
-classicId: '2851532'
+  - 7eb2d7c3-a868-5620-bd04-8722ab26bb95
+classicId: '2873310'
 classicProductId: '678612'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2025-12-10T22:59:59.999Z'
+end: '2025-12-17T22:59:59.999Z'
 freeDelivery: false
-id: d9bf02e4-9daf-47de-896f-7dd4fd0b171e
+id: e6f02134-857a-4ce0-90da-2ca856f03d8a
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: belkin-adapter-usb-c-to-gigabit-ethernet-wht-product-0
   type: product
-offerId: 9cf78c3c-acad-483a-a84a-4d56f654ef50
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+  extension: image/png
+  id: cce5b27f-13f6-46b9-aecc-4f7744c9882d
+  priority: 0
+  slug: belkin-logo
+  type: logo
+offerId: 416facaf-77e4-41df-a1d0-d387f128aa20
 price:
   cents: 999
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 34.99
 slug: belkin-usb-c-naar-gigabit-ethernet-adapter
 soldOut: false
-start: '2025-12-03T23:00:00.000Z'
+start: '2025-12-10T23:00:00.000Z'
 title: Belkin USB-C naar Gigabit-Ethernet Adapter

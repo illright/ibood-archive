@@ -19,13 +19,16 @@ freeDelivery: false
 id: 285137d3-abb7-4955-b071-2e504186fcb8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2235226
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 04cb57d4-8464-425d-9d57-b19ed325618f-tr
   priority: 0
-  slug: 6x-therme-zen-white-lotus-home-spray
+  slug: 6x-therme-zen-white-lotus-duftspray-png-product-1
   type: product
 logo:
   channels:

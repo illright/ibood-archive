@@ -19,13 +19,14 @@ freeDelivery: false
 id: 1f45c69e-4e57-4e67-a4ba-34526c670b9d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2159728
-  priority: 100
-  slug: myprotein-origin-pre-workout-blauwe-framboos
+    - all
+  extension: image/jpeg
+  id: 57fa4527-663f-442d-8b84-f9299b189adb
+  priority: 0
+  slug: myprotein-origin-pre-workout-himbeere-600-g-jpg-product-101
   type: product
 logo:
   channels:

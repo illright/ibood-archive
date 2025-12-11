@@ -19,13 +19,14 @@ freeDelivery: false
 id: d8cba672-dfe0-4fda-89f7-fb03cfc3f5b9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2031904
+    - all
+  extension: image/jpeg
+  id: 2ef2d6a8-9db2-4b75-bd97-ba1bb2478196
   priority: 0
-  slug: kalune-zulla-schuhschrank
+  slug: kalune-zulla-schuhschrank-jpg-product-1
   type: product
 logo:
   channels:

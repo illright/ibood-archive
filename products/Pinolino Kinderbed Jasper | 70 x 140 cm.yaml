@@ -19,13 +19,16 @@ freeDelivery: false
 id: 0c0fd789-aafd-4d02-942a-92d832378c87
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2265836
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9bbe07b1-2d50-4b19-a054-5f52befcb7b9-tr
   priority: 0
-  slug: pinolino-kinderbed-jasper-70-x-140-cm
+  slug: pinolino-kinderbed-jasper-70-x-140-cm-jpg-product-1
   type: product
 logo:
   channels:

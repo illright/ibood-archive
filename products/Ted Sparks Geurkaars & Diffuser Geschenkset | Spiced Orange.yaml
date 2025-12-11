@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: e0e75848-c3a3-4213-83e0-b0690a604405
+    - app
+    - website
+  extension: image/png
+  id: e0e75848-c3a3-4213-83e0-b0690a604405-tr
   priority: 0
   slug: ted-gb-m-w06-2-ted-sparks-candle-en-diffuser-gift-set-spiced-orange-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b4e5d070-bd2e-44e0-a4a6-7af8ae6f2d58
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
 offerId: ac82d36d-5639-5e20-8593-e2fa9c144e39
 price:
   cents: 1995

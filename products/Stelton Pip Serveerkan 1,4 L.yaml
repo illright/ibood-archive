@@ -19,13 +19,14 @@ freeDelivery: false
 id: 13e4100f-17bb-4cf8-aba3-df97963b65b9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2062211
+    - all
+  extension: image/jpeg
+  id: ef0a7028-2cd8-41bf-b489-7e59b1355fdc
   priority: 0
-  slug: rig-tig-by-stelton-pip-servierkanne-14-l
+  slug: rig-tig-by-stelton-pip-servierkanne-14-l-jpg-product-1
   type: product
 logo:
   channels:

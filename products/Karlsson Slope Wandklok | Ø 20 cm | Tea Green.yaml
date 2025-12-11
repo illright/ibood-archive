@@ -19,13 +19,14 @@ freeDelivery: false
 id: 8809de4c-076f-491b-a7c2-8d30af80e3dd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2238933
+    - all
+  extension: image/png
+  id: cd106c14-68a8-461f-81a0-28c029bc578d
   priority: 0
-  slug: karlsson-slope-wanduhr-tea-green
+  slug: karlsson-127-png-product-1
   type: product
 logo:
   channels:

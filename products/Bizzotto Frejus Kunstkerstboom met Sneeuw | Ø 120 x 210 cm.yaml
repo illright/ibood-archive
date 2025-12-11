@@ -1,12 +1,12 @@
-_id: 6932e06f725331bb433c95fc
+_id: 6939536b321fa3a0206d8feb
 appOnly: false
 brand: Bizzotto
 brands:
   - id: 697db554-7695-52ca-9aed-49c669f2121c
     name: Bizzotto
 categories:
-  - b1debe60-9c2b-514f-8567-47da745211dd
-classicId: '2865770'
+  - abf53fdc-190d-575f-81d6-11a0c3569e24
+classicId: '2873568'
 classicProductId: '674987'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 38
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-24T22:59:59.999Z'
 freeDelivery: false
-id: 422a2ebe-60b1-442a-987f-cb983dd3c303
+id: bf7dce0c-b716-43bb-b357-c60a1321c7b5
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 5278cb88-e1af-448a-9c36-137c9b921aab
+    - app
+    - website
+  extension: image/png
+  id: 5278cb88-e1af-448a-9c36-137c9b921aab-tr
   priority: 0
   slug: 970074-frejus-tree-w-snow-h210-2229tips-bizzotto-product-0
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: bizzotto-logo-0
   type: logo
-offerId: df63c584-4716-44f6-87d3-8bf3e2705695
+offerId: 0b53f74d-3817-41c5-ba2f-cabeed1e4731
 price:
   cents: 24900
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 399
 slug: bizzotto-frejus-kunstkerstboom-met-sneeuw-120-x-210-cm
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-09T23:00:00.000Z'
 title: Bizzotto Frejus Kunstkerstboom met Sneeuw | Ø 120 x 210 cm

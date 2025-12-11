@@ -19,13 +19,16 @@ freeDelivery: false
 id: 8c55c94a-d98c-48a8-a0e5-3f73f08fce05
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1983074
-  priority: 100
-  slug: empose-nutrition-trinkflasche-22-l
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c75991ed-8282-4ee7-ab89-913b80e9e1e3-tr
+  priority: 0
+  slug: empose-nutrition-trinkflasche-22-l-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 91c4be2c-3e0e-458d-a70e-ad62b548d59c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1202535
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b1b146c1-867c-434e-afe9-dded34b3f28f-tr
   priority: 0
-  slug: 6x-rcr-brillante-rotweinglas
+  slug: 6x-rcr-brillante-rotweinglas-jpg-product-1
   type: product
 logo:
   channels:

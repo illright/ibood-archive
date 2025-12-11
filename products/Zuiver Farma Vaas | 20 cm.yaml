@@ -19,13 +19,16 @@ freeDelivery: false
 id: 8c58df3b-a228-421b-a4b7-e2e536595b51
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2096883
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 426bcb2a-0b98-4b2e-af80-0de4092dc9cb-tr
   priority: 0
-  slug: zuiver-farma-vaas-20-cm
+  slug: zuiver-farma-vase-53-cm-jpg-product-1
   type: product
 logo:
   channels:

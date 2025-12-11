@@ -19,13 +19,16 @@ freeDelivery: false
 id: 07dbe181-ef1f-4c39-8718-018612b83f4d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2160746
-  priority: 100
-  slug: myprotein-clear-whey-isolate-wassermelone
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7048c42d-4c69-46ab-b18b-428ee6a4681c-tr
+  priority: 0
+  slug: myprotein-clear-whey-isolate-wassermelone-jpg-product-101
   type: product
 logo:
   channels:

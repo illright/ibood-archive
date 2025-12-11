@@ -19,13 +19,16 @@ freeDelivery: false
 id: 24318c21-ddf8-4e32-b632-d738cebb12cb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2265825
-  priority: 100
-  slug: pinolino-bedrail-classic-bed
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c66be9aa-4362-4805-b475-8330e0b50df0-tr
+  priority: 0
+  slug: pinolino-bedrail-classic-bed-jpg-product-101
   type: product
 logo:
   channels:

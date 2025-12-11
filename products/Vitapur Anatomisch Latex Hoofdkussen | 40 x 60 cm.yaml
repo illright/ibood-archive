@@ -19,13 +19,14 @@ freeDelivery: false
 id: 0fb0cff8-5850-44f7-b391-2a91c1514c67
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1822162
+    - all
+  extension: image/png
+  id: ad87969e-663b-4133-9f76-5c4cb84f9f0e-tr
   priority: 0
-  slug: vitapur-anatomisches-latexkissen
+  slug: vitapur-anatomisches-latexkissen-jpg-product-1
   type: product
 logo:
   channels:

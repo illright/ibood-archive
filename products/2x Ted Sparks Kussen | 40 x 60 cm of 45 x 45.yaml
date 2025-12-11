@@ -1,4 +1,4 @@
-_id: 692576e512d779815a2059f4
+_id: 692576d812d779815a2059f0
 appOnly: false
 brand: Ted Sparks
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Ted Sparks
 categories:
   - ba644c34-0f2f-5f63-a00c-c1151be3ca12
-classicId: '2841880'
-classicProductId: '681393'
+classicId: '2841872'
+classicProductId: '681392'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,32 @@ directCheckout: true
 discount: 56
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 8883f23f-5953-576a-ae37-4a3da0158b1b
+id: d364e42d-c8b0-5c6b-86bf-fd7cc1c8dfeb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1792243
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e81a3188-c21b-45ab-8399-3251fb700560-tr
   priority: 0
-  slug: 2x-ted-sparks-kussen-40-x-60-cm-of-45-x-45
+  slug: 2x-ted-sparks-kissen-40-x-60-oder-45-x-45-cm-1-jpg-product-101
   type: product
-offerId: d950a343-676c-5128-bea7-5aa04356d7f6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: eb4b4a9e-10c9-4e6a-914b-21a163a39b2f
+  priority: 0
+  slug: ted-sparks-png-logo-0
+  type: logo
+offerId: 9d44812f-f27c-59a9-9e8d-5cc0439d6b5a
 price:
   cents: 3995
   currency: EUR
