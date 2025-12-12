@@ -19,13 +19,16 @@ freeDelivery: false
 id: dc65b39e-18d8-4e13-b813-33958518c991
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251792
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f1fb8f36-8b87-47cf-a625-aa915bcbb60d-tr
   priority: 0
-  slug: dutchbone-jakub-wandkapstok
+  slug: dutchbone-jakub-wandkapstok-jpg-product-1
   type: product
 logo:
   channels:

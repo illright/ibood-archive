@@ -19,13 +19,14 @@ freeDelivery: false
 id: fe8eba0f-1a69-4b06-8e2a-de2250241dc4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1840871
+    - all
+  extension: image/jpeg
+  id: e349fd63-c061-46f3-99fe-728f8b7cfadf
   priority: 0
-  slug: dutchbone-class-tafel-180-x-90-cm
+  slug: dutchbone-class-tafel-180-x-90-cm-jpg-product-1
   type: product
 logo:
   channels:

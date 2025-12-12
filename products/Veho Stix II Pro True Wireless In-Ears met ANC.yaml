@@ -1,4 +1,4 @@
-_id: 6932af33e737494d3450a499
+_id: 6932af30e737494d3450a493
 appOnly: false
 brand: Veho
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Veho
 categories:
   - e3901035-dac1-5062-a5e6-2384bdb4cf27
-classicId: '2862851'
-classicProductId: '587084'
+classicId: '2862850'
+classicProductId: '540096'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,31 +16,30 @@ directCheckout: true
 discount: 77
 end: '2025-12-15T22:59:59.999Z'
 freeDelivery: false
-id: 1a07e5b8-621d-52b3-8908-9cff62937b77
+id: 1bccc944-bf72-58da-ab17-9e6f1fd904c9
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: 01d3ed89-9b05-4670-b4fd-ac11146aa6f4-tr
+  id: 4debfa81-897d-4f81-8333-fc458ac8c906
   priority: 0
-  slug: veho-stix-ii-pro-true-wireless-in-ears-anc-jpg-product-1
+  slug: veho-stix-ii-pro-true-wiredless-in-ears-anc-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1529676
-  priority: 100
-  slug: veho-logo
+    - all
+  extension: image/png
+  id: 4f48ee95-9bb9-4ec8-965c-879cd072c160
+  priority: 0
+  slug: veho-zb-4neb-bt-kopfhorer-png-logo-0
   type: logo
-offerId: 8334bf23-152b-55c2-b4c2-3f6b043efbe7
+offerId: 684d5097-ecaf-538c-836a-a06f45e184a9
 price:
   cents: 3495
   currency: EUR

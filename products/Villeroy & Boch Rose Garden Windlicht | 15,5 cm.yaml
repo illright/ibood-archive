@@ -19,13 +19,14 @@ freeDelivery: false
 id: 9af50371-dc0f-45df-8139-c9f63c5dae08
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2267702
+    - all
+  extension: image/png
+  id: 424fdbae-d3c5-4515-b58d-001c82a81b73
   priority: 0
-  slug: villeroy-boch-rose-garden-windlicht
+  slug: villeroy-77-png-product-1
   type: product
 logo:
   channels:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 44.9
 slug: villeroy-boch-rose-garden-windlicht
-soldOut: false
+soldOut: true
 start: '2025-12-07T23:00:00.000Z'
 title: Villeroy & Boch Rose Garden Windlicht | 15,5 cm

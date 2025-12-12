@@ -1,4 +1,4 @@
-_id: 692576f007830b6493f0a7f9
+_id: 69257694aea264fcf227f209
 appOnly: false
 brand: Ted Sparks
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Ted Sparks
 categories:
   - ba644c34-0f2f-5f63-a00c-c1151be3ca12
-classicId: '2841898'
-classicProductId: '505492'
+classicId: '2841807'
+classicProductId: '505489'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 60
+discount: 56
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: eec5a863-3c49-5cc8-9b51-9437ad19512e
+id: 258c9913-60eb-5c3b-9b5d-8b0acb9a08a0
 image:
   channels:
     - app
@@ -26,15 +26,25 @@ image:
     - app
     - website
   extension: image/png
-  id: 69fd6981-768d-4cc2-a247-c23ed79b4beb-tr
+  id: 03b6438a-7baf-46ca-a159-3fb15e250c97-tr
   priority: 0
-  slug: ted-sparks-geschenkset-kerze-diffusor-1-jpg-product-1
+  slug: ted-sparks-geschenkset-kerze-diffusor-jpg-product-12
   type: product
-offerId: 42f0e1be-c906-56a9-8c1d-da438a2dc141
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1707404
+  priority: 100
+  slug: ted-sparks-geschenkset-kerze-diffusor
+  type: logo
+offerId: c37ee9b1-72b2-5aea-a8d8-251e6d0b30e4
 price:
-  cents: 1995
+  cents: 2195
   currency: EUR
-  value: 19.95
+  value: 21.95
 referencePrice:
   cents: 4995
   currency: EUR

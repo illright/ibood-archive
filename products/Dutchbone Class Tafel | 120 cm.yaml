@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6b79abe3-ef33-4cd2-9f98-65e9ab6c9787
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2254172
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 26c02bff-6564-46d0-82ea-2064fa73d5fa-tr
   priority: 0
-  slug: dutchbone-class-tafel-120-cm
+  slug: dutchbone-class-tafel-120-cm-jpg-product-2
   type: product
 logo:
   channels:

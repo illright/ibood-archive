@@ -19,13 +19,14 @@ freeDelivery: false
 id: e2e361c6-0580-4856-a54d-745de027f974
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2267685
+    - all
+  extension: image/png
+  id: 0da76f20-cda1-48ab-bbae-57651e00e2c5
   priority: 0
-  slug: villeroy-boch-rose-garden-teelicht-halter
+  slug: villeroy-76-png-product-1
   type: product
 logo:
   channels:
