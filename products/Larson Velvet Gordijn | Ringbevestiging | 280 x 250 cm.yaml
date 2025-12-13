@@ -19,13 +19,14 @@ freeDelivery: false
 id: ff6f2db9-84f9-4f80-960e-5ee3fa60034c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1347550
+    - all
+  extension: image/jpeg
+  id: 1aa272bb-c2e3-410f-b68b-82f076059235
   priority: 0
-  slug: zasona-larson-velvet-280-x-250-cm
+  slug: zasona-larson-velvet-280-x-250-cm-jpg-product-1
   type: product
 logo:
   channels:

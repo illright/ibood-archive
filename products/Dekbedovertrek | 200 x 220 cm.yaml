@@ -19,13 +19,14 @@ freeDelivery: false
 id: 42501d5f-8278-44c1-8dbe-cfff7025df71
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2246808
+    - all
+  extension: image/png
+  id: a40fdbcf-5bd5-4dbc-a2ca-0e1be4c6b9f6
   priority: 0
-  slug: zo-home-lino-bettwasche-200-x-220-cm
+  slug: quattro-01-png-product-7
   type: product
 logo:
   channels:

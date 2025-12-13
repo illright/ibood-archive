@@ -19,13 +19,16 @@ freeDelivery: false
 id: fd29ed6e-0e64-4a19-832f-df12131e6def
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1366198
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 6338be11-8284-4240-a274-a42f5b8668e1-tr
   priority: 0
-  slug: velleman-tobbie-de-robot-ksr18
+  slug: vellemann-ksr18-tobbie-der-roboter-jpg-product-1
   type: product
 logo:
   channels:

@@ -1,4 +1,4 @@
-_id: 6932def81ec8eb660bd91b9c
+_id: 6932defa725331bb433c9474
 appOnly: false
 brand: DoubleDry
 brands:
@@ -6,8 +6,8 @@ brands:
     name: DoubleDry
 categories:
   - 4b989450-9ced-5aa6-b09a-f4df24fb9b6b
-classicId: '2865154'
-classicProductId: '602134'
+classicId: '2865151'
+classicProductId: '602133'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 47
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 0304cb17-b3f8-45ad-9f17-777d179eab5d
+id: 2a2d7d0d-4f46-40df-bc8f-3c72b9914de4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2087770
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 60b73263-685a-4e6d-81c1-f9c58fb9c5a4-tr
   priority: 0
-  slug: doubledry-dekbedovertrek-katoen-140-x-200220
+  slug: doubledry-bettwasche-baumwolle-140-x-200220-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: doubledry-logo
   type: logo
-offerId: fbab6c84-1faa-4856-a42f-aace0a246809
+offerId: bd3b560d-4a81-4169-8aa5-d50e05649054
 price:
   cents: 1495
   currency: EUR
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 27.95
 slug: doubledry-dekbedovertrek-katoen-140-x-200220
-soldOut: false
+soldOut: true
 start: '2025-12-07T23:00:00.000Z'
 title: DoubleDry Dekbedovertrek Katoen | 140 x 200/220 cm

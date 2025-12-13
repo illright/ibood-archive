@@ -19,13 +19,16 @@ freeDelivery: false
 id: ed75bd6d-347b-4c34-84f7-db9ea9dc3e99
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1803271
-  priority: 100
-  slug: esschert-design-haardblokkentas
+    - all
+    - app
+    - website
+  extension: image/png
+  id: dcf50585-8ddd-4a01-a7cc-bc013deac6c2-tr
+  priority: 0
+  slug: esschert-design-kaminholz-tragetasche-jpg-product-101
   type: product
 logo:
   channels:

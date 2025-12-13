@@ -19,13 +19,14 @@ freeDelivery: false
 id: 6c4147f7-e3d1-491a-997b-9a775b6d2181
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 807206
-  priority: 100
-  slug: esschert-design-vuurschaal-keramiek-betonlook
+    - all
+  extension: image/jpeg
+  id: 6b2b7d48-f5ec-470a-b17e-02f58897cb81
+  priority: 0
+  slug: esschert-design-feuerschale-keramik-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 60224df8-31be-47d9-b031-98f1046fd147
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1875444
-  priority: 2
-  slug: 2x-esschert-design-wandhaak-hert
+    - all
+  extension: image/jpeg
+  id: 0b587f2e-8ffd-4a67-a29d-944ff0e0f585
+  priority: 0
+  slug: 2x-esschert-design-doppel-wandhaken-hirsch-jpg-product-3
   type: product
 logo:
   channels:

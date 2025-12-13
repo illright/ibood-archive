@@ -19,13 +19,16 @@ freeDelivery: false
 id: 484f69e1-4253-4a56-ac7f-1ed18bcc6874
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1506672
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 678f04ed-38ca-47b3-a375-187a3165a375-tr
   priority: 0
-  slug: heckett-lane-yellow-overtrek-140-x-200220
+  slug: posciel-yellow-cialda-140-x-200220-cm-2-png-product-37
   type: product
 logo:
   channels:
@@ -35,7 +38,7 @@ logo:
   extension: jpg
   id: 1215410
   priority: 100
-  slug: heckett-lane-yellow-overtrek-140-x-200220
+  slug: posciel-yellow-cialda-140-x-200220-cm
   type: logo
 offerId: 26d3bfff-ab53-49d3-bd66-2fe8cd416055
 price:

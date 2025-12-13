@@ -19,13 +19,14 @@ freeDelivery: false
 id: 45cd6b97-ffea-43e0-b8a6-57aa88b6f028
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1837161
+    - all
+  extension: image/jpeg
+  id: 0ffb1b84-f62c-4a47-8cfa-614bb6952bc3
   priority: 0
-  slug: esschert-design-hirschgeweih-haken
+  slug: esschert-design-hirschgeweih-haken-jpg-product-1
   type: product
 logo:
   channels:

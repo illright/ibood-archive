@@ -19,13 +19,14 @@ freeDelivery: false
 id: 7ebd975c-b603-4d13-9e1f-e8d9fadf29c5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1573679
+    - all
+  extension: image/png
+  id: 5f32696c-7ae3-4b1a-81fb-f60337372f85
   priority: 0
-  slug: vt-wonen-dekbedovertrek-140-x-220-cm
+  slug: vt-wonen-46-png-product-46
   type: product
 logo:
   channels:

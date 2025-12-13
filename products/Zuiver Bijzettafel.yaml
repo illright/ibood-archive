@@ -19,13 +19,14 @@ freeDelivery: false
 id: 5f312cf5-84ab-4b63-a93b-a0b36c605407
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2250232
-  priority: 100
-  slug: zuiver-bijzettafel
+    - all
+  extension: image/jpeg
+  id: 62dd51af-a33a-475f-a7c2-48e2a12715fe
+  priority: 0
+  slug: zuiver-bijzettafel-jpg-product-101
   type: product
 logo:
   channels:

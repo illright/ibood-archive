@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5d04be50-906a-4289-a617-4def31ba029e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1837058
-  priority: 100
-  slug: esschert-design-egelhuis
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3f863811-08cb-4978-98ff-4504ec5d1b78-tr
+  priority: 0
+  slug: esschert-design-igelhaus-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 44f4ccad-2f14-4cd0-a511-a22b5d2269cf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251846
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 76fd4732-82c1-43f4-9bb3-9c22ae8e11f2-tr
   priority: 0
-  slug: 2x-eetkamerstoel-willow
+  slug: 2x-eetkamerstoel-willow-jpg-product-1
   type: product
 logo:
   channels:

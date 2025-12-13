@@ -19,13 +19,16 @@ freeDelivery: false
 id: 118a1fef-b7c0-41e7-a590-a40ef4fbdd1a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2239671
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 6322ef57-9a91-4b97-97ec-173090ae219e-tr
   priority: 0
-  slug: petrol-poloshirt-pflanzenmotiv-navy-herren
+  slug: petrol-poloshirt-pflanzenmotiv-navy-herren-jpg-product-1
   type: product
 logo:
   channels:

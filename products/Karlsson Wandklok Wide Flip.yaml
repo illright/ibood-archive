@@ -19,13 +19,16 @@ freeDelivery: false
 id: b6c4ca1a-0784-4dec-a207-ad4512fa269d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2141973
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c752dcfa-ec66-44e2-8982-f05006ac89ce-tr
   priority: 0
-  slug: karlsson-wandklok-wide-flip
+  slug: karlsson-wide-flip-tisch-und-wanduhr-jpg-product-1
   type: product
 logo:
   channels:

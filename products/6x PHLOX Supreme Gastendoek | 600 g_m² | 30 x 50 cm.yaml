@@ -1,4 +1,4 @@
-_id: 6932e0141ec8eb660bd91ee7
+_id: 6932dffba6b7943056885656
 appOnly: false
 brand: PHLOX
 brands:
@@ -6,8 +6,8 @@ brands:
     name: PHLOX
 categories:
   - 41aff56f-f073-5ac8-8234-b93e5b46c9dc
-classicId: '2865618'
-classicProductId: '324488'
+classicId: '2865590'
+classicProductId: '324484'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,28 +16,30 @@ directCheckout: true
 discount: 57
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: 840a6993-d21c-4c13-b7be-f1a39fb5efab
+id: 93c6c807-07df-47e6-a630-f5278a933fc1
 image:
   channels:
-    - website
+    - newsletter
     - app
     - newsletter
-  extension: jpg
-  id: 991902
+    - website
+  extension: png
+  id: 1692929
   priority: 0
   slug: 6x-seashell-supreme-gastendoek
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2015156
-  priority: 100
-  slug: phlox-logo
+    - all
+  extension: image/png
+  id: 5f5a3412-c820-458d-860c-2a287d7a2f7f
+  priority: 0
+  slug: 6x-seashell-supreme-gastendoek-30-x-50-cm-logo-0
   type: logo
-offerId: d9194f88-ea24-4a6e-8f87-f66dfe958b99
+offerId: 86b9ba88-abaa-454b-a2dd-78e68cca7671
 price:
   cents: 1495
   currency: EUR

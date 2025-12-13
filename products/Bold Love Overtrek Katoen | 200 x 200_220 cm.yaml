@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2be75301-47dc-4ccb-bf86-30b1fc64c6b9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2185824
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3c684353-e65b-4f56-9e90-280cb85f285c-tr
   priority: 0
-  slug: vt-bold-love-natural-bettbezug-200-x-200220-cm
+  slug: vt-bold-love-natural-bettbezug-200-x-200220-cm-jpg-product-1
   type: product
 logo:
   channels:

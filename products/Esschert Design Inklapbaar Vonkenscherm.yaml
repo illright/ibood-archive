@@ -19,13 +19,14 @@ freeDelivery: false
 id: 0acba9cf-8886-48a8-9cba-986cba12c081
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1803483
+    - all
+  extension: image/png
+  id: baa20b6b-2028-42b2-af50-bcb711d41e00
   priority: 0
-  slug: esschert-design-inklapbaar-vonkenscherm
+  slug: esschert-11-png-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: b31e8973-295c-41c2-8a61-fc850459ae5b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2080067
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 75f28c6c-2b99-4a44-a17a-a95bd3adc9ff-tr
   priority: 0
-  slug: larson-verdunkelungsvorhang-300-x-250-cm
+  slug: larson-verdunkelungsvorhang-300-x-250-cm-png-product-1
   type: product
 logo:
   channels:

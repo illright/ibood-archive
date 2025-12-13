@@ -1,32 +1,31 @@
-_id: 6932dfeca6b7943056885605
+_id: 6932de894206c5c059bda340
 appOnly: false
-brand: PHLOX
+brand: DoubleDry
 brands:
-  - id: 1cbd5816-2f2d-52b8-95a2-7dda5c905c3d
-    name: PHLOX
+  - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
+    name: DoubleDry
 categories:
   - 41aff56f-f073-5ac8-8234-b93e5b46c9dc
-classicId: '2865555'
-classicProductId: '576326'
+classicId: '2865000'
+classicProductId: '660469'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 73
+directCheckout: false
+discount: 69
 end: '2025-12-14T22:59:59.999Z'
 freeDelivery: false
-id: c1d8b878-5647-4b1f-9e9f-5d23743e434a
+id: 042539a2-b887-4467-b0e6-a35f8cb31e85
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3a3dea3a-0d64-451b-af83-e6844e88d856-tr
+  extension: png
+  id: 1754784
   priority: 0
-  slug: 6x-phlox-supreme-handdoek-50-x-100-cm-jpg-product-14
+  slug: 6x-phlox-supreme-handdoek-50-x-100-cm
   type: product
 logo:
   channels:
@@ -36,17 +35,17 @@ logo:
   extension: png
   id: 2015156
   priority: 100
-  slug: phlox-logo
+  slug: 6x-phlox-supreme-handdoek-50-x-100-cm
   type: logo
-offerId: 3820e820-bbe2-4c79-a98c-be28fd93a3ff
+offerId: f526f4ff-fb5a-4d5b-b27b-64947db4cde4
 price:
-  cents: 2195
+  cents: 6995
   currency: EUR
-  value: 21.95
+  value: 69.95
 referencePrice:
-  cents: 7995
+  cents: 22360
   currency: EUR
-  value: 79.95
+  value: 223.6
 slug: 6x-phlox-supreme-handdoek-50-x-100-cm
 soldOut: false
 start: '2025-12-07T23:00:00.000Z'

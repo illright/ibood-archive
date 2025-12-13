@@ -19,13 +19,14 @@ freeDelivery: false
 id: 0f6d674b-11a5-4967-99aa-b92c4ab23994
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2265808
+    - all
+  extension: image/jpeg
+  id: 79df817a-963b-4da4-853b-47cb08e5931f
   priority: 0
-  slug: pinolino-commode-toni-100-x-75-x-101-cm
+  slug: pinolino-commode-toni-100-x-75-x-101-cm-jpg-product-1
   type: product
 logo:
   channels:

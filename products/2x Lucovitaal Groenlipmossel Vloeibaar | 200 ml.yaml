@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2f30d965-7e0a-43a4-8ec5-9c8ad34ac32d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1365032
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 90d87230-b1f4-4182-8d3c-14d0130bd161-tr
   priority: 0
-  slug: 2x-lucovitaal-groenlipmossel-vloeibaar-200-ml
+  slug: 2x-lucovitaal-grunlippmuschel-200-ml-jpg-product-1
   type: product
 logo:
   channels:

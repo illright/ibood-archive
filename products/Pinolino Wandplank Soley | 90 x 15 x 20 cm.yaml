@@ -19,13 +19,14 @@ freeDelivery: false
 id: 229bc137-fb50-4f47-b123-548a66c04b4c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2265814
+    - all
+  extension: image/png
+  id: a4871f67-a63a-4d2c-a8f6-6c3d6df88094
   priority: 0
-  slug: pinolino-wandplank-soley-90-x-15-x-20-cm
+  slug: pinolino-01-png-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,15 @@ freeDelivery: false
 id: f80aee53-0687-49b2-ab90-1887b0a35540
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1837164
-  priority: 100
-  slug: esschert-design-aanmaakhoutjesset
+    - all
+    - app
+  extension: image/png
+  id: 51b2165c-f016-4846-8b08-9e83e1361f45-tr
+  priority: 0
+  slug: esschert-design-anzundspalter-set-jpg-product-101
   type: product
 logo:
   channels:

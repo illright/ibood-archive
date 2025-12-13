@@ -19,13 +19,16 @@ freeDelivery: false
 id: ee7efd0b-310b-4ecb-abdd-c2e82aab004d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1338041
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f8859057-7c2c-49d5-bee0-440439cb7fc3-tr
   priority: 0
-  slug: lifa-living-delphine-pflanzenstander
+  slug: lifa-living-delphine-pflanzenstander-png-product-2
   type: product
 logo:
   channels:

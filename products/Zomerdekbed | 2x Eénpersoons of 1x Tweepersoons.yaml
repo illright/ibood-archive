@@ -20,10 +20,15 @@ id: 3e339f7c-a01c-4b1f-b31b-81c0124850c2
 image:
   channels:
     - app
-  extension: jpg
-  id: 385236
-  priority: 100
-  slug: vitality-pur-sommersteppdecke
+    - website
+    - newsletter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 22c44a3d-dafd-4278-a563-741d6a0ce557-tr
+  priority: 0
+  slug: vitality-pur-sommersteppdecke-jpg-product-101
   type: product
 logo:
   channels:

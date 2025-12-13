@@ -19,13 +19,14 @@ freeDelivery: false
 id: 511f1c7f-2a78-4ec9-bc89-0419f52dda8e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2250070
+    - all
+  extension: image/jpeg
+  id: c7c70fe1-74e7-42af-ab17-0e262b11e634
   priority: 0
-  slug: 2x-white-label-living-stuhl-lester
+  slug: 2x-white-label-living-stuhl-lester-jpg-product-1
   type: product
 logo:
   channels:

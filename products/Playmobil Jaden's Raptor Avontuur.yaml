@@ -19,13 +19,14 @@ freeDelivery: false
 id: 7cf9fc85-78db-4881-8a09-27c6ec6e41ac
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1797374
+    - all
+  extension: image/png
+  id: 3dad1b08-06d2-4781-81a2-ea2ccbfb1112
   priority: 0
-  slug: playmobil-jadens-raptor-avontuur
+  slug: playmobil-01-png-product-1
   type: product
 logo:
   channels:

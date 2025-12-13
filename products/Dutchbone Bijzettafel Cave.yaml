@@ -19,13 +19,16 @@ freeDelivery: false
 id: 9987d760-5793-4745-919f-3019320755c7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1662336
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 6434a931-c5cb-4420-8ae0-1d40919a8f1c-tr
   priority: 0
-  slug: dutchbone-bijzettafel-cave
+  slug: dutchbone-bijzettafel-cave-jpg-product-4
   type: product
 logo:
   channels:

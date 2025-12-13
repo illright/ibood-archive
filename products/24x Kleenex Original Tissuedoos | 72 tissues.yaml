@@ -19,13 +19,14 @@ freeDelivery: false
 id: 0ff7c9cb-edea-4342-a9cf-2f853b2ed146
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1628431
+    - all
+  extension: image/png
+  id: 01aa394d-2d85-4351-a559-aaadd184149a
   priority: 0
-  slug: 24x-kleenex-original-tissuedoos-72-tissues
+  slug: kleenex-01-png-product-1
   type: product
 logo:
   channels:

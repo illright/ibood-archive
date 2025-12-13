@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5f9ce9df-5b66-478b-a862-12e51145d929
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1506672
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e4a02273-d86a-44a7-aeee-7a775236cb58-tr
   priority: 0
-  slug: yellow-dekbedovertrek-135-x-200-duitse-maat
+  slug: posciel-yellow-cialda-135-x-200-cm-png-product-33
   type: product
 logo:
   channels:

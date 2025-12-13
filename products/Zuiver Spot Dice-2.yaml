@@ -19,13 +19,16 @@ freeDelivery: false
 id: 68ba6817-b273-4855-9721-4067cde7e993
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251779
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 0df3e76f-ceea-4155-9dce-5a1a398346f9-tr
   priority: 0
-  slug: zuiver-dice-2-dtw-spotlight
+  slug: zuiver-dice-2-dtw-spotlight-jpg-product-1
   type: product
 logo:
   channels:

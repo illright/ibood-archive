@@ -19,13 +19,14 @@ freeDelivery: false
 id: b5ed1cd0-c9ce-4dbf-8527-0d3bd0cf1e7f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2211248
-  priority: 100
-  slug: karlsson-owl-pendulum-wandklok
+    - all
+  extension: image/jpeg
+  id: d9187470-9196-4744-b6ca-9c316827aa1e
+  priority: 0
+  slug: karlsson-owl-pendel-wanduhr-1-jpg-product-101
   type: product
 logo:
   channels:

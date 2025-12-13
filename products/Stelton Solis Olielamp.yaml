@@ -19,13 +19,16 @@ freeDelivery: false
 id: 0a8f564d-0319-435e-8a36-8565dc060e51
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1754268
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9fcc450a-8ed6-4c5d-b4df-8e3c34a448b1-tr
   priority: 0
-  slug: stelton-solis-ollampe
+  slug: stelton-solis-ollampe-jpg-product-2
   type: product
 logo:
   channels:

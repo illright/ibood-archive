@@ -19,13 +19,14 @@ freeDelivery: false
 id: cc383857-57fa-4ddc-813c-da3acd0fbb9b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1875366
+    - all
+  extension: image/jpeg
+  id: 48dd2a60-7a88-4df1-bef2-a319cea6fb63
   priority: 0
-  slug: esschert-design-hanging-basket-haak-vogel
+  slug: esschert-design-hanging-basket-haak-vogel-jpg-product-1
   type: product
 logo:
   channels:

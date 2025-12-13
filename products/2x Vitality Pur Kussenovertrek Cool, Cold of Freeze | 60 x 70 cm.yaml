@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4d103ac9-fe6f-4bf7-b1e0-a051e17750f3
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1237824
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9c89b883-1b0b-46cd-ac49-3c741bcab198-tr
   priority: 0
-  slug: 2x-kissenbezug-div-modelle
+  slug: 2x-kissenbezug-div-modelle-jpg-product-1
   type: product
 logo:
   channels:
