@@ -19,13 +19,14 @@ freeDelivery: false
 id: 629846c4-58c4-47fc-8fda-ff7aba5a802c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1050287
-  priority: 100
-  slug: hofats-crate-vuurkorf-plank-bamboe
+    - all
+  extension: image/jpeg
+  id: 767585cd-466e-4ae5-a07c-c78be54f34a6
+  priority: 0
+  slug: poka-do-grilla-hofats-crate-jpg-product-101
   type: product
 logo:
   channels:

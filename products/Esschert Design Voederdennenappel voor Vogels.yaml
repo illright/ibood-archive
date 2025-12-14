@@ -19,13 +19,14 @@ freeDelivery: false
 id: de6ef9fd-3fa7-406b-89fd-119e9e0564a8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1801386
+    - all
+  extension: image/jpeg
+  id: 70b81851-f847-4d6c-8f81-966d0707e13f
   priority: 0
-  slug: esschert-design-voederdennenappel-voor-vogels
+  slug: esschert-design-voederdennenappel-voor-vogels-jpg-product-1
   type: product
 logo:
   channels:

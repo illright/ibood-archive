@@ -19,13 +19,14 @@ freeDelivery: false
 id: e4b6baa5-49ca-48d6-bf28-4cad82c87626
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1047778
-  priority: 100
-  slug: hofats-cube-vuurkorf-cortenstaal
+    - all
+  extension: image/jpeg
+  id: a7584b7c-2b3d-4b3b-a8cc-c5e20ec58185
+  priority: 0
+  slug: kosz-ogniowy-hofats-cube-1-jpg-product-101
   type: product
 logo:
   channels:

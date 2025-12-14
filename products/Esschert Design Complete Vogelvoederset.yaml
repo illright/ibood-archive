@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2342ba9e-5861-43d1-a6c4-a2db3b837b39
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1801383
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 86b4f3b7-6a70-4880-a1d6-63181eb626fc-tr
   priority: 0
-  slug: esschert-design-complete-vogelvoederset
+  slug: esschert-design-vogelfutter-komplettset-l-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 03a0135d-ac5d-4881-97d3-2441af97565c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2217380
+    - all
+  extension: image/png
+  id: 47bb42d8-6a59-4db9-b4d6-5451117f4863
   priority: 0
-  slug: 2x-hartman-iris-stuhl
+  slug: hartman-26-png-product-1
   type: product
 logo:
   channels:

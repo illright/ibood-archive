@@ -19,13 +19,16 @@ freeDelivery: false
 id: c2b1a95d-6a7b-45a3-8a1a-9d3bf913d664
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2234321
-  priority: 100
-  slug: esschert-design-outdoor-stoofkachel-set
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e0f4e604-1471-4c93-875d-1234a798355e-tr
+  priority: 0
+  slug: esschert-design-outdoor-eintopf-ofenset-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 78f68e1b-d3a1-4929-b055-cdf6370ee3b0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1793011
-  priority: 100
-  slug: esschert-design-kampvuur-kookset
+    - all
+  extension: image/jpeg
+  id: 1b781e7a-ca00-4d98-851e-8330b28925a7
+  priority: 0
+  slug: esschert-design-lagerfeuer-kochset-5-teilig-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 4a90792b-253b-414d-b2e3-ca3e2e3ffded
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1837073
+    - all
+  extension: image/jpeg
+  id: 980fada2-ba52-487d-bc4e-16082e2be44c
   priority: 0
-  slug: esschert-design-bastler-insektenhotel
+  slug: esschert-design-bastler-insektenhotel-jpg-product-1
   type: product
 logo:
   channels:

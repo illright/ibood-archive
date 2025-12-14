@@ -19,13 +19,14 @@ freeDelivery: false
 id: e7851524-35f0-4bc7-a6c7-0503413188e4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1801348
+    - all
+  extension: image/jpeg
+  id: 07049ec3-6440-4737-8428-806dfcb2f930
   priority: 0
-  slug: esschert-design-pindakaashuisje-voor-vogels
+  slug: esschert-design-pindakaashuisje-voor-vogels-jpg-product-1
   type: product
 logo:
   channels:

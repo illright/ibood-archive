@@ -19,13 +19,14 @@ freeDelivery: false
 id: c66996f7-66cb-4138-ae95-5888e2a28d2b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1048988
-  priority: 1
-  slug: pochodnia-hofats-spin-90
+    - all
+  extension: image/png
+  id: 703902bd-bbc9-4fb6-b30c-d9cf39ee6d47
+  priority: 0
+  slug: tuin-30-png-product-1
   type: product
 logo:
   channels:

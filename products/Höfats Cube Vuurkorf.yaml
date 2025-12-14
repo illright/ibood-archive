@@ -19,13 +19,14 @@ freeDelivery: false
 id: 2a6b9be2-8e6b-4125-906c-263971ca38b8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1045708
+    - all
+  extension: image/jpeg
+  id: f4aa651b-5641-4df4-a06e-f7fe91c126b0
   priority: 0
-  slug: hofats-cube-vuurkorf
+  slug: kosz-ogniowy-hofats-cube-jpg-product-2
   type: product
 logo:
   channels:

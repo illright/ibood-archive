@@ -19,13 +19,16 @@ freeDelivery: false
 id: eb5ffa66-4a41-4c78-b5ae-c007df70b316
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1837066
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3bff5058-10a2-42a0-886d-fefd38d13d50-tr
   priority: 0
-  slug: esschert-design-deurstopper-met-ring
+  slug: esschert-design-deurstopper-met-ring-jpg-product-1
   type: product
 logo:
   channels:
