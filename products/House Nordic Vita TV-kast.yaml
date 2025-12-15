@@ -1,12 +1,12 @@
-_id: 6932e0a7725331bb433c968c
+_id: 693c1e18c2f22fec12adec25
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - b1debe60-9c2b-514f-8567-47da745211dd
-classicId: '2865833'
+  - 23dfe658-34ff-5756-ac5e-92f6cb7659ae
+classicId: '2879888'
 classicProductId: '597743'
 deliveryPrice:
   cents: 895
@@ -14,15 +14,16 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 08860248-154e-4173-9603-554f98d99440
+id: 83cf5058-28f3-48fc-9d8d-15b845bab85f
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 2071888
+    - app
+    - newsletter
+  extension: png
+  id: 2071986
   priority: 0
   slug: house-nordic-vita-tv-kast
   type: product
@@ -36,7 +37,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: 5c427184-8b22-474b-a910-1aa00fa7ee1d
+offerId: 796361a6-4ede-4dc8-bb4d-ec8f24b29e30
 price:
   cents: 4271
   currency: EUR
@@ -47,5 +48,5 @@ referencePrice:
   value: 85
 slug: house-nordic-vita-tv-kast
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-14T23:00:00.000Z'
 title: House Nordic Vita TV-kast

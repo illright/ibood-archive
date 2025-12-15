@@ -1,12 +1,12 @@
-_id: 69302fcfdc12694395a5271c
+_id: 6937fb1658bf0055d09cc609
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - 837c88c3-8b26-53d7-b448-d7f4d92736df
-classicId: '2852290'
+  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
+classicId: '2872424'
 classicProductId: '657052'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 21c7f2fd-7999-4e5f-94e6-71d1e9289a6e
+id: 255a6ff6-0e4b-482e-88ad-fc44f4dd0e67
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: bjorn-logo
   type: logo
-offerId: b5a1bd8b-ecf4-48ca-99cd-15e288b9f6cd
+offerId: 91e591a3-0146-4267-a4db-1214f5f23b4a
 price:
   cents: 3995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 99.9
 slug: 6x-bjorn-steakmes-jona
-soldOut: true
-start: '2025-12-07T23:00:00.000Z'
+soldOut: false
+start: '2025-12-09T23:00:00.000Z'
 title: 6x Björn Steakmes Jona

@@ -1,31 +1,31 @@
-_id: 6932de0fe737494d3450ac88
+_id: 693c1d9cc28f2ce754d51d36
 appOnly: false
 brand: FlinQ
 brands:
   - id: c5850d1b-064a-5297-987d-113f01df60eb
     name: FlinQ
 categories:
-  - c90997c8-97da-5058-a74a-440b7a176733
-classicId: '2864883'
+  - f49679ef-57ef-5c38-9546-907c5a12e5d4
+classicId: '2879799'
 classicProductId: '410009'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 81
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: b99f3594-5240-4682-8f47-da20bee16e06
+id: 18bb8bd3-1b94-4279-a56c-7b68c5c47e3d
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 1359558
+  extension: png
+  id: 2074361
   priority: 0
-  slug: 3x-flinq-oplaadbare-led-kaars
+  slug: 3x-flinq-wiederaufladbare-led-kerze
   type: product
 logo:
   channels:
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: flinq-logo
   type: logo
-offerId: 8fc5f2db-0584-4aca-9d44-b4033c80e71d
+offerId: fcd42656-39f5-4ef8-a781-dd22a15d2861
 price:
   cents: 1695
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 89.99
 slug: 3x-flinq-oplaadbare-led-kaars
-soldOut: true
-start: '2025-12-07T23:00:00.000Z'
+soldOut: false
+start: '2025-12-14T23:00:00.000Z'
 title: 3x Flinq Oplaadbare LED-Kaars

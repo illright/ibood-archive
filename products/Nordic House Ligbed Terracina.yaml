@@ -1,12 +1,12 @@
-_id: 6932df381ec8eb660bd91c4b
+_id: 693c1c6031539ec0391ffd8f
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 4d83def1-dd2a-58f0-a57a-7658652676c8
-classicId: '2865251'
+  - d86605a6-ef8d-51c6-946d-815111982611
+classicId: '2879500'
 classicProductId: '632545'
 deliveryPrice:
   cents: 1995
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 19.95
 directCheckout: true
 discount: 43
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 8e03d90d-028d-4cd8-8140-e9edd93ab2c5
+id: 37d4251c-082e-47cf-a865-7ac2d4136dcf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2215610
-  priority: 100
-  slug: nordic-house-ligbed-terracina
+    - all
+  extension: image/jpeg
+  id: 2f26b563-c786-451a-9ee2-e29e74d5cb7d
+  priority: 0
+  slug: nordic-house-ligbed-terracina-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: c5a5c6dd-c934-417a-aae2-5bc4705f1d59
+offerId: 0a167579-493f-4670-a8a1-2f3c45b16a80
 price:
   cents: 49900
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 879
 slug: nordic-house-ligbed-terracina
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-14T23:00:00.000Z'
 title: Nordic House Ligbed Terracina

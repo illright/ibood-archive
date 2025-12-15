@@ -1,12 +1,12 @@
-_id: 6932de1ce737494d3450acaa
+_id: 6936ef28e0975e5924bc80ed
 appOnly: false
 brand: Trio
 brands:
   - id: c20640a1-47f7-50d6-8fb4-6f3a3ab283d1
     name: Trio
 categories:
-  - c90997c8-97da-5058-a74a-440b7a176733
-classicId: '2864897'
+  - f49679ef-57ef-5c38-9546-907c5a12e5d4
+classicId: '2871384'
 classicProductId: '494301'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 4ccca887-8703-45a7-9f08-583678e08f02
+id: f1bcb690-984c-533e-afef-d982b37612e9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1663569
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 63b9b8d1-40dc-4cfd-b9e0-9645fb4e9916-tr
   priority: 0
-  slug: trio-burton-deckenstrahler-2x-e14
+  slug: trio-burton-deckenstrahler-2x-e14-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: trio-logo
   type: logo
-offerId: ffee7561-cd9d-4a37-bf0b-20114b62a9ae
+offerId: c8f42aed-585c-59c4-bd0f-da628afe2e96
 price:
   cents: 1795
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 61.99
 slug: trio-hanglamp-burton
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-14T23:00:00.000Z'
 title: Trio Hanglamp Burton | E14

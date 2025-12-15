@@ -1,22 +1,22 @@
-_id: 6936d2d93aadc61d9be5da93
+_id: 693bf973a53446e7dca180cd
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 8256ab10-aac8-5bf9-a657-70f3e56c8a2b
-classicId: '2869785'
-classicProductId: '682475'
+  - 262a5b92-96b4-5b02-852b-ab254469a849
+classicId: '2877209'
+classicProductId: '682482'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 44
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-16T22:59:59.999Z'
 freeDelivery: false
-id: 1d784927-c2fb-455d-9bf5-8dc1d4175257
+id: 9ededee4-2938-4b5f-9ee2-8344b56d2bef
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: aa39f984-17ad-44cb-9e03-88461ec45e9e
+offerId: 22dcb4f5-3a02-45eb-818b-89e8bcf40efb
 price:
   cents: 4995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 90
 slug: 6x-lacoste-basic-t-shirt-heren
-soldOut: true
-start: '2025-12-08T23:00:00.000Z'
+soldOut: false
+start: '2025-12-12T23:00:00.000Z'
 title: 6x Lacoste Basic T-Shirt | Heren

@@ -1,22 +1,22 @@
-_id: 6932e0cf725331bb433c9702
+_id: 693c1d1931539ec0391ffeb7
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - b1debe60-9c2b-514f-8567-47da745211dd
-classicId: '2865883'
-classicProductId: '597749'
+  - 23dfe658-34ff-5756-ac5e-92f6cb7659ae
+classicId: '2879661'
+classicProductId: '597748'
 deliveryPrice:
   cents: 1995
   currency: EUR
   value: 19.95
-directCheckout: true
+directCheckout: false
 discount: 38
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: fd1d7dd0-bb59-45b8-81e8-8d8fe51cb324
+id: 54d5de81-79bc-4d4c-bb08-e5bf81288664
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: ccf60d67-59c6-4e9a-bb68-f96658c159be
+offerId: f0a4aa11-a8e1-4430-a956-ef264119d999
 price:
   cents: 27900
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 450
 slug: house-nordic-kyoto-hoge-kast
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-14T23:00:00.000Z'
 title: House Nordic Kyoto Hoge Kast

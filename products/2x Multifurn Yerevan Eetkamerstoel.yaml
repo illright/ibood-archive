@@ -1,34 +1,32 @@
-_id: 6932e0f1a6b7943056885875
+_id: 693c1e6ac28f2ce754d51e37
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - b1debe60-9c2b-514f-8567-47da745211dd
-classicId: '2865922'
+  - 23dfe658-34ff-5756-ac5e-92f6cb7659ae
+classicId: '2879939'
 classicProductId: '431638'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 55
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 0c34278c-64b8-4cfc-a632-3f8b5586450d
+id: 50c4f510-4c65-48b2-b8c6-7c32ea2a1aee
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: ef1e8218-0dd2-4394-98ca-6dd042e9ad4a-tr
+  id: 06ee35f2-3bcb-4ad4-bc65-79d45ecb4e0b
   priority: 0
-  slug: 2x-multifurn-yerevan-esszimmerstuhl-mikroleder-jpg-product-1
+  slug: multifurn-01-png-product-1
   type: product
 logo:
   channels:
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: 54518f46-0c4a-4dfc-afca-0aae8460b79b
+offerId: 40e11ce4-19e9-4c21-9c8f-60eeb5f4545e
 price:
   cents: 8995
   currency: EUR
   value: 89.95
 referencePrice:
-  cents: 19998
+  cents: 19900
   currency: EUR
-  value: 199.98
+  value: 199
 slug: 2x-multifurn-yerevan-eetkamerstoel
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-14T23:00:00.000Z'
 title: 2x Multifurn Yerevan Eetkamerstoel

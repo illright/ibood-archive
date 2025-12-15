@@ -1,12 +1,12 @@
-_id: 6932dd10725331bb433c9347
+_id: 693c1c24c28f2ce754d51a69
 appOnly: false
 brand: HASBRO
 brands:
   - id: cac571e6-1496-5928-9e99-1b92d9fa21c4
     name: HASBRO
 categories:
-  - 355e312d-a30f-5df5-98a0-93900f11f39f
-classicId: '2864752'
+  - 728089cf-6f91-51f9-b160-cdd5982edd06
+classicId: '2879449'
 classicProductId: '679931'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2025-12-14T22:59:59.999Z'
+end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 038bf678-c43e-4979-a1bc-bdca7b1a8187
+id: ad0010eb-7392-4e8e-884c-5cf746a1c876
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: hasbro-monopoly-buzz-lightyear-boardgame-english-edition-product-0
   type: product
-offerId: 59879186-c3b2-40ae-b3d3-83c6643bbef3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1744551
+  priority: 100
+  slug: hasbro-logo
+  type: logo
+offerId: 93ec11c9-fa9e-4672-9b28-380ddb1367d2
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: hasbro-monopoly-bordspel-buzz-lightyear
 soldOut: false
-start: '2025-12-07T23:00:00.000Z'
+start: '2025-12-14T23:00:00.000Z'
 title: Hasbro Monopoly Bordspel | Buzz Lightyear | Engelstalig
