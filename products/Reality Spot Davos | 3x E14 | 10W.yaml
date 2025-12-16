@@ -19,13 +19,14 @@ freeDelivery: false
 id: 3eaa5bc7-44f9-5b46-ab83-b855d93e3407
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2148222
-  priority: 100
-  slug: reality-spot-davos-3x-e14-10w
+    - all
+  extension: image/jpeg
+  id: a0f92fe8-1cb8-490f-82c8-8aae21ca7263
+  priority: 0
+  slug: rl-live-your-light-decken-spotleuchte-3x-10-watt-jpg-product-101
   type: product
 logo:
   channels:

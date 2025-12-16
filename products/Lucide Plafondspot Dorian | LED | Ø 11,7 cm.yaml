@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7f0d3d8f-8bf0-4bce-a160-713b189f8099
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2253877
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 31a80daf-abc5-4547-87d8-60581c7fe21d-tr
   priority: 0
-  slug: lucide-plafondspot-dorian-led-117-cm
+  slug: lucide-dorian-deckenleuchte-12-w-jpg-product-1
   type: product
 logo:
   channels:

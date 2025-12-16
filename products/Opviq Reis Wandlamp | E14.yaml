@@ -19,13 +19,16 @@ freeDelivery: false
 id: 51a41c00-57df-47ad-a0a6-312a0964e223
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1801167
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d1d89f8f-3bd8-4f16-a80f-900ccc41bc29-tr
   priority: 0
-  slug: opviq-reis-wandlamp-e14
+  slug: opviq-reis-wandleuchte-e14-jpg-product-2
   type: product
 logo:
   channels:

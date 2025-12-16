@@ -19,13 +19,16 @@ freeDelivery: false
 id: f056a378-dc0a-4466-994d-59514aadfe7c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2205569
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 6ded4d1c-1e5f-406e-b77d-768966adde25-tr
   priority: 0
-  slug: trio-plafonniere-fontana-114-cm
+  slug: trio-plafonniere-fontana-114-cm-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7902b1d7-65b7-47ff-a743-708c5047ce60
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2253955
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cfacc9a0-1597-4f84-a497-270178979df1-tr
   priority: 0
-  slug: lucide-wandlamp-gipsy-g9
+  slug: lucide-gipsy-wandleuchte-25-w-jpg-product-1
   type: product
 logo:
   channels:

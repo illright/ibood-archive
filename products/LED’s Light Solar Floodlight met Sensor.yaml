@@ -19,13 +19,16 @@ freeDelivery: false
 id: 70213417-3bf4-4562-9bd0-f6595c0cb0d1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 135020
-  priority: 1
-  slug: solar-floodlight-sensor
+    - all
+    - app
+    - website
+  extension: image/png
+  id: db2b262f-514a-4713-9fe6-670420fbc56d-tr
+  priority: 0
+  slug: leds-light-solarscheinwerfer-jpg-product-2
   type: product
 logo:
   channels:

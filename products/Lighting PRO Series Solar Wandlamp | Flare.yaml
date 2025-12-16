@@ -19,13 +19,16 @@ freeDelivery: false
 id: b8323e7f-2bcb-4ada-908f-b57ddd144c5f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1902307
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7fd5381a-6467-433f-8835-b65caaac8925-tr
   priority: 0
-  slug: hyundai-lighting-flare-solar-wandleuchte
+  slug: hyundai-lighting-flare-solar-wandleuchte-jpg-product-1
   type: product
 offerId: 38d954b3-e1c9-4b82-af7a-ac02cf31e920
 price:

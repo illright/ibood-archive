@@ -1,12 +1,12 @@
-_id: 6936a9773aadc61d9be5d8e1
+_id: 693fdec43f7d1e8696443cae
 appOnly: false
 brand: Rain-X
 brands:
   - id: e395bed3-6d5a-5a71-b90e-15a8d0bd951f
     name: Rain-X
 categories:
-  - 30145539-f1bb-5fc0-9ecf-a164123fc812
-classicId: '2867798'
+  - d5580df5-bb31-5ebd-bd49-00c00265a66f
+classicId: '2881360'
 classicProductId: '640484'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 32
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: d707e810-dd3a-4be2-9304-5b200454cdee
+id: cb685b6f-c2d3-4055-a191-25f2cd1cf88b
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: rain-x-grafeen-velgenreiniger-beschermer
   type: product
-offerId: bf02b329-fb45-4864-91dd-8e6199e2fdb4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2262834
+  priority: 100
+  slug: rain-x-grafeen-velgenreiniger-beschermer
+  type: logo
+offerId: f6264c37-348b-47ee-a090-33ec3247d6f2
 price:
   cents: 1395
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 20.51
 slug: rain-x-grafeen-velgenreiniger-beschermer
 soldOut: false
-start: '2025-12-08T23:00:00.000Z'
+start: '2025-12-15T23:00:00.000Z'
 title: Rain-X Grafeen Velgenreiniger & Beschermer | 500 ml

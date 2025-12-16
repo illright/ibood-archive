@@ -1,4 +1,4 @@
-_id: 6932e61ce737494d3450ae7d
+_id: 6932e6184206c5c059bda4a9
 appOnly: false
 brand: Gingko Design
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Gingko Design
 categories:
   - 146996ea-0944-5906-9d12-6c6f72b41f91
-classicId: '2866108'
-classicProductId: '625123'
+classicId: '2866105'
+classicProductId: '625122'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,29 @@ directCheckout: true
 discount: 45
 end: '2025-12-19T22:59:59.999Z'
 freeDelivery: false
-id: cfe04d67-a66d-5006-907b-ee94bfe618ea
+id: 243215cf-3e47-5888-803e-752e830f9e9b
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2187672
+  id: 2187667
   priority: 0
   slug: gingko-design-alice-mushroom-leuchte-mini
   type: product
-offerId: 57a8022e-3483-5a2c-9acb-26c21994fad2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e2556e22-101c-4d05-a178-592d951fe9a7
+  priority: 0
+  slug: gingko-design-logo-0
+  type: logo
+offerId: dcbe6ed9-170d-59ce-84ab-b76d100abfec
 price:
   cents: 3795
   currency: EUR

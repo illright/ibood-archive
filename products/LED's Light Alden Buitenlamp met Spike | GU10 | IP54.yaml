@@ -19,13 +19,16 @@ freeDelivery: false
 id: d15d8016-cd4e-4bce-afd1-aa3aa4d188cd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1014861
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9685043c-6933-44ce-877f-0fa7bece31dc-tr
   priority: 0
-  slug: leds-light-alden-buitenlamp-met-spike-gu10
+  slug: leds-light-alden-auenleuchte-jpg-product-1
   type: product
 logo:
   channels:

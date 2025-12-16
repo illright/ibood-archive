@@ -19,13 +19,16 @@ freeDelivery: false
 id: 18bb8bd3-1b94-4279-a56c-7b68c5c47e3d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2074361
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 0bf54b65-7a75-4e26-acb9-691a0553c579-tr
   priority: 0
-  slug: 3x-flinq-wiederaufladbare-led-kerze
+  slug: 3x-flinq-wiederaufladbare-led-kerze-jpg-product-2
   type: product
 logo:
   channels:
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 89.99
 slug: 3x-flinq-oplaadbare-led-kaars
-soldOut: false
+soldOut: true
 start: '2025-12-14T23:00:00.000Z'
 title: 3x Flinq Oplaadbare LED-Kaars

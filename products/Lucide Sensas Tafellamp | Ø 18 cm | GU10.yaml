@@ -19,13 +19,16 @@ freeDelivery: false
 id: 205bfe7e-5392-443d-ab41-e867c6a3c150
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1976731
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 17f9877e-85c9-4b60-a7d8-75d43f5cb61d-tr
   priority: 0
-  slug: lucide-sensas-tafellamp-18-cm-gu10
+  slug: lucide-sensas-tischleuchte-18-cm-1x-gu10-1-jpg-product-1
   type: product
 logo:
   channels:

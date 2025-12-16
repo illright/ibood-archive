@@ -19,13 +19,14 @@ freeDelivery: false
 id: d1b95955-9224-46be-bd4f-19fb800fd81d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1976744
+    - all
+  extension: image/jpeg
+  id: a26c067e-8d93-4331-8cf8-b3511b3e0ef3
   priority: 0
-  slug: lucide-sensas-stehleuchte-2xgu10
+  slug: lucide-sensas-stehleuchte-2xgu10-jpg-product-1
   type: product
 logo:
   channels:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 189.95
 slug: lucide-sensas-vloerlamp-2x-gu10
-soldOut: false
+soldOut: true
 start: '2025-12-14T23:00:00.000Z'
 title: Lucide Sensas Vloerlamp | 2x GU10

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 55388de4-4e2e-490d-b661-1af9bb3fca19
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1591339
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 918afe55-01f4-44c8-9163-ba449a365d4b-tr
   priority: 0
-  slug: 3x-trio-zagros-deckenstrahler-led
+  slug: 3x-trio-zagros-deckenstrahler-led-jpg-product-1
   type: product
 logo:
   channels:

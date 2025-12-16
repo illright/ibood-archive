@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1afee78a-ade8-4417-86a4-01856b48d59a
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1279544
+  extension: image/png
+  id: 226f3145-82db-41a1-b7cd-3c73c636b9fb-tr
   priority: 0
-  slug: vdn-snijplank-26-x-38-cm
+  slug: vdn-schneidebrett-26-x-38-cm-jpg-product-1
   type: product
 logo:
   channels:

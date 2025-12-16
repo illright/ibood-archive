@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 9f010976-8deb-4545-b5fa-8d7217756e00
+    - app
+    - website
+  extension: image/png
+  id: 9f010976-8deb-4545-b5fa-8d7217756e00-tr
   priority: 0
   slug: 300420-leds-light-solar-buitenlamp-50lm-2700k-black-ip54-sensor-product-5
   type: product
@@ -49,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 21.95
 slug: led-s-light-solar-buitenlamp-met-sensor
-soldOut: false
+soldOut: true
 start: '2025-12-14T23:00:00.000Z'
 title: LED’s Light Solar Buitenlamp met Sensor

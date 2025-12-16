@@ -19,13 +19,16 @@ freeDelivery: false
 id: 89e10ef1-5bbd-476a-93c0-ebfcca281712
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2096952
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cb5fa064-71d3-4be7-b362-39e9534b5351-tr
   priority: 0
-  slug: bold-monkey-the-tail-will-follow-wandlamp
+  slug: bold-monkey-the-tail-will-follow-wandlamp-jpg-product-1
   type: product
 logo:
   channels:

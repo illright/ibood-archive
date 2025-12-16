@@ -19,13 +19,14 @@ freeDelivery: false
 id: 75dee17c-2701-407d-a089-f6fe3e92f951
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1582827
+    - all
+  extension: image/jpeg
+  id: a0044ca0-78a9-44d6-9a81-4b6da0707367
   priority: 0
-  slug: 2x-leds-light-san-fransisco-auenleuchte-ip44
+  slug: 2x-leds-light-san-fransisco-auenleuchte-ip44-jpg-product-2
   type: product
 logo:
   channels:

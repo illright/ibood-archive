@@ -1,12 +1,12 @@
-_id: 6936d8468a4900518f04939f
+_id: 693fdfb3bd451d81bcd6fc6c
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
-classicId: '2870418'
+  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
+classicId: '2881680'
 classicProductId: '676909'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: fd32bdd0-da9d-4e3e-a83b-aecb85952226
+id: c9243ac4-8b86-41f5-b6d2-ddb77ace36e2
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: robijn-02-png-product-1
   type: product
-offerId: 4a8c84b0-6ef5-4f96-b7d9-2505d3113abe
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
+  type: logo
+offerId: 54cad0d0-b868-4020-b86e-d86179952c39
 price:
   cents: 2995
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: 10x-robijn-jasmijnbloesem-wasverzachter-604-ml
-soldOut: false
-start: '2025-12-08T23:00:00.000Z'
+soldOut: true
+start: '2025-12-15T23:00:00.000Z'
 title: 10x Robijn Jasmijnbloesem Wasverzachter | 604 ml (300sc)

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 6ea62ca3-a477-45bd-8f1d-08a2ef33f516
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2215070
+    - all
+  extension: image/png
+  id: 472d87ed-ae33-4c01-86e0-67270c187ebb
   priority: 0
-  slug: opviq-bitlis-hanglamp-e27-mint
+  slug: verlichting-02-png-product-1
   type: product
 logo:
   channels:

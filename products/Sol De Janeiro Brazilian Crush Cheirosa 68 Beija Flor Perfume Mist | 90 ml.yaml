@@ -1,12 +1,12 @@
-_id: 692439184414378884e8b837
+_id: 69401a661c05398b4844d0d6
 appOnly: false
 brand: Sol de Janeiro
 brands:
   - id: 8a7103d1-fa2b-5913-8e03-45d482d2f98c
     name: Sol de Janeiro
 categories:
-  - ba5312ec-cbc7-5d02-9f0e-4c0aa42a810a
-classicId: '2840864'
+  - 84630973-4ee4-5086-adc4-ecd3bfce2253
+classicId: '2883617'
 classicProductId: '638162'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 46
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: 6a18faff-5f5e-426a-be9f-aa1d23e6a05d
+id: ec61d1e9-6066-4836-bb98-39e61bef2388
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2245948
-  priority: 100
-  slug: sol-de-janeiro-brazilian-crush-68-perfume-mist
+    - all
+  extension: image/png
+  id: 8e04ff37-483d-45ed-b862-95ece14df23b
+  priority: 0
+  slug: sol-de-janeiro-logo-0
   type: logo
-offerId: 4b397484-982b-482f-bebb-8daf334c4b94
+offerId: b24904ec-5976-47f9-ad64-51b265e54b0c
 price:
   cents: 1295
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 24
 slug: sol-de-janeiro-brazilian-crush-68-perfume-mist
-soldOut: true
-start: '2025-12-03T23:00:00.000Z'
+soldOut: false
+start: '2025-12-15T23:00:00.000Z'
 title: Sol De Janeiro Brazilian Crush Cheirosa 68 Beija Flor Perfume Mist | 90 ml

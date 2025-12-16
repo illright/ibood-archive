@@ -1,13 +1,13 @@
-_id: 693c1f3ac28f2ce754d51e97
+_id: 693c1d54ba206380fe975e5a
 appOnly: false
 brand: DoubleDry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: DoubleDry
 categories:
-  - db599d12-2c19-5ba4-9e2f-9770efa0705c
-classicId: '2880003'
-classicProductId: '577244'
+  - 00c6955b-dd49-5813-9ce0-ee9ff451b55e
+classicId: '2879740'
+classicProductId: '585357'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,15 +16,17 @@ directCheckout: true
 discount: 50
 end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 9949c5e1-36b9-4500-8cd9-bf7040000131
+id: 2363a8c9-ce90-45a7-af04-b5fe07438b3b
 image:
   channels:
     - app
     - website
-  extension: jpg
-  id: 1973702
+    - newsletter
+    - all
+  extension: image/png
+  id: 9665a189-e7a5-4638-b856-f58f087c5da6
   priority: 0
-  slug: 6x-doubledry-waschlappen-16-x-21-cm
+  slug: doubledry-09-png-product-25
   type: product
 logo:
   channels:
@@ -36,7 +38,7 @@ logo:
   priority: 100
   slug: doubledry-logo
   type: logo
-offerId: 764108e7-e798-4811-925d-5b0796258fd5
+offerId: 75c65a49-4729-441b-8997-15c162ffd8cc
 price:
   cents: 995
   currency: EUR

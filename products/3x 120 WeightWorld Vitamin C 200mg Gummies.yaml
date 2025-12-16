@@ -1,12 +1,12 @@
-_id: 6936d9433aadc61d9be5e41b
+_id: 693fe092156e7a70e24514fa
 appOnly: false
 brand: WeightWorld
 brands:
   - id: 3c9bbd0a-8675-5222-b326-1a42ed4ab5ce
     name: WeightWorld
 categories:
-  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
-classicId: '2870554'
+  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
+classicId: '2881830'
 classicProductId: '673287'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: fce4f445-a2a7-48a9-b387-c5103d0ed840
+id: 55f55fad-8efb-4d25-a9c8-d871fa23b0fb
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 743680f4-41f6-41d5-a71c-e99ce02b351f
-  priority: 0
-  slug: weight-world-png-logo-0
+  extension: png
+  id: 1654951
+  priority: 100
+  slug: weightworld-logo
   type: logo
-offerId: 622d3cd9-2060-4869-a0aa-eca8581d9eab
+offerId: 89808c46-d858-4776-a739-6893ae6cf73c
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 50.97
 slug: 3x-120-weightworld-vitamin-c-200mg-gummies
 soldOut: true
-start: '2025-12-08T23:00:00.000Z'
+start: '2025-12-15T23:00:00.000Z'
 title: 3x 120 WeightWorld Vitamin C 200mg Gummies

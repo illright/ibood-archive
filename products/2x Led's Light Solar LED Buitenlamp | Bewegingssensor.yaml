@@ -19,13 +19,16 @@ freeDelivery: false
 id: e64a7679-505d-4af0-ad09-fac6724f7ae2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1252021
+    - all
+    - app
+    - website
+  extension: image/png
+  id: a92ce398-fbb4-47a2-8210-5d1c46479072-tr
   priority: 0
-  slug: 2x-leds-light-solar-buitenlamp-black
+  slug: 2x-leds-light-solar-auenleuchte-schwarz-jpg-product-1
   type: product
 logo:
   channels:
@@ -48,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 79.98
 slug: 2x-leds-light-solar-buitenlamp-black
-soldOut: false
+soldOut: true
 start: '2025-12-14T23:00:00.000Z'
 title: 2x Led's Light Solar LED Buitenlamp | Bewegingssensor

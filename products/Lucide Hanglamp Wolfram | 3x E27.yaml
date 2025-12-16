@@ -19,13 +19,16 @@ freeDelivery: false
 id: 59e8cb3d-9e18-44a1-ad2f-5c8f667466aa
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2254191
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5891f8e6-7bfd-457c-bf71-9206169a05d1-tr
   priority: 0
-  slug: lucide-hanglamp-wolfram-3x-e27
+  slug: lucide-wolfram-hangeleuchte-3x-60-w-jpg-product-2
   type: product
 logo:
   channels:

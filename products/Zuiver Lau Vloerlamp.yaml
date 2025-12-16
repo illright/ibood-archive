@@ -19,13 +19,14 @@ freeDelivery: false
 id: f1a0dec7-0400-49b1-9565-f8a5c299c3b3
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251736
+    - all
+  extension: image/png
+  id: adb78f40-3e2e-4c43-9988-3d9ac0373ccd
   priority: 0
-  slug: zuiver-lau-vloerlamp
+  slug: verlichting-05-png-product-1
   type: product
 logo:
   channels:

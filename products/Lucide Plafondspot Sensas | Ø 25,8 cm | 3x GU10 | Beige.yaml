@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4e310f05-8549-47ec-bce8-e5248bdd571b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2254049
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 880694c1-797f-44c9-9c93-df2f5f6c68b3-tr
   priority: 0
-  slug: lucide-sensas-deckenleuchte-3x-12-w
+  slug: lucide-sensas-deckenleuchte-3x-12-w-jpg-product-1
   type: product
 logo:
   channels:
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 134.95
 slug: lucide-plafondspot-sensas-3x-gu10
-soldOut: false
+soldOut: true
 start: '2025-12-14T23:00:00.000Z'
 title: Lucide Plafondspot Sensas | Ø 25,8 cm | 3x GU10 | Beige

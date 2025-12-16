@@ -19,13 +19,16 @@ freeDelivery: false
 id: facbfbfc-abe0-40ed-a9a9-c7204038ebbf
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1088453
+  extension: image/png
+  id: aaffefc2-7446-4ec1-9414-d2f3ce309b3e-tr
   priority: 0
-  slug: tefal-starteasy-wokpan-28-cm
+  slug: tefal-starteasy-wok-28-cm-jpg-product-1
   type: product
 logo:
   channels:

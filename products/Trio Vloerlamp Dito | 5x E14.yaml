@@ -19,13 +19,16 @@ freeDelivery: false
 id: b8812ae6-93b4-45f8-bef7-1158d36dfb61
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1621644
-  priority: 100
-  slug: trio-vloerlamp-dito-5x-e14
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3cd7ff2e-53d2-4056-8b90-b35c157500ed-tr
+  priority: 0
+  slug: lampa-podogowa-trio-dito-5x-e14-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1c18cf06-d831-4994-a8cc-c1b45f6a91b5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2253901
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 8d030caa-5e89-48f1-8384-d90fb3fe5604-tr
   priority: 0
-  slug: lucide-fabian-hangeleuchte-6x-40-w
+  slug: lucide-fabian-hangeleuchte-6x-40-w-jpg-product-1
   type: product
 logo:
   channels:

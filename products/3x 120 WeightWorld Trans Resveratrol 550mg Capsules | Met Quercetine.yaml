@@ -1,12 +1,12 @@
-_id: 6936d933e0975e5924bc7e5f
+_id: 693fe07a52b0826d9fc08206
 appOnly: false
 brand: WeightWorld
 brands:
   - id: 3c9bbd0a-8675-5222-b326-1a42ed4ab5ce
     name: WeightWorld
 categories:
-  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
-classicId: '2870537'
+  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
+classicId: '2881812'
 classicProductId: '673282'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: d7875498-8278-4afe-8e47-9b482884ebf3
+id: eb52ae0a-c64d-4748-84c2-396525c86a7e
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 3x-120-weightworld-trans-resveratrol-550mg-caps
   type: product
-offerId: 4aac24b4-7fa0-445a-86e1-5521b2d67962
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1654951
+  priority: 100
+  slug: weightworld-logo
+  type: logo
+offerId: 255500e3-3444-48bb-b353-4f1166dbb448
 price:
   cents: 2995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 50.97
 slug: 3x-120-weightworld-trans-resveratrol-550mg-caps
 soldOut: false
-start: '2025-12-08T23:00:00.000Z'
+start: '2025-12-15T23:00:00.000Z'
 title: 3x 120 WeightWorld Trans Resveratrol 550mg Capsules | Met Quercetine

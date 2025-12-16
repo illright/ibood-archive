@@ -1,12 +1,12 @@
-_id: 6936d6673aadc61d9be5dd8e
+_id: 6937e88ad5bedc30bee11038
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
-classicId: '2870001'
+  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
+classicId: '2871704'
 classicProductId: '400759'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: 63a8200a-922c-4382-97cf-3908eea86778
+id: 742aee8f-908a-51e0-a2ce-f5ffe0dff1b0
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ba84cbbd-18f8-4c71-840f-8d333e093cb3
+  extension: jpg
+  id: 1366966
   priority: 0
-  slug: bulk-15-png-product-1
+  slug: 6x-dove-arganolie-shower-foam-200-ml
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: dove-logo
   type: logo
-offerId: b55c4f9f-76f0-4246-b7cf-89b9dddb952a
+offerId: 7d16d34b-2fba-5c84-9d99-40c1b05d2465
 price:
   cents: 1695
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 44.7
 slug: 6x-dove-arganolie-shower-foam-200-ml
 soldOut: false
-start: '2025-12-08T23:00:00.000Z'
+start: '2025-12-15T23:00:00.000Z'
 title: 6x Dove Arganolie Shower Foam | 200 ml

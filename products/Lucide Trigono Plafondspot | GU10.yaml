@@ -19,13 +19,16 @@ freeDelivery: false
 id: 084e6563-df30-47bc-b207-7990344d5923
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2142370
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 25b08219-07a1-4945-bddf-e4d5b472dc14-tr
   priority: 0
-  slug: lucide-trigono-deckenstrahler-2x-gu10
+  slug: lucide-trigono-deckenstrahler-2x-gu10-jpg-product-1
   type: product
 logo:
   channels:

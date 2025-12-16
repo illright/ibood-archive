@@ -1,12 +1,12 @@
-_id: 691c7ca3d784f59c10c3a4bc
+_id: 69401fa51c05398b4844d238
 appOnly: false
 brand: YSL
 brands:
   - id: b5e666a6-6d02-5b1b-a6b3-54502af6c600
     name: YSL
 categories:
-  - ba5312ec-cbc7-5d02-9f0e-4c0aa42a810a
-classicId: '2832571'
+  - 84630973-4ee4-5086-adc4-ecd3bfce2253
+classicId: '2884071'
 classicProductId: '679054'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: de1ef498-e08b-513e-85e9-c85f2ba20bf7
+id: 8360a0c5-f1dc-4482-9a9d-767d50753e68
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: ysl-l-homme-edp-100ml-product-0
   type: product
-offerId: b66d6cd3-4a3f-5362-be9f-15d054c1220e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6e184d89-7234-4a23-bf5b-54655fdf9a36
+  priority: 101
+  slug: ysl-logo-101
+  type: logo
+offerId: dc2ee912-2851-4713-9cf7-e4d88530aec7
 price:
   cents: 7995
   currency: EUR
@@ -40,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 162.05
 slug: yves-saint-laurent-l-homme-edp-heren-100-ml
-soldOut: true
-start: '2025-12-03T23:00:00.000Z'
+soldOut: false
+start: '2025-12-15T23:00:00.000Z'
 title: Yves Saint Laurent L’Homme EdP | Heren | 100 ml

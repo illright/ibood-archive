@@ -1,12 +1,12 @@
-_id: 6936d84be0975e5924bc7dd2
+_id: 693fdfb752b0826d9fc0818b
 appOnly: false
 brand: Roter
 brands:
   - id: 09c2086f-e087-5f14-b47d-ff7a942efeac
     name: Roter
 categories:
-  - 1eb508a1-bfc9-5c94-b775-c3807c43bd8e
-classicId: '2870420'
+  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
+classicId: '2881683'
 classicProductId: '680297'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: 5e74d102-433a-4c3a-8d21-f92b9a000b40
+id: 83d7ca15-c96e-4da0-ba8b-861320474276
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: citroen-main-png-product-1
   type: product
-offerId: b0940d01-5a7e-4efa-a774-93903c75751b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a50f1a7b-b309-41ec-bee8-981144fe0fcf
+  priority: 0
+  slug: roter-logo-0
+  type: logo
+offerId: 1a9f58d4-9c9f-4d24-9bac-96036c2add8c
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 77.94
 slug: 240x-roter-vitamine-c-bruistabletten-citroen
 soldOut: false
-start: '2025-12-08T23:00:00.000Z'
+start: '2025-12-15T23:00:00.000Z'
 title: 240x Roter Vitamine C Bruistabletten | Citroen

@@ -19,13 +19,14 @@ freeDelivery: false
 id: bafc73d4-d94f-43ed-9b91-78f5a44d735c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1426835
+    - all
+  extension: image/png
+  id: 6765d6f6-10dc-419b-b07b-95352f13fd17
   priority: 0
-  slug: led-lichtsnoer-boston-10-lampjes
+  slug: verlichting-03-png-product-10
   type: product
 logo:
   channels:

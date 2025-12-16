@@ -19,13 +19,14 @@ freeDelivery: false
 id: f5ae8062-19db-4662-84e4-4e55159c6e50
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2018107
+    - all
+  extension: image/png
+  id: 40fa611d-0a41-4161-b0b0-9c086e14fd5f
   priority: 0
-  slug: its-about-romi-tafellamp-denver
+  slug: verlichting-09-png-product-1
   type: product
 logo:
   channels:

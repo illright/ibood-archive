@@ -19,13 +19,14 @@ freeDelivery: false
 id: 3ca130ec-e6b1-4c11-a3eb-acc5d5ddffde
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2253894
+    - all
+  extension: image/png
+  id: 94ae57a6-7a04-4264-92de-77fdbf7cd702
   priority: 0
-  slug: lucide-hanglamp-elysee-3x-e27
+  slug: verlichting-11-png-product-1
   type: product
 logo:
   channels:

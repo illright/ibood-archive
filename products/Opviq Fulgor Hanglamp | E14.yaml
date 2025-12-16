@@ -19,13 +19,16 @@ freeDelivery: false
 id: 05c4e522-e870-4c15-af28-61c43e6efadb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2016427
+    - all
+    - app
+    - website
+  extension: image/png
+  id: a77885a4-f6e3-4968-98fa-e0afbef52952-tr
   priority: 0
-  slug: opviq-fulgor-hanglamp-e14
+  slug: opviq-fulgor-hangeleuchte-e14-jpg-product-1
   type: product
 logo:
   channels:

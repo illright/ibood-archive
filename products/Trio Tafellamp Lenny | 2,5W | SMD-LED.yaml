@@ -19,13 +19,14 @@ freeDelivery: false
 id: 37dea678-69b8-41af-8c54-8d8c5e245e3d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1993160
+    - all
+  extension: image/png
+  id: 5cd848f4-f45d-4836-aa2a-a6fb066fc886-tr
   priority: 0
-  slug: trio-lenny-tischleuchte-25-w-30006000-k
+  slug: trio-lenny-tischleuchte-25-w-30006000-k-jpg-product-1
   type: product
 logo:
   channels:

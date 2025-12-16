@@ -19,13 +19,14 @@ freeDelivery: false
 id: ee5b666c-136d-4eea-be3c-ea7f65db3e40
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 548389
+    - all
+  extension: image/png
+  id: 3d3bacef-6434-4476-99ec-c69d84f39359-tr
   priority: 0
-  slug: wandleuchte-mendoza-solarpanel
+  slug: wandleuchte-mendoza-solarpanel-jpg-product-1
   type: product
 logo:
   channels:

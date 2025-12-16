@@ -19,13 +19,16 @@ freeDelivery: false
 id: fab842a3-7d90-4121-a655-d4e79445b28f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2026591
-  priority: 100
-  slug: lucide-tears-hanglamp-15-w-3000-k
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 4e95b391-8247-41ad-a638-c6a679ddf73e-tr
+  priority: 0
+  slug: lucide-tears-pendelleuchte-15-w-3000-k-jpg-product-101
   type: product
 logo:
   channels:

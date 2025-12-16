@@ -19,13 +19,14 @@ freeDelivery: false
 id: ad095f36-4660-427b-aec2-6b93f5d3cb46
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2251771
-  priority: 100
-  slug: zuiver-tafellamp-wonders
+    - all
+  extension: image/jpeg
+  id: f04ab349-1eae-4a62-a1f1-93c796bb1da5
+  priority: 0
+  slug: zuiver-wonders-tischleuchte-jpg-product-101
   type: product
 logo:
   channels:

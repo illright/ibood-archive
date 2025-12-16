@@ -19,13 +19,14 @@ freeDelivery: false
 id: 879ee9e5-f856-44c0-b282-3220bd24fc96
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2148226
+    - all
+  extension: image/jpeg
+  id: 990bc47a-575a-40da-8216-b691eb01842a
   priority: 0
-  slug: trio-camilla-deckenleuchte-22-watt
+  slug: trio-camilla-deckenleuchte-22-watt-jpg-product-1
   type: product
 logo:
   channels:

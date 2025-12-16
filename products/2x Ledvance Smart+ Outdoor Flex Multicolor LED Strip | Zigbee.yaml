@@ -1,12 +1,12 @@
-_id: 6936a9243aadc61d9be5d84f
+_id: 693fde95156e7a70e245133e
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 30145539-f1bb-5fc0-9ecf-a164123fc812
-classicId: '2867694'
+  - d5580df5-bb31-5ebd-bd49-00c00265a66f
+classicId: '2881269'
 classicProductId: '682313'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 90
-end: '2025-12-15T22:59:59.999Z'
+end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: 92c1844c-aea0-4c6f-9be6-2566e1fe5fc2
+id: caf6f630-acbd-4581-8c8f-bfc1f9e3f70b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8b0995bc-5712-4942-9dea-eec6778e354a
-  priority: 0
-  slug: ledvance-png-logo-0
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
   type: logo
-offerId: c7aa08c5-8b7e-4d92-99ad-cf010d01cea3
+offerId: 75dba695-b0d7-4dbc-ad68-b94587af8702
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 293.36
 slug: 2x-ledvance-smart-outdoor-flex-multicolor-led-strip-zigbee
 soldOut: false
-start: '2025-12-08T23:00:00.000Z'
+start: '2025-12-15T23:00:00.000Z'
 title: 2x Ledvance Smart+ Outdoor Flex Multicolor LED Strip | Zigbee
