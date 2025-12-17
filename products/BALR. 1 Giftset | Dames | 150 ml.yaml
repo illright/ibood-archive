@@ -19,13 +19,14 @@ freeDelivery: false
 id: 26cfec5d-293a-43e1-a4b4-ae413a599954
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1961490
+    - all
+  extension: image/png
+  id: f78be9ce-7837-4918-8777-2cc6e248f7b4
   priority: 0
-  slug: balr-1-giftset-dames-150-ml
+  slug: parfum-03-png-product-1
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 2000438
   priority: 100
-  slug: balr-1-giftset-dames-150-ml
+  slug: balr-1-geschenkset-damen-2-tlg
   type: logo
 offerId: 915c09c1-9161-4735-bae5-3ce136389402
 price:

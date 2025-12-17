@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7c3e782d-7fbb-4b72-863b-0ec2e8584e49
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1098781
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 62eeaf36-69bb-4b2d-9870-a5c489f0351b-tr
   priority: 0
-  slug: davidoff-cool-water-men-edt-40-ml
+  slug: davidoff-cool-water-edt-jpg-product-1
   type: product
 logo:
   channels:

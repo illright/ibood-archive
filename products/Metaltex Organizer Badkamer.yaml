@@ -1,32 +1,32 @@
-_id: 6937fa5058bf0055d09cc4fd
+_id: 694139ae15c40993e01fa1db
 appOnly: false
 brand: METALTEX
 brands:
   - id: dd2f31fe-63f5-5d4c-9a29-e7344cb68aac
     name: METALTEX
 categories:
-  - 5158e46b-89d6-547d-9849-8ff29b5a7f79
-classicId: '2872183'
-classicProductId: '604674'
+  - 64667097-ecb6-5342-81b7-5c4ba7bd587e
+classicId: '2884804'
+classicProductId: '604677'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2025-12-16T22:59:59.999Z'
+end: '2025-12-23T22:59:59.999Z'
 freeDelivery: false
-id: 80ba2e91-0cbb-49e3-b51e-80c09f23a715
+id: 0f85a3ce-aa30-4204-942f-f32c9012f166
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 810f524d-7f35-46dd-a496-208a48c8df12-tr
+  extension: image/jpeg
+  id: b1cc639b-6779-4182-b004-8cfa797b2534
   priority: 0
-  slug: metaltex-duschregal-silbergrau-jpg-product-2
+  slug: metaltex-luxy-eco-duschregal-jpg-product-2
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: metaltex-logo
   type: logo
-offerId: c02c3b56-0b34-4d00-ae42-921348f766fd
+offerId: f1641c55-5368-457b-a5c9-f9a4479e631b
 price:
   cents: 1995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 29.99
 slug: metaltex-organizer-badkamer
-soldOut: true
-start: '2025-12-09T23:00:00.000Z'
+soldOut: false
+start: '2025-12-16T23:00:00.000Z'
 title: Metaltex Organizer Badkamer

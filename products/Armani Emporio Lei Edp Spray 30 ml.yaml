@@ -19,13 +19,16 @@ freeDelivery: false
 id: ebe9eb2c-215b-4f49-85e1-f67972f3f73e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1825509
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3007d833-883c-470a-99c3-1192f1ca0dc3-tr
   priority: 0
-  slug: emporio-armani-she-edp-30-ml
+  slug: emporio-armani-she-edp-30-ml-jpg-product-1
   type: product
 logo:
   channels:

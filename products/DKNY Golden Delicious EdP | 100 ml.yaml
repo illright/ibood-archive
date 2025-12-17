@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1f4bb3db-5e9e-4035-b33a-c7fb62d2affb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 218053
-  priority: 100
-  slug: dkny-golden-delicious-edp-100-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 0c40c80e-33c5-43ce-9289-953ac5f7394b-tr
+  priority: 0
+  slug: dkny-golden-delicious-edp-100-ml-jpg-product-101
   type: product
 logo:
   channels:

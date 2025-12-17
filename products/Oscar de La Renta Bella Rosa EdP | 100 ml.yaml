@@ -19,13 +19,16 @@ freeDelivery: false
 id: 373b1877-4010-4ef3-ac22-26be579f1f3c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1102488
-  priority: 100
-  slug: oscar-de-la-renta-bella-rosa-edp-100-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1c2e4a7d-6a81-40e3-9fcc-467a6b96ab09-tr
+  priority: 0
+  slug: oscar-de-la-renta-bella-rosa-edp-100-ml-jpg-product-101
   type: product
 logo:
   channels:

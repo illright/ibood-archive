@@ -19,13 +19,16 @@ freeDelivery: false
 id: adddd8cb-4566-4791-8cf7-40e8c5061994
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1116793
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cb8f30dd-4535-4242-9fcf-3b6c1223e872-tr
   priority: 0
-  slug: cacharel-lou-lou-edp-50-ml
+  slug: cacharel-lou-lou-edp-50-ml-jpg-product-1
   type: product
 logo:
   channels:

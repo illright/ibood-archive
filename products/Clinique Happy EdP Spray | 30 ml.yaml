@@ -19,13 +19,16 @@ freeDelivery: false
 id: bb747f04-2a1b-40ca-b2ee-8ce3a765e493
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1318366
-  priority: 100
-  slug: clinique-happy-edp-spray-30-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3bab6517-676c-46f5-87d3-df9023b369cd-tr
+  priority: 0
+  slug: clinique-happy-edp-30-ml-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 07695a14-8620-4ecd-a333-3ceaaa9e7873
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1469924
-  priority: 100
-  slug: calvin-klein-eternity-flame-women-edp-100-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 0d2964ea-e982-4229-ab61-408d59c6f5d7-tr
+  priority: 0
+  slug: calvin-klein-eternity-flame-women-edp-100-ml-jpg-product-101
   type: product
 logo:
   channels:

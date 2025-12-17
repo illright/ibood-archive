@@ -19,14 +19,14 @@ freeDelivery: false
 id: 8b276a9e-1239-49a1-8951-bafb30a4498c
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: c244c8db-da03-401c-9b70-e83154aa7dec
+  id: a618ed72-e7a8-4f3f-ab24-17471404aa72
   priority: 0
-  slug: pampers-01-png-product-1
+  slug: pampers-03-png-product-1
   type: product
 logo:
   channels:
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 82.4
 slug: 198x-pampers-baby-dry-maat-3-6-10-kg
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: 198x Pampers Baby-Dry | Maat 3 | 6 - 10 kg

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2a349910-c3a8-4135-aa6e-ac7c041b416d
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1176438
+  extension: image/png
+  id: aac9533b-49b9-49cd-bf95-2253043c3fa3-tr
   priority: 0
-  slug: 6x-dove-original-deo
+  slug: 6x-dove-original-deo-jpg-product-1
   type: product
 logo:
   channels:

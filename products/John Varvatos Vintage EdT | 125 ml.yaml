@@ -19,13 +19,16 @@ freeDelivery: false
 id: 69202229-791f-4257-b1ba-8762feae64aa
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1574965
-  priority: 100
-  slug: john-varvatos-vintage-edt-125-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d198f527-f4ae-4e94-91e5-066429c2cb53-tr
+  priority: 0
+  slug: john-varvatos-vintage-edt-125-ml-jpg-product-101
   type: product
 logo:
   channels:

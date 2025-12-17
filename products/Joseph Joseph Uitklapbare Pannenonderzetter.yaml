@@ -1,22 +1,22 @@
-_id: 693a996e244431cde77bf4a9
+_id: 69413940fbc462078392b3d0
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - 58c27f2e-da72-53ca-a3fc-b0e4d5f86c72
-classicId: '2874529'
+  - 452a7cd0-e7ec-5d86-9b54-75e1425259ae
+classicId: '2884613'
 classicProductId: '678485'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 56
-end: '2025-12-16T22:59:59.999Z'
+discount: 60
+end: '2025-12-23T22:59:59.999Z'
 freeDelivery: false
-id: 6eaff767-9222-4ed7-b638-9216d6211964
+id: 9c7ddf0b-eb67-486f-b188-e56e7b9073d5
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: joseph-joseph-space-expanding-trivet-product-0
   type: product
-offerId: 30add3f8-ef52-41b2-b71d-ab9ddcc3850a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1898679
+  priority: 100
+  slug: joseph-joseph-logo
+  type: logo
+offerId: 4f647658-948d-47d1-a082-c407004c85bc
 price:
-  cents: 1995
+  cents: 1795
   currency: EUR
-  value: 19.95
+  value: 17.95
 referencePrice:
   cents: 4499
   currency: EUR
   value: 44.99
 slug: joseph-joseph-uitklapbare-pannenonderzetter
 soldOut: false
-start: '2025-12-09T23:00:00.000Z'
+start: '2025-12-16T23:00:00.000Z'
 title: Joseph Joseph Uitklapbare Pannenonderzetter

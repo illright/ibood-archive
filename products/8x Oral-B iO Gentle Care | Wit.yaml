@@ -19,13 +19,14 @@ freeDelivery: false
 id: c778cac3-3007-4433-9d1b-f1290a1a3027
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2264833
+    - all
+  extension: image/png
+  id: f46d4045-1065-4852-ae9e-54384331f64c
   priority: 0
-  slug: oral-b-io-gentle-care-zahnburstenkopfe-8-stuck
+  slug: oral-b-01-png-product-1
   type: product
 logo:
   channels:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 93.99
 slug: 8x-oral-b-io-gentle-care-wit
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: 8x Oral-B iO Gentle Care | Wit

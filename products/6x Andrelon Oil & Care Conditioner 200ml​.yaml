@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: f720310e-775b-4bc5-ab87-90623fa9e48a
+    - app
+    - website
+  extension: image/png
+  id: f720310e-775b-4bc5-ab87-90623fa9e48a-tr
   priority: 0
   slug: 6x-andrelon-oil-care-conditioner-200ml-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 55c190aa-5e38-4f35-a63b-46aef5be9b2e
+  priority: 0
+  slug: andrelon-png-logo-0
+  type: logo
 offerId: b7423794-731d-4aed-91bd-0b63fa6ebf39
 price:
   cents: 1295

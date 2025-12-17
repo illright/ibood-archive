@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/webp
-  id: eb5626be-5c1d-46c2-a3fb-c43333bb1095
+    - app
+    - website
+  extension: image/png
+  id: eb5626be-5c1d-46c2-a3fb-c43333bb1095-tr
   priority: 0
   slug: oral-b-io-gentle-care-deal-pack-black-8ct-product-0
   type: product
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 93.99
 slug: 8x-oral-b-io-gentle-care-opzetborstel
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: 8x Oral-B iO Gentle Care Opzetborstel

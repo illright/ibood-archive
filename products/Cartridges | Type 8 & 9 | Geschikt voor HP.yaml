@@ -19,13 +19,16 @@ freeDelivery: false
 id: 8e5e6ca1-60c4-43ff-9f56-efd467da9ea3
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 156099
-  priority: 100
-  slug: type-8-9-voor-hp
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 94641a59-ae5e-4684-8aee-aef7b92334f9-tr
+  priority: 0
+  slug: typ-8-bis-9-fur-hp-jpg-product-101
   type: product
 logo:
   channels:

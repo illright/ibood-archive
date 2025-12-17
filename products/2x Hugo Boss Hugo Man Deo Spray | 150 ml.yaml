@@ -19,13 +19,14 @@ freeDelivery: false
 id: b4b73594-85ad-418d-a988-5854ef34df23
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 885484
-  priority: 100
-  slug: 2x-hugo-boss-man-deo-spray-150-ml
+    - all
+  extension: image/jpeg
+  id: f013c903-8cc2-45dc-9712-00a9ddb49d8f
+  priority: 0
+  slug: 2x-hugo-boss-hugo-deo-spray-150-ml-jpg-product-101
   type: product
 logo:
   channels:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 54
 slug: 2x-hugo-boss-man-deo-spray-150-ml
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: 2x Hugo Boss Hugo Man Deo Spray | 150 ml

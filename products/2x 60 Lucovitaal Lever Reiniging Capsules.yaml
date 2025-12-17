@@ -19,13 +19,16 @@ freeDelivery: false
 id: a301592b-9101-508c-9885-3e2655b2a968
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 911242
-  priority: 100
-  slug: 2x-60-lucovitaal-lever-reiniging-caps
+  extension: image/png
+  id: a6de4568-f462-45e6-9092-dbf1ac1754f5-tr
+  priority: 0
+  slug: 2x-lucovitaal-leberreinigung-60-tabletten-jpg-product-101
   type: product
 logo:
   channels:

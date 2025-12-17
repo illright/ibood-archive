@@ -19,13 +19,16 @@ freeDelivery: false
 id: 65cf838f-ab1a-422a-a80c-fa9836aaa072
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 950352
+  extension: image/png
+  id: a3bd6fb6-188f-41d8-bbfd-2a961ba0b407-tr
   priority: 0
-  slug: issey-miyake-leau-dissey-pour-femme-edt-100-ml
+  slug: issey-miyake-leau-dissey-edt-100-ml-jpg-product-1
   type: product
 logo:
   channels:
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 76.99
 slug: issey-miyake-leau-dissey-pour-femme-edt-100-ml
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: Issey Miyake L'Eau D'Issey Pour Femme EdT Spray | 100 ml

@@ -19,13 +19,16 @@ freeDelivery: false
 id: c5ffbd35-08c0-4df5-92c7-66e13012551c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 800335
-  priority: 100
-  slug: agent-provocateur-signature-edp-200-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: fff3299d-ded8-4182-b378-0a16668b530c-tr
+  priority: 0
+  slug: agent-provocateur-signature-edp-200-ml-jpg-product-101
   type: product
 logo:
   channels:

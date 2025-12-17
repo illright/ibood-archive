@@ -19,13 +19,16 @@ freeDelivery: false
 id: ce78d557-0b40-5b1a-a355-cbc2d3d84461
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2217574
-  priority: 100
-  slug: roberto-cavalli-signature-eau-de-parfum-100-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e5dc8cb0-b61b-49ba-be69-c43686cfc127-tr
+  priority: 0
+  slug: roberto-cavalli-signature-edp-damen-100-ml-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7d116630-d11a-4e84-bed7-acaa45d1dfa5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2259428
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 40e1b57d-c032-441a-8be0-77d3eabf409b-tr
   priority: 0
-  slug: 12x-myprotein-vanilla-birthday-cake-60-g
+  slug: 12x-myprotein-vanilla-birthday-cake-60-g-jpg-product-1
   type: product
 logo:
   channels:

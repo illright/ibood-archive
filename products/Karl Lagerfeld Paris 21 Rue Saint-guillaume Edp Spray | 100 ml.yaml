@@ -19,13 +19,14 @@ freeDelivery: false
 id: 574817ad-6ae1-4412-a2f0-6b57e7149a50
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1948587
-  priority: 100
-  slug: karl-lagerfeld-paris-21-rue-saint-guillaume-edp
+    - all
+  extension: image/png
+  id: 77306aa4-f381-48b3-8a01-f152cd1364ea
+  priority: 0
+  slug: parfum-08-png-product-101
   type: product
 logo:
   channels:

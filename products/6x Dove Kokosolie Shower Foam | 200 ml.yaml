@@ -19,13 +19,16 @@ freeDelivery: false
 id: f425ad27-aef6-5546-b880-7daf81888c64
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1366965
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 2f2e10f7-4ea1-472e-a895-6a2b4707be49-tr
   priority: 0
-  slug: 6x-200-ml-dove-kokosolie-shower-foam
+  slug: 6x-dove-kokos-duschschaum-200-ml-jpg-product-1
   type: product
 logo:
   channels:

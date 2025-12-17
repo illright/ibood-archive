@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4a7d9583-de69-4dd7-a110-32acde704d82
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 4037
-  priority: 100
-  slug: ck-eternity-moment-edp
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 04e772dd-7d42-4c41-9e29-c3d087d6f12d-tr
+  priority: 0
+  slug: ck-eternity-moment-edp-jpg-product-101
   type: product
 logo:
   channels:

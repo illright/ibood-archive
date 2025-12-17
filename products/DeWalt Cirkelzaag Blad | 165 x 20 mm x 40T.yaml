@@ -19,13 +19,16 @@ freeDelivery: false
 id: e7ff4313-24fc-4f90-a6b7-abd9331f48cf
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 845894
-  priority: 100
-  slug: dewalt-kreissageblatt-165-x-20-mm
+  extension: image/png
+  id: 8cff3c6f-dec8-45cc-8882-c17abeea2ce1-tr
+  priority: 0
+  slug: dewalt-kreissageblatt-165-x-20-mm-jpg-product-101
   type: product
 logo:
   channels:

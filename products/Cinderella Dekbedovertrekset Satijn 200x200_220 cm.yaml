@@ -1,4 +1,4 @@
-_id: 692eb074345868d3ddd05364
+_id: 692eb061e6960e0d4754797a
 appOnly: false
 brand: Cinderella
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Cinderella
 categories:
   - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2850143'
-classicProductId: '189536'
+classicId: '2850129'
+classicProductId: '189535'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 63
 end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: f054fc19-8698-5d8f-9fd1-abc07fdebaa5
+id: 6a372106-57cd-5a74-95c6-5682b9c466ec
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 456105
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 78a946f9-697a-40ec-9548-50741c5628ed-tr
   priority: 0
-  slug: satin-bettwasche-200-x-200220-cm
+  slug: satin-bettwasche-200-x-200220-cm-1-jpg-product-10
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: cinderella-logo
   type: logo
-offerId: 24eb0f6b-173b-5077-9ffa-bf3ebf90bf32
+offerId: a47c71b0-248d-5129-acb1-728ed5c3f82d
 price:
   cents: 5995
   currency: EUR

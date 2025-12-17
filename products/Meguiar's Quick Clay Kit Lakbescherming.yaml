@@ -19,13 +19,16 @@ freeDelivery: false
 id: 86091eea-c880-436d-a4cd-a89771af5c79
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1490226
-  priority: 100
-  slug: meguiars-quick-clay-kit-lakbescherming
+    - all
+    - app
+    - website
+  extension: image/png
+  id: a91a4f42-a039-4c6f-a368-35048bab91ac-tr
+  priority: 0
+  slug: meguiars-quick-clay-kit-lackschutz-jpg-product-101
   type: product
 logo:
   channels:

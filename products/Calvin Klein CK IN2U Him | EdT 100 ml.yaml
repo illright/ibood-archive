@@ -19,13 +19,14 @@ freeDelivery: false
 id: 3ad5634a-eb4e-41ef-ab4e-872e1f0af5ff
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1253842
-  priority: 100
-  slug: calvin-klein-ck-in2u-him-edt-100-ml
+    - all
+  extension: image/png
+  id: 570a302e-37b0-41d9-9786-663fc3182c0a
+  priority: 0
+  slug: parfum-05-png-product-101
   type: product
 logo:
   channels:

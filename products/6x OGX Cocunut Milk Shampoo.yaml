@@ -19,14 +19,28 @@ freeDelivery: false
 id: 086a4ac0-c4d8-5bf0-97be-e370e2c72e44
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 386616
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d91a1f72-6085-4ef4-824d-07a29ffebf8a-tr
   priority: 0
-  slug: 6x-ogx-cocunut-milk-shampoo
+  slug: 6x-ogx-shampoo-coconut-milk-jpg-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 81a4f0e3-ab39-4485-b441-3677551c009e
+  priority: 0
+  slug: ogx-png-logo-0
+  type: logo
 offerId: 68ad4a28-595b-504e-8b99-2a371ee17689
 price:
   cents: 2995

@@ -19,13 +19,14 @@ freeDelivery: false
 id: bfbce540-8822-4db0-98b2-d5a77a69300c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1948599
-  priority: 100
-  slug: john-varvatos-artisan-blue-man-edt-spray-125-ml
+    - all
+  extension: image/png
+  id: bb6c9186-f132-4205-955e-d4e0f4e7bee8
+  priority: 0
+  slug: parfum-11-png-product-101
   type: product
 logo:
   channels:

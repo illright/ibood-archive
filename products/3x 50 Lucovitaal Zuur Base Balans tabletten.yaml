@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2c9ef2d1-5625-4c7c-9a86-a9afe79e874b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1379851
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e7dfd31c-d05c-471d-95a1-1bce05e672b7-tr
   priority: 0
-  slug: 3x-50-lucovitaal-zuur-base-balans-tabs
+  slug: 150x-lucovitaal-zuur-base-balans-jpg-product-1
   type: product
 logo:
   channels:

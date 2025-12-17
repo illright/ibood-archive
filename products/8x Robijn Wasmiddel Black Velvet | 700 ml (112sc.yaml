@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1ddd26dd-ce81-4d0b-8109-5d718e3dc6f0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1314822
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e94b9ce2-6071-4909-ab97-8c58f9a4b66c-tr
   priority: 0
-  slug: 8x-robijn-waschmittel-700-ml
+  slug: 8x-robijn-waschmittel-700-ml-jpg-product-1
   type: product
 logo:
   channels:

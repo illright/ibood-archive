@@ -19,13 +19,16 @@ freeDelivery: false
 id: ff8613ae-7cf2-4b5e-a550-746af832f607
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1419855
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cd640dfb-0c4c-4a8c-9284-344d0c75c3f0-tr
   priority: 0
-  slug: 6x-clearasil-ultra-lotion-200-ml
+  slug: 6x-clearasil-akne-gesichtswasser-jpg-product-1
   type: product
 logo:
   channels:

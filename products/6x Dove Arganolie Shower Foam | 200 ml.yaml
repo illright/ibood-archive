@@ -19,13 +19,16 @@ freeDelivery: false
 id: 742aee8f-908a-51e0-a2ce-f5ffe0dff1b0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1366966
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f73efa80-ae8f-4ca8-963b-af28837adfaa-tr
   priority: 0
-  slug: 6x-dove-arganolie-shower-foam-200-ml
+  slug: 6x-dove-arganol-duschschaum-200-ml-1-jpg-product-1
   type: product
 logo:
   channels:

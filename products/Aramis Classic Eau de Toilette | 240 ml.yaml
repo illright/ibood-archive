@@ -19,13 +19,14 @@ freeDelivery: false
 id: b02b06f1-25ad-5170-92a9-2aaff01b382d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2211550
-  priority: 100
-  slug: aramis-classic-eau-de-toilette-240-ml
+    - all
+  extension: image/png
+  id: 08362650-61a6-45d8-8ed1-b417de662631
+  priority: 0
+  slug: parfum-04-png-product-101
   type: product
 logo:
   channels:

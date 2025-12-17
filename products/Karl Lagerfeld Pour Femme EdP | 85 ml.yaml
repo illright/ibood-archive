@@ -19,13 +19,16 @@ freeDelivery: false
 id: f04bb79b-6213-4715-a261-9bed0e644ec6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 406597
+    - all
+    - app
+    - website
+  extension: image/png
+  id: a2d2d7ef-969a-4639-a277-649a5715e0cc-tr
   priority: 0
-  slug: karl-lagerfeld-pour-femme-edp-85-ml
+  slug: karl-lagerfeld-pour-femme-edp-jpg-product-1
   type: product
 logo:
   channels:

@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 6a885626-c35e-440a-8e0f-bd101e7bbce1
+    - app
+    - website
+  extension: image/png
+  id: 6a885626-c35e-440a-8e0f-bd101e7bbce1-tr
   priority: 0
   slug: 12x-heinz-tomato-frito-original-780gr-product-0
   type: product
@@ -49,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 37.17
 slug: 12x-heinz-tomato-frito-original-780-g
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: 12x Heinz Tomato Frito Original | 780 g

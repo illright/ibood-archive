@@ -19,13 +19,14 @@ freeDelivery: false
 id: 562ac4ea-7138-45ae-bf5a-c6d5ed8afff6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1424760
-  priority: 100
-  slug: hugo-boss-woman-edp-spray-90-ml
+    - all
+  extension: image/png
+  id: 62990df5-dc9a-45d6-aa43-c042f927f393
+  priority: 0
+  slug: parfum-10-png-product-101
   type: product
 logo:
   channels:

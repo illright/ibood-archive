@@ -19,13 +19,16 @@ freeDelivery: false
 id: c6297dc7-a696-4bb7-9e40-3b68cb92e3c2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1815803
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 6ea55edf-1f1c-4265-bffe-b4f0f443c206-tr
   priority: 0
-  slug: joop-wow-edt-herren-60-ml
+  slug: joop-wow-edt-herren-60-ml-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: fe2957b3-60b3-4d97-af3a-bfa2ed015358
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1012880
-  priority: 100
-  slug: 6x-robijn-color-waschmittel-1-l
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 9837f038-6a78-4935-b8b5-cd9ced40cd0e-tr
+  priority: 0
+  slug: 6x-robijn-color-waschmittel-1-l-jpg-product-101
   type: product
 logo:
   channels:
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 63.3
 slug: 6x-robijn-wasmiddel-color-1-l-120sc
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: 6x Robijn Wasmiddel Color | 1 L (120sc)

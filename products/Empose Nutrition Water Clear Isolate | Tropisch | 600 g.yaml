@@ -19,13 +19,14 @@ freeDelivery: false
 id: dcaafc6a-2a9e-4bc7-b351-1d26f1ec0a0e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1578693
+    - all
+  extension: image/png
+  id: 69d63f04-9acb-4400-af80-2c8bc84f00ad
   priority: 0
-  slug: empose-nutrition-water-clear-isolate-tropisch
+  slug: empose-01-png-product-1
   type: product
 logo:
   channels:

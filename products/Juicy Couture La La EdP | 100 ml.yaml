@@ -19,13 +19,16 @@ freeDelivery: false
 id: 82743b68-6875-4a55-b91f-4a24f0660d8f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 800392
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 85bbca60-14f5-4b72-8f80-6e0f6f7e5f57-tr
   priority: 0
-  slug: juicy-couture-la-la-edp-100-ml
+  slug: juicy-couture-la-la-edp-jpg-product-1
   type: product
 offerId: a4858568-ab4c-4a61-9ca9-87348fb97648
 price:

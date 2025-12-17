@@ -19,13 +19,16 @@ freeDelivery: false
 id: 9dd19e15-9823-4ce1-9026-b5b0dde955fe
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1266028
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e6a71d55-e14e-403a-9a58-ef41f5f5a68f-tr
   priority: 0
-  slug: 24x-pringles-versch-sorten-40-g
+  slug: 24x-pringles-versch-sorten-40-g-jpg-product-1
   type: product
 logo:
   channels:

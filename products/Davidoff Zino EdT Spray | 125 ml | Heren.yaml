@@ -19,13 +19,16 @@ freeDelivery: false
 id: af0d328e-9379-4a39-92ab-522020d8da72
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 563723
-  priority: 100
-  slug: davidoff-zino-edt-125-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 35126a69-5352-4006-9512-50b05613ffce-tr
+  priority: 0
+  slug: davidoff-zino-edt-125-ml-jpg-product-101
   type: product
 logo:
   channels:

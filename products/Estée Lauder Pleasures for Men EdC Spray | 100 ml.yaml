@@ -19,13 +19,16 @@ freeDelivery: false
 id: 3d979614-f0da-4b2d-ad7c-d646f4d34e5a
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1470058
-  priority: 100
-  slug: estee-lauder-pleasures-for-men-edc-spray-100-ml
+  extension: image/png
+  id: 7a9bae4f-43cd-420b-8524-5c50eeb8bda4-tr
+  priority: 0
+  slug: estee-lauder-pleasures-for-men-edc-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6a916b16-52b0-4cda-a32a-5f7551762788
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1999147
-  priority: 100
-  slug: meguiars-ultimate-paste-wax-236-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b2f82d06-3755-42fe-b6a2-6686ad233507-tr
+  priority: 0
+  slug: meguiars-ultimate-paste-wax-236-ml-jpg-product-101
   type: product
 logo:
   channels:

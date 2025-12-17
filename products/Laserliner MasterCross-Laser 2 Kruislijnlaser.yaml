@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: cfb52560-dd3e-4da5-92f0-9f8412c797ec
+    - website
+    - app
+  extension: image/png
+  id: cfb52560-dd3e-4da5-92f0-9f8412c797ec-tr
   priority: 0
   slug: laserliner-mastercross-laser-2-product-7
   type: product
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 194.08
 slug: laserliner-mastercross-laser-2
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: Laserliner MasterCross-Laser 2 Kruislijnlaser
