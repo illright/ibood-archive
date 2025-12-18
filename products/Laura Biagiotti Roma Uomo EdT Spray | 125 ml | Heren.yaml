@@ -19,13 +19,16 @@ freeDelivery: false
 id: d0c53b45-c040-4a0e-a7eb-2cd40820340a
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 406408
+  extension: image/png
+  id: 92070865-a95d-4e60-b5a2-eefee5fdbda1-tr
   priority: 0
-  slug: laura-biagiotti-roma-edt-125-ml
+  slug: laura-biagiotti-roma-edt-125-ml-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 80ec8d69-6186-4e7f-865e-b64f7e5234f2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1995884
-  priority: 100
-  slug: tempur-symphony-kopfkissen
+    - all
+  extension: image/jpeg
+  id: a84e202e-2bb6-407e-bb99-ebd211322c0f
+  priority: 0
+  slug: tempur-symphony-kopfkissen-jpg-product-101
   type: product
 logo:
   channels:

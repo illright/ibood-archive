@@ -19,13 +19,14 @@ freeDelivery: false
 id: 677d3659-a9e0-499e-946c-31ef83d5605f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1867769
-  priority: 100
-  slug: lacoste-essential-pour-homme-edt-75-ml
+    - all
+  extension: image/png
+  id: ab928a4c-15f5-463e-b706-433f85209202
+  priority: 0
+  slug: parfum-01-png-product-101
   type: product
 logo:
   channels:

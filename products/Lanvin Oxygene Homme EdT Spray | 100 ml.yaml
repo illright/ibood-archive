@@ -19,13 +19,16 @@ freeDelivery: false
 id: 663a0955-c4a2-4f91-95c1-ea440d18fe5c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 153152
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 502d389c-40c2-4771-ad8c-13f2d17b8064-tr
   priority: 0
-  slug: lanvin-oxygene-homme-edt
+  slug: lanvin-oxygene-homme-edt-jpg-product-1
   type: product
 logo:
   channels:

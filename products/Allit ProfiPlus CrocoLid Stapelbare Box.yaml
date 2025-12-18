@@ -19,13 +19,16 @@ freeDelivery: false
 id: 17f1a907-918b-4b00-9827-0e2e5c30c836
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1586916
-  priority: 100
-  slug: allit-profiplus-crocolid-stapelbare-box
+  extension: image/png
+  id: 1a7cb1c2-5c2c-4f5c-913f-3e784bd02ab7-tr
+  priority: 0
+  slug: allit-profiplus-crocolid-stapelbare-box-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: fcc96387-0879-4feb-afe7-79ddac33b420
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2118066
+  extension: image/png
+  id: c626379c-8078-41dc-8c53-86fefdb777f4-tr
   priority: 0
-  slug: lacoste-lhomme-edt-herren-100-ml
+  slug: lacoste-lhomme-edt-herren-100-ml-jpg-product-1
   type: product
 logo:
   channels:

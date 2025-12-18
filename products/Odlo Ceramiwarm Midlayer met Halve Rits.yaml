@@ -1,4 +1,4 @@
-_id: 69413c1847b72d7ce9efa637
+_id: 69413c173735259f1e15b3a1
 appOnly: false
 brand: Odlo
 brands:
@@ -6,50 +6,38 @@ brands:
     name: Odlo
 categories:
   - ee06c709-60cc-5765-8882-24cf312ba833
-classicId: '2885131'
-classicProductId: '661507'
+classicId: '2885130'
+classicProductId: '661505'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 43
+directCheckout: true
+discount: 36
 end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: c79a981a-de80-491c-8d77-e2da6e023961
+id: 58d97382-e23c-4b28-b1ae-b37e312b061a
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
-  extension: image/png
-  id: ab319613-352e-4b2b-8fd8-b0633b84e3ed-tr
+  extension: image/jpeg
+  id: 7d75373c-e4d3-43ec-9de9-c6022dcf6c2e
   priority: 0
-  slug: xl-shadow-lime-313642-40440-mid-layer-1-2-zip-essential-ceramiwarm-odlo-product-5
+  slug: xl-black-black-313642-15001-mid-layer-1-2-zip-essential-ceramiwarm-odlo-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1620425
-  priority: 100
-  slug: odlo-logo
-  type: logo
-offerId: cfb17a0d-6fa3-4400-88dc-3f53583e1e88
+offerId: 0feea79c-d305-4e18-b7ae-ad28f20db6b0
 price:
-  cents: 4000
+  cents: 4495
   currency: EUR
-  value: 40
+  value: 44.95
 referencePrice:
   cents: 7000
   currency: EUR
   value: 70
-slug: odlo-ceramiwarm-midlayer-halve-rits
-soldOut: false
+slug: odlo-ceramiwarm-midlayer-met-halve-rits
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: Odlo Ceramiwarm Midlayer met Halve Rits

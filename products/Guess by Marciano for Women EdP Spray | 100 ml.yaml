@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6d9b535e-53ca-4bcf-bac5-2d02e83570b8
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1574955
-  priority: 100
-  slug: guess-by-marciano-for-women-edp-100-ml
+  extension: image/png
+  id: dbf2bb33-b748-4c63-a73e-1a07b0834dbd-tr
+  priority: 0
+  slug: guess-by-marciano-for-women-edp-100-ml-jpg-product-101
   type: product
 logo:
   channels:

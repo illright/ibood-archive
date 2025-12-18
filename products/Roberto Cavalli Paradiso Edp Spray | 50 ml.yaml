@@ -19,13 +19,16 @@ freeDelivery: false
 id: 29740385-313c-437d-bb19-c00eedd87cf8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1825529
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c8be98dd-c6cb-4516-bf71-1a1e31a93bfd-tr
   priority: 0
-  slug: roberto-cavalli-paradiso-edp-50-ml
+  slug: roberto-cavalli-paradiso-edp-50-ml-jpg-product-1
   type: product
 logo:
   channels:

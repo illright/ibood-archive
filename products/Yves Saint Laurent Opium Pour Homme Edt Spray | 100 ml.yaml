@@ -19,13 +19,16 @@ freeDelivery: false
 id: 0a03c49b-90e3-4673-88fb-f6b8c1480296
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1867804
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f843258b-5104-4baf-9990-ad3209ce9d3b-tr
   priority: 0
-  slug: yves-saint-laurent-opium-pour-homme-edt
+  slug: yves-saint-laurent-opium-pour-homme-edt-jpg-product-1
   type: product
 logo:
   channels:

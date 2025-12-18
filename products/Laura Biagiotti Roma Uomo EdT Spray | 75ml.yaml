@@ -19,13 +19,16 @@ freeDelivery: false
 id: 052407da-8349-4a37-a7b2-bc8d3346a84d
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 218069
-  priority: 100
-  slug: laura-biagiotti-roma-uomo-edt
+  extension: image/png
+  id: 63eac35b-5abb-43c4-9352-2f84c5ad5b59-tr
+  priority: 0
+  slug: laura-biagiotti-roma-uomo-edt-jpg-product-101
   type: product
 logo:
   channels:

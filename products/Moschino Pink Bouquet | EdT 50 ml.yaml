@@ -19,13 +19,16 @@ freeDelivery: false
 id: a7713b0f-4eef-4811-b3b5-97ffd9dd8b3f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 585404
-  priority: 100
-  slug: moschino-pink-bouquet-edt-50-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ce517eb5-027d-48e8-ba5d-fc960b8cc1a7-tr
+  priority: 0
+  slug: moschino-pink-bouquet-edt-50-ml-jpg-product-101
   type: product
 logo:
   channels:

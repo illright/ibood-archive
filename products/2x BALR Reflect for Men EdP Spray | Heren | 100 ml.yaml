@@ -1,4 +1,4 @@
-_id: 69401afda82a2b282bfa63c7
+_id: 6942a8e94240135da3331a68
 appOnly: false
 brand: BALR.
 brands:
@@ -6,17 +6,17 @@ brands:
     name: BALR.
 categories:
   - 84630973-4ee4-5086-adc4-ecd3bfce2253
-classicId: '2883660'
+classicId: '2887800'
 classicProductId: '679291'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 79
+discount: 82
 end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: ecd942c2-c081-4ac9-82fa-7a999ab93da4
+id: 7996f639-000e-4bb8-97ce-0054225e5a14
 image:
   channels:
     - app
@@ -28,11 +28,21 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 1de51181-6b5d-46f7-9d0e-d60cfabae2de
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1991470
+  priority: 100
+  slug: balr-logo
+  type: logo
+offerId: eb193b46-4aef-4aa1-9e9a-29f6e1988eee
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 17000
   currency: EUR

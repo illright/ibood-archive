@@ -19,13 +19,14 @@ freeDelivery: false
 id: c2a9d6e6-279a-41ae-b0c6-80a65e12e226
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1337214
-  priority: 100
-  slug: salvatore-ferragamo-f-by-ferragamo-edt-100-ml
+    - all
+  extension: image/png
+  id: 7037d197-1b40-4de0-a480-98ee99427377
+  priority: 0
+  slug: parfum-05-png-product-101
   type: product
 logo:
   channels:

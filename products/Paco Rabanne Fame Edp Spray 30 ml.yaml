@@ -19,13 +19,16 @@ freeDelivery: false
 id: ed6f79ff-dde4-4f26-a324-8efa9e72d16e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1825519
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b05aee82-d558-4ad3-b0d6-88917506d5b5-tr
   priority: 0
-  slug: paco-rabanne-fame-edp-damen-30-ml
+  slug: paco-rabanne-fame-edp-damen-30-ml-jpg-product-1
   type: product
 logo:
   channels:

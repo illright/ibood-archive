@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7025191f-b44f-4cfc-9303-cfea04b18ce3
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1809147
-  priority: 100
-  slug: lamborghini-intenso-edt-200-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7dd600b5-f0e4-40e0-a42d-62426841308d-tr
+  priority: 0
+  slug: lamborghini-intenso-edt-200-ml-jpg-product-101
   type: product
 offerId: 56b7e9bf-bdd6-4fe5-8a52-0fa224299b9f
 price:

@@ -1,4 +1,4 @@
-_id: 693018510ff06193a5da01a6
+_id: 6930184bdc12694395a5266b
 appOnly: false
 brand: Lucovitaal
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Lucovitaal
 categories:
   - 7136546c-bc5c-500b-809c-b8ea1ac61dfc
-classicId: '2852008'
-classicProductId: '682816'
+classicId: '2852000'
+classicProductId: '682814'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 78
 end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: f957b951-0053-5faa-8133-41cee3912a47
+id: 23be9025-25ac-5f78-9c86-0cd909ae6536
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8bd42173-f8f5-4a5a-8600-52c835975ac1
+  id: a6210b13-160e-4c7f-9f43-b37e4afd6775
   priority: 0
-  slug: lucovitaal-10-png-product-1
+  slug: lucovitaal-11-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1558522
-  priority: 100
-  slug: lucovitaal-logo
+    - all
+  extension: image/png
+  id: 7bf4060a-d09a-4b1b-ad1e-7df67e68861f
+  priority: 0
+  slug: lucovitaal-png-logo-0
   type: logo
-offerId: 232d3a9e-e476-57f1-9d16-9279629cfa9c
+offerId: 9a14540f-a8b9-535c-8759-554eeeb9eb2a
 price:
   cents: 1295
   currency: EUR

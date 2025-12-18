@@ -19,13 +19,16 @@ freeDelivery: false
 id: ef1a359e-a173-4166-85eb-fc3e894ad95a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1279871
-  priority: 100
-  slug: dr-botanicals-body-cream-60-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 28ce7196-26ca-4070-a9fb-24449ca89bd5-tr
+  priority: 0
+  slug: krem-nawilzajacy-dr-botanicals-antioxidantvitamin-jpg-product-101
   type: product
 logo:
   channels:

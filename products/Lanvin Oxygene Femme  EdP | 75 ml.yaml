@@ -19,13 +19,16 @@ freeDelivery: false
 id: bcb72cb8-130f-435f-a940-3b781c4722fb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 406646
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 0195b122-63cc-4e5b-a94c-970a4403710d-tr
   priority: 0
-  slug: lanvin-oxygene-edp
+  slug: lanvin-oxygene-edp-jpg-product-1
   type: product
 logo:
   channels:

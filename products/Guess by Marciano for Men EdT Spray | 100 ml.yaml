@@ -19,13 +19,16 @@ freeDelivery: false
 id: 3c713c17-a082-4cff-b1b1-100e881ac804
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1574954
-  priority: 100
-  slug: guess-by-marciano-for-men-edt-100-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 88b1c478-5181-453a-bb4f-3ff71b1f9c1e-tr
+  priority: 0
+  slug: guess-by-marciano-for-men-edt-100-ml-jpg-product-101
   type: product
 logo:
   channels:

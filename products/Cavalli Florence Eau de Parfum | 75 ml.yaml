@@ -19,13 +19,16 @@ freeDelivery: false
 id: ff2d81ec-8618-48de-95dd-42812db9f94d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1904997
-  priority: 100
-  slug: cavalli-florence-edp-75-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e95dca96-ca91-4d01-9faa-c24fa0efc882-tr
+  priority: 0
+  slug: roberto-cavalli-florence-edp-75-ml-jpg-product-101
   type: product
 logo:
   channels:

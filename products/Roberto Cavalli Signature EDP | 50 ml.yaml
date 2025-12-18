@@ -19,13 +19,16 @@ freeDelivery: false
 id: f3f6b09c-c514-4e79-a20b-a62a37d35267
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2268068
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 25356244-d0fd-44f2-bc0b-bdab72c45b72-tr
   priority: 0
-  slug: roberto-cavalli-signature-edp-50-ml
+  slug: roberto-cavalli-signature-eau-de-parfum-50-ml-jpg-product-1
   type: product
 logo:
   channels:

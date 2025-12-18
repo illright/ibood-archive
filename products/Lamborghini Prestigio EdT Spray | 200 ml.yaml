@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2c51124e-8c54-4fa3-85da-0f061a4af241
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1976907
-  priority: 100
-  slug: lamborghini-prestigio-edt-spray-200-ml
+  extension: image/png
+  id: 2ffdcfa3-108c-4431-9eec-ebe03989148c-tr
+  priority: 0
+  slug: t-lamborghini-prestigio-edt-200-ml-jpg-product-101
   type: product
 offerId: 277dfb2d-b5fe-4bd8-b70a-ae21509bd2bd
 price:

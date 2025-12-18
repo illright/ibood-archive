@@ -1,4 +1,4 @@
-_id: 6932b01b38a1fe977abd8ab5
+_id: 6942703ec9f3ccf364156f22
 appOnly: false
 brand: Emma Sleep
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Emma Sleep
 categories:
   - 5d4d6ba2-240e-5002-b836-23fbb5895969
-classicId: '2863400'
-classicProductId: '660130'
+classicId: '2886990'
+classicProductId: '679449'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 51
 end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 295bbe72-e997-55b6-a5d1-f1ba8c3386d5
+id: 3712d89e-a629-4926-b942-74e8f53cc980
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: emma-one-medium-foam-matras-90-x-190-cm-png-product-1
   type: product
-offerId: fe688c9d-0539-5570-9102-2772c656d2f2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: aa4d81ee-0df9-4092-9cfa-c833665cbb73
+  priority: 0
+  slug: emma-sleep-logo-0
+  type: logo
+offerId: bc067d34-2e74-4427-b240-ab7c7040b8d8
 price:
   cents: 26900
   currency: EUR

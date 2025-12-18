@@ -19,13 +19,16 @@ freeDelivery: false
 id: d62a94d3-3648-4df2-9e67-6a0b0b64d33d
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1883443
-  priority: 100
-  slug: jimmy-choo-flash-edp-natural
+  extension: image/png
+  id: cbe6002a-0332-4c04-ac40-1d62d518b820-tr
+  priority: 0
+  slug: jimmy-choo-flash-edp-natural-jpg-product-101
   type: product
 logo:
   channels:

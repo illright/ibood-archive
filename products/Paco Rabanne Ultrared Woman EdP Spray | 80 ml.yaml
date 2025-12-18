@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6ffbf850-c8f9-43b6-a5e2-4d4aca67cedc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 800383
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f0c51a9d-03b2-4ee3-a226-82013dcb6e39-tr
   priority: 0
-  slug: paco-rabanne-ultrared-woman-edp-spray-80-ml
+  slug: paco-rabanne-ultrared-edp-80-ml-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 90f05bad-e525-4b34-9c89-5a73214b5841
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 913696
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ede15b1d-0460-4e2e-87db-74fd2a7ef68c-tr
   priority: 0
-  slug: lanvin-a-girl-in-capri-edt-50-ml
+  slug: lanvin-a-girl-in-capri-edt-50-ml-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: d9cb0ef7-c4f5-4691-9a92-d807b1c68708
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1881854
-  priority: 100
-  slug: roberto-cavalli-paradiso-azzurro-edp-spray-75-ml
+    - all
+  extension: image/png
+  id: 7eabcd03-9aba-4e61-87ff-83fc214af238
+  priority: 0
+  slug: parfum-04-png-product-101
   type: product
 logo:
   channels:

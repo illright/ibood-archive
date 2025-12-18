@@ -1,4 +1,4 @@
-_id: 69401b211c05398b4844d0e3
+_id: 6942a8df4240135da3331a59
 appOnly: false
 brand: BALR.
 brands:
@@ -6,17 +6,17 @@ brands:
     name: BALR.
 categories:
   - 84630973-4ee4-5086-adc4-ecd3bfce2253
-classicId: '2883681'
+classicId: '2887793'
 classicProductId: '457855'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 33
+discount: 76
 end: '2025-12-22T22:59:59.999Z'
 freeDelivery: false
-id: dcf8445d-6cdd-408e-93ab-ffa518c9966f
+id: dad92727-9b39-4802-a88d-47a22b9065d3
 image:
   channels:
     - website
@@ -27,11 +27,21 @@ image:
   priority: 0
   slug: balr-1-eau-de-parfum-voor-mannen-50-ml
   type: product
-offerId: b67af4e0-0c3f-4203-8744-debdfc0466b2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1991470
+  priority: 100
+  slug: balr-logo
+  type: logo
+offerId: 9d52ce4f-2dd0-4eb3-919a-d6f6be470d96
 price:
-  cents: 3695
+  cents: 1295
   currency: EUR
-  value: 36.95
+  value: 12.95
 referencePrice:
   cents: 5500
   currency: EUR

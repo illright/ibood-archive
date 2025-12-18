@@ -19,13 +19,16 @@ freeDelivery: false
 id: 63ff4de0-61b9-46df-87e9-f8ab02f50401
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 961890
-  priority: 100
-  slug: versace-lhomme-edt
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7ebfa6b6-6c7f-4dd5-88fd-e74cbb7a7e3a-tr
+  priority: 0
+  slug: versace-lhomme-edt-jpg-product-101
   type: product
 logo:
   channels:

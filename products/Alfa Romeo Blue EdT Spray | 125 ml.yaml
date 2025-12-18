@@ -19,13 +19,16 @@ freeDelivery: false
 id: 0764cbcd-d34a-4057-ab95-fcc4006ba829
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1424756
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 11d5dad7-d0a7-4111-a405-d9f538ad3372-tr
   priority: 0
-  slug: alfa-romeo-blue-edt-125-ml
+  slug: alfa-romeo-blue-edt-125-ml-jpg-product-1
   type: product
 logo:
   channels:
