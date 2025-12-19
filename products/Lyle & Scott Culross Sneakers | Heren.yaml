@@ -1,32 +1,34 @@
-_id: 6942b0b98d47ca9bb54b3b12
+_id: 6940109a1bf2565fccc004ba
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - ae5d0c09-e92a-57dd-9297-88a2ae20982d
-classicId: '2888033'
-classicProductId: '671300'
+  - 656da951-a8eb-55f8-a2af-1f3063ce4042
+classicId: '2882942'
+classicProductId: '670830'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 41
-end: '2026-01-04T22:59:59.999Z'
+discount: 64
+end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 5c848e61-2601-4761-92ab-71da327fff96
+id: 380cee1a-d299-416c-90c7-0aaaec0690b1
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 0ed7ebb1-c3e0-48e7-b5a9-61020cc6e8f4
+    - app
+    - website
+  extension: image/png
+  id: 05f329b0-ba90-4f99-8e6e-320d04db4c1d-tr
   priority: 0
-  slug: 43-ash-124-andrew009-culross-sneaker-lyle-scott-product-0
+  slug: 46-off-white-137-culross-01-andrew005-lyle-scott-sneakers-product-0
   type: product
 logo:
   channels:
@@ -38,16 +40,16 @@ logo:
   priority: 100
   slug: lyle-scott-logo
   type: logo
-offerId: ecf3181b-3f03-4207-9f6b-1b0b84eacb6a
+offerId: ecd8cda7-1d4b-46f5-a3b2-c60105f73f45
 price:
-  cents: 6495
+  cents: 3995
   currency: EUR
-  value: 64.95
+  value: 39.95
 referencePrice:
-  cents: 10990
+  cents: 11000
   currency: EUR
-  value: 109.9
-slug: ash-124-andrew009-culross-sneaker-lyle-scott-heren
+  value: 110
+slug: lyle-scott-culross-sneakers-off-white-heren
 soldOut: false
-start: '2025-12-17T23:00:00.000Z'
+start: '2025-12-15T23:00:00.000Z'
 title: Lyle & Scott Culross Sneakers | Heren

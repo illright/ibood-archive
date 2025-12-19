@@ -1,4 +1,4 @@
-_id: 693168364948c75a2e590357
+_id: 693168344f27ef3da1030111
 appOnly: false
 brand: Larson
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Larson
 categories:
   - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2857470'
-classicProductId: '404280'
+classicId: '2857467'
+classicProductId: '404282'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,18 +16,28 @@ directCheckout: true
 discount: 80
 end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: 6b1c4102-9fc9-5696-af1e-03406c7bc357
+id: 2244de27-a568-556c-8667-216114f2933c
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 1347539
+  id: 1347542
   priority: 0
   slug: zasona-larson-velvet-280-x-250-cm
   type: product
-offerId: 78fa0a94-d8c5-5001-af70-4999e336ca97
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 856090
+  priority: 100
+  slug: larson-logo
+  type: logo
+offerId: 8c7d1090-2f90-5277-9c7c-c5928ea3f4e7
 price:
   cents: 1995
   currency: EUR

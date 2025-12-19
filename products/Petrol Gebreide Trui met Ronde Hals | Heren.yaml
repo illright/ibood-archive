@@ -1,4 +1,4 @@
-_id: 694124d62c15e0a2b7f78503
+_id: 694124d6ba0d9b83ef926e17
 appOnly: false
 brand: Petrol
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Petrol
 categories:
   - db5c18b1-b215-5944-af44-eaef1b4d7514
-classicId: '2884380'
-classicProductId: '673851'
+classicId: '2884379'
+classicProductId: '673842'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,21 +16,29 @@ directCheckout: false
 discount: 44
 end: '2025-12-20T22:59:59.999Z'
 freeDelivery: false
-id: dac3bce1-f4e6-49c0-96f3-b6b44d3f5bd7
+id: 41d9f7f8-85f1-41f4-9dd3-bcb2b67fadc7
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: 5c212ace-d3d6-4211-977e-d2515ee4ae5a-tr
+  id: 609e28f2-80a5-469b-a3ca-ad7849044c45
   priority: 0
-  slug: xxxl-pale-blue-m-3050-kwr249-5187-xxxl-men-knitwear-round-neck-basic-petrol-product-1
+  slug: petrol-10-png-product-1
   type: product
-offerId: bac21447-d5b3-465f-a57e-f1c32a071603
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
+  type: logo
+offerId: 6b42198e-1357-4d07-adeb-b28905ff6ce5
 price:
   cents: 4495
   currency: EUR
