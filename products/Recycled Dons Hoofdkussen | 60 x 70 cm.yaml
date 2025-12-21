@@ -1,12 +1,12 @@
-_id: 693fda91156e7a70e2450f56
+_id: 6932debee0975e5924bc76a8
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - 7052a2e2-3020-52c0-b1b7-cbef103a5f15
-classicId: '2880597'
+  - 2780b5a8-9d3c-5f6b-ba53-835423e1aed6
+classicId: '2865069'
 classicProductId: '399417'
 deliveryPrice:
   cents: 895
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 60
 end: '2025-12-21T22:59:59.999Z'
 freeDelivery: false
-id: fc5855da-fb5e-4cbc-a9de-a53471924dc9
+id: e059caf6-8329-44a5-884f-4546c70cca5b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1340215
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c3d977cc-0adc-4c7a-8cf4-e78e8e761113-tr
   priority: 0
-  slug: ten-cate-premium-kissen-60-x-70-cm
+  slug: ten-cate-premium-kissen-60-x-70-cm-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: ten-cate-logo
   type: logo
-offerId: c53e17d5-f044-40fe-93d2-100326e39e8f
+offerId: f0176661-05f2-4437-b584-60a59b885470
 price:
   cents: 7995
   currency: EUR
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 199.95
 slug: ten-cate-premium-recycled-dons-hoofdkussen-60x70
-soldOut: false
+soldOut: true
 start: '2025-12-15T23:00:00.000Z'
 title: Recycled Dons Hoofdkussen | 60 x 70 cm

@@ -1,30 +1,32 @@
-_id: 6942b19e101eecb919b3cf12
+_id: 6943f14014898729ea8c232e
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 95ad4cd8-1d4e-5ff4-a778-9bf99243f1bd
-classicId: '2888256'
-classicProductId: '669825'
+  - af4da389-541c-5027-b941-2b43873bc5e5
+classicId: '2890000'
+classicProductId: '669821'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 80
-end: '2026-01-04T22:59:59.999Z'
+discount: 66
+end: '2025-12-24T22:59:59.999Z'
 freeDelivery: false
-id: ba09b677-702e-415c-914c-e49e42bb5c13
+id: d190b423-2b23-4cb7-a212-d3a7d2afde8d
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 80903b86-8ae7-44ee-95a2-e2fb4fdd5adc
+    - app
+    - website
+  extension: image/png
+  id: 80903b86-8ae7-44ee-95a2-e2fb4fdd5adc-tr
   priority: 0
   slug: 1-jpg-product-2
   type: product
@@ -38,16 +40,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 224fd871-a299-4be1-930c-c8b878376bb0
+offerId: b78c4527-77ee-4a90-bbc2-2f75cdcdeb05
 price:
-  cents: 1000
+  cents: 1695
   currency: EUR
-  value: 10
+  value: 16.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: jack-and-jones-blamilo-shirt-night-sky
 soldOut: false
-start: '2025-12-17T23:00:00.000Z'
+start: '2025-12-20T23:00:00.000Z'
 title: Jack & Jones Blamilo Shirt | Night Sky
