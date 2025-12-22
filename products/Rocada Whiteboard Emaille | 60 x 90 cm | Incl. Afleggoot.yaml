@@ -1,12 +1,12 @@
-_id: 693c1e54c2f22fec12adec57
+_id: 69455a4a9b767a293618f772
 appOnly: false
 brand: Rocada
 brands:
   - id: 74c34b52-96c4-58da-a3e4-c609e84004bb
     name: Rocada
 categories:
-  - 23dfe658-34ff-5756-ac5e-92f6cb7659ae
-classicId: '2879930'
+  - eaf4b4ec-33f2-50b7-bb11-b292b830d91e
+classicId: '2893502'
 classicProductId: '511147'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 41
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: d4ca3120-735c-4a49-a74d-3308c5c44b02
+id: c722a5f1-2fba-4218-b087-ad4bd64c5dd8
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: rocada-whiteboard-emaille-60-x-90-cm
   type: product
-offerId: 9719c266-6fff-4c6f-a4f3-53fe35a387b6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: acfbb9e7-e153-4c79-ac5b-6e8225876804
+  priority: 0
+  slug: rocada-logo-0
+  type: logo
+offerId: d4a4dc81-27d0-406f-87b2-87075e2c01fe
 price:
   cents: 4695
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 79.99
 slug: rocada-whiteboard-emaille-60-x-90-cm
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Rocada Whiteboard Emaille | 60 x 90 cm | Incl. Afleggoot

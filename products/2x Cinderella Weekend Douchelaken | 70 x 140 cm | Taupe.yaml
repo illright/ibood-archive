@@ -1,12 +1,12 @@
-_id: 69306b37f2d7bbe0781f6ae4
+_id: 6945522c3e0fdd910d08974c
 appOnly: false
 brand: Cinderella
 brands:
   - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
     name: Cinderella
 categories:
-  - 00c6955b-dd49-5813-9ce0-ee9ff451b55e
-classicId: '2854014'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893180'
 classicProductId: '683041'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 78
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: c475536d-7ab8-51c8-9318-9e2cbe5420ab
+id: 89df6e02-dcdc-4f99-8336-881707a57349
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b647ab9d-1891-4b3c-a9dc-da5e030c8650
-  priority: 0
-  slug: cinderella-png-logo-0
+  extension: png
+  id: 1696595
+  priority: 100
+  slug: cinderella-logo
   type: logo
-offerId: 220f7057-8eaa-5c7c-8fb8-01f2768531d8
+offerId: 3fe34ac5-e318-4516-be4b-c1a47c94223c
 price:
   cents: 1295
   currency: EUR
@@ -51,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 59.9
 slug: 2x-cinderella-weekend-douchelaken-70-x-140-cm-taupe
-soldOut: true
-start: '2025-12-14T23:00:00.000Z'
+soldOut: false
+start: '2025-12-21T23:00:00.000Z'
 title: 2x Cinderella Weekend Douchelaken | 70 x 140 cm | Taupe

@@ -1,12 +1,12 @@
-_id: 693c1d53b4360521e52e9e7d
+_id: 694551e438211d04090ec755
 appOnly: false
 brand: DoubleDry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: DoubleDry
 categories:
-  - 00c6955b-dd49-5813-9ce0-ee9ff451b55e
-classicId: '2879737'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893112'
 classicProductId: '668379'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 88b3a8b5-3d7d-419f-813d-cf5d3f23965a
+id: 78e34614-8346-40c9-a20b-ff0371ba305d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: doubledry-11-png-product-1
   type: product
-offerId: f194b211-4668-40e4-bd20-640bf020ab4b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973103
+  priority: 100
+  slug: doubledry-logo
+  type: logo
+offerId: 9eeb8000-8db4-4b51-afb4-b9d982a0ae5f
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 49.9
 slug: 6x-doubledry-hotel-collectie-handdoek-50-x-100-cm-bordeaux
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: 6x DoubleDry Hotel Collectie Handdoek | 50 x 100 cm | Bordeaux

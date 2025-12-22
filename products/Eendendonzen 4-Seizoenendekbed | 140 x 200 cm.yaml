@@ -1,12 +1,12 @@
-_id: 6931963535cef66b3bae3b69
+_id: 69454f5e4d7f2db6eadd39bc
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - 7052a2e2-3020-52c0-b1b7-cbef103a5f15
-classicId: '2860357'
+  - f80aa3d3-8904-5d80-a23e-40b3d5cd84be
+classicId: '2892623'
 classicProductId: '124275'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 49
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: 9834888d-88ce-56ce-8597-ac6d0cbbac30
+id: 99d38cdd-0033-4de9-a7bc-62d95b00f4bb
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 297c2ffa-e5cc-4c9c-8c8e-557966e186ec
-  priority: 0
-  slug: ten-cate-4-jahreszeiten-daunendecke-240-x-200-cm-png-logo-0
+  extension: png
+  id: 1485600
+  priority: 100
+  slug: ten-cate-logo
   type: logo
-offerId: aa956e6b-1520-5fc8-9add-17b73d14cb20
+offerId: 6c6044a1-07a5-446f-9628-4dece9d45f3c
 price:
   cents: 17900
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 349
 slug: ten-cate-eendendons-dekbed-140-x-200-cm
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Eendendonzen 4-Seizoenendekbed | 140 x 200 cm

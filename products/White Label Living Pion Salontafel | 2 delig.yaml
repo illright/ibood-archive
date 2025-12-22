@@ -1,22 +1,22 @@
-_id: 693c1d5f31539ec0391ffefe
+_id: 694559a44d7f2db6eadd3c57
 appOnly: false
 brand: White Label Living
 brands:
   - id: 23da1979-8d63-50e7-ab7f-86c243763f9e
     name: White Label Living
 categories:
-  - 23dfe658-34ff-5756-ac5e-92f6cb7659ae
-classicId: '2879753'
+  - 67fcef65-c084-57c8-997c-f08e3d44a30a
+classicId: '2893418'
 classicProductId: '482935'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 70
-end: '2025-12-21T22:59:59.999Z'
+directCheckout: true
+discount: 65
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 22c4c2fe-74b7-476c-8c21-0a30f9e88b49
+id: f9289889-8ac9-40fc-a52c-5e3f3d75bbab
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: pion-main-png-product-1
   type: product
-offerId: 9ac61468-1066-49b1-b704-8080ff9d6eae
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1684242
+  priority: 100
+  slug: white-label-living-logo
+  type: logo
+offerId: a762e6db-12dc-43e1-929a-39c1c8b5033a
 price:
-  cents: 5995
+  cents: 6995
   currency: EUR
-  value: 59.95
+  value: 69.95
 referencePrice:
   cents: 19900
   currency: EUR
   value: 199
 slug: white-label-living-pion-salontafel-2-delig
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: White Label Living Pion Salontafel | 2 delig

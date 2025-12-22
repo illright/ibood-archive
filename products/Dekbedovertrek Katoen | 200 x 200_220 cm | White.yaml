@@ -1,31 +1,32 @@
-_id: 692eb02fe6960e0d47547944
+_id: 69454f7338211d04090ec5de
 appOnly: false
-brand: Cinderella
+brand: Ambiante
 brands:
-  - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
-    name: Cinderella
+  - id: 4e8d0e43-ecd4-5245-aa59-d378fc077e12
+    name: Ambiante
 categories:
-  - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2850094'
-classicProductId: '228564'
+  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
+classicId: '2892688'
+classicProductId: '573825'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 64
-end: '2025-12-21T22:59:59.999Z'
+discount: 38
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: 4ac7f813-12ec-561e-9c33-8b71635c2db0
+id: c38d23b5-7e9f-4fce-ab6f-b886aca62c91
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2240521
+    - all
+  extension: image/jpeg
+  id: 9fc940be-231c-4ac8-9956-e038b4a73a98
   priority: 0
-  slug: cinderella-weekend-bettwasche-wei-200-x-200220
+  slug: 223058-amb-cotton-uni-white-200x200-220-dbo-product-2
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1696595
+  id: 1880018
   priority: 100
-  slug: cinderella-logo
+  slug: ambiante-logo
   type: logo
-offerId: 9b56e370-fbd8-5330-a94b-82610ac46709
+offerId: a5b644c6-cce8-44f2-8e86-a64f1af91ab0
 price:
-  cents: 4695
+  cents: 3695
   currency: EUR
-  value: 46.95
+  value: 36.95
 referencePrice:
-  cents: 12995
+  cents: 5995
   currency: EUR
-  value: 129.95
-slug: katoen-dekbedovertrek-200-x-200220-cm
+  value: 59.95
+slug: dekbedovertrek-katoen-000-x-200-220-cm-white
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Dekbedovertrek Katoen | 200 x 200/220 cm | White

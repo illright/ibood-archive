@@ -1,12 +1,12 @@
-_id: 693c1d564c0d63ed3328a243
+_id: 693fcd477e16f8e927212625
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - f49679ef-57ef-5c38-9546-907c5a12e5d4
-classicId: '2879746'
+  - 03ab6c06-4fea-558e-ad01-e48e8e6e58e9
+classicId: '2880297'
 classicProductId: '640862'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,21 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 69
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 3ca130ec-e6b1-4c11-a3eb-acc5d5ddffde
+id: 0fb03195-fc4f-5c39-998c-8a596cea943d
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: 94ae57a6-7a04-4264-92de-77fdbf7cd702
+  id: 5bdc77ec-59ac-491a-add3-d3a45ffe43e5-tr
   priority: 0
-  slug: verlichting-11-png-product-1
+  slug: lucide-elysee-hangeleuchte-3x-40-w-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: lucide-logo
   type: logo
-offerId: 3cfbbff2-f7e4-458f-8b4e-892f37bcf9dc
+offerId: 61417d19-82e4-59b7-8caa-e470b2641d9b
 price:
   cents: 9995
   currency: EUR
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 319.95
 slug: lucide-hanglamp-elysee-3x-e27
-soldOut: true
-start: '2025-12-14T23:00:00.000Z'
+soldOut: false
+start: '2025-12-21T23:00:00.000Z'
 title: Lucide Hanglamp Elysee | 3x E27

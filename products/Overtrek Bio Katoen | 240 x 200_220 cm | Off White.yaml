@@ -1,12 +1,12 @@
-_id: 693fdb931c05398b4844c309
+_id: 694551c53e0fdd910d089681
 appOnly: false
 brand: Damai
 brands:
   - id: d630c30e-0d22-5208-a743-89795a579bc6
     name: Damai
 categories:
-  - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2880795'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893069'
 classicProductId: '458355'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: d463a056-e216-40f3-a653-3cb7ea43e518
+id: bc649d81-f08b-4ff2-927a-5fb71e948fd3
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: damai-bettwasche-ebba-200-x-200220-cm
   type: product
-offerId: 5d38d503-aca4-4eb5-aaf0-01f2563b7696
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1691444
+  priority: 100
+  slug: damai-logo
+  type: logo
+offerId: 9dd26fe5-5348-45cf-9eab-578abf3dce45
 price:
   cents: 6995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 229.95
 slug: damai-overtrek-bio-katoen-240-x-200-220-cm-off-white
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Overtrek Bio Katoen | 240 x 200/220 cm | Off White

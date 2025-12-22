@@ -1,12 +1,12 @@
-_id: 69306b39f2d7bbe0781f6ae7
+_id: 6945522db52d5046011f67e0
 appOnly: false
 brand: Cinderella
 brands:
   - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
     name: Cinderella
 categories:
-  - 00c6955b-dd49-5813-9ce0-ee9ff451b55e
-classicId: '2854015'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893181'
 classicProductId: '683042'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 82
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 90605186-730c-5f60-bb58-2937cb73c9ca
+id: 45efa0c4-165e-4e90-a432-e678cfcc8f4b
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 08f84101-d913-437f-be06-3e989e9fd049
-  priority: 0
-  slug: cinderella-png-logo-0
+  extension: png
+  id: 1696595
+  priority: 100
+  slug: cinderella-logo
   type: logo
-offerId: 05ecb9dc-9db4-5d8c-ac80-d3889d524f45
+offerId: 67ab1b17-b9bf-45d4-a198-c4d9d68818b1
 price:
   cents: 995
   currency: EUR
@@ -51,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 53.85
 slug: 6x-cinderella-weekend-washandje-16-x-21-cm-taupe
-soldOut: true
-start: '2025-12-14T23:00:00.000Z'
+soldOut: false
+start: '2025-12-21T23:00:00.000Z'
 title: 6x Cinderella Weekend Washandje | 16 x 21 cm | Taupe

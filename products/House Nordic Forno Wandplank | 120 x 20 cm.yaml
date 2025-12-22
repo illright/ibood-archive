@@ -1,30 +1,32 @@
-_id: 693c1e12c28f2ce754d51db6
+_id: 693fe13e3f7d1e8696443d58
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 23dfe658-34ff-5756-ac5e-92f6cb7659ae
-classicId: '2879883'
+  - eaf4b4ec-33f2-50b7-bb11-b292b830d91e
+classicId: '2882246'
 classicProductId: '617559'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 66
-end: '2025-12-21T22:59:59.999Z'
+discount: 63
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 52c0636b-156c-4e1d-9701-4e20cf8330ad
+id: cb6de062-3cb1-51f6-b594-c7c32d20de9a
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 6ae9aaae-f485-4703-b97e-26ffbdcd5236
+    - website
+    - app
+  extension: image/png
+  id: 6ae9aaae-f485-4703-b97e-26ffbdcd5236-tr
   priority: 0
   slug: house-nordic-forno-regal-jpg-product-101
   type: product
@@ -38,16 +40,16 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: e290cdb7-dba6-4596-91cf-46f0eb274e2b
+offerId: 71bfd948-8772-514c-bce9-980052df765c
 price:
-  cents: 2695
+  cents: 2995
   currency: EUR
-  value: 26.95
+  value: 29.95
 referencePrice:
   cents: 8000
   currency: EUR
   value: 80
 slug: house-nordic-forno-wandplank-120-x-20-cm
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: House Nordic Forno Wandplank | 120 x 20 cm

@@ -1,12 +1,12 @@
-_id: 6929b6c6815d158b46bd8ad5
+_id: 69454f4c9bcb501727ebb690
 appOnly: false
 brand: Heckett Lane
 brands:
   - id: e4aab67a-916d-5500-9121-6fb22731dc9a
     name: Heckett Lane
 categories:
-  - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2845648'
+  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
+classicId: '2892583'
 classicProductId: '536583'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: b8b53a96-368f-5a46-8fd5-92e30a75f23d
+id: bbe4ddd8-113b-4856-81e1-144e3314f7dc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2246808
+    - all
+  extension: image/png
+  id: a40fdbcf-5bd5-4dbc-a2ca-0e1be4c6b9f6
   priority: 0
-  slug: zo-home-lino-bettwasche-200-x-220-cm
+  slug: quattro-01-png-product-7
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: heckett-lane-logo
   type: logo
-offerId: 1d4d3e12-1e4c-52f2-8b7c-752bb1d50488
+offerId: 8c57b252-c66f-4d0a-9ec0-1fd411b8406c
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 69.95
 slug: zo-home-dekbedovertrek-200-x-220-cm
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Dekbedovertrek | 200 x 220 cm

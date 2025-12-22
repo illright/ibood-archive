@@ -1,12 +1,12 @@
-_id: 693c1dd9c28f2ce754d51d72
+_id: 69454fb13e0fdd910d0894e5
 appOnly: false
 brand: HYUNDAI
 brands:
   - id: f384a5e9-8439-535f-9dd0-50f40c9db4ff
     name: HYUNDAI
 categories:
-  - f49679ef-57ef-5c38-9546-907c5a12e5d4
-classicId: '2879851'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892807'
 classicProductId: '643905'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,23 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: 692f8909-dd90-4a21-89dc-50de5d192b84
+id: 062700ff-6139-49c6-8847-d59b52d11d08
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 167c8476-9c13-4272-979c-33092cff9337
+    - app
+    - website
+  extension: image/png
+  id: 167c8476-9c13-4272-979c-33092cff9337-tr
   priority: 0
   slug: 2x-hyundai-lighting-solar-padverlichting-jpg-product-1
   type: product
-offerId: deff3d54-73b2-40ed-a41e-de9a2bb24a2d
+offerId: 9abbf454-1e11-4dc4-872f-3892132be512
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +41,5 @@ referencePrice:
   value: 39.95
 slug: 2x-hyundai-lighting-solar-padverlichting
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: 2x Hyundai Lighting Solar Padverlichting

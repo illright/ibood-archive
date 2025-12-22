@@ -1,12 +1,12 @@
-_id: 693c1c4131539ec0391ffd48
+_id: 69454fa19bcb501727ebb721
 appOnly: false
 brand: Esschert Design
 brands:
   - id: ff3ac434-56dc-56f4-bc4e-28eb43eec8d7
     name: Esschert Design
 categories:
-  - d86605a6-ef8d-51c6-946d-815111982611
-classicId: '2879473'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892777'
 classicProductId: '279593'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 54
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: 86c1f810-1237-48aa-8c08-8f8c245c9ab9
+id: b49a3987-3126-4713-a811-5a840d7c3f13
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 6b2b7d48-f5ec-470a-b17e-02f58897cb81
+    - app
+    - website
+  extension: image/png
+  id: 6b2b7d48-f5ec-470a-b17e-02f58897cb81-tr
   priority: 0
   slug: esschert-design-feuerschale-keramik-jpg-product-101
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: esschert-design-logo
   type: logo
-offerId: 2c161c65-dbe8-4d1b-aeaf-4e32d24e4bdc
+offerId: 7f2c80de-69d2-4b51-8018-ef09f0dc123a
 price:
   cents: 5995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 129.95
 slug: esschert-design-vuurschaal-keramiek-betonlook
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Esschert Design Vuurschaal Keramiek Betonlook

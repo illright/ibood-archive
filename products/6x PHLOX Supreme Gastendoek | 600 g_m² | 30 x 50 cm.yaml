@@ -1,31 +1,32 @@
-_id: 693c1d2331539ec0391ffeca
+_id: 694551b3b52d5046011f6741
 appOnly: false
 brand: PHLOX
 brands:
   - id: 1cbd5816-2f2d-52b8-95a2-7dda5c905c3d
     name: PHLOX
 categories:
-  - 00c6955b-dd49-5813-9ce0-ee9ff451b55e
-classicId: '2879674'
-classicProductId: '324487'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893053'
+classicProductId: '646765'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: a8d5bbd0-7175-4ec9-b168-663826a27df8
+id: c7fa2d58-1d78-497c-9a3d-7693e5e9f912
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 991900
+    - all
+  extension: image/png
+  id: c486969b-53a4-4b55-8bb7-4006a4976b50
   priority: 0
-  slug: 6x-seashell-supreme-gastendoek
+  slug: dekbed-27-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: phlox-logo
   type: logo
-offerId: 70b56b54-a9f5-418d-abe5-bad626657ad5
+offerId: 4e406b92-23e3-49cf-b6c1-4424014a411e
 price:
   cents: 1495
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 34.95
 slug: 6x-phlox-supreme-gastendoek
-soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+soldOut: true
+start: '2025-12-21T23:00:00.000Z'
 title: 6x PHLOX Supreme Gastendoek | 600 g/m² | 30 x 50 cm

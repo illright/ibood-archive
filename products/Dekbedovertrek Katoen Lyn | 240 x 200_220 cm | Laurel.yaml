@@ -1,12 +1,12 @@
-_id: 692eb0a6e6960e0d475479c7
+_id: 694551cd38211d04090ec71d
 appOnly: false
 brand: Cinderella
 brands:
   - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
     name: Cinderella
 categories:
-  - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2850173'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893075'
 classicProductId: '434874'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 569963de-2074-5b8a-bb5f-6fdb0be03ae6
+id: 63a4b22d-c34e-4b91-bc85-55c26f756719
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: arl02-png-product-101
   type: product
-offerId: 7c86e453-8f76-5e7c-8362-53b4c38b1700
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1696595
+  priority: 100
+  slug: cinderella-logo
+  type: logo
+offerId: 7620e1dc-5642-4e1d-8b53-3314c8c1d708
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 109.95
 slug: cinderella-katoen-lyn-dbo-240-x-200220-cm
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Dekbedovertrek Katoen Lyn | 240 x 200/220 cm | Laurel

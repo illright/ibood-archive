@@ -1,12 +1,12 @@
-_id: 6929b6a4c02db7b4ac75a4f0
+_id: 69454f4138211d04090ec566
 appOnly: false
 brand: Heckett Lane
 brands:
   - id: e4aab67a-916d-5500-9121-6fb22731dc9a
     name: Heckett Lane
 categories:
-  - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2845620'
+  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
+classicId: '2892558'
 classicProductId: '494695'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: ef1bb434-e668-586b-955e-118ccccb77ed
+id: d108da28-1caf-4237-a721-09c75371ea97
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2242304
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 2a594ac6-1fa9-4dd0-bb4b-eb9ddb9ccd6c-tr
   priority: 0
-  slug: zo-home-lino-bettwasche-140-x-220-cm
+  slug: zo-home-lino-bettwasche-140-x-220-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: heckett-lane-logo
   type: logo
-offerId: 6cd924dc-9bbf-57e4-9ecf-42a1cd44e976
+offerId: fea7c3c5-9883-4997-bf2b-09930141f2ba
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 39.95
 slug: zo-home-quattro-di-lino-katoen-overtrek-140-x-220-cm-sandy-beige
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Quattro di Lino Katoen Overtrek | 140 x 220 cm | Sandy Beige

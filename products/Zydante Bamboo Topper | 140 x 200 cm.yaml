@@ -1,12 +1,12 @@
-_id: 694272b126145af2c2edbdb6
+_id: 69454f3e4d7f2db6eadd3982
 appOnly: false
 brand: Zydante
 brands:
   - id: 1b1be116-c1ff-5b4e-ab92-b99e0551137a
     name: Zydante
 categories:
-  - acb26ca1-de57-548a-ad48-3fd27e0203a7
-classicId: '2886996'
+  - f80aa3d3-8904-5d80-a23e-40b3d5cd84be
+classicId: '2892561'
 classicProductId: '636098'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 71
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: bec52f81-f9de-486f-a1b1-8ca911481d7f
+id: 932a9322-d447-448c-8c6e-f24f05ab4ad6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2237291
-  priority: 100
-  slug: zydante-bamboo-matratzen-topper-140-x-200-cm
+    - all
+  extension: image/png
+  id: 49b63628-8773-4398-b5de-a801b0bd538d
+  priority: 0
+  slug: zydante-31-png-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: zydante-logo
   type: logo
-offerId: 8bf097e6-4540-4628-91ce-30216d9d2e2f
+offerId: e9a0a00e-d280-411c-a420-a0bbb2651b14
 price:
   cents: 3695
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 129
 slug: zydante-bamboo-topper-140-x-200-cm
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Zydante Bamboo Topper | 140 x 200 cm

@@ -1,12 +1,12 @@
-_id: 6931970ae15e8c982e78f3f7
+_id: 694551ba38211d04090ec712
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2862077'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893064'
 classicProductId: '399423'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: a403738e-659f-51f2-93f4-ae87b1d2a651
+id: 15ada2fb-530d-4cd3-86c7-fca58c15fa51
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: premium-katoensatijn-overtrek-140-x-200220-cm
   type: product
-offerId: 2f4d2817-f831-5827-828c-54e79dd06462
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1485600
+  priority: 100
+  slug: ten-cate-logo
+  type: logo
+offerId: a136873a-62a3-4c49-aa70-ee4168b7c041
 price:
   cents: 3295
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 79.95
 slug: premium-katoensatijn-overtrek-140-x-200220-cm
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Premium Katoensatijn Overtrek | 140 x 200/220 cm | White

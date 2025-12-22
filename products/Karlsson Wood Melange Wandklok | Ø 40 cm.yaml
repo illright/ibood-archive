@@ -1,12 +1,12 @@
-_id: 693c1f99c28f2ce754d51f11
+_id: 69454faa9bcb501727ebb762
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - db599d12-2c19-5ba4-9e2f-9770efa0705c
-classicId: '2880056'
+  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
+classicId: '2892794'
 classicProductId: '631582'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 72
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: 9af2aefb-933f-4a19-aade-7beb890e64b4
+id: ae876fbc-ea7f-44b2-8b9b-afa068f86b82
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7b7b8dbf-23ed-4224-9c21-52a05012db58
+  extension: jpg
+  id: 2211226
   priority: 0
-  slug: karlsson-130-png-product-1
+  slug: karlsson-wood-melange-wandklok
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 47e05534-1e0b-4e34-ac24-d8c4c607e172
+offerId: 7a3ebed0-e02a-45f2-a8c2-171b3d316aee
 price:
   cents: 2295
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 82.5
 slug: karlsson-wood-melange-wandklok
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Karlsson Wood Melange Wandklok | Ø 40 cm

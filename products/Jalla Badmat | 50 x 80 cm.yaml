@@ -1,12 +1,12 @@
-_id: 693c1c7431539ec0391ffdc1
+_id: 69455140b52d5046011f66fa
 appOnly: false
 brand: Jalla
 brands:
   - id: 6a48abde-96ed-5121-a2da-313075dfd939
     name: Jalla
 categories:
-  - 00c6955b-dd49-5813-9ce0-ee9ff451b55e
-classicId: '2879525'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2892963'
 classicProductId: '671586'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 82
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 6409f388-3b8f-4784-8535-677b6600a7a4
+id: ebd806ba-af18-4939-9f1a-9d1b19622cb8
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: jalla-08-png-product-1
   type: product
-offerId: ee413c0f-0909-42f3-9660-9e9597084219
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7831951c-3be6-4b18-bf81-79135bef621a
+  priority: 0
+  slug: jalla-logo-0
+  type: logo
+offerId: 2bda7d64-44f5-4554-97ca-127e5ac1a9c5
 price:
   cents: 995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 56
 slug: jalla-badmat-50-x-80-cm
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Jalla Badmat | 50 x 80 cm

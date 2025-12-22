@@ -1,32 +1,34 @@
-_id: 693c1d58b4360521e52e9e93
+_id: 6945596d4d7f2db6eadd3be5
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - f49679ef-57ef-5c38-9546-907c5a12e5d4
-classicId: '2879748'
-classicProductId: '574878'
+  - 03ab6c06-4fea-558e-ad01-e48e8e6e58e9
+classicId: '2893311'
+classicProductId: '574879'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 043ab6ce-2dee-484d-a4e2-ce386ef79aae
+id: 77669b67-404e-4a70-8d71-5fb21434758b
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: d25f2373-618b-425d-89ec-954b1bb95c85
+    - app
+    - website
+  extension: image/png
+  id: b921ea93-d57f-40f8-9e7f-a26af8d6f844-tr
   priority: 0
-  slug: lucide-anselmo-leseleuchte-25-cm-9-w-1-jpg-product-1
+  slug: lucide-anselmo-leseleuchte-25-cm-9-w-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: lucide-logo
   type: logo
-offerId: 4fe7de57-1fe5-4692-a1e6-ac14b72a3d1a
+offerId: 76d6f550-6863-4c2a-8ae8-ba526b741558
 price:
   cents: 5695
   currency: EUR
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 130.95
 slug: lucide-anselmo-leeslamp-25-cm-9-w
-soldOut: true
-start: '2025-12-14T23:00:00.000Z'
+soldOut: false
+start: '2025-12-21T23:00:00.000Z'
 title: Lucide Anselmo Leeslamp | Ø 25 cm | 9 W

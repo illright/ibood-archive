@@ -1,12 +1,12 @@
-_id: 69398eaec0adea40c3dd2746
+_id: 694551293e0fdd910d08953d
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 23dfe658-34ff-5756-ac5e-92f6cb7659ae
-classicId: '2874188'
+  - ea5ee9eb-dd7a-556a-9753-25eb62694a22
+classicId: '2892936'
 classicProductId: '676741'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 835e9a9f-585e-5003-af6e-a67b12fa9f01
+id: 41903465-2d61-477e-beab-c0c7d54c8ca2
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0ef0ffdc-e744-4c79-b437-85b6f097552f
-  priority: 0
-  slug: house-nordic-png-logo-0
+  extension: png
+  id: 1644555
+  priority: 100
+  slug: house-nordic-logo
   type: logo
-offerId: 5b4d8c87-f610-5c6b-8312-ec56631dd3cb
+offerId: 3283c2a0-0273-4838-a8c9-1e84006a7423
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 150
 slug: house-nordic-miami-rechthoekig-tapijt-groen-160-x-230-cm
 soldOut: true
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: House Nordic Miami rechthoekig tapijt | Groen | 160 x 230 cm

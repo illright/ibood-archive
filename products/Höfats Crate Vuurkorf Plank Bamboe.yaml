@@ -1,12 +1,12 @@
-_id: 693c1c1dc2f22fec12adeb3e
+_id: 69454f829bcb501727ebb6df
 appOnly: false
 brand: HOFATS
 brands:
   - id: f2130e13-ae80-5faf-b467-21404766f077
     name: HOFATS
 categories:
-  - d86605a6-ef8d-51c6-946d-815111982611
-classicId: '2879440'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892730'
 classicProductId: '337134'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: 6842629d-d86e-4c86-977c-6761c6ce62be
+id: b1109b8f-5fed-4124-b0c8-aa96095d0890
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 767585cd-466e-4ae5-a07c-c78be54f34a6
+    - app
+    - website
+  extension: image/png
+  id: 767585cd-466e-4ae5-a07c-c78be54f34a6-tr
   priority: 0
   slug: poka-do-grilla-hofats-crate-jpg-product-101
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: hofats-logo-0
   type: logo
-offerId: e91954ac-1131-4cce-b0c9-964c8268eb89
+offerId: d9330a94-831d-48cc-b44a-15068ead961d
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 24.95
 slug: hofats-crate-vuurkorf-plank-bamboe
 soldOut: true
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Höfats Crate Vuurkorf Plank Bamboe

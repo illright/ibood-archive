@@ -1,12 +1,12 @@
-_id: 693c1c42c28f2ce754d51abf
+_id: 69454f99b8dfce678131cbb8
 appOnly: false
 brand: Esschert Design
 brands:
   - id: ff3ac434-56dc-56f4-bc4e-28eb43eec8d7
     name: Esschert Design
 categories:
-  - d86605a6-ef8d-51c6-946d-815111982611
-classicId: '2879475'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892768'
 classicProductId: '556726'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: fc2ea65b-9cad-49eb-9188-2b9f6308c3c0
+id: 743af8d4-29b7-4843-9573-f39961917aea
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 00327d84-213a-4e2c-aa41-093d89f17079
+    - app
+    - website
+  extension: image/png
+  id: 00327d84-213a-4e2c-aa41-093d89f17079-tr
   priority: 0
   slug: esschert-design-gartenschlauchhalter-jpg-product-1
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: esschert-design-logo
   type: logo
-offerId: ef90c1c1-832a-4d77-915e-b6532e21a15d
+offerId: 68d9f398-7899-448d-b0e2-fe574fa1169f
 price:
   cents: 1595
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 29.99
 slug: esschert-design-tuinslanghouder
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Esschert Design Tuinslanghouder

@@ -1,12 +1,12 @@
-_id: 693fdb65156e7a70e2451095
+_id: 694551664d7f2db6eadd3af4
 appOnly: false
 brand: Zydante
 brands:
   - id: 1b1be116-c1ff-5b4e-ab92-b99e0551137a
     name: Zydante
 categories:
-  - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2880761'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2892996'
 classicProductId: '673033'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: c512579b-e75b-417a-8998-ee4fc50fe750
+id: 4269b6c7-d68a-465e-bfb8-cbaf5b1f6eb4
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 8717752089116-zydante-black-label-dekbedovertrekset-dbs-240x200-220-cm-met-2-kussenslopen-velvet-c-product-1
   type: product
-offerId: 01e1cf2a-5abe-42a5-8a00-3dc7e879992c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1937833
+  priority: 100
+  slug: zydante-logo
+  type: logo
+offerId: 54c57aa7-9ee7-4089-8506-52f47469e1af
 price:
   cents: 2195
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 44.95
 slug: zydante-velvet-dekbedovertrek-240-x-200-220-cm-cognac-brown
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Velvet Dekbedovertrek | 240 x 200/220 cm | Cognac Brown

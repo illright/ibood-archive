@@ -1,12 +1,12 @@
-_id: 693c1c6531539ec0391ffd9e
+_id: 69454fc1b52d5046011f66bb
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - d86605a6-ef8d-51c6-946d-815111982611
-classicId: '2879507'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892837'
 classicProductId: '623201'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 30
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: 22e5f8cb-c9c9-4c0c-987e-f907c201b63a
+id: 47710e0f-b053-46c3-b25a-986b3ae3909e
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 30c7fab5-c70d-4b29-8cae-ce5d51735e44
+    - app
+    - website
+  extension: image/png
+  id: 30c7fab5-c70d-4b29-8cae-ce5d51735e44-tr
   priority: 0
   slug: house-nordic-andorra-sunlounger-jpg-product-1
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: 58334d8f-6a6a-47d7-84e8-7901353899d1
+offerId: 6b94fd44-0245-4539-806a-9ca466ec2fa3
 price:
   cents: 24900
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 355
 slug: house-nordic-andorra-sunlounger
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: House Nordic Andorra Sunlounger

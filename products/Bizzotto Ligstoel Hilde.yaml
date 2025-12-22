@@ -1,12 +1,12 @@
-_id: 693c1c6bc2f22fec12adeb4e
+_id: 69454fc038211d04090ec63c
 appOnly: false
 brand: Bizzotto
 brands:
   - id: 697db554-7695-52ca-9aed-49c669f2121c
     name: Bizzotto
 categories:
-  - d86605a6-ef8d-51c6-946d-815111982611
-classicId: '2879504'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892832'
 classicProductId: '648873'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 42
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: baf48bb5-1a70-4fa3-bcb2-b90b872b5137
+id: 1946fd03-c3fa-493b-884b-689aa45126a9
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 4d599144-fefb-4a9a-a2f3-26dde6ab11e4
+    - app
+    - website
+  extension: image/png
+  id: 4d599144-fefb-4a9a-a2f3-26dde6ab11e4-tr
   priority: 0
   slug: 541110-jpg-product-0
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: bizzotto-logo-0
   type: logo
-offerId: 673e5b2b-c204-44e9-a3fe-85ffdf289034
+offerId: 2657c092-e07f-45ca-8553-2a7ac41286e7
 price:
   cents: 13900
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 238
 slug: bizzotto-ligstoel-hilde
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Bizzotto Ligstoel Hilde

@@ -1,22 +1,22 @@
-_id: 693c1d3eba206380fe975e16
+_id: 6945595f4d7f2db6eadd3bba
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - f49679ef-57ef-5c38-9546-907c5a12e5d4
-classicId: '2879709'
+  - 03ab6c06-4fea-558e-ad01-e48e8e6e58e9
+classicId: '2893296'
 classicProductId: '640859'
 deliveryPrice:
-  cents: 895
+  cents: 595
   currency: EUR
-  value: 8.95
-directCheckout: false
-discount: 65
-end: '2025-12-21T22:59:59.999Z'
+  value: 5.95
+directCheckout: true
+discount: 63
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 273c0ba2-eae9-4e61-8e35-aced35f89bd0
+id: a2e20f87-31b1-48da-a24d-be2c73f7f852
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: lamp-2-png-product-1
   type: product
-offerId: 30db14c6-8f9b-4dd9-b56c-ecab80a7593c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
+  type: logo
+offerId: a0c1517c-08ef-4e2c-9713-8a8d01b4367e
 price:
-  cents: 18900
+  cents: 19900
   currency: EUR
-  value: 189
+  value: 199
 referencePrice:
   cents: 54495
   currency: EUR
   value: 544.95
 slug: lucide-hanglamp-dilenko-led-31-cm
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Lucide Hanglamp Dilenko | LED | Ø 31 cm

@@ -1,12 +1,12 @@
-_id: 693c1d4cb4360521e52e9e71
+_id: 694551e5b52d5046011f6787
 appOnly: false
 brand: DoubleDry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: DoubleDry
 categories:
-  - 00c6955b-dd49-5813-9ce0-ee9ff451b55e
-classicId: '2879734'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893113'
 classicProductId: '668374'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: ec1f901a-5be3-4e5a-aa3a-5990b6ca1660
+id: 0a1114a7-0540-4622-8555-5de8d85426c6
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 6x-doubledry-hotel-handdoek-zwart-50-x-100-cm
   type: product
-offerId: fb877685-9e4d-4cd4-8586-c244e52b9fca
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973103
+  priority: 100
+  slug: doubledry-logo
+  type: logo
+offerId: 116f1d96-bad4-4dac-b8a0-adb55230ebff
 price:
   cents: 1995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 49.9
 slug: 6x-doubledry-hotel-handdoek-zwart-50-x-100-cm
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: 6x DoubleDry Hotel Collectie Handdoek Zwart | 50 x 100 cm

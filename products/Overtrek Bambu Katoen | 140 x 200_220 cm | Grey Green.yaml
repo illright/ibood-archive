@@ -1,12 +1,12 @@
-_id: 693fdb88156e7a70e24510be
+_id: 694551714d7f2db6eadd3afd
 appOnly: false
 brand: Riviera Maison
 brands:
   - id: 70d4acec-4a15-562a-868b-777682fe8e04
     name: Riviera Maison
 categories:
-  - 9ea41d0a-93d4-533b-af75-35040b56b57b
-classicId: '2880784'
+  - 8dbbca97-9dee-5224-b626-061e7e91854d
+classicId: '2893011'
 classicProductId: '675039'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: f9de8bfe-6186-4bd3-aec6-9f8ec28aa047
+id: a555f630-e878-4efa-b840-d225de265d6b
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 321470-riviera-maison-bambu-dbo-grey-green-140x200-220-product-3
   type: product
-offerId: 2f1717db-194e-45f4-acb4-00e76fdc699c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1887172
+  priority: 100
+  slug: riviera-maison-logo
+  type: logo
+offerId: fd4872ce-2682-4c56-bcb7-e6ccfbcfcf3f
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 69.95
 slug: overtrek-bambu-katoen-140-x-200-220-cm-grey-green
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Overtrek Bambu Katoen | 140 x 200/220 cm | Grey Green

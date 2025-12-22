@@ -1,12 +1,12 @@
-_id: 69397d9f8782c91324816320
+_id: 694559b74d7f2db6eadd3c87
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 23dfe658-34ff-5756-ac5e-92f6cb7659ae
-classicId: '2874095'
+  - 67fcef65-c084-57c8-997c-f08e3d44a30a
+classicId: '2893463'
 classicProductId: '683864'
 deliveryPrice:
   cents: 2995
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 29.95
 directCheckout: true
 discount: 58
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: e3f05540-546b-5964-81a6-985a3d70e37e
+id: 908ae986-6c75-4550-af26-7ce3f1344b8c
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f986ef35-3110-40bf-946c-00e3789f5a4b
-  priority: 0
-  slug: house-nordic-png-logo-0
+  extension: png
+  id: 1644555
+  priority: 100
+  slug: house-nordic-logo
   type: logo
-offerId: b9622c40-5762-59c3-b784-716945d8ea08
+offerId: cc564d5a-84e2-4ee0-9396-7567eb0415ae
 price:
   cents: 22900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 539
 slug: house-nordic-kyoto-dressoir-150-x-40-x-74-cm
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: House Nordic Kyoto Dressoir | 150 x 40 x 74 cm

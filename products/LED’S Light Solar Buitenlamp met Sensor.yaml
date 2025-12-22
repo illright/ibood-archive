@@ -1,12 +1,12 @@
-_id: 6939781cf8fd83fb674c0097
+_id: 69454faa9bcb501727ebb75d
 appOnly: false
 brand: LED's Light
 brands:
   - id: 5c86dcfb-7e8e-5bfb-b35e-3bc7870052d9
     name: LED's Light
 categories:
-  - f49679ef-57ef-5c38-9546-907c5a12e5d4
-classicId: '2874078'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892797'
 classicProductId: '647033'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,34 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 39
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: cb65e6d0-cf4c-5b78-99c2-21dee4f035f8
+id: 333eeef6-1f0f-4004-aa61-524fc35f11ec
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: ca98444e-65df-4883-83aa-bab3df5775f5
+    - app
+    - website
+  extension: image/png
+  id: ca98444e-65df-4883-83aa-bab3df5775f5-tr
   priority: 0
   slug: 300427-leds-light-solar-buitenlamp-600lm-2700k-black-ip54-sensor-product-1
   type: product
-offerId: 11f1cdd0-9a3f-556d-9213-f94d9566bbf7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 547886f4-6b9e-47a3-98c8-c6c7ad860456
+  priority: 101
+  slug: led-s-light-logo-101
+  type: logo
+offerId: be084268-ce29-451f-9c45-5ce9ae5b9430
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +52,5 @@ referencePrice:
   value: 32.95
 slug: led-s-light-solar-buitenlamp-met-sensor
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: LED’S Light Solar Buitenlamp met Sensor

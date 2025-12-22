@@ -1,12 +1,12 @@
-_id: 693c1c1bc28f2ce754d51a53
+_id: 69454f82b52d5046011f666b
 appOnly: false
 brand: HOFATS
 brands:
   - id: f2130e13-ae80-5faf-b467-21404766f077
     name: HOFATS
 categories:
-  - d86605a6-ef8d-51c6-946d-815111982611
-classicId: '2879435'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892727'
 classicProductId: '337089'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 47
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: cfed9112-7f61-4896-ad12-ca8d30db876c
+id: fe18aacf-c7f7-4434-9395-8ff72522a61b
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: f4aa651b-5641-4df4-a06e-f7fe91c126b0
+    - app
+    - website
+  extension: image/png
+  id: f4aa651b-5641-4df4-a06e-f7fe91c126b0-tr
   priority: 0
   slug: kosz-ogniowy-hofats-cube-jpg-product-2
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: hofats-logo-0
   type: logo
-offerId: 68bd2d4c-ef38-4ad4-ad13-d5098501991c
+offerId: 6dfc37e5-f2c3-41ae-83ab-957f40f6bd82
 price:
   cents: 19900
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 379
 slug: hofats-cube-vuurkorf
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Höfats Cube Vuurkorf

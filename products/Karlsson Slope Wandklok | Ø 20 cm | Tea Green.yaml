@@ -1,12 +1,12 @@
-_id: 693c1f87c28f2ce754d51ef5
+_id: 69454f9e9bcb501727ebb71a
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - db599d12-2c19-5ba4-9e2f-9770efa0705c
-classicId: '2880045'
+  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
+classicId: '2892773'
 classicProductId: '635967'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 80
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: 44f15ffa-b318-433a-a1fe-7423b95522ba
+id: e960f279-a5b2-4bd8-a3b7-a252c2bc1c45
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: cd106c14-68a8-461f-81a0-28c029bc578d
+  extension: jpg
+  id: 2238933
   priority: 0
-  slug: karlsson-127-png-product-1
+  slug: karlsson-slope-wanduhr-tea-green
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: b84913ff-52be-4e12-a9e2-b98a3a8e3fb4
+offerId: 7909674c-d1a3-4b6f-827d-d017ca628989
 price:
   cents: 495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 24.95
 slug: karlsson-slope-wandklok-20-cm-tea-green
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Karlsson Slope Wandklok | Ø 20 cm | Tea Green

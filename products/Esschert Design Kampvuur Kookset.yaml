@@ -1,12 +1,12 @@
-_id: 693c1c29c28f2ce754d51a77
+_id: 69454f96b8dfce678131cbb1
 appOnly: false
 brand: Esschert Design
 brands:
   - id: ff3ac434-56dc-56f4-bc4e-28eb43eec8d7
     name: Esschert Design
 categories:
-  - d86605a6-ef8d-51c6-946d-815111982611
-classicId: '2879455'
+  - 166bb27a-98ce-5350-8882-5ac1eae0e414
+classicId: '2892756'
 classicProductId: '535502'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2025-12-21T22:59:59.999Z'
+end: '2025-12-30T22:59:59.999Z'
 freeDelivery: false
-id: f143e685-eee9-44f5-a47a-42945fdec39b
+id: 14e45f16-d4b5-4590-823c-1d8df076a1e3
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 1b781e7a-ca00-4d98-851e-8330b28925a7
+    - website
+    - app
+  extension: image/png
+  id: 1b781e7a-ca00-4d98-851e-8330b28925a7-tr
   priority: 0
   slug: esschert-design-lagerfeuer-kochset-5-teilig-jpg-product-101
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: esschert-design-logo
   type: logo
-offerId: d7e4b202-b332-489a-b269-9b48c8f4a1fd
+offerId: 537b9a9d-c328-4116-9abc-2ba429cf69b4
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 69.99
 slug: esschert-design-kampvuur-kookset
 soldOut: false
-start: '2025-12-14T23:00:00.000Z'
+start: '2025-12-21T23:00:00.000Z'
 title: Esschert Design Kampvuur Kookset
