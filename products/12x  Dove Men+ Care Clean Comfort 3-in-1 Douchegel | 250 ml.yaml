@@ -1,12 +1,12 @@
-_id: 693824fd8ee6638fd2a71119
+_id: 69496893ec85643515a0780b
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2872618'
+  - edffefd6-b233-5f30-a1d1-6e56d931637d
+classicId: '2898639'
 classicProductId: '683712'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 3660b5c2-ab41-50d6-a80f-a65d869069ab
+id: a38d0bbd-cdd9-4129-80d6-bc49b8a19564
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9f684679-de02-40cc-b822-0e417c0c43ef
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: a1c133e7-234e-563a-a6a5-f231b998fc87
+offerId: ecb2c7aa-b3f5-4ea5-8219-7be9d3e8f29e
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 64.2
 slug: 12x-dove-men-care-clean-comfort-3-in-1-douchegel-250-ml
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x  Dove Men+ Care Clean Comfort 3-in-1 Douchegel | 250 ml

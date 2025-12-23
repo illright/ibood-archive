@@ -1,22 +1,22 @@
-_id: 6945453469bbb9dc606e8b08
+_id: 6949477088f97894b4935923
 appOnly: false
 brand: VANS
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: VANS
 categories:
-  - 57f76f33-789e-5a64-8748-a5fb62750553
-classicId: '2892450'
-classicProductId: '653390'
+  - 97fbdc29-ad6f-5483-89b6-0d1c097b021c
+classicId: '2897377'
+classicProductId: '653381'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 68
 end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: 7d93e376-c51b-4733-a719-f04f9abebb45
+id: 18016650-5bbd-4227-9b34-5b8a7295fcd1
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8d13023a-5eb6-4b76-bc87-837f61f46655
+  id: de2109a7-366d-45eb-9996-70d937ade9da
   priority: 0
-  slug: 1-png-product-1
+  slug: 1-png-product-0
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: d8d4664d-0076-47ea-a92b-ba5b1716b3c6
+offerId: 2d770176-d4dc-4770-b741-a12fe28e7b14
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 95
 slug: vans-ryland-sneakers-heren
 soldOut: false
-start: '2025-12-18T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: Vans Ashwood Hi VansGuard Sneakers | Heren

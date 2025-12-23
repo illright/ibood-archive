@@ -1,12 +1,12 @@
-_id: 693fdd461c05398b4844c373
+_id: 6949686439ce40126ef229e3
 appOnly: false
 brand: ANDRELON
 brands:
   - id: 454bffdb-9fc6-5bcb-8380-0a032053956d
     name: ANDRELON
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2880834'
+  - edffefd6-b233-5f30-a1d1-6e56d931637d
+classicId: '2898575'
 classicProductId: '679427'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: c92dc658-f531-486a-ad51-85a7667b9541
+id: f95ae549-7066-4872-8930-10ff7f367d24
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 6x-andrelon-perfecte-krul-light-leave-in-cream-200ml-product-1
   type: product
-offerId: ebd911f3-937c-46d9-9b98-6f4912343ec6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b24fed5d-c446-4f02-85cc-f898e090ab1a
+  priority: 0
+  slug: andrelon-logo-0
+  type: logo
+offerId: c44a2c11-9ad3-4668-9a88-2950fa8f79f8
 price:
   cents: 1295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 43.14
 slug: 6x-andrelon-perfecte-krul-lichtgewicht-leave-in-haarcreme-200ml
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 6x Andrélon Perfecte Krul Lichtgewicht Leave-In Haarcrème | 200 ml

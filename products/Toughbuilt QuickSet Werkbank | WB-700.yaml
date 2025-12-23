@@ -1,12 +1,12 @@
-_id: 693fdd8f156e7a70e245116d
+_id: 69493481dedaaf77e57b61d4
 appOnly: false
 brand: Toughbuilt
 brands:
   - id: 4e85886c-fef9-56e5-a90b-6e8f54a1901b
     name: Toughbuilt
 categories:
-  - d5580df5-bb31-5ebd-bd49-00c00265a66f
-classicId: '2880896'
+  - 7b4ee77d-a189-5085-9bdd-e77d9475545e
+classicId: '2894329'
 classicProductId: '648925'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 43
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: ac82cd7d-e431-494a-8ac7-ec6c1931f4f5
+id: 5ad9cab8-da11-4db2-ac17-36a427ccc1b5
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8af15fb2-57ea-4870-9ffb-b6e483de448b
-  priority: 0
-  slug: toughbuilt-png-logo-0
+  extension: png
+  id: 1805638
+  priority: 100
+  slug: toughbuilt-logo
   type: logo
-offerId: ee621a9f-7877-47d4-b7ae-ac9fc6ee5386
+offerId: edacdd98-ce84-4c89-b504-661038fa05bc
 price:
   cents: 11995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 209.03
 slug: toughbuilt-quickset-werkbank-wb-700
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: Toughbuilt QuickSet Werkbank | WB-700

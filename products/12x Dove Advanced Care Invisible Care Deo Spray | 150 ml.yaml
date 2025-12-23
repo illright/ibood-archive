@@ -1,12 +1,12 @@
-_id: 693824f9338593a2a75437bc
+_id: 694968939dfca9207059a17b
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2872615'
+  - edffefd6-b233-5f30-a1d1-6e56d931637d
+classicId: '2898636'
 classicProductId: '683711'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: d6ac72d2-4e42-50bf-850d-aa3f87e3d80d
+id: 6c80c019-500c-4e8e-b746-8972e1e95027
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3b90f094-1b9c-4fd8-a6b3-82e5ebc274f5
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: 5daf4b2f-f151-5dcf-bca5-acd948afb5e8
+offerId: 7c5df12c-7ce4-49d5-80df-92806caa2796
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 75.48
 slug: 12x-dove-advanced-care-invisible-care-deo-spray-150-ml
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x Dove Advanced Care Invisible Care Deo Spray | 150 ml

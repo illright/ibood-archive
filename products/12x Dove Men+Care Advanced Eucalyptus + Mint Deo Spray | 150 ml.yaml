@@ -1,12 +1,12 @@
-_id: 6938259b484800fca87e5c23
+_id: 694968929dfca9207059a174
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2872622'
+  - edffefd6-b233-5f30-a1d1-6e56d931637d
+classicId: '2898635'
 classicProductId: '683720'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: a32a54f0-4b28-5743-9170-906ef7fe6c5e
+id: 31374354-59c7-4c3b-b719-f5544258dd05
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c2fee1d8-f3a1-412b-a67d-52b305eb351b
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: 21d95d63-220e-5f10-8c06-aae842e84bf2
+offerId: 23dc6068-1a31-4d49-8f99-71bf9525b0ba
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 65.88
 slug: 12x-dove-men-care-advanced-eucalyptus-mint-deo-spray-150-ml
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x Dove Men+Care Advanced Eucalyptus + Mint Deo Spray | 150 ml

@@ -1,34 +1,32 @@
-_id: 693fdf9a52b0826d9fc0817e
+_id: 6949635cfc5558044d718e21
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2881674'
+  - 34a53741-17f5-5022-ba48-4d0f805634f0
+classicId: '2898275'
 classicProductId: '395880'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 57
-end: '2025-12-22T22:59:59.999Z'
+directCheckout: false
+discount: 56
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 55936b41-f78c-449d-999b-0d0980a801dd
+id: 782a3455-9af8-4584-b6fb-953102629f01
 image:
   channels:
+    - app
+    - website
     - newsletter
     - all
-    - app
-    - website
-    - app
-    - website
   extension: image/png
-  id: eba9a578-26e3-4177-ac53-0ccb75eac294-tr
+  id: 1c82c4d7-21fd-40f0-ad36-5998357658e9
   priority: 0
-  slug: robijn-04-png-product-1
+  slug: robijn-05-png-product-1
   type: product
 logo:
   channels:
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: robijn-logo
   type: logo
-offerId: e2cb075b-04b9-4363-8ae5-3c6e56356655
+offerId: 050cba88-4ad8-4aeb-93f1-a96bfaaa7e37
 price:
-  cents: 2195
+  cents: 1995
   currency: EUR
-  value: 21.95
+  value: 19.95
 referencePrice:
-  cents: 5112
+  cents: 4552
   currency: EUR
-  value: 51.12
+  value: 45.52
 slug: 8x-robijn-color-pink-sensation-wasmiddel-700-ml-112sc
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 8x Robijn Color Pink Sensation Wasmiddel | 700 ml (112sc)

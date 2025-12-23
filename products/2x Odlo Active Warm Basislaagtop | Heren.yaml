@@ -1,22 +1,22 @@
-_id: 69413bac47b72d7ce9efa5df
+_id: 69490cab084e863d4391aa2e
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - ee06c709-60cc-5765-8882-24cf312ba833
-classicId: '2885088'
-classicProductId: '573527'
+  - 6809c0ee-1415-5ebd-ab6a-0579858fbff9
+classicId: '2893912'
+classicProductId: '573538'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 70
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: b1cab348-f725-47e7-84fd-3ad2e3b2d17f
+id: 70f89248-a2d8-4cdb-8ac3-6bc327e8fc63
 image:
   channels:
     - website
@@ -35,9 +35,9 @@ logo:
   extension: png
   id: 1620425
   priority: 100
-  slug: odlo-logo
+  slug: 2x-odlo-active-warm-basislaagtop
   type: logo
-offerId: b64c4887-bf9a-4a61-b827-07a8b89e0740
+offerId: 25f4927e-0fd6-4b10-824c-365951959465
 price:
   cents: 3500
   currency: EUR
@@ -48,5 +48,5 @@ referencePrice:
   value: 114.99
 slug: 2x-odlo-active-warm-basislaagtop
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 2x Odlo Active Warm Basislaagtop | Heren

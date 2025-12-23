@@ -1,12 +1,12 @@
-_id: 693a818f20621bb67d8b07b1
+_id: 694968969dfca9207059a17d
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2874453'
+  - edffefd6-b233-5f30-a1d1-6e56d931637d
+classicId: '2898641'
 classicProductId: '683887'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 65a036c1-9892-5b6a-8f31-84669a05a68f
+id: 4ef7a3b4-8838-477f-84c4-852c4fbb61a9
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 51e71a32-7b00-430e-a646-e3b2336e5fa3
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: ca04e478-e5b8-5f1d-a929-738f7776a756
+offerId: c5901fcc-f438-494d-85ea-25a609c95324
 price:
   cents: 4995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 143.4
 slug: 12x-dove-deeply-nourishing-douchegel-600-ml
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x Dove Advanced Care Deeply Nourishing Douchegel | 600 ml

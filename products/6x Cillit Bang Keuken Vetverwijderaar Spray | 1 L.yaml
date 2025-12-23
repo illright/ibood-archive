@@ -1,12 +1,12 @@
-_id: 693a93f4244431cde77bf49c
+_id: 6949631f39ce40126ef2281c
 appOnly: false
 brand: CILLIT BANG
 brands:
   - id: b7e17a50-27c0-5d52-8394-d3e78ffd95ad
     name: CILLIT BANG
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2874518'
+  - 34a53741-17f5-5022-ba48-4d0f805634f0
+classicId: '2898190'
 classicProductId: '639383'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 56a4f899-eb5b-5502-9ee6-b29c1593b23f
+id: 833bc5ce-5d05-4fd9-b428-e3e1386b0773
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 75773c7c-80f7-4d5a-938a-29481766f957
-  priority: 0
-  slug: cillit-bang-png-logo-0
+  extension: png
+  id: 1895844
+  priority: 100
+  slug: cillit-bang-logo
   type: logo
-offerId: 388192b6-18db-5069-aeb1-ec4dd38ae56b
+offerId: fc93e8ed-b14f-471f-9bba-72904aabedd4
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 59.94
 slug: 6x-cillit-bang-keuken-vetverwijderaar-spray-1-l
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 6x Cillit Bang Keuken Vetverwijderaar Spray | 1 L

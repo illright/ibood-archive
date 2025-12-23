@@ -19,13 +19,16 @@ freeDelivery: false
 id: fc1b7e2d-7e51-4f50-8656-60380e40811e
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 983687
+  extension: image/png
+  id: a1daa626-2a42-444b-b0f2-ee97d325dcc2-tr
   priority: 0
-  slug: de-buyer-pannenset-24-28-cm
+  slug: de-buyer-pfannenset-24-und-28-cm-1-jpg-product-1
   type: product
 logo:
   channels:

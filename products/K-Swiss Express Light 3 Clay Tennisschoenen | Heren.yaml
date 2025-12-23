@@ -1,12 +1,12 @@
-_id: 694165e97f04ad7418e4df49
+_id: 694911b9a6fc605693260d14
 appOnly: false
 brand: K-Swiss
 brands:
   - id: f4bb9134-1177-560b-b793-33dc6851eb47
     name: K-Swiss
 categories:
-  - 6297f481-bc62-5612-ac88-d205ad68087b
-classicId: '2885836'
+  - 4f81c8bc-db9d-53b4-b404-a58411d5ebe5
+classicId: '2893968'
 classicProductId: '658704'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: f1c5ea97-d318-445c-8ba9-e5f726e48a23
+id: 6e5964d4-7f85-4dcf-ab59-eb97738e632a
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1787420
-  priority: 100
-  slug: k-swiss-logo
+    - all
+  extension: image/png
+  id: 4c20cee2-a466-43ee-8756-ebbaf77cb113
+  priority: 0
+  slug: k-swiss-png-logo-0
   type: logo
-offerId: 80bb5199-d2a3-4b36-989c-3db2904b4bb2
+offerId: cd94ccc0-5b5d-40eb-a809-ed4e7d166414
 price:
   cents: 7995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 119.99
 slug: k-swiss-licht-3-clay-mannen
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: K-Swiss Express Light 3 Clay Tennisschoenen | Heren

@@ -1,53 +1,54 @@
-_id: 693fdf9952b0826d9fc0817b
+_id: 6949635afc5558044d718e1c
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2881672'
+  - 34a53741-17f5-5022-ba48-4d0f805634f0
+classicId: '2898274'
 classicProductId: '675376'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 70
-end: '2025-12-22T22:59:59.999Z'
+directCheckout: false
+discount: 73
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: b9c62fee-7448-4315-940b-203c70b3ebfe
+id: 834bbc30-29d8-4ae3-886c-2c3eb1495417
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 4871c622-448f-431d-9163-a88b79912dc2
+  id: 13901a47-083f-4c10-8936-7dc81c6e43ff
   priority: 0
-  slug: robijn-05-png-product-1
+  slug: robijn-07-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1536012
-  priority: 100
-  slug: robijn-logo
+    - all
+  extension: image/png
+  id: 5bfe62b0-f461-485f-8248-9136aa66d863
+  priority: 0
+  slug: robijn-png-logo-0
   type: logo
-offerId: b68f1e50-0b15-4059-b0c9-4c6cf564d5bb
+offerId: 99ecfd34-8c12-47a2-974c-73a52dce3f5a
 price:
-  cents: 3295
+  cents: 2995
   currency: EUR
-  value: 32.95
+  value: 29.95
 referencePrice:
   cents: 10900
   currency: EUR
   value: 109
 slug: 4x-robijn-klein-krachtig-wasmiddel-zwitsal-1-19
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 4x Robijn Klein & Krachtig Wasmiddel Zwitsal | 1,19 L (136sc)

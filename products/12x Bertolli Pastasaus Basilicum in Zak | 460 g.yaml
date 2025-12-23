@@ -1,22 +1,22 @@
-_id: 693fdd841c05398b4844c42d
+_id: 694963bf88f97894b4935c9e
 appOnly: false
 brand: Bertolli
 brands:
   - id: e63d6645-cdf1-5ebc-ac82-557370ab403f
     name: Bertolli
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2880891'
+  - fd9478c2-7d0b-599e-9cfa-a92acd3811b2
+classicId: '2898365'
 classicProductId: '680387'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 48
-end: '2025-12-22T22:59:59.999Z'
+discount: 52
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 2dccae09-180b-474b-9631-8218b85b71d0
+id: 3562b1ec-3a13-44ae-97e1-f97fb6f33b85
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: 6x-bertolli-pasta-sauce-basilico-pouch-460gr-product-0
   type: product
-offerId: d8d94bcf-6a0f-4717-9466-016af16169e7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f5b0f5e6-ecab-4daa-a98d-ad285e5e92b7
+  priority: 0
+  slug: bertolli-logo-0
+  type: logo
+offerId: 577c8aa8-3940-454e-af60-4b45bfecf98d
 price:
-  cents: 2195
+  cents: 1995
   currency: EUR
-  value: 21.95
+  value: 19.95
 referencePrice:
   cents: 4188
   currency: EUR
   value: 41.88
 slug: 12x-bertolli-pastasaus-basilicum-in-zak-460-g
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x Bertolli Pastasaus Basilicum in Zak | 460 g

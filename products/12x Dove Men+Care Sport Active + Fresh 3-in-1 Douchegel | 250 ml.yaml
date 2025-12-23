@@ -1,12 +1,12 @@
-_id: 693825ad338593a2a75437e0
+_id: 694968909dfca9207059a16d
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2872627'
+  - edffefd6-b233-5f30-a1d1-6e56d931637d
+classicId: '2898630'
 classicProductId: '683725'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 2d3a6f2a-0fef-5eb1-8ffb-0399b8016cc3
+id: 9d412bb3-d3eb-48c8-adb3-0e7dba51ab48
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5a3c26bd-d802-4a7d-b429-fa0ab2e60dbd
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: b914a232-2dcc-5baa-8555-53a8b06e67e0
+offerId: 81ba8a19-57fc-4c78-9523-9b98103d0d09
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 64.2
 slug: 12x-dove-men-care-sport-active-fresh-3-in-1-douchegel-250-ml
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x Dove Men+Care Sport Active + Fresh 3-in-1 Douchegel | 250 ml

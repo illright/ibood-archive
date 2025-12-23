@@ -1,30 +1,32 @@
-_id: 69454fa99bcb501727ebb758
+_id: 69491c18f34aa738cf944d3b
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
-classicId: '2892791'
+  - cb3cf3a3-bb20-5ada-81bd-6336d24a44af
+classicId: '2894212'
 classicProductId: '656274'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
-end: '2025-12-30T22:59:59.999Z'
+discount: 81
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 1b831c8f-15b7-4ada-84c6-c8326de5b7c7
+id: f2203ad0-a6a6-4653-9280-ac2bf2a01ee0
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 500e7655-6463-4a73-87f4-438e30e4cba1
+    - app
+    - website
+  extension: image/png
+  id: 500e7655-6463-4a73-87f4-438e30e4cba1-tr
   priority: 0
   slug: ka6009bk-karlsson-alarm-clock-pearl-glow-black-8cm-product-1
   type: product
@@ -38,11 +40,11 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: c6f9d273-c818-446c-991e-b004806bd3f3
+offerId: c88673c1-115c-443a-9dd3-9e7610f25109
 price:
-  cents: 995
+  cents: 495
   currency: EUR
-  value: 9.95
+  value: 4.95
 referencePrice:
   cents: 2595
   currency: EUR

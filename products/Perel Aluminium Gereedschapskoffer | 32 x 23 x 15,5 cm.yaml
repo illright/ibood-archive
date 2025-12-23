@@ -1,12 +1,12 @@
-_id: 693fdedbbd451d81bcd6fb54
+_id: 6949358a39ce40126ef2229b
 appOnly: false
 brand: Perel
 brands:
   - id: 8bb774c9-f3c1-5bd5-aef0-cb7c91cf2a2f
     name: Perel
 categories:
-  - d5580df5-bb31-5ebd-bd49-00c00265a66f
-classicId: '2881403'
+  - 7b4ee77d-a189-5085-9bdd-e77d9475545e
+classicId: '2894618'
 classicProductId: '100329'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 2f9bfa90-f98e-4a31-93f6-e024ea434db2
+id: d59209a5-38c2-451a-9a5f-40028661ebc9
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: perel-aluminium-gereedschapskoffer
   type: product
-offerId: 84aaaf4e-8156-443d-a560-ad3727db9264
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1115444
+  priority: 100
+  slug: perel-logo
+  type: logo
+offerId: 4a573fab-128d-41fc-8886-a048ddaa04fe
 price:
   cents: 1795
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 29.95
 slug: perel-aluminium-gereedschapskoffer
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: Perel Aluminium Gereedschapskoffer | 32 x 23 x 15,5 cm

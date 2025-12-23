@@ -1,12 +1,12 @@
-_id: 69454faa9bcb501727ebb762
+_id: 69491c1d313e1f866033da54
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
-classicId: '2892794'
+  - cb3cf3a3-bb20-5ada-81bd-6336d24a44af
+classicId: '2894216'
 classicProductId: '631582'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 72
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: ae876fbc-ea7f-44b2-8b9b-afa068f86b82
+id: acbdb13a-ea6d-44fb-a705-8d0fa905ab81
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2211226
+    - all
+  extension: image/png
+  id: 27de6a0a-4610-48e3-b8c5-ab5359c6a04d
   priority: 0
-  slug: karlsson-wood-melange-wandklok
+  slug: klok-01-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 7a3ebed0-e02a-45f2-a8c2-171b3d316aee
+offerId: 0e4b7f25-13b6-4288-ab82-31893a5e9209
 price:
   cents: 2295
   currency: EUR

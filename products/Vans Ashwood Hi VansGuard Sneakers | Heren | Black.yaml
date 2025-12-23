@@ -1,12 +1,12 @@
-_id: 6945450b69bbb9dc606e8adc
+_id: 694947136bb825ed8e920e42
 appOnly: false
 brand: VANS
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: VANS
 categories:
-  - 57f76f33-789e-5a64-8748-a5fb62750553
-classicId: '2892405'
+  - 97fbdc29-ad6f-5483-89b6-0d1c097b021c
+classicId: '2897336'
 classicProductId: '653395'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 68
 end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: b45c45d6-ef32-42ba-acea-e8db4d07e528
+id: 35d4dbdb-1531-4497-91e4-bdb90596c851
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1682080
-  priority: 100
-  slug: vans-logo
+    - all
+  extension: image/png
+  id: 00391296-48dc-4362-88f5-8e52f2f508b9
+  priority: 0
+  slug: vans-brooklyn-sneakers-kids-png-logo-0-png-logo-0
   type: logo
-offerId: 1e60fd05-0d2b-4294-baf8-1c9d4762bd60
+offerId: 3f21cea9-a90f-484d-afcb-419643037f08
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 95
 slug: vans-ashwood-hi-vansguard-sneakers-heren-black
 soldOut: false
-start: '2025-12-18T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: Vans Ashwood Hi VansGuard Sneakers | Heren | Black

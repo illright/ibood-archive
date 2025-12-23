@@ -1,12 +1,12 @@
-_id: 69454fa29bcb501727ebb732
+_id: 69491c1bf34aa738cf944d43
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
-classicId: '2892779'
+  - cb3cf3a3-bb20-5ada-81bd-6336d24a44af
+classicId: '2894214'
 classicProductId: '656257'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 5a51aa73-efdf-477a-8c8b-96ed9f73c4f7
+id: 2a90d9d3-92e6-4f51-8c4a-b892b0d231d1
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 0eceba49-638a-4621-9010-d97c4ae01d44
+    - app
+    - website
+  extension: image/png
+  id: 0eceba49-638a-4621-9010-d97c4ae01d44-tr
   priority: 0
   slug: ka5516dg-karlsson-wall-clock-little-big-time-metallic-jungle-green-77-5cm-product-0
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 6288cc54-eb26-4cd9-add4-713c991c47ff
+offerId: 91b68220-4caf-48ba-a1e8-38667e7fd771
 price:
   cents: 1695
   currency: EUR

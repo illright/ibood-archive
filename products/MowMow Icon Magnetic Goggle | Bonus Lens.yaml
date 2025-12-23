@@ -1,12 +1,12 @@
-_id: 69413b9a47b72d7ce9efa5bd
+_id: 6949118a3f695030cadd7b61
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - ee06c709-60cc-5765-8882-24cf312ba833
-classicId: '2885078'
+  - 4eada7a0-f3bf-5903-8ed3-7086414e8e8b
+classicId: '2893935'
 classicProductId: '496483'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 55
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 3fedb156-b80d-412c-9f42-c58034a057e0
+id: 301bea94-9742-4fd7-a9d4-84fdde18bc68
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 0
   slug: mowmow-icon-magnetic-goggle-bonus-lens
   type: product
-offerId: ae0d6588-35ff-4633-aa4a-caf700588616
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3c333314-56d0-41dd-8949-3fdf72d33365
+  priority: 0
+  slug: mowmow-logo-0
+  type: logo
+offerId: 74b38932-3acc-453b-adb5-4182ba18eaca
 price:
   cents: 7995
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 179
 slug: mowmow-icon-magnetic-goggle-bonus-lens
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: MowMow Icon Magnetic Goggle | Bonus Lens

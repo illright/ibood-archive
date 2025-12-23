@@ -1,12 +1,12 @@
-_id: 693a818e20621bb67d8b07ae
+_id: 694968929dfca9207059a176
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2874451'
+  - edffefd6-b233-5f30-a1d1-6e56d931637d
+classicId: '2898634'
 classicProductId: '683885'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 48495e39-a3be-59a7-b07c-a1e66f74b509
+id: bc47ca79-3319-4c9f-948f-5be10b11498e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: eb326ba2-8a31-464c-818d-487fb78a7c2e
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: 49108049-5359-5327-b36a-f5bb20d0cf05
+offerId: 16da5d70-9dc2-4b6c-9382-cd2dada6985a
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 107.4
 slug: 12x-dove-indulging-caring-bath-badcreme-450-ml
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x Dove Indulging Caring Bath Badcrème | 450 ml

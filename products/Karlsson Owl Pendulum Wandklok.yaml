@@ -1,12 +1,12 @@
-_id: 69454f93b52d5046011f6689
+_id: 69491c19f34aa738cf944d3c
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
-classicId: '2892752'
+  - cb3cf3a3-bb20-5ada-81bd-6336d24a44af
+classicId: '2894213'
 classicProductId: '631587'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 01e164c8-7286-414a-871a-2bf622154687
+id: 1d7f6e8d-3697-4eb2-9424-96cb1fe1fda2
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: d9187470-9196-4744-b6ca-9c316827aa1e
+    - app
+    - website
+  extension: image/png
+  id: d9187470-9196-4744-b6ca-9c316827aa1e-tr
   priority: 0
   slug: karlsson-owl-pendel-wanduhr-1-jpg-product-101
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 3ad9e191-1221-4038-a5d5-a91d70b592c3
+offerId: 3b0dae6e-02d1-4d9f-9918-45a8e2a68667
 price:
   cents: 1295
   currency: EUR

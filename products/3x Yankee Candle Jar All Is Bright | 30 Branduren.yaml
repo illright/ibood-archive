@@ -1,12 +1,12 @@
-_id: 69401a36f69b3235ffcb67db
+_id: 6949638f39ce40126ef228a2
 appOnly: false
 brand: Yankee Candle
 brands:
   - id: ca12fb26-66d0-50e0-88af-826b7f3e868d
     name: Yankee Candle
 categories:
-  - 84630973-4ee4-5086-adc4-ecd3bfce2253
-classicId: '2883625'
+  - 34a53741-17f5-5022-ba48-4d0f805634f0
+classicId: '2898335'
 classicProductId: '670960'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 55
 end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: e3d07d87-ff31-4017-8154-998b0cebb054
+id: e8eca4c8-fac1-4474-8cd8-7335dc48e646
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: yan01-png-product-1
   type: product
-offerId: 180a2ea7-54cd-4f99-b6bd-26d03102c1e2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 33146784-c1e0-4cf8-9e1c-0003b3e28551
+  priority: 0
+  slug: yankee-candle-logo-0
+  type: logo
+offerId: 41d8f77a-59d9-46b7-a6da-93039ca436f7
 price:
   cents: 1595
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 35.7
 slug: 3x-yankee-candle-jar-all-is-bright-30-branduren
 soldOut: false
-start: '2025-12-18T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 3x Yankee Candle Jar All Is Bright | 30 Branduren

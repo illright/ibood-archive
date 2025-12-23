@@ -1,12 +1,12 @@
-_id: 6945442669bbb9dc606e8a4f
+_id: 694945e2dedaaf77e57b63cc
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - e90dfec4-c386-53b1-9ed2-52de8f076dea
-classicId: '2892252'
+  - 4fe7ddfd-dcd6-53a8-9e9d-9b0630bcc25c
+classicId: '2897059'
 classicProductId: '669280'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 69
 end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: c697a2eb-2d53-45c2-b542-cdd09f77b273
+id: 09a26818-0cb3-4dd5-8f47-55e2d744ce7b
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: lacoste-47-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1612112
-  priority: 100
-  slug: lacoste-logo
-  type: logo
-offerId: 91e10dd8-53d8-48dd-9284-41bec679ca4c
+offerId: fa3049e4-e4ce-402c-8a0c-c04cf6bcc9c3
 price:
   cents: 5000
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 160
 slug: lacoste-hoodie-relaxed-fit-heren
 soldOut: false
-start: '2025-12-18T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: Lacoste Hoodie | Relaxed Fit | Heren

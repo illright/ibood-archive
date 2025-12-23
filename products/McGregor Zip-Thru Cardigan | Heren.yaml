@@ -1,13 +1,13 @@
-_id: 6945441492fc31e45f6c52af
+_id: 6949459a39ce40126ef223d1
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - e90dfec4-c386-53b1-9ed2-52de8f076dea
-classicId: '2892251'
-classicProductId: '669564'
+  - 4fe7ddfd-dcd6-53a8-9e9d-9b0630bcc25c
+classicId: '2897005'
+classicProductId: '669567'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 64
 end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: 16b7bc3d-f970-40dd-bf18-f1bbb9aa019d
+id: 7a1b3dc8-62c6-4eb6-9a0e-96e5040a268d
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 2827a849-ea54-4a76-8ba3-544bd2e72d3e
+  id: 97ec7e56-f66e-4951-afbb-f8864973b771
   priority: 0
-  slug: mcgregor-11-png-product-1
+  slug: mcgregor-10-png-product-1
   type: product
-offerId: 6f33fc5e-99d2-4e02-9cf0-8d5f0f229782
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: 096f9915-346a-4a54-b924-c5ff47e4c96b
 price:
   cents: 5000
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 139.95
 slug: mcgregor-zip-thru-cardigan-heren
-soldOut: true
-start: '2025-12-18T23:00:00.000Z'
+soldOut: false
+start: '2025-12-22T23:00:00.000Z'
 title: McGregor Zip-Thru Cardigan | Heren

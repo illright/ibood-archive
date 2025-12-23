@@ -1,32 +1,34 @@
-_id: 69454f89b52d5046011f6680
+_id: 69491bfef34aa738cf944cfc
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
-classicId: '2892741'
+  - cb3cf3a3-bb20-5ada-81bd-6336d24a44af
+classicId: '2894189'
 classicProductId: '656288'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 73
-end: '2025-12-30T22:59:59.999Z'
+discount: 81
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 70849f6d-a3ae-4214-8a2b-746e0a11c07f
+id: bb8414a7-5966-4efa-9e1d-8df582d961da
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 58cd2eff-a969-4161-98bb-a961c6b40b7b
+    - app
+    - website
+  extension: image/png
+  id: 750b1c24-11dd-4750-a44b-acfaf922df30-tr
   priority: 0
-  slug: ka6049rd-karlsson-wall-clock-funky-vibes-scarlet-red-25-5cm-product-0
+  slug: ka6049rd-karlsson-wall-clock-funky-vibes-scarlet-red-25-5cm-product-1
   type: product
 logo:
   channels:
@@ -38,11 +40,11 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: ff6d64bd-ad74-4693-9874-e7e58e44324e
+offerId: bf675217-ce69-4658-be29-a0ab48fd40d2
 price:
-  cents: 695
+  cents: 495
   currency: EUR
-  value: 6.95
+  value: 4.95
 referencePrice:
   cents: 2595
   currency: EUR

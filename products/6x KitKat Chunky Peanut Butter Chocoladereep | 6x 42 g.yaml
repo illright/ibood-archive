@@ -1,12 +1,12 @@
-_id: 693a8193e76fedcd40ec2f55
+_id: 69496442ac75c6dba95cfa5f
 appOnly: false
 brand: Nestlé
 brands:
   - id: 595ba029-9ec3-515d-a81b-3297467dfc52
     name: Nestlé
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2874454'
+  - fd9478c2-7d0b-599e-9cfa-a92acd3811b2
+classicId: '2898524'
 classicProductId: '683923'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 349f8be8-958b-52fe-9862-9b3c3f15b837
+id: b78177a5-43dd-45b8-b80d-e771c4017175
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c39c8725-7af6-4672-823a-d3e0d7b85238
-  priority: 0
-  slug: kitkat-png-logo-0
+  extension: png
+  id: 1756301
+  priority: 100
+  slug: nestle-logo
   type: logo
-offerId: dc6421cc-3d96-54ba-94df-c126538f37cf
+offerId: e019f99b-ccb0-4cf3-9695-4e6d05e00cb9
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 40.56
 slug: 6x-kitkat-chunky-peanut-butter-chocoladereep-6x-42-g
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 6x KitKat Chunky Peanut Butter Chocoladereep | 6x 42 g

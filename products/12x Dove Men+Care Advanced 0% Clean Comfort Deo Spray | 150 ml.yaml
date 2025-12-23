@@ -1,12 +1,12 @@
-_id: 693824fe8ee6638fd2a7111a
+_id: 6949689217c4f9fdf0784475
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2872617'
+  - edffefd6-b233-5f30-a1d1-6e56d931637d
+classicId: '2898633'
 classicProductId: '683717'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 8b5d1e0a-953a-5152-b4c8-b0696cc32fc0
+id: 34264734-2863-4da4-96c2-f9706fa79905
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2dadc621-6208-4432-adeb-3e50eb48bc81
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: f434793d-302f-58c3-8859-310d61e1009d
+offerId: 8c9fe739-fd93-4473-bd58-015cb8ed3bd8
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 71.88
 slug: 12x-dove-men-care-advanced-0-clean-comfort-deo-spray-150-ml
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x Dove Men+Care Advanced 0% Clean Comfort Deo Spray | 150 ml

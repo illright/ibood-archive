@@ -19,13 +19,16 @@ freeDelivery: false
 id: 3f8bf03f-381b-4368-89e7-90159bff9614
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 1892545
+  extension: image/png
+  id: 8171a831-4b93-44ca-9cf9-74b373d1222a-tr
   priority: 0
-  slug: 2x-multifurn-jill-esszimmerstuhl
+  slug: 2x-multifurn-jill-esszimmerstuhl-1-jpg-product-1
   type: product
 logo:
   channels:

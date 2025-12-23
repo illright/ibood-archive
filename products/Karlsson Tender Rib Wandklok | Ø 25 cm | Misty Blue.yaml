@@ -1,30 +1,32 @@
-_id: 69454f8bb6e9fca89e09e5c5
+_id: 69491bfd313e1f866033da12
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
-classicId: '2892746'
+  - cb3cf3a3-bb20-5ada-81bd-6336d24a44af
+classicId: '2894188'
 classicProductId: '656284'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 74
-end: '2025-12-30T22:59:59.999Z'
+discount: 82
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: d2be5b51-fad9-4849-a715-1259332b8078
+id: d5ef3a12-da45-4937-86bb-fd8c6214baef
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 66aa0039-a7ee-439b-85f0-6c180d39ed19
+    - app
+    - website
+  extension: image/png
+  id: 66aa0039-a7ee-439b-85f0-6c180d39ed19-tr
   priority: 0
   slug: ka6048bl-karlsson-wall-clock-tender-rib-misty-blue-25cm-product-1
   type: product
@@ -38,11 +40,11 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 3e1b41c4-c72e-40d8-9f71-b76ace2f1a0b
+offerId: 3be8e23b-65ff-4657-a2e0-3972ce5499af
 price:
-  cents: 695
+  cents: 495
   currency: EUR
-  value: 6.95
+  value: 4.95
 referencePrice:
   cents: 2695
   currency: EUR

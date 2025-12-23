@@ -1,32 +1,31 @@
-_id: 694010801a58cf2f6cdfbbdc
+_id: 69494cc36495b64273e9a224
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 91f2cb2b-13a3-5c7e-9326-35b98aa22058
-classicId: '2882920'
-classicProductId: '496701'
+  - 46fabe32-555d-5b11-8d6c-4b4970a01599
+classicId: '2897952'
+classicProductId: '513682'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 54
-end: '2025-12-22T22:59:59.000Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: ccf2c572-696b-41a7-becc-0fbf3e6d9e67
+id: 00dad2fb-29ad-4f53-8edd-d0d19eb22924
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 976a727a-0b33-49c2-816e-ad5427d48a0d
+  extension: jpg
+  id: 1743853
   priority: 0
-  slug: delsey-air-armour-l-expandable-trolley-77-cm-product-21
+  slug: delsey-air-armour-l-expandable-trolley-77-cm
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: delsey-air-armour-l-expandable-trolley-77-cm
   type: logo
-offerId: b4f0d939-ed1e-4467-b6eb-218a90a003a1
+offerId: 166ad27d-9124-4385-a48a-7164d1c1a63a
 price:
   cents: 9995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 219
 slug: delsey-air-armour-l-expandable-trolley-77-cm
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: Delsey Air Armour L Expandable Trolley | 77 cm

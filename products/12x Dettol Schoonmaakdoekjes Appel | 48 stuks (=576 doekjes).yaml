@@ -1,31 +1,32 @@
-_id: 693fde31bd451d81bcd6fa15
+_id: 694163a01a4237625dee7ade
 appOnly: false
 brand: Dettol
 brands:
   - id: 01d29168-09cd-54d2-85a1-4c1204fe4f2d
     name: Dettol
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2881094'
-classicProductId: '681976'
+  - 34a53741-17f5-5022-ba48-4d0f805634f0
+classicId: '2885533'
+classicProductId: '588019'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 8ea7ee55-b415-46fb-8eaf-8540948f56f1
+id: 60e92cf3-bbdc-5a36-86a7-62b34f67ef6c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2020880
+    - all
+  extension: image/png
+  id: f736c4fe-9282-4d4b-9f85-df1d0e67481f
   priority: 0
-  slug: 12x-dettol-tru-clean-reinigungstucher-apfel
+  slug: dettol-02-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: dettol-logo
   type: logo
-offerId: f750e17d-94d6-4301-95cf-96dc0245c788
+offerId: b751eed8-cde1-565e-bc22-66421aa1d566
 price:
   cents: 1395
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 41.88
 slug: 12x-dettol-schoonmaakdoekjes-appel-48-stuks
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: 12x Dettol Schoonmaakdoekjes Appel | 48 stuks (=576 doekjes)

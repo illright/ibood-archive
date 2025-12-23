@@ -1,12 +1,12 @@
-_id: 693ae1307b3b8d9b17164620
+_id: 6949632cc2a2bd083b47b902
 appOnly: false
 brand: Finish
 brands:
   - id: 609dbe56-ce2a-57a6-8d8a-a995c110554b
     name: Finish
 categories:
-  - cb650bfc-c7d2-52b1-bd28-4ef793acb6bd
-classicId: '2876471'
+  - 34a53741-17f5-5022-ba48-4d0f805634f0
+classicId: '2898206'
 classicProductId: '684007'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2025-12-22T22:59:59.999Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 9b064e0b-2221-56e1-a6c3-084d1c1bc1e4
+id: f34c05bf-19a7-4168-90a0-ccacd4797443
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 04eaf5c1-30eb-4b12-9a9d-148246409218
-  priority: 0
-  slug: finish-png-logo-0
+  extension: png
+  id: 1614266
+  priority: 100
+  slug: finish-logo
   type: logo
-offerId: 3946538d-367f-538d-b722-d5eddd754631
+offerId: c0ded12a-4688-472f-bdc9-00aab6c07926
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 199.96
 slug: 368x-finish-ultimate-all-in-1-fresh-vaatwastabletten
 soldOut: false
-start: '2025-12-15T23:00:00.000Z'
+start: '2025-12-22T23:00:00.000Z'
 title: '368x Finish Ultimate All-in-1 Fresh Vaatwastabletten '

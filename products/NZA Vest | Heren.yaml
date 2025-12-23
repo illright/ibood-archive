@@ -1,22 +1,22 @@
-_id: 694010dc1bf2565fccc004f4
+_id: 69494b3b6495b64273e9a1e9
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - e7dc721e-4858-54d5-8f27-c5d9278dac82
-classicId: '2883012'
-classicProductId: '674446'
+  - 7b67e90b-c7cd-544b-b5e8-9d23c4a94b33
+classicId: '2897896'
+classicProductId: '674449'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 55
-end: '2025-12-22T22:59:59.000Z'
+end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: df85f327-32ed-4787-9888-fcf334d8dce3
+id: 9835a842-73ef-4efa-828f-9c9e50adb458
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: eb982f81-cb07-49da-8638-2add7e3069bf
+offerId: dbb44044-4c0a-448a-9c2a-715c743226f6
 price:
   cents: 4995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 109.99
 slug: nza-vest-heren
-soldOut: true
-start: '2025-12-15T23:00:00.000Z'
+soldOut: false
+start: '2025-12-22T23:00:00.000Z'
 title: NZA Vest | Heren
