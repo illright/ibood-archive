@@ -1,12 +1,12 @@
-_id: 69413a1e3735259f1e15b298
+_id: 694a5f320251fc0336ba6d17
 appOnly: false
 brand: Cosy & Trendy
 brands:
   - id: b8bf8a3d-6133-5afc-b519-1dead403c70b
     name: Cosy & Trendy
 categories:
-  - 26635f22-f955-51ea-91a7-95113c5e99b8
-classicId: '2884974'
+  - 2fa39540-8e48-50b3-8bde-bf71c4f70963
+classicId: '2899918'
 classicProductId: '623839'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2025-12-23T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 15cf799a-d663-4f13-8081-6ad67e808a1c
+id: 66443411-5152-49c2-953a-634ca4f873dc
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: untitled-3-jpg-product-101
   type: product
-offerId: cb90bf7c-9be0-4fa6-a245-263b39c9eb9d
+offerId: fa61cdeb-161b-4bc2-a548-f0fc0d23d0f3
 price:
   cents: 2995
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: cosy-trendy-picknickzak
-soldOut: false
-start: '2025-12-16T23:00:00.000Z'
+soldOut: true
+start: '2025-12-23T23:00:00.000Z'
 title: Cosy & Trendy Picknickzak

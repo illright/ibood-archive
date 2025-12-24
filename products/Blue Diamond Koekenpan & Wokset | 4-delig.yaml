@@ -1,22 +1,22 @@
-_id: 6941392647b72d7ce9efa2c0
+_id: 694a5de6d131950a0874eea2
 appOnly: false
 brand: Blue Diamond
 brands:
   - id: 6567f73b-aff5-5e2c-a06b-57eac8535431
     name: Blue Diamond
 categories:
-  - 80df7279-f641-5860-9f55-cb25861095fc
-classicId: '2884564'
+  - ae7feed8-48a2-5258-9123-0ede36968efc
+classicId: '2899447'
 classicProductId: '673169'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 60
-end: '2025-12-23T22:59:59.999Z'
+discount: 63
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: cfd73bc3-76d3-4656-8f2a-ed842ee96987
+id: a29e8a2c-8f88-4e9f-ad93-4f53ad43992b
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: panneroni-png-product-1
   type: product
-offerId: b42f7058-042b-4510-913a-6754f23bfba2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 858e585b-7582-496b-a39a-01bef91a7cc7
+  priority: 0
+  slug: blue-diamond-logo-0
+  type: logo
+offerId: dc1f2849-40f3-4aaa-b265-7400d26d1c28
 price:
-  cents: 6495
+  cents: 5995
   currency: EUR
-  value: 64.95
+  value: 59.95
 referencePrice:
   cents: 16160
   currency: EUR
   value: 161.6
 slug: blue-diamond-pfannen-set-4-teilig
 soldOut: false
-start: '2025-12-16T23:00:00.000Z'
+start: '2025-12-23T23:00:00.000Z'
 title: Blue Diamond Koekenpan & Wokset | 4-delig

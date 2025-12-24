@@ -1,31 +1,34 @@
-_id: 694139e415c40993e01fa217
+_id: 694a5f28d8ccaab515cf636e
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - 452a7cd0-e7ec-5d86-9b54-75e1425259ae
-classicId: '2884892'
-classicProductId: '443635'
+  - 2fa39540-8e48-50b3-8bde-bf71c4f70963
+classicId: '2899912'
+classicProductId: '443633'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 65
-end: '2025-12-23T22:59:59.999Z'
+discount: 73
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 438e6297-1285-46d5-ab99-8024c08d91cb
+id: 457445b8-8b6a-4c40-9df4-ab80ba0d237c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1686907
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 4a5cf6eb-0c7c-4c79-be05-0b86fc0399e1-tr
   priority: 0
-  slug: bjorn-the-essentials-18-delige-serviesset-stone
+  slug: bjorn-geschirrset-1-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +40,16 @@ logo:
   priority: 100
   slug: bjorn-logo
   type: logo
-offerId: 0a1f3bfd-8979-4bbe-8afe-cd5a72b77df3
+offerId: 7c46a551-4460-49df-8968-c410c319f762
 price:
-  cents: 8995
+  cents: 6995
   currency: EUR
-  value: 89.95
+  value: 69.95
 referencePrice:
   cents: 25990
   currency: EUR
   value: 259.9
 slug: bjorn-the-essentials-18-delige-serviesset-stone
 soldOut: false
-start: '2025-12-16T23:00:00.000Z'
+start: '2025-12-23T23:00:00.000Z'
 title: Björn The Essentials Serviesset Stone | 18-delig

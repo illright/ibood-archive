@@ -1,4 +1,4 @@
-_id: 6942b2c7de560632d4d913c7
+_id: 6942b19d9b7996b77fc5554d
 appOnly: false
 brand: VANS
 brands:
@@ -6,27 +6,27 @@ brands:
     name: VANS
 categories:
   - f913f484-2009-5208-90e5-78640dc8441e
-classicId: '2888464'
-classicProductId: '653197'
+classicId: '2888254'
+classicProductId: '653328'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 30
+directCheckout: true
+discount: 50
 end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: c80e6608-9f8b-4144-8399-97c0af280d34
+id: 99d34c2e-cae8-4367-a8bb-f35a486617b8
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: de3d4b92-e83c-491e-b941-31e2c4fc3531
+  extension: image/jpeg
+  id: bad3c37c-bf70-4e2b-96c8-4ae1150aee19
   priority: 0
-  slug: 25-black-white-vn000ebqbzw1-brooklyn-mid-v-suede-canvas-vans-product-1
+  slug: 25-5-black-white-vn000ebqbzw1-brooklyn-mid-v-suede-canvas-kids-vans-product-1
   type: product
 logo:
   channels:
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 2712f21f-8d7c-427b-8b74-1720a622bcd0
+offerId: 319e4782-5390-442f-9a20-cd3ddd2bee44
 price:
-  cents: 2795
+  cents: 2000
   currency: EUR
-  value: 27.95
+  value: 20
 referencePrice:
   cents: 4000
   currency: EUR

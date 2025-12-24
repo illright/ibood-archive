@@ -1,12 +1,12 @@
-_id: 694139e147b72d7ce9efa4bb
+_id: 694a5ebc699af98ee9088500
 appOnly: false
 brand: Tefal
 brands:
   - id: 74eb78fb-ffd2-5a7d-b58d-8f45efa26fa7
     name: Tefal
 categories:
-  - c3718cdd-67af-5c2d-a9e1-216e6c641c88
-classicId: '2884891'
+  - 215bc80c-2631-57c5-802b-e2d62c049c1e
+classicId: '2899775'
 classicProductId: '681954'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2025-12-23T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: a3aa16fd-179e-4038-aab6-ba1d476d7286
+id: 0ba6950e-e1ef-4064-a643-aecd4e5da942
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: tefal-plancha-compact-900-grillplaat-anti-aanbaklaag-1800w-cb500512-product-1
   type: product
-offerId: 7c3d7def-6536-4d69-a64a-e28095997cb2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5fc55cf7-b889-478e-8e9f-4d22ef5f302e
+  priority: 0
+  slug: tefal-topdeals-logo-0
+  type: logo
+offerId: 88a82dbc-f8ea-4e0e-8179-724fd8cb194b
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 79
 slug: tefal-plancha-compact-900-grillplaat-cb500512
 soldOut: false
-start: '2025-12-16T23:00:00.000Z'
+start: '2025-12-23T23:00:00.000Z'
 title: Tefal Plancha Compact 900 Grillplaat | CB500512

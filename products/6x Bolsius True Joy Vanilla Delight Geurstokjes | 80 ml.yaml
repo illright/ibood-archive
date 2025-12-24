@@ -1,32 +1,31 @@
-_id: 6949631439ce40126ef227e9
+_id: 69409682a98e6674b9d435b0
 appOnly: false
 brand: Bolsius
 brands:
   - id: 96ec547b-ffbd-5fc2-b03f-f14679a99f8d
     name: Bolsius
 categories:
-  - 34a53741-17f5-5022-ba48-4d0f805634f0
-classicId: '2898177'
+  - 84630973-4ee4-5086-adc4-ecd3bfce2253
+classicId: '2883590'
 classicProductId: '597604'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 68
+directCheckout: true
+discount: 64
 end: '2025-12-29T22:59:59.999Z'
 freeDelivery: false
-id: 8754fcd2-75aa-423b-8490-b20c48206c1e
+id: fc7461ee-86bc-4a81-adbf-7847ea4d71ce
 image:
   channels:
+    - newsletter
     - app
     - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 33ce8bb5-fe8b-4235-9132-8d512f93ffd0
+  extension: png
+  id: 2123434
   priority: 0
-  slug: bolsius-02-png-product-1
+  slug: 6x-bolsius-true-joy-vanilla-delight-raumduft
   type: product
 logo:
   channels:
@@ -34,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2067755
+  id: 1580436
   priority: 100
-  slug: 6x-bolsius-true-joy-vanilla-delight-raumduft
+  slug: bolsius-logo
   type: logo
-offerId: 1d1b91ec-e2a9-460e-bd7d-6c09e75cfca2
+offerId: caf346a9-19c8-4cc3-b11a-3c1321e55728
 price:
-  cents: 1995
+  cents: 2295
   currency: EUR
-  value: 19.95
+  value: 22.95
 referencePrice:
   cents: 6294
   currency: EUR
   value: 62.94
 slug: 6x-bolsius-true-joy-vanilla-delight-geurstokjes-80-ml
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-18T23:00:00.000Z'
 title: 6x Bolsius True Joy Vanilla Delight Geurstokjes | 80 ml

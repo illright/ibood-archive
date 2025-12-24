@@ -1,12 +1,12 @@
-_id: 694139c95e913879409cb3e2
+_id: 694a5ea16c592ccd57668f35
 appOnly: false
 brand: LEIFHEIT
 brands:
   - id: 3ed40409-ead7-5d10-a9b8-d612c2c74f8c
     name: LEIFHEIT
 categories:
-  - 64667097-ecb6-5342-81b7-5c4ba7bd587e
-classicId: '2884865'
+  - d86eda9e-a422-50f6-b361-02f066fda922
+classicId: '2899740'
 classicProductId: '381683'
 deliveryPrice:
   cents: 595
@@ -14,31 +14,31 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 31
-end: '2025-12-23T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 632f9f4f-9b0c-427b-94c3-93e6a67d8435
+id: f93a5d3f-a6db-4127-b389-b9959dc21afc
 image:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 1251975
+  priority: 0
+  slug: leifheit-51000-dry-clean-fenstersauger
+  type: product
+logo:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 80fbeeb0-2af1-42e3-9b98-66934c27cfdc
+  extension: image/png
+  id: fe278d07-110f-4a42-adc0-2824b2551494
   priority: 0
-  slug: leifheit-51000-dry-clean-fenstersauger-jpg-product-2
-  type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1831727
-  priority: 100
-  slug: leifheit-logo
+  slug: leifheit-png-logo-0
   type: logo
-offerId: 2b20d7cb-4c23-4397-a099-9072d45841c5
+offerId: 0728ade6-75c0-4ee1-96a0-2f7bc5c3e2e4
 price:
   cents: 4495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 64.99
 slug: leifheit-dry-clean-raamzuiger-click-system
 soldOut: false
-start: '2025-12-16T23:00:00.000Z'
+start: '2025-12-23T23:00:00.000Z'
 title: Leifheit Dry & Clean Raamzuiger Click System

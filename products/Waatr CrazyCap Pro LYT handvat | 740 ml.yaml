@@ -1,12 +1,12 @@
-_id: 6941399415c40993e01fa1af
+_id: 694a5ee60251fc0336ba6c9a
 appOnly: false
 brand: WAATR
 brands:
   - id: deac9159-c806-5dba-98af-d79bc3e384cc
     name: WAATR
 categories:
-  - 26635f22-f955-51ea-91a7-95113c5e99b8
-classicId: '2884760'
+  - 2fa39540-8e48-50b3-8bde-bf71c4f70963
+classicId: '2899816'
 classicProductId: '586969'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2025-12-23T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 3674da1d-33cb-4e31-b561-2d5f5ab03703
+id: adc4183c-9ddc-4468-9cff-352cb95d728e
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 84ada4bc-5764-4513-adaa-79aad56ce3f2-tr
-  priority: 0
-  slug: waatr-crazycap-pro-lyt-handgriff-740-ml-jpg-product-101
+  extension: jpg
+  id: 2018405
+  priority: 100
+  slug: waatr-crazycap-pro-lyt-handvat-740-ml
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: waatr-logo
   type: logo
-offerId: e37f250c-56d1-4ab9-9cc2-7ff147b4f408
+offerId: ebc90ca3-140b-42e9-b557-a705e279945d
 price:
   cents: 295
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 9.49
 slug: waatr-crazycap-pro-lyt-handvat-740-ml
 soldOut: false
-start: '2025-12-16T23:00:00.000Z'
+start: '2025-12-23T23:00:00.000Z'
 title: Waatr CrazyCap Pro LYT handvat | 740 ml

@@ -1,22 +1,22 @@
-_id: 694138fb15c40993e01fa0cb
+_id: 694a5e1ec7742c1d7c8f3508
 appOnly: false
 brand: Princess
 brands:
   - id: 85bf90f4-bfee-5c4a-8e46-948bae97f32d
     name: Princess
 categories:
-  - afdd618a-a64c-5f09-ac78-df061d5ee105
-classicId: '2884536'
+  - 215bc80c-2631-57c5-802b-e2d62c049c1e
+classicId: '2899534'
 classicProductId: '612692'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 76
-end: '2025-12-23T22:59:59.999Z'
+discount: 79
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 885ca065-2bc5-414b-8d9f-304f6d2ea183
+id: 3f515e30-2804-48ed-a2cf-dadbd0105329
 image:
   channels:
     - app
@@ -30,16 +30,26 @@ image:
   priority: 0
   slug: princess-heiluftfritteuse-mit-dampffunktion-jpg-product-101
   type: product
-offerId: d64f88ae-7725-4802-9484-a54f070c468d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1699182
+  priority: 100
+  slug: princess-logo
+  type: logo
+offerId: c99b8c41-2a5f-4ed7-823d-c32c07e182f6
 price:
-  cents: 3995
+  cents: 3495
   currency: EUR
-  value: 39.95
+  value: 34.95
 referencePrice:
   cents: 16999
   currency: EUR
   value: 169.99
 slug: princess-steam-aerofryer-met-stoomfunctie-6-5-l
 soldOut: false
-start: '2025-12-16T23:00:00.000Z'
+start: '2025-12-23T23:00:00.000Z'
 title: Princess Steam Aerofryer met Stoomfunctie | 6,5 L | 1700 W | 183318

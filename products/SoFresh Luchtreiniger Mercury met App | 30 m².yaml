@@ -1,12 +1,12 @@
-_id: 69413a395e913879409cb4d1
+_id: 694a5e1bd8ccaab515cf6146
 appOnly: false
 brand: SoFresh
 brands:
   - id: c659aa8c-02ab-51cf-a00c-3c33d17451cd
     name: SoFresh
 categories:
-  - c3718cdd-67af-5c2d-a9e1-216e6c641c88
-classicId: '2885001'
+  - 724ba1c5-e61b-59ba-a893-4edf27cec490
+classicId: '2899527'
 classicProductId: '670932'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-23T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: dd087dee-480b-491d-a56b-a08d24bb2a25
+id: c762753b-5898-4c91-b3aa-e8b833090869
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 8720938370847-sofresh-mercury-luchtreiniger-met-app-30m2-product-0
   type: product
-offerId: 921c6fa8-8a3c-489e-88a9-7c3c7b722f30
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ac2d0db6-087f-44c3-807d-dd951d756a81
+  priority: 0
+  slug: sofresh-logo-0
+  type: logo
+offerId: fe6661fa-e15c-441f-b2ed-9b5f680cbaf8
 price:
   cents: 5995
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 149.95
 slug: sofresh-luchtreiniger-mercury-met-app-30-m2
-soldOut: true
-start: '2025-12-16T23:00:00.000Z'
+soldOut: false
+start: '2025-12-23T23:00:00.000Z'
 title: SoFresh Luchtreiniger Mercury met App | 30 m²
