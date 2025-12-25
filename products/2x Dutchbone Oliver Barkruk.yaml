@@ -1,4 +1,4 @@
-_id: 69455971533fcbdd188df0de
+_id: 694bc6653a0b97d1edeb71ec
 appOnly: false
 brand: Dutchbone
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Dutchbone
 categories:
   - f1b7c114-c864-5114-8123-4dbebfb77529
-classicId: '2893319'
-classicProductId: '628937'
+classicId: '2904466'
+classicProductId: '628935'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 60
+directCheckout: false
+discount: 47
 end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: 219b9734-b92b-4d9d-be5d-cfaf3feed7cf
+id: 96ca90e7-2783-4926-bc5a-405ff20545ac
 image:
   channels:
     - app
@@ -24,25 +24,26 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: e7b7f28a-27b9-4c0c-9cf5-71e87e9e3c75
+  id: 76278adf-ee0f-4cc1-88ff-fc996c540a30
   priority: 0
-  slug: stoel3-png-product-1
+  slug: stoel1-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1999917
-  priority: 100
-  slug: dutchbone-logo
+    - all
+  extension: image/png
+  id: 9c34a115-efae-4625-a1bb-29f4429e1648
+  priority: 0
+  slug: dutchbone-png-logo-0
   type: logo
-offerId: d6f3ba9f-d5fe-430a-bb93-d4efda877eea
+offerId: c28f3dfe-40b8-4b36-8f25-128c3999db27
 price:
-  cents: 12900
+  cents: 16900
   currency: EUR
-  value: 129
+  value: 169
 referencePrice:
   cents: 32000
   currency: EUR

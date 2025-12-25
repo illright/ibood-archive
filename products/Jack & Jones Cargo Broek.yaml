@@ -1,12 +1,12 @@
-_id: 6943f10d35e142459e55f0bb
+_id: 69494a6bdedaaf77e57b64f2
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - af4da389-541c-5027-b941-2b43873bc5e5
-classicId: '2889985'
+  - d56f5a6d-29f0-51f7-b7e0-511bb3e498f7
+classicId: '2897769'
 classicProductId: '476643'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2025-12-24T22:59:59.999Z'
+end: '2026-01-05T22:59:59.000Z'
 freeDelivery: false
-id: a1ca7ae0-8fcb-4719-b56e-b1375d234944
+id: 8eaba867-7d20-43e9-83be-6eea74b2b9e1
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1606696
+  id: 1829631
   priority: 100
-  slug: jack-jones-cargo-broek
+  slug: jack-jones-logo
   type: logo
-offerId: 487f18fd-36e5-4609-bb6e-b6b2bcb31622
+offerId: 48d6dadc-83db-4c40-9b36-18f5012028ed
 price:
   cents: 2495
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 69.99
 slug: jack-jones-cargo-broek
-soldOut: false
-start: '2025-12-20T23:00:00.000Z'
+soldOut: true
+start: '2025-12-22T23:00:00.000Z'
 title: Jack & Jones Cargo Broek

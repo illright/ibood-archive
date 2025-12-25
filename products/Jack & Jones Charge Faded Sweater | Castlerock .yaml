@@ -1,32 +1,30 @@
-_id: 6943f13b14898729ea8c232a
+_id: 6942b14b8d47ca9bb54b3b79
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - af4da389-541c-5027-b941-2b43873bc5e5
-classicId: '2889999'
-classicProductId: '669756'
+  - 95ad4cd8-1d4e-5ff4-a778-9bf99243f1bd
+classicId: '2888174'
+classicProductId: '669753'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 67
-end: '2025-12-24T22:59:59.999Z'
+end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: be2048b1-fd3d-42ad-ba1b-1d0daaa1346b
+id: a5586545-6741-4828-85f1-fef3d53b6356
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
-  extension: image/png
-  id: c2441cac-e770-4952-889f-dae24277492f-tr
+  extension: image/jpeg
+  id: c2441cac-e770-4952-889f-dae24277492f
   priority: 0
   slug: xl-castlerock-12268273-jjecharge-faded-sweat-crew-neck-noos-jack-and-jones-essentials-product-3
   type: product
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 526aced5-4a0c-4400-aad8-837e23ee7740
+offerId: 4a9f0559-3ec6-44fb-a432-674b37acbe15
 price:
-  cents: 995
+  cents: 1000
   currency: EUR
-  value: 9.95
+  value: 10
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: jack-jones-charge-faded-sweater-castlerock
-soldOut: true
-start: '2025-12-20T23:00:00.000Z'
+soldOut: false
+start: '2025-12-17T23:00:00.000Z'
 title: 'Jack & Jones Charge Faded Sweater | Castlerock '

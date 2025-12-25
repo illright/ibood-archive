@@ -1,22 +1,22 @@
-_id: 6943f126a999d4d93e9b8d01
+_id: 6942b1df101eecb919b3cf68
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - af4da389-541c-5027-b941-2b43873bc5e5
-classicId: '2889988'
-classicProductId: '602028'
+  - f913f484-2009-5208-90e5-78640dc8441e
+classicId: '2888314'
+classicProductId: '602032'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 64
-end: '2025-12-24T22:59:59.999Z'
+directCheckout: false
+discount: 71
+end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: 594c8bde-cc5f-4bfd-9b01-c731a9e56bbe
+id: 66817f1a-4b10-4126-9b95-2638541d1dd9
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 7fb026a4-01d0-464c-9fa2-80de7484cc49
+offerId: 24599672-209e-414a-b0d1-a6a566d8f3a0
 price:
-  cents: 2495
+  cents: 2000
   currency: EUR
-  value: 24.95
+  value: 20
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: jack-jones-hace-tucker-cargobroek
-soldOut: true
-start: '2025-12-20T23:00:00.000Z'
+soldOut: false
+start: '2025-12-17T23:00:00.000Z'
 title: Jack & Jones Studio Ace Tucker Cargobroek | Heren

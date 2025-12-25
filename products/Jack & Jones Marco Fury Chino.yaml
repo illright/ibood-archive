@@ -1,22 +1,22 @@
-_id: 6943f129a999d4d93e9b8d09
+_id: 6942b34c4240135da3331cf5
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - af4da389-541c-5027-b941-2b43873bc5e5
-classicId: '2889995'
-classicProductId: '653948'
+  - f913f484-2009-5208-90e5-78640dc8441e
+classicId: '2888536'
+classicProductId: '653930'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 75
-end: '2025-12-24T22:59:59.999Z'
+directCheckout: false
+discount: 50
+end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: 5aabd1a2-c6da-4499-ae14-706855e6a9ca
+id: 7fb45502-5408-4c82-bd03-9ca5a4cfacc4
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 9a310393-87fa-459f-9f10-adb1c9a9958d
+offerId: d5b9debe-42b1-426c-9d1b-627c5e7c29f2
 price:
-  cents: 1495
+  cents: 2995
   currency: EUR
-  value: 14.95
+  value: 29.95
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: jack-jones-marco-fury-chino
-soldOut: true
-start: '2025-12-20T23:00:00.000Z'
+soldOut: false
+start: '2025-12-17T23:00:00.000Z'
 title: Jack & Jones Marco Fury Chino

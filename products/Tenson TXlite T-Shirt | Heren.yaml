@@ -1,4 +1,4 @@
-_id: 6941642147465c26520a025a
+_id: 6941640ca35fc5677b25dd9c
 appOnly: false
 brand: TENSON
 brands:
@@ -6,17 +6,17 @@ brands:
     name: TENSON
 categories:
   - 8343df92-df76-5c49-aeb9-bd6f4bf7c647
-classicId: '2885630'
-classicProductId: '626060'
+classicId: '2885615'
+classicProductId: '654743'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 71
+directCheckout: true
+discount: 79
 end: '2025-12-31T22:59:59.999Z'
 freeDelivery: false
-id: 6e513bf8-7dd8-4f85-b14c-165feb529737
+id: fd393413-08c8-44e3-afa2-7a39c6277a0c
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5ee0e390-606c-4027-be70-b9215ec38620
+  id: 975cdd0e-d794-415b-a504-a61c700e9737
   priority: 0
-  slug: txlite-tee-men-tenson-product-15
+  slug: tenson-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: e31d8d79-9d9c-41a6-ab09-f39fa0240628
+offerId: 01460bc4-b640-4a1f-b2d8-d4bcccc5a82f
 price:
-  cents: 1000
+  cents: 750
   currency: EUR
-  value: 10
+  value: 7.5
 referencePrice:
-  cents: 3495
+  cents: 3500
   currency: EUR
-  value: 34.95
+  value: 35
 slug: tenson-txlite-t-shirt
-soldOut: false
+soldOut: true
 start: '2025-12-22T23:00:00.000Z'
 title: Tenson TXlite T-Shirt | Heren

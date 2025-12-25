@@ -1,32 +1,30 @@
-_id: 6943f12a14898729ea8c2323
+_id: 694946516bb825ed8e920e08
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - af4da389-541c-5027-b941-2b43873bc5e5
-classicId: '2889993'
-classicProductId: '653145'
+  - 97fbdc29-ad6f-5483-89b6-0d1c097b021c
+classicId: '2897202'
+classicProductId: '653143'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 62
-end: '2025-12-24T22:59:59.999Z'
+directCheckout: false
+discount: 73
+end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: 51a04186-0d1f-4317-b91b-4a9d898f4c79
+id: a9c1ab0d-6004-4951-90d0-1a680b886b67
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
-  extension: image/png
-  id: ec89fe5d-574c-49af-bf3f-3c4575fde5a0-tr
+  extension: image/jpeg
+  id: ec89fe5d-574c-49af-bf3f-3c4575fde5a0
   priority: 0
   slug: l-black-12283584-jwhbrady-long-puffer-jack-jones-product-0
   type: product
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: aa003aad-a45e-4168-b122-3a69726380b1
+offerId: eba1210e-df59-4802-8677-e9f48a7fd482
 price:
-  cents: 4995
+  cents: 3500
   currency: EUR
-  value: 49.95
+  value: 35
 referencePrice:
   cents: 12999
   currency: EUR
   value: 129.99
 slug: jack-jones-brady-jas-heren
-soldOut: true
-start: '2025-12-20T23:00:00.000Z'
+soldOut: false
+start: '2025-12-22T23:00:00.000Z'
 title: Jack & Jones Brady Jas | Heren

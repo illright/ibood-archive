@@ -1,4 +1,4 @@
-_id: 693fe0f71c05398b4844cc85
+_id: 692ee82ca46fe9ba2c1b452d
 appOnly: false
 brand: House Nordic
 brands:
@@ -6,46 +6,50 @@ brands:
     name: House Nordic
 categories:
   - f1b7c114-c864-5114-8123-4dbebfb77529
-classicId: '2882086'
-classicProductId: '597716'
+classicId: '2850801'
+classicProductId: '682572'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 64
+discount: 41
 end: '2025-12-28T22:59:59.999Z'
 freeDelivery: false
-id: f1152175-d3db-5451-be5f-5ebdf2c74f23
+id: aa349a35-72ea-5f82-92db-6be85c6f1dd4
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 2071468
+  extension: image/png
+  id: 7b12b6b1-72ea-4ae3-aa9a-2514468c3f95-tr
   priority: 0
-  slug: 2x-house-nordic-stockholm-eetkamerstoel
+  slug: 1001132-house-nordic-duopack-stockholm-dining-chair-stone-black-hn1231-product-3
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1644555
-  priority: 100
-  slug: house-nordic-logo
+    - all
+  extension: image/png
+  id: a9ee6e58-ddf5-4749-9629-3afe09af7d07
+  priority: 0
+  slug: house-nordic-logo-png-logo-0
   type: logo
-offerId: 09c93cb8-a4d0-5150-a613-a2a240f8bdae
+offerId: a0a8944e-7158-58fa-9cd1-b86d242c541a
 price:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 referencePrice:
-  cents: 25000
+  cents: 13495
   currency: EUR
-  value: 250
+  value: 134.95
 slug: 2x-house-nordic-stockholm-eetkamerstoel
 soldOut: false
 start: '2025-12-21T23:00:00.000Z'
