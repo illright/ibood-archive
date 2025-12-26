@@ -1,4 +1,4 @@
-_id: 694a5e12833bc1954525075a
+_id: 694a5e06d8ccaab515cf6109
 appOnly: false
 brand: Bloomfold
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Bloomfold
 categories:
   - 724ba1c5-e61b-59ba-a893-4edf27cec490
-classicId: '2899503'
-classicProductId: '633872'
+classicId: '2899487'
+classicProductId: '633873'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,17 +16,16 @@ directCheckout: true
 discount: 54
 end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 05e580de-21eb-4611-b86c-dc2018baecd1
+id: d3e9ae7f-f0c8-47ab-8ac7-ae8c062e0a0b
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fe80d37e-422b-4476-ad80-0cf8b857b3fa
-  priority: 0
-  slug: ventila-png-product-101
+  extension: jpg
+  id: 2224267
+  priority: 100
+  slug: bloomfold-airflow-turmventilator-38-zoll-grau
   type: product
 logo:
   channels:
@@ -39,7 +38,7 @@ logo:
   priority: 0
   slug: bloomfold-logo-0
   type: logo
-offerId: d9640b01-a920-48e3-bfad-9194596b21b0
+offerId: baf44be6-6b13-4fd1-88d3-879b66bf5051
 price:
   cents: 5995
   currency: EUR

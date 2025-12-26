@@ -1,4 +1,4 @@
-_id: 69494559dedaaf77e57b6389
+_id: 6949456d39ce40126ef223ac
 appOnly: false
 brand: Greve
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Greve
 categories:
   - 4fe7ddfd-dcd6-53a8-9e9d-9b0630bcc25c
-classicId: '2896977'
-classicProductId: '606381'
+classicId: '2896976'
+classicProductId: '606366'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 63
+discount: 61
 end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: 9130f71f-6e27-466a-a927-e4d4e984eeef
+id: f39e8673-cbf8-485c-9e0d-be33d05d4cc0
 image:
   channels:
     - app
@@ -24,29 +24,30 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5246fcc9-ad50-45e6-a603-b76c9e82335b
+  id: 5ef2c523-c114-4bfd-a54a-a85d89b43116
   priority: 0
-  slug: greve-elba-loafers-product-12
+  slug: customo-ean-202-product-3
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1912813
-  priority: 100
-  slug: greve-logo
+    - all
+  extension: image/png
+  id: 9c9a697b-2e32-474c-a6cc-ea88b9637148
+  priority: 0
+  slug: customo-ean-202-logo-0
   type: logo
-offerId: 93b4a412-5f54-443c-9c8a-e9f74634a7ad
+offerId: 290c2f1c-f5c6-4559-be37-efc24b0a4ed2
 price:
   cents: 6995
   currency: EUR
   value: 69.95
 referencePrice:
-  cents: 19000
+  cents: 18000
   currency: EUR
-  value: 190
+  value: 180
 slug: greve-elba-loafers
 soldOut: false
 start: '2025-12-22T23:00:00.000Z'

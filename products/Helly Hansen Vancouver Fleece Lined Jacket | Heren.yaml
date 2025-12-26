@@ -1,22 +1,22 @@
-_id: 69490950a6fc605693260c6c
+_id: 6941640d15c40993e01fa3b1
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - e5a22950-f020-50ff-96cf-50de2bf72541
-classicId: '2893840'
-classicProductId: '574271'
+  - 8343df92-df76-5c49-aeb9-bd6f4bf7c647
+classicId: '2885623'
+classicProductId: '574270'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 53
-end: '2025-12-29T22:59:59.999Z'
+directCheckout: true
+discount: 57
+end: '2025-12-31T22:59:59.999Z'
 freeDelivery: false
-id: ebbed4e3-7350-4be8-8880-8f893c4ebed0
+id: 579995df-8f91-4abc-9722-233097b02d18
 image:
   channels:
     - app
@@ -28,11 +28,21 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 5aa7c8a4-053c-4c6c-8e88-42a420ddd729
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
+  type: logo
+offerId: 16ca2867-7169-4e57-8f97-d86d090dc328
 price:
-  cents: 6995
+  cents: 6500
   currency: EUR
-  value: 69.95
+  value: 65
 referencePrice:
   cents: 15000
   currency: EUR
