@@ -1,54 +1,52 @@
-_id: 694945d66495b64273e9a078
+_id: 6949567339ce40126ef22722
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 97fbdc29-ad6f-5483-89b6-0d1c097b021c
-classicId: '2897053'
-classicProductId: '657353'
+  - ba84e4b0-663d-5ca1-aed2-936458bcbf9a
+classicId: '2898068'
+classicProductId: '563734'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 56
-end: '2026-01-04T22:59:59.999Z'
+discount: 58
+end: '2026-01-05T22:59:59.000Z'
 freeDelivery: false
-id: 4a619f19-b61a-4e82-bc85-0c5e3863c1a6
+id: 72812865-e3b4-48dc-8507-89bae04b31e1
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 17190099-5527-4f6a-9ff5-cb480cdcaa73
+  extension: png
+  id: 1910839
   priority: 0
-  slug: main-trunk-png-product-1
+  slug: 6x-lacoste-trunk
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 966ba350-dd7e-4633-b208-1f08bdc93977
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: a899f70c-522d-444d-96e2-5dc48eeb08f2
+offerId: 5a998435-350e-43ab-be72-68e830394127
 price:
   cents: 4000
   currency: EUR
   value: 40
 referencePrice:
-  cents: 9000
+  cents: 9495
   currency: EUR
-  value: 90
-slug: 6x-lacoste-trunk-heren
+  value: 94.95
+slug: 6x-lacoste-trunk
 soldOut: false
 start: '2025-12-22T23:00:00.000Z'
 title: 6x Lacoste Trunk | Heren
