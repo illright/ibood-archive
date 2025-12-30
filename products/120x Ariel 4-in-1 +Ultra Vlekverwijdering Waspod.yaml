@@ -1,22 +1,22 @@
-_id: 6949630ddedaaf77e57b6748
+_id: 6952484e58ec0c3cfe96c9a7
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 34a53741-17f5-5022-ba48-4d0f805634f0
-classicId: '2898169'
+  - f41d4847-016d-527f-ad15-f5466500d1c5
+classicId: '2906205'
 classicProductId: '663389'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 78
-end: '2025-12-29T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 400e795f-524e-450e-928b-1b7ececaac7c
+id: fcd1d7fc-e3d4-4333-8176-0e3807140238
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5e4819cf-ef71-4bdb-93ef-28ae883fe15e
+  id: 467289e6-e1b5-420d-8952-f636a6d0bfbd
   priority: 0
-  slug: ariel-main-png-product-1
+  slug: aroel002-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: ariel-logo
   type: logo
-offerId: 65715c1f-5247-4751-8996-f001de5f6c2c
+offerId: f76cca80-18f6-49d6-8669-f37e8f394c6c
 price:
   cents: 2795
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 127.98
 slug: 120x-ariel-4-in-1-ultra-vlekverwijdering-waspod
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 120x Ariel 4-in-1 +Ultra Vlekverwijdering Waspod

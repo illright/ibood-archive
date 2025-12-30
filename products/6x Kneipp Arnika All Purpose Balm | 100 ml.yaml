@@ -1,12 +1,12 @@
-_id: 693bf098b514ba59700eaff2
+_id: 69524942cafd61b7119c45fe
 appOnly: false
 brand: Kneipp
 brands:
   - id: 245a04d2-57d4-57cb-9862-42e7828e14d7
     name: Kneipp
 categories:
-  - edffefd6-b233-5f30-a1d1-6e56d931637d
-classicId: '2876828'
+  - f41d4847-016d-527f-ad15-f5466500d1c5
+classicId: '2906544'
 classicProductId: '684066'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2025-12-29T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 91eb59da-513b-5136-8382-241ca345ebb6
+id: f11f0c6a-899e-4323-8e49-37925762516f
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: df8e0ae9-bc14-4836-85e5-097ca4aa4dd1
-  priority: 0
-  slug: kneipp-logo-png-logo-0
+  extension: png
+  id: 1912761
+  priority: 100
+  slug: kneipp-logo
   type: logo
-offerId: 7e6ce665-8593-504c-9cbe-0d40d6fbe2b3
+offerId: 72010c89-6395-4f81-9b56-865f8387479c
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 77.94
 slug: 6x-kneipp-arnika-all-purpose-balm-100-ml
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 6x Kneipp Arnika All Purpose Balm | 100 ml

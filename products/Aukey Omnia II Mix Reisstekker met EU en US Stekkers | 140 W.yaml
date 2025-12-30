@@ -1,36 +1,44 @@
-_id: 69427887c9f3ccf364156faa
+_id: 6952760df1a5907ea4de43b9
 appOnly: false
 brand: Aukey
 brands:
   - id: 016168b6-88aa-528f-86d2-4cf9906503c3
     name: Aukey
 categories:
-  - c92bc029-7e8d-5cfa-8b10-f591a5953c3e
-classicId: '2887064'
-classicProductId: '649830'
+  - b8471ef4-b324-5213-aa4a-b3273200ad9c
+classicId: '2907428'
+classicProductId: '602758'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 78
 end: '2026-01-05T22:59:59.999Z'
 freeDelivery: false
-id: f9b9bd62-8f40-4e25-a782-c24bfef02fe7
+id: a574e392-4be8-4b84-a496-abdb5c2a7cdf
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: b35ff1cd-3c75-4a8c-b36b-751393f9f40e-tr
+  id: 0db9f8d5-230c-4952-b7d7-e2aad557981a
   priority: 0
-  slug: chargernino2-png-product-1
+  slug: chargerino-png-product-1
   type: product
-offerId: fcd97e61-3cb1-4da5-b7cf-32c163817fc1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2087613
+  priority: 100
+  slug: aukey-pa-b7o-omnia-ii-mix-wandladegerat-140-w
+  type: logo
+offerId: c82609d9-9dba-41a6-8e41-e076cc43afb5
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +49,5 @@ referencePrice:
   value: 89.99
 slug: aukey-omnia-ii-mix-reisstekker-140-w
 soldOut: false
-start: '2025-12-17T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: Aukey Omnia II Mix Reisstekker met EU en US Stekkers | 140 W

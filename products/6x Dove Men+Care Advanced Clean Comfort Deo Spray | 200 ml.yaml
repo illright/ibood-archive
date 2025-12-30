@@ -1,12 +1,12 @@
-_id: 69496891ec85643515a07801
+_id: 695248ca7b61551d13e550cf
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - edffefd6-b233-5f30-a1d1-6e56d931637d
-classicId: '2898632'
+  - f41d4847-016d-527f-ad15-f5466500d1c5
+classicId: '2906377'
 classicProductId: '683676'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2025-12-29T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: c94dbee3-b86f-464a-a21b-70d6d266daed
+id: 4e96ed6d-e194-4d71-97ad-41189776c161
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e2e884df-c179-49cb-bba5-0b42c6cf5c7a
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: 91d34a28-2289-43ba-8d95-1bbaa5d31de7
+offerId: d8de7823-8c17-46ae-a1c1-72172a026970
 price:
   cents: 1795
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 41.94
 slug: 6x-dove-men-care-advanced-clean-comfort-deo-spray-200-ml
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 6x Dove Men+Care Advanced Clean Comfort Deo Spray | 200 ml

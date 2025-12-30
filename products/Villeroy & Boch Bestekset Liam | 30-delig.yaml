@@ -19,13 +19,14 @@ freeDelivery: false
 id: 3d333628-16d3-5221-ac0a-07b635058a88
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 608751
+    - all
+  extension: image/jpeg
+  id: 0553138c-d5af-4a82-bb26-29565b0de0fd
   priority: 0
-  slug: villeroy-boch-besteckset-30-tlg
+  slug: villeroy-boch-besteckset-30-tlg-jpg-product-1
   type: product
 logo:
   channels:

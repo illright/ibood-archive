@@ -1,12 +1,12 @@
-_id: 69427908679882a4a8a56f22
+_id: 6952764c1ced38ce9f65de13
 appOnly: false
 brand: NIKON
 brands:
   - id: 0b87f7db-76eb-5b53-9880-acfea350400c
     name: NIKON
 categories:
-  - c92bc029-7e8d-5cfa-8b10-f591a5953c3e
-classicId: '2887220'
+  - 218275b6-cce1-57ad-ae60-2eb42c32536d
+classicId: '2907502'
 classicProductId: '677034'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 29
 end: '2026-01-05T22:59:59.999Z'
 freeDelivery: false
-id: 4df42702-8879-4950-a7da-1260d120010f
+id: f2e3f729-a754-458d-b437-d5fb423b4dc9
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: nikon-z9-body-black-product-0
   type: product
-offerId: 91fdb96b-7f4d-4ebb-b8fb-edaf6209d1a6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 15116699-6802-4f07-85a5-b079443ef738
+  priority: 0
+  slug: nikon-logo-0
+  type: logo
+offerId: 5eaed3f9-a222-4d05-b5e8-d3f7d4683459
 price:
   cents: 449900
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 6299
 slug: nikon-z9-systeemcamera-body
 soldOut: false
-start: '2025-12-17T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: Nikon Z9 Systeemcamera Body

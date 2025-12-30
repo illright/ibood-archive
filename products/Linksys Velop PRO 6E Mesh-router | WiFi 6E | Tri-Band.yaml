@@ -1,12 +1,12 @@
-_id: 694278bf719280d4abe8e35b
+_id: 6952763b1ced38ce9f65ddde
 appOnly: false
 brand: Linksys
 brands:
   - id: 96c0aa94-096f-5eee-a811-7f1aba61aa52
     name: Linksys
 categories:
-  - c92bc029-7e8d-5cfa-8b10-f591a5953c3e
-classicId: '2887113'
+  - 218275b6-cce1-57ad-ae60-2eb42c32536d
+classicId: '2907483'
 classicProductId: '674391'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 60
 end: '2026-01-05T22:59:59.999Z'
 freeDelivery: false
-id: a58d9970-5184-4925-a03b-5759a2925df4
+id: 0f531f12-9359-463a-b78a-3ee6c40653c9
 image:
   channels:
     - newsletter
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: linksys-velop-pro-wifi-6e-mesh-system-1-pack-product-1-avif-product-1-png-product-1
   type: product
-offerId: bf415c42-1ade-4abe-9835-072a3339827e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1684192
+  priority: 100
+  slug: linksys-logo
+  type: logo
+offerId: ab428ebe-db2d-4729-a83c-ec415311a4aa
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 199.99
 slug: linksys-velop-pro-wifi-6e-mesh-system-1-pack
 soldOut: false
-start: '2025-12-17T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: Linksys Velop PRO 6E Mesh-router | WiFi 6E | Tri-Band

@@ -1,13 +1,15 @@
-_id: 694278fedd9a67164cfdb112
+_id: 69527629f1a5907ea4de43e6
 appOnly: false
-brand: Apple
+brand: Apple | Nedis
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
+  - id: f943c954-33f5-50b5-93a3-05ac31c2ab7b
+    name: Nedis
 categories:
-  - c92bc029-7e8d-5cfa-8b10-f591a5953c3e
-classicId: '2887207'
-classicProductId: '665100'
+  - 218275b6-cce1-57ad-ae60-2eb42c32536d
+classicId: '2907450'
+classicProductId: '685046'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,7 +18,7 @@ directCheckout: true
 discount: 51
 end: '2026-01-05T22:59:59.999Z'
 freeDelivery: false
-id: b7ce6567-04f8-4e0f-8c5d-f24cfcfd11e7
+id: 3873599b-cf66-4466-9338-45cbdfc77768
 image:
   channels:
     - app
@@ -24,9 +26,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d1f7081d-4497-4323-bd4b-dc1ec1fbca5c
+  id: 16e10852-d584-42ad-a419-b16d086d10f9
   priority: 0
-  slug: mac-studio-main-2-png-product-1
+  slug: 12-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: e8074b8c-5198-4575-a3fa-a73ed9ecafdb
+offerId: 1fc40d1a-8339-461d-9176-649f4027f731
 price:
   cents: 119900
   currency: EUR
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 2429
 slug: apple-mac-studio-m2-max-12-core-cpu-30-core-gpu-32-gb-512gb
-soldOut: true
-start: '2025-12-17T23:00:00.000Z'
+soldOut: false
+start: '2025-12-29T23:00:00.000Z'
 title: Apple Mac Studio M2 Max | 12-Core CPU | 30-Core GPU | 32GB | 512GB | 2023

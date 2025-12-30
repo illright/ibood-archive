@@ -1,12 +1,12 @@
-_id: 6949637e39ce40126ef2288e
+_id: 69524a34671c18a767141820
 appOnly: false
 brand: Sun
 brands:
   - id: 91944e44-87f4-5fd2-b3a7-b70ba1671bdf
     name: Sun
 categories:
-  - 34a53741-17f5-5022-ba48-4d0f805634f0
-classicId: '2898316'
+  - f41d4847-016d-527f-ad15-f5466500d1c5
+classicId: '2906807'
 classicProductId: '667426'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2025-12-29T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 3deab46f-ffea-4c83-84b8-6cd9d5a886a7
+id: c6a42fe4-a0bd-4e17-bfa4-73da7b8d2303
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1757160
-  priority: 100
-  slug: sun-logo
+    - all
+  extension: image/png
+  id: 60df51e2-f63e-4f53-b7fb-0502a89d078b
+  priority: 0
+  slug: sun-logo-0
   type: logo
-offerId: 40743686-b2b5-447f-8db4-1a67e84df119
+offerId: 11c736b5-239a-4524-bac2-1b408771d0b8
 price:
   cents: 4195
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 105.34
 slug: 224x-sun-brilliant-shine-all-in-1-vaatwascapsule
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 224x Sun Brilliant Shine All-in-1 Vaatwascapsule

@@ -1,12 +1,12 @@
-_id: 694160cf1a4237625dee7acc
+_id: 69524a3758ec0c3cfe96cc08
 appOnly: false
 brand: Sun
 brands:
   - id: 91944e44-87f4-5fd2-b3a7-b70ba1671bdf
     name: Sun
 categories:
-  - 34a53741-17f5-5022-ba48-4d0f805634f0
-classicId: '2885505'
+  - f41d4847-016d-527f-ad15-f5466500d1c5
+classicId: '2906808'
 classicProductId: '684521'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2025-12-29T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: e92cf20b-2d2c-5517-8f91-9ec7bdad4366
+id: ae11900a-a919-4c1c-939d-30159bfc77f2
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1757160
-  priority: 100
-  slug: sun-logo
+    - all
+  extension: image/png
+  id: 60df51e2-f63e-4f53-b7fb-0502a89d078b
+  priority: 0
+  slug: sun-logo-0
   type: logo
-offerId: 6bbf09db-2156-5a0f-9bf0-32cbe760830a
+offerId: f93c1c61-e6a5-43ee-bc11-0adff7b24c9e
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: 160x-sun-expert-plus-all-in-1-vaatwastablet
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 160x Sun Expert Plus All-in-1 Vaatwastablet

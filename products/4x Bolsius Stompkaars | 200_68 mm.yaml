@@ -1,12 +1,12 @@
-_id: 69416aa247465c26520a033c
+_id: 6952488b58ec0c3cfe96ca1c
 appOnly: false
 brand: Bolsius
 brands:
   - id: 96ec547b-ffbd-5fc2-b03f-f14679a99f8d
     name: Bolsius
 categories:
-  - 34a53741-17f5-5022-ba48-4d0f805634f0
-classicId: '2886264'
+  - f41d4847-016d-527f-ad15-f5466500d1c5
+classicId: '2906280'
 classicProductId: '684563'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 30
-end: '2025-12-29T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 76d30264-ffbc-51f5-aafb-2f18136cb864
+id: 27ce323d-1b74-41ce-ae1d-bb584bcfff52
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f36d165c-62ea-41d7-8489-3138c342b773
-  priority: 0
-  slug: bolsius-png-logo-0
+  extension: png
+  id: 1580436
+  priority: 100
+  slug: bolsius-logo
   type: logo
-offerId: 9cd95799-d6c1-54c6-8274-004756584725
+offerId: cafe3ba9-6987-469f-9791-39ac449419e1
 price:
   cents: 1395
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 19.96
 slug: 4x-bolsius-stompkaars-200-68-mm
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 4x Bolsius Stompkaars | 200/68 mm

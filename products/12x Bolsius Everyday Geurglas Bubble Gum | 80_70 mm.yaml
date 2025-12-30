@@ -1,12 +1,12 @@
-_id: 6941682c47465c26520a030e
+_id: 695248927b61551d13e5501c
 appOnly: false
 brand: Bolsius
 brands:
   - id: 96ec547b-ffbd-5fc2-b03f-f14679a99f8d
     name: Bolsius
 categories:
-  - 34a53741-17f5-5022-ba48-4d0f805634f0
-classicId: '2886235'
+  - f41d4847-016d-527f-ad15-f5466500d1c5
+classicId: '2906294'
 classicProductId: '684566'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2025-12-29T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 5b77051a-507c-57a7-9ede-693730549621
+id: 6b76e42f-f5d5-484a-b1e1-fd23795eac6a
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2518c6f7-2583-4707-b631-afbb90c159de
-  priority: 0
-  slug: bolsius-png-logo-0
+  extension: png
+  id: 1580436
+  priority: 100
+  slug: bolsius-logo
   type: logo
-offerId: 5e2b1c63-30f5-537f-8f37-9b01ba5eb5ee
+offerId: e47657b8-8744-4619-8265-0d1d69fb5233
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 29.88
 slug: 12x-bolsius-everyday-geurglas-bubble-gum-80-70-mm
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 12x Bolsius Everyday Geurglas Bubble Gum | 80/70 mm

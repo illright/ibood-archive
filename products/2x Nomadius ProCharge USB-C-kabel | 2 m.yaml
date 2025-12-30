@@ -1,12 +1,12 @@
-_id: 694278c3719280d4abe8e367
+_id: 695276813a81d63dc714e901
 appOnly: false
 brand: Nomadius
 brands:
   - id: f578ce69-5592-5a05-82cd-b857800efd98
     name: Nomadius
 categories:
-  - c92bc029-7e8d-5cfa-8b10-f591a5953c3e
-classicId: '2887124'
+  - 218275b6-cce1-57ad-ae60-2eb42c32536d
+classicId: '2907588'
 classicProductId: '678973'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 50
 end: '2026-01-05T22:59:59.999Z'
 freeDelivery: false
-id: c8a41e95-9f0b-4a24-bfdd-c58330940842
+id: c8369724-7ecd-42b1-8d05-21a3d809dd0c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: untitled-2-png-product-1
   type: product
-offerId: d02e640e-5ded-4b1f-a11d-1901d2fbda23
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e632d3c2-979d-4da6-b853-63260d887732
+  priority: 0
+  slug: nomadius-logo-0
+  type: logo
+offerId: f56c5040-ec8c-4827-8c6a-95a540d1017b
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.95
 slug: 2x-nomadius-procharge-usb-c-kabel-2-m
 soldOut: false
-start: '2025-12-17T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 2x Nomadius ProCharge USB-C-kabel | 2 m

@@ -1,12 +1,12 @@
-_id: 69416aa29d4c8ac0de532335
+_id: 695248967b61551d13e5502d
 appOnly: false
 brand: Bolsius
 brands:
   - id: 96ec547b-ffbd-5fc2-b03f-f14679a99f8d
     name: Bolsius
 categories:
-  - 34a53741-17f5-5022-ba48-4d0f805634f0
-classicId: '2886260'
+  - f41d4847-016d-527f-ad15-f5466500d1c5
+classicId: '2906298'
 classicProductId: '684562'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2025-12-29T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 4a0db79e-b435-59e1-9ad2-cc2d2269121f
+id: 752703e1-f27a-4d51-892a-fbb512d9467b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 97e85ffc-9045-4166-be9e-17d2c9324cbf
-  priority: 0
-  slug: bolsius-png-logo-0
+  extension: png
+  id: 1580436
+  priority: 100
+  slug: bolsius-logo
   type: logo
-offerId: ce9d54ca-1488-576a-97d2-8f2ae0d28b6e
+offerId: 89d39870-3e0d-40d5-982c-6ed153def44d
 price:
   cents: 995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 15.92
 slug: 8x-bolsius-stompkaars-80-58-mm
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2025-12-29T23:00:00.000Z'
 title: 8x Bolsius Stompkaars | 80/58 mm
