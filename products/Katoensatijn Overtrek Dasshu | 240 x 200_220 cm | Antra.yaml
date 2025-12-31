@@ -1,12 +1,12 @@
-_id: 694a6622699af98ee90885aa
+_id: 69527a9a1ced38ce9f65dfb8
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 8dbbca97-9dee-5224-b626-061e7e91854d
-classicId: '2901615'
+  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
+classicId: '2908071'
 classicProductId: '673209'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: a3640e51-d019-5808-836e-49f02c80b7a8
+id: 4eebd6ed-6360-4410-bb8e-d9cea89a9ae2
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: kay012538-kayori-dasshu-dbo-katoensatijn-240x200-220-antra-product-2
   type: product
-offerId: c2ac7177-5492-5945-b15c-ba2a1e2e275a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
+  type: logo
+offerId: ecec9a12-74bb-43a8-bda8-767164fee6fe
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 139.95
 slug: kayori-katoensatijn-overtrek-dasshu-240-x-200-220-cm-antra
 soldOut: false
-start: '2025-12-21T23:00:00.000Z'
+start: '2025-12-30T23:00:00.000Z'
 title: Katoensatijn Overtrek Dasshu | 240 x 200/220 cm | Antra

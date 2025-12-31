@@ -1,22 +1,22 @@
-_id: 694945f96bb825ed8e920dd2
+_id: 69494ca9dedaaf77e57b65d1
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 4fe7ddfd-dcd6-53a8-9e9d-9b0630bcc25c
-classicId: '2897103'
-classicProductId: '496696'
+  - 46fabe32-555d-5b11-8d6c-4b4970a01599
+classicId: '2897919'
+classicProductId: '513679'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 55
-end: '2026-01-04T22:59:59.999Z'
+end: '2026-01-05T22:59:59.000Z'
 freeDelivery: false
-id: d8fa2dda-bacf-4ea4-a19d-540539deb8e8
+id: db08e97b-51fa-4e83-a090-55240b47a1a0
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: delsey-logo
   type: logo
-offerId: 8006d71e-c50d-413b-ae9a-75dafd63e1dd
+offerId: be0a9a4d-02d8-44fa-be29-94eead3973d4
 price:
   cents: 7995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 179
 slug: delsey-air-armour-carry-on-s-slim-trolley
-soldOut: false
+soldOut: true
 start: '2025-12-22T23:00:00.000Z'
 title: Delsey Air Armour Carry-On S Slim Trolley | 55 cm

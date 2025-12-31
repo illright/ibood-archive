@@ -1,12 +1,12 @@
-_id: 694a6a70c7742c1d7c8f36e0
+_id: 69527a957b0f54a650fdb6b3
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 8dbbca97-9dee-5224-b626-061e7e91854d
-classicId: '2901746'
+  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
+classicId: '2908061'
 classicProductId: '673216'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 43d54e55-8b3f-58a3-bcd5-8aa444d67b08
+id: 54bfaa7f-f142-4fb7-95b2-de588f285e25
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: kay012523-kayori-dasshu-dbo-katoensatijn-260x200-220-blauw-product-2
   type: product
-offerId: 90b4eb3c-ffad-5286-840f-afe66620df49
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
+  type: logo
+offerId: f088eee3-56cb-4f40-ac90-fbd08beb3f8e
 price:
   cents: 5495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: kayori-katoensatijn-overtrek-dasshu-260-x-200-220-cm-blue
 soldOut: false
-start: '2025-12-21T23:00:00.000Z'
+start: '2025-12-30T23:00:00.000Z'
 title: Katoensatijn Overtrek Dasshu | 260 x 200/220 cm | Blue

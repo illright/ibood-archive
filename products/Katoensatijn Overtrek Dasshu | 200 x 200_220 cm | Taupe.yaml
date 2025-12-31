@@ -1,12 +1,12 @@
-_id: 694a6db5699af98ee90885f8
+_id: 69527a8e7b0f54a650fdb6a0
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 8dbbca97-9dee-5224-b626-061e7e91854d
-classicId: '2901764'
+  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
+classicId: '2908052'
 classicProductId: '673222'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: a261d044-69a3-5ae4-bbf9-c5ffd5293d1f
+id: f0734111-e068-4624-a52e-46c653f077f8
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: kay012533-kayori-dasshu-dbo-katoensatijn-200x200-220-taupe-product-3
   type: product
-offerId: 524a9ccc-8578-59f0-8e31-627a093ca5ef
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
+  type: logo
+offerId: e064a456-1416-450e-8e2a-5664b77416cc
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: kayori-katoensatijn-overtrek-dasshu-200-x-200-220-cm-taupe
 soldOut: false
-start: '2025-12-21T23:00:00.000Z'
+start: '2025-12-30T23:00:00.000Z'
 title: Katoensatijn Overtrek Dasshu | 200 x 200/220 cm | Taupe

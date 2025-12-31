@@ -1,12 +1,12 @@
-_id: 69454f7c4d7f2db6eadd3a21
+_id: 6952781c58ec0c3cfe96d30b
 appOnly: false
 brand: Emma Sleep
 brands:
   - id: 858c5e2a-cc67-5bb7-9658-9e59ca3ca2d2
     name: Emma Sleep
 categories:
-  - f80aa3d3-8904-5d80-a23e-40b3d5cd84be
-classicId: '2892700'
+  - 9bde6dfc-c88f-5560-b0d3-c46f9354059b
+classicId: '2907872'
 classicProductId: '645803'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 45
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 45a28056-6f25-4cce-8b4e-9b8ac394c4e6
+id: 783b4a5a-3462-401a-bef3-8a07667bb01b
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 1060a6a9-7592-4b94-837a-c927d8674441
-  priority: 0
-  slug: emma-22-lite-png-product-1
+  id: 5473bde8-47d1-4603-aa95-2d5e395b0312
+  priority: 1
+  slug: emma-03-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: emma-sleep-logo-0
   type: logo
-offerId: 568f717f-b1e4-44fc-9dee-5cd6c7699fed
+offerId: 4ff4c74a-f791-4ba1-a0af-ae847a085cd5
 price:
   cents: 19900
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 359
 slug: emma-sleep-22-lite-hybrid-matras-90-x-200-cm
 soldOut: false
-start: '2025-12-21T23:00:00.000Z'
+start: '2025-12-30T23:00:00.000Z'
 title: Emma Sleep 22 Lite Hybrid Matras | 90 x 200 cm

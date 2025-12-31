@@ -1,22 +1,22 @@
-_id: 694ba533540de3c7d29e1f41
+_id: 6952782458ec0c3cfe96d329
 appOnly: false
 brand: Sleeptime
 brands:
   - id: b48dcf3f-fb67-5daf-920d-c12d444b560e
     name: Sleeptime
 categories:
-  - f80aa3d3-8904-5d80-a23e-40b3d5cd84be
-classicId: '2904169'
-classicProductId: '671254'
+  - 9bde6dfc-c88f-5560-b0d3-c46f9354059b
+classicId: '2907882'
+classicProductId: '671249'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 83
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: ed0bd561-46fb-4737-9eb3-4c47a5e5d98f
+id: 416b3c55-22a6-48d0-9823-ea7aeb940906
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1524027
-  priority: 100
-  slug: sleeptime-logo
+    - all
+  extension: image/png
+  id: c62f588f-7dbd-4aa8-956b-1ab41c4a748f
+  priority: 0
+  slug: sleeptime-png-logo-0
   type: logo
-offerId: d5d866cd-78da-43ac-a07f-f72081f125ca
+offerId: cac6030d-bd40-4c59-a980-7b339301a3b3
 price:
   cents: 1895
   currency: EUR
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 109
 slug: sleeptime-dd-lazy-dekbed-240-x-200-cm
-soldOut: true
-start: '2025-12-21T23:00:00.000Z'
+soldOut: false
+start: '2025-12-30T23:00:00.000Z'
 title: DD Lazy Dekbed | 240 x 200 cm

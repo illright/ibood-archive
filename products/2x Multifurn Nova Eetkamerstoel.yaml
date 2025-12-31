@@ -1,12 +1,12 @@
-_id: 69454f2b4d7f2db6eadd393a
+_id: 695272cff1a5907ea4de428b
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - cb8b2ea0-391b-55cf-a7d1-62ebf0a41b7c
-classicId: '2892530'
+  - c3d00d8d-d381-51db-a495-fa6f6de60eb5
+classicId: '2907238'
 classicProductId: '568306'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 49
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 9df4dd9b-f9ab-414c-b738-047689d4803a
+id: c2379203-72ba-4e74-b772-47b51367a9b8
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f1fdff21-d17e-4929-8207-ae1286df0608
+  extension: png
+  id: 1932119
   priority: 0
-  slug: meubel-02-png-product-1
+  slug: 2x-multifurn-nova-eetkamerstoel
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1633646
+  id: 1932123
   priority: 100
-  slug: multifurn-logo
+  slug: 2x-multifurn-nova-eetkamerstoel
   type: logo
-offerId: 38bf984c-b874-4a20-9f31-6087a365f0d9
+offerId: 3420d5bd-b323-4885-8cd3-615bfa983cff
 price:
   cents: 19900
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 389
 slug: 2x-multifurn-nova-eetkamerstoel
 soldOut: false
-start: '2025-12-21T23:00:00.000Z'
+start: '2025-12-30T23:00:00.000Z'
 title: 2x Multifurn Nova Eetkamerstoel

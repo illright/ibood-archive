@@ -1,12 +1,12 @@
-_id: 694551f738211d04090ec788
+_id: 69527ac358ec0c3cfe96d545
 appOnly: false
 brand: Cinderella
 brands:
   - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
     name: Cinderella
 categories:
-  - 8dbbca97-9dee-5224-b626-061e7e91854d
-classicId: '2893136'
+  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
+classicId: '2908106'
 classicProductId: '683048'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 76
-end: '2025-12-30T22:59:59.999Z'
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 7acd1d56-f28a-4a9b-966b-d3eaf5c1f087
+id: 1e386084-4cb0-484e-9260-824c0ee6d8ff
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fe71396d-48a1-435e-9f89-a67ff7875d48
-  priority: 0
-  slug: cinderella-png-logo-0
+  extension: png
+  id: 1696595
+  priority: 100
+  slug: cinderella-logo
   type: logo
-offerId: 8254d874-e8d9-4f2a-a82b-0684d8b7e76e
+offerId: 94b4946a-4d77-4a3f-a5f4-83819c78a483
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 104.95
 slug: cinderella-weekend-badtextiel-set-handdoeken-washandjes-7-delig
 soldOut: false
-start: '2025-12-21T23:00:00.000Z'
+start: '2025-12-30T23:00:00.000Z'
 title: Cinderella Weekend Badtextiel-Set | Handdoeken + Washandjes | 7-delig

@@ -1,4 +1,4 @@
-_id: 6942b2b1de560632d4d913a3
+_id: 6942b2af9b7996b77fc55653
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Jack & Jones
 categories:
   - f913f484-2009-5208-90e5-78640dc8441e
-classicId: '2888449'
-classicProductId: '652606'
+classicId: '2888446'
+classicProductId: '652601'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 56
 end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: 85a8f068-06c4-49fb-91de-bb9631322aa1
+id: 71ec01de-f927-410e-8653-da7841aaa95d
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 1bb77626-580e-433c-98e3-aeebbe420c41
+  id: f334326d-761b-4341-a39f-bce4e0ee88a0
   priority: 0
-  slug: s-stormy-weather-12266161-jwhvesterbro-sweat-quarter-zip-hn-jack-and-jones-originals-product-0
+  slug: s-iron-gate-12266161-jwhvesterbro-sweat-quarter-zip-hn-jack-and-jones-originals-product-2
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 11344d12-55d8-40eb-86be-50aca9ccd43d
+offerId: a87f471b-a1fd-4975-88cf-07d4ef1ab8f5
 price:
   cents: 2000
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 44.99
 slug: jack-jones-originals-sweater
-soldOut: false
+soldOut: true
 start: '2025-12-17T23:00:00.000Z'
 title: Jack & Jones Originals Sweater

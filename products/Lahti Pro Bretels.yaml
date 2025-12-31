@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2662dcfc-c0eb-5091-a1ac-3f8fdad88aa2
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1075134
-  priority: 100
-  slug: lahti-pro-hosentrager
+  extension: image/png
+  id: 89acf07d-3479-449a-8ff2-3eeb06f1b50e-tr
+  priority: 0
+  slug: lahti-pro-hosentrager-jpg-product-1
   type: product
 logo:
   channels:

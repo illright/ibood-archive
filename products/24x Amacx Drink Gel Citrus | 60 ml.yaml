@@ -1,31 +1,32 @@
-_id: 6952482e58ec0c3cfe96c945
+_id: 6953a5c17ccf4f579515ecd8
 appOnly: false
 brand: Amacx
 brands:
   - id: 3d88b718-6e78-5d35-bd6e-1ffadeeaa033
     name: Amacx
 categories:
-  - f41d4847-016d-527f-ad15-f5466500d1c5
-classicId: '2906161'
-classicProductId: '575987'
+  - 790f7ab4-a7d7-5036-80f6-9d0191af0c83
+classicId: '2908627'
+classicProductId: '685773'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 46
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: false
+discount: 58
+end: '2025-12-31T22:59:59.999Z'
 freeDelivery: false
-id: adc5395c-6be3-4a34-aef5-312e8045f034
+id: f6ce1960-8500-5631-898d-0405b959f79d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1817153
+    - all
+  extension: image/png
+  id: 337f1a28-3c77-4b35-bb70-5271e87b12f4
   priority: 0
-  slug: 24x-amacx-trinkgel-zitrusfruchte
+  slug: amacx-07-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: amacx-logo
   type: logo
-offerId: 58e15a9f-7fde-4549-b42a-4d26666f16dd
+offerId: 6cfa87d9-11b0-5a9d-ba09-2256de8d949d
 price:
-  cents: 3795
+  cents: 2495
   currency: EUR
-  value: 37.95
+  value: 24.95
 referencePrice:
-  cents: 6990
+  cents: 5990
   currency: EUR
-  value: 69.9
+  value: 59.9
 slug: 24x-amacx-drink-gel-citrus-60-ml
 soldOut: false
-start: '2025-12-29T23:00:00.000Z'
+start: '2025-12-30T23:00:00.000Z'
 title: 24x Amacx Drink Gel Citrus | 60 ml

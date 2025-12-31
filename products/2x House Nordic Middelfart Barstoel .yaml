@@ -1,4 +1,4 @@
-_id: 69524cc67b61551d13e552e3
+_id: 69524ca3f1a5907ea4de4238
 appOnly: false
 brand: House Nordic
 brands:
@@ -6,8 +6,8 @@ brands:
     name: House Nordic
 categories:
   - dadc40a0-0fa8-525a-a0f8-43cf065001fb
-classicId: '2907137'
-classicProductId: '428797'
+classicId: '2907094'
+classicProductId: '664130'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 73
 end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: 0668a08f-7c56-41cf-b944-4d6b49a9a344
+id: bbd964ab-b02b-4599-bbd9-fd8b25bb7179
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1678631
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 3215193c-dfd0-4536-8803-b00474b56e3a-tr
   priority: 0
-  slug: 2x-house-nordic-middelfart-barstuhl
+  slug: dekbed-43-png-product-2
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: 40e98df9-9293-4846-835c-1aca39b19c2e
+offerId: f3911cbe-8898-4abd-ada7-cd46aba1a674
 price:
   cents: 9995
   currency: EUR
