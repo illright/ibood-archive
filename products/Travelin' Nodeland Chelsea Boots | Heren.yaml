@@ -1,32 +1,34 @@
-_id: 6952a0fea6ada68f374ee1ad
+_id: 694bdb07540de3c7d29e21de
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 48e2a139-b3bc-55a2-b3fc-0baa87990ff2
-classicId: '2908424'
-classicProductId: '676695'
+  - 241960b3-5033-55ae-a15d-0d845d91e5e0
+classicId: '2905463'
+classicProductId: '676693'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 59
-end: '2026-01-05T22:59:59.999Z'
+directCheckout: false
+discount: 64
+end: '2026-01-06T22:59:59.999Z'
 freeDelivery: false
-id: b3fd5965-81c7-45df-99a2-670492c254f1
+id: 6dd64b8b-40b1-52bf-93b7-604cfe9e7bc7
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 04d444bc-8fb8-42d8-a08c-de9b99d51e21
+  id: 4af41413-2e86-458d-b4a9-4583f076ea15-tr
   priority: 0
-  slug: travelin-52-png-product-1
+  slug: 45-dark-brown-tr-nodm-coldbr-siz45-boots-nodeland-men-travelin-product-8
   type: product
 logo:
   channels:
@@ -38,16 +40,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: ee2dbc37-7681-4f67-adb9-e72528992aa7
+offerId: 50176cb5-a68e-574e-a3c4-4ac13b9e08ba
 price:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 referencePrice:
   cents: 21995
   currency: EUR
   value: 219.95
 slug: travelin-nodeland-chelsea-boots-heren
 soldOut: false
-start: '2025-12-29T23:00:00.000Z'
+start: '2025-12-31T23:00:00.000Z'
 title: Travelin' Nodeland Chelsea Boots | Heren
