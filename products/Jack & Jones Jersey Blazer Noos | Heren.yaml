@@ -1,4 +1,4 @@
-_id: 69494a628f14a53d09837cb3
+_id: 69494a636bb825ed8e920eb7
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Jack & Jones
 categories:
   - 82258171-6c1b-586c-bc0a-a71fa66cd88d
-classicId: '2897754'
-classicProductId: '677966'
+classicId: '2897756'
+classicProductId: '677992'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2026-01-05T22:59:59.000Z'
 freeDelivery: false
-id: 275dfe28-d316-4778-aafa-011c8823aeee
+id: 487caec5-da50-4f33-aa74-2174c2e748ad
 image:
   channels:
     - app
@@ -24,29 +24,30 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 9ffb743d-45dc-4668-a6e0-08061c9dbd55
+  id: bf771b27-0c63-4baf-80ad-4888909a3098
   priority: 0
-  slug: 52-dark-navy-12290023-jprblaenzo-blazer-jersey-structure-noos-jack-and-jones-premium-product-4
+  slug: 56-dark-grey-melange-12264669-jprjaxon-jersey-blazer-noos-jack-and-jones-premium-product-4
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
+    - all
+  extension: image/png
+  id: 2c71a120-0636-4007-b903-8d5a91447ca7
+  priority: 0
+  slug: jack-jones-png-logo-0
   type: logo
-offerId: b129f45f-7e6d-4571-8f5a-41d111348f11
+offerId: 3192fe60-1373-4a9d-be2d-5944a0cf1858
 price:
-  cents: 3995
+  cents: 2995
   currency: EUR
-  value: 39.95
+  value: 29.95
 referencePrice:
-  cents: 7999
+  cents: 5999
   currency: EUR
-  value: 79.99
+  value: 59.99
 slug: jack-jones-jersey-blazer-noos-heren
 soldOut: true
 start: '2025-12-22T23:00:00.000Z'
