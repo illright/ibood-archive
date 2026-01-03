@@ -19,13 +19,14 @@ freeDelivery: false
 id: 666d15ba-5670-5012-95d1-9afc78c0148a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2283024
+    - all
+  extension: image/png
+  id: a65e0e0d-4638-47bc-8d4e-a79fb60a0afd
   priority: 0
-  slug: 12x-lenor-wasverzachter-sensitive-882-ml-504sc
+  slug: lenor-03-png-product-1
   type: product
 logo:
   channels:

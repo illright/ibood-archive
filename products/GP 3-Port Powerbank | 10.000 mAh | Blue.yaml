@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4487886f-ae26-4a80-ad05-61112501190e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2242175
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 032580d0-5301-40db-840c-1c5159efd546-tr
   priority: 0
-  slug: gp-3-port-powerbank-10000-mah
+  slug: gp-3-port-powerbank-10000-mah-jpg-product-1
   type: product
 logo:
   channels:

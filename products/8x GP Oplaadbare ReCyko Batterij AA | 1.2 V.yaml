@@ -19,13 +19,16 @@ freeDelivery: false
 id: 11629852-09bd-46e4-b8c0-0fabe0065ef8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1087503
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 772d3648-dc14-480b-bcd7-4dc466ff5023-tr
   priority: 0
-  slug: 8x-gp-recyko-aa-nimh-akku-12-v
+  slug: 8x-gp-recyko-aa-nimh-akku-12-v-jpg-product-1
   type: product
 logo:
   channels:

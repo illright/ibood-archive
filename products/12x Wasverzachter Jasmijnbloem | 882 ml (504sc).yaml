@@ -19,13 +19,14 @@ freeDelivery: false
 id: be3fa694-9ea3-557f-81fe-cb2d74fcefb1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2283025
+    - all
+  extension: image/png
+  id: 3b424d7a-6c2e-4435-9031-6f3b285254d4
   priority: 0
-  slug: 12x-wasverzachter-jasmijnbloem-882-ml-504sc
+  slug: lenor-01-png-product-1
   type: product
 logo:
   channels:

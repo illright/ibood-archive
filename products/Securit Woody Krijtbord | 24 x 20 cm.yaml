@@ -1,4 +1,4 @@
-_id: 693ab5f7554ec5a2528fc58f
+_id: 693ab5ee829cf7c6a6071617
 appOnly: false
 brand: Securit
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Securit
 categories:
   - df07dd1c-2d3b-5137-a8a8-6506488fe8d4
-classicId: '2875505'
-classicProductId: '210579'
+classicId: '2875499'
+classicProductId: '210577'
 deliveryPrice:
   cents: 395
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 55
 end: '2026-01-04T22:59:59.999Z'
 freeDelivery: false
-id: 1131edf8-0662-5d8f-bac8-c5b0a28337d5
+id: 7f8764aa-1efe-5698-86ec-cd88a4589604
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 529758
+  extension: image/png
+  id: b264a525-10fd-4e54-a8eb-7749234be7f5-tr
   priority: 0
-  slug: 2x-securit-kreidetafel-24-x-20-cm
+  slug: 2x-securit-kreidetafel-24-x-20-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: securit-logo
   type: logo
-offerId: 55eb45be-15c8-59df-891e-711e37c044b2
+offerId: 6df82ec8-8a92-54de-a4fb-54e5a50e5a6b
 price:
   cents: 995
   currency: EUR

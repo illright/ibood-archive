@@ -19,13 +19,16 @@ freeDelivery: false
 id: 54345e16-20d1-40b5-b044-d2b7037eab47
 image:
   channels:
-    - newsletter
-    - website
     - app
-  extension: png
-  id: 2087041
+    - website
+    - newsletter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5deb8d6e-bb26-49dd-9c22-4e01a6145b27-tr
   priority: 0
-  slug: 6x-robijn-wasmiddel-1-l
+  slug: 6x-robijn-wasmiddel-1-l-png-product-1
   type: product
 logo:
   channels:
