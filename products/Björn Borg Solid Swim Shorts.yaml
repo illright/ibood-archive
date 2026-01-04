@@ -1,4 +1,4 @@
-_id: 69529bc258ec0c3cfe96d678
+_id: 69529bfe86fab02414c15492
 appOnly: false
 brand: Björn Borg
 brands:
@@ -6,24 +6,24 @@ brands:
     name: Björn Borg
 categories:
   - 1459e12a-8194-5550-baf6-fc0a2ffb339e
-classicId: '2908251'
-classicProductId: '646312'
+classicId: '2908327'
+classicProductId: '646306'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 85
 end: '2026-01-05T22:59:59.999Z'
 freeDelivery: false
-id: 4ac63c3a-c39e-4818-bb38-f99652f9fa7c
+id: 6843509f-66a8-4afd-8db8-016220dd0bc0
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 2281728
+  id: 2281724
   priority: 100
   slug: bjorn-borg-solid-swim-shorts
   type: product
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: bjorn-borg-logo
   type: logo
-offerId: 281148e2-492d-4aba-bcca-d802ecb1157e
+offerId: 8e75ccd8-f343-42a1-8e1c-10eea982650a
 price:
   cents: 750
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: bjorn-borg-solid-swim-shorts
-soldOut: false
+soldOut: true
 start: '2025-12-29T23:00:00.000Z'
 title: Björn Borg Solid Swim Shorts

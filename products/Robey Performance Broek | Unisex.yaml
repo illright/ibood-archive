@@ -1,4 +1,4 @@
-_id: 69529c2c58ec0c3cfe96d778
+_id: 69529c2adf79ebc93bdd87ee
 appOnly: false
 brand: ROBEY
 brands:
@@ -6,17 +6,17 @@ brands:
     name: ROBEY
 categories:
   - 1459e12a-8194-5550-baf6-fc0a2ffb339e
-classicId: '2908383'
-classicProductId: '667060'
+classicId: '2908378'
+classicProductId: '563961'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 40
+discount: 74
 end: '2026-01-05T22:59:59.999Z'
 freeDelivery: false
-id: d376910a-2843-4ffa-99e7-98caa02b9df0
+id: 0bc59d90-18b0-4044-86cc-2b3073587c94
 image:
   channels:
     - app
@@ -24,30 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: e0134c4e-241c-4593-b9a4-d865847d276d
+  id: 63bef6b8-98e0-4b56-9dc9-21ffb524123c
   priority: 0
-  slug: xl-sand-108-rs2510-unisex-performance-pant-robey-product-0
+  slug: l-black-900-rs2510-unisex-performance-pant-robey-product-3
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1706266
-  priority: 100
-  slug: robey-logo
+    - all
+  extension: image/png
+  id: 5780b8a4-d96b-4b95-95ed-1203254af0f8
+  priority: 0
+  slug: robey-png-logo-0
   type: logo
-offerId: afe535a7-8cc2-4af8-8b72-cde32afecd1a
+offerId: 8fe050fb-3942-415c-a244-e06714a2ada2
 price:
   cents: 2595
   currency: EUR
   value: 25.95
 referencePrice:
-  cents: 4295
+  cents: 9995
   currency: EUR
-  value: 42.95
+  value: 99.95
 slug: robey-performance-broek-unisex
-soldOut: false
+soldOut: true
 start: '2025-12-29T23:00:00.000Z'
 title: Robey Performance Broek | Unisex
