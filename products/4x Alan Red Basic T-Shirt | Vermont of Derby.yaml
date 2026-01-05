@@ -1,22 +1,22 @@
-_id: 6942b1ac9b7996b77fc55563
+_id: 694a705bc7742c1d7c8f3709
 appOnly: false
 brand: Alan Red
 brands:
   - id: 886d74b3-867b-54fe-8d7b-63d13153d09f
     name: Alan Red
 categories:
-  - f913f484-2009-5208-90e5-78640dc8441e
-classicId: '2888269'
-classicProductId: '322035'
+  - b7901ddc-1c21-5f66-bf5d-e6796dee838d
+classicId: '2901773'
+classicProductId: '187796'
 deliveryPrice:
-  cents: 595
+  cents: 0
   currency: EUR
-  value: 5.95
-directCheckout: true
-discount: 61
-end: '2026-01-04T22:59:59.999Z'
-freeDelivery: false
-id: 4c189e89-163b-4c1b-99d9-3aeb01dbdee7
+  value: 0
+directCheckout: false
+discount: 42
+end: '2026-01-05T22:59:59.999Z'
+freeDelivery: true
+id: 69c2f244-985f-54f3-8d6e-2f2bd939aaba
 image:
   channels:
     - website
@@ -37,16 +37,16 @@ logo:
   priority: 100
   slug: alan-red-logo
   type: logo
-offerId: 4a69f818-f7b6-48b7-bbd2-af7adbabca87
+offerId: 27b123b3-086b-5a8e-8719-412ef1949a87
 price:
-  cents: 2000
+  cents: 2995
   currency: EUR
-  value: 20
+  value: 29.95
 referencePrice:
   cents: 5190
   currency: EUR
   value: 51.9
 slug: 4x-alan-red-basic-t-shirt
-soldOut: true
-start: '2025-12-17T23:00:00.000Z'
+soldOut: false
+start: '2025-12-23T23:00:00.000Z'
 title: 4x Alan Red Basic T-Shirt | Vermont of Derby

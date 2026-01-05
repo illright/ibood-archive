@@ -1,22 +1,22 @@
-_id: 6942b3d94240135da3331db5
+_id: 694a7064699af98ee9088612
 appOnly: false
 brand: Alan Red
 brands:
   - id: 886d74b3-867b-54fe-8d7b-63d13153d09f
     name: Alan Red
 categories:
-  - f913f484-2009-5208-90e5-78640dc8441e
-classicId: '2888613'
-classicProductId: '205158'
+  - b7901ddc-1c21-5f66-bf5d-e6796dee838d
+classicId: '2901775'
+classicProductId: '205172'
 deliveryPrice:
-  cents: 595
+  cents: 0
   currency: EUR
-  value: 5.95
-directCheckout: true
-discount: 68
-end: '2026-01-04T22:59:59.999Z'
-freeDelivery: false
-id: 69172949-9746-4f07-b620-4aa2dc0467a0
+  value: 0
+directCheckout: false
+discount: 57
+end: '2026-01-05T22:59:59.999Z'
+freeDelivery: true
+id: 1e63ddf4-c518-5271-abfe-c64430969322
 image:
   channels:
     - website
@@ -35,18 +35,18 @@ logo:
   extension: jpg
   id: 532057
   priority: 100
-  slug: alan-red-logo
+  slug: 4x-alan-red-basic-t-shirt
   type: logo
-offerId: 821d5fb2-bee7-45be-a9c3-359ed42b5774
+offerId: 80979288-5dec-5108-ab54-ab9eed1acdba
 price:
-  cents: 3000
+  cents: 3995
   currency: EUR
-  value: 30
+  value: 39.95
 referencePrice:
   cents: 9390
   currency: EUR
   value: 93.9
 slug: 4x-alan-red-basic-t-shirt
-soldOut: true
-start: '2025-12-17T23:00:00.000Z'
+soldOut: false
+start: '2025-12-23T23:00:00.000Z'
 title: 4x Alan Red Oklahoma of Ottawa T-Shirt | Heren
