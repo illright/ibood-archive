@@ -1,22 +1,22 @@
-_id: 69529bde1eb25e613967b7b2
+_id: 695b9ab80aeb7f9555cb85b8
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 117b8503-a93e-59c8-a6e0-db98b8d7ddb8
-classicId: '2908282'
-classicProductId: '508657'
+  - aa2d3147-5868-5f7c-a9c0-b3f5de713821
+classicId: '2915707'
+classicProductId: '508655'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 80
-end: '2026-01-05T22:59:59.999Z'
+directCheckout: false
+discount: 60
+end: '2026-01-11T22:59:59.999Z'
 freeDelivery: false
-id: 4d9919f9-1202-49b5-a7e2-bf8c340bd62c
+id: 9e060a14-4303-5641-b05d-f4945170a32a
 image:
   channels:
     - website
@@ -25,7 +25,7 @@ image:
   extension: jpg
   id: 1715986
   priority: 0
-  slug: heat-essentials-full-grip-handschoenen-unisex
+  slug: heat-essentials-sporthandschuhe-mit-grip
   type: product
 logo:
   channels:
@@ -33,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1718154
+  id: 1643389
   priority: 100
-  slug: heat-essentials-full-grip-handschoenen-unisex
+  slug: heat-essentials-logo
   type: logo
-offerId: 038215a7-8d50-4701-bbe0-39be716a2a41
+offerId: cdc8c78e-69c6-5431-aa15-e065a9a89095
 price:
-  cents: 500
+  cents: 995
   currency: EUR
-  value: 5
+  value: 9.95
 referencePrice:
   cents: 2495
   currency: EUR
   value: 24.95
 slug: heat-essentials-full-grip-handschoenen-unisex
-soldOut: true
-start: '2025-12-29T23:00:00.000Z'
+soldOut: false
+start: '2026-01-05T23:00:00.000Z'
 title: Heat Essentials Player Full Grip Handschoenen | Unisex

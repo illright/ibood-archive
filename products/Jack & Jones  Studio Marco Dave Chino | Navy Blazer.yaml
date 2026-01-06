@@ -1,32 +1,30 @@
-_id: 69494a6c1df5e4de17fa58ff
+_id: 695bce9b2eee08317c99a66b
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d56f5a6d-29f0-51f7-b7e0-511bb3e498f7
-classicId: '2897771'
-classicProductId: '676146'
+  - 3cea9272-023e-5f5d-9ca8-18ba110546f2
+classicId: '2916892'
+classicProductId: '676148'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-01-05T22:59:59.000Z'
+discount: 40
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: f30dbeda-4b2d-49b6-93d7-3390193f46cf
+id: e0a37c91-15ad-482f-832a-82c9a9ed22c4
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
-  extension: image/png
-  id: d659e0e7-60c3-4403-9b48-e5ee3d2aee55-tr
+  extension: image/jpeg
+  id: d659e0e7-60c3-4403-9b48-e5ee3d2aee55
   priority: 0
   slug: w33-l36-navy-blazer-12174309-jpstmarco-dave-akm-jack-jones-pants-studio-product-3
   type: product
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: bdb43feb-aa97-43bc-80b6-c7be5f37bf59
+offerId: cfec8687-9649-4317-9365-d0c3bfa9bd0d
 price:
-  cents: 1495
+  cents: 1795
   currency: EUR
-  value: 14.95
+  value: 17.95
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: jack-jones-studio-marco-dave-chino-navy-blazer
-soldOut: true
-start: '2025-12-22T23:00:00.000Z'
+soldOut: false
+start: '2026-01-05T23:00:00.000Z'
 title: Jack & Jones  Studio Marco Dave Chino | Navy Blazer

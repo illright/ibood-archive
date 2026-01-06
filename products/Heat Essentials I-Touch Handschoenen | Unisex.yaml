@@ -1,22 +1,22 @@
-_id: 69529bd71eb25e613967b79c
+_id: 695b9ab3d99148b9e4c38cca
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 117b8503-a93e-59c8-a6e0-db98b8d7ddb8
-classicId: '2908271'
+  - aa2d3147-5868-5f7c-a9c0-b3f5de713821
+classicId: '2915693'
 classicProductId: '487301'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 90
-end: '2026-01-05T22:59:59.999Z'
+directCheckout: false
+discount: 60
+end: '2026-01-11T22:59:59.999Z'
 freeDelivery: false
-id: 3ed49fa3-2b08-4ad1-954b-deea6554031d
+id: f33ba6b4-8e49-5478-b3ba-e6d20f19f04b
 image:
   channels:
     - website
@@ -25,7 +25,7 @@ image:
   extension: png
   id: 1718064
   priority: 0
-  slug: heat-essentials-i-touch-handschoenen-unisex
+  slug: heat-essentials-i-touch-handschuhe-unisex
   type: product
 logo:
   channels:
@@ -35,18 +35,18 @@ logo:
   extension: png
   id: 1643389
   priority: 100
-  slug: heat-essentials-i-touch-handschoenen-unisex
+  slug: heat-essentials-logo
   type: logo
-offerId: bf3dad72-ac80-4602-b3da-ca062e4c3ea6
+offerId: 4ae1abd1-eb50-5e39-8704-e3198eb6371c
 price:
-  cents: 250
+  cents: 995
   currency: EUR
-  value: 2.5
+  value: 9.95
 referencePrice:
   cents: 2495
   currency: EUR
   value: 24.95
 slug: heat-essentials-i-touch-handschoenen-unisex
-soldOut: true
-start: '2025-12-29T23:00:00.000Z'
+soldOut: false
+start: '2026-01-05T23:00:00.000Z'
 title: Heat Essentials I-Touch Handschoenen | Unisex

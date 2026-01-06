@@ -1,22 +1,22 @@
-_id: 69494a538f14a53d09837c9b
+_id: 695bd02391cf3d61d8f2b0d1
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 7b67e90b-c7cd-544b-b5e8-9d23c4a94b33
-classicId: '2897735'
+  - b049969f-56bb-54b3-baa5-98b88227739a
+classicId: '2917215'
 classicProductId: '665566'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2026-01-05T22:59:59.000Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: f0015ef9-06bd-42c9-93fe-02bf50dfdca7
+id: 5c2b39cc-10c2-4c1d-adaf-9f8fc4070853
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 9b12000a-989b-4b76-9e00-8c0c44eef9ff
+offerId: 8e79399c-e9e0-4fe9-8d30-e3e1af84fa00
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 59.99
 slug: petrol-hoodie-met-print-heren
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2026-01-05T23:00:00.000Z'
 title: Petrol Hoodie met print | Heren

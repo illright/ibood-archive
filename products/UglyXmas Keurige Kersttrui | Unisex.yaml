@@ -1,22 +1,22 @@
-_id: 69494b476495b64273e9a1f1
+_id: 695bd08acc8314258a3de1a9
 appOnly: false
 brand: UglyXmas
 brands:
   - id: 6330e7f3-0dc7-5110-97a1-5f5520695a93
     name: UglyXmas
 categories:
-  - 7b67e90b-c7cd-544b-b5e8-9d23c4a94b33
-classicId: '2897903'
+  - b049969f-56bb-54b3-baa5-98b88227739a
+classicId: '2917309'
 classicProductId: '668209'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2026-01-05T22:59:59.000Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 64e2cec6-adfe-468d-baa6-1a737fa0e5c2
+id: 5771bddf-5406-464a-a585-5979960c15e8
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: uglyxmas-logo-0
   type: logo
-offerId: 487142b3-04bd-4534-9fc8-9271ba30f448
+offerId: d48e6072-9bf7-4ac3-b74c-d09f11baede8
 price:
   cents: 1995
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: uglyxmas-keurige-kersttrui-unisex
-soldOut: true
-start: '2025-12-22T23:00:00.000Z'
+soldOut: false
+start: '2026-01-05T23:00:00.000Z'
 title: UglyXmas Keurige Kersttrui | Unisex

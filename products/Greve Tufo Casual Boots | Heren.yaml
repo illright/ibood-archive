@@ -1,22 +1,22 @@
-_id: 69494c8ddedaaf77e57b65b6
+_id: 695bc21b602db9cf8858ea1b
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 159a64dd-d450-51dd-9021-8b6acca7a5ab
-classicId: '2897907'
-classicProductId: '681506'
+  - ace4dfb0-7969-5bc2-b6a8-f8f76059e127
+classicId: '2916454'
+classicProductId: '681513'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 68
-end: '2026-01-05T22:59:59.000Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 056a2bc7-5f58-4e60-9642-ce953b12a49e
+id: 0bc5fa50-d0ae-48c5-b5dc-41b6916093d3
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1912813
-  priority: 100
-  slug: greve-logo
-  type: logo
-offerId: 89c23520-2447-4a64-9dd0-cb901730cc7c
+offerId: aabbe205-d812-4305-b15b-6bfddf82a44d
 price:
   cents: 6995
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 220
 slug: greve-tufo-casual-boots-heren
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2026-01-05T23:00:00.000Z'
 title: Greve Tufo Casual Boots | Heren

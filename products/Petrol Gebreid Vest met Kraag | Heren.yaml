@@ -1,22 +1,22 @@
-_id: 69494af58f14a53d09837d39
+_id: 695bd07ecc8314258a3de19c
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 7b67e90b-c7cd-544b-b5e8-9d23c4a94b33
-classicId: '2897845'
-classicProductId: '673790'
+  - b049969f-56bb-54b3-baa5-98b88227739a
+classicId: '2917291'
+classicProductId: '673796'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 44
-end: '2026-01-05T22:59:59.000Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 3726dab2-4e30-4321-8855-7703bec7bfda
+id: 4c93362c-6309-4e5e-8aea-d7a46cb18918
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 117a7e30-981f-47e7-80dd-c73da9e93146
+  id: 6c33b7cd-ca93-4a0c-a6a0-abf853d8d6ef
   priority: 0
-  slug: petrol-112-png-product-1
+  slug: petrol-113-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 2b993f73-ba1e-4f6a-ba92-eadc42c24c41
+offerId: 790170cd-279b-45ef-8124-033bfc348148
 price:
   cents: 4495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 79.99
 slug: petrol-gebreid-vest-met-kraag-heren
 soldOut: false
-start: '2025-12-22T23:00:00.000Z'
+start: '2026-01-05T23:00:00.000Z'
 title: Petrol Gebreid Vest met Kraag | Heren
