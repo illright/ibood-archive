@@ -1,12 +1,12 @@
-_id: 6943fcb914898729ea8c23a4
+_id: 695cee723b2942a9f2295519
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - f41d4847-016d-527f-ad15-f5466500d1c5
-classicId: '2890405'
+  - 94aa9327-16b7-5381-b28a-df4b2cc22054
+classicId: '2919163'
 classicProductId: '684816'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 0bab2ff5-70cf-5898-a75a-e38385bd216a
+id: 130b0665-0756-4761-b1a8-5130d0c05f86
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 31b4e7cc-105e-47cf-8a3f-32783f4bb8c8
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: 51ec3d04-e9c1-5eff-8e7e-50b894b914d9
+offerId: bc841e42-fb7e-4683-8f4a-b8cd5441006d
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 47.98
 slug: 4x-ariel-vloeibaar-wasmiddel-color-765-ml
 soldOut: false
-start: '2025-12-29T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: 4x Ariel Vloeibaar Wasmiddel Color | 765 ml (68sc)

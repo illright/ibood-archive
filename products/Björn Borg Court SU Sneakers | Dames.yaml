@@ -1,22 +1,22 @@
-_id: 695bc22191cf3d61d8f2ad71
+_id: 695bcf4ecc8314258a3de111
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - ace4dfb0-7969-5bc2-b6a8-f8f76059e127
-classicId: '2916456'
-classicProductId: '658854'
+  - b604d8a1-3cf0-562c-a529-4b038a22faed
+classicId: '2917055'
+classicProductId: '658850'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 68
 end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 4a132c78-83c1-498e-9c4f-f4dfbecedbc9
+id: a0c19716-0a4f-42ac-89b6-34aec7746549
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: bb003-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 2030715
-  priority: 100
-  slug: bjorn-borg-logo
-  type: logo
-offerId: 06e9c9fe-3a22-4d3f-b2b3-2c1a0f5e2a9f
+offerId: 8cb1a5d1-aeca-42fa-9648-f6d54246a921
 price:
   cents: 3500
   currency: EUR

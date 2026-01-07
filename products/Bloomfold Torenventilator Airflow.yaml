@@ -1,53 +1,53 @@
-_id: 694a5e06d8ccaab515cf6109
+_id: 695cd502fd69c6e7af88a363
 appOnly: false
 brand: Bloomfold
 brands:
   - id: 46352708-327f-5083-8f46-407fa0ee16fa
     name: Bloomfold
 categories:
-  - 724ba1c5-e61b-59ba-a893-4edf27cec490
-classicId: '2899487'
-classicProductId: '633873'
+  - 4720add2-919a-5c84-b002-549d990f9f09
+classicId: '2917784'
+classicProductId: '633872'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 54
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: false
+discount: 73
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: d3e9ae7f-f0c8-47ab-8ac7-ae8c062e0a0b
+id: 4ab48032-e823-44f1-b1c8-a4f182e37580
 image:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: jpg
-  id: 2224267
-  priority: 100
-  slug: bloomfold-airflow-turmventilator-38-zoll-grau
-  type: product
-logo:
   channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: 9357da57-8489-441a-8876-defa1f75333e
+  id: fe80d37e-422b-4476-ad80-0cf8b857b3fa
   priority: 0
-  slug: bloomfold-logo-0
+  slug: ventila-png-product-101
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2238412
+  priority: 100
+  slug: bloomfold-airflow-turmventilator-38-zoll
   type: logo
-offerId: baf44be6-6b13-4fd1-88d3-879b66bf5051
+offerId: dfca8f11-19b6-425b-b470-94c3a9784d3a
 price:
-  cents: 5995
+  cents: 3495
   currency: EUR
-  value: 59.95
+  value: 34.95
 referencePrice:
   cents: 12900
   currency: EUR
   value: 129
 slug: bloomfold-torenventilator-airflow
 soldOut: false
-start: '2025-12-23T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Bloomfold Torenventilator Airflow

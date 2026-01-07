@@ -1,12 +1,12 @@
-_id: 6953a8bdf641820f2530a69b
+_id: 695bab77a4bb19c0b4cafead
 appOnly: false
 brand: Abercrombie & Fitch
 brands:
   - id: 954fd157-5c62-54e0-9f97-c44c6181b6b9
     name: Abercrombie & Fitch
 categories:
-  - fcbeaf49-930f-5889-826b-60ac7db1eb03
-classicId: '2908629'
+  - 50f50468-d00d-5766-8661-ef762abcd150
+classicId: '2916120'
 classicProductId: '657788'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 94ea248e-5e76-4b5b-9719-265b3b537b6f
+id: 41f3fab1-1304-4d53-a065-2c8fde4dcad1
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: abercrombie-fitch-fierce-edc-100ml-product-0
   type: product
-offerId: fa9336da-8e82-4b47-8c59-02615f0505be
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008185
+  priority: 100
+  slug: abercrombie-fitch-logo
+  type: logo
+offerId: 04982bec-8b7d-4cde-a596-caac96ecc6a7
 price:
   cents: 4995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 94
 slug: abercrombie-fitch-fierce-edc-100ml
 soldOut: false
-start: '2025-12-29T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Abercrombie & Fitch Fierce EDC Spray | 100 ml

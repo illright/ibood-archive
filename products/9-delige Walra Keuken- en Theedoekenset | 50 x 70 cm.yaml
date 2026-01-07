@@ -1,32 +1,31 @@
-_id: 69527ab37b0f54a650fdb6da
+_id: 695d04ccaffc8baad7e00266
 appOnly: false
 brand: Walra
 brands:
   - id: e0330296-8ae1-537d-9b0c-6031dfc992ae
     name: Walra
 categories:
-  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
-classicId: '2908082'
-classicProductId: '683267'
+  - 88da9ba9-7b4a-5e53-846b-6f0cf4c3a31c
+classicId: '2921629'
+classicProductId: '422776'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 65
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: true
+discount: 64
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: db72ca33-ca5c-438b-af17-a94ef17d1b83
+id: eed57594-c4a5-4444-b1d7-8056e5218d91
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 53ed8319-6b39-4e51-bd47-40f61f32a533
+  extension: jpg
+  id: 1930380
   priority: 0
-  slug: main-strip-block-png-product-1
+  slug: 9-delige-walra-keuken-en-theedoekenset-50-x-70
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: walra-logo
   type: logo
-offerId: a094ecc3-fa31-4051-be16-1b88028f8580
+offerId: 4e29a788-f5b6-4306-af79-2a2de5bbdf82
 price:
-  cents: 1995
+  cents: 895
   currency: EUR
-  value: 19.95
+  value: 8.95
 referencePrice:
-  cents: 5685
+  cents: 2490
   currency: EUR
-  value: 56.85
+  value: 24.9
 slug: 9-delige-walra-keuken-en-theedoekenset-50-x-70
-soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+soldOut: true
+start: '2026-01-06T23:00:00.000Z'
 title: 9-delige Walra Keuken- en Theedoekenset | 50 x 70 cm

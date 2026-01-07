@@ -1,30 +1,31 @@
-_id: 69524cdc58ec0c3cfe96cf3f
+_id: 695d04fcb6117091cf324234
 appOnly: false
 brand: Gingko Design
 brands:
   - id: 7b1823a9-9e0e-545a-b612-3ba4bedae9a2
     name: Gingko Design
 categories:
-  - dadc40a0-0fa8-525a-a0f8-43cf065001fb
-classicId: '2907175'
-classicProductId: '625142'
+  - 76cfb8d2-7532-5420-9c30-3ee767c48710
+classicId: '2921771'
+classicProductId: '625143'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 38
-end: '2026-01-06T22:59:59.999Z'
+discount: 43
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: fcacce6f-edbe-4f20-95ee-a6e55628890a
+id: 4f08e399-22d1-48b0-bf36-711427c19346
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 2188125
+    - app
+    - newsletter
+  extension: png
+  id: 2193678
   priority: 0
-  slug: gingko-design-wooden-cube-click-clock
+  slug: gingko-design-cube-click-clock-wekker
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 0
   slug: gingko-design-logo-0
   type: logo
-offerId: 62cc4663-ab8f-4be1-a562-c723dff8eb01
+offerId: ce101aa3-73fc-43fb-a327-58a46f091ab2
 price:
-  cents: 2495
+  cents: 2295
   currency: EUR
-  value: 24.95
+  value: 22.95
 referencePrice:
   cents: 3995
   currency: EUR
   value: 39.95
 slug: gingko-design-cube-click-clock-wekker
 soldOut: false
-start: '2025-12-28T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Gingko Design Cube click clock Wekker

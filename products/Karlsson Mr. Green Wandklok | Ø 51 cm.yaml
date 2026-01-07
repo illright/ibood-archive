@@ -1,34 +1,32 @@
-_id: 695273183a81d63dc714e817
+_id: 695d2efcbfe51333bd0e907f
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - c3d00d8d-d381-51db-a495-fa6f6de60eb5
-classicId: '2907341'
+  - 09c015ff-c548-548e-8608-6ac869c1e8c3
+classicId: '2922955'
 classicProductId: '631570'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 85
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: false
+discount: 77
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: e59968ac-eb86-455a-9323-744de73a3435
+id: fc006968-14b8-467c-b909-881e21194577
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - website
-    - app
   extension: image/png
-  id: 88a65cbe-54cb-45ec-bb16-97826f2e827f-tr
+  id: 525b150f-3981-4931-80e2-25619b49ba89
   priority: 0
-  slug: karlsson-mr-green-wanduhr-grun-51-cm-1-jpg-product-1
+  slug: karlsson-80-png-product-1
   type: product
 logo:
   channels:
@@ -36,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1566233
+  id: 2213688
   priority: 100
-  slug: karlsson-logo
+  slug: karlsson-mr-green-wanduhr-grun-51-cm
   type: logo
-offerId: 0146d9c6-a699-4104-8a48-e148c4cab367
+offerId: c881b006-5b9d-437e-866f-ec955bf47591
 price:
-  cents: 2995
+  cents: 4495
   currency: EUR
-  value: 29.95
+  value: 44.95
 referencePrice:
   cents: 19675
   currency: EUR
   value: 196.75
 slug: karlsson-mr-green-wandklok-51-cm
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Karlsson Mr. Green Wandklok | Ø 51 cm

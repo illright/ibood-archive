@@ -1,31 +1,32 @@
-_id: 694a5dde699af98ee908840f
+_id: 695cd54f3b2942a9f2294873
 appOnly: false
 brand: Duux
 brands:
   - id: ee0464f7-a5fb-5f85-b907-8b2578d2f118
     name: Duux
 categories:
-  - 724ba1c5-e61b-59ba-a893-4edf27cec490
-classicId: '2899425'
-classicProductId: '423448'
+  - 47cd36a3-4f1b-57ba-9f53-6f5826539213
+classicId: '2917985'
+classicProductId: '611799'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 2ed20f38-3f0e-4bbc-b2a2-b6902d486bf1
+id: c2a2dc50-1adb-4989-974f-99feaff33b20
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1718219
+    - all
+  extension: image/png
+  id: a5a4cbe7-823f-4dc9-a412-27a1d31c1d74
   priority: 0
-  slug: duux-edge-smart-convectorkachel-30-m2
+  slug: duux-edge-smart-conv-htr-product-13
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: duux-logo
   type: logo
-offerId: d18bf680-db2e-48e8-9953-6f2c6262e59d
+offerId: ef890fb0-f00d-4d62-9294-5ae8ef9973d7
 price:
   cents: 9995
   currency: EUR
@@ -46,7 +47,7 @@ referencePrice:
   cents: 19999
   currency: EUR
   value: 199.99
-slug: duux-edge-smart-convectorkachel-30-m2
+slug: duux-edge-smart-conv-htr
 soldOut: false
-start: '2025-12-23T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Duux Edge 2000 Smart Convectorkachel | 30 m² | 2000 W

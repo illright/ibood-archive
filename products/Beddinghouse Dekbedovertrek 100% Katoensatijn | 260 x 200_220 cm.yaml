@@ -1,42 +1,53 @@
-_id: 69527a5158ec0c3cfe96d476
+_id: 695d040ae980bee84c2c3633
 appOnly: false
-brand: Dutch Design
+brand: Beddinghouse DDesign
 brands:
-  - id: 556f7601-ee79-55a2-a357-18a67b76269e
-    name: Dutch Design
+  - id: efb0a85e-af44-5cfc-884e-61618013067d
+    name: Beddinghouse DDesign
 categories:
-  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
-classicId: '2907983'
-classicProductId: '584345'
+  - 88da9ba9-7b4a-5e53-846b-6f0cf4c3a31c
+classicId: '2921267'
+classicProductId: '495228'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 73
-end: '2026-01-06T22:59:59.999Z'
+discount: 86
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 54e4d288-0bdd-4bed-a706-43aa9bca5a24
+id: effe8605-8dbc-47b6-8195-1ba1333d9614
 image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/jpeg
+  id: d72c4cbc-b4c7-48b4-aef6-18904087e3f1
+  priority: 0
+  slug: virtual-red-main-jpg-product-1
+  type: product
+logo:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2000194
-  priority: 0
-  slug: beddinghouse-overtrek-katoensatijn-260-x-200220
-  type: product
-offerId: 160ac776-67d0-4377-a2ac-f8497ada12cc
+  id: 1667109
+  priority: 100
+  slug: beddinghouse-satin-bettwasche-260-x-200220-cm
+  type: logo
+offerId: 9f627174-bd73-487e-acbe-97c748009b3d
 price:
-  cents: 5995
+  cents: 2995
   currency: EUR
-  value: 59.95
+  value: 29.95
 referencePrice:
   cents: 21995
   currency: EUR
   value: 219.95
 slug: beddinghouse-overtrek-katoensatijn-260-x-200220
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Beddinghouse Dekbedovertrek 100% Katoensatijn | 260 x 200/220 cm

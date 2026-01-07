@@ -1,22 +1,22 @@
-_id: 695272f1f1a5907ea4de431d
+_id: 695d2dcaff4b83f8205b80f1
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - c3d00d8d-d381-51db-a495-fa6f6de60eb5
-classicId: '2907281'
+  - 09c015ff-c548-548e-8608-6ac869c1e8c3
+classicId: '2922814'
 classicProductId: '482290'
 deliveryPrice:
   cents: 2995
   currency: EUR
   value: 29.95
-directCheckout: true
-discount: 74
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: false
+discount: 71
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: cfe139f3-cb94-4025-9a4a-00c37f4c7b0f
+id: ab3e3b5c-761a-4f40-8db0-41d98bb09c53
 image:
   channels:
     - app
@@ -24,30 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 44ecfd3c-73d8-4715-8d88-43e1ab8ba3ba
+  id: 8010fdf4-2049-4042-bbd7-8674ccda671a
   priority: 0
-  slug: meubel-01-png-product-1
+  slug: dutchbone-main01-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1999917
-  priority: 100
-  slug: dutchbone-logo
+    - all
+  extension: image/png
+  id: ae5d2583-2fd1-4506-84e5-b8f49363d4d0
+  priority: 0
+  slug: dutchbone-png-logo-0
   type: logo
-offerId: abbf7429-e253-4433-ac17-6bc554b59bf7
+offerId: 221d9d56-6079-4984-ab3c-fdc1aef2779d
 price:
-  cents: 42900
+  cents: 39900
   currency: EUR
-  value: 429
+  value: 399
 referencePrice:
-  cents: 164900
+  cents: 136900
   currency: EUR
-  value: 1649
+  value: 1369
 slug: dutchbone-dressoir-class
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Dutchbone Class Dressoir | Laag

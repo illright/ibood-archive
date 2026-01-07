@@ -1,12 +1,12 @@
-_id: 69303ff3dc12694395a527cb
+_id: 695cd50508535dbf664a6ef7
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 8b0571d9-d2b8-5351-b2b7-649bc80f3efa
-classicId: '2852460'
+  - be1e8b83-f9c2-5045-8d7a-937cf1b40511
+classicId: '2917772'
 classicProductId: '684951'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: f91f0b25-9ae6-5e47-afac-a38ae5b0d658
+id: 1c54bf75-2131-4a33-b9ee-da6540461c23
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1953008130-vivo-voice-basic-champagne-reims-flute-set-4-pcs-product-2
   type: product
-offerId: a7f7df84-2eee-5044-b369-6517f1582dda
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
+  type: logo
+offerId: 92859d22-cc4a-46bd-819a-93f6e40b2c81
 price:
   cents: 2195
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 79.8
 slug: 8x-vivo-by-villeroy-boch-voice-basic-champagneglas
 soldOut: false
-start: '2025-12-21T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: 8x Vivo by Villeroy & Boch Voice Basic Champagneglas

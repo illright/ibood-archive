@@ -1,12 +1,12 @@
-_id: 695277fa58ec0c3cfe96d274
+_id: 695d03224a23a088d55ac1c3
 appOnly: false
 brand: Zydante
 brands:
   - id: 1b1be116-c1ff-5b4e-ab92-b99e0551137a
     name: Zydante
 categories:
-  - 9bde6dfc-c88f-5560-b0d3-c46f9354059b
-classicId: '2907828'
+  - a185e5a2-a429-5c0a-b496-cd00d1e51a20
+classicId: '2920997'
 classicProductId: '636101'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 75
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 509a01bd-3abc-409b-ae27-204286cd4e60
+id: 9e26e315-c73a-4cfe-816d-3cfad8d52a4f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2237294
-  priority: 100
-  slug: zydante-fleece-matratzen-topper-90-x-200-cm
+    - all
+  extension: image/png
+  id: 5e9b944f-88a7-408c-ba92-9e9fe6e3f709
+  priority: 0
+  slug: zydante-38-png-product-0
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: zydante-logo
   type: logo
-offerId: 670c0f50-870b-4f7d-a2c3-1b4fd98c79c1
+offerId: 59215f51-636e-4ba6-8c1f-5bda8b19310e
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 99
 slug: zydante-fleece-topper-90-x-200-cm
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Zydante Fleece Topper | 90 x 200 cm

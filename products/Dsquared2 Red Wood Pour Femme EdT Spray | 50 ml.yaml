@@ -1,12 +1,12 @@
-_id: 6953a8e6ccad8771790c2fe1
+_id: 695babc4990a4d6eedacfb2d
 appOnly: false
 brand: DSQUARED2
 brands:
   - id: eb141a22-8982-5ca2-9bc2-8b16b24ffd15
     name: DSQUARED2
 categories:
-  - fcbeaf49-930f-5889-826b-60ac7db1eb03
-classicId: '2908687'
+  - 50f50468-d00d-5766-8661-ef762abcd150
+classicId: '2916175'
 classicProductId: '352041'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: f97ea21f-d561-40e8-a22d-f1c87a6b4af5
+id: 4d71fc05-cfce-4725-94d6-b4db9a80037d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1116814
+    - all
+    - app
+    - website
+  extension: image/png
+  id: fcd1bc74-e55f-4497-8023-6d2bc5a845b9-tr
   priority: 0
-  slug: dsquared2-red-wood-edt-50-ml
+  slug: dsquared2-red-wood-edt-50-ml-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +41,7 @@ logo:
   priority: 0
   slug: dsquared2-logo-0
   type: logo
-offerId: e36d2de3-21e6-469a-baa6-3b4964bc9f29
+offerId: d01d5d90-0dc1-4480-a4d6-47f57aca4b9c
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +52,5 @@ referencePrice:
   value: 68
 slug: dsquared2-red-wood-pour-femme-edt-50-ml
 soldOut: false
-start: '2025-12-29T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Dsquared2 Red Wood Pour Femme EdT Spray | 50 ml

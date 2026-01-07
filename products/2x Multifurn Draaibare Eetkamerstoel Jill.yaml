@@ -1,34 +1,31 @@
-_id: 695273351ced38ce9f65dd1f
+_id: 695d2eea35e9120a7ef89ead
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - c3d00d8d-d381-51db-a495-fa6f6de60eb5
-classicId: '2907384'
+  - 09c015ff-c548-548e-8608-6ac869c1e8c3
+classicId: '2922943'
 classicProductId: '445798'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 58
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: false
+discount: 60
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: a22c2588-fb2c-4bbc-8a72-d83fc94bc5f2
+id: ddcf6fdf-973a-4778-8143-01f6593f1b07
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: 8171a831-4b93-44ca-9cf9-74b373d1222a-tr
+  extension: png
+  id: 1892545
   priority: 0
-  slug: 2x-multifurn-jill-esszimmerstuhl-1-jpg-product-1
+  slug: 2x-multifurn-jill-esszimmerstuhl
   type: product
 logo:
   channels:
@@ -40,16 +37,16 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: 99e9ee92-4077-4ed9-89a5-4d97c39f7bd9
+offerId: b1c6a880-a4e1-423c-bac9-abbe45ff4baa
 price:
-  cents: 16900
+  cents: 15900
   currency: EUR
-  value: 169
+  value: 159
 referencePrice:
   cents: 39800
   currency: EUR
   value: 398
 slug: 2x-multifurn-draaibare-eetkamerstoel-jill
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: 2x Multifurn Draaibare Eetkamerstoel Jill

@@ -1,12 +1,12 @@
-_id: 69527ac4f1a5907ea4de45d7
+_id: 695d0461aab7567fb7fa91e0
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
-classicId: '2908102'
+  - 88da9ba9-7b4a-5e53-846b-6f0cf4c3a31c
+classicId: '2921484'
 classicProductId: '675381'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 2a313337-d3f5-4e14-9482-737e5119346c
+id: 41c9b552-30d5-4fd7-bafd-4b4a4b92c255
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: kay012441-kayori-ito-dbo-katoen-240x200-220-groen-product-2
   type: product
-offerId: 8de587e5-5795-4d96-a9f1-fe8ea4226e39
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
+  type: logo
+offerId: ae3a1994-78d3-4d0b-984d-3596e5b4984d
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119.95
 slug: dekbedovertrek-katoen-ito-240-x-200-220-cm-green
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Dekbedovertrek Katoen Ito | 240 x 200/220 cm | Green

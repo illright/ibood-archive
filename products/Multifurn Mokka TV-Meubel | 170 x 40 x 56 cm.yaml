@@ -1,34 +1,31 @@
-_id: 695273401ced38ce9f65dd40
+_id: 695d2e96ff4b83f8205b8101
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - c3d00d8d-d381-51db-a495-fa6f6de60eb5
-classicId: '2907406'
+  - 09c015ff-c548-548e-8608-6ac869c1e8c3
+classicId: '2922950'
 classicProductId: '519444'
 deliveryPrice:
   cents: 1995
   currency: EUR
   value: 19.95
-directCheckout: true
+directCheckout: false
 discount: 39
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: fdf7755b-02f9-4799-9b1b-448c192a29b2
+id: f0f62509-e9c9-4fbc-a399-000d9f15a726
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 53fbf9af-e37a-4f76-ad0e-0b4c87859944-tr
+  extension: png
+  id: 1930622
   priority: 0
-  slug: mokka-tv-meubel-170-x-40-x-56-cm-png-product-1
+  slug: mokka-tv-meubel-170-x-40-x-56-cm
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: 99de5c8f-3fe7-4a19-b05d-c9c677a11666
+offerId: 42441b70-760c-485f-85c7-8fa98b522115
 price:
   cents: 42900
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 699
 slug: mokka-tv-meubel-170-x-40-x-56-cm
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Multifurn Mokka TV-Meubel | 170 x 40 x 56 cm

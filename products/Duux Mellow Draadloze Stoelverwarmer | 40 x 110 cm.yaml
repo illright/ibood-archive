@@ -1,22 +1,22 @@
-_id: 69416f0b15c40993e01fa496
+_id: 695cd54a08535dbf664a6f67
 appOnly: false
 brand: Duux
 brands:
   - id: ee0464f7-a5fb-5f85-b907-8b2578d2f118
     name: Duux
 categories:
-  - 724ba1c5-e61b-59ba-a893-4edf27cec490
-classicId: '2886281'
+  - 47cd36a3-4f1b-57ba-9f53-6f5826539213
+classicId: '2917972'
 classicProductId: '658298'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 40
-end: '2026-01-06T22:59:59.999Z'
+discount: 50
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 6ebdac09-ed38-52af-81e9-18b587df1c5f
+id: 6661da1d-54b7-4094-9fd9-07a978d39750
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: stoelvewrarm-png-product-1
   type: product
-offerId: 1649919d-6971-51e1-b936-d64a49479f95
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1695408
+  priority: 100
+  slug: duux-logo
+  type: logo
+offerId: e34432ee-eb8b-42fe-9cf0-95cdae48d3dc
 price:
-  cents: 5999
+  cents: 4999
   currency: EUR
-  value: 59.99
+  value: 49.99
 referencePrice:
   cents: 9999
   currency: EUR
   value: 99.99
 slug: duux-mellow-draadloze-stoelverwarmer-40-x-110-cm
 soldOut: false
-start: '2025-12-23T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Duux Mellow Draadloze Stoelverwarmer | 40 x 110 cm

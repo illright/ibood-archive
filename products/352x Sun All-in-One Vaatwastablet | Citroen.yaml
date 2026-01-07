@@ -1,32 +1,32 @@
-_id: 69524a3358ec0c3cfe96cc03
+_id: 695cf0ee601e254376741f36
 appOnly: false
 brand: Sun
 brands:
   - id: 91944e44-87f4-5fd2-b3a7-b70ba1671bdf
     name: Sun
 categories:
-  - f41d4847-016d-527f-ad15-f5466500d1c5
-classicId: '2906806'
+  - 94aa9327-16b7-5381-b28a-df4b2cc22054
+classicId: '2919897'
 classicProductId: '671445'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 66
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: true
+discount: 60
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: bad32b69-c83f-48be-a275-ad6a35b583fa
+id: f3e64ae9-121c-4e5b-abe8-a4a67e85e1d5
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 0ccf94a9-a031-475d-990b-bb11e93a0eb2
+  id: 97df36ee-4077-4188-9784-cd050d8f0433
   priority: 0
-  slug: sun-01-png-product-1
+  slug: sun-04-png-product-1
   type: product
 logo:
   channels:
@@ -39,16 +39,16 @@ logo:
   priority: 0
   slug: sun-logo-0
   type: logo
-offerId: a775f2ae-a58b-44ca-a817-48d039c05494
+offerId: ca65a5f0-e554-4dd9-94bb-cf333b9a45e2
 price:
-  cents: 3995
+  cents: 4795
   currency: EUR
-  value: 39.95
+  value: 47.95
 referencePrice:
   cents: 11850
   currency: EUR
   value: 118.5
 slug: 352x-sun-all-in-one-vaatwastablet-citroen
 soldOut: false
-start: '2025-12-29T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: 352x Sun All-in-One Vaatwastablet | Citroen

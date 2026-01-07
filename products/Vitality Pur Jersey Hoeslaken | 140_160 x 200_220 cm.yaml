@@ -1,12 +1,12 @@
-_id: 695273103a81d63dc714e7dd
+_id: 695d36e7b7fc549f7661c906
 appOnly: false
 brand: Vitality Pur
 brands:
   - id: 4b698a8c-2327-5f2e-8632-31b4cb03d028
     name: Vitality Pur
 categories:
-  - c3d00d8d-d381-51db-a495-fa6f6de60eb5
-classicId: '2907325'
+  - 09c015ff-c548-548e-8608-6ac869c1e8c3
+classicId: '2922782'
 classicProductId: '207467'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 47b7c2f1-4ef7-4fb9-8065-dc12fc574fb9
+id: 7b665376-aaf0-4bfb-b515-3ee3e8033a6b
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/jpeg
-  id: 58476c9b-905c-4181-984a-1d338da4878a
+  extension: jpg
+  id: 1375716
   priority: 0
-  slug: hoeslaken3-jpg-product-8
+  slug: vitality-pur-hoeslaken-140160-x-200220-cm
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1735105
+  id: 1532179
   priority: 100
-  slug: vitality-pur-logo
+  slug: vitality-pur-hoeslaken-140160-x-200220-cm
   type: logo
-offerId: 548b4780-a4bc-4649-95d3-e32dc76a7d43
+offerId: 6466df04-6a93-4a2c-9aff-7fb9b41f7f5e
 price:
   cents: 1495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 28.95
 slug: vitality-pur-hoeslaken-140160-x-200220-cm
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Vitality Pur Jersey Hoeslaken | 140/160 x 200/220 cm

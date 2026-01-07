@@ -1,12 +1,12 @@
-_id: 694a5e0343f22856fc32029c
+_id: 695cd500e96d107d48cba02a
 appOnly: false
 brand: Umuzi Cleaning
 brands:
   - id: e5944613-85c7-5aa4-9442-e510e4a02de4
     name: Umuzi Cleaning
 categories:
-  - d86eda9e-a422-50f6-b361-02f066fda922
-classicId: '2899479'
+  - 8055ed71-b92d-5865-9d33-d1d8ee0862bf
+classicId: '2917773'
 classicProductId: '651747'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 70
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 2947297d-71e4-4838-9447-a0160daed718
+id: 6b1046ff-9cd3-40ec-bacf-dce9cdc197be
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 60-liter456-png-product-1
   type: product
-offerId: 4ab91e7d-4347-40c2-a939-f58950d141a4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1579810
+  priority: 100
+  slug: umuzi-cleaning-logo
+  type: logo
+offerId: c9a6dc8a-cb0c-4ae5-adf7-317771ebc297
 price:
   cents: 7495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 245.95
 slug: umuzi-cleaning-prullenbak-push-bin-60-l
 soldOut: false
-start: '2025-12-23T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Umuzi Cleaning Prullenbak | Push Bin | 60 L | Mat Zwart

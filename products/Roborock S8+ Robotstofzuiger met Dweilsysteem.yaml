@@ -1,22 +1,22 @@
-_id: 695790ea3326255d1604ff1a
+_id: 695cd510053b5f2eb69f5bc8
 appOnly: false
 brand: roborock
 brands:
   - id: 34b77d23-32a4-55e5-825f-e5643b77661d
     name: roborock
 categories:
-  - 215bc80c-2631-57c5-802b-e2d62c049c1e
-classicId: '2912307'
+  - 47cd36a3-4f1b-57ba-9f53-6f5826539213
+classicId: '2917806'
 classicProductId: '675035'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 61
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 77258025-2ba7-4d6c-8cac-9338385a587d
+id: f89d7118-d5ae-474a-a908-fa25b2ae1856
 image:
   channels:
     - newsletter
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 77800ac9-f63c-4ce9-bdb0-02ea9b884e5f
-  priority: 0
-  slug: roborock-png-logo-0
-  type: logo
-offerId: 8d0bb399-c431-44e1-97c8-84f50a9df734
+offerId: a3aa0b5d-7103-47c9-bb96-5eab868d6ace
 price:
   cents: 34900
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 899
 slug: roborock-s8-robotstofzuiger-met-dweilsysteem
 soldOut: false
-start: '2025-12-23T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Roborock S8+ Robotstofzuiger met Dweilsysteem

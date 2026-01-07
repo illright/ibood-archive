@@ -1,31 +1,32 @@
-_id: 695248ba0f1ee39b80b9564f
+_id: 695ceee53b2942a9f2295644
 appOnly: false
 brand: Dentos
 brands:
   - id: 84bca708-5971-5baa-8090-d9a0ddffff0e
     name: Dentos
 categories:
-  - f41d4847-016d-527f-ad15-f5466500d1c5
-classicId: '2906348'
-classicProductId: '381682'
+  - 94aa9327-16b7-5381-b28a-df4b2cc22054
+classicId: '2919279'
+classicProductId: '381681'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 63
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: false
+discount: 69
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 76387d67-5d3a-46a2-8b8b-b920d647ec4b
+id: 9f49ef96-7069-4562-86e9-1f014fc7c52d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1248739
+    - all
+  extension: image/png
+  id: 0d2a3776-e32d-48d7-a2aa-3130eddd21c9
   priority: 0
-  slug: 480x-dentos-zachte-tandenstoker-m-of-l
+  slug: dentos-01-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: dentos-logo
   type: logo
-offerId: 3e2fbaf0-1765-4e6a-95df-1d9eb60fe4eb
+offerId: b62b54cf-20a9-42dd-987e-d19e910fb029
 price:
-  cents: 1795
+  cents: 1495
   currency: EUR
-  value: 17.95
+  value: 14.95
 referencePrice:
   cents: 4788
   currency: EUR
   value: 47.88
 slug: 480x-dentos-zachte-tandenstoker-m-of-l
 soldOut: false
-start: '2025-12-29T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: 480x Dentos Zachte Tandenstoker M of L

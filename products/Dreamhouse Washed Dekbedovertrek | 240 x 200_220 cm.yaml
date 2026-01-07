@@ -1,12 +1,12 @@
-_id: 69527a1458ec0c3cfe96d3a7
+_id: 695d041878fbc32ebb5fc706
 appOnly: false
 brand: Dreamhouse
 brands:
   - id: f603b8a3-86da-5c59-a6ca-bd52f50a1da6
     name: Dreamhouse
 categories:
-  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
-classicId: '2907924'
+  - 88da9ba9-7b4a-5e53-846b-6f0cf4c3a31c
+classicId: '2921286'
 classicProductId: '383455'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 25
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 9993de7b-a52a-46cf-bb50-b6e75d05afe7
+id: 8db5c646-f387-4acf-97b7-ed235a123714
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: dreamhouse-44-png-product-2
   type: product
-offerId: 8cdb162e-9573-4157-a191-93838b93d227
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1696825
+  priority: 100
+  slug: dreamhouse-logo
+  type: logo
+offerId: 84dbc73e-5149-4e7c-bd30-05bf3ee1ba07
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.95
 slug: dreamhouse-washed-dekbedovertrek-240-x-200-220
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Dreamhouse Washed Dekbedovertrek | 240 x 200/220 cm

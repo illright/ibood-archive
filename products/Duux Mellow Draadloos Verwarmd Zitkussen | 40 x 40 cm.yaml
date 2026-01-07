@@ -1,12 +1,12 @@
-_id: 69416e339d4c8ac0de532341
+_id: 695cd51e08535dbf664a6f16
 appOnly: false
 brand: Duux
 brands:
   - id: ee0464f7-a5fb-5f85-b907-8b2578d2f118
     name: Duux
 categories:
-  - 724ba1c5-e61b-59ba-a893-4edf27cec490
-classicId: '2886278'
+  - 47cd36a3-4f1b-57ba-9f53-6f5826539213
+classicId: '2917825'
 classicProductId: '658296'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 43
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: ed64baed-f31f-52c7-aefa-283330c71d6d
+id: 192f93cf-91f3-4b79-a73c-3dde878ec918
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: zitkussen-png-product-1
   type: product
-offerId: 2d7ecada-cd43-532f-be91-1d769eb69697
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1695408
+  priority: 100
+  slug: duux-logo
+  type: logo
+offerId: e8dccb16-eeac-4b95-b0fc-9f27ec2e4cec
 price:
   cents: 3999
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: duux-mellow-draadloos-verwarmd-zitkussen-40-x-40-cm
 soldOut: false
-start: '2025-12-23T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Duux Mellow Draadloos Verwarmd Zitkussen | 40 x 40 cm

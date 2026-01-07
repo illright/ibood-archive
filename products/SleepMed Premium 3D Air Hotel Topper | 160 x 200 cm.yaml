@@ -1,12 +1,12 @@
-_id: 6952781858ec0c3cfe96d2f5
+_id: 695d02e13b2942a9f229596b
 appOnly: false
 brand: Sleepmed
 brands:
   - id: 6b79cd10-abb4-5053-baa1-1fe7683657e2
     name: Sleepmed
 categories:
-  - 9bde6dfc-c88f-5560-b0d3-c46f9354059b
-classicId: '2907867'
+  - a185e5a2-a429-5c0a-b496-cd00d1e51a20
+classicId: '2920978'
 classicProductId: '560018'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 76
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 76d1624a-cb59-4115-ac68-f769e5d4b7ed
+id: d93af689-7471-40f2-ae92-0ba9b5de810c
 image:
   channels:
-    - website
-    - app
     - newsletter
-  extension: jpg
-  id: 1895406
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5fd25b3e-cffa-4048-a648-22fc44aeaef3
   priority: 0
-  slug: sleepmed-premium-3d-air-hotel-topper-160-x-200-cm
+  slug: sleepmed-10-png-product-0
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: sleepmed-logo
   type: logo
-offerId: b8762bdb-3fd8-4ab9-b8b3-fe96cc2ec3b1
+offerId: cbeeac4a-2fdd-4fe0-9982-2724cd7e87d7
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 124.95
 slug: sleepmed-premium-3d-air-hotel-topper-160-x-200-cm
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: SleepMed Premium 3D Air Hotel Topper | 160 x 200 cm

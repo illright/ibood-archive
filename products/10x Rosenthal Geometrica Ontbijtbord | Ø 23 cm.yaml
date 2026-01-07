@@ -1,12 +1,12 @@
-_id: 6943ee0548fa5b42164eba21
+_id: 695cd56f3b2942a9f22948c8
 appOnly: false
 brand: ROSENTHAL
 brands:
   - id: cd84019a-b137-5ad3-ad75-fea4f39bd5aa
     name: ROSENTHAL
 categories:
-  - 2fa39540-8e48-50b3-8bde-bf71c4f70963
-classicId: '2889979'
+  - 4720add2-919a-5c84-b002-549d990f9f09
+classicId: '2918071'
 classicProductId: '649337'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 91
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: aae5c47c-fb5c-574a-bea2-605fd63aed80
+id: e6734f47-cc9d-4811-bab2-57dc809261b3
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: rosenthal-geometrica-dinnerware-23cm-side-plate-10-stuks-55054903718708-product-7
   type: product
-offerId: 8a2a45f0-ad55-5128-9e60-0045c179c8c8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d9dbd3d3-793c-4155-96c2-0ff91d071c77
+  priority: 0
+  slug: rosenthal-logo-0
+  type: logo
+offerId: 168bf16e-9c12-43de-a535-83cc134af02d
 price:
   cents: 1795
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 205
 slug: 10x-rosenthal-geometrica-ontbijtbord-23-cm
-soldOut: true
-start: '2025-12-23T23:00:00.000Z'
+soldOut: false
+start: '2026-01-06T23:00:00.000Z'
 title: 10x Rosenthal Geometrica Ontbijtbord | Ø 23 cm

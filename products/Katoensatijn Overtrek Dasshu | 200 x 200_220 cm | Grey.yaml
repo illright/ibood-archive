@@ -1,12 +1,12 @@
-_id: 69527a993a81d63dc714eade
+_id: 695d048b51bf0b0cb3723208
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
-classicId: '2908067'
+  - 88da9ba9-7b4a-5e53-846b-6f0cf4c3a31c
+classicId: '2921469'
 classicProductId: '673226'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 9b5008b2-5cd5-479b-855d-8428459720cb
+id: 839935f8-1ce9-4945-ac5c-5e1a87b8271d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: kay012517-kayori-dasshu-dbo-katoensatijn-200x200-220-grijs-product-3
   type: product
-offerId: cb727405-48b9-48f5-8e52-bf173d90358d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
+  type: logo
+offerId: d5c645a2-fa12-4aa7-b892-3e39152026b8
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: kayori-katoensatijn-overtrek-dasshu-200-x-200-220-cm-grey
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Katoensatijn Overtrek Dasshu | 200 x 200/220 cm | Grey

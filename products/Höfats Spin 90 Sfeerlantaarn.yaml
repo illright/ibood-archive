@@ -1,12 +1,12 @@
-_id: 6952776d58ec0c3cfe96d1fb
+_id: 695d2fcbf6e64ba78afb2e7c
 appOnly: false
 brand: HOFATS
 brands:
   - id: f2130e13-ae80-5faf-b467-21404766f077
     name: HOFATS
 categories:
-  - b13a8501-939d-5ced-b40b-1db25f5dcfd6
-classicId: '2907722'
+  - 09c015ff-c548-548e-8608-6ac869c1e8c3
+classicId: '2923105'
 classicProductId: '337104'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: c76f261b-f20c-48b6-b1c4-76372de7551a
+id: 03858e04-bdf3-4d80-b4a1-1a368ed49790
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 703902bd-bbc9-4fb6-b30c-d9cf39ee6d47
-  priority: 0
-  slug: tuin-30-png-product-1
+  extension: jpg
+  id: 1048988
+  priority: 1
+  slug: hofats-spin-90-sfeerlantaarn
   type: product
 logo:
   channels:
@@ -39,7 +38,7 @@ logo:
   priority: 0
   slug: hofats-logo-0
   type: logo
-offerId: 68bad44d-fda4-4a40-a015-c23203bb5a1d
+offerId: 34724270-291d-449c-9def-ab473c1e28f4
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119
 slug: hofats-spin-90-sfeerlantaarn
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Höfats Spin 90 Sfeerlantaarn

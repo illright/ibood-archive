@@ -1,22 +1,22 @@
-_id: 69524930671c18a7671416d8
+_id: 695cefef601e254376741dd8
 appOnly: false
 brand: Intenso
 brands:
   - id: 052c8f4c-9f97-5964-a6e0-6d4cd6370c53
     name: Intenso
 categories:
-  - f41d4847-016d-527f-ad15-f5466500d1c5
-classicId: '2906522'
-classicProductId: '684497'
+  - 94aa9327-16b7-5381-b28a-df4b2cc22054
+classicId: '2919590'
+classicProductId: '675314'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
-end: '2026-01-06T22:59:59.999Z'
+directCheckout: true
+discount: 54
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: b294afb0-97d3-4cd5-ade7-976588366b0e
+id: a0fcd847-1f25-4a3e-88f8-af915be8a93e
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: intenso-04-png-product-1
   type: product
-offerId: 735aec77-0e46-4fe7-9032-736e2dd30e06
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1619032
+  priority: 100
+  slug: intenso-logo
+  type: logo
+offerId: b17a4e2e-7459-48a3-b8bd-e64d394cca29
 price:
-  cents: 3495
+  cents: 3995
   currency: EUR
-  value: 34.95
+  value: 39.95
 referencePrice:
   cents: 8670
   currency: EUR
   value: 86.7
 slug: 3x-intenso-caffe-koffiebonen-mediterranea-1-kg
 soldOut: false
-start: '2025-12-29T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: 3x Intenso Caffe Koffiebonen Mediterranea | 1 kg

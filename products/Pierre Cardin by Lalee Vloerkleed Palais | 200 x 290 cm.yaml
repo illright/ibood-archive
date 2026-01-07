@@ -1,22 +1,22 @@
-_id: 6952733d1ced38ce9f65dd37
+_id: 695d311c40ae29c76d5ca59d
 appOnly: false
 brand: Lalee Home
 brands:
   - id: f16f6754-e2f9-5fcc-a608-9da89152b8a1
     name: Lalee Home
 categories:
-  - c3d00d8d-d381-51db-a495-fa6f6de60eb5
-classicId: '2907399'
-classicProductId: '657889'
+  - 09c015ff-c548-548e-8608-6ac869c1e8c3
+classicId: '2923245'
+classicProductId: '657891'
 deliveryPrice:
   cents: 1995
   currency: EUR
   value: 19.95
-directCheckout: true
+directCheckout: false
 discount: 76
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: be702851-d8a1-45e8-ad0e-9d28f761de8a
+id: bea20b4f-ff48-49b0-b668-98d8764cfb60
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 604c540c-b60d-4471-93bd-1f7ab4395d1f
+  id: 6022cced-c0a3-4c9c-8ee7-4566eca6fd12
   priority: 0
-  slug: lalee-home-05-png-product-1
+  slug: lalee-home-09-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: lalee-home-logo-0
   type: logo
-offerId: 3ca6ad7f-85c0-441b-9fec-f6ffe5bba69c
+offerId: 80ebc8f7-493e-4578-a00e-5317d4c8c368
 price:
   cents: 9995
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 419
 slug: pierre-cardin-by-lalee-vloerkleed-palais-200-x-290-cm
-soldOut: true
-start: '2025-12-30T23:00:00.000Z'
+soldOut: false
+start: '2026-01-06T23:00:00.000Z'
 title: Pierre Cardin by Lalee Vloerkleed Palais | 200 x 290 cm

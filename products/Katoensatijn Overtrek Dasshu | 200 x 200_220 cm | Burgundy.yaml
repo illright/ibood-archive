@@ -1,12 +1,12 @@
-_id: 69527a9d7b0f54a650fdb6ce
+_id: 695d044d8f888eb672a60dae
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 3d68dfd0-936d-5357-a44e-892ed0aeb045
-classicId: '2908073'
+  - 88da9ba9-7b4a-5e53-846b-6f0cf4c3a31c
+classicId: '2921404'
 classicProductId: '673224'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: fd58ce13-ce22-4b05-852e-0351385f989a
+id: 981e2b83-6192-4f7f-bcc3-1afad050c695
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: kay012525-kayori-dasshu-dbo-katoensatijn-200x200-220-burgundy-product-2
   type: product
-offerId: 31fcea2a-5ebb-4fe2-847c-e3bc19891b80
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
+  type: logo
+offerId: 0b7f06ff-d9fe-4d58-83a9-9e2dd8282d8f
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: kayori-katoensatijn-overtrek-dasshu-200-x-200-220-cm-burgundy
 soldOut: false
-start: '2025-12-30T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Katoensatijn Overtrek Dasshu | 200 x 200/220 cm | Burgundy

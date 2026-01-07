@@ -1,12 +1,12 @@
-_id: 69303fdadc12694395a527b4
+_id: 695cd58f197ce2d2c1bfb705
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 8b0571d9-d2b8-5351-b2b7-649bc80f3efa
-classicId: '2852450'
+  - be1e8b83-f9c2-5045-8d7a-937cf1b40511
+classicId: '2918124'
 classicProductId: '682901'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 73bbc8fb-a8d8-5634-9d54-cd795fb5c687
+id: aed67cfb-b63f-4d71-9e18-9bfa889fb273
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1172098120-villeroy-boch-ovid-white-wine-goblet-set-4pcs-product-1
   type: product
-offerId: 81bf4ce7-ba80-5d84-ac58-7db538dbce26
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
+  type: logo
+offerId: 7760f13b-b224-4c98-8f9e-4f34117dbde3
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.9
 slug: 4x-villeroy-boch-ovid-witte-wijnglas
 soldOut: false
-start: '2025-12-21T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: 4x Villeroy & Boch Ovid Witte Wijnglas

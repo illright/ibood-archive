@@ -1,12 +1,12 @@
-_id: 694a5e0b5192c88ff5b7077c
+_id: 695cd4e808535dbf664a6ee7
 appOnly: false
 brand: Philips
 brands:
   - id: ec36453d-811a-5d81-beac-cfcb22b98d4c
     name: Philips
 categories:
-  - 215bc80c-2631-57c5-802b-e2d62c049c1e
-classicId: '2899506'
+  - 47cd36a3-4f1b-57ba-9f53-6f5826539213
+classicId: '2917714'
 classicProductId: '671225'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2026-01-06T22:59:59.999Z'
+end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: b80a0199-30fb-41e2-a1db-3bbd82b8ff49
+id: 784302b6-4178-44cf-94e7-f4b65096b181
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: philips-airfryer-3000-series-na330-00-xl-6-2l-window-rapidair-plus-product-0
   type: product
-offerId: 81b895e7-24fe-4154-abee-b3e1595ae163
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8839768c-b3ef-4041-8701-8fde1a9736f3
+  priority: 0
+  slug: philips-deals-logo-0
+  type: logo
+offerId: 7e76eaec-b699-45b3-8e74-031949c1d2a4
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 149.99
 slug: philips-3000-series-airfryer-6-2-l-na330-00
 soldOut: false
-start: '2025-12-23T23:00:00.000Z'
+start: '2026-01-06T23:00:00.000Z'
 title: Philips 3000 Series Airfryer | 6,2 L | NA330/00
