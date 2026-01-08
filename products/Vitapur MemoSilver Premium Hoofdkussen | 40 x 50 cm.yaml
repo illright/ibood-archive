@@ -19,13 +19,16 @@ freeDelivery: false
 id: dd56d333-8535-40fb-8fd6-c92814d12b9e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1997051
-  priority: 100
-  slug: vitapur-premium-kopfkissen-memosilver-50-x-70-cm
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d209feb8-bba1-4cee-99fe-2e2a74759981-tr
+  priority: 0
+  slug: vitapur-premium-kopfkissen-memosilver-50-x-70-cm-jpg-product-101
   type: product
 logo:
   channels:

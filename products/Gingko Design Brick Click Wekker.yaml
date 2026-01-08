@@ -19,13 +19,14 @@ freeDelivery: false
 id: 10f040cb-4c26-4a23-96c0-af291ad3ea0c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2193597
+    - all
+  extension: image/png
+  id: 418e13ae-65a5-4bfd-9788-71168ca38e4b
   priority: 0
-  slug: gingko-design-brick-click-wekker
+  slug: klok-01-png-product-5
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: e3d6c1c5-25c6-4026-a2ce-f583c369d026
 image:
   channels:
-    - newsletter
     - app
     - website
-  extension: png
-  id: 2239862
+    - newsletter
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 25a1a03c-df9f-42d6-b809-abb9d2e12c91-tr
   priority: 0
-  slug: kalune-design-orion-koffietafelset-black
+  slug: kalune-design-orion-koffietafelset-black-1-png-product-1
   type: product
 logo:
   channels:

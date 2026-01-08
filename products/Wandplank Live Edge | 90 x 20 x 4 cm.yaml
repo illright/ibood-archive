@@ -19,13 +19,16 @@ freeDelivery: false
 id: 8e88f0da-97b7-41ae-8b08-38b60c6f2713
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2031894
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 2f2d882b-d760-41c3-8682-4e7e14c676d2-tr
   priority: 0
-  slug: hsm-collection-live-edge-wandregal-90-cm
+  slug: hsm-collection-live-edge-wandregal-90-cm-jpg-product-1
   type: product
 offerId: 7eca4524-7a0a-41bf-bc40-2d0ee8fedc3b
 price:

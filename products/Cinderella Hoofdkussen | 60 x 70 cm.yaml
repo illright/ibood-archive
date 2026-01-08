@@ -19,13 +19,16 @@ freeDelivery: false
 id: a0092c70-1b89-48bb-889f-cdd110593ae8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1332306
-  priority: 100
-  slug: cinderella-hoofdkussen-60-x-70-cm
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 84c1755d-7282-4791-b0c4-e51bd3532a15-tr
+  priority: 0
+  slug: poduszka-cinderella-60-x-70-cm-jpg-product-101
   type: product
 logo:
   channels:

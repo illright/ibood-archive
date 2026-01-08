@@ -19,13 +19,14 @@ freeDelivery: false
 id: 61d077c1-45cc-49e6-a748-3f496e898171
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2239472
-  priority: 100
-  slug: kalune-design-orion-koffietafelset-honey-oak
+    - all
+  extension: image/png
+  id: 3f805d78-b975-4129-98ae-4eaa1d6d82d6-tr
+  priority: 0
+  slug: kalune-design-orion-koffietafelset-honey-oak-jpg-product-101
   type: product
 logo:
   channels:

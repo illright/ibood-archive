@@ -19,13 +19,16 @@ freeDelivery: false
 id: 736d48cf-8a3c-4303-ade5-d559db81c0d2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1464349
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 44e8c969-de60-4bbd-b252-b1d1bfed49fe-tr
   priority: 0
-  slug: spectrum-dover-schoonloopmat-80x120
+  slug: spectrum-fumatte-dover-80-x-120-cm-jpg-product-6
   type: product
 offerId: 4eeeed81-1816-4fa6-adfb-479cc699e204
 price:

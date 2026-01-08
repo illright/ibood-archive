@@ -19,13 +19,16 @@ freeDelivery: false
 id: da0d8d0e-cbe4-4ce9-8bfa-0e053e19bb66
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1954500
-  priority: 100
-  slug: vitapur-bamboo-support-kissen-50-x-70-cm
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 76857dc8-e887-421b-8527-50a32f4c38ff-tr
+  priority: 0
+  slug: vitapur-bamboo-support-kissen-50-x-70-cm-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2b5e9658-2841-4f85-9aa5-7feaf6a49592
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1822053
+    - all
+    - app
+    - website
+  extension: image/png
+  id: feb2d35c-33aa-401a-a4c5-99c902c38b4d-tr
   priority: 0
-  slug: vitapur-premium-ionity-anatomisches-kissen
+  slug: vitapur-premium-ionity-anatomisches-kissen-jpg-product-1
   type: product
 logo:
   channels:

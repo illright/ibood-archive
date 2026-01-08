@@ -1,38 +1,50 @@
-_id: 695bd01c91cf3d61d8f2b0cc
+_id: 695bce2c0259839afd418aea
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917208'
-classicProductId: '666619'
+  - b604d8a1-3cf0-562c-a529-4b038a22faed
+classicId: '2916675'
+classicProductId: '666625'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 58
+discount: 50
 end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 0ea62ab0-83a6-4f0a-ac02-b97af41073fa
+id: 6a0b8778-1d3d-455b-ae98-12a7add8d270
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - website
+    - app
+    - website
+    - app
   extension: image/png
-  id: 9c60d743-c9cd-42fb-a2a8-e55f7332b89d
+  id: 379d2dec-809f-41dd-8ce2-389560e38e92-tr
   priority: 0
-  slug: wol-trui-main-png-product-1
+  slug: xxl-oceana-tb0a5m1veyo1-jaff-wool-blended-crew-neck-men-timberland-product-4
   type: product
-offerId: 5954d42f-231a-47ad-8663-4f4c595b5c4f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
+  type: logo
+offerId: 98e3eb9e-f4f2-4fac-aeae-ead97da2ae9d
 price:
-  cents: 4995
+  cents: 5995
   currency: EUR
-  value: 49.95
+  value: 59.95
 referencePrice:
   cents: 12000
   currency: EUR

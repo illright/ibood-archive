@@ -19,13 +19,16 @@ freeDelivery: false
 id: e2663cb2-d074-4017-8e6e-1c3845edd117
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1338161
+    - all
+    - app
+    - website
+  extension: image/png
+  id: bac1ec3c-38a2-4f5d-9ce1-dfe62821c582-tr
   priority: 0
-  slug: lifa-living-luxe-3-delige-toiletset
+  slug: lifa-living-toilettenset-3-teilig-2-jpg-product-2
   type: product
 logo:
   channels:
@@ -35,7 +38,7 @@ logo:
   extension: png
   id: 1577054
   priority: 100
-  slug: lifa-living-luxe-3-delige-toiletset
+  slug: lifa-living-toilettenset-3-teilig
   type: logo
 offerId: 784f58d4-58c6-474c-82cf-e29a3fc3e999
 price:

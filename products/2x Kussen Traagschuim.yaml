@@ -19,13 +19,16 @@ freeDelivery: false
 id: 05ec9255-1467-4fda-92f2-5ce5e9bc7311
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1741705
-  priority: 100
-  slug: 2x-sleepmed-memory-schaum-kissen
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 94ecd70e-6459-40d5-bd00-3bd57485f53d-tr
+  priority: 0
+  slug: 2x-sleepmed-memory-schaum-kissen-jpg-product-101
   type: product
 logo:
   channels:

@@ -19,13 +19,16 @@ freeDelivery: false
 id: cf7b10ac-eba4-4b7c-afcd-0fb276360781
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1897629
-  priority: 1
-  slug: ten-cate-4-jahreszeitendecke
+    - all
+    - app
+    - website
+  extension: image/png
+  id: bf59b62d-f913-4618-b504-2e0dd3bc02dc-tr
+  priority: 0
+  slug: ten-cate-4-jahreszeitendecke-jpg-product-1
   type: product
 logo:
   channels:

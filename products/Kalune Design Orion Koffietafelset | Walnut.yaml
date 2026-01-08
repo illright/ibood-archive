@@ -19,13 +19,16 @@ freeDelivery: false
 id: 64781ac7-91b8-44f9-b95b-900afa35f046
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2239493
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 39d5f973-e9ec-4071-a614-c416b7277af8-tr
   priority: 0
-  slug: kalune-design-orion-koffietafelset-walnut
+  slug: kalune-design-orion-koffietafelset-walnut-jpg-product-1
   type: product
 logo:
   channels:

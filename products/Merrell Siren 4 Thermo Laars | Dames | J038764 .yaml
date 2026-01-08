@@ -1,22 +1,22 @@
-_id: 695ccf2d08535dbf664a6e89
+_id: 695e75598473d499aeb9841a
 appOnly: false
 brand: Merrell
 brands:
   - id: d199d883-246f-5414-be80-7a8501ca9f77
     name: Merrell
 categories:
-  - 3feace1a-b92f-558a-9c58-29b53365f570
-classicId: '2917617'
-classicProductId: '676028'
+  - c5124f09-49b3-55e6-9807-f587bdc92166
+classicId: '2926137'
+classicProductId: '676023'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 48
 end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: d98d6ba7-681b-45af-8bf8-f4a56b7ed5e7
+id: e039a013-d747-4a79-b03b-3716d875b835
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: 42-hazel-j038764-siren-4-thermo-mid-zip-wp-merrell-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1718923
-  priority: 100
-  slug: merrell-logo
-  type: logo
-offerId: f32065e2-2706-4901-a625-e51991fa48d6
+offerId: 6ca54737-042a-4caa-8a8d-49eaf3831dee
 price:
   cents: 10995
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 210
 slug: merrell-siren-4-thermo-laars-dames-j038764
-soldOut: false
+soldOut: true
 start: '2026-01-06T23:00:00.000Z'
 title: 'Merrell Siren 4 Thermo Laars | Dames | J038764 '

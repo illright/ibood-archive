@@ -19,13 +19,16 @@ freeDelivery: false
 id: d03207b5-3d14-40da-bfd2-4efe944681d7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 885065
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7716dabe-78fd-43e9-999a-7808d90b0f42-tr
   priority: 0
-  slug: spinder-kapstok-forest
+  slug: spinder-design-forest-3-wandgarderobe-1-jpg-product-1
   type: product
 logo:
   channels:

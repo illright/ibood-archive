@@ -19,13 +19,16 @@ freeDelivery: false
 id: 468ce75d-6a27-4daa-b73a-f04eae5a6e96
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2095718
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 91cea3d4-b0fb-410e-baaa-f2c2b0b10427-tr
   priority: 0
-  slug: vitality-pur-4-jahreszeiten-decke
+  slug: vitality-pur-4-jahreszeiten-decke-jpg-product-1
   type: product
 logo:
   channels:

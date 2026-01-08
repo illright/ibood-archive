@@ -19,13 +19,16 @@ freeDelivery: false
 id: b7a78039-0089-4c51-823a-92e3300bbc6f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1911637
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1ded7775-f3f1-4945-81b5-1945b20d81f5-tr
   priority: 0
-  slug: vitapur-memosilver-fresh-kopfkissen-40-x-60-cm
+  slug: vitapur-memosilver-fresh-kopfkissen-40-x-60-cm-jpg-product-1
   type: product
 logo:
   channels:

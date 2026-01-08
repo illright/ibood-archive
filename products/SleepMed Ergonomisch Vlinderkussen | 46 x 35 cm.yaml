@@ -19,13 +19,16 @@ freeDelivery: false
 id: 925671e6-86d6-4b72-babd-170a368e1691
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1761909
-  priority: 100
-  slug: sleepmed-ergonomisch-vlinderkussen-46-x-35-cm
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 8c27374d-4227-4fc3-b090-acbe7d81497e-tr
+  priority: 0
+  slug: sleepmed-schmetterlingskissen-46-x-35-cm-jpg-product-101
   type: product
 logo:
   channels:

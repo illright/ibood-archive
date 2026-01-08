@@ -19,13 +19,14 @@ freeDelivery: false
 id: 964128c4-46f5-4cc6-b57c-4e0d2ba87b74
 image:
   channels:
-    - website
-    - app
     - newsletter
-  extension: png
-  id: 2057493
+    - all
+    - app
+    - website
+  extension: image/png
+  id: bee23743-f202-4724-93f1-91bf9b93762b-tr
   priority: 0
-  slug: flinq-led-kerzenset-rauchglas-3-teilig
+  slug: candle-02-jpg-product-1
   type: product
 logo:
   channels:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: flinq-3-delige-led-kaarsenset
-soldOut: false
+soldOut: true
 start: '2026-01-06T23:00:00.000Z'
 title: FlinQ LED Kaarsenset | 3-delig

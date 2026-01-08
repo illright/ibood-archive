@@ -19,13 +19,16 @@ freeDelivery: false
 id: 70dfa642-8974-48a6-8146-23d88021aa41
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2035511
+    - all
+    - app
+    - website
+  extension: image/png
+  id: eb42b2c4-9a95-4437-ba85-d9bb978ce40c-tr
   priority: 0
-  slug: 2x-multifurn-yerevan-esszimmerstuhl
+  slug: 2x-multifurn-yerevan-esszimmerstuhl-png-product-47
   type: product
 logo:
   channels:

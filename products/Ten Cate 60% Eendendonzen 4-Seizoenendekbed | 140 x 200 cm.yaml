@@ -19,13 +19,16 @@ freeDelivery: false
 id: bdffb740-93fe-44b0-bf96-5222f8121888
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1368161
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c48b5789-f319-4741-be02-35e8c11aa51e-tr
   priority: 0
-  slug: 4-seizoenendekbed-60-eendendons-kies-je-maat
+  slug: ten-cate-4-jahreszeiten-decke-140-x-200-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -46,7 +49,7 @@ referencePrice:
   cents: 39995
   currency: EUR
   value: 399.95
-slug: 4-seizoenendekbed-60-eendendons-kies-je-maat
+slug: 4-seizoenendekbed-60-eendendons-140-x-200-cm
 soldOut: false
 start: '2026-01-06T23:00:00.000Z'
 title: Ten Cate 60% Eendendonzen 4-Seizoenendekbed | 140 x 200 cm

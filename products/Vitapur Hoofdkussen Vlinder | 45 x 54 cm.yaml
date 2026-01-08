@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4e46479b-2676-4c30-b1b9-daed97f00824
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1822017
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 0c1051df-8231-4d7e-bb08-05003340ca6c-tr
   priority: 0
-  slug: vitapur-hoofdkussen-vlinder-45-x-54-cm
+  slug: vitapur-kissen-gegen-nackenbeschwerden-jpg-product-1
   type: product
 logo:
   channels:
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 79.95
 slug: vitapur-hoofdkussen-vlinder-45-x-54-cm
-soldOut: false
+soldOut: true
 start: '2026-01-06T23:00:00.000Z'
 title: Vitapur Hoofdkussen Vlinder | 45 x 54 cm
