@@ -19,13 +19,14 @@ freeDelivery: false
 id: c6175ae5-9905-4730-b558-90c9714664f9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1583858
+    - all
+  extension: image/png
+  id: 3d12cae3-22fe-479d-b25d-4124ddf8a321
   priority: 0
-  slug: 2x-house-nordic-harbo-eetkamerstoel
+  slug: 2x-house-nordic-harbo-esszimmerstuhl-1-png-product-29
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 1583864
   priority: 100
-  slug: 2x-house-nordic-harbo-eetkamerstoel
+  slug: 2x-house-nordic-harbo-esszimmerstuhl
   type: logo
 offerId: 95d43b92-fbe0-43d5-ad1c-2e2367f0b6cd
 price:

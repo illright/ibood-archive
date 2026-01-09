@@ -19,13 +19,14 @@ freeDelivery: false
 id: bbb26a01-4b84-4d2a-bb70-16884c7c479b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1076603
+    - all
+  extension: image/png
+  id: ba06bd56-bd0b-400c-83c1-01069dc0a0e3
   priority: 0
-  slug: empose-nutrition-water-clear-isolate
+  slug: empose-01-png-product-1
   type: product
 logo:
   channels:

@@ -1,4 +1,4 @@
-_id: 695d05183703a31afd55c1df
+_id: 695d0470e980bee84c2c367f
 appOnly: false
 brand: PHLOX
 brands:
@@ -6,8 +6,8 @@ brands:
     name: PHLOX
 categories:
   - 88da9ba9-7b4a-5e53-846b-6f0cf4c3a31c
-classicId: '2921814'
-classicProductId: '324479'
+classicId: '2921439'
+classicProductId: '324481'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 67
 end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 4cff8437-3749-4e57-ab65-92f2bcd3b654
+id: 54dc661f-6d72-452c-a14b-d679945a351f
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2015156
-  priority: 100
-  slug: phlox-logo
+    - all
+  extension: image/png
+  id: fe78473e-8225-4a67-9be1-804b20c0ce95
+  priority: 0
+  slug: 6x-phlox-supreme-washandje-16-x-21-cm-logo-0
   type: logo
-offerId: f6aba726-dd59-41e9-8273-9a4584901a4d
+offerId: 2e4218ca-ff5b-40eb-afee-4b334ae5eabc
 price:
   cents: 995
   currency: EUR
