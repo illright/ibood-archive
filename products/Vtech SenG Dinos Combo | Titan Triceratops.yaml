@@ -1,4 +1,4 @@
-_id: 695e729b8473d499aeb9833f
+_id: 695d3503f6e64ba78afb2ede
 appOnly: false
 brand: VTech
 brands:
@@ -6,7 +6,7 @@ brands:
     name: VTech
 categories:
   - 7bceb65e-2fe0-53be-adf0-3bc78f6550b2
-classicId: '2926058'
+classicId: '2923514'
 classicProductId: '684467'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 38
 end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 6928bed8-2da6-40f2-b67b-3b14211052df
+id: ce9a9746-a7f1-4e25-9d2d-aebfd3f8d250
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 580582123-vtech-seng-dinos-combo-titan-triceratops-product-2
   type: product
-offerId: 1e1128b6-fd94-48e4-a8bd-92d6387434fe
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2d8d305e-8c1b-42e1-939a-1b19e3e0c5cd
+  priority: 0
+  slug: vtech-png-logo-0
+  type: logo
+offerId: 292cc653-ba47-4ff3-bdb8-0e29f5c1214f
 price:
   cents: 995
   currency: EUR

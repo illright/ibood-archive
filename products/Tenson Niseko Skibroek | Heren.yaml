@@ -1,4 +1,4 @@
-_id: 695ccf6e3b2942a9f22946aa
+_id: 695ccf473b2942a9f2294652
 appOnly: false
 brand: TENSON
 brands:
@@ -6,8 +6,8 @@ brands:
     name: TENSON
 categories:
   - 3feace1a-b92f-558a-9c58-29b53365f570
-classicId: '2917674'
-classicProductId: '675968'
+classicId: '2917642'
+classicProductId: '675971'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 44
 end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: 838e7b27-fd52-4bd5-b66f-fa35b8e8e738
+id: ef267c2f-52b3-4426-847a-f4c1c1365fe7
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: tenson-mens-niseko-ski-pants-black-2026-2-800x800-jpg-product-0
   type: product
-offerId: 36e2396f-41a7-4789-a8d0-dded513943a0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1504614
+  priority: 100
+  slug: tenson-logo
+  type: logo
+offerId: b11bcaf8-050b-49cc-89c9-615e7e0073b5
 price:
   cents: 8995
   currency: EUR
