@@ -1,4 +1,4 @@
-_id: 695d05123703a31afd55c1d4
+_id: 695d0433aab7567fb7fa91b1
 appOnly: false
 brand: House Nordic
 brands:
@@ -6,8 +6,8 @@ brands:
     name: House Nordic
 categories:
   - 76cfb8d2-7532-5420-9c30-3ee767c48710
-classicId: '2921817'
-classicProductId: '664130'
+classicId: '2921296'
+classicProductId: '415516'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 71
 end: '2026-01-13T22:59:59.999Z'
 freeDelivery: false
-id: c747ee4d-13d7-4e79-a7ee-8ad60646f04d
+id: a90c612c-59d9-4013-b0a2-e3ebd26aeb6c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1678631
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c8a31755-67cc-4b1d-94b0-cd0c2dbd7b3d-tr
   priority: 0
-  slug: 2x-house-nordic-middelfart-barstuhl
+  slug: 2x-house-nordic-middelfart-barstuhl-7-png-product-3
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: de2eae84-ea21-443f-ad0a-b85beccf7723
+offerId: 2ab3845b-d6be-4c27-9d04-ac9fdb6dd123
 price:
   cents: 10900
   currency: EUR
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 370
 slug: 2x-house-nordic-middelfart-barstoel
-soldOut: false
+soldOut: true
 start: '2026-01-06T23:00:00.000Z'
 title: '2x House Nordic Middelfart Barstoel '
