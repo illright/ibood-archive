@@ -1,22 +1,22 @@
-_id: 695bce570259839afd418b53
+_id: 696502a1715621b0234fcf5a
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 5cd30026-99d0-598e-8fd2-d5950f80fbff
-classicId: '2916774'
+  - 11f24f8a-884e-59f5-b4b8-ee3d1db28569
+classicId: '2932139'
 classicProductId: '669826'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 75
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 06b759be-4f4e-48d0-a7af-2db8da7268be
+id: 3dd2c1c2-0cc9-4b04-9378-5a9cf616137b
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 8257325d-6e63-49e7-9b79-321f7f309bd4
+offerId: 2fe436e3-c07d-4e84-b8e5-b2a8c746f452
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 99.99
 slug: jack-and-jones-miles-mac-coat-black
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: 'Jack & Jones Miles MAC Coat | Black '

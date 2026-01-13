@@ -1,22 +1,22 @@
-_id: 695bcfd291cf3d61d8f2b051
+_id: 69650344715621b0234fd07f
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917154'
-classicProductId: '665556'
+  - 59dcd1cf-dd71-552b-9751-9d97ee223505
+classicId: '2932307'
+classicProductId: '665546'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: c2ca5290-40bf-4fda-8c78-2b2fbeeff4b3
+id: 89eac473-06c9-4c82-8f32-326014884ef0
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 3f2fa232-5e53-46da-9045-4346061a655c
+  id: 3ed7b947-830a-4302-a657-9a70693288cb
   priority: 0
-  slug: petrol-68-png-product-1
+  slug: petrol-64-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: f65369d9-5ab3-4ed8-a1fd-5da6d1a8f668
+offerId: d8af27b7-c395-4007-bf24-20859f303b00
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 59.99
 slug: petrol-hoodie-heren
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Petrol Hoodie | Heren

@@ -1,22 +1,22 @@
-_id: 695bd05a0259839afd418ced
+_id: 69650502715621b0234fd1ba
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917258'
-classicProductId: '672882'
+  - fb6f020b-1757-57e2-9eeb-20707896ea51
+classicId: '2932924'
+classicProductId: '672881'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 56
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 85e6722e-ea4d-438d-a941-0f3ca9b0784c
+id: ce741c82-bbe5-418e-9c4f-b2c6dffe2447
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: xxl-pale-blue-1658-25ls556-ls-shirt-nza-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1634994
-  priority: 100
-  slug: nza-logo
-  type: logo
-offerId: bfd9e41e-3136-41fd-ada3-cd0bdbc3c687
+offerId: d3ec8528-0faa-4472-ab46-9e87ab12eec1
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 89.99
 slug: nza-overhemd-katoen-25ls556-pale-blue
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: NZA Overhemd Katoen | 25LS556 | Pale Blue

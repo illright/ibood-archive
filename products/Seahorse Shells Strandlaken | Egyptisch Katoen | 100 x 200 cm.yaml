@@ -19,13 +19,14 @@ freeDelivery: false
 id: 28a3ee52-f562-4223-9dc9-c33ef90fe784
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1266526
+    - all
+  extension: image/png
+  id: 22de46ea-052d-4cac-b6ff-c941b53cf318
   priority: 0
-  slug: seahorse-strandlaken-shells-100-x-200-cm
+  slug: strandlaken-png-product-1
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: jpg
   id: 1266528
   priority: 100
-  slug: seahorse-strandlaken-shells-100-x-200-cm
+  slug: recznik-seahorse-shells-100-x-200-cm
   type: logo
 offerId: 05cb2686-60f0-4da6-92d2-c124784465c3
 price:

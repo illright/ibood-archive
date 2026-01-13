@@ -1,22 +1,22 @@
-_id: 695bce8991cf3d61d8f2aec2
+_id: 6965032185daa9e2dfd32a83
 appOnly: false
 brand: Lee Jeans
 brands:
   - id: e5977104-f5e7-52a0-b91e-221b59650c5b
     name: Lee Jeans
 categories:
-  - 3cea9272-023e-5f5d-9ca8-18ba110546f2
-classicId: '2916847'
-classicProductId: '670548'
+  - 2c772502-e30a-56fa-987a-69e1a4fe448e
+classicId: '2932267'
+classicProductId: '670571'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 2feaed69-5ad6-45b2-a197-ecb3b2e6b36e
+id: 3aa4771e-c71c-4201-8d5d-350d74daa45b
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5008247c-cce9-4746-9843-dee350d30af9
+  id: 8d8a5949-7f60-4c57-acaa-52f10f118b23
   priority: 0
-  slug: w32-l32-true-112371078-brooklyn-straight-lee-product-3
+  slug: w40-l34-baleigh-112372639-brooklyn-straight-lee-product-7
   type: product
-offerId: b8159b6a-ab30-4c46-ac66-dd67c43016b5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1782704
+  priority: 100
+  slug: lee-jeans-logo
+  type: logo
+offerId: f45562b6-e7b0-4c56-ba32-1402f9805980
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 99.95
 slug: lee-brooklyn-straight-jeans-heren
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Lee Brooklyn Straight Jeans | Heren

@@ -1,12 +1,12 @@
-_id: 695bce89cc8314258a3de023
+_id: 696502ede820ebd67408c96b
 appOnly: false
 brand: Lee Jeans
 brands:
   - id: e5977104-f5e7-52a0-b91e-221b59650c5b
     name: Lee Jeans
 categories:
-  - 3cea9272-023e-5f5d-9ca8-18ba110546f2
-classicId: '2916853'
+  - 2c772502-e30a-56fa-987a-69e1a4fe448e
+classicId: '2932227'
 classicProductId: '670615'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 05c772ee-b797-428a-aebe-c6755c928e40
+id: cb95956c-9997-42ad-b8ef-468579310b2d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: w33-l34-baleigh-112372635-daren-zip-lee-product-5
   type: product
-offerId: ecf8657f-e2a3-40a2-814b-efb0e26517bc
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1782704
+  priority: 100
+  slug: lee-jeans-logo
+  type: logo
+offerId: 16385b98-e908-42cf-bf03-8900328a00b0
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 99.95
 slug: lee-daren-low-stretch-regular-jeans-heren
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Lee Daren Low Stretch Regular Jeans | Heren

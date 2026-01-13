@@ -1,22 +1,22 @@
-_id: 695bceb1602db9cf8858ebdc
+_id: 6965023514b121c2639f4929
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - b604d8a1-3cf0-562c-a529-4b038a22faed
-classicId: '2916908'
-classicProductId: '637823'
+  - 2c772502-e30a-56fa-987a-69e1a4fe448e
+classicId: '2931969'
+classicProductId: '637808'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 83
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 606a116d-4b41-4ed1-9d17-37da44c380b1
+id: 41331cc8-95e3-4026-b0a3-5dc4139855a1
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0620f5e2-8921-4b02-8916-f68a403977d5
-  priority: 0
-  slug: 1832625-png-logo-0
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
   type: logo
-offerId: 9fd7d633-bf91-4501-bf40-3cc8fbd1e3d6
+offerId: 21cd0ea3-debb-451a-9180-a5efad0f4b8e
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 89.99
 slug: new-zealand-auckland-legacy-chino-shorts
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: New Zealand Auckland Legacy Chino Shorts | Heren

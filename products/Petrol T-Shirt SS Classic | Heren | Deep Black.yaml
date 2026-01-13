@@ -1,22 +1,22 @@
-_id: 695bd0985e3cfc36fcda1b7a
+_id: 6965031f3bb4bbcea72bbe04
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917325'
-classicProductId: '665295'
+  - 59dcd1cf-dd71-552b-9751-9d97ee223505
+classicId: '2932277'
+classicProductId: '665289'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 60
-end: '2026-01-13T22:59:59.999Z'
+directCheckout: false
+discount: 40
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: e05b1c97-13b1-43fc-a7d2-53683001cc5b
+id: 35bf4cea-4da3-41b6-8962-750f4620b195
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 0b01f0be-930c-41b9-bc52-6683b31d765d
+  id: 50bb807d-eeed-4381-8970-33a9ce258f23
   priority: 0
-  slug: s-deep-black-m-3050-tsr128-9111-men-t-shirt-ss-classic-print-petrol-product-0
+  slug: l-deep-black-m-3050-tsr125-9111-men-t-shirt-ss-classic-print-petrol-product-0
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 9bbefc40-b946-4068-b942-e288afce13b1
+offerId: d5dec74a-daee-41bb-b0fa-0ad3a67a911b
 price:
-  cents: 995
+  cents: 1500
   currency: EUR
-  value: 9.95
+  value: 15
 referencePrice:
   cents: 2499
   currency: EUR
   value: 24.99
 slug: petrol-t-shirt-ss-classic-heren-deep-black
-soldOut: true
-start: '2026-01-05T23:00:00.000Z'
+soldOut: false
+start: '2026-01-12T23:00:00.000Z'
 title: Petrol T-Shirt SS Classic | Heren | Deep Black

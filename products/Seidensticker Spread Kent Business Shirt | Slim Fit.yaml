@@ -1,22 +1,22 @@
-_id: 695bd047602db9cf8858ecb0
+_id: 6965057ee820ebd67408ca19
 appOnly: false
 brand: Seidensticker
 brands:
   - id: 1d526062-f5ca-5b64-aa47-092abced1dba
     name: Seidensticker
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917240'
-classicProductId: '662039'
+  - fb6f020b-1757-57e2-9eeb-20707896ea51
+classicId: '2933033'
+classicProductId: '662026'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 62
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 228acda4-76cf-4bb8-a3b2-a55cd66f3568
+id: 62450e89-2c69-413d-a4d0-2c699788ab98
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: c8f56a41-c8f6-4d94-9c71-bb6fea7ed132
+  id: 7059b58c-16ad-48f2-997a-845ddc087b66
   priority: 0
-  slug: 01-png-product-1
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: seidensticker-logo
   type: logo
-offerId: 31a65db1-f2d7-4ba7-b3f4-ad2ae5b3dd57
+offerId: 39fdd07e-29f9-4a3a-9bd5-a0e33a9981b4
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 79.99
 slug: seidensticker-spread-kent-business-shirt-slim-fit
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Seidensticker Spread Kent Business Shirt | Slim Fit

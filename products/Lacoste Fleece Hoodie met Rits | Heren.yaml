@@ -1,22 +1,22 @@
-_id: 695bcf8f602db9cf8858ec53
+_id: 6965024f715621b0234fce98
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917116'
-classicProductId: '669357'
+  - efe182e8-d4eb-5654-9eac-8ecff26f6205
+classicId: '2931992'
+classicProductId: '669361'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 63
-end: '2026-01-13T22:59:59.999Z'
+discount: 47
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: ea3ba210-df7b-415d-8cff-635684c0d338
+id: b2b1010b-f3d7-49ce-970c-666a6473b647
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: lacoste-44-png-product-1
   type: product
-offerId: 71deb25d-54ad-4736-bd49-adbe9ffa1606
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: 1a2ff470-5dfc-4923-acfd-3d2bc37f44de
 price:
-  cents: 5500
+  cents: 7995
   currency: EUR
-  value: 55
+  value: 79.95
 referencePrice:
   cents: 15000
   currency: EUR
   value: 150
 slug: lacoste-fleece-hoodie-met-rits-heren
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Lacoste Fleece Hoodie met Rits | Heren

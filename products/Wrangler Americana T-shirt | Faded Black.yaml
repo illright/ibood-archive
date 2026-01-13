@@ -1,22 +1,22 @@
-_id: 695bd0375e3cfc36fcda1ab2
+_id: 6965051a715621b0234fd209
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917230'
-classicProductId: '656617'
+  - fb6f020b-1757-57e2-9eeb-20707896ea51
+classicId: '2932960'
+classicProductId: '656618'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 63dd743f-5819-4bd7-bb06-763c45699580
+id: a5fde830-a2a1-4094-a49e-0086f5096d7a
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: s-faded-black-americana-tee-112371416-americana-tee-wrangler-product-7
   type: product
-offerId: ac0032e8-bc7d-42ac-9355-f62f1a38d033
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
+  type: logo
+offerId: 2be33592-2bed-408c-91a3-ad8d32451c74
 price:
   cents: 1000
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 24.95
 slug: wrangler-americana-t-shirt-faded-black
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Wrangler Americana T-shirt | Faded Black

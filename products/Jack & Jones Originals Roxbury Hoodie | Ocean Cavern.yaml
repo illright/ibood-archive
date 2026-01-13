@@ -1,12 +1,12 @@
-_id: 695bcfd791cf3d61d8f2b058
+_id: 6965045119eeaaa90217f251
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917158'
+  - fb6f020b-1757-57e2-9eeb-20707896ea51
+classicId: '2932659'
 classicProductId: '652752'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: f41513c2-4255-4ff9-b555-be4953a03900
+id: c5fb20d0-ce6e-44ba-ba58-45b1a4422f67
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
+    - all
+  extension: image/png
+  id: 9882d896-cde8-4798-a5b3-c6163862dca1
+  priority: 0
+  slug: jack-jones-o-neck-t-shirt-core-classic-png-logo-0
   type: logo
-offerId: e8e2bb43-7b9e-4ebb-a388-c58c4ce3acee
+offerId: 358cb924-95b2-4e6b-8e6f-a7be802b9d3b
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-originals-roxbury-hoodie-ocean-cavern
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Jack & Jones Originals Roxbury Hoodie | Ocean Cavern

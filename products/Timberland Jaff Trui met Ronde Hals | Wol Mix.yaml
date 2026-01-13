@@ -1,34 +1,32 @@
-_id: 695bce2c0259839afd418aea
+_id: 696503e885daa9e2dfd32aef
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - b604d8a1-3cf0-562c-a529-4b038a22faed
-classicId: '2916675'
-classicProductId: '666625'
+  - fb6f020b-1757-57e2-9eeb-20707896ea51
+classicId: '2932398'
+classicProductId: '666619'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 6a0b8778-1d3d-455b-ae98-12a7add8d270
+id: e3dcd93b-0861-4c44-b77a-1ad108478828
 image:
   channels:
+    - app
+    - website
     - newsletter
     - all
-    - website
-    - app
-    - website
-    - app
   extension: image/png
-  id: 379d2dec-809f-41dd-8ce2-389560e38e92-tr
+  id: 9c60d743-c9cd-42fb-a2a8-e55f7332b89d
   priority: 0
-  slug: xxl-oceana-tb0a5m1veyo1-jaff-wool-blended-crew-neck-men-timberland-product-4
+  slug: wol-trui-main-png-product-1
   type: product
 logo:
   channels:
@@ -40,7 +38,7 @@ logo:
   priority: 100
   slug: timberland-logo
   type: logo
-offerId: 98e3eb9e-f4f2-4fac-aeae-ead97da2ae9d
+offerId: a9bcbd09-8810-40c1-b4e4-a1aa7c67da38
 price:
   cents: 5995
   currency: EUR
@@ -51,5 +49,5 @@ referencePrice:
   value: 120
 slug: timberland-jaff-trui-ronde-hals-wol-mix
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Timberland Jaff Trui met Ronde Hals | Wol Mix

@@ -1,32 +1,31 @@
-_id: 695bce105e3cfc36fcda1814
+_id: 696502613bb4bbcea72bbd0b
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - b604d8a1-3cf0-562c-a529-4b038a22faed
-classicId: '2916637'
-classicProductId: '638392'
+  - fb6f020b-1757-57e2-9eeb-20707896ea51
+classicId: '2932018'
+classicProductId: '537856'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 75
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 4157550a-1b96-44fa-aa51-0714f41b765f
+id: b1a7b277-ce01-4d72-8ef6-73dbf64f6a90
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: de684066-39d5-4d71-a5a8-4daa9a8bd7a9
+  extension: png
+  id: 1766105
   priority: 0
-  slug: mcgregor-10-png-product-1
+  slug: mcgregor-classic-poloshirt
   type: product
 logo:
   channels:
@@ -36,9 +35,9 @@ logo:
   extension: png
   id: 1765373
   priority: 100
-  slug: mcgregor-classic-polo-herren
+  slug: mcgregor-classic-poloshirt
   type: logo
-offerId: d589f83d-8413-4bea-b8cd-6926012723d8
+offerId: d9eb588b-0c4a-44b9-8069-773fbe6f869c
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 79.95
 slug: mcgregor-classic-poloshirt
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: McGregor Classic Poloshirt | Heren

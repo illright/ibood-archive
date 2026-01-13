@@ -1,12 +1,12 @@
-_id: 695bceb20259839afd418bcf
+_id: 69650374e820ebd67408c9a0
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - b604d8a1-3cf0-562c-a529-4b038a22faed
-classicId: '2916915'
+  - 59dcd1cf-dd71-552b-9751-9d97ee223505
+classicId: '2932338'
 classicProductId: '636690'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 80
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: b2a41d96-9c05-416c-bd96-7e6ca12ac519
+id: 776435d6-40a3-4645-8f19-44bb8ea2456e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bc581c34-e4cc-4690-9490-343355e89688
-  priority: 0
-  slug: heren-polo-short-sleeve-petrol-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: eacabc11-a9c8-4453-a78f-af22bca1119f
+offerId: d6db3da7-e9a4-437e-9b39-7afb0cc2963e
 price:
   cents: 795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: petrol-industries-poloshirt
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Petrol Industries Poloshirt | Heren

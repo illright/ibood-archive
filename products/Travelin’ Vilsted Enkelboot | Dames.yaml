@@ -1,22 +1,22 @@
-_id: 695ccf403b2942a9f2294637
+_id: 695cfd7908535dbf664a747d
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 3feace1a-b92f-558a-9c58-29b53365f570
-classicId: '2917633'
-classicProductId: '676737'
+  - 93ba4686-d840-511b-b4ca-63635fed0f94
+classicId: '2920958'
+classicProductId: '676716'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 56
-end: '2026-01-13T22:59:59.999Z'
+directCheckout: false
+discount: 68
+end: '2026-01-15T22:59:59.999Z'
 freeDelivery: false
-id: c301e879-7048-4f45-81e1-3c7989e42574
+id: 3f234443-f2de-56e4-886f-a5d543bd41a3
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: cc1c7486-3c45-4f4e-b677-6f751628d7c5
+offerId: c82c371f-9cb0-5943-8bac-2de3e6427886
 price:
-  cents: 10995
+  cents: 7995
   currency: EUR
-  value: 109.95
+  value: 79.95
 referencePrice:
   cents: 24995
   currency: EUR
   value: 249.95
 slug: travelin-vilsted-enkelboot-dames
-soldOut: true
-start: '2026-01-06T23:00:00.000Z'
+soldOut: false
+start: '2026-01-11T23:00:00.000Z'
 title: Travelin’ Vilsted Enkelboot | Dames

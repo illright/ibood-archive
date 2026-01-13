@@ -1,22 +1,22 @@
-_id: 695bce49cc8314258a3ddfa2
+_id: 696502468009d0890cfa9784
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2916731'
-classicProductId: '672837'
+  - fb6f020b-1757-57e2-9eeb-20707896ea51
+classicId: '2931982'
+classicProductId: '672828'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 62
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 76ffff8c-751b-4ae0-927b-79d8f1da199f
+id: 2c0ce30d-95c9-440b-ab3f-192379789921
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d0babeca-bed8-46f6-a8f5-2e4710509e18
-  priority: 0
-  slug: nza-png-logo-0
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
   type: logo
-offerId: c021000a-d964-4e3f-afdd-15ed5fc3210a
+offerId: fcde67f7-ea60-460a-aaee-d15d0b31fa7a
 price:
-  cents: 4995
+  cents: 5000
   currency: EUR
-  value: 49.95
+  value: 50
 referencePrice:
   cents: 12999
   currency: EUR
   value: 129.99
 slug: new-zealand-auckland-half-button-pullover-heren
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: New Zealand Auckland Half Button Pullover | Heren

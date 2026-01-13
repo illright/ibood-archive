@@ -1,22 +1,22 @@
-_id: 695bcdfe602db9cf8858eae2
+_id: 69650248831f8445612a413a
 appOnly: false
 brand: Cars Jeans
 brands:
   - id: 1606205d-b37b-5b13-b9d4-f198ca94cb65
     name: Cars Jeans
 categories:
-  - 5cd30026-99d0-598e-8fd2-d5950f80fbff
-classicId: '2916622'
-classicProductId: '661957'
+  - 11f24f8a-884e-59f5-b4b8-ee3d1db28569
+classicId: '2931989'
+classicProductId: '661948'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 75
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 965b96cd-a42d-4c6c-a22a-eb899425f253
+id: 2bb08107-c0d9-440c-a454-f8b282c5d1c9
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: cars-10-png-product-1
   type: product
-offerId: 3690a456-7e90-4605-b861-21cf56bed756
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1761081
+  priority: 100
+  slug: cars-jeans-logo
+  type: logo
+offerId: b6b0ee5c-58d7-437d-a819-8230c8b1483c
 price:
   cents: 3000
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119.99
 slug: cars-jeans-lonely-jacket-heren
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Cars Jeans Lonely Jacket | Heren

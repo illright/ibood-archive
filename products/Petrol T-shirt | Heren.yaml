@@ -1,22 +1,22 @@
-_id: 695bd06a5e3cfc36fcda1b03
+_id: 6965035a19eeaaa90217f167
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - b049969f-56bb-54b3-baa5-98b88227739a
-classicId: '2917271'
-classicProductId: '665458'
+  - 59dcd1cf-dd71-552b-9751-9d97ee223505
+classicId: '2932322'
+classicProductId: '665448'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 46
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: e7bdd0df-16fb-4829-90f9-64020549e4bd
+id: 3e3a4ea2-f3ba-4d67-9349-30a10370bf2b
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 06be6908-d3e9-49af-bd46-99c818350979
+  id: 67556c08-95b0-4114-aa78-c9d834057092
   priority: 0
-  slug: petrol-54-png-product-1
+  slug: petrol-56-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 28a0d7f0-5424-4800-a0f9-5619eb2746eb
+offerId: d92170f5-da9f-428d-aef9-e3270e9b03f6
 price:
   cents: 1500
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 27.99
 slug: petrol-t-shirt-heren
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-12T23:00:00.000Z'
 title: Petrol T-shirt | Heren
