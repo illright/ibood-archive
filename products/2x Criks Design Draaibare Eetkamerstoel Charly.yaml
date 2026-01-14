@@ -1,12 +1,12 @@
-_id: 695d04abe980bee84c2c36b2
+_id: 6966505e85daa9e2dfd3365f
 appOnly: false
 brand: Criks Design
 brands:
   - id: 4c7735c3-d9e7-52c5-9a21-d0155dad8a6e
     name: Criks Design
 categories:
-  - 76cfb8d2-7532-5420-9c30-3ee767c48710
-classicId: '2921613'
+  - 4e835a24-48b1-5aa0-9008-e2bd7e1d65a4
+classicId: '2938071'
 classicProductId: '684945'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 54
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: f1c372c4-4578-4065-8548-28a9c84fee80
+id: cbe5987c-7cfc-4c81-8959-b389e5d39626
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1919150
+    - all
+  extension: image/png
+  id: 2af90a5b-d963-4a54-80f3-9d5152c3b6fd
   priority: 0
-  slug: 2x-criks-design-draaibare-eetkamerstoel-charly
+  slug: 2x-criks-design-draaibare-eetkamerstoel-charly-product-35
   type: product
 logo:
   channels:
@@ -35,9 +36,9 @@ logo:
   extension: png
   id: 1919117
   priority: 100
-  slug: 2x-criks-design-draaibare-eetkamerstoel-charly
+  slug: criks-design-logo
   type: logo
-offerId: 24010289-3959-45ff-bc21-ea1269a3d8bc
+offerId: 3fdd7fb2-ea78-4c20-89dc-108025a40363
 price:
   cents: 22900
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 498
 slug: 2x-criks-design-draaibare-eetkamerstoel-charly
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: 2x Criks Design Draaibare Eetkamerstoel Charly

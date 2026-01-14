@@ -1,12 +1,12 @@
-_id: 695d33906a9b8aef3250e090
+_id: 69664fc41294accd1403331a
 appOnly: false
 brand: Velleman
 brands:
   - id: bfbaa7de-e419-52bd-b68f-dcdd8f8be509
     name: Velleman
 categories:
-  - 7bceb65e-2fe0-53be-adf0-3bc78f6550b2
-classicId: '2923368'
+  - 1c61c617-2cb2-5969-9372-c8b56506291e
+classicId: '2937779'
 classicProductId: '671748'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 30
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: ddfa8991-7371-4b49-a097-bda7070d23af
+id: 5d14548d-9763-46d4-b7e7-7ffae2b664c8
 image:
   channels:
     - app
     - newsletter
     - all
     - website
-  extension: image/jpeg
-  id: bcc84e67-07d7-4af3-8d6c-f2fb99cea9fc
+    - app
+    - website
+  extension: image/png
+  id: bcc84e67-07d7-4af3-8d6c-f2fb99cea9fc-tr
   priority: 0
   slug: velleman-elektronische-projecten-kit-50-experimenten-circuit-lab-product-4
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: velleman-logo
   type: logo
-offerId: c72f0d7c-3f3d-469c-93bd-1beea7572351
+offerId: cf4a8235-0867-4db4-84ec-6f995b58d8b9
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 49.95
 slug: velleman-kns130-elektronica-projectset-50-experimenten
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Velleman KNS130 Elektronica Projectset | 50 Experimenten

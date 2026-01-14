@@ -1,12 +1,12 @@
-_id: 695ce3ce08535dbf664a7272
+_id: 6966493859a899bd18688120
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - 94aa9327-16b7-5381-b28a-df4b2cc22054
-classicId: '2918884'
+  - b6550112-584c-5d6a-a54a-1913ffcbcad8
+classicId: '2936528'
 classicProductId: '679421'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-20T22:59:59.999Z'
 freeDelivery: false
-id: 247948ba-1a8a-5e43-95ad-68c518dfca42
+id: 2250e026-ce72-4742-b3f6-b6d699ec82ab
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: 6x-dove-original-48h-200ml-product-0
   type: product
-offerId: 26fa7685-9017-533c-b0c5-6f0046ece16f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
+  type: logo
+offerId: 5a6dc03a-0ac2-4ffa-9842-b6f0db153b61
 price:
   cents: 1795
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 46.74
 slug: 6x-dove-original-anti-transpirant-spray-250-ml
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: 6x Dove Original Anti-transpirant Spray | 250 ml

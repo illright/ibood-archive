@@ -1,22 +1,22 @@
-_id: 695d0442dfae82817a651fb9
+_id: 69664fc085daa9e2dfd3352a
 appOnly: false
 brand: PHLOX
 brands:
   - id: 1cbd5816-2f2d-52b8-95a2-7dda5c905c3d
     name: PHLOX
 categories:
-  - 88da9ba9-7b4a-5e53-846b-6f0cf4c3a31c
-classicId: '2921393'
+  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
+classicId: '2937760'
 classicProductId: '324478'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 67
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-20T22:59:59.999Z'
 freeDelivery: false
-id: 3ec0d948-edcd-4ff9-b289-53d384f5b0c7
+id: df32e47b-ee16-4813-a2f5-d726e9f312f7
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: phlox-logo
   type: logo
-offerId: 9a5fa2a7-4a26-4582-88d5-37c16fa48f64
+offerId: f246a8b4-2eeb-464e-bfca-4418029a0ecf
 price:
   cents: 995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 29.95
 slug: 6x-phlox-supreme-washandje-16-x-21-cm
-soldOut: true
-start: '2026-01-06T23:00:00.000Z'
+soldOut: false
+start: '2026-01-13T23:00:00.000Z'
 title: 6x PHLOX Supreme Washandje | 600 g/m² | 16 x 21 cm

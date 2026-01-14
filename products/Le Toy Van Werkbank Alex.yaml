@@ -1,12 +1,12 @@
-_id: 695d33d759ea453da2931ad1
+_id: 69664fe085daa9e2dfd3356a
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 7bceb65e-2fe0-53be-adf0-3bc78f6550b2
-classicId: '2923382'
+  - 1c61c617-2cb2-5969-9372-c8b56506291e
+classicId: '2937835'
 classicProductId: '628804'
 deliveryPrice:
   cents: 895
@@ -14,20 +14,23 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 2a1f3afe-51e3-4f08-9ca6-0d7c6ac4e7b7
+id: 2a42d790-cf60-4e1f-a3f9-7199ee9efd81
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2201736
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b4ba4992-6d25-4cf5-adf6-67b24e9ab2c3-tr
   priority: 0
-  slug: le-toy-van-werkbank-alex
+  slug: le-toy-van-alex-werkbank-ab-3-jahre-1-jpg-product-1
   type: product
-offerId: 9c1b899e-bbc5-4811-92b9-bf716c46c8c3
+offerId: b3a0ab42-8a63-4cee-b1df-4e987d836b21
 price:
   cents: 7495
   currency: EUR
@@ -38,5 +41,5 @@ referencePrice:
   value: 149.99
 slug: le-toy-van-werkbank-alex
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Le Toy Van Werkbank Alex

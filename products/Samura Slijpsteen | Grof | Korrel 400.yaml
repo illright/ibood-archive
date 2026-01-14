@@ -1,12 +1,12 @@
-_id: 695cd5a3fd69c6e7af88a41f
+_id: 6966241819eeaaa90217f79e
 appOnly: false
 brand: Samura
 brands:
   - id: 3a5fdc44-5875-5e72-8076-0dcea8fa54a6
     name: Samura
 categories:
-  - be1e8b83-f9c2-5045-8d7a-937cf1b40511
-classicId: '2918162'
+  - 793e67e8-28d0-51e3-bf76-b22b6f97f91a
+classicId: '2935272'
 classicProductId: '680371'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-20T22:59:59.999Z'
 freeDelivery: false
-id: 25ad147e-dd16-416a-882f-111f2696f1ca
+id: b2fc8e1e-95d4-4cd3-b228-49e7cb922044
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: samura-knife-sharpening-whetstone-400-product-0
   type: product
-offerId: 88e145e9-4350-4272-a12c-5bf6a1afd681
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1676072
+  priority: 100
+  slug: samura-logo
+  type: logo
+offerId: 4cd78169-2d21-481d-9c13-f0227c7e2a71
 price:
   cents: 1395
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 29.99
 slug: samura-slijpsteen-grof-korrel-400
-soldOut: true
-start: '2026-01-06T23:00:00.000Z'
+soldOut: false
+start: '2026-01-13T23:00:00.000Z'
 title: Samura Slijpsteen | Grof | Korrel 400

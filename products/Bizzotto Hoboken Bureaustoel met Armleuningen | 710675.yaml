@@ -1,22 +1,22 @@
-_id: 695d0392e980bee84c2c35da
+_id: 69664f791294accd14033298
 appOnly: false
 brand: Bizzotto
 brands:
   - id: 697db554-7695-52ca-9aed-49c669f2121c
     name: Bizzotto
 categories:
-  - 76cfb8d2-7532-5420-9c30-3ee767c48710
-classicId: '2921075'
-classicProductId: '674918'
+  - 4e835a24-48b1-5aa0-9008-e2bd7e1d65a4
+classicId: '2937650'
+classicProductId: '674919'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 53
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 50b20c56-8138-4e7c-aa51-72e4da0f5465
+id: 65a45a5f-b652-485c-9a0b-d4a12bd12a2d
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 2e463a20-dc4f-4528-9109-7b9e77c89154
+  id: 04ab4d9c-37bb-49c3-acd1-51ca146193f1
   priority: 0
-  slug: bizzotto-11-png-product-0
+  slug: bizzotto-12-png-product-1
   type: product
 logo:
   channels:
@@ -35,11 +35,11 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 1ff96f44-a585-4c9d-8524-e7961ded6834
+  id: 31d54bf9-11df-4420-b8b0-7e546277357d
   priority: 0
-  slug: bizzotto-png-logo-0
+  slug: bizzotto-logo-0
   type: logo
-offerId: ebae1d4a-5a85-491f-8bd1-a987c903c61b
+offerId: 60e61bf2-1e34-4fa9-9349-c96af96176f8
 price:
   cents: 9900
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 212
 slug: bizzotto-hoboken-bureaustoel-710675
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Bizzotto Hoboken Bureaustoel met Armleuningen | 710675

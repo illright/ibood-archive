@@ -1,12 +1,12 @@
-_id: 695cdeeb3b2942a9f2294c47
+_id: 69661eac85daa9e2dfd32cfa
 appOnly: false
 brand: DeWALT
 brands:
   - id: aa972102-79c6-54b1-b2a4-b26148542064
     name: DeWALT
 categories:
-  - 1b98ca53-9222-5ed4-bba8-b53d74cd4e28
-classicId: '2918518'
+  - 3b9d2f44-ef8e-5ab5-8cc0-d6199b012b5a
+classicId: '2934451'
 classicProductId: '655869'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 30
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 9dadd7f9-5f30-47c1-b443-43aa2dab8d6b
+id: 00088ce0-c067-4193-aae2-c82d624d5750
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bd430438-c33e-4b56-89c1-07f1877380e7
-  priority: 0
-  slug: dewalt-png-logo-0
+  extension: png
+  id: 1664148
+  priority: 100
+  slug: dewalt-logo
   type: logo
-offerId: 2bc44e19-67d0-48df-adb5-d5786877a97a
+offerId: 1c65bd37-de6b-4b5c-b2ef-15ea26ae37a1
 price:
   cents: 8995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 129
 slug: dewalt-toolbox-nat-droogzuiger-15-l-1100-w
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: DeWalt Toolbox  Nat- & Droogzuiger | 15 l | 1100 W | DXV15TA

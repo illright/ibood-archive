@@ -1,30 +1,32 @@
-_id: 695ccf5e08535dbf664a6eac
+_id: 69661f7a59a899bd186879e3
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - 3feace1a-b92f-558a-9c58-29b53365f570
-classicId: '2917654'
-classicProductId: '659564'
+  - 7ae833ac-42a7-5d76-824b-eeb671f7bedc
+classicId: '2934700'
+classicProductId: '659567'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 57
-end: '2026-01-13T22:59:59.999Z'
+directCheckout: false
+discount: 50
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 405d2e77-8b52-4814-a2f0-66bc7a58ee2f
+id: d29b57c9-d3eb-49be-a82d-cf60bdb6831b
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 293c2315-45b0-46cf-85ba-b6bd667bbd52
+    - app
+    - website
+  extension: image/png
+  id: 293c2315-45b0-46cf-85ba-b6bd667bbd52-tr
   priority: 0
   slug: s-601-washed-navy-53522-601-s-active-puffy-long-jacket-helly-hansen-product-1
   type: product
@@ -38,16 +40,16 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: 63eaeba0-38b0-4645-829e-70955ad8d57b
+offerId: 140fc4c6-ae52-4205-9863-ab48f275482f
 price:
-  cents: 11995
+  cents: 13995
   currency: EUR
-  value: 119.95
+  value: 139.95
 referencePrice:
   cents: 28000
   currency: EUR
   value: 280
 slug: helly-hansen-active-puffy-long-jas-washed-navy
-soldOut: true
-start: '2026-01-06T23:00:00.000Z'
+soldOut: false
+start: '2026-01-13T23:00:00.000Z'
 title: Helly Hansen Active Puffy Long Jas | Heren | Washed Navy

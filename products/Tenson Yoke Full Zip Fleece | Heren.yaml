@@ -1,22 +1,22 @@
-_id: 695ccf3808535dbf664a6e95
+_id: 69661ead85daa9e2dfd32cff
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - 3feace1a-b92f-558a-9c58-29b53365f570
-classicId: '2917625'
-classicProductId: '675876'
+  - 70751ca8-75df-5862-9b11-f7ca5718f368
+classicId: '2934455'
+classicProductId: '675867'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 56
-end: '2026-01-13T22:59:59.999Z'
+directCheckout: false
+discount: 44
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: 2ea1f1eb-d092-44d0-85ad-4cbb8b81ad38
+id: ca163966-55f0-46ea-8eb5-5b6ba007f183
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 97c09370-3dd9-4e5d-970f-2b1ee4a408e5
+  id: 28503fa6-63b9-41df-b5da-a1d115a7ee54
   priority: 0
-  slug: 1-png-product-2
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: b8cbf37d-89fb-45d1-a138-162aee406c4a
+offerId: a8f17e71-4468-426c-9beb-ebb1ae3fd885
 price:
-  cents: 3995
+  cents: 4995
   currency: EUR
-  value: 39.95
+  value: 49.95
 referencePrice:
   cents: 9000
   currency: EUR
   value: 90
 slug: tenson-yoke-full-zip-fleece-heren
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Tenson Yoke Full Zip Fleece | Heren

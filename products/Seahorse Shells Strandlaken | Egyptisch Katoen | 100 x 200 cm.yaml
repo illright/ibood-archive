@@ -1,12 +1,12 @@
-_id: 695d2e5963bb1e58da73fe4c
+_id: 69664b7919eeaaa90217fa8b
 appOnly: false
 brand: Seahorse
 brands:
   - id: 272e7684-ef36-5d4e-9c53-c336f48ffff6
     name: Seahorse
 categories:
-  - 09c015ff-c548-548e-8608-6ac869c1e8c3
-classicId: '2922873'
+  - 87d7ad09-eb9e-5a2c-89cd-c20c17a733f9
+classicId: '2937355'
 classicProductId: '375788'
 deliveryPrice:
   cents: 595
@@ -14,31 +14,30 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 85
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 28a3ee52-f562-4223-9dc9-c33ef90fe784
+id: e29b6ec1-2044-44c9-9762-0717ea51ea13
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 22de46ea-052d-4cac-b6ff-c941b53cf318
+  extension: jpg
+  id: 1266526
   priority: 0
-  slug: strandlaken-png-product-1
+  slug: seahorse-strandlaken-shells-100-x-200-cm
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 1266528
+  extension: png
+  id: 1912435
   priority: 100
-  slug: recznik-seahorse-shells-100-x-200-cm
+  slug: seahorse-logo
   type: logo
-offerId: 05cb2686-60f0-4da6-92d2-c124784465c3
+offerId: 0f0b4f0e-8a1f-4e8f-813b-b1d07f7c16b9
 price:
   cents: 995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 64.95
 slug: seahorse-strandlaken-shells-100-x-200-cm
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Seahorse Shells Strandlaken | Egyptisch Katoen | 100 x 200 cm

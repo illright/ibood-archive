@@ -1,12 +1,12 @@
-_id: 695bcf5fa4bb19c0b4cb018b
+_id: 6966521f4fc96eb6896cd44e
 appOnly: false
 brand: VANS
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: VANS
 categories:
-  - b604d8a1-3cf0-562c-a529-4b038a22faed
-classicId: '2917061'
+  - aa290179-d4a6-5d43-9919-ef9d7a149eed
+classicId: '2938403'
 classicProductId: '653259'
 deliveryPrice:
   cents: 595
@@ -14,32 +14,31 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-25T22:59:59.999Z'
 freeDelivery: false
-id: 0e1cfd7f-e3b6-449e-b16c-bd36e26846e6
+id: 372e7241-504b-4ade-b892-27011c034f2c
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: fbf9ac92-37b4-4ac6-b8e0-5159760211d5
+  extension: image/jpeg
+  id: 0eafa23a-7258-4763-b60b-e87edbfcddde
   priority: 0
-  slug: 44-black-white-vn000d94ba21-ashwood-hi-vansguard-suede-vans-product-1
+  slug: 02f0c587-fcc9-4b6a-9f2b-6e948f07cf48-jpg-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 69a6223a-87b2-4f59-983c-94e1ecc87bcf
-  priority: 0
-  slug: vans-brooklyn-sneakers-kids-png-logo-0
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
   type: logo
-offerId: e3ecaae0-96e2-48a3-8b39-b74ce4655a0b
+offerId: 0f7c93db-8808-4f6a-9f9d-11c95c422f48
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 95
 slug: vans-ashwood-high-sneakers-heren-black-white
 soldOut: false
-start: '2026-01-05T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Vans Ashwood High Sneakers | Heren | Black-White

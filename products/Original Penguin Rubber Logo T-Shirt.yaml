@@ -19,13 +19,14 @@ freeDelivery: false
 id: 3ec6ef5e-ef3b-410c-9556-6d9f3b36a61b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2252732
+    - all
+  extension: image/png
+  id: ac9e4032-6bfa-46ef-bc6c-90bb3e2fe640
   priority: 0
-  slug: original-penguin-rubber-logo-tee
+  slug: 12-png-product-2
   type: product
 offerId: 7e2e2d2a-bfb4-4ebc-b772-b4a567d4dc8f
 price:

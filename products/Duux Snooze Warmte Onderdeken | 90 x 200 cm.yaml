@@ -1,12 +1,12 @@
-_id: 695cd52308535dbf664a6f1d
+_id: 6966235e19eeaaa90217f638
 appOnly: false
 brand: Duux
 brands:
   - id: ee0464f7-a5fb-5f85-b907-8b2578d2f118
     name: Duux
 categories:
-  - 47cd36a3-4f1b-57ba-9f53-6f5826539213
-classicId: '2917840'
+  - f4884559-3539-51ab-96e7-ced45a77f728
+classicId: '2934911'
 classicProductId: '658309'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-20T22:59:59.999Z'
 freeDelivery: false
-id: a29f50ca-fdcd-4b04-94dd-adedbf0a5bcf
+id: 32c32df4-6e69-42de-933f-cae15c62f178
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: duux-snooze-bamboo-heated-underblanket-200-x-90-product-1
   type: product
-offerId: 7f7ec753-f58e-4534-ad9a-9426c65b6946
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1695408
+  priority: 100
+  slug: duux-logo
+  type: logo
+offerId: 5bec803b-e40e-4cf2-95d1-d9dd1994e9d7
 price:
   cents: 5999
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119.99
 slug: duux-snooze-warmte-onderdeken-90-x-200-cm
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Duux Snooze Warmte Onderdeken | 90 x 200 cm

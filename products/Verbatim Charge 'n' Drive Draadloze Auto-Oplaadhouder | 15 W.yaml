@@ -1,12 +1,12 @@
-_id: 695cd7f8eddee1004396c356
+_id: 6966330b19eeaaa90217f89b
 appOnly: false
 brand: VERBATIM
 brands:
   - id: 8732759a-56e3-589f-a609-d7d8cdb5cb3c
     name: VERBATIM
 categories:
-  - 66373156-466a-5a87-b88c-008c43f94af5
-classicId: '2918293'
+  - f24d5ef7-6b46-571f-ade9-78fcc136c5d9
+classicId: '2935817'
 classicProductId: '683372'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-21T22:59:59.999Z'
 freeDelivery: false
-id: e9181a0c-200a-4acb-b3c8-2208e77db723
+id: 6d02c91e-09d4-4e74-a2b3-290856910759
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 2007643858-avif-product-0
   type: product
-offerId: c8e165f6-ff75-4da7-b911-50294679f777
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 46ec6c6b-d2fc-430f-9976-27725f2e6518
+  priority: 101
+  slug: verbatim-logo-101
+  type: logo
+offerId: 9aa191a0-407a-42bc-b985-6eca06303d45
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 29.99
 slug: verbatim-charge-n-drive-draadloze-auto-oplaadhouder-15-w
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Verbatim Charge 'n' Drive Draadloze Auto-Oplaadhouder | 15 W

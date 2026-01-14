@@ -1,12 +1,12 @@
-_id: 695cd5f3cc0cee943ed6b6aa
+_id: 6966241785daa9e2dfd32faa
 appOnly: false
 brand: Buccan
 brands:
   - id: a98b68cd-9655-5bca-b849-7a8ca6a4e996
     name: Buccan
 categories:
-  - be1e8b83-f9c2-5045-8d7a-937cf1b40511
-classicId: '2918223'
+  - 793e67e8-28d0-51e3-bf76-b22b6f97f91a
+classicId: '2935271'
 classicProductId: '673600'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-20T22:59:59.999Z'
 freeDelivery: false
-id: 21f5ec67-87c9-404a-8cb2-66d0dc46e971
+id: 0221ba1e-3fe5-438f-921c-41dd798efbf6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: buccan-luxe-elektrische-peper-en-zoutmolen-rosegoud-2-stuks-product-6
   type: product
-offerId: b48c2ec3-7b89-41de-8a91-69117e30ed44
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1819370
+  priority: 100
+  slug: buccan-logo
+  type: logo
+offerId: be8c4edb-98d9-4186-954d-7a2d01983b5d
 price:
   cents: 1695
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.95
 slug: buccan-elektrische-zout-pepermolen-2-delig
-soldOut: true
-start: '2026-01-06T23:00:00.000Z'
+soldOut: false
+start: '2026-01-13T23:00:00.000Z'
 title: Buccan Elektrische Zout- & Pepermolen | 2-delig

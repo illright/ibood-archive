@@ -1,22 +1,22 @@
-_id: 695bcf7a0259839afd418ca0
+_id: 696502be19eeaaa90217f10a
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - b604d8a1-3cf0-562c-a529-4b038a22faed
-classicId: '2917099'
-classicProductId: '655173'
+  - efe182e8-d4eb-5654-9eac-8ecff26f6205
+classicId: '2932188'
+classicProductId: '655175'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 54
-end: '2026-01-13T22:59:59.999Z'
+discount: 50
+end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: fb1ea243-b65f-4d92-a942-b1c10b33245d
+id: b16aa038-98fa-4a08-98ab-3bdd37d19bba
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: a51b2b26-3f09-4e7d-a49f-b4696d8df525
+  id: 00689c82-724b-42ae-aaa3-952bddfc1301
   priority: 0
-  slug: riem456-png-product-1
+  slug: riem123-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: b33d4950-8f48-4d47-80c4-243eb91716b0
+offerId: f1ab377b-59fa-4b13-8ca8-23baa4cb8ee0
 price:
   cents: 3000
   currency: EUR
   value: 30
 referencePrice:
-  cents: 6500
+  cents: 6000
   currency: EUR
-  value: 65
+  value: 60
 slug: lacoste-riem-35-mm-heren
-soldOut: true
-start: '2026-01-05T23:00:00.000Z'
+soldOut: false
+start: '2026-01-12T23:00:00.000Z'
 title: Lacoste Riem | 35 mm | Heren

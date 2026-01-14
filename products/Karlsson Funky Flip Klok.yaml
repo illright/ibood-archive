@@ -1,31 +1,34 @@
-_id: 695d2f058e1f829418af63f6
+_id: 69664b6585daa9e2dfd3334d
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 09c015ff-c548-548e-8608-6ac869c1e8c3
-classicId: '2922968'
+  - 87d7ad09-eb9e-5a2c-89cd-c20c17a733f9
+classicId: '2937330'
 classicProductId: '631566'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
-end: '2026-01-13T22:59:59.999Z'
+directCheckout: true
+discount: 69
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: daffe22b-38eb-4dbb-961f-ce8ed03a626f
+id: 17955f2d-8d54-4f80-bbd2-bb39e7483332
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2213650
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5ac29486-832e-4c14-98ec-7369bcdebaba-tr
   priority: 0
-  slug: karlsson-funky-flip-klok
+  slug: karlsson-funky-flip-wand-und-tischuhr-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,16 +40,16 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 03b90f01-d233-4d64-95f9-ea072fcb3502
+offerId: f32fd953-1cc3-4e2f-9b1c-f5535f024fe9
 price:
-  cents: 1295
+  cents: 995
   currency: EUR
-  value: 12.95
+  value: 9.95
 referencePrice:
   cents: 3250
   currency: EUR
   value: 32.5
 slug: karlsson-funky-flip-klok
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Karlsson Funky Flip Klok

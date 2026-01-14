@@ -1,12 +1,12 @@
-_id: 695d3b330ce936850e6e79bc
+_id: 69664fc185daa9e2dfd3352e
 appOnly: false
 brand: Velleman
 brands:
   - id: bfbaa7de-e419-52bd-b68f-dcdd8f8be509
     name: Velleman
 categories:
-  - 7bceb65e-2fe0-53be-adf0-3bc78f6550b2
-classicId: '2923458'
+  - 1c61c617-2cb2-5969-9372-c8b56506291e
+classicId: '2937765'
 classicProductId: '411801'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 27
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 668526b3-3262-4095-ae74-88d2da5a204d
+id: 9cc373d1-0df3-4f10-9ff0-472b79963959
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1366244
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 27a1f427-db0d-4092-a568-0784d9c15619-tr
   priority: 0
-  slug: velleman-hydraulische-robotarm-ksr12
+  slug: vellemann-ksr12-hydraulischer-roboterarm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: velleman-logo
   type: logo
-offerId: cd20dab7-6f47-4f85-9428-03dc84be605c
+offerId: c8a0f500-abdb-4efd-9aac-e16e36c498a2
 price:
   cents: 3295
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 44.95
 slug: velleman-hydraulische-robotarm-ksr12
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: Velleman Hydraulische Robotarm | KSR12

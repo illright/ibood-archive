@@ -1,12 +1,12 @@
-_id: 695d2e2e17ee4b28e152a928
+_id: 69664f6f1294accd14033281
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - c5f19373-fceb-5342-aeb1-a0881918b28b
-classicId: '2922908'
+  - 00ce8b60-58fb-5e68-90ac-cbc25b2a7a5e
+classicId: '2937634'
 classicProductId: '651881'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 66
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 53142014-00e1-44ad-a9a0-501dab68d0f7
+id: 52c42fd7-f72f-4651-b29e-297956d41e46
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: hartman-18-png-product-1
   type: product
-offerId: 068b00a7-8de0-4c13-a1e2-56f91aa0361e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
+  type: logo
+offerId: 76672a0b-deb4-460c-a97a-0910b793c4ac
 price:
   cents: 12900
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 379
 slug: 2x-hartman-alexio-recliner
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: '2x Hartman Alexio Recliner | Zwart '

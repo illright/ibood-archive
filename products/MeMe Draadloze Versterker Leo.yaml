@@ -1,12 +1,12 @@
-_id: 695d3481b1b9fa11557450d6
+_id: 6966505198babe2486ff7e7a
 appOnly: false
 brand: MeMe
 brands:
   - id: a9630b66-db7e-58ca-b7e2-e0e51e2b0654
     name: MeMe
 categories:
-  - 7bceb65e-2fe0-53be-adf0-3bc78f6550b2
-classicId: '2923465'
+  - 1c61c617-2cb2-5969-9372-c8b56506291e
+classicId: '2938041'
 classicProductId: '595445'
 deliveryPrice:
   cents: 595
@@ -14,20 +14,23 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: d4cef5d9-2176-4f1b-9743-84f1697ded7e
+id: 65912f22-5083-4888-b57c-6fd4e65b27b9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2064600
-  priority: 100
-  slug: meme-draadloze-versterker-leo
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 59e54bbc-3370-4437-a6d3-6ca150200091-tr
+  priority: 0
+  slug: meme-draadloze-versterker-leo-jpg-product-101
   type: product
-offerId: 1c68806c-7cdc-4f25-a96c-69235dd44c6e
+offerId: fdf09ac4-2045-4c02-b405-f61a8d9f25b8
 price:
   cents: 2995
   currency: EUR
@@ -38,5 +41,5 @@ referencePrice:
   value: 59.99
 slug: meme-draadloze-versterker-leo
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: MeMe Draadloze Versterker Leo

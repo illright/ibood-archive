@@ -1,12 +1,12 @@
-_id: 695cee6d3b2942a9f2295504
+_id: 6966489b1294accd14032f3b
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 94aa9327-16b7-5381-b28a-df4b2cc22054
-classicId: '2919157'
+  - b6550112-584c-5d6a-a54a-1913ffcbcad8
+classicId: '2936365'
 classicProductId: '684819'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-01-13T22:59:59.999Z'
+end: '2026-01-20T22:59:59.999Z'
 freeDelivery: false
-id: 4a78695e-5b2e-49a9-9311-728d78539093
+id: ae847088-e1c1-48df-aee4-4b5806e76c8a
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c8de53f1-552f-433b-8b51-8344350f3987
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: 7686f536-c56c-4e70-9e04-58d883de8ca0
+offerId: f45b9379-04db-4dc4-8b26-6a80e9a125cf
 price:
   cents: 3295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 127.92
 slug: 120x-ariel-all-in-1-wasmiddel-pods-black
 soldOut: false
-start: '2026-01-06T23:00:00.000Z'
+start: '2026-01-13T23:00:00.000Z'
 title: 120x Ariel All-in-1 Wasmiddel Pods Black
