@@ -19,13 +19,14 @@ freeDelivery: false
 id: a33d2128-d186-4bf2-9d62-2dc15f90cbdd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1287118
-  priority: 1
-  slug: 4x-bamboo-essentials-unterhemd-herren
+    - all
+  extension: image/png
+  id: 72367648-9c4f-40b4-aa7d-321f390c1469
+  priority: 0
+  slug: main-png-product-1
   type: product
 logo:
   channels:

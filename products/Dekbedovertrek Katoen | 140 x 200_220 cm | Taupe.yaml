@@ -19,13 +19,14 @@ freeDelivery: false
 id: 0c498e62-723e-453a-bda4-ceacb136d7d9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2164360
-  priority: 100
-  slug: ambiante-dbo-uni-140-x-200220-cm
+    - all
+  extension: image/png
+  id: cbf09f9f-de05-40d2-92f7-c630e7cf4592
+  priority: 0
+  slug: ambiante-12-png-product-101
   type: product
 logo:
   channels:

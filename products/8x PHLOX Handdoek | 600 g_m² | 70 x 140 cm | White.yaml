@@ -19,13 +19,16 @@ freeDelivery: false
 id: e605d473-ac08-4762-bc46-ce8820df03a8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2084967
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 49792046-7fb2-4757-8e98-50a1ffc8f56a-tr
   priority: 0
-  slug: 8x-phlox-handdoek-600-gm2-70-x-140-cm
+  slug: 8x-phlox-supreme-handtuch-70-x-140-cm-wei-jpg-product-2
   type: product
 logo:
   channels:
@@ -35,7 +38,7 @@ logo:
   extension: png
   id: 2015242
   priority: 100
-  slug: 8x-phlox-handdoek-600-gm2-70-x-140-cm
+  slug: 8x-phlox-supreme-handtuch-70-x-140-cm-wei
   type: logo
 offerId: 66d39594-6135-4119-81b9-fe3a0486a6d3
 price:

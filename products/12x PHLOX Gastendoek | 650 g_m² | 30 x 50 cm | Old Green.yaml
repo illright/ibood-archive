@@ -19,13 +19,16 @@ freeDelivery: false
 id: 89f380d2-339a-4d66-a9bb-c022b099cf10
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2141356
-  priority: 100
-  slug: 12x-phlox-supreme-gastendoek-old-green
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e19cac78-dadf-405d-b83e-8731397d570d-tr
+  priority: 0
+  slug: 12x-seashell-handtuch-30-x-50-cm-altgrun-jpg-product-11
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: d9bee1f5-a775-4a87-a8a2-750a4bc09e65
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1558507
+    - all
+  extension: image/png
+  id: 037ad127-0967-48ce-9555-f89c4f20b553
   priority: 0
-  slug: 84x-kelloggs-special-k-graanreep-20-gr
+  slug: bulk-01-png-product-1
   type: product
 logo:
   channels:

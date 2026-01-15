@@ -19,16 +19,13 @@ freeDelivery: false
 id: 6e937d88-1226-4d83-b8a8-fc3365dbadb5
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: fc14add1-bb1c-4d75-b8a7-0c075d751c18-tr
+  extension: png
+  id: 2199892
   priority: 0
-  slug: 3x-nivea-sun-sonnenmilch-jpg-product-3
+  slug: 3x-nivea-sun-protect-hydrate-sonnencreme-spf20
   type: product
 logo:
   channels:
@@ -36,9 +33,9 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1779844
+  id: 1779890
   priority: 100
-  slug: 3x-ph-spray-spf50-200ml
+  slug: 3x-nivea-sun-protect-hydrate-sonnencreme-spf20
   type: logo
 offerId: cdca547a-70bd-41d0-ab18-fcf4dce3b9bc
 price:
