@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 8f1f177f-0da3-4ea1-8f4d-35a9cbec84d2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1956760
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 4961a906-6ab7-4e70-b84f-4b8318e92353-tr
   priority: 0
-  slug: ambiante-cotton-uni-bettbezug
+  slug: ambiante-cotton-uni-bettbezug-1-jpg-product-1
   type: product
 logo:
   channels:

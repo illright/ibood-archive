@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: c60965a5-1f8e-4c6e-9108-cc027bb44ac7
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 84bd6aef-c17e-4052-add9-f475a0f6efb3
+    - app
+    - website
+  extension: image/png
+  id: 84bd6aef-c17e-4052-add9-f475a0f6efb3-tr
   priority: 0
   slug: kay011830-kayori-mala-dbo-flanel-140x200-220-zand-product-1
   type: product

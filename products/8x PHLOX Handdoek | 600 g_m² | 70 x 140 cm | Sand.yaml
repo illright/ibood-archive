@@ -14,18 +14,21 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 73
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 714cb9f3-0411-4b2c-b968-40a5e84adf89
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2056582
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b5f5dd88-d240-488f-bbe2-190d5edec020-tr
   priority: 0
-  slug: 8x-phlox-handdoek-600-gm2-70-x-140-cm
+  slug: 8x-phlox-supreme-handtuch-70-x-140-cm-sand-jpg-product-1
   type: product
 logo:
   channels:

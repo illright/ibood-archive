@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: ce93aa8b-8f2a-4104-828c-f41e75906b3a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2089954
+    - all
+  extension: image/png
+  id: 06e06673-fed4-4057-97ad-dfa8ffdea0ad
   priority: 0
-  slug: 6-delige-walra-keuken-en-theedoekenset-50-x-70
+  slug: walra-116-png-product-1
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 1930358
   priority: 100
-  slug: 6-delige-walra-keuken-en-theedoekenset-50-x-70
+  slug: 6x-walra-kuchen-und-geschirrtucher
   type: logo
 offerId: 243743a9-3779-476f-8e7d-69fa0f127078
 price:

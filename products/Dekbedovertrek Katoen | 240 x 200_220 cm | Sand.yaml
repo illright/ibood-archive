@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: ca5a0fab-9ff2-4322-9c53-4206a9b66cc1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2164271
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d79e4085-7103-4003-8cef-e0bf5b000ec8-tr
   priority: 0
-  slug: ambiante-cotton-uni-bettwasche-200-x-200220-cm
+  slug: ambiante-cotton-uni-bettwasche-200-x-200220-cm-1-jpg-product-1
   type: product
 logo:
   channels:

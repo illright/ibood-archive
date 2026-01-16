@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 28
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: b9ef4a4d-51a9-44f5-9176-6acbe9ca2f26
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 520663
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c73dfc71-39e7-4205-8543-e3bf74a47463-tr
   priority: 0
-  slug: 2x-ambiante-percal-laken-90-x-200210-cm
+  slug: 2x-spannbetttuch-90-x-200210220-cm-jpg-product-3
   type: product
 offerId: 6e2a315b-ea37-4496-bcdd-2d10a151e816
 price:

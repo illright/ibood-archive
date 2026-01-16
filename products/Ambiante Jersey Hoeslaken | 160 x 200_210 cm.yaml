@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 6d10e40c-8460-4590-ab91-56eee35dae30
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2164292
+    - all
+  extension: image/png
+  id: d5fe61c6-f879-4e90-b928-cac0ca7a5956-tr
   priority: 0
-  slug: ambiante-jersey-spannbettlaken-160-x-200210-cm
+  slug: ambiante-jersey-spannbettlaken-160-x-200210-cm-2-jpg-product-1
   type: product
 logo:
   channels:

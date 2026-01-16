@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 0e8fb71b-e4b0-4fe0-bd5b-e54b112a7f14
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1372012
+    - all
+  extension: image/png
+  id: f11e2777-2e24-41bd-af3a-fd7a59521ac8
   priority: 0
-  slug: zo-home-overtrek-katoensatijn-140-x-220-cm
+  slug: zo-home-43-png-product-20
   type: product
 logo:
   channels:

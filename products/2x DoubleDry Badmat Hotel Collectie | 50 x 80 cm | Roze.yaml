@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 956e6e51-9191-4989-b55e-7e56738d64ba
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 1c1ab281-b597-4b82-b10b-9db59105dbf4
+    - app
+    - website
+  extension: image/png
+  id: 1c1ab281-b597-4b82-b10b-9db59105dbf4-tr
   priority: 0
   slug: 980906-1-pack-doubledry-badmat-hotel-collectie-50x80-roze-product-1
   type: product

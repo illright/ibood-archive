@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 0a835fee-9291-4080-9629-5774961952f5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2191284
-  priority: 100
-  slug: vt-wonen-dekbedovertrek-140-x-200220-cm
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 498974be-3f71-4b6a-b3af-3be15a519af3-tr
+  priority: 0
+  slug: vt-wonen-pojagi-terra-bettbezug-140-x-200220-cm-jpg-product-101
   type: product
 logo:
   channels:

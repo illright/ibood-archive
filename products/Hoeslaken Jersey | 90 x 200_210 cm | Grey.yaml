@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: e91ca659-1f2b-4317-80c2-6e860c648199
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2164153
-  priority: 100
-  slug: ambiante-jersey-spannbettlaken-90-x-200210-cm
+    - all
+  extension: image/jpeg
+  id: 07011374-f7dd-4666-842d-7d0284170777
+  priority: 0
+  slug: ambiante-jersey-spannbettlaken-90-x-200210-cm-4-jpg-product-101
   type: product
 logo:
   channels:

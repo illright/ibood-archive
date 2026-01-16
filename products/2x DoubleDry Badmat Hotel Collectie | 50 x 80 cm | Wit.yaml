@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 1bec3b37-c16b-493f-82e4-42c985f98a7e
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 110fa2e2-4312-4bed-9cb9-95fc4fe832c7
+    - app
+    - website
+  extension: image/png
+  id: 110fa2e2-4312-4bed-9cb9-95fc4fe832c7-tr
   priority: 0
   slug: 980901-1-pack-doubledry-badmat-hotel-collectie-50x80-wit-product-2
   type: product

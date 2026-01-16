@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 8ecccd22-055d-4641-a567-e4be3412cee5
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: fdee3023-d2f2-497d-8a79-70bffabdc421
+    - app
+    - website
+  extension: image/png
+  id: fdee3023-d2f2-497d-8a79-70bffabdc421-tr
   priority: 0
   slug: 980918-1-pack-doubledry-badmat-hotel-collectie-50x80-klassiek-baluw-product-0
   type: product

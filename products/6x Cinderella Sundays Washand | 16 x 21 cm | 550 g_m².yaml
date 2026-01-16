@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 82
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 1709d71d-aee7-4beb-a04b-1dc8c3bd0f9a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1696638
+    - all
+  extension: image/png
+  id: 74c264e0-0057-4410-a560-24c83c45f1ad-tr
   priority: 0
-  slug: 6x-cinderella-sundays-waschhandschuh-16-x-21-cm
+  slug: cinderella-08-jpg-product-1
   type: product
 logo:
   channels:

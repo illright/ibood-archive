@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: e8899c08-05d1-4361-a620-971ed0276ef2
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 34589fbe-119a-4d42-955c-eba1101322ba
+    - app
+    - website
+  extension: image/png
+  id: 34589fbe-119a-4d42-955c-eba1101322ba-tr-tr
   priority: 0
   slug: 325344-vt-covered-grey-180x200-product-2
   type: product

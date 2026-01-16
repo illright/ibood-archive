@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: eb9ebf55-bd6b-4cb3-9dd4-be413abab74e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2164331
-  priority: 100
-  slug: ambiante-hsl-uni-90-x-200-cm
+    - all
+  extension: image/png
+  id: 6615c5aa-dfd5-4693-9c1a-b2d1ba0df3e7
+  priority: 0
+  slug: ambiante-19-png-product-101
   type: product
 logo:
   channels:

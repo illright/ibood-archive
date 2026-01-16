@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 5dc30b06-e4b9-4a2a-aa1f-7aa530c7b0a8
 image:
@@ -23,10 +23,12 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 3cf23f72-ab7d-4238-85a6-fce7ab64185a
+    - app
+    - website
+  extension: image/png
+  id: 17bf6fc0-884f-44fa-a7d2-e378c1a43e14-tr
   priority: 0
-  slug: 17026468-sleeptime-dbo-140x200-220-w-1-x-ks-60x70-pure-dreamscape-paars-product-1
+  slug: 17026468-sleeptime-dbo-140x200-220-w-1-x-ks-60x70-pure-dreamscape-paars-product-1-jpeg-product-1
   type: product
 logo:
   channels:

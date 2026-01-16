@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 45ab93ba-efcd-4011-91bf-0f01360cc8e8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1708969
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c9f9f3df-1722-4c7b-9858-364bf5aa04fd-tr
   priority: 0
-  slug: ten-cate-katoensatijn-overtrek-200-x-200220
+  slug: ten-cate-bettwasche-satin-200-x-200220-cm-jpg-product-11
   type: product
 logo:
   channels:

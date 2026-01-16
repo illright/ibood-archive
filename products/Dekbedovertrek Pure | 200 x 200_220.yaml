@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 3d80d838-12cb-4c2a-adc2-f8adaedc57f4
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: ee034e7f-0daa-46b4-8332-6c557f853afe
+    - app
+    - website
+  extension: image/png
+  id: ee034e7f-0daa-46b4-8332-6c557f853afe-tr
   priority: 0
   slug: 17026457-sleeptime-dbo-200x200-220-w-2-x-ks-60x70-pure-blush-angles-zand-beige-product-1
   type: product

@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 9bb58e16-cc46-42db-9145-fdffa90f2632
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2088416
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1492cead-e022-40d8-b8bf-e1bb7be634a4-tr
   priority: 0
-  slug: kayori-satijn-dekbedovertrek-suraya-140x200220
+  slug: kay010846-kayori-suraya-dbo-katoensatijn-140-200x220-navy-product-0
   type: product
 logo:
   channels:

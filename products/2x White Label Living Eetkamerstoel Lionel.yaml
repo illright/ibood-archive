@@ -19,13 +19,14 @@ freeDelivery: false
 id: f0dd61bf-392a-48d4-9e49-8fe212b70980
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1730079
+    - all
+  extension: image/png
+  id: 03fed510-eda7-450e-99ff-c907d8a3c83c
   priority: 0
-  slug: 2x-white-label-living-eetkamerstoel-lionel
+  slug: stoel-12-png-product-10
   type: product
 logo:
   channels:

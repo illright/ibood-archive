@@ -14,18 +14,21 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 72
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 7b18ed7c-46a8-47b3-b400-225342edced9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2190074
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 274276f9-b3b5-4e3b-bfa6-4394d375b6ff-tr
   priority: 0
-  slug: 12x-phlox-handdoek-600-gm2-50-x-100-cm
+  slug: 12x-phlox-supreme-handtuch-50-x-100-cm-hellgr-jpg-product-1
   type: product
 logo:
   channels:

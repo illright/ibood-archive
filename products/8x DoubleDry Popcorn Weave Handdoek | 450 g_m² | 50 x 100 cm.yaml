@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 58
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 91b43cd8-3a67-4e48-83bb-87a9450c832a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2227964
+    - all
+  extension: image/png
+  id: 512fabd2-1faa-406a-ad12-1743e3365998
   priority: 0
-  slug: 8x-doubledry-popcorn-handdoek-50-x-100-cm
+  slug: doubledry-50-png-product-1
   type: product
 logo:
   channels:

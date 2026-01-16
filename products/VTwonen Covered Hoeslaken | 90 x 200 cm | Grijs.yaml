@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 03003239-0497-42ee-a396-3d7426159f74
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 78205012-f7f9-4bc9-9340-9d22e2b21953
+    - app
+    - website
+  extension: image/png
+  id: 78205012-f7f9-4bc9-9340-9d22e2b21953-tr
   priority: 0
   slug: 325343-vt-covered-grey-90x200-product-2
   type: product

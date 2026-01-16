@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 20
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 47dd888b-8fe9-4bc8-a4bd-86a5a81a01f9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1164212
+    - all
+    - app
+    - website
+  extension: image/png
+  id: a96bf4e0-524d-4ae1-8721-e998c9b88c29-tr
   priority: 0
-  slug: dreamhouse-stonewashed-overtrek-140-x-200220
+  slug: dreamhouse-stonewashed-overtrek-140-x-200220-jpg-product-1
   type: product
 logo:
   channels:

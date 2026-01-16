@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 7c358103-2807-46f0-816b-7d55ac5981ed
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 6eb3fcb9-8c8e-4d91-a01d-78c7eb652d34
+    - app
+    - website
+  extension: image/png
+  id: 6eb3fcb9-8c8e-4d91-a01d-78c7eb652d34-tr
   priority: 0
   slug: 1231381-mc-gregor-dekbedovertrek-boston-navy-katoen-140x240-product-0
   type: product

@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 675147db-5f60-4a5d-8b6b-5be6ca92de45
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 520539
+    - all
+  extension: image/jpeg
+  id: 9320bf69-cb1c-4f06-a0b2-6e4435658d4c
   priority: 0
-  slug: 2-spannbettlaken-90-x-200210-cm
+  slug: 2-spannbettlaken-90-x-200210-cm-jpg-product-1
   type: product
 logo:
   channels:

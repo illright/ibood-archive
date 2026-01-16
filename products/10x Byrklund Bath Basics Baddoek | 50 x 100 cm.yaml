@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 75849d83-65ab-49b8-850b-843d7c008e58
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1639287
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 4e1222a4-2108-42bb-b4bf-2fd1215a8ee7-tr
   priority: 0
-  slug: 10x-byrklund-bath-basics-baddoek-50-x-100-cm
+  slug: 10x-byrklund-basics-handtuch-1-png-product-9
   type: product
 logo:
   channels:

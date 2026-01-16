@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 8f4abe7d-ea56-451a-ae0d-44c3ce1bf0ce
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1754784
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 4fa001c3-b495-4797-85cd-8029451e9d2f-tr
   priority: 0
-  slug: 6x-phlox-supreme-handdoek-50-x-100-cm
+  slug: 6x-phlox-supreme-handdoek-50-x-100-cm-jpg-product-11
   type: product
 logo:
   channels:
@@ -47,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 79.95
 slug: 6x-phlox-supreme-handdoek-50-x-100-cm
-soldOut: false
+soldOut: true
 start: '2026-01-13T23:00:00.000Z'
 title: 6x PHLOX Supreme Handdoek | 600 g/m² | 50 x 100 cm

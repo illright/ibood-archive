@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 1a698036-922b-418b-a31d-d5733abf98b6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1937829
-  priority: 100
-  slug: 2x-ten-cate-topperlaken-satin-140-x-200-cm
+    - all
+  extension: image/png
+  id: bb48fadb-22a0-4e9c-a52d-d82b8b52aa62
+  priority: 0
+  slug: ten-cate-81-png-product-101
   type: product
 logo:
   channels:

@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 62
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 2c6e7e35-3d92-4778-8075-49207726755e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1449573
+    - all
+  extension: image/png
+  id: 031f4705-473b-4708-a256-15a99bc51bc6
   priority: 0
-  slug: 10x-walra-badlaken-katoen-50-x-100-cm
+  slug: walra-117-png-product-46
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: jpg
   id: 1191167
   priority: 100
-  slug: 10x-walra-badlaken-katoen-50-x-100-cm
+  slug: 10x-walra-baumwollhandtuch-50-x-100-cm
   type: logo
 offerId: 5d505593-98ee-41ba-9bbf-0ac044570bca
 price:
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 79.5
 slug: 10x-walra-badlaken-katoen-50-x-100-cm
-soldOut: false
+soldOut: true
 start: '2026-01-13T23:00:00.000Z'
 title: 10x Walra Badlaken Katoen | 50 x 100 cm

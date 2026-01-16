@@ -1,4 +1,4 @@
-_id: 6964cc5919eeaaa90217ef09
+_id: 6964ca5319eeaaa90217ee79
 appOnly: false
 brand: skinChemists
 brands:
@@ -6,17 +6,17 @@ brands:
     name: skinChemists
 categories:
   - 02a5a6be-d1cd-518d-9075-ffb26a43caa9
-classicId: '2931230'
-classicProductId: '675089'
+classicId: '2930922'
+classicProductId: '675080'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 80
+discount: 88
 end: '2026-01-18T22:59:59.999Z'
 freeDelivery: false
-id: 9a383869-7ccc-5e4e-8913-9e25f942522c
+id: 8e915676-328c-5df3-8a0d-5688e0d81165
 image:
   channels:
     - app
@@ -26,29 +26,30 @@ image:
     - app
     - website
   extension: image/png
-  id: 0a6dc5b1-19be-45db-a99c-fe8961df418c-tr
+  id: 58bd0f17-640c-447a-b167-38811c302af2-tr
   priority: 0
-  slug: skin-chemists-03-png-product-1
+  slug: skin-chemists-wrinkle-killer-night-moisturiser-50ml-sc904-product-0
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1634555
-  priority: 100
-  slug: skinchemists-logo
+    - all
+  extension: image/png
+  id: 941a7c59-559f-4ec5-a94e-aaf2d3ae740e
+  priority: 0
+  slug: skin-chemists-png-logo-0
   type: logo
-offerId: 6967c65d-6a95-59a0-b613-dd7c85862927
+offerId: c2b12e29-170a-5675-a4f0-ff06a8941f4c
 price:
-  cents: 1995
+  cents: 1495
   currency: EUR
-  value: 19.95
+  value: 14.95
 referencePrice:
-  cents: 9900
+  cents: 12500
   currency: EUR
-  value: 99
+  value: 125
 slug: skin-chemists-wrinkle-killer-night-moisturiser-50-ml
 soldOut: false
 start: '2026-01-14T23:00:00.000Z'

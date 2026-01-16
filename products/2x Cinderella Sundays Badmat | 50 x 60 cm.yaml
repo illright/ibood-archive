@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 82
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: a5d1f796-9a52-4182-bd64-d8a226744146
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1696640
+    - all
+  extension: image/png
+  id: ec97bedc-ffb3-49d0-830e-328967469c81
   priority: 0
-  slug: 2x-cinderella-sundays-badmat-50-x-60-cm
+  slug: cinderella-46-png-product-2
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 1696639
   priority: 100
-  slug: 2x-cinderella-sundays-badmat-50-x-60-cm
+  slug: 2x-cinderella-sundays-badematte-50-x-60-cm
   type: logo
 offerId: 0c17154d-2a69-4d69-905d-e90d7c37c783
 price:

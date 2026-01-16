@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 91c3fd8b-4ce7-449e-81b6-fcbb67a989cf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1937504
+    - all
+  extension: image/png
+  id: f3f3a0bb-23a6-4fc3-afac-9694e23d9eb6
   priority: 0
-  slug: 2x-spannbettlaken-satin-90-x-200-cm
+  slug: ten-cate-81-png-product-1
   type: product
 logo:
   channels:

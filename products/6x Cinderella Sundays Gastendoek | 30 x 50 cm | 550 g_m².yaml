@@ -14,7 +14,7 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 89
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: e7759764-f059-429a-af61-b9734c8afac0
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 4c589cce-ffb2-41b4-9101-9e479646f767
+    - app
+    - website
+  extension: image/png
+  id: 4c589cce-ffb2-41b4-9101-9e479646f767-tr-tr
   priority: 0
   slug: cinderella-12-jpg-product-1
   type: product

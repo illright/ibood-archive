@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 34
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
 id: 5c57dfa0-ffb4-45ac-90db-470701c6c9b1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 460360
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 65df6613-3302-49fa-9bc8-8e50de27c304-tr
   priority: 0
-  slug: flanellen-dekbedovertrek
+  slug: sleeptime-bettbezug-240-x-200220-cm-jpg-product-8
   type: product
 logo:
   channels:
