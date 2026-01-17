@@ -1,4 +1,4 @@
-_id: 694aa7947730e6f8530104f0
+_id: 694aa7905192c88ff5b70afb
 appOnly: false
 brand: Cinderella
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Cinderella
 categories:
   - 2b315530-20b8-55cf-a8f6-e2b27bfdd825
-classicId: '2903955'
-classicProductId: '146201'
+classicId: '2903954'
+classicProductId: '146198'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,30 +16,28 @@ directCheckout: true
 discount: 62
 end: '2026-01-18T22:59:59.999Z'
 freeDelivery: false
-id: c52ee44a-1c57-5d93-82d6-91db05017796
+id: 67a20aa9-ecae-5abd-9b13-538f78c1b69e
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 26b740df-6247-4725-800c-55a1de542b10
+  extension: png
+  id: 2190360
   priority: 0
-  slug: arl01-png-product-0
+  slug: cinderella-spannbettlaken-180-x-210220
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 39d2991b-caef-427d-81a0-6e61e3318d5a
-  priority: 0
-  slug: cinderella-logo-png-logo-0
+  extension: png
+  id: 2064288
+  priority: 100
+  slug: cinderella-spannbettlaken-180-x-210220
   type: logo
-offerId: 74fa3040-ece8-59d6-b590-d79fb33c2fa5
+offerId: 364eaf09-97b9-53fb-b38f-271bb8e99864
 price:
   cents: 3195
   currency: EUR
@@ -48,7 +46,7 @@ referencePrice:
   cents: 8495
   currency: EUR
   value: 84.95
-slug: hoeslaken-jersey-200-x-210220-cm
+slug: hoeslaken-jersey-200x210220-cm
 soldOut: false
 start: '2026-01-11T23:00:00.000Z'
 title: Hoeslaken Jersey | 200 x 210/220 cm

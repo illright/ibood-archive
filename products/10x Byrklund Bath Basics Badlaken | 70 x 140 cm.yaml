@@ -1,4 +1,4 @@
-_id: 6968e28085daa9e2dfd33eea
+_id: 69664f6df1312b1778d51f85
 appOnly: false
 brand: Byrklund
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Byrklund
 categories:
   - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2945199'
-classicProductId: '486826'
+classicId: '2937617'
+classicProductId: '405559'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 61
+discount: 56
 end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 1a911605-e1eb-49a2-92cd-407a3b9ab2e8
+id: f5d6f3e7-6a2f-4a4e-a3cb-3a01f128d3db
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1639288
+    - all
+  extension: image/png
+  id: 11a46dd2-8f57-4c61-93cf-424390544ebd
   priority: 0
-  slug: 10x-byrklund-bath-basics-badlaken-70-x-140-cm
+  slug: byrklund-32-png-product-37
   type: product
 logo:
   channels:
@@ -35,18 +36,18 @@ logo:
   extension: png
   id: 1765536
   priority: 100
-  slug: 10x-byrklund-bath-basics-badlaken-70-x-140-cm
+  slug: 10x-byrklund-basics-badetuch-70-x-140-cm
   type: logo
-offerId: 04d798f9-e938-4aab-8d14-ba6aa24c881c
+offerId: 70bae87a-87d4-410f-b420-8691b7c17342
 price:
-  cents: 4995
+  cents: 5695
   currency: EUR
-  value: 49.95
+  value: 56.95
 referencePrice:
   cents: 12950
   currency: EUR
   value: 129.5
 slug: 10x-byrklund-bath-basics-badlaken-70-x-140-cm
-soldOut: false
+soldOut: true
 start: '2026-01-13T23:00:00.000Z'
 title: 10x Byrklund Bath Basics Badlaken | 70 x 140 cm

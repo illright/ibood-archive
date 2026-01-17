@@ -19,12 +19,14 @@ freeDelivery: false
 id: 5a112237-d374-4895-805d-3ab1f21055bc
 image:
   channels:
-    - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 604745b9-1474-4c15-8f1d-092fb5dc52b1
+    - app
+    - app
+    - website
+  extension: image/png
+  id: 604745b9-1474-4c15-8f1d-092fb5dc52b1-tr
   priority: 0
   slug: 118201-dknc-flower-box-bouquet-7-stems-citrus-dreamscape-artificial-78-9x19x10cm-product-0
   type: product

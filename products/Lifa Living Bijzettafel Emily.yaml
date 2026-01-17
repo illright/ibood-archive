@@ -19,13 +19,16 @@ freeDelivery: false
 id: 89473877-4981-4745-9f5d-8510b102dcad
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1273194
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cb9d06d7-83d3-411e-8a74-84d2c631f375-tr
   priority: 0
-  slug: lifa-living-bijzettafel-emily
+  slug: lifa-living-beistelltisch-emilyella-4-jpg-product-4
   type: product
 logo:
   channels:
@@ -35,7 +38,7 @@ logo:
   extension: png
   id: 1483831
   priority: 100
-  slug: lifa-living-bijzettafel-emily
+  slug: lifa-living-beistelltisch-emilyella
   type: logo
 offerId: c9f4d93b-bac5-443e-9cfe-8cbb8c56a41b
 price:
