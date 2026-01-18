@@ -1,4 +1,4 @@
-_id: 69650315e820ebd67408c97e
+_id: 69650310715621b0234fd011
 appOnly: false
 brand: Lee Jeans
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Lee Jeans
 categories:
   - 2c772502-e30a-56fa-987a-69e1a4fe448e
-classicId: '2932261'
-classicProductId: '670662'
+classicId: '2932258'
+classicProductId: '670670'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 58
+discount: 59
 end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: a35a2012-38a6-4682-802a-725b609584bd
+id: 31bc5e05-cb0d-421f-821e-0b6e610799ee
 image:
   channels:
     - app
@@ -24,19 +24,29 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: bd89992c-cf47-4ab6-a890-3ac053192cf2
+  id: 7f62607b-8c4e-4115-8b37-5f99d9913bd7
   priority: 0
-  slug: w34-l34-richter-112370658-west-lee-product-7
+  slug: w36-l32-strong-hand-112373387-west-lee-product-5
   type: product
-offerId: f30e178e-59d6-4beb-b5ad-df673b9fb8cd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1782704
+  priority: 100
+  slug: lee-jeans-logo
+  type: logo
+offerId: 84fdeed1-6bcb-4888-aba9-be0b5dd2b555
 price:
-  cents: 4995
+  cents: 4495
   currency: EUR
-  value: 49.95
+  value: 44.95
 referencePrice:
-  cents: 11995
+  cents: 10995
   currency: EUR
-  value: 119.95
+  value: 109.95
 slug: lee-west-regular-jeans-heren
 soldOut: false
 start: '2026-01-12T23:00:00.000Z'
