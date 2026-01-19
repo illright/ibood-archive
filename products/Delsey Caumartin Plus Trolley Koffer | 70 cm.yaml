@@ -1,4 +1,4 @@
-_id: 6967575e809c7dc927f863c1
+_id: 696757a185daa9e2dfd338de
 appOnly: false
 brand: Delsey
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Delsey
 categories:
   - 2396c3a1-9115-504b-83f1-db914210f26d
-classicId: '2938873'
-classicProductId: '233503'
+classicId: '2938899'
+classicProductId: '233505'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 55
+directCheckout: true
+discount: 66
 end: '2026-01-19T22:59:59.999Z'
 freeDelivery: false
-id: ff9d0f1a-d7a4-425e-96ca-5a4ebc3207ef
+id: 1352d456-3b83-4952-a496-2904fc00b256
 image:
   channels:
     - app
@@ -25,15 +25,25 @@ image:
   priority: 0
   slug: caumartin-plus-trolley-koffer-70-cm
   type: product
-offerId: b4911c0d-ec97-49f7-95a9-b4fefe81336f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
+  type: logo
+offerId: 5a670184-4fca-4314-b552-62930bbc5fe1
 price:
-  cents: 12995
+  cents: 11995
   currency: EUR
-  value: 129.95
+  value: 119.95
 referencePrice:
-  cents: 28900
+  cents: 34900
   currency: EUR
-  value: 289
+  value: 349
 slug: caumartin-plus-trolley-koffer-70-cm
 soldOut: false
 start: '2026-01-13T23:00:00.000Z'
