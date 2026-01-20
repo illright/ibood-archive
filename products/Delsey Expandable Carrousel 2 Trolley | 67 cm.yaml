@@ -1,12 +1,12 @@
-_id: 6967545b2d9f03ae7e2f59dd
+_id: 696e2b26c9b6be1c43159707
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 2396c3a1-9115-504b-83f1-db914210f26d
-classicId: '2938859'
+  - 2374d78c-b1f2-5935-9304-f9286f0aadb5
+classicId: '2951573'
 classicProductId: '683703'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 62
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: a92d294c-3720-55cb-bf69-f36f26700764
+id: c8da1dd6-5cab-4dc4-98e6-90c1ff99ac37
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main22-png-product-1
   type: product
-offerId: 83c1594e-66ac-5f52-985b-0fc05721039d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
+  type: logo
+offerId: 555d2d8b-6d05-4258-a119-446b4d9c3c64
 price:
   cents: 14995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 399
 slug: delsey-expandable-carrousel-2-trolley-67-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Delsey Expandable Carrousel 2 Trolley | 67 cm

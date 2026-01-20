@@ -1,22 +1,22 @@
-_id: 69661f3c693b6d31e6762a78
+_id: 696e0025c9b6be1c43159269
 appOnly: false
 brand: KWB
 brands:
   - id: a3f5c785-c399-55af-a6b5-56474bdc0670
     name: KWB
 categories:
-  - 3b9d2f44-ef8e-5ab5-8cc0-d6199b012b5a
-classicId: '2934643'
+  - 100f6cc4-ce27-5478-a933-87d57272948c
+classicId: '2949629'
 classicProductId: '681228'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
-discount: 63
-end: '2026-01-19T22:59:59.999Z'
+discount: 75
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: ba91eab9-da59-41f0-a09e-2b70bcf51f6b
+id: 0dea6120-9d55-4818-9643-4aaff5c85131
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: kwb004-png-product-1
   type: product
-offerId: 78715a0a-56fe-4637-960f-5a3ccff6c99f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 966332e0-0359-49a7-9288-3c9b775cc5fb
+  priority: 0
+  slug: kwb-tools-png-logo-0
+  type: logo
+offerId: 86d86ab3-56e1-4c8d-883e-68d26f80746d
 price:
-  cents: 1495
+  cents: 995
   currency: EUR
-  value: 14.95
+  value: 9.95
 referencePrice:
   cents: 4047
   currency: EUR
   value: 40.47
 slug: 3x-kwb-combi-borenset-e6-3-9-delig
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: '3x KWB Combi-Borenset | 9-delig | E6.3 '

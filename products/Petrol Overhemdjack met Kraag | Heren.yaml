@@ -1,12 +1,12 @@
-_id: 69650239e820ebd67408c8b5
+_id: 696e2c16000d61c2f6bb9818
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 59dcd1cf-dd71-552b-9751-9d97ee223505
-classicId: '2931980'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2951763'
 classicProductId: '673854'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 43
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 557a84b7-238b-4bc3-b8e0-c87ec25b63f2
+id: d145c7e4-3044-442d-a1bf-688199f32792
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: petrol-13-png-product-1
   type: product
-offerId: 185014d6-d165-4720-be99-a57478229eb7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
+  type: logo
+offerId: 87a4f807-9aec-4863-9a57-0cd8a93b02d4
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: petrol-overhemdjack-met-kraag-heren
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Petrol Overhemdjack met Kraag | Heren

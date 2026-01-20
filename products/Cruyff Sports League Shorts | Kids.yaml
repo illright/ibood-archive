@@ -1,12 +1,12 @@
-_id: 69661f28693b6d31e6762a5a
+_id: 6969f4e8b8f1fc1c6e33386a
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 56ed4474-60fb-548b-9ac9-b29ac3423b0e
-classicId: '2934611'
+  - a886b200-5b12-5bc0-9caf-891f681c6120
+classicId: '2945713'
 classicProductId: '626709'
 deliveryPrice:
   cents: 595
@@ -14,20 +14,31 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 63
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-25T22:59:59.999Z'
 freeDelivery: false
-id: 95da3d86-cf5a-45cd-8d7a-dbfd13aab5f6
+id: 619bbb91-a6b1-4cfd-9c9a-84c4001c1f9e
 image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 901de9e5-adb8-4966-b350-0a4073aa13ae
+  priority: 0
+  slug: laag-3-png-product-1
+  type: product
+logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 2198785
-  priority: 0
-  slug: cruyff-sports-league-shorts-kids
-  type: product
-offerId: 014a4b54-b30a-4876-b7a5-e753b752aaee
+  extension: png
+  id: 2201621
+  priority: 100
+  slug: cruyff-sports-league-shorts-kinder
+  type: logo
+offerId: 638545fd-a5c0-4b95-8a1e-019eb4234087
 price:
   cents: 1300
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 34.95
 slug: cruyff-sports-league-shorts-kids
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Cruyff Sports League Shorts | Kids

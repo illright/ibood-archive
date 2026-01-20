@@ -1,22 +1,22 @@
-_id: 696504fc14b121c2639f4c28
+_id: 696e2f4dc9b6be1c43159b19
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932920'
-classicProductId: '654099'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952029'
+classicProductId: '654107'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: de298811-cf90-46e3-a4e9-3edafa5960d1
+id: 40976613-bf14-4703-a2d6-acd070a6394f
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
+    - all
+  extension: image/png
+  id: 610825d6-21bc-4523-9589-68821b1257c6
+  priority: 0
+  slug: jack-jones-o-neck-t-shirt-core-classic-png-logo-0
   type: logo
-offerId: e216f677-3e72-4dfa-b213-bae78f758422
+offerId: 846f9a24-2cd2-453b-8d23-df3f84e56f9c
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-connor-knit-cardigan-sky-captain
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: 'Jack & Jones Connor Knit Cardigan '

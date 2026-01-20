@@ -1,12 +1,12 @@
-_id: 695f79cbbe7e44af1cc83317
+_id: 696e05c8ee861d60dbb79156
 appOnly: false
 brand: Hugo Boss
 brands:
   - id: ea8978ea-f226-5c2a-bb5f-4458ac381560
     name: Hugo Boss
 categories:
-  - 356f8ef7-2abd-581d-958d-0a33b6f29888
-classicId: '2926600'
+  - 77c991c4-c98a-55c4-af11-edd395482627
+classicId: '2951277'
 classicProductId: '686807'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: d0b42a43-739b-5739-840f-7a4d26938f35
+id: 00cf8bac-7ccb-4c41-95f9-5853568f716c
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: 2x-hugo-boss-the-scent-deo-spray-jpg-product-1
   type: product
-offerId: 51f9f2ee-8500-5f0c-aed8-3517145ec35e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1797875
+  priority: 100
+  slug: hugo-boss-logo
+  type: logo
+offerId: fe2b7fd0-1280-4cd0-815a-107d70264b7c
 price:
   cents: 2295
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 60
 slug: 2x-hugo-boss-the-scent-deo-75-ml
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: 2x Hugo Boss The Scent Deo Stick | 75 ml

@@ -1,12 +1,12 @@
-_id: 696504f014b121c2639f4c10
+_id: 696e2eb0c9b6be1c43159b06
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932910'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952023'
 classicProductId: '672887'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 3b966306-555f-41bd-9c58-95404227ba12
+id: 2acdda0a-0ffc-4fb9-badb-79654441fe73
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: l-charcoal-navy-1657-25ls700-ss-tee-nza-product-0
   type: product
-offerId: 2f1e6af9-b129-4a67-b061-be6b60c636fd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
+  type: logo
+offerId: db1841f8-38f3-482c-a95c-98dff262b3a0
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: nza-23-t-shirt-25ls700-charcoal-navy
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: NZA 23+ T-shirt | 25LS700 | Charcoal Navy

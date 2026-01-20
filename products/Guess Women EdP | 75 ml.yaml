@@ -1,12 +1,12 @@
-_id: 69662caf51bbb21ade992a4b
+_id: 696e05a6e94cbb961061459a
 appOnly: false
 brand: Guess
 brands:
   - id: b58d4793-325b-5bc3-a25f-53443ce101f4
     name: Guess
 categories:
-  - 356f8ef7-2abd-581d-958d-0a33b6f29888
-classicId: '2935689'
+  - 77c991c4-c98a-55c4-af11-edd395482627
+classicId: '2951228'
 classicProductId: '468375'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 03be0996-6c95-4883-856d-7798ee62f48c
+id: f5c63f2e-0040-45c6-ab94-7e85fe82f93e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1574916
-  priority: 100
-  slug: guess-women-edp-75-ml
+    - all
+  extension: image/png
+  id: fcb2b756-e92c-42f0-9d6a-9bf1fff4eb3e
+  priority: 0
+  slug: parfum-03-png-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: guess-logo
   type: logo
-offerId: 1ce173d2-8ac0-4d30-95cd-0545c993ecc2
+offerId: 8be52422-f7dd-49a4-8a5c-62034bff140c
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 60
 slug: guess-women-edp-75-ml
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Guess Women EdP | 75 ml

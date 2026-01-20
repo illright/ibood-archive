@@ -1,12 +1,12 @@
-_id: 69661f70693b6d31e6762ab8
+_id: 696e00dbee861d60dbb7905b
 appOnly: false
 brand: Stanley
 brands:
   - id: 6b6b9ccd-1c3a-5298-8d05-5997fbcce8e5
     name: Stanley
 categories:
-  - 3b9d2f44-ef8e-5ab5-8cc0-d6199b012b5a
-classicId: '2934689'
+  - 43fd24a6-183b-5708-a932-2c094b585c74
+classicId: '2949885'
 classicProductId: '260795'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 1f4be07c-46b9-426a-903a-dfa73ade48cf
+id: aa975c1e-4292-416c-91e5-2bf1e19a3093
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: stanley-logo
   type: logo
-offerId: 165c347e-9346-472d-90f9-453222eda1a5
+offerId: 2c1ebeb2-bd26-49ec-acf1-3dbd2f92d62a
 price:
   cents: 1895
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 35.43
 slug: stanley-fatmax-messenset
-soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+soldOut: true
+start: '2026-01-19T23:00:00.000Z'
 title: Stanley FMHT82836-0 Fatmax Messenset

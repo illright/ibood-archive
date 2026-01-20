@@ -1,22 +1,22 @@
-_id: 69650583e820ebd67408ca1e
+_id: 696e3144c9b6be1c43159cf4
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2933038'
-classicProductId: '669958'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952353'
+classicProductId: '669951'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 84
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: c5b93934-40a7-4671-9938-985c60ce6f82
+id: 175261a2-f559-46b4-afcb-354f9b2f3a44
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 0f4d8a3e-54a6-4d37-a068-b8d61de46e6b
+offerId: e9792c02-0c90-4c9a-b3e3-e3a8d4c8b588
 price:
   cents: 800
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: jack-jones-bushwick-stanley-shirt
-soldOut: true
-start: '2026-01-12T23:00:00.000Z'
+soldOut: false
+start: '2026-01-19T23:00:00.000Z'
 title: Jack & Jones Bushwick Stanley Shirt

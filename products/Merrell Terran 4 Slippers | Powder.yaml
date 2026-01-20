@@ -1,12 +1,12 @@
-_id: 69661ec659a899bd186878e5
+_id: 696e1b77000d61c2f6bb966f
 appOnly: false
 brand: Merrell
 brands:
   - id: d199d883-246f-5414-be80-7a8501ca9f77
     name: Merrell
 categories:
-  - 533a1f66-b9a7-5e9a-9214-e67d3e196ff7
-classicId: '2934513'
+  - bb93db99-d375-572f-b0f9-7d75e0455158
+classicId: '2951401'
 classicProductId: '634726'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 72
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: f7c8a654-42bc-4148-9667-2df5169acd02
+id: db20699f-b71b-442c-b6c5-2e8a1b90d3db
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 9e224f98-46bf-4d45-945c-178d839e1de7-tr
+  extension: jpg
+  id: 2230043
   priority: 0
-  slug: merrell-terran-4-slide-sandalen-rosebeige-jpg-product-1
+  slug: merrell-terran-4-slippers-powder
   type: product
 logo:
   channels:
@@ -36,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2238071
+  id: 1718923
   priority: 100
-  slug: merrell-terran-4-slide-sandalen-rosebeige
+  slug: merrell-logo
   type: logo
-offerId: a26d68e7-19d0-41f4-aae2-9917b679cb82
+offerId: 3622b7f9-a3ac-4ef6-b9b0-81ff3495af19
 price:
   cents: 2500
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 90
 slug: merrell-terran-4-slippers-powder
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Merrell Terran 4 Slippers | Powder

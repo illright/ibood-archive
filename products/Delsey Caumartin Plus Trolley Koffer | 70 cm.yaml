@@ -1,29 +1,31 @@
-_id: 696757a185daa9e2dfd338de
+_id: 696e3032000d61c2f6bb999c
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 2396c3a1-9115-504b-83f1-db914210f26d
-classicId: '2938899'
-classicProductId: '233505'
+  - 2374d78c-b1f2-5935-9304-f9286f0aadb5
+classicId: '2952116'
+classicProductId: '233503'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 66
-end: '2026-01-19T22:59:59.999Z'
+directCheckout: false
+discount: 55
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 1352d456-3b83-4952-a496-2904fc00b256
+id: ea30bd00-54dc-43ed-ae94-1bf4f16ab81d
 image:
   channels:
+    - website
     - app
+    - newsletter
   extension: jpg
-  id: 587882
+  id: 1228409
   priority: 0
-  slug: caumartin-plus-trolley-koffer-70-cm
+  slug: delsey-caumartin-plus-trolley-koffer-70-cm
   type: product
 logo:
   channels:
@@ -35,16 +37,16 @@ logo:
   priority: 100
   slug: delsey-logo
   type: logo
-offerId: 5a670184-4fca-4314-b552-62930bbc5fe1
+offerId: 98d7bc41-4e8d-4805-bf1d-adaa096c06df
 price:
-  cents: 11995
+  cents: 12995
   currency: EUR
-  value: 119.95
+  value: 129.95
 referencePrice:
-  cents: 34900
+  cents: 28900
   currency: EUR
-  value: 349
-slug: caumartin-plus-trolley-koffer-70-cm
+  value: 289
+slug: delsey-caumartin-plus-trolley-koffer-70-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Delsey Caumartin Plus Trolley Koffer | 70 cm

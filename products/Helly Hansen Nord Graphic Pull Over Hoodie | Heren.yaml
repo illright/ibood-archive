@@ -1,22 +1,22 @@
-_id: 69661ea519eeaaa90217f44e
+_id: 696e25921596338a99cdb0c8
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - 7ae833ac-42a7-5d76-824b-eeb671f7bedc
-classicId: '2934439'
-classicProductId: '659511'
+  - 0c60e883-3f01-5845-b9e2-6a44ae68b708
+classicId: '2951507'
+classicProductId: '659502'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 53
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 35daf1ab-3501-4972-9e9a-6fc022a8f6c5
+id: 1f2c732f-e9af-4177-a82f-ad01281caa82
 image:
   channels:
     - app
@@ -24,7 +24,7 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 710eeec9-a70a-4f3a-aeb8-b6f43002c58f
+  id: 9052e6e2-00ee-416b-ac82-a304b59b46a8
   priority: 0
   slug: 1-png-product-1
   type: product
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: 8955c169-8178-40b9-b9e4-626b40e094ca
+offerId: 4ac871b0-fba4-48e6-9a66-50345092bcc0
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 85
 slug: helly-hansen-nord-graphic-pull-over-hoodie-heren
-soldOut: true
-start: '2026-01-13T23:00:00.000Z'
+soldOut: false
+start: '2026-01-19T23:00:00.000Z'
 title: Helly Hansen Nord Graphic Pull Over Hoodie | Heren

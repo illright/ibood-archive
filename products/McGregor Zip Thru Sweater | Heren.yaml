@@ -1,12 +1,12 @@
-_id: 696504c0715621b0234fd16f
+_id: 696e2bd206723d37db7f6133
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932872'
+  - e2c876f5-c080-5260-8e31-f01c55469c92
+classicId: '2951709'
 classicProductId: '669621'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 081473d1-a954-4655-af10-0e7b6b8f4285
+id: 0a63464e-1eaf-4cc4-819c-43ffa6051c97
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: mcgregor-07-png-product-1
   type: product
-offerId: 8fd57444-420c-4780-a0bf-f3617ec6b015
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: 0070ac54-7144-4449-ae8b-d10ee3aa6290
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: mcgregor-zip-thru-sweater-heren
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: McGregor Zip Thru Sweater | Heren

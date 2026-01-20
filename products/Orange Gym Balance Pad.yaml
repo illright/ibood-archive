@@ -1,0 +1,53 @@
+_id: 6966290359a899bd18687c2b
+appOnly: false
+brand: Orange Gym
+brands:
+  - id: 7fec4fdd-8b82-5c1b-89ec-997041a890ed
+    name: Orange Gym
+categories:
+  - 117a0fd1-667a-55c1-abd7-b7b0e9d9cba6
+classicId: '2935607'
+classicProductId: '661563'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: false
+discount: 11
+end: '2026-01-25T22:59:59.999Z'
+freeDelivery: false
+id: cdc2f51d-e63e-54ec-b516-9505e7f79ab1
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 586dfc3b-3157-4b33-a290-52ba1bb3ef4d
+  priority: 0
+  slug: 01-png-product-2
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1611192
+  priority: 100
+  slug: orange-gym-logo
+  type: logo
+offerId: 29c0c592-488d-51a5-881e-16efb5e0b38d
+price:
+  cents: 1595
+  currency: EUR
+  value: 15.95
+referencePrice:
+  cents: 1795
+  currency: EUR
+  value: 17.95
+slug: orange-gym-balance-pad
+soldOut: false
+start: '2026-01-19T23:00:00.000Z'
+title: Orange Gym Balance Pad

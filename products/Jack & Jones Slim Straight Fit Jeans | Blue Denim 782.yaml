@@ -1,22 +1,22 @@
-_id: 69650325715621b0234fd051
+_id: 696e30f7c9b6be1c43159c9b
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 2c772502-e30a-56fa-987a-69e1a4fe448e
-classicId: '2932279'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952315'
 classicProductId: '494266'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 8e3bca38-d8b0-48a2-b15b-628912ed701d
+id: 8866f24c-61ca-4880-a39e-16e0f065ee63
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: jack-jones-straight-fit-jeans-blue-782
   type: product
-offerId: 8a2cdaee-91ca-4f92-b8df-048d9d8b39f2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 26334578-05f5-4d28-9161-b188b736ce3a
 price:
   cents: 2995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 59.99
 slug: jack-jones-straight-fit-jeans-blue-782
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Jack & Jones Slim Straight Fit Jeans | Blue Denim 782

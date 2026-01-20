@@ -1,43 +1,42 @@
-_id: 6965051a14b121c2639f4c4a
+_id: 696e2fab6c4218e949d6491b
 appOnly: false
 brand: Original Penguin
 brands:
   - id: 18863ac5-1510-54f2-b877-ed28426ed60e
     name: Original Penguin
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932959'
-classicProductId: '636989'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952072'
+classicProductId: '636994'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 80
-end: '2026-01-19T22:59:59.999Z'
+directCheckout: true
+discount: 58
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 3ec6ef5e-ef3b-410c-9556-6d9f3b36a61b
+id: 61d1e0d4-be3c-4aaf-85a9-a8f580cdb376
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ac9e4032-6bfa-46ef-bc6c-90bb3e2fe640
+  extension: png
+  id: 2252732
   priority: 0
-  slug: 12-png-product-2
+  slug: original-penguin-rubber-logo-tee
   type: product
-offerId: 7e2e2d2a-bfb4-4ebc-b772-b4a567d4dc8f
+offerId: 41ab7c11-73b2-489a-959f-a884c2a4f8e8
 price:
-  cents: 1000
+  cents: 2095
   currency: EUR
-  value: 10
+  value: 20.95
 referencePrice:
   cents: 5000
   currency: EUR
   value: 50
 slug: original-penguin-rubber-logo-t-shirt
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Original Penguin Rubber Logo T-Shirt

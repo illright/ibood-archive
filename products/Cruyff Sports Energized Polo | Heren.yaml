@@ -1,12 +1,12 @@
-_id: 69661f3519eeaaa90217f4f1
+_id: 6969f4fb8e40b1d23d152e10
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 56ed4474-60fb-548b-9ac9-b29ac3423b0e
-classicId: '2934631'
+  - a886b200-5b12-5bc0-9caf-891f681c6120
+classicId: '2945720'
 classicProductId: '626689'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-25T22:59:59.999Z'
 freeDelivery: false
-id: fd011feb-2fba-445e-b03f-6cd03423c444
+id: ee4f397c-74e2-464e-8e36-da99b8cef78b
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: cruyff-sports-energized-polo-heren
   type: product
-offerId: 339a1827-c0a1-4a1d-b50c-4a5370c4bf9e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2283287
+  priority: 100
+  slug: cruyff-sports-energized-polo-heren
+  type: logo
+offerId: b2752307-8bdf-42e4-b4e3-58d4a3239541
 price:
   cents: 1700
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 49.95
 slug: cruyff-sports-energized-polo-heren
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Cruyff Sports Energized Polo | Heren

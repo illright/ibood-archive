@@ -1,12 +1,12 @@
-_id: 69661e8a85daa9e2dfd32cc8
+_id: 696e25ae665a4fefaf130f6a
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - 7ae833ac-42a7-5d76-824b-eeb671f7bedc
-classicId: '2934414'
+  - 0c60e883-3f01-5845-b9e2-6a44ae68b708
+classicId: '2951549'
 classicProductId: '629450'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 79
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 4e651627-08b0-42ce-a451-817910227dac
+id: 2510377f-f742-4deb-b073-398487c16c61
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f35fa992-f9b4-43e8-bbb9-f8bdc70f5423
-  priority: 0
-  slug: helly-hansen-roam-short-logo-0
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
   type: logo
-offerId: 17550040-a5e0-41c6-bf38-2bbed62e9d75
+offerId: 3efee9e3-75a0-432e-a3c6-0fe437707206
 price:
   cents: 1500
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 70
 slug: helly-hansen-roam-short
-soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+soldOut: true
+start: '2026-01-19T23:00:00.000Z'
 title: Helly Hansen Roam Trail Shorts  | Heren

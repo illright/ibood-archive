@@ -1,12 +1,12 @@
-_id: 6965051685daa9e2dfd32b8e
+_id: 696e2f9a6c4218e949d64902
 appOnly: false
 brand: Mario Russo
 brands:
   - id: f470bb88-e4c4-568c-b7b0-ef5a02dd4265
     name: Mario Russo
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932952'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952063'
 classicProductId: '672162'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 69
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 0e0030e4-ca2c-416e-a84d-5582f2c7b077
+id: 9c79f54f-df6f-4b7d-88d3-d6a9bc76f149
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: mario-russo-26-png-product-1
   type: product
-offerId: a80f8b44-a3b0-4c0d-b890-a31475129682
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 91cb2e11-03c6-41d8-a919-457fc5840610
+  priority: 0
+  slug: mario-russo-logo-0
+  type: logo
+offerId: 19c77e37-b634-45f7-b863-b2a50134f13b
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 79.99
 slug: mario-russo-half-zip-trui-heren
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Mario Russo Half Zip Trui | Heren

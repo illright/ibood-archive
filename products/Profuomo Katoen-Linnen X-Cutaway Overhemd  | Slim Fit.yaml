@@ -1,22 +1,22 @@
-_id: 6965059a715621b0234fd29a
+_id: 696e313f000d61c2f6bb9a42
 appOnly: false
 brand: Profuomo
 brands:
   - id: 69ef4c51-3092-5a9e-a2da-bc665a89eb9f
     name: Profuomo
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2933036'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952347'
 classicProductId: '613003'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 75
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: d70df56e-3b21-44bb-b131-4c6ee17bcfe7
+id: f45ba811-d47a-4a0e-824a-2d65c9a35302
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ba47cb96-976e-48dc-bbcf-9e942b8f2681
-  priority: 0
-  slug: profuomo-cotton-linen-cutaway-overhemd-slim-fit-logo-0-png-logo-0
+  extension: png
+  id: 1986746
+  priority: 100
+  slug: profuomo-logo
   type: logo
-offerId: 474b8574-f5d5-4625-af08-da645da889a5
+offerId: 156d640b-c23c-44ec-9b5d-8fc6fec0d3a0
 price:
   cents: 3000
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119.95
 slug: profuomo-katoen-linnen-x-cutaway-overhemd-slim-fit
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Profuomo Katoen-Linnen X-Cutaway Overhemd  | Slim Fit

@@ -1,12 +1,12 @@
-_id: 6967579885daa9e2dfd338cc
+_id: 696e2b5dc9b6be1c43159742
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 2396c3a1-9115-504b-83f1-db914210f26d
-classicId: '2938890'
+  - 2374d78c-b1f2-5935-9304-f9286f0aadb5
+classicId: '2951603'
 classicProductId: '665230'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 62
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 9570e21d-2445-4930-97c8-1b7795f68d90
+id: ae9bcc3e-3f25-4962-b8a1-eb965272217f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7639aa8b-9182-42e8-84b4-6e4cfd3b7c6c
-  priority: 0
-  slug: delsey-logo-png-logo-0
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
   type: logo
-offerId: a821e018-8b6d-4e34-a4ed-0a14d0d37d17
+offerId: 90e426a5-14f4-4def-969a-53568169bafe
 price:
   cents: 14995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 399
 slug: delsey-turenne-2-0-m-trolley-70-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Delsey Turenne 2.0 M Trolley | 70 cm

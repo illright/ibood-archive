@@ -1,12 +1,12 @@
-_id: 696503d185daa9e2dfd32add
+_id: 696e2d98000d61c2f6bb986e
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932386'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2951886'
 classicProductId: '666585'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 07aad2b3-caa0-46ce-87dc-828508d6655f
+id: 1a7ba224-7433-4aec-8308-622b7335c7ee
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: logo-trui-png-product-1
   type: product
-offerId: bb57d973-7a29-4839-9cfe-abd6f9ebb867
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
+  type: logo
+offerId: 2323f1f8-1c0e-4775-a6d3-38dcfc77227a
 price:
   cents: 4000
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 100
 slug: timberland-oyrv-logo-sweater-ronde-nek
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Timberland Oyrv Logo Sweater met Ronde Nek

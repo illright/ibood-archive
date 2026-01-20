@@ -1,22 +1,22 @@
-_id: 6965052c715621b0234fd225
+_id: 696e2fcd6c4218e949d64944
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932973'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952086'
 classicProductId: '669843'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 60
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: d9928675-5538-4322-bd89-4df45488147f
+id: d7225a95-d51c-4f3a-aa7d-fec304ef174c
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-jpg-product-1
   type: product
-offerId: 6d0334f5-ebbe-4b19-9087-8cad8912edae
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: b5a13878-8e8c-4701-b275-3fb3f9de5bd9
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: jack-and-jones-perfect-knit-half-zip-pullover-crockery
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: 'Jack & Jones Perfect Knit Half-Zip Pullover | Crockery '

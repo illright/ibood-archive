@@ -1,22 +1,22 @@
-_id: 69661f391a915d85cb7ba2c7
+_id: 696e002364702ad417cad0c1
 appOnly: false
 brand: KWB
 brands:
   - id: a3f5c785-c399-55af-a6b5-56474bdc0670
     name: KWB
 categories:
-  - 3b9d2f44-ef8e-5ab5-8cc0-d6199b012b5a
-classicId: '2934639'
+  - 100f6cc4-ce27-5478-a933-87d57272948c
+classicId: '2949631'
 classicProductId: '681225'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 75
-end: '2026-01-19T22:59:59.999Z'
+discount: 84
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 3df85cbd-556b-423c-8a19-50fc06b4a71c
+id: 667d8b5a-ef81-4f00-ac47-7821606b0c90
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: kwb001-png-product-1
   type: product
-offerId: 06ee0ea0-85ca-4b8a-9c40-62710329ce4e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: bc19961a-705d-4680-8485-f7869175b591
+  priority: 0
+  slug: kwb-tools-png-logo-0
+  type: logo
+offerId: 0a197daa-7823-46f0-a650-6e47d4c594c5
 price:
-  cents: 1495
+  cents: 995
   currency: EUR
-  value: 14.95
+  value: 9.95
 referencePrice:
   cents: 6098
   currency: EUR
   value: 60.98
 slug: 2x-kwb-sds-plus-hamerborenset-12-delig
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: 2x KWB SDS-Plus Hamerborenset | 12-delig

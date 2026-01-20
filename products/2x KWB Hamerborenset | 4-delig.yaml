@@ -1,22 +1,22 @@
-_id: 69661f23693b6d31e6762a52
+_id: 696e001dee861d60dbb78f8c
 appOnly: false
 brand: KWB
 brands:
   - id: a3f5c785-c399-55af-a6b5-56474bdc0670
     name: KWB
 categories:
-  - 3b9d2f44-ef8e-5ab5-8cc0-d6199b012b5a
-classicId: '2934602'
+  - 100f6cc4-ce27-5478-a933-87d57272948c
+classicId: '2949627'
 classicProductId: '681229'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
-discount: 77
-end: '2026-01-19T22:59:59.999Z'
+discount: 80
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: e98d27c3-208c-4813-ba97-6708f139b16c
+id: b7619f7c-bca5-482d-8979-e61b150861ff
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: kwb005-png-product-1
   type: product
-offerId: 972df69a-f949-4b0c-bf7c-c595cf4c5996
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 461fe591-9f3b-4e46-a997-06e3f116469a
+  priority: 0
+  slug: kwb-tools-png-logo-0
+  type: logo
+offerId: 085f9401-5f13-48ca-9e94-9540967cd9ff
 price:
-  cents: 795
+  cents: 695
   currency: EUR
-  value: 7.95
+  value: 6.95
 referencePrice:
   cents: 3510
   currency: EUR
   value: 35.1
 slug: 2x-kwb-hamerborenset-4-delig
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: 2x KWB Hamerborenset | 4-delig

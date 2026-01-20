@@ -1,22 +1,22 @@
-_id: 69661f7819eeaaa90217f542
+_id: 696e002c000d61c2f6bb938f
 appOnly: false
 brand: KWB
 brands:
   - id: a3f5c785-c399-55af-a6b5-56474bdc0670
     name: KWB
 categories:
-  - 3b9d2f44-ef8e-5ab5-8cc0-d6199b012b5a
-classicId: '2934695'
+  - 100f6cc4-ce27-5478-a933-87d57272948c
+classicId: '2949635'
 classicProductId: '681231'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 61
-end: '2026-01-19T22:59:59.999Z'
+discount: 78
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: b6f88241-21b7-4d4b-9eea-6b9cc737855f
+id: 4995dc02-6740-4cd7-bf09-e5ec918dbbc5
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: kwb007-png-product-1
   type: product
-offerId: bf28feed-ec5f-412a-8552-bef46c75c88d
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e55cc129-387e-483c-91d0-0cd2ca0e9f41
+  priority: 0
+  slug: kwb-tools-png-logo-0
+  type: logo
+offerId: 5f69b4f2-3f15-407a-9d4b-5ab236ba86af
 price:
-  cents: 1795
+  cents: 995
   currency: EUR
-  value: 17.95
+  value: 9.95
 referencePrice:
   cents: 4598
   currency: EUR
   value: 45.98
 slug: 2x-kwb-bit-borenset-39-delig-m-box
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: 2x KWB Bit- & Borenset | M-Box | 39-delig

@@ -30,13 +30,14 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1756301
-  priority: 100
-  slug: nestle-logo
+    - all
+  extension: image/png
+  id: cd28682a-b5ff-4c0d-82b6-e35236f95bc8
+  priority: 0
+  slug: nestle-logo-101-png-logo-101
   type: logo
 offerId: afdb841d-5821-4925-9db7-1f286bfcad03
 price:

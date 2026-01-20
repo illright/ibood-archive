@@ -1,12 +1,12 @@
-_id: 6965030fe820ebd67408c976
+_id: 696e2e996c4218e949d64893
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 59dcd1cf-dd71-552b-9751-9d97ee223505
-classicId: '2932257'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952000'
 classicProductId: '630348'
 deliveryPrice:
   cents: 395
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 64
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 66284fc5-c9ad-48a9-b56e-7732b3704cce
+id: fd779e72-a599-486f-8415-030a234bb14d
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 7cb6b38c-4780-4256-be08-7534b17b0470-tr
+  extension: jpg
+  id: 2210997
   priority: 0
-  slug: petrol-short-sleeve-hemd-m-1050-sis411-1-jpg-product-1
+  slug: petrol-uni-shirt-dusty-army
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: cbb3e67a-4446-4b89-af1f-8037aa4b2411
+offerId: 1b6fa7f5-7b75-4545-813a-eb4b9467aacf
 price:
   cents: 1995
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 55.99
 slug: petrol-uni-shirt-dusty-army
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Petrol Uni Shirt | Dusty army

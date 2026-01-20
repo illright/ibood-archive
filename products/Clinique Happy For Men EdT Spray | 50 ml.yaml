@@ -1,12 +1,12 @@
-_id: 69662ca759a899bd18687c70
+_id: 696e05d5ee861d60dbb7916f
 appOnly: false
 brand: Clinique
 brands:
   - id: 270aa5f8-0e98-5b85-a809-bd5743bbec86
     name: Clinique
 categories:
-  - 356f8ef7-2abd-581d-958d-0a33b6f29888
-classicId: '2935676'
+  - 77c991c4-c98a-55c4-af11-edd395482627
+classicId: '2951291'
 classicProductId: '397647'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 82380f36-7b2f-4f36-93ea-8a1e05535405
+id: e00484be-8fda-4005-bff9-56543b634c86
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1318450
-  priority: 100
-  slug: clinique-happy-for-men-edt-spray-50-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 41d48fde-2728-461b-9e17-737265dbe83a-tr
+  priority: 0
+  slug: clinique-happy-for-men-edt-50-ml-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: clinique-logo
   type: logo
-offerId: 5410fe10-d16b-44d0-a2e5-92d7f9c0d3de
+offerId: 1a073e6f-5ca0-4c35-bf4c-f02aba17a188
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 57
 slug: clinique-happy-for-men-edt-spray-50-ml
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Clinique Happy For Men EdT Spray | 50 ml

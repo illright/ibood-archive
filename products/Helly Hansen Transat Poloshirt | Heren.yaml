@@ -1,12 +1,12 @@
-_id: 69661ea619eeaaa90217f452
+_id: 696e25b81596338a99cdb107
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - 7ae833ac-42a7-5d76-824b-eeb671f7bedc
-classicId: '2934441'
+  - 0c60e883-3f01-5845-b9e2-6a44ae68b708
+classicId: '2951551'
 classicProductId: '568500'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 73
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: b0c5d0de-eddb-4fd9-a2a5-1488ddd8fa09
+id: c54662da-4046-4773-9939-32b008ee75fd
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1973228
-  priority: 100
-  slug: helly-hansen-logo
+    - all
+  extension: image/png
+  id: 0c26e1dd-42f5-4767-a29e-334529ae9752
+  priority: 0
+  slug: helly-hansen-transat-polo-logo-0
   type: logo
-offerId: 5040938f-998b-4b7a-907a-208f843fd421
+offerId: 5ef2b6dc-be4c-42fb-98e0-027b877d49f6
 price:
   cents: 1500
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 55
 slug: helly-hansen-transat-polo
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Helly Hansen Transat Poloshirt | Heren

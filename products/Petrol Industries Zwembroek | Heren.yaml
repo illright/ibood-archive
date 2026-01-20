@@ -1,12 +1,12 @@
-_id: 6965038419eeaaa90217f175
+_id: 696e3095c9b6be1c43159c3f
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 59dcd1cf-dd71-552b-9751-9d97ee223505
-classicId: '2932344'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2952198'
 classicProductId: '636789'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 78
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: cb98eb01-b110-4e22-a603-8830302ba1f3
+id: 326b8bd6-8af3-48fd-acee-ccaa0d92121c
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 0d998386-9e85-4405-92ff-8c54927ba4c4
+  priority: 0
+  slug: 1819625-png-logo-0
   type: logo
-offerId: f99d0b25-31a6-4b5a-b0eb-f29fc62a97da
+offerId: 81240796-a8a5-4c8f-9cec-2aad0779673e
 price:
   cents: 795
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 35.99
 slug: petrol-zwemshorts-voor-heren
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Petrol Industries Zwembroek | Heren

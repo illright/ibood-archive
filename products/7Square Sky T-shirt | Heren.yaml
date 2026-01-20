@@ -1,22 +1,22 @@
-_id: 6965044185daa9e2dfd32b11
+_id: 696e2e44c9b6be1c43159a8a
 appOnly: false
 brand: 7Square
 brands:
   - id: d86cdca8-7bcd-5034-8189-d961ecae1932
     name: 7Square
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932600'
-classicProductId: '648162'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2951974'
+classicProductId: '648181'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 83
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 9d81e3b9-8996-4171-8438-4921b6d84158
+id: d0434182-6bf1-405e-9a46-5e088aae15ac
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1655689
-  priority: 100
-  slug: 7square-logo
+    - all
+  extension: image/png
+  id: e10ac4ba-d463-42c7-b8af-47b1ad540e9d
+  priority: 0
+  slug: 7sqr-png-logo-0
   type: logo
-offerId: a70189b5-08a0-45aa-af40-0524a0e4380f
+offerId: dd5d5d37-64c6-4e03-bab0-1f1db9044d19
 price:
   cents: 995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.95
 slug: 7square-sky-t-shirt-heren
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: 7Square Sky T-shirt | Heren

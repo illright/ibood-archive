@@ -1,12 +1,12 @@
-_id: 696502de715621b0234fcfb9
+_id: 696e2ca1c9b6be1c431598b7
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932213'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2951813'
 classicProductId: '656652'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 67
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: db8128e6-b5f3-4911-9e56-be534aa965a9
+id: 912b4180-8adb-4a8a-8b89-c33888f0ed09
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: slate-5401139556799-112r-1-webp-product-1
   type: product
-offerId: 15cf7749-4e27-40aa-ac63-c9c17aaabd42
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
+  type: logo
+offerId: d09e0bf3-785d-4dc9-9d4a-236b13b0d3f8
 price:
   cents: 3000
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 89.95
 slug: wrangler-overhemd-slatebound
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Wrangler Overhemd | Slatebound

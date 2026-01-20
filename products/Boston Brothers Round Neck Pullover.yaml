@@ -1,22 +1,22 @@
-_id: 696504c514b121c2639f4bf2
+_id: 696e2e836c4218e949d6487b
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - fb6f020b-1757-57e2-9eeb-20707896ea51
-classicId: '2932871'
-classicProductId: '662790'
+  - 966a53e8-2753-592b-8d88-57d101387766
+classicId: '2951992'
+classicProductId: '662791'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2026-01-19T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 04784b97-d3e0-40a9-b9fe-24206d66f31b
+id: 72f63182-9e12-4201-be9a-ac2e739009b4
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: boston-brothers-logo
   type: logo
-offerId: bb04bd16-bc11-4b8c-991f-6dd2b7cc3321
+offerId: b3759f7c-0b26-4a5c-af4b-35e253a869fd
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 89.95
 slug: boston-brothers-round-neck-pullover
 soldOut: false
-start: '2026-01-12T23:00:00.000Z'
+start: '2026-01-19T23:00:00.000Z'
 title: Boston Brothers Round Neck Pullover
