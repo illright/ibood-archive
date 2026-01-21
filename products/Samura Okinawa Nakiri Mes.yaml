@@ -1,12 +1,12 @@
-_id: 695e586ea3322377ca22dabc
+_id: 696f414e36b8839da062c695
 appOnly: false
 brand: Samura
 brands:
   - id: 3a5fdc44-5875-5e72-8076-0dcea8fa54a6
     name: Samura
 categories:
-  - 793e67e8-28d0-51e3-bf76-b22b6f97f91a
-classicId: '2925548'
+  - 4c52a9e9-dc2e-5bd3-b7c8-c9aa9ca7f813
+classicId: '2952989'
 classicProductId: '676498'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 4260f0c5-4993-58f6-b8a4-2b40d9459c29
+id: 1fdb229e-f0eb-475e-a769-75a3ff9c3d01
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: samura-okinawa-nakiri-knife-6-8-172-mm-double-edged-blade-product-1
   type: product
-offerId: fec17e7e-3103-5ddd-ac8c-70e8636d6819
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1676072
+  priority: 100
+  slug: samura-logo
+  type: logo
+offerId: 3e776118-907c-404a-8141-7542e44c6605
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 76.95
 slug: samura-okinawa-nakiri-mes
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-20T23:00:00.000Z'
 title: Samura Okinawa Nakiri Mes

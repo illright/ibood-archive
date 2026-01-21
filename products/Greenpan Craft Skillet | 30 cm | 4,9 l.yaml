@@ -1,12 +1,12 @@
-_id: 695f9de19f2146dc2aa7c5df
+_id: 696f416c66b6d0653eac3f5d
 appOnly: false
 brand: GreenPan
 brands:
   - id: 23b3d7af-a873-5386-8c95-20bb07ea82ad
     name: GreenPan
 categories:
-  - 92747506-9e61-50c0-a685-cd9c31febafd
-classicId: '2927091'
+  - f039a537-3d8b-5e5e-9fe9-43fc8c9a4b0c
+classicId: '2953083'
 classicProductId: '686823'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 24f8f952-5477-5d3c-be0a-99ddfd61dd0e
+id: 823ee3ea-18fc-4ae9-848b-aec6465b481d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: cc002268-001-greenpan-craft-skillet-with-lid-30cm-4-9l-product-3
   type: product
-offerId: 9cb2ed40-e287-5ea2-ac6d-07d8523b2388
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 29f7a7ae-58c4-485c-a310-feadd9c22d60
+  priority: 0
+  slug: greenpan-logo-101
+  type: logo
+offerId: 4dd28b07-07f1-4b7b-abde-908f7ec4111e
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 159.9
 slug: greenpan-craft-skillet-30-cm-4-9-l
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-20T23:00:00.000Z'
 title: Greenpan Craft Skillet | 30 cm | 4,9 l

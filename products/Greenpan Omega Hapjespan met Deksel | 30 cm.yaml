@@ -1,12 +1,12 @@
-_id: 696604f285daa9e2dfd32bd3
+_id: 696f416fd8b237229902fd1f
 appOnly: false
 brand: GreenPan
 brands:
   - id: 23b3d7af-a873-5386-8c95-20bb07ea82ad
     name: GreenPan
 categories:
-  - 92747506-9e61-50c0-a685-cd9c31febafd
-classicId: '2933306'
+  - f039a537-3d8b-5e5e-9fe9-43fc8c9a4b0c
+classicId: '2953081'
 classicProductId: '686825'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 4d644ed3-18d8-5705-a5cf-e4cf3a2afdb8
+id: dc900c51-c689-4b94-8b22-3a5617eed4f3
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: gp-omega-30cmcvdfrypan-outline-jpg-product-0
   type: product
-offerId: 79d97a88-abe8-52e6-a40e-dc2de959f9c4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 29f7a7ae-58c4-485c-a310-feadd9c22d60
+  priority: 0
+  slug: greenpan-logo-101
+  type: logo
+offerId: c1e228a4-6678-4eca-ace8-59643cc984b1
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 89.9
 slug: greenpan-omega-hapjespan-met-deksel-30-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-20T23:00:00.000Z'
 title: Greenpan Omega Hapjespan met Deksel | 30 cm

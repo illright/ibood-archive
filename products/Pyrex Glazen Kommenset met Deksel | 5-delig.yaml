@@ -1,12 +1,12 @@
-_id: 6966239b1a915d85cb7ba481
+_id: 696f418ed8b237229902fd62
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - 793e67e8-28d0-51e3-bf76-b22b6f97f91a
-classicId: '2935056'
+  - 4c52a9e9-dc2e-5bd3-b7c8-c9aa9ca7f813
+classicId: '2953152'
 classicProductId: '458455'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: a61ad6ab-cc82-4c68-8f87-4484c5a0e364
+id: 34bea10c-3efe-4c7e-bfdf-8cb11ad98cb7
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1617609
-  priority: 100
-  slug: pyrex-schussel-set-mit-deckeln-5-tlg
+    - all
+  extension: image/png
+  id: 752a9045-7a03-43bb-b0c5-d6365973ed06
+  priority: 0
+  slug: pyrex-logo-0
   type: logo
-offerId: d1e69a4c-4a1f-48bc-9b69-73e8185bce08
+offerId: 443f1205-5e46-49a5-bde1-1c09bc2436dd
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 72.9
 slug: pyrex-glazen-kommenset-met-deksel-5-delig
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-20T23:00:00.000Z'
 title: Pyrex Glazen Kommenset met Deksel | 5-delig

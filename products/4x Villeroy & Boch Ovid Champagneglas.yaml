@@ -1,12 +1,12 @@
-_id: 696623d285daa9e2dfd32f43
+_id: 696f41aca92527899066247f
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 793e67e8-28d0-51e3-bf76-b22b6f97f91a
-classicId: '2935165'
+  - 4c52a9e9-dc2e-5bd3-b7c8-c9aa9ca7f813
+classicId: '2953239'
 classicProductId: '682902'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-27T22:59:59.999Z'
 freeDelivery: false
-id: 5c88cb6d-c366-42a9-998e-86131bbcad30
+id: 41de6381-7bf4-459a-9a74-a04160941956
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1172098130-villeroy-boch-ovid-champagne-flute-set-4pcs-product-0
   type: product
-offerId: fb62f9a9-dcb5-426c-a594-622b2a6371aa
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
+  type: logo
+offerId: 026e0b15-8b44-4c2f-8e11-f0c42bce1920
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.9
 slug: 4x-villeroy-boch-ovid-champagneglas
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-20T23:00:00.000Z'
 title: 4x Villeroy & Boch Ovid Champagneglas

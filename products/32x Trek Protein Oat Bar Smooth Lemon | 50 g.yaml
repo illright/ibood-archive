@@ -1,12 +1,12 @@
-_id: 69664b23f1312b1778d51e44
+_id: 696f707631bd7e99b0da8d48
 appOnly: false
 brand: Trek
 brands:
   - id: 04292f61-7ba0-51be-98a1-3b687dafef7e
     name: Trek
 categories:
-  - b6550112-584c-5d6a-a54a-1913ffcbcad8
-classicId: '2937216'
+  - 10fd7827-9449-528d-be5e-a97d0c07b4ad
+classicId: '2956045'
 classicProductId: '683060'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2026-01-20T22:59:59.999Z'
+end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: 24f8f24d-cf7f-4e27-ab75-9666ef5d6893
+id: 17d08415-2600-4d10-832c-ecb34cbde56f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fe07059a-28b4-46b1-8406-db51ba594cb4
-  priority: 0
-  slug: trek-png-logo-0
+  extension: png
+  id: 1905136
+  priority: 100
+  slug: trek-logo
   type: logo
-offerId: c9089571-772b-419f-937a-77429d96125d
+offerId: 9347e464-9d9d-4899-adb7-7106051bf73f
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 73.68
 slug: 32x-trek-protein-oat-bar-smooth-lemon-50-g
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-20T23:00:00.000Z'
 title: 32x Trek Protein Oat Bar Smooth Lemon | 50 g
