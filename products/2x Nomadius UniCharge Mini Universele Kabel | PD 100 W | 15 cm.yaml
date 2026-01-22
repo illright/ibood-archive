@@ -1,12 +1,12 @@
-_id: 695e2495a3322377ca22d953
+_id: 6970a164bb606c27cfd93f44
 appOnly: false
 brand: Nomadius
 brands:
   - id: f578ce69-5592-5a05-82cd-b857800efd98
     name: Nomadius
 categories:
-  - f24d5ef7-6b46-571f-ade9-78fcc136c5d9
-classicId: '2924241'
+  - 5201cc6d-397f-5d3b-9d7d-fee96843b9d5
+classicId: '2957364'
 classicProductId: '687422'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 40
-end: '2026-01-21T22:59:59.999Z'
+end: '2026-01-28T22:59:59.999Z'
 freeDelivery: false
-id: d31cad46-68b9-5f5e-be20-358751b772aa
+id: 48f16f9d-9186-423c-8d60-24561598f79a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: kabeltjes-png-product-1
   type: product
-offerId: 17ce2c03-4c67-508f-bf0c-004dc0bc2c40
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e632d3c2-979d-4da6-b853-63260d887732
+  priority: 0
+  slug: nomadius-logo-0
+  type: logo
+offerId: 95c1446a-c71f-4992-8e25-c7540e2e908f
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 29.95
 slug: 2x-nomadius-unicharge-mini-universele-kabel-pd-100-w-15-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-21T23:00:00.000Z'
 title: 2x Nomadius UniCharge Mini Universele Kabel | PD 100 W | 15 cm

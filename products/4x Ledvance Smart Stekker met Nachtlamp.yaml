@@ -1,22 +1,22 @@
-_id: 6966335959a899bd18687dd6
+_id: 6970a175be28345b4aa5dbc1
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - f24d5ef7-6b46-571f-ade9-78fcc136c5d9
-classicId: '2935917'
-classicProductId: '684253'
+  - 5201cc6d-397f-5d3b-9d7d-fee96843b9d5
+classicId: '2957380'
+classicProductId: '684252'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 79
-end: '2026-01-21T22:59:59.999Z'
+discount: 69
+end: '2026-01-28T22:59:59.999Z'
 freeDelivery: false
-id: 3505a76d-a557-4651-814b-5833c818a69f
+id: 967a6977-1007-4b27-b19e-c89310afd773
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1965522
-  priority: 100
-  slug: ledvance-logo
+    - all
+  extension: image/png
+  id: 30ad6396-48ed-4a42-a1c9-c36fcdab81ee
+  priority: 0
+  slug: ledvance-png-logo-0
   type: logo
-offerId: c16cfed1-749c-4d5c-b2c4-b79c693f4a3a
+offerId: 20ce2518-1243-46a4-936e-0b04746b17fd
 price:
   cents: 2495
   currency: EUR
   value: 24.95
 referencePrice:
-  cents: 11996
+  cents: 7996
   currency: EUR
-  value: 119.96
+  value: 79.96
 slug: 4x-ledvance-smart-stekker-met-nachtlamp
-soldOut: true
-start: '2026-01-13T23:00:00.000Z'
+soldOut: false
+start: '2026-01-21T23:00:00.000Z'
 title: 4x Ledvance Smart Stekker met Nachtlamp

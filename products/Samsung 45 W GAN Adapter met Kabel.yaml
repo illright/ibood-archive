@@ -1,12 +1,12 @@
-_id: 695fcc49b6e149b99819d557
+_id: 6970a14fa581009f29456782
 appOnly: false
 brand: Samsung
 brands:
   - id: d925541a-b4c5-57e6-9497-016344a9a7ac
     name: Samsung
 categories:
-  - f24d5ef7-6b46-571f-ade9-78fcc136c5d9
-classicId: '2928285'
+  - 5201cc6d-397f-5d3b-9d7d-fee96843b9d5
+classicId: '2957332'
 classicProductId: '686859'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-01-21T22:59:59.999Z'
+end: '2026-01-28T22:59:59.999Z'
 freeDelivery: false
-id: d22f750e-8ce2-59e7-9d34-f8baf0226fb6
+id: bc054e16-3023-45ca-80e8-2036ba461e6d
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: samgung-45w-gan-power-adapter-black-with-cable-product-2
   type: product
-offerId: 125c67de-2fbf-517d-ace4-3aa7195a00f0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1685320
+  priority: 100
+  slug: samsung-logo
+  type: logo
+offerId: 118d1d4d-677f-4ae7-af7e-206abe18c21b
 price:
   cents: 2395
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 39.95
 slug: samsung-45-w-gan-adapter-met-kabel
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-21T23:00:00.000Z'
 title: Samsung 45 W GAN Adapter met Kabel

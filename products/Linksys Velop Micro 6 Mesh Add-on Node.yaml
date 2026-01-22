@@ -1,12 +1,12 @@
-_id: 695e2814a13022bc90e0662f
+_id: 6970a0dfbb606c27cfd93e5a
 appOnly: false
 brand: Linksys
 brands:
   - id: 96c0aa94-096f-5eee-a811-7f1aba61aa52
     name: Linksys
 categories:
-  - f24d5ef7-6b46-571f-ade9-78fcc136c5d9
-classicId: '2924262'
+  - 5201cc6d-397f-5d3b-9d7d-fee96843b9d5
+classicId: '2957162'
 classicProductId: '683847'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-01-21T22:59:59.999Z'
+end: '2026-01-28T22:59:59.999Z'
 freeDelivery: false
-id: da660f91-c683-578f-b3aa-d8026640cb9d
+id: 910feabf-c257-4018-96a1-15ab93558084
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: linksys-ln1201-ke-velop-micro-6-mesh-add-on-node-product-4
   type: product
-offerId: 1102e98e-7fa6-5223-ad17-230aeb6ed797
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1684192
+  priority: 100
+  slug: linksys-logo
+  type: logo
+offerId: 5ed31d60-696e-44f8-b421-226080f73693
 price:
   cents: 3300
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 99.99
 slug: linksys-velop-micro-6-mesh-add-on-node
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-21T23:00:00.000Z'
 title: Linksys Velop Micro 6 Mesh Add-on Node

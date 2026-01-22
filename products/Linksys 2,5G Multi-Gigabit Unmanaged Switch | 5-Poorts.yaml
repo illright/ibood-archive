@@ -1,12 +1,12 @@
-_id: 695e28e4a13022bc90e0663f
+_id: 6970a0f40ca2e25e042f46e8
 appOnly: false
 brand: Linksys
 brands:
   - id: 96c0aa94-096f-5eee-a811-7f1aba61aa52
     name: Linksys
 categories:
-  - f24d5ef7-6b46-571f-ade9-78fcc136c5d9
-classicId: '2924406'
+  - 5201cc6d-397f-5d3b-9d7d-fee96843b9d5
+classicId: '2957229'
 classicProductId: '683848'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-01-21T22:59:59.999Z'
+end: '2026-01-28T22:59:59.999Z'
 freeDelivery: false
-id: 3002c4ef-313b-5679-abaf-c99e526745fb
+id: c873d6e1-f53a-452c-a807-3f5dd456b2d0
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: linksys-5-port-2-5g-multi-gig-unmanaged-switch-product-0
   type: product
-offerId: eed7807a-a0ec-52dd-916a-fe253116b202
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1684192
+  priority: 100
+  slug: linksys-logo
+  type: logo
+offerId: e1eb1aa3-08d6-4f81-80dd-dcb1ccd1d787
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 89.95
 slug: linksys-2-5g-multi-gigabit-unmanaged-switch-5-poorts
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-21T23:00:00.000Z'
 title: Linksys 2,5G Multi-Gigabit Unmanaged Switch | 5-Poorts
