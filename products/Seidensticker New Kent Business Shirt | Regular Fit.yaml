@@ -1,4 +1,4 @@
-_id: 696e313e000d61c2f6bb9a3f
+_id: 696e31396c4218e949d64a31
 appOnly: false
 brand: Seidensticker
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Seidensticker
 categories:
   - 966a53e8-2753-592b-8d88-57d101387766
-classicId: '2952346'
-classicProductId: '662074'
+classicId: '2952344'
+classicProductId: '662092'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 57
+directCheckout: true
+discount: 50
 end: '2026-01-26T22:59:59.999Z'
 freeDelivery: false
-id: acb99da5-5226-4efc-b30d-f5a621ff1f24
+id: 0722a8a0-7bb1-4969-9ba0-9acb38c5b3eb
 image:
   channels:
     - app
@@ -24,7 +24,7 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 38d4bdb0-e831-4cc1-9931-f58e32ccf62b
+  id: 3534182f-5ad5-4320-a9d0-16983196d7b4
   priority: 0
   slug: 1-png-product-1
   type: product
@@ -38,15 +38,15 @@ logo:
   priority: 100
   slug: seidensticker-logo
   type: logo
-offerId: 57b05550-d192-42af-9d98-968ad0a689f7
+offerId: 2b837364-f2ef-4008-a813-2762d62bec5a
 price:
-  cents: 3000
+  cents: 3995
   currency: EUR
-  value: 30
+  value: 39.95
 referencePrice:
-  cents: 6999
+  cents: 7999
   currency: EUR
-  value: 69.99
+  value: 79.99
 slug: seidensticker-new-kent-overhemd-regular-fit
 soldOut: false
 start: '2026-01-19T23:00:00.000Z'

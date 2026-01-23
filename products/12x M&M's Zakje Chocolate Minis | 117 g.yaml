@@ -32,13 +32,14 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1676287
-  priority: 100
-  slug: m-m-s-logo
+    - all
+  extension: image/png
+  id: ca264685-a34d-4fef-a040-926e6d014c82
+  priority: 0
+  slug: m-ms-png-logo-0
   type: logo
 offerId: 7e510c87-e837-4eff-a7fc-e0e83f9b0ec3
 price:

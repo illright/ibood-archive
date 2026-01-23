@@ -1,4 +1,4 @@
-_id: 6966510519eeaaa90217fdf0
+_id: 6971ecc4a99cbb0953d92c9d
 appOnly: false
 brand: Greve
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Greve
 categories:
   - dd69cb84-50aa-50c7-a177-c9b89e2aaf15
-classicId: '2938285'
-classicProductId: '681500'
+classicId: '2960145'
+classicProductId: '681496'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 68
 end: '2026-01-25T22:59:59.999Z'
 freeDelivery: false
-id: 73e74265-9597-485c-8d3b-48fc3ebc9c94
+id: 0f57205a-8ac1-4268-b79a-72635692257a
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: main-png-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1912813
-  priority: 100
-  slug: greve-logo
-  type: logo
-offerId: fd467cae-6400-4dcf-bdca-4145ef0644d6
+offerId: 6532717b-9a1b-46f6-a67f-4ea4852bb2f9
 price:
   cents: 5995
   currency: EUR

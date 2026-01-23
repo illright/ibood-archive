@@ -1,4 +1,4 @@
-_id: 69665241ed1bcaba0a406d42
+_id: 6971ecc622947f269a6eb326
 appOnly: false
 brand: REEBOK
 brands:
@@ -6,17 +6,17 @@ brands:
     name: REEBOK
 categories:
   - 78d86a84-b75e-5a3c-aa36-5757af02575f
-classicId: '2938419'
-classicProductId: '653536'
+classicId: '2960147'
+classicProductId: '670517'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 43
+directCheckout: true
+discount: 62
 end: '2026-01-25T22:59:59.999Z'
 freeDelivery: false
-id: 40f09b8a-0f5a-400c-9c97-5bdab6c73044
+id: 85c65bba-241e-4ecb-b84b-9252c637cac8
 image:
   channels:
     - app
@@ -24,25 +24,15 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: aac5c964-dba9-4d1a-a68c-c97048404535
+  id: 67d5dbc9-0f93-414c-a6c2-670475c5ad1c
   priority: 0
-  slug: main-png-product-1
+  slug: main12-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 2011608
-  priority: 100
-  slug: reebok-logo
-  type: logo
-offerId: 97c9b273-c065-4c6c-89a0-9c74bf3bda72
+offerId: 7e1f33ff-ccd6-4a57-8832-30ba2ea7a5e9
 price:
-  cents: 5995
+  cents: 4000
   currency: EUR
-  value: 59.95
+  value: 40
 referencePrice:
   cents: 10500
   currency: EUR
