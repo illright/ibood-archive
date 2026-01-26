@@ -1,22 +1,22 @@
-_id: 696652091294accd14033496
+_id: 697384bfa99cbb0953d93179
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - aa290179-d4a6-5d43-9919-ef9d7a149eed
-classicId: '2938391'
-classicProductId: '663560'
+  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
+classicId: '2962167'
+classicProductId: '663567'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 63
-end: '2026-01-25T22:59:59.999Z'
+directCheckout: false
+discount: 56
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: bc43fe46-cfcb-432e-8389-c58488441dde
+id: 4ab67363-5d2e-48bc-8b76-c37f69d860cd
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 569a92b5-a318-46f2-980a-6f1f316814d7
+  id: 5cd887ce-5aab-4199-8dd7-5d48a1b68fab
   priority: 0
-  slug: 1-png-product-0
+  slug: 11-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: f0a9e799-2e72-4e72-9080-83650e689deb
+offerId: 53a38b52-1326-4c8c-910a-21dcf58d301b
 price:
-  cents: 2995
+  cents: 3495
   currency: EUR
-  value: 29.95
+  value: 34.95
 referencePrice:
   cents: 7995
   currency: EUR
   value: 79.95
 slug: travelin-come-home-pantoffels-heren
-soldOut: true
-start: '2026-01-13T23:00:00.000Z'
+soldOut: false
+start: '2026-01-25T23:00:00.000Z'
 title: Travelin' Come Home Pantoffels | Heren

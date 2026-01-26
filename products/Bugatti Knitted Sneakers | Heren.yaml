@@ -1,12 +1,12 @@
-_id: 6966524aed1bcaba0a406d48
+_id: 697384dca6028433fff3b02a
 appOnly: false
 brand: Bugatti
 brands:
   - id: 5d9c4d4c-fe3a-549e-b952-c17beaa692d8
     name: Bugatti
 categories:
-  - aa290179-d4a6-5d43-9919-ef9d7a149eed
-classicId: '2938426'
+  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
+classicId: '2962198'
 classicProductId: '649023'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-01-25T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: b1fbe9ba-baa3-43bd-aa32-e7dae3f1ef3a
+id: 976f9f0d-f9a4-4d85-89b9-85b6a47eb07f
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1640819
-  priority: 100
-  slug: bugatti-logo
+    - all
+  extension: image/png
+  id: 61c5c6eb-4d37-4b01-bae7-97ef6a443044
+  priority: 0
+  slug: 1961534-png-logo-0
   type: logo
-offerId: 8b525955-8fe5-42c0-9df9-9fc30e20dde0
+offerId: dd3dfda4-5aa2-4dab-80cd-8c84f06c367c
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 69.95
 slug: bugatti-schoenen-blauw
 soldOut: true
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-25T23:00:00.000Z'
 title: Bugatti Knitted Sneakers | Heren

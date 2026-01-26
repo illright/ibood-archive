@@ -1,12 +1,12 @@
-_id: 696651b119eeaaa90217fe85
+_id: 697384afa99cbb0953d93166
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 78d86a84-b75e-5a3c-aa36-5757af02575f
-classicId: '2938362'
+  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
+classicId: '2962159'
 classicProductId: '671282'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-01-25T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: ac639731-7fec-4fb9-966d-182259a0c503
+id: 2596657a-9e0d-4446-83ed-d3ccb4fe3a74
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 46-cognac-031-forever003-finlay-sneaker-lyle-scott-product-0
   type: product
-offerId: 7ed3a5fb-a8f5-4974-8e29-eb06c789389d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1695004
+  priority: 100
+  slug: lyle-scott-logo
+  type: logo
+offerId: e6602200-9869-4fce-9bf8-6f2ff1f27dc8
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119.9
 slug: lyle-scott-sneaker
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-25T23:00:00.000Z'
 title: Lyle & Scott Finlay Forever003 Sneakers | Heren

@@ -1,12 +1,12 @@
-_id: 6966516385daa9e2dfd337b9
+_id: 6973846ca99cbb0953d930d3
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - dd69cb84-50aa-50c7-a177-c9b89e2aaf15
-classicId: '2938329'
+  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
+classicId: '2962113'
 classicProductId: '671524'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-01-25T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: b2ce88d8-a8f2-4c6a-ab6b-8cfe2d606777
+id: eb4d581a-76c0-44bf-9bd1-2a1a84e3e598
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: re02-png-product-1
   type: product
-offerId: ba366e8d-0723-4835-b01d-2d2e042ce57b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: e796d89c-362f-4f19-b151-8baab193d2e4
 price:
   cents: 8995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 179.95
 slug: rehab-owen-suede-schoenen-heren
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-25T23:00:00.000Z'
 title: Rehab Owen Suede Schoenen | Heren

@@ -1,12 +1,12 @@
-_id: 6966526185daa9e2dfd33805
+_id: 69738430a99cbb0953d930a1
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 78d86a84-b75e-5a3c-aa36-5757af02575f
-classicId: '2938433'
+  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
+classicId: '2962086'
 classicProductId: '657126'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 70
-end: '2026-01-25T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 1b85c932-5520-41f1-a25c-73be6f86ab66
+id: 74fbd6fb-408f-4064-8e01-011b7f930d3f
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1695004
-  priority: 100
-  slug: lyle-scott-logo
+    - all
+  extension: image/png
+  id: 4031ea63-2fdf-4ff3-8d86-db50514ec7ad
+  priority: 0
+  slug: lyle-scott-whitburn-sneakers-herren-png-logo-0
   type: logo
-offerId: cf0f67ad-5baa-4efb-b9d7-ff978813aee4
+offerId: e24f3aeb-c199-4217-80b9-ea3167b9f554
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 99.9
 slug: lyle-scott-sneaker
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-25T23:00:00.000Z'
 title: Lyle & Scott Evanton III Sneakers | Heren
