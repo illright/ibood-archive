@@ -1,12 +1,12 @@
-_id: 696f64e3acbf6b06fd277687
+_id: 69776428c2d6a1007d433416
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - e87ba887-2c2b-5f34-91cd-e03831ddd232
-classicId: '2955732'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2965565'
 classicProductId: '655311'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: f57346f5-0f7e-4cf7-babb-1addd024bb77
+id: f024fd8f-1fc5-43c9-ba52-81cb21dbc016
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1521924
-  priority: 100
-  slug: ariel-logo
+    - all
+  extension: image/png
+  id: d8ab67ec-4a87-4d7d-bef4-7a99ea99d2a5
+  priority: 0
+  slug: ariel-png-logo-0
   type: logo
-offerId: 31895cb9-f9b5-447a-aa92-3266cc12b9a9
+offerId: a2f9abb0-1c4c-44e1-be37-d83dec23e8c2
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 135.59
 slug: 130x-ariel-all-in-one-mountain-sping-wascapsules
 soldOut: false
-start: '2026-01-20T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 130x Ariel All-in-One Mountain Sping Wascapsules

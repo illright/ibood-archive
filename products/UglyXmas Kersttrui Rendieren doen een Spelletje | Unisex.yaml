@@ -1,22 +1,22 @@
-_id: 696e2fcbc9b6be1c43159ba9
+_id: 69774562b6114abaca97388d
 appOnly: false
 brand: UglyXmas
 brands:
   - id: 6330e7f3-0dc7-5110-97a1-5f5520695a93
     name: UglyXmas
 categories:
-  - 966a53e8-2753-592b-8d88-57d101387766
-classicId: '2952083'
-classicProductId: '668234'
+  - cbc519e7-2e3e-5319-b537-3bed35a75659
+classicId: '2964005'
+classicProductId: '668233'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 151df717-b679-430b-9ed7-f41f158f174c
+id: 1d112bb6-d62a-4a4e-ad26-19d36be9324b
 image:
   channels:
     - app
@@ -41,7 +41,7 @@ logo:
   priority: 0
   slug: uglyxmas-logo-0
   type: logo
-offerId: 3acd60f7-0840-4186-b5c6-994a8e068c3b
+offerId: e35a7bd4-ea89-49e8-9ede-a274c0d88b0c
 price:
   cents: 1995
   currency: EUR
@@ -51,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: uglyxmas-kersttrui-rendieren-doen-een-spelletje-unisex
-soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+soldOut: true
+start: '2026-01-26T23:00:00.000Z'
 title: UglyXmas Kersttrui Rendieren doen een Spelletje | Unisex

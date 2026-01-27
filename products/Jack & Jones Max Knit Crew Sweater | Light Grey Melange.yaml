@@ -1,22 +1,22 @@
-_id: 696e2f7b6c4218e949d648df
+_id: 697772f83c8a20cb311fd60b
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 966a53e8-2753-592b-8d88-57d101387766
-classicId: '2952042'
-classicProductId: '669748'
+  - a510e636-d003-59e1-b675-38dc0efacab1
+classicId: '2967474'
+classicProductId: '669752'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 75
-end: '2026-01-26T22:59:59.999Z'
+directCheckout: true
+discount: 67
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 6b87b39e-e9c5-49f2-bf33-538dfa77172d
+id: 7fbd669d-879a-40f7-9c39-3fd85cacdc35
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 7ac85390-ddb4-4f87-87fc-0c4691a04088
+offerId: 7987ed32-aff3-46b4-933f-d05606f41688
 price:
-  cents: 1500
+  cents: 1995
   currency: EUR
-  value: 15
+  value: 19.95
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: jack-jones-max-knit-crew-sweater-light-grey-melange
-soldOut: true
-start: '2026-01-19T23:00:00.000Z'
+soldOut: false
+start: '2026-01-26T23:00:00.000Z'
 title: Jack & Jones Max Knit Crew Sweater | Light Grey Melange

@@ -1,12 +1,12 @@
-_id: 696f7074cd3e97655d09ada3
+_id: 69776c4fc2d6a1007d43365c
 appOnly: false
 brand: Toscanelli
 brands:
   - id: 54cc0912-c569-5006-b902-dfc2f18ed943
     name: Toscanelli
 categories:
-  - 10fd7827-9449-528d-be5e-a97d0c07b4ad
-classicId: '2956044'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2967272'
 classicProductId: '685204'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: ceeebd5e-2a75-4234-b62d-615a49b8864d
+id: 1ccdafd1-8b2c-44e0-8ff9-87f8c490906d
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: toscanelli-ciao-tutti-1kg-product-0
   type: product
-offerId: 7f01759d-d4e8-4970-9355-9b4c68e3f9d5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4a923331-8c7e-4456-954a-8989198adeb3
+  priority: 0
+  slug: toscanelli-logo-0
+  type: logo
+offerId: 835d654a-c4c0-4f89-9c95-2a3a0a3933f9
 price:
   cents: 4495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 77.97
 slug: 3x-toscanelli-ciao-tutti-blend-koffiebonen-1-kg
 soldOut: false
-start: '2026-01-20T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 3x Toscanelli Ciao Tutti  Blend Koffiebonen | 1 kg

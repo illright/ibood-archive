@@ -1,12 +1,12 @@
-_id: 696f700831bd7e99b0da8c0c
+_id: 69776311106f1b95d0781407
 appOnly: false
 brand: 5th Season
 brands:
   - id: d13dec4b-5d9c-5e3b-a5ec-ae085563391e
     name: 5th Season
 categories:
-  - 10fd7827-9449-528d-be5e-a97d0c07b4ad
-classicId: '2955945'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2965472'
 classicProductId: '685450'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 54425712-6efa-4a72-9c5b-e5be24e77cfd
+id: 9d2b57e0-7701-4397-93c6-440020ccd5ad
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 5th-season-02-png-product-1
   type: product
-offerId: fe531b3b-a70a-4966-aaec-f54f3bd86177
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3342fa39-5b90-4f83-8a68-b39adc7f92b1
+  priority: 0
+  slug: 5th-season-logo-0
+  type: logo
+offerId: d2ccffaf-cb00-4b0f-bf51-d550e44254b4
 price:
   cents: 1195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 35.82
 slug: 18x-5th-season-freeze-dried-fruit-salad-bites-11-g
 soldOut: false
-start: '2026-01-20T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 18x 5th Season Freeze Dried Fruit Salad Bites | 11 g

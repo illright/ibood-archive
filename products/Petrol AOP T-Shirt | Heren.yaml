@@ -1,22 +1,22 @@
-_id: 696e2e93c9b6be1c43159ac3
+_id: 697772f5b6114abaca973e4f
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 966a53e8-2753-592b-8d88-57d101387766
-classicId: '2951997'
+  - a510e636-d003-59e1-b675-38dc0efacab1
+classicId: '2967453'
 classicProductId: '665430'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 50
-end: '2026-01-26T22:59:59.999Z'
+discount: 60
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 8276e02e-1d60-4bb7-9203-928b984c8a9d
+id: 32d18e66-8c69-41dd-85f4-cb6e644ce367
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0a68a06b-2d54-4ccd-bcee-9c4a4d01fd64
-  priority: 0
-  slug: petrol-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 947cc382-43bd-4e22-a209-008efef4d68c
+offerId: 68f89bf8-fbe1-4976-a383-7cb6899d4916
 price:
-  cents: 1495
+  cents: 1195
   currency: EUR
-  value: 14.95
+  value: 11.95
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: petrol-aop-t-shirt-heren
 soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: Petrol AOP T-Shirt | Heren

@@ -1,12 +1,12 @@
-_id: 6960c7e6d8851baf084f2498
+_id: 69776b20c72491111fee6d70
 appOnly: false
 brand: Therme
 brands:
   - id: 706586b0-a41d-58ee-b21d-271b967f5131
     name: Therme
 categories:
-  - 713056c6-264f-5f8b-a6f6-69531df96ccd
-classicId: '2928549'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2967166'
 classicProductId: '686841'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: fd63b620-80af-58bc-bb83-daa8853b1d08
+id: 05ce20ce-7d77-4649-b2ef-0f06ad760dac
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: therme-04-png-product-1
   type: product
-offerId: ad1d1a62-519a-53a2-9fcb-29da0732fa47
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1529796
+  priority: 100
+  slug: therme-logo
+  type: logo
+offerId: 6ecf0ff7-1483-443a-81a8-b74262091cf4
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 64.74
 slug: 6x-therme-ibiza-flow-body-lotion-200-ml
 soldOut: false
-start: '2026-01-22T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 6x Therme Ibiza Flow Body Lotion | 200 ml

@@ -1,12 +1,12 @@
-_id: 696f7175d116ed8f73b26201
+_id: 6977678ba4ab0b3fdd8107e2
 appOnly: false
 brand: LE PETIT OLIVIER
 brands:
   - id: 13dfca90-28c0-5881-aaa1-2a7663232ae6
     name: LE PETIT OLIVIER
 categories:
-  - 713056c6-264f-5f8b-a6f6-69531df96ccd
-classicId: '2956130'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2966504'
 classicProductId: '682444'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 79
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 02ae25a6-da2d-456d-a089-33375a744b72
+id: 57a370e6-4ca4-40f1-9087-5b0a48733497
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: petit-png-product-1
   type: product
-offerId: 75687db2-92b5-4b25-b54d-2a1e1bf1aef9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a7687aa3-ade7-46e3-a238-f2cc5e6012dd
+  priority: 0
+  slug: le-petit-olivier-logo-0
+  type: logo
+offerId: a81e8a41-be81-4c81-9e1d-13cd3bf3cfe6
 price:
   cents: 900
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 42
 slug: le-petit-olivier-schoonmakende-micellar-jelly-aloe-vera-green-tea-400ml
 soldOut: false
-start: '2026-01-22T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 6x Le Petit Olivier Micellaire reinigingsgel  400ml

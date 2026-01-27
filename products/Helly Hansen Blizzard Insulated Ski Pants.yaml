@@ -1,12 +1,12 @@
-_id: 696e254cc9b6be1c43159630
+_id: 6970ecc67cbed1206a6342d5
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - 0c60e883-3f01-5845-b9e2-6a44ae68b708
-classicId: '2951421'
+  - eeeb1d69-10b5-5d7c-a377-69467295c07e
+classicId: '2959735'
 classicProductId: '254219'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 76b334b9-7cd0-40bc-8c61-2184f1e5231c
+id: a74521a5-c383-4809-9ccd-cd3f520c491f
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: helly-hansen-blizzard-insulated-ski-pants
   type: product
-offerId: 0b8beffe-fcb6-4f28-8b1b-f829f3cf9dd3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
+  type: logo
+offerId: aa425efd-b874-41b5-bd7e-de3bb3e746ec
 price:
   cents: 8995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 170
 slug: helly-hansen-blizzard-insulated-ski-pants
 soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: Helly Hansen Blizzard Insulated Ski Pants

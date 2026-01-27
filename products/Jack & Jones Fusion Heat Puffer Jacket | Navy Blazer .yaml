@@ -1,22 +1,22 @@
-_id: 696e3175c9b6be1c43159d13
+_id: 6977737d96a069952e760931
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 966a53e8-2753-592b-8d88-57d101387766
-classicId: '2952364'
+  - 7f0c3d6e-dfe6-514a-84bf-4cee61e70070
+classicId: '2967592'
 classicProductId: '669856'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 57
-end: '2026-01-26T22:59:59.999Z'
+discount: 64
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 81b7d854-902c-4f45-a1a7-b378fac69e97
+id: 29008077-85b3-4cc3-a8ea-6c68232f9262
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: m-navy-blazer-12288329-jcofusion-heat-quilted-puffer-jacket-smu-jack-and-jones-core-product-2
   type: product
-offerId: bcc76692-7981-4836-9923-d39d9746d65f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: f5ad862d-ab41-4818-905b-e1185273a8d0
 price:
-  cents: 2995
+  cents: 2495
   currency: EUR
-  value: 29.95
+  value: 24.95
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: jack-jones-fusion-heat-puffer-jacket-navy-blazer
 soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 'Jack & Jones Fusion Heat Puffer Jacket | Navy Blazer '

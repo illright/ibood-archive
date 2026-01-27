@@ -1,12 +1,12 @@
-_id: 6960c7e9d8851baf084f24a8
+_id: 69776b6b1af5c75b411d3f30
 appOnly: false
 brand: Therme
 brands:
   - id: 706586b0-a41d-58ee-b21d-271b967f5131
     name: Therme
 categories:
-  - 713056c6-264f-5f8b-a6f6-69531df96ccd
-classicId: '2928558'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2967184'
 classicProductId: '686837'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 80d2d248-f526-5dc8-8762-98282d15f2bc
+id: 46ed636a-f16e-4835-8fdb-e53bc400a04c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 92b2e43d-9dd5-4877-ae23-7b8c351de17f
-  priority: 0
-  slug: therme-png-logo-0
+  extension: png
+  id: 1529796
+  priority: 100
+  slug: therme-logo
   type: logo
-offerId: f81a717a-2369-5176-93b6-aedd24bdb418
+offerId: 1507ff09-d339-4951-8c03-818b871aca4d
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 47.94
 slug: 6x-therme-ibiza-flow-body-mist-60-ml
 soldOut: false
-start: '2026-01-22T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 6x Therme Ibiza Flow Body Mist | 60 ml

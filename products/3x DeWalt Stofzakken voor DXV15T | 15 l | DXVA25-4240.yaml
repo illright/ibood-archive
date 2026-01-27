@@ -1,12 +1,12 @@
-_id: 696e00c7c9b6be1c431593bc
+_id: 6977666ca4ab0b3fdd810732
 appOnly: false
 brand: DeWALT
 brands:
   - id: aa972102-79c6-54b1-b2a4-b26148542064
     name: DeWALT
 categories:
-  - 43fd24a6-183b-5708-a932-2c094b585c74
-classicId: '2949853'
+  - 694dca85-b429-5ba8-9dc8-09efbbd656da
+classicId: '2966333'
 classicProductId: '655875'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 36ea9458-00d1-4a9c-a736-2735b7306307
+id: 779ac316-3c72-4f3a-8e30-fcd3f78a04f5
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1664148
-  priority: 100
-  slug: dewalt-logo
+    - all
+  extension: image/png
+  id: 10e5eda1-291a-4c6c-82bf-015b46a868ac
+  priority: 0
+  slug: dewalt-png-logo-0
   type: logo
-offerId: aa9d0a1b-dc77-47bf-b435-f7f7f85381f7
+offerId: a550d6ce-6285-4adb-a3c0-4701c406c8fa
 price:
   cents: 995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 14.95
 slug: 3x-dewalt-stofzakken-voor-dxv15t-15-l-dxva25-4240
 soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 3x DeWalt Stofzakken voor DXV15T | 15 l | DXVA25-4240

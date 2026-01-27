@@ -1,22 +1,22 @@
-_id: 696e30a96c4218e949d649b2
+_id: 6977747ad3aac4af144a0051
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - 966a53e8-2753-592b-8d88-57d101387766
-classicId: '2952241'
+  - b1a62596-d4f7-5ddb-acce-507ba73df8f9
+classicId: '2967716'
 classicProductId: '670683'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 58
-end: '2026-01-26T22:59:59.999Z'
+discount: 63
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 12bdbcf9-4712-428d-9daa-566d248980a1
+id: 15fc90ba-ff73-44e9-acb1-75b57d9cee66
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: jeans-01-png-product-1
   type: product
-offerId: a9cad766-153a-44c5-af04-accd560a051a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
+  type: logo
+offerId: d9b1cddb-fe0a-46ef-9995-3355dfa519da
 price:
-  cents: 3995
+  cents: 3500
   currency: EUR
-  value: 39.95
+  value: 35
 referencePrice:
   cents: 9495
   currency: EUR
   value: 94.95
 slug: wrangler-texas-medium-stretch-straight-jeans-heren
 soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: Wrangler Texas Medium Stretch Straight Jeans | Heren

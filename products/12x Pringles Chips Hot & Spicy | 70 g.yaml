@@ -1,12 +1,12 @@
-_id: 6966498085daa9e2dfd33247
+_id: 69776a4618b1ef517afdc5cd
 appOnly: false
 brand: Pringles
 brands:
   - id: 5f9015ca-9864-5db7-98f4-1a5b9303da0f
     name: Pringles
 categories:
-  - 10fd7827-9449-528d-be5e-a97d0c07b4ad
-classicId: '2936598'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2966922'
 classicProductId: '687468'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 32
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: fa096dd8-c8d0-54f2-86cf-9aaa84fa5076
+id: 923013c5-c4fc-48be-be27-f195981f30d4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 27431cd1-822a-4267-9c09-c55c1a90bfc0
-  priority: 0
-  slug: pringles-png-logo-0
+  extension: png
+  id: 1867807
+  priority: 100
+  slug: pringles-logo
   type: logo
-offerId: e78069b6-860e-5ac1-ad9b-b25284775d02
+offerId: b9ba6543-899a-4883-b607-f1e2fddd92a4
 price:
   cents: 1595
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 23.6
 slug: 12x-pringles-chips-hot-spicy-70-g
 soldOut: false
-start: '2026-01-20T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 12x Pringles Chips Hot & Spicy | 70 g

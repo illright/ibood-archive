@@ -1,34 +1,32 @@
-_id: 696e1b6fc9b6be1c431595f9
+_id: 69774b6cb6114abaca97393c
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - bb93db99-d375-572f-b0f9-7d75e0455158
-classicId: '2951391'
-classicProductId: '676687'
+  - 53824612-f377-5b51-aa75-a4986cecb8a6
+classicId: '2964308'
+classicProductId: '676688'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-01T22:59:59.999Z'
 freeDelivery: false
-id: 6fe0907e-569a-4056-8836-dd68d30c74cf
+id: f65bf716-21e9-4366-b962-4d709b161496
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: 48355c3b-5ce0-4394-995a-55c9fa4095f6-tr
+  id: e7a50d0d-fe57-4548-bcd7-ea0811d0678d-tr
   priority: 0
-  slug: 44-dark-brown-tr-klim-coldbr-siz44-boots-klondike-men-travelin-product-7
+  slug: travelin-74-png-product-1
   type: product
 logo:
   channels:
@@ -40,7 +38,7 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: 9f1c07a8-6c0f-499c-9d7b-99c2bbfc283a
+offerId: a103e780-6e57-4d23-ba15-2ba950717485
 price:
   cents: 9995
   currency: EUR
@@ -50,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 279.95
 slug: travelin-klondike-winterboots-heren
-soldOut: true
-start: '2026-01-19T23:00:00.000Z'
+soldOut: false
+start: '2026-01-26T23:00:00.000Z'
 title: Travelin’ Klondike Winterboots | Heren

@@ -1,12 +1,12 @@
-_id: 696f704e511b488518ff0111
+_id: 69776aba519eb7079601ecc4
 appOnly: false
 brand: Nakd
 brands:
   - id: 4effae53-d1bb-536b-bff2-ff7beec52ab1
     name: Nakd
 categories:
-  - 10fd7827-9449-528d-be5e-a97d0c07b4ad
-classicId: '2956016'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2967052'
 classicProductId: '672671'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 8c25a5f6-1fc9-457e-9a74-d48310287547
+id: d76a80a6-8097-43a2-a25b-e38548a75118
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 68b2edb5-ee20-479f-849a-1a9d64678230
+  id: ffc3a796-9ef0-4432-b4fb-f0cd39b5ea97
   priority: 0
-  slug: nakd-01-png-product-101
+  slug: nakd-04-png-product-1
   type: product
 logo:
   channels:
@@ -34,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2016763
+  id: 2281576
   priority: 100
-  slug: nakd-logo
+  slug: 72x-nakd-proteinriegel-mit-erd-und-himbeeren
   type: logo
-offerId: 34f922f7-9657-4c3c-8cf8-efd623fdc46f
+offerId: 70ba7495-6740-4953-81e5-d7287f40c740
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 90.96
 slug: 24x-nakd-fruit-fibre-bar-strawberry-raspberry-44-g-3-pack
 soldOut: false
-start: '2026-01-20T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 24x Nakd Fruit & Fibre Bar Strawberry & Raspberry | 44 g | 3-pack

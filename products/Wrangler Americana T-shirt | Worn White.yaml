@@ -1,12 +1,12 @@
-_id: 696e2f7cc9b6be1c43159b47
+_id: 697772e0d3aac4af1449feb8
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - 966a53e8-2753-592b-8d88-57d101387766
-classicId: '2952044'
+  - d960db42-d23e-57bc-8fdb-97e4de7a1541
+classicId: '2967395'
 classicProductId: '656614'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 60
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 1b306abf-2ff7-4fe5-9b35-427fdac50ebd
+id: 45682b9c-4fe7-42dc-a0dc-947349360e6c
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: l-worn-white-americana-tee-112371417-americana-tee-wrangler-product-7
   type: product
-offerId: 7e6da7a2-73bf-4761-bf83-47b3d1f61b12
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
+  type: logo
+offerId: e43a65df-80eb-4349-943e-2062b995177c
 price:
   cents: 995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 24.95
 slug: wrangler-americana-t-shirt-worn-white
 soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: Wrangler Americana T-shirt | Worn White

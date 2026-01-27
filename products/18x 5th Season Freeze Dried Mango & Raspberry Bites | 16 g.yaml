@@ -1,12 +1,12 @@
-_id: 696f700931bd7e99b0da8c0f
+_id: 6977635bc72491111fee6a4f
 appOnly: false
 brand: 5th Season
 brands:
   - id: d13dec4b-5d9c-5e3b-a5ec-ae085563391e
     name: 5th Season
 categories:
-  - 10fd7827-9449-528d-be5e-a97d0c07b4ad
-classicId: '2955946'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2965474'
 classicProductId: '685147'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 4893d025-28ae-40a4-982a-0e7fa88ace5a
+id: e1e92e2e-e45e-43b8-8a6d-dbfd9ed7a40b
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 5th-season-01-png-product-1
   type: product
-offerId: c8b57a82-4639-4d3e-a749-e23127c7eaf9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3342fa39-5b90-4f83-8a68-b39adc7f92b1
+  priority: 0
+  slug: 5th-season-logo-0
+  type: logo
+offerId: 781d1fb7-b8a5-4766-be87-9522d2b040f8
 price:
   cents: 1195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 35.82
 slug: 18x-5th-season-freeze-dried-mango-raspberry-bites-16-g
 soldOut: true
-start: '2026-01-20T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 18x 5th Season Freeze Dried Mango & Raspberry Bites | 16 g

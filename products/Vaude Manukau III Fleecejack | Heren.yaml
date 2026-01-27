@@ -1,12 +1,12 @@
-_id: 696e259e665a4fefaf130f64
+_id: 69774ec1d3aac4af1449f9a3
 appOnly: false
 brand: VAUDE
 brands:
   - id: 5bd79664-1a7d-5922-b8fe-f12f6f6be54e
     name: VAUDE
 categories:
-  - 0c60e883-3f01-5845-b9e2-6a44ae68b708
-classicId: '2951539'
+  - 59353de7-249f-565b-9531-568f6c6b3d54
+classicId: '2964342'
 classicProductId: '679998'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 7351c52b-de71-4698-a032-a47558f77d42
+id: e5fb725c-1a24-4127-bbd9-c124286e455f
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: l-phantom-black-46405-me-manukau-fleece-jacket-iii-men-vaude-product-0
   type: product
-offerId: 999c1e80-b1ae-4aaa-b961-a56dd2411cba
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1735071
+  priority: 100
+  slug: vaude-logo
+  type: logo
+offerId: c45f3e3e-3965-4717-a703-379d5f040dea
 price:
   cents: 5995
   currency: EUR
@@ -40,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 150
 slug: vaude-manukau-iii-fleecejack-heren
-soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+soldOut: true
+start: '2026-01-26T23:00:00.000Z'
 title: Vaude Manukau III Fleecejack | Heren

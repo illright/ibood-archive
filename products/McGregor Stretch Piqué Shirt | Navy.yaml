@@ -1,22 +1,22 @@
-_id: 696e2b95000d61c2f6bb979f
+_id: 6977734cd3aac4af1449ff41
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - e2c876f5-c080-5260-8e31-f01c55469c92
-classicId: '2951641'
+  - b1a62596-d4f7-5ddb-acce-507ba73df8f9
+classicId: '2967551'
 classicProductId: '663702'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-01-26T22:59:59.999Z'
+discount: 60
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 9871900b-b1fd-4019-af52-0a9445f85716
+id: 48f9c570-74a2-4672-9114-81f4ecd2d558
 image:
   channels:
     - app
@@ -28,26 +28,16 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1765373
-  priority: 100
-  slug: mcgregor-logo
-  type: logo
-offerId: 14bd5b5d-a79d-4492-8feb-6d2a60d698d8
+offerId: b4e69877-fe9f-4238-8c62-905c2bff062e
 price:
-  cents: 4995
+  cents: 4000
   currency: EUR
-  value: 49.95
+  value: 40
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: mcgregor-stretch-pique-shirt-navy
 soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: McGregor Stretch Piqué Shirt | Navy

@@ -1,12 +1,12 @@
-_id: 696e00e418dbb29bdbf993a5
+_id: 6977668fd3aac4af1449fccc
 appOnly: false
 brand: FlinQ
 brands:
   - id: c5850d1b-064a-5297-987d-113f01df60eb
     name: FlinQ
 categories:
-  - 43fd24a6-183b-5708-a932-2c094b585c74
-classicId: '2949893'
+  - 694dca85-b429-5ba8-9dc8-09efbbd656da
+classicId: '2966368'
 classicProductId: '677828'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 1c0a08d5-8dee-4831-aab6-042cd574e7d7
+id: 3d4a9492-d355-412d-921e-97502acce645
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2cb59e6c-6f3f-43cb-8a05-7af8830c3e84
-  priority: 0
-  slug: flinq-png-logo-0
+  extension: png
+  id: 2006222
+  priority: 100
+  slug: flinq-logo
   type: logo
-offerId: a31a22e5-376f-4142-9b8b-b14b54d8c67d
+offerId: ea7d1ca3-369f-41e8-b4a4-292a16d99ea1
 price:
   cents: 3995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 119.98
 slug: 2x-flinq-in-outdoor-metalen-led-lichtbal
-soldOut: true
-start: '2026-01-19T23:00:00.000Z'
+soldOut: false
+start: '2026-01-26T23:00:00.000Z'
 title: 2x FlinQ In- & Outdoor LED Lichtbal | 40 cm

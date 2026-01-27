@@ -1,12 +1,12 @@
-_id: 696f6591b060df78590edb63
+_id: 69776ab90b12e1e667cd6fb6
 appOnly: false
 brand: Seepje
 brands:
   - id: 8e4589d7-a927-5109-814a-349cdfdcc53c
     name: Seepje
 categories:
-  - e87ba887-2c2b-5f34-91cd-e03831ddd232
-classicId: '2955901'
+  - 40481cad-da4d-5939-a829-3e436def4b07
+classicId: '2967077'
 classicProductId: '685473'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-01-26T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 8355d27a-ddb6-412b-ba72-b86f6d39496c
+id: 54420eb1-cc10-4cd6-ab3e-a627ff25d4c6
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1919137
-  priority: 100
-  slug: seepje-logo
+    - all
+  extension: image/png
+  id: c307cd3a-17cb-44f1-ae67-5ecd760faa23
+  priority: 0
+  slug: seepje-png-logo-0
   type: logo
-offerId: f3eac958-91a1-426a-9f07-4a7be279f174
+offerId: 6e5a2f49-f13b-4025-8e79-e276c45488d6
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 65.94
 slug: 6x-seepje-wasmiddel-magische-magnolie-color-1-l-138sc
 soldOut: false
-start: '2026-01-20T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: 6x Seepje Wasmiddel Magische Magnolie Color | 1 L  (138sc)

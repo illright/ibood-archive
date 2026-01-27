@@ -1,22 +1,22 @@
-_id: 696e2fd3c9b6be1c43159bb8
+_id: 697772d02b199b3a9d8b2683
 appOnly: false
 brand: AB Lifestyle
 brands:
   - id: 48fa8c06-3349-5e6f-bdb6-f7e3d591abcc
     name: AB Lifestyle
 categories:
-  - 966a53e8-2753-592b-8d88-57d101387766
-classicId: '2952090'
+  - d960db42-d23e-57bc-8fdb-97e4de7a1541
+classicId: '2967377'
 classicProductId: '649427'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 86
-end: '2026-01-26T22:59:59.999Z'
+discount: 89
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 73d31de0-db4b-43b2-813e-d089136d6c06
+id: 9e82bc88-6106-4b00-abc2-c7185ae20a02
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: 1-png-product-2
   type: product
-offerId: e130a7c0-1917-4da0-831c-bc562ac76cfd
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8e0c5324-ecb2-49a0-9337-d6df9f413bb7
+  priority: 0
+  slug: ab-lifestyle-png-logo-0
+  type: logo
+offerId: 84e182c9-2265-4bf3-a123-b1870ac793df
 price:
-  cents: 995
+  cents: 800
   currency: EUR
-  value: 9.95
+  value: 8
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: ab-lifestyle-ronin-poloshirt-sky-blue
 soldOut: false
-start: '2026-01-19T23:00:00.000Z'
+start: '2026-01-26T23:00:00.000Z'
 title: AB Lifestyle Ronin Poloshirt | Sky Blue
