@@ -1,12 +1,12 @@
-_id: 6966500885daa9e2dfd335b7
+_id: 697874e62b199b3a9d8b2ab5
 appOnly: false
 brand: VTech
 brands:
   - id: fcbbde86-3f35-5adc-ab4a-c927066e4da7
     name: VTech
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2937917'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969174'
 classicProductId: '684468'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 17b7324f-8c41-4575-b30a-df7d7e3910f8
+id: fb6474a7-e579-4231-b6c1-75d34b91be7b
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 580542923-vtech-seng-dinos-fire-tracks-triceratops-product-1
   type: product
-offerId: 280f014e-5eac-4df2-afd2-1b8ef438741e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 48c51883-7385-488e-bfa1-3dc816c50ce6
+  priority: 0
+  slug: vtech-logo-0
+  type: logo
+offerId: c88ee817-c17b-4ff8-8900-53a566022f03
 price:
   cents: 995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 15.99
 slug: vtech-seng-dinos-fire-tracks-triceratops
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Vtech SenG Dinos Fire | Tracks Triceratops

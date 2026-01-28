@@ -1,12 +1,12 @@
-_id: 695e7c7b4c567404a439e4bc
+_id: 69787775b02581400f54d778
 appOnly: false
 brand: Ariete
 brands:
   - id: 5cc9027f-1832-5faf-964c-3574d029e6da
     name: Ariete
 categories:
-  - c0652f14-c405-58e4-b59f-0acafdc29af1
-classicId: '2926185'
+  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
+classicId: '2969827'
 classicProductId: '686701'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 73
-end: '2026-01-28T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 7b2d5dc8-bb47-52cd-986d-95b868fd4fde
+id: 030079a2-943e-480d-a4bc-df94ff88b14a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ariete-gourmet-kleur-geel-product-3
   type: product
-offerId: cb0733eb-9a86-55ba-9666-21ef72c0a3de
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4f8d5d47-6ce3-4432-91e5-968901c606b9
+  priority: 0
+  slug: ariete-logo-0
+  type: logo
+offerId: 27e2b090-e930-4c5b-94bb-f58e8484915b
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 185.99
 slug: ariete-gourmet-color-kuchenmaschine-4-l-gelb
 soldOut: false
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Ariete Gourmet Color Keukenmachine | 4 l | Geel

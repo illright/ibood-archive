@@ -1,12 +1,12 @@
-_id: 69664ffc59a899bd1868887c
+_id: 697874e1d3aac4af144a0258
 appOnly: false
 brand: Wooden City
 brands:
   - id: 1b9c9e7c-4cdb-5680-a78b-523dc7426750
     name: Wooden City
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2937903'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969165'
 classicProductId: '684405'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 47
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: f930a288-a1ab-4a32-bf36-923c72c177db
+id: 319f2ab3-390b-425e-850c-52e776144e61
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 430mb-006-wooden-city-rally-car-3-product-2
   type: product
-offerId: e1731b47-6156-4e59-95e1-1385defb061f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: aeedf005-203a-4f8c-b65b-085399855c38
+  priority: 0
+  slug: wooden-city-logo-0
+  type: logo
+offerId: 6d2e8c85-174b-48d8-aa53-b5e57192bfb9
 price:
   cents: 795
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 14.9
 slug: wooden-city-3d-bouwpakket-superfast-126-rally-auto
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Wooden City 3D Bouwpakket Superfast 126 Rally Auto

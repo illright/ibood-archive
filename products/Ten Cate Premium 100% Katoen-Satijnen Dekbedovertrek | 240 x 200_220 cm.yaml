@@ -1,31 +1,32 @@
-_id: 69664f3159a899bd186886dd
+_id: 6970bd8f8dcd0864692894f4
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2937536'
+  - aab3dad0-c556-5425-921c-b1e37eabbaf8
+classicId: '2957804'
 classicProductId: '399433'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2026-01-27T22:59:59.999Z'
+directCheckout: true
+discount: 54
+end: '2026-02-01T22:59:59.999Z'
 freeDelivery: false
-id: 37701929-0ab7-41b7-9aa9-3b00b752bed0
+id: a9182492-9d5d-59b8-ab84-7e3d4b83290b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1708969
+    - all
+  extension: image/png
+  id: d48c90ea-a7ec-4d25-979f-2ff49e763e23
   priority: 0
-  slug: ten-cate-bettwasche-satin-240-x-200220-cm
+  slug: ten-cate-92-png-product-5
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: ten-cate-logo
   type: logo
-offerId: d312e610-911e-4ea0-b40b-026a305d150a
+offerId: 3b118b3d-a722-5c7b-a1fb-4622c615b66c
 price:
-  cents: 6495
+  cents: 5995
   currency: EUR
-  value: 64.95
+  value: 59.95
 referencePrice:
   cents: 12995
   currency: EUR
   value: 129.95
 slug: ten-cate-katoensatijn-overtrek-240-x-200220
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Ten Cate Premium 100% Katoen-Satijnen Dekbedovertrek | 240 x 200/220 cm

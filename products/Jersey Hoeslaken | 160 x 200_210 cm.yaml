@@ -1,34 +1,31 @@
-_id: 6966504e19eeaaa90217fcbe
+_id: 6978bb10d3aac4af144a0ac2
 appOnly: false
 brand: Ambiante
 brands:
   - id: 4e8d0e43-ecd4-5245-aa59-d378fc077e12
     name: Ambiante
 categories:
-  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2938038'
-classicProductId: '666379'
+  - 1866416e-646f-53cf-9c95-b681bd1093c2
+classicId: '2970825'
+classicProductId: '666376'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 85519f43-7dcb-44f0-96fa-7b6170b7b095
+id: 18df3bc5-2918-4254-8472-f5688e93926c
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 7e12ec79-becc-443a-a179-50b1a545a79a-tr
-  priority: 0
-  slug: ambiante-jersey-spannbettlaken-160-x-200210-cm-3-jpg-product-101
+  extension: jpg
+  id: 2164186
+  priority: 100
+  slug: ambiante-jersey-spannbettlaken-160-x-200210-cm
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: ambiante-logo
   type: logo
-offerId: b09cc1d7-5c03-4c0c-8beb-4aaf48b41856
+offerId: 4f730731-1c3e-455f-95ed-6045856f4284
 price:
   cents: 2495
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 43.9
 slug: ambiante-jersey-hoeslaken-160-x-200210-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Jersey Hoeslaken | 160 x 200/210 cm

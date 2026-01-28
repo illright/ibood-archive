@@ -1,12 +1,12 @@
-_id: 69664f9559a899bd1868879f
+_id: 6978ba1287dd04f1a16a8cfc
 appOnly: false
 brand: Cinderella
 brands:
   - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
     name: Cinderella
 categories:
-  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2937685'
+  - 1866416e-646f-53cf-9c95-b681bd1093c2
+classicId: '2970657'
 classicProductId: '684065'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 82
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 1709d71d-aee7-4beb-a04b-1dc8c3bd0f9a
+id: 43efc148-1dc4-4f93-9bc0-b831ee60ffb8
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 74c264e0-0057-4410-a560-24c83c45f1ad-tr
+  extension: jpg
+  id: 1696638
   priority: 0
-  slug: cinderella-08-jpg-product-1
+  slug: 6x-cinderella-sundays-waschhandschuh-16-x-21-cm
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1696595
+  id: 1696637
   priority: 100
-  slug: cinderella-logo
+  slug: 6x-cinderella-sundays-waschhandschuh-16-x-21-cm
   type: logo
-offerId: 7298234b-7bd8-4310-8f0b-7e40b9647ca4
+offerId: 3068632b-ca8c-4cc6-9a27-dbe1ce6b5957
 price:
   cents: 995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 53.85
 slug: 6x-cinderella-sundays-washand-16-x-21-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: 6x Cinderella Sundays Washand | 16 x 21 cm | 550 g/m²

@@ -1,31 +1,32 @@
-_id: 69664f3085daa9e2dfd33462
+_id: 6970bda254597a3cae606369
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2937531'
+  - aab3dad0-c556-5425-921c-b1e37eabbaf8
+classicId: '2957858'
 classicProductId: '399461'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2026-01-27T22:59:59.999Z'
+directCheckout: true
+discount: 46
+end: '2026-02-01T22:59:59.999Z'
 freeDelivery: false
-id: 93e8e439-671c-4f4a-8fae-d21f01561d68
+id: 5b4d53db-74e7-51b1-9d7d-8d04e69e7c09
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1714594
+    - all
+  extension: image/png
+  id: 5629793d-39bb-4f1a-bf6a-8fff18c02bce
   priority: 0
-  slug: ten-cate-satin-spannbettlaken-160-x-200-cm
+  slug: ten-cate-98-png-product-17
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1709035
+  id: 1485600
   priority: 100
-  slug: ten-cate-satin-spannbettlaken-160-x-200-cm
+  slug: ten-cate-logo
   type: logo
-offerId: 83e6af3b-02e8-4ba2-b47b-2ef8d076e541
+offerId: 56d96256-7e8b-5cf5-a4a5-6286cfabeccb
 price:
-  cents: 2495
+  cents: 2695
   currency: EUR
-  value: 24.95
+  value: 26.95
 referencePrice:
   cents: 4995
   currency: EUR
   value: 49.95
 slug: ten-cate-100-katoen-satijnen-hoeslaken-160-x-200
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Ten Cate Premium 100% Katoen-Satijnen Hoeslaken | 160 x 200 cm

@@ -1,12 +1,12 @@
-_id: 69664ffe59a899bd1868887e
+_id: 697874df2b199b3a9d8b2aa5
 appOnly: false
 brand: Schleich
 brands:
   - id: 8e8e1a4a-5340-51af-b9a4-6d5572cffaf5
     name: Schleich
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2937908'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969163'
 classicProductId: '684320'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 50
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: e6ffcdb9-219b-4e65-b473-540cf6f41528
+id: 28663f6a-ffed-44d1-b7ca-3fd161c1ce0f
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 39042649-schleich-horse-club-sofias-beauties-haare-beauty-horses-black-product-1
   type: product
-offerId: 027e6056-b648-46eb-a314-e5935ab23957
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 76bba5ed-49d4-4fd9-8d32-c6243b17c10b
+  priority: 0
+  slug: schleich-logo-0
+  type: logo
+offerId: b95dd2f4-b540-4077-ab56-b53c81358427
 price:
   cents: 495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 9.99
 slug: schleich-sofia-s-paardenclub-haarset-black
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Schleich Sofia's Paardenclub Haarset | Black

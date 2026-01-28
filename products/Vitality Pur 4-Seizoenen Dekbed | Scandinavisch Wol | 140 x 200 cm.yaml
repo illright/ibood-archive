@@ -1,55 +1,52 @@
-_id: 69664bde59a899bd18688613
+_id: 6978b9420e1724d644f31f43
 appOnly: false
 brand: Vitality Pur
 brands:
   - id: 4b698a8c-2327-5f2e-8632-31b4cb03d028
     name: Vitality Pur
 categories:
-  - 8fe4183f-7245-5896-b41d-4ff004025358
-classicId: '2937425'
+  - 56ff026b-afbc-5cf9-b285-1693de93ac23
+classicId: '2970309'
 classicProductId: '248345'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 61
-end: '2026-01-27T22:59:59.999Z'
+discount: 64
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: ce8cf60d-7cdd-41ab-b44b-fe0718042b95
+id: 68292477-95f2-4b25-bd4d-e45822c26654
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 91cea3d4-b0fb-410e-baaa-f2c2b0b10427-tr
+  extension: png
+  id: 2095718
   priority: 0
-  slug: vitality-pur-4-jahreszeiten-decke-jpg-product-1
+  slug: vitality-pur-4-jahreszeiten-decke
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1735105
+  extension: jpg
+  id: 624378
   priority: 100
-  slug: vitality-pur-logo
+  slug: vitality-pur-4-jahreszeiten-decke
   type: logo
-offerId: ed9b60d8-d808-4e87-8769-b547c94361f1
+offerId: af8c839e-6c75-44d4-a890-00275389a7a9
 price:
-  cents: 6995
+  cents: 6495
   currency: EUR
-  value: 69.95
+  value: 64.95
 referencePrice:
   cents: 17900
   currency: EUR
   value: 179
 slug: vitality-pur-4-seizoenen-wollen-dekbed-140x200
-soldOut: true
-start: '2026-01-13T23:00:00.000Z'
+soldOut: false
+start: '2026-01-27T23:00:00.000Z'
 title: Vitality Pur 4-Seizoenen Dekbed | Scandinavisch Wol | 140 x 200 cm

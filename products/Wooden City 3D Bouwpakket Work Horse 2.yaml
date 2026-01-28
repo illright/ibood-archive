@@ -1,12 +1,12 @@
-_id: 69665001f1312b1778d520e4
+_id: 697874e37963c7c3da00b9b8
 appOnly: false
 brand: Wooden City
 brands:
   - id: 1b9c9e7c-4cdb-5680-a78b-523dc7426750
     name: Wooden City
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2937913'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969169'
 classicProductId: '684407'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 47
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 01c31f94-2d0a-41aa-a431-a4780aa7b6ce
+id: 4220e30d-8823-451c-9ffd-9742bf7bd592
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 430mb-011-wooden-city-work-horse-2-product-3
   type: product
-offerId: 2cdb4b2a-99cd-46a3-b5cc-24fc40f2a125
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: aeedf005-203a-4f8c-b65b-085399855c38
+  priority: 0
+  slug: wooden-city-logo-0
+  type: logo
+offerId: 5510bea1-fe03-4c7c-8254-3449dde5c66f
 price:
   cents: 795
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 14.9
 slug: wooden-city-3d-bouwpakket-work-horse-2
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Wooden City 3D Bouwpakket Work Horse 2

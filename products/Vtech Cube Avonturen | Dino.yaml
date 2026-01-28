@@ -1,12 +1,12 @@
-_id: 696650b4f1312b1778d52222
+_id: 697874e97963c7c3da00b9c9
 appOnly: false
 brand: VTech
 brands:
   - id: fcbbde86-3f35-5adc-ab4a-c927066e4da7
     name: VTech
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2938239'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969177'
 classicProductId: '684451'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 3079631d-1e66-48db-a6ab-81fecf7f8d3b
+id: bc7cc300-225e-48f3-9d7d-f6796e9ba76a
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 580573623-vtech-cube-adventures-dino-product-0
   type: product
-offerId: b40c3d6e-4707-42fa-8b4d-2d98e6f003dc
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 48c51883-7385-488e-bfa1-3dc816c50ce6
+  priority: 0
+  slug: vtech-logo-0
+  type: logo
+offerId: e1babed1-5c8d-49c7-af47-919425a2e74a
 price:
   cents: 1195
   currency: EUR
@@ -40,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 19.99
 slug: vtech-cube-avonturen-dino
-soldOut: true
-start: '2026-01-13T23:00:00.000Z'
+soldOut: false
+start: '2026-01-27T23:00:00.000Z'
 title: Vtech Cube Avonturen | Dino

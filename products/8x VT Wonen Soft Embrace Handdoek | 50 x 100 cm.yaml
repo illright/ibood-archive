@@ -1,12 +1,12 @@
-_id: 6968e27e85daa9e2dfd33ee9
+_id: 6978bafc2b199b3a9d8b3073
 appOnly: false
 brand: VT WONEN
 brands:
   - id: 779c3a3e-a55a-58a7-83aa-2b81b3802c35
     name: VT WONEN
 categories:
-  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2945197'
+  - 1866416e-646f-53cf-9c95-b681bd1093c2
+classicId: '2970805'
 classicProductId: '685729'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 5334d625-e3eb-4aef-8230-f9b318066783
+id: b0931f68-fcdc-478a-bc66-7047228bd300
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-789-png-product-2
   type: product
-offerId: fe83da63-4f88-4717-a5c9-2d967f1f2954
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1812454
+  priority: 100
+  slug: vt-wonen-logo
+  type: logo
+offerId: 5cf1427e-52bb-4347-aec2-cf2dfbf0669d
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 87.6
 slug: 8x-vt-wonen-soft-embrace-handdoek-50-x-100-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: 8x VT Wonen Soft Embrace Handdoek | 50 x 100 cm

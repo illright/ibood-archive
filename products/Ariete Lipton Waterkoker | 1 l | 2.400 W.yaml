@@ -1,12 +1,12 @@
-_id: 695e7c7f8473d499aeb98467
+_id: 697877857963c7c3da00bd9f
 appOnly: false
 brand: Ariete
 brands:
   - id: 5cc9027f-1832-5faf-964c-3574d029e6da
     name: Ariete
 categories:
-  - c0652f14-c405-58e4-b59f-0acafdc29af1
-classicId: '2926192'
+  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
+classicId: '2969849'
 classicProductId: '686705'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 76
-end: '2026-01-28T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 3a8a7713-7dd6-5a50-96f0-9f3951d8bb81
+id: b909cb59-831a-4781-a5b8-4d8094bfa669
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ariete-automatische-glazen-waterkoker-lipton-product-0
   type: product
-offerId: b614401e-7f43-5ead-9991-b34d5844da6f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4f8d5d47-6ce3-4432-91e5-968901c606b9
+  priority: 0
+  slug: ariete-logo-0
+  type: logo
+offerId: 3560875b-ffc4-4b4d-b284-9f82e1d456f1
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 163.99
 slug: ariete-lipton-waterkoker-1-l-2-400-w
 soldOut: false
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Ariete Lipton Waterkoker | 1 l | 2.400 W

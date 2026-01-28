@@ -1,22 +1,22 @@
-_id: 69664fc8f1312b1778d5205b
+_id: 69787cc92b199b3a9d8b2d19
 appOnly: false
 brand: NOONY
 brands:
   - id: 4818952d-fd70-5dc7-89f4-e9b28c1fd3a2
     name: NOONY
 categories:
-  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2937789'
-classicProductId: '583535'
+  - 10e90e77-7cb1-55bb-a1a4-8526d877ec90
+classicId: '2970039'
+classicProductId: '583540'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 58
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 64c2257e-2ea1-4114-aafe-3fb3c624707c
+id: 26aee637-f34b-44e5-98ec-ce1693600e00
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: deken-05-png-product-1-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1565696
-  priority: 100
-  slug: noony-logo
-  type: logo
-offerId: 63277df4-fd0d-460f-999a-c98110efc4b6
+offerId: c08682bf-6f9e-422c-8902-c3d012f5d8dc
 price:
   cents: 1695
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 39.95
 slug: cosas-hoodie-deken-met-mouwen-180-x-130-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Cosas Hoodie Deken met Mouwen | 180 x 130 cm

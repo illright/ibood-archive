@@ -1,4 +1,4 @@
-_id: 6977748796a069952e760a12
+_id: 6977748496a069952e760a0f
 appOnly: false
 brand: Lee Jeans
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Lee Jeans
 categories:
   - b1a62596-d4f7-5ddb-acce-507ba73df8f9
-classicId: '2967721'
-classicProductId: '670608'
+classicId: '2967720'
+classicProductId: '670597'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 65
 end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 9dfd1b12-95be-4a62-8408-8f382cad7b33
+id: eb613047-eec6-4c2d-a7ae-afa6331aa5c4
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5bb62983-c364-4ed1-aa14-a04faf1d7a54
+  id: a1f716e2-9030-4588-9d39-fea3e646b1a4
   priority: 0
-  slug: w40-l32-beaming-112370647-daren-zip-lee-product-6
+  slug: w38-l34-horizon-blue-112367189-daren-lee-product-6
   type: product
-offerId: 2ffcf8e3-fdf3-4503-b86e-f09c7e51913d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1782704
+  priority: 100
+  slug: lee-jeans-logo
+  type: logo
+offerId: 55351031-73cc-4254-ac34-3e5d474b905c
 price:
   cents: 3500
   currency: EUR

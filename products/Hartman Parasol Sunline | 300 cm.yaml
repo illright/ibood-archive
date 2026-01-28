@@ -1,22 +1,22 @@
-_id: 69664b381294accd1403315d
+_id: 6978b99ad3aac4af144a0838
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 87d7ad09-eb9e-5a2c-89cd-c20c17a733f9
-classicId: '2937258'
-classicProductId: '651863'
+  - d6697a02-f068-50ad-b64e-06e7c327abe2
+classicId: '2970432'
+classicProductId: '651865'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 59
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 42f58b36-0ba9-4bd6-8d63-5e8e07e6fbe2
+id: 046f0708-e6a2-4627-9610-051054ea805a
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1769766
-  priority: 100
-  slug: hartman-logo
+    - all
+  extension: image/png
+  id: e011a74f-a400-4d9c-9ae2-9cd630ea9433
+  priority: 0
+  slug: hartman-png-logo-0
   type: logo
-offerId: 38ab2604-7e56-4b34-876d-558d9900b34b
+offerId: 9d8a36f2-78d7-467e-af02-6b77be883ab6
 price:
   cents: 4495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 109
 slug: hartman-parasol-sunline-300-cm
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Hartman Parasol Sunline | 300 cm

@@ -1,12 +1,12 @@
-_id: 69664fcf19eeaaa90217fbcb
+_id: 6978749f7963c7c3da00b962
 appOnly: false
 brand: Orchard
 brands:
   - id: e7f1de86-a162-5445-9d49-d894d1fee857
     name: Orchard
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2937792'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969106'
 classicProductId: '683875'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 715ace8b-b71a-4b87-87dc-908e920db846
+id: 90eeec23-940a-42b5-852b-4c43a6ed4370
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: spel-02-png-product-1
   type: product
-offerId: a49a912d-6473-4ceb-9900-16bf0c14a842
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 92b48d2c-6d17-4de6-bd01-81f05c10b01e
+  priority: 0
+  slug: orchard-logo-0
+  type: logo
+offerId: 203b3fa5-bd2b-4334-9bed-1701039d9ed0
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 58.97
 slug: orchard-toys-lottos-more-3-delige-set
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Orchard Toys Lottos & more | 3-delige set

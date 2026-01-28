@@ -1,12 +1,12 @@
-_id: 69664fc6f1312b1778d52059
+_id: 6978749e7963c7c3da00b95b
 appOnly: false
 brand: Orchard
 brands:
   - id: e7f1de86-a162-5445-9d49-d894d1fee857
     name: Orchard
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2937787'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969103'
 classicProductId: '683879'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 1cd79cd6-e169-431d-a68d-a6b7b6acd9e4
+id: bc2688fc-653f-481c-b270-dca6538adfc9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: spel-03-png-product-1
   type: product
-offerId: a4a3f36f-6483-4e4a-885a-0be69eeb569b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 92b48d2c-6d17-4de6-bd01-81f05c10b01e
+  priority: 0
+  slug: orchard-logo-0
+  type: logo
+offerId: 86abadc8-d38a-4634-8871-d474c88fbc3f
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 58.97
 slug: orchard-toys-bordspellen-set-van-3-spellen
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Orchard Toys Bordspellen | Set van 3 Spellen

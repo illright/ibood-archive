@@ -1,12 +1,12 @@
-_id: 695e7c7caa0223eb3f0bef74
+_id: 6978777cb02581400f54d787
 appOnly: false
 brand: Ariete
 brands:
   - id: 5cc9027f-1832-5faf-964c-3574d029e6da
     name: Ariete
 categories:
-  - c0652f14-c405-58e4-b59f-0acafdc29af1
-classicId: '2926188'
+  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
+classicId: '2969841'
 classicProductId: '686706'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2026-01-28T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 96da7332-160e-535b-8fcd-e9937500901c
+id: f63a7430-47ea-4810-9ea4-efc0d28e1357
 image:
   channels:
     - app
@@ -30,14 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  id: 2027600
-  priority: 100
-  slug: ariete-logo
+    - all
+  extension: image/png
+  id: 4f8d5d47-6ce3-4432-91e5-968901c606b9
+  priority: 0
+  slug: ariete-logo-0
   type: logo
-offerId: 7956b370-2ec6-5121-9fba-2713e12c2935
+offerId: 81b1bb3d-ea17-42e3-988d-80d3abb03688
 price:
   cents: 3995
   currency: EUR
@@ -48,5 +50,5 @@ referencePrice:
   value: 108.99
 slug: ariete-la-grigliata-elektrogrill-2-200-w
 soldOut: false
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Ariete La Grigliata Elektrogrill | 2.200 W

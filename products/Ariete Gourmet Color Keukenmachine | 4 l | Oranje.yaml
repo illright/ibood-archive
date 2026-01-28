@@ -1,12 +1,12 @@
-_id: 695e7c7aaa0223eb3f0bef6a
+_id: 69787779d3aac4af144a0498
 appOnly: false
 brand: Ariete
 brands:
   - id: 5cc9027f-1832-5faf-964c-3574d029e6da
     name: Ariete
 categories:
-  - c0652f14-c405-58e4-b59f-0acafdc29af1
-classicId: '2926183'
+  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
+classicId: '2969822'
 classicProductId: '686700'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 73
-end: '2026-01-28T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: e5aff2ae-6770-5e61-b2ce-40be0e9d3e09
+id: 7c8f16ea-1caa-446d-831e-f5998389a91b
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ariete-gourmet-kleur-oranje-product-3
   type: product
-offerId: 6cb10159-4529-5e91-9adb-805aae3b5d14
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4f8d5d47-6ce3-4432-91e5-968901c606b9
+  priority: 0
+  slug: ariete-logo-0
+  type: logo
+offerId: c2545a62-0708-4c5e-9648-79e64b3746ea
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 185.99
 slug: ariete-gourmet-color-kuchenmaschine-4-l-orange
 soldOut: false
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Ariete Gourmet Color Keukenmachine | 4 l | Oranje

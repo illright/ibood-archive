@@ -1,12 +1,12 @@
-_id: 6968e12223689d6d5dbd002a
+_id: 697876910e1724d644f31ab4
 appOnly: false
 brand: HSM Collection
 brands:
   - id: 7e39f6af-08e5-5ef8-8db2-10a11fd7a352
     name: HSM Collection
 categories:
-  - 4e835a24-48b1-5aa0-9008-e2bd7e1d65a4
-classicId: '2945185'
+  - 76cd8721-beb4-5ca2-bce1-021c00c09526
+classicId: '2969444'
 classicProductId: '650548'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 42
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 743ffc4c-be46-4854-81f8-76f9ae4bb0a2
+id: ba172a4e-3902-4e87-899a-60417cbb0aaf
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-png-product-2
   type: product
-offerId: dacc0d6c-e382-49a3-b9d7-3043a3d2b464
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1518423
+  priority: 100
+  slug: hsm-collection-logo
+  type: logo
+offerId: c3105681-b8fb-4af9-be3a-96bd4dc23739
 price:
   cents: 13900
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 239
 slug: mm-collection-modena-eetkamerstoel
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: MM Collection Modena Eetkamerstoel

@@ -1,12 +1,12 @@
-_id: 6966509959a899bd186889cb
+_id: 697874d62b199b3a9d8b2a7e
 appOnly: false
 brand: Schleich
 brands:
   - id: 8e8e1a4a-5340-51af-b9a4-6d5572cffaf5
     name: Schleich
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2938206'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969146'
 classicProductId: '684316'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 4fd56946-3501-468c-b4c3-8c33ec56a363
+id: d73cd704-d222-49a7-91d6-2fc7d3af5ea3
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 39042663-schleich-eldrador-creatures-lava-jet-vehicle-with-mini-creature-product-1
   type: product
-offerId: eb63b4f6-faa0-427f-97b6-89bfb7e43a76
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 76bba5ed-49d4-4fd9-8d32-c6243b17c10b
+  priority: 0
+  slug: schleich-logo-0
+  type: logo
+offerId: ae12108e-33ba-4a84-95a7-eb0bdf1caea5
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 24.99
 slug: schleich-eldrador-creatures-lava-jet-voertuig
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Schleich Eldrador Creatures Lava Jet Voertuig

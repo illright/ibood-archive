@@ -1,12 +1,12 @@
-_id: 69664fe9f1312b1778d520b2
+_id: 6978749bd3aac4af144a01e5
 appOnly: false
 brand: Wooden City
 brands:
   - id: 1b9c9e7c-4cdb-5680-a78b-523dc7426750
     name: Wooden City
 categories:
-  - 1c61c617-2cb2-5969-9372-c8b56506291e
-classicId: '2937865'
+  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
+classicId: '2969101'
 classicProductId: '684403'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 4e2287d8-5d77-4f3d-a4d1-bed006ca7434
+id: e5b4642f-350c-4106-bf44-50e607ccedfd
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: speelgoed-01-png-product-1
   type: product
-offerId: 1583e432-1494-4402-9b1d-c06bf354e87c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: aeedf005-203a-4f8c-b65b-085399855c38
+  priority: 0
+  slug: wooden-city-logo-0
+  type: logo
+offerId: b6cb00ba-9575-4fe9-b10a-5eabf2f42e23
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.99
 slug: meme-draadloze-versterkerset-alex
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: MeMe Draadloze Versterkerset Alex

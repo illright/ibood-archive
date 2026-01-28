@@ -1,12 +1,12 @@
-_id: 6966501485daa9e2dfd335de
+_id: 6978ba7dd3aac4af144a09bf
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2937941'
+  - 1866416e-646f-53cf-9c95-b681bd1093c2
+classicId: '2970728'
 classicProductId: '648830'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-01-27T22:59:59.999Z'
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 86a888e2-ea4a-4599-b3e7-54e15b6c5ce8
+id: 85081c9d-5599-4fd1-8d9b-2304eff2b5f8
 image:
   channels:
     - newsletter
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e44315ef-cc25-4e2c-8ef5-684b49861b89
-  priority: 0
-  slug: kayori-png-logo-0
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
   type: logo
-offerId: 44999a43-3a30-4706-91ed-9b4683b1a27c
+offerId: 986a473e-ffd0-420e-b3b0-dbf48e43e584
 price:
   cents: 4995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 149.95
 slug: kayori-dbo-elin-katoensatijn-260-x-200-220-cm
-soldOut: true
-start: '2026-01-13T23:00:00.000Z'
+soldOut: false
+start: '2026-01-27T23:00:00.000Z'
 title: 'Kayori DBO Elin Katoensatijn | 260 x 200/220 cm '

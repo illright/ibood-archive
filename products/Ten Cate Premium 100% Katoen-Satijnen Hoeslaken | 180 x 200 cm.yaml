@@ -1,31 +1,32 @@
-_id: 6966508119eeaaa90217fd40
+_id: 6970bd980a96b8def2847fd2
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - 6afa65e4-0770-58eb-8f17-a0cccff1b51f
-classicId: '2938142'
-classicProductId: '399466'
+  - aab3dad0-c556-5425-921c-b1e37eabbaf8
+classicId: '2957826'
+classicProductId: '399462'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 51
-end: '2026-01-27T22:59:59.999Z'
+directCheckout: true
+discount: 49
+end: '2026-02-01T22:59:59.999Z'
 freeDelivery: false
-id: a5e22528-716f-45ab-b83e-335a96a287d8
+id: be15cbdf-e7cc-57b9-9a6a-a9b1240d20fb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1714595
+    - all
+  extension: image/png
+  id: 319a2886-2aa8-47d4-99a7-5ca42a2f2123
   priority: 0
-  slug: ten-cate-satin-spannbettlaken-180-x-200-cm
+  slug: ten-cate-97-png-product-5
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: ten-cate-logo
   type: logo
-offerId: 9c9f987c-d6cc-4be7-806f-7287fbff9a00
+offerId: 0c372289-550e-5998-a028-8ff0be27fb01
 price:
-  cents: 2695
+  cents: 2795
   currency: EUR
-  value: 26.95
+  value: 27.95
 referencePrice:
   cents: 5495
   currency: EUR
   value: 54.95
 slug: ten-cate-100-katoen-satijnen-hoeslaken-180-x-200
 soldOut: false
-start: '2026-01-13T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Ten Cate Premium 100% Katoen-Satijnen Hoeslaken | 180 x 200 cm
