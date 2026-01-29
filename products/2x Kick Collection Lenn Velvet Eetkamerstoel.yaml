@@ -5,7 +5,7 @@ brands:
   - id: b0d66671-998c-5051-b491-5b7bb1f42bfb
     name: Kick Collection
 categories:
-  - e5509e36-cc3b-5615-9a57-3e9af5857616
+  - 76cd8721-beb4-5ca2-bce1-021c00c09526
 classicId: '2960074'
 classicProductId: '337293'
 deliveryPrice:
@@ -30,14 +30,13 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c8a2bc28-7a34-4856-bbcd-51e774d190ec
-  priority: 0
-  slug: kick-collection-logo-png-logo-0
+  extension: png
+  id: 1483640
+  priority: 100
+  slug: kick-collection-logo
   type: logo
 offerId: e106998e-d2c2-58d1-8957-277b1248fd0f
 price:

@@ -1,12 +1,12 @@
-_id: 6970a1453027be42582f7d4d
+_id: 6979e938d3aac4af144a0f88
 appOnly: false
 brand: XTORM
 brands:
   - id: 3010b7cb-df9d-526c-b2a9-621e6b1c948c
     name: XTORM
 categories:
-  - 5201cc6d-397f-5d3b-9d7d-fee96843b9d5
-classicId: '2957315'
+  - ba670216-f354-5488-aeab-1e47a2f08b9a
+classicId: '2973394'
 classicProductId: '655665'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-01-28T22:59:59.999Z'
+end: '2026-02-04T22:59:59.999Z'
 freeDelivery: false
-id: bd7d0fd6-63d9-4499-a586-9810751db071
+id: 0e2cad32-868d-4117-bcdd-a64ed1260c7f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4c9d64e5-51f6-412e-87ba-66a8a343b612
-  priority: 0
-  slug: xtorm-png-logo-0
+  extension: png
+  id: 2035508
+  priority: 100
+  slug: xtorm-logo
   type: logo
-offerId: e19eb86f-41bc-49b8-8acf-83068d0db6e9
+offerId: 43007a1b-abfa-44ba-a6c5-b9dc3504d42d
 price:
   cents: 2195
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: xtorm-fuel-series-5-powerbank-10-000-mah-20-w-teal-blue
-soldOut: true
-start: '2026-01-21T23:00:00.000Z'
+soldOut: false
+start: '2026-01-28T23:00:00.000Z'
 title: Xtorm Fuel Series 5 Powerbank | 10.000 mAh | 20 W | Dusk White

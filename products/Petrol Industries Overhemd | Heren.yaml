@@ -1,32 +1,34 @@
-_id: 6977733ad3aac4af1449ff2c
+_id: 69777387d3aac4af1449ff7e
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 7f0c3d6e-dfe6-514a-84bf-4cee61e70070
-classicId: '2967539'
-classicProductId: '670082'
+  - b1a62596-d4f7-5ddb-acce-507ba73df8f9
+classicId: '2967599'
+classicProductId: '670076'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 58
+discount: 57
 end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 9a3839f3-0114-465d-8d75-c3cb83e118c2
+id: 2d11acf4-8315-4d6f-8e0d-70d19aa2b0eb
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: ae4b2ac8-7a3e-4a2f-bc6e-c0434d130e39
+    - app
+    - website
+  extension: image/png
+  id: 80ad49f0-f9c7-4a3f-b520-f398a1eda382-tr
   priority: 0
-  slug: xl-seashell-m-3050-sil428-0112-men-shirt-long-sleeve-check-petrol-product-1
+  slug: xxl-tan-m-3050-sil402-7146-men-shirt-long-sleeve-uni-petrol-product-6
   type: product
 logo:
   channels:
@@ -38,15 +40,15 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: cc83523d-1333-41f3-ada2-37cd877bd3ed
+offerId: d71d7a99-7f45-4e3c-a86d-13a880968d92
 price:
-  cents: 2495
+  cents: 3000
   currency: EUR
-  value: 24.95
+  value: 30
 referencePrice:
-  cents: 5999
+  cents: 6999
   currency: EUR
-  value: 59.99
+  value: 69.99
 slug: petrol-industries-overhemd-heren
 soldOut: false
 start: '2026-01-26T23:00:00.000Z'

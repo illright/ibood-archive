@@ -1,22 +1,22 @@
-_id: 6970a143be28345b4aa5db74
+_id: 6979e7fed3aac4af144a0f25
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 5201cc6d-397f-5d3b-9d7d-fee96843b9d5
-classicId: '2957314'
-classicProductId: '682138'
+  - ba670216-f354-5488-aeab-1e47a2f08b9a
+classicId: '2973343'
+classicProductId: '682134'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 47
-end: '2026-01-28T22:59:59.999Z'
+end: '2026-02-04T22:59:59.999Z'
 freeDelivery: false
-id: 8bad257f-90f3-4379-b8e6-ccba08797436
+id: 3fad052f-3169-4cfe-8d8c-7491bd3d0890
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1789994
-  priority: 100
-  slug: apple-logo
+    - all
+  extension: image/png
+  id: 684e55e5-076e-4b1b-b565-6327508388b4
+  priority: 0
+  slug: apple-png-logo-0
   type: logo
-offerId: bb63d515-bc76-4892-b0b6-d6edf5c95b18
+offerId: 60e9c87d-faa6-423f-a840-765d0ec308e5
 price:
   cents: 84900
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 1599
 slug: apple-13-inch-ipad-air-m2-1tb-2024
 soldOut: false
-start: '2026-01-21T23:00:00.000Z'
+start: '2026-01-28T23:00:00.000Z'
 title: Apple 13” iPad Air M2 | 1 TB | 2024

@@ -1,4 +1,4 @@
-_id: 6978775d0e1724d644f31cca
+_id: 69675a7b85daa9e2dfd338ee
 appOnly: false
 brand: White Label Living
 brands:
@@ -6,7 +6,7 @@ brands:
     name: White Label Living
 categories:
   - 9cc11e06-f10e-5a76-a33d-f14e1f7a9813
-classicId: '2969776'
+classicId: '2938930'
 classicProductId: '482935'
 deliveryPrice:
   cents: 895
@@ -16,15 +16,17 @@ directCheckout: true
 discount: 65
 end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: c66947f3-f607-4b63-a7f5-10aab9acbdd8
+id: e05682fd-fed4-5a47-9fc1-c9179115b208
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: 0c34e138-cddd-4cd5-b08c-d220ef2c48ab
+  id: 0c34e138-cddd-4cd5-b08c-d220ef2c48ab-tr
   priority: 0
   slug: pion-main-png-product-1
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: white-label-living-logo
   type: logo
-offerId: 815886a8-2fb5-4aa8-9e1b-642238b6e6ac
+offerId: 2ea36048-093e-51b4-81c5-b500a6673bba
 price:
   cents: 6995
   currency: EUR

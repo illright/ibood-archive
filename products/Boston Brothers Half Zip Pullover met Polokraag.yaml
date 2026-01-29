@@ -1,22 +1,22 @@
-_id: 6977739bb6114abaca973eea
+_id: 697774402b199b3a9d8b283d
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - 7f0c3d6e-dfe6-514a-84bf-4cee61e70070
-classicId: '2967618'
-classicProductId: '662816'
+  - b1a62596-d4f7-5ddb-acce-507ba73df8f9
+classicId: '2967700'
+classicProductId: '662833'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 70
+discount: 67
 end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 9debdca4-8b0d-4f44-a6fc-dbe66bcfb6ac
+id: 7401ea82-3336-44f6-888d-f47d9e972c79
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 0865a5f4-4b4b-4f87-9ab7-9a2c412a575e
+  id: 9164a207-9604-42ef-b6a3-6068d58ffab9
   priority: 0
-  slug: 3xl-navy-bbo35f506-0000-2255-polo-long-sleeve-zip-collar-boston-brothers-product-0
+  slug: l-antra-bbo35f506-0000-6119-polo-long-sleeve-zip-collar-boston-brothers-product-0
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: boston-brothers-logo
   type: logo
-offerId: c4cd832b-679e-49bd-a626-a972c3122ea5
+offerId: 19d97729-96b3-4065-b77f-680af744a5e5
 price:
-  cents: 2695
+  cents: 3000
   currency: EUR
-  value: 26.95
+  value: 30
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: boston-brothers-half-zip-pullover-met-polokraag
-soldOut: false
+soldOut: true
 start: '2026-01-26T23:00:00.000Z'
 title: Boston Brothers Half Zip Pullover met Polokraag

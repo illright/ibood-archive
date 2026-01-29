@@ -1,22 +1,22 @@
-_id: 6970a186f911a5af35907861
+_id: 6979ea393336b05d76cf7748
 appOnly: false
 brand: SATECHI
 brands:
   - id: 77100c44-ac94-596a-9555-72286fe89c83
     name: SATECHI
 categories:
-  - 5201cc6d-397f-5d3b-9d7d-fee96843b9d5
-classicId: '2957404'
-classicProductId: '651418'
+  - ba670216-f354-5488-aeab-1e47a2f08b9a
+classicId: '2973417'
+classicProductId: '651419'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
 discount: 50
-end: '2026-01-28T22:59:59.999Z'
+end: '2026-02-04T22:59:59.999Z'
 freeDelivery: false
-id: 426224fe-dfb1-47b0-b105-5fde340d47d4
+id: d49a2c18-ecf3-4dee-83c9-1e7bb8021ed2
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 0236b5dc-08ca-4fb0-b183-20e6a4635e95
+  id: 1c2de0fa-899a-4c4f-8726-eb9ba18efbf8
   priority: 0
-  slug: satechi-02-png-product-1
+  slug: satechi-01-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: satechi-logo-0
   type: logo
-offerId: 8ccc6b67-6fba-4790-862e-4e040db82098
+offerId: 2310aa5c-254e-469f-9081-04ab6c320456
 price:
   cents: 2495
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: satechi-usb-c-pass-through-hub
-soldOut: true
-start: '2026-01-21T23:00:00.000Z'
+soldOut: false
+start: '2026-01-28T23:00:00.000Z'
 title: Satechi USB-C Pass-Through Hub

@@ -1,22 +1,22 @@
-_id: 695e7c83aa0223eb3f0bef8b
+_id: 69777f4196a069952e760a42
 appOnly: false
 brand: Ariete
 brands:
   - id: 5cc9027f-1832-5faf-964c-3574d029e6da
     name: Ariete
 categories:
-  - c0652f14-c405-58e4-b59f-0acafdc29af1
-classicId: '2926198'
+  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
+classicId: '2967764'
 classicProductId: '686714'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 78
-end: '2026-01-28T22:59:59.999Z'
+discount: 80
+end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: c39f803b-fc86-5fe4-ab5d-590cd6327ea7
+id: 5adeab55-f6f7-5a49-8c79-59edfe96ff65
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: koffie-png-product-1
   type: product
-offerId: 92d0bf27-3d7f-5c5b-aac3-37528bf1bcd5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4f8d5d47-6ce3-4432-91e5-968901c606b9
+  priority: 0
+  slug: ariete-logo-0
+  type: logo
+offerId: 681fdab6-d89e-5317-b243-e2c0ee0f41dc
 price:
-  cents: 9995
+  cents: 8995
   currency: EUR
-  value: 99.95
+  value: 89.95
 referencePrice:
   cents: 45000
   currency: EUR
   value: 450
 slug: ariete-espresso-koffiemachine-met-molen-15-bar
 soldOut: true
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-01-27T23:00:00.000Z'
 title: Ariete Espresso Koffiemachine met Molen | 15 bar
