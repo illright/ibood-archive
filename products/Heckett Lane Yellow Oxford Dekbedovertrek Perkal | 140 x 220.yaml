@@ -19,13 +19,16 @@ freeDelivery: false
 id: b1616585-fa5e-4b3d-a9ab-30ba95badb3c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1632497
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 7594e3b0-323f-45fc-88ea-2eaa885438c1-tr
   priority: 0
-  slug: dekbedovertrek-perkal-140-x-220
+  slug: posciel-yellow-oxford-140-x-220-cm-3-jpg-product-64
   type: product
 logo:
   channels:

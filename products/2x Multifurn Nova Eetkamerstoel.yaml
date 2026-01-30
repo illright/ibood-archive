@@ -19,13 +19,14 @@ freeDelivery: false
 id: 57c37a87-b8d5-482f-a7d8-93d9bc8c72f6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1932119
+    - all
+  extension: image/png
+  id: 6e40a747-08e0-4b48-9035-abc57ef79298
   priority: 0
-  slug: 2x-multifurn-nova-eetkamerstoel
+  slug: multifurn-107-png-product-2
   type: product
 logo:
   channels:

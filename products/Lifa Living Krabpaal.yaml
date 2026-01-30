@@ -19,13 +19,16 @@ freeDelivery: false
 id: a493b8eb-606d-462f-81c1-52c56214cbd0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1729924
+    - all
+    - app
+    - website
+  extension: image/png
+  id: bbcf6cd8-6541-46c7-8064-1e9767c15983-tr
   priority: 0
-  slug: lifa-living-katzen-kratzbaum
+  slug: lifa-living-katzen-kratzbaum-jpg-product-1
   type: product
 logo:
   channels:

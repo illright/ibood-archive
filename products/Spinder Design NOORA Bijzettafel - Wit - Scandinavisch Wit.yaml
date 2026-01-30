@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6938e39f-eadf-4f28-9074-c62efe321c37
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2034388
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 781476d1-b33a-4461-b56e-f488af9af1ea-tr
   priority: 0
-  slug: spinder-design-noora-bijzettafel
+  slug: spinder-design-noora-bijzettafel-jpg-product-1
   type: product
 logo:
   channels:

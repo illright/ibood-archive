@@ -1,22 +1,22 @@
-_id: 697773262003d44cb8cd1d0e
+_id: 697772e63c8a20cb311fd5fd
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - a510e636-d003-59e1-b675-38dc0efacab1
-classicId: '2967531'
-classicProductId: '653930'
+  - 7f0c3d6e-dfe6-514a-84bf-4cee61e70070
+classicId: '2967441'
+classicProductId: '653940'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 70
+directCheckout: true
+discount: 67
 end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 691e4269-02d4-47b3-bf8e-da25954c11f0
+id: 01fa2149-d8e3-4c20-bf1f-a33b574191c5
 image:
   channels:
     - app
@@ -28,21 +28,11 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
-  type: logo
-offerId: 45567f26-6692-4d9f-b2d3-cfa1c81aa145
+offerId: 69915bd9-31d7-4f1f-adff-2699c6a8efa7
 price:
-  cents: 1795
+  cents: 2000
   currency: EUR
-  value: 17.95
+  value: 20
 referencePrice:
   cents: 5999
   currency: EUR

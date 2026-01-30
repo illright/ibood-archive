@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4ba1734b-2137-4e83-bbda-a7f771aa3b95
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 545599
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c03f63f5-e92d-4b71-8258-64b89e9a0f28-tr
   priority: 0
-  slug: speelkleed-dubbel-of-enkelzijdig
+  slug: spielmatte-doppelseitig-200-x-100-cm-jpg-product-1
   type: product
 offerId: 0446cfcf-19ed-477a-bc95-33cb473c074b
 price:
@@ -37,6 +40,6 @@ referencePrice:
   currency: EUR
   value: 44.95
 slug: speelkleed-dubbel-of-enkelzijdig
-soldOut: true
+soldOut: false
 start: '2026-01-27T23:00:00.000Z'
 title: Speelkleed | Dubbel- of Enkelzijdig | 100 x 200 cm

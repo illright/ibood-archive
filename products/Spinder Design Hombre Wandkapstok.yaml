@@ -19,13 +19,16 @@ freeDelivery: false
 id: 38016ff2-46c0-4f84-bd2d-559096a87745
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1776375
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5ee4b6dd-bd5b-4ce7-8d24-467b33313187-tr
   priority: 0
-  slug: spinder-design-hombre-garderobe
+  slug: spinder-design-hombre-garderobe-jpg-product-1
   type: product
 logo:
   channels:

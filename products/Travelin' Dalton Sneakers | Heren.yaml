@@ -1,4 +1,4 @@
-_id: 696f9fb691daacb69bdd93e3
+_id: 696f9fb63221a11fc028761f
 appOnly: false
 brand: Travelin'
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Travelin'
 categories:
   - 53824612-f377-5b51-aa75-a4986cecb8a6
-classicId: '2956717'
-classicProductId: '688818'
+classicId: '2956716'
+classicProductId: '688811'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 66
 end: '2026-02-01T22:59:59.999Z'
 freeDelivery: false
-id: 81c5d6b5-7944-5d09-8628-4e2fc714da41
+id: 69d380aa-a8e1-546a-bd4e-bdb937302706
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d882758d-ec68-411d-adf0-e64cf7421c5e
+  id: 64596937-426a-4b2e-aa33-8876d978a0b8
   priority: 0
-  slug: travelin-15-png-product-1
+  slug: travelin-14-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9e8cff2b-6b5c-4f5b-a03b-3d08eb81a921
-  priority: 0
-  slug: travelin-png-logo-0
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
   type: logo
-offerId: ab90abc0-b7c8-5984-be97-7bedf2c2b32e
+offerId: c17aca6b-f80c-5da5-b62f-4e4aec779ea2
 price:
   cents: 6495
   currency: EUR

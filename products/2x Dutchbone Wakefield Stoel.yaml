@@ -19,13 +19,16 @@ freeDelivery: false
 id: 6d42d8ea-062c-43e9-ac3f-f98a1ff48dbc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2255717
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 06997af3-5ebc-4ebb-b7f1-ecdb09b29fd8-tr
   priority: 0
-  slug: 2x-dutchbone-wakefield-stoel
+  slug: 2x-dutchbone-wakefield-stoel-1-jpg-product-11
   type: product
 logo:
   channels:

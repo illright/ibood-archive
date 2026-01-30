@@ -19,13 +19,14 @@ freeDelivery: false
 id: 024f9fca-0c95-48be-a00c-917ec8a44ad5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1271358
-  priority: 100
-  slug: lifa-living-marmerlook-bijzettafel-xavier-38-cm
+    - all
+  extension: image/png
+  id: a77d62db-75df-49dd-b04c-ce7a5a5e3d0f-tr
+  priority: 0
+  slug: lifa-living-xavier-beistelltisch-38-cm-1-jpg-product-101
   type: product
 logo:
   channels:

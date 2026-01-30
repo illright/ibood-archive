@@ -19,13 +19,14 @@ freeDelivery: false
 id: 25bbfa94-e745-48d9-9e73-e227b7331d3c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2246808
+    - all
+  extension: image/png
+  id: babc69c1-88e7-4291-ad26-5b8d155b109a
   priority: 0
-  slug: zo-home-dekbedovertrek-240-x-220-cm
+  slug: zohome-02-png-product-40
   type: product
 logo:
   channels:
