@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2b11f890-7ab3-452f-b7f6-8d7df0116589
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1368053
-  priority: 100
-  slug: 6x-vdn-300-ml-dubbelwandige-glazen
+    - all
+    - app
+    - website
+  extension: image/png
+  id: cef40837-086c-4ac3-ba21-3f39d62f7564-tr
+  priority: 0
+  slug: 6x-vadeni-glas-300-ml-jpg-product-101
   type: product
 logo:
   channels:

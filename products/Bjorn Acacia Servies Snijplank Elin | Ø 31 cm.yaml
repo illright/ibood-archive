@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1dc3598d-699d-4667-8ca3-b22e33ccbeb9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1913620
+    - all
+    - app
+    - website
+  extension: image/png
+  id: c44a7365-2cf6-422a-8dda-676aaed31c09-tr
   priority: 0
-  slug: bjorn-acacia-servies-snijplank-elin-31-cm
+  slug: bjorn-elin-schneidebrett-35-x-31-cm-jpg-product-1
   type: product
 logo:
   channels:

@@ -19,13 +19,14 @@ freeDelivery: false
 id: 94206bd6-b6f9-4ca1-bf5e-b42eb1aa9e30
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 606111
-  priority: 1
-  slug: pyrex-auflaufform-set-2-teilig
+    - all
+  extension: image/png
+  id: 7aaaff3f-005b-4f17-8304-bb664b84a38e
+  priority: 0
+  slug: pyrex-30-png-product-1
   type: product
 logo:
   channels:

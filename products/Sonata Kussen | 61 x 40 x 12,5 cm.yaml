@@ -19,13 +19,14 @@ freeDelivery: false
 id: e5f93e03-7173-48ce-8256-f218e0deb4a6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1995916
-  priority: 100
-  slug: tempur-sonata-kopfkissen
+    - all
+  extension: image/png
+  id: dcd916a7-3f21-4d71-9822-c74974880012-tr
+  priority: 0
+  slug: tempur-sonata-kopfkissen-2-jpg-product-101
   type: product
 logo:
   channels:

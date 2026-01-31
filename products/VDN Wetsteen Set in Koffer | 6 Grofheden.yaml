@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5af43ab9-6420-4e26-bd2c-d6f9e9f2548a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1384599
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 8fed4a8b-be5a-4f77-b4d9-3623f10eb899-tr
   priority: 0
-  slug: vdn-wetsteen-set-in-koffer-6-grofheden
+  slug: vdn-scharfsteine-6-teilig-jpg-product-1
   type: product
 logo:
   channels:

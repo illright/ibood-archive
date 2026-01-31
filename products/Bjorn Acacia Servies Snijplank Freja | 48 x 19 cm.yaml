@@ -19,13 +19,16 @@ freeDelivery: false
 id: cb6c067e-1832-49e7-ae00-ecb95e5516e2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1913606
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 81ff7aeb-0001-44a2-8808-22cfd96a8760-tr
   priority: 0
-  slug: bjorn-acacia-servies-snijplank-freja-48-x-19-cm
+  slug: bjorn-freja-schneidebrett-48-x-19-cm-jpg-product-1
   type: product
 logo:
   channels:

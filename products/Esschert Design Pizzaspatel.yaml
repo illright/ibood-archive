@@ -19,13 +19,16 @@ freeDelivery: false
 id: ee77223e-5d2d-4d6a-bd7e-a0e18ce23329
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1875427
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 2fe8c273-81cc-4ee9-bce1-16c72ea7113e-tr
   priority: 0
-  slug: esschert-design-pizzaspatel
+  slug: esschert-design-pizzaschaufel-jpg-product-1
   type: product
 logo:
   channels:
