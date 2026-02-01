@@ -19,13 +19,16 @@ freeDelivery: false
 id: 26aac545-e139-439a-a1e6-9579863c02f4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2219734
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1b18d68c-29af-4b51-b630-54bbf54ddc19-tr
   priority: 0
-  slug: vdn-magnetische-messenhouder
+  slug: vdn-magnetischer-messerhalter-jpg-product-1
   type: product
 logo:
   channels:

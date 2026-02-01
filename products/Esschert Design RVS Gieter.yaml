@@ -19,13 +19,16 @@ freeDelivery: false
 id: a61ff535-a6d1-4802-8d37-bb3d8c32e9fc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1837070
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1ca3335d-16d5-4c91-aac8-10927baea372-tr
   priority: 0
-  slug: esschert-design-rvs-gieter
+  slug: esschert-design-edelstahl-giekanne-jpg-product-1
   type: product
 logo:
   channels:

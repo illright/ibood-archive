@@ -19,13 +19,16 @@ freeDelivery: false
 id: 350cb5b3-5353-487d-834e-51c4cc17fb79
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1376837
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d15653fe-91d6-4930-a813-04b4968fabcb-tr
   priority: 0
-  slug: ardtime-zao-tellerset-18-tlg
+  slug: ardtime-zao-tellerset-18-tlg-jpg-product-2
   type: product
 logo:
   channels:

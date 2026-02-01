@@ -19,13 +19,14 @@ freeDelivery: false
 id: fe9c7e87-a2eb-4bb4-98a8-72e419568080
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1836300
-  priority: 100
-  slug: esschert-design-classic-kookboekstandaard
+    - all
+  extension: image/png
+  id: cc068de2-85b7-4564-9a38-cb3dd738ab1e-tr
+  priority: 0
+  slug: esschert-design-kochbuchstander-jpg-product-101
   type: product
 logo:
   channels:

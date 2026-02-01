@@ -19,12 +19,12 @@ freeDelivery: false
 id: 3100088e-8dad-42c7-8368-cdae45a3ed2b
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 0b933c2b-09be-460a-bd02-592aa71bbdf6
+    - app
+    - website
+  extension: image/png
+  id: 0b933c2b-09be-460a-bd02-592aa71bbdf6-tr
   priority: 0
   slug: 3-jpg-product-1
   type: product

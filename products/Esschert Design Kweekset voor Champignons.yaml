@@ -19,13 +19,16 @@ freeDelivery: false
 id: b624898f-fc61-45fa-94d9-310a487c3330
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1801379
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 93afd169-4369-4c98-bf81-d3722cf2895b-tr
   priority: 0
-  slug: esschert-design-kweekset-voor-champignons
+  slug: esschert-design-kweekset-voor-champignons-jpg-product-1
   type: product
 logo:
   channels:

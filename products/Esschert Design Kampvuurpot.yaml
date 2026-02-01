@@ -19,13 +19,16 @@ freeDelivery: false
 id: c8d4e03a-406e-4733-bcb7-79652c2d766c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1836302
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 8aef7a4d-4ef7-4f64-b742-4fbfaa59a0e5-tr
   priority: 0
-  slug: esschert-design-kampvuurpot
+  slug: esschert-design-dutch-oven-lagerfeuertopf-jpg-product-1
   type: product
 logo:
   channels:

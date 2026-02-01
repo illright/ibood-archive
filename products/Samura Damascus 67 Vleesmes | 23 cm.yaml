@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 7863c05f-b848-43ab-980e-73d644cc2af3
+    - app
+    - website
+  extension: image/png
+  id: 7863c05f-b848-43ab-980e-73d644cc2af3-tr
   priority: 0
   slug: samura-damascus-67-slicing-knife-7-7-195-mm-67-layers-product-3
   type: product
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 69.99
 slug: samura-damascus-67-vleesmes-23-cm
-soldOut: false
+soldOut: true
 start: '2026-01-27T23:00:00.000Z'
 title: Samura Damascus 67 Vleesmes | 23 cm

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1b8efa5b-b7ee-46c3-b7c6-d3858a9b591c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1875441
-  priority: 100
-  slug: esschert-design-rechaud-rond
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 60e8b9e8-f75a-464b-8fc5-d6cd6ab69a5c-tr
+  priority: 0
+  slug: esschert-design-stovchen-jpg-product-101
   type: product
 logo:
   channels:

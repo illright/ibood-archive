@@ -19,13 +19,16 @@ freeDelivery: false
 id: adb35a27-9df1-4bc7-bc84-238a796356bf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1803480
-  priority: 100
-  slug: esschert-design-droogrek-voor-flessen
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 548299a1-35c2-4f72-a66a-5e4209014f78-tr
+  priority: 0
+  slug: esschert-design-flaschentrockner-jpg-product-101
   type: product
 logo:
   channels:

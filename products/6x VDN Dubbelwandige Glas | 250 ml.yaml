@@ -19,13 +19,16 @@ freeDelivery: false
 id: ddc1c552-acb5-42f1-a4a1-69cbdfa1f6fc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1368042
-  priority: 100
-  slug: 6x-vdn-dubbelwandige-glas-250-ml
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f4bf7903-9585-4185-80c6-fc9e4af7468c-tr
+  priority: 0
+  slug: 6x-vadeni-glas-250-ml-jpg-product-101
   type: product
 logo:
   channels:

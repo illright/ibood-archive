@@ -19,13 +19,16 @@ freeDelivery: false
 id: 90c30c7e-14ed-4ae6-8faf-f3df84030ad6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1837080
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ab8e950f-35a7-42f3-8e08-c37127dcd92a-tr
   priority: 0
-  slug: esschert-design-verhoogde-kweekbak-voor-kinderen
+  slug: esschert-design-hochbeet-fur-kinder-jpg-product-1
   type: product
 logo:
   channels:
@@ -35,7 +38,7 @@ logo:
   extension: png
   id: 1843462
   priority: 100
-  slug: esschert-design-verhoogde-kweekbak-voor-kinderen
+  slug: esschert-design-hochbeet-fur-kinder
   type: logo
 offerId: 2d231208-e7eb-4f0e-a74c-a7b8b39764f4
 price:

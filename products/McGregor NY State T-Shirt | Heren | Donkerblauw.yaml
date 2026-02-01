@@ -1,22 +1,22 @@
-_id: 697772e4d3aac4af1449fec0
+_id: 6977454bd3aac4af1449f85e
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 7f0c3d6e-dfe6-514a-84bf-4cee61e70070
-classicId: '2967429'
-classicProductId: '669502'
+  - cbc519e7-2e3e-5319-b537-3bed35a75659
+classicId: '2963985'
+classicProductId: '669504'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 56
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-02T22:59:59.999Z'
 freeDelivery: false
-id: 65ea599f-2e46-4567-9cee-95f4ffa56bb8
+id: 0413d89a-abea-40a2-830a-4fe767c81c30
 image:
   channels:
     - app
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 7f912977-9a69-4c6d-b155-7277d9f53071
+offerId: 3a7f552d-5395-4a6c-b521-b255241ac587
 price:
-  cents: 2000
+  cents: 1995
   currency: EUR
-  value: 20
+  value: 19.95
 referencePrice:
   cents: 4495
   currency: EUR

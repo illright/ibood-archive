@@ -19,13 +19,16 @@ freeDelivery: false
 id: 4b60b815-8a05-44ca-8520-9ce44c79f3e5
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1837035
+    - all
+    - app
+    - website
+  extension: image/png
+  id: e1872b08-adf5-4a8b-a84f-d3756e2f8a39-tr
   priority: 0
-  slug: esschert-design-pizzabakplaat-op-poten
+  slug: esschert-design-pizza-backblech-jpg-product-1
   type: product
 logo:
   channels:

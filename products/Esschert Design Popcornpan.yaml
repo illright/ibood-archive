@@ -19,13 +19,16 @@ freeDelivery: false
 id: 9dc91ae7-6756-4a5f-befc-e419c7c0cd96
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1843393
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 5b6b27e9-a2e9-48b8-bccc-46a71d5e980a-tr
   priority: 0
-  slug: esschert-design-popcornpan
+  slug: esschert-design-popcorn-pfanne-png-product-1
   type: product
 logo:
   channels:

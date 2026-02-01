@@ -19,13 +19,16 @@ freeDelivery: false
 id: fc579b36-0a4b-476f-a7b7-6beacb51da5c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1794939
-  priority: 100
-  slug: esschert-design-vuurbal-laser-cut-roest
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f0dfee9a-dfe1-44a2-978d-1cd81a485ace-tr
+  priority: 0
+  slug: esschert-design-feuerball-laser-cut-rost-jpg-product-101
   type: product
 logo:
   channels:

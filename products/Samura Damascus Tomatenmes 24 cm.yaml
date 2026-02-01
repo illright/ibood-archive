@@ -19,13 +19,16 @@ freeDelivery: false
 id: 43ac5e5e-2906-4c9e-a7c6-25e13ab3ec79
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1966541
+  extension: image/png
+  id: dab4b4d4-78bb-4d6b-aa99-256dbd0edbdd-tr
   priority: 0
-  slug: samura-damascus-tomatenmes-24-cm
+  slug: samura-damascus-kuchenmesser-24-cm-1-jpg-product-1
   type: product
 logo:
   channels:

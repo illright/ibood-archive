@@ -19,13 +19,16 @@ freeDelivery: false
 id: d95d4167-52d7-48b0-bb01-33c1207ce0e2
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1837068
+  extension: image/png
+  id: 84b49368-3feb-4829-8a32-cd1dfaddc4b1-tr
   priority: 0
-  slug: esschert-design-barometer-met-gietijzeren-houder
+  slug: esschert-design-glasbarometer-jpg-product-1
   type: product
 logo:
   channels:

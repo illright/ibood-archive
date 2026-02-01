@@ -19,13 +19,16 @@ freeDelivery: false
 id: 11646d2c-808f-41d7-b0ef-dc51f8573824
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2187524
+    - all
+    - app
+    - website
+  extension: image/png
+  id: ad5178d6-1713-49f9-b69c-33047e59d4c6-tr
   priority: 0
-  slug: inno-cuisinno-vijzel-graniet-13-x-13-cm
+  slug: inno-cuisinno-granit-morser-13-cm-jpg-product-2
   type: product
 offerId: aa9201f8-ea80-45f6-a581-59826fd93471
 price:
