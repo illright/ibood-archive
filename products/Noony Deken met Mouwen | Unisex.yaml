@@ -1,12 +1,12 @@
-_id: 69787cc1d3aac4af144a0658
+_id: 6978ba55d3aac4af144a09a0
 appOnly: false
 brand: NOONY
 brands:
   - id: 4818952d-fd70-5dc7-89f4-e9b28c1fd3a2
     name: NOONY
 categories:
-  - 10e90e77-7cb1-55bb-a1a4-8526d877ec90
-classicId: '2970032'
+  - 1866416e-646f-53cf-9c95-b681bd1093c2
+classicId: '2970707'
 classicProductId: '583541'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 58
 end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: eb994600-96ce-4b0c-8688-26d721127ee5
+id: f523f569-a33f-4f85-a96c-a48cd28b0af1
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b160da2e-a2c9-421c-8112-73fd5653dc1a
-  priority: 0
-  slug: noony-png-logo-0
+  extension: png
+  id: 1565696
+  priority: 100
+  slug: noony-logo
   type: logo
-offerId: 78547794-faf0-4f36-aeda-0742ab89e080
+offerId: 8f4ea32b-67e6-4822-aa6c-fad952199ad1
 price:
   cents: 1695
   currency: EUR

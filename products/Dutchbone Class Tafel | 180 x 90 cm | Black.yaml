@@ -1,4 +1,4 @@
-_id: 6978775b7963c7c3da00bd48
+_id: 69675a6419eeaaa90217ff59
 appOnly: false
 brand: Dutchbone
 brands:
@@ -6,25 +6,27 @@ brands:
     name: Dutchbone
 categories:
   - 9cc11e06-f10e-5a76-a33d-f14e1f7a9813
-classicId: '2969773'
+classicId: '2938918'
 classicProductId: '637335'
 deliveryPrice:
   cents: 1995
   currency: EUR
   value: 19.95
 directCheckout: true
-discount: 63
+discount: 60
 end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
-id: 42c3162c-3ea9-49cf-a78a-02c5997829e1
+id: 84f29a89-cea5-5d98-b3a7-63e23d6c6d32
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 0454e228-047b-425b-838b-2b2ebb8dcf93
+    - website
+    - app
+  extension: image/png
+  id: 0454e228-047b-425b-838b-2b2ebb8dcf93-tr
   priority: 0
   slug: dutchbone-class-tafel-180-x-90-cm-1-jpg-product-1
   type: product
@@ -38,11 +40,11 @@ logo:
   priority: 100
   slug: dutchbone-logo
   type: logo
-offerId: 330466d1-9106-4aad-980b-3eae8753eb92
+offerId: f662b630-1ac7-5523-bbb7-33343978efd8
 price:
-  cents: 36900
+  cents: 39900
   currency: EUR
-  value: 369
+  value: 399
 referencePrice:
   cents: 99900
   currency: EUR
