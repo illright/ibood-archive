@@ -1,32 +1,34 @@
-_id: 6977665aa4ab0b3fdd810726
+_id: 6979c98a2b199b3a9d8b31ee
 appOnly: false
 brand: Fish Tales
 brands:
   - id: 5e00203d-ce13-5182-a503-56909e32a084
     name: Fish Tales
 categories:
-  - 40481cad-da4d-5939-a829-3e436def4b07
-classicId: '2966271'
+  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
+classicId: '2971937'
 classicProductId: '673298'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 56
-end: '2026-02-02T22:59:59.999Z'
+discount: 39
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: d60e1756-3a17-4794-bbe0-15ce9cb12078
+id: 4de93b47-6216-5f05-9c0c-64a7e6fd5b81
 image:
   channels:
+    - app
+    - website
     - newsletter
     - all
     - app
     - website
   extension: image/png
-  id: a6485c43-d104-44ce-afbc-36492d3e4809
+  id: 6b7e220f-1a9b-4be4-8f01-14fe6a98093d-tr
   priority: 0
-  slug: fish-tales-06-png-product-1
+  slug: fish-tales-skipjack-thunfisch-in-wasser-fair-trade-msc-12-x-160-112-gr-product-2
   type: product
 logo:
   channels:
@@ -39,16 +41,16 @@ logo:
   priority: 0
   slug: fish-tales-logo-0
   type: logo
-offerId: d397e2e5-0908-4bca-af74-c5f2bf92fedf
+offerId: 0cab651b-16c6-5331-b6ee-a218aedb2289
 price:
-  cents: 1995
+  cents: 2795
   currency: EUR
-  value: 19.95
+  value: 27.95
 referencePrice:
   cents: 4548
   currency: EUR
   value: 45.48
 slug: 12x-fish-tales-skipjack-tonijn-in-water-160-g
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: 12x Fish Tales Skipjack Tonijn in Water | 160 g

@@ -1,22 +1,22 @@
-_id: 697772932b199b3a9d8b261f
+_id: 6980bf519c88ad5c77a93909
 appOnly: false
 brand: AB Lifestyle
 brands:
   - id: 48fa8c06-3349-5e6f-bdb6-f7e3d591abcc
     name: AB Lifestyle
 categories:
-  - d960db42-d23e-57bc-8fdb-97e4de7a1541
-classicId: '2967329'
-classicProductId: '649448'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982800'
+classicProductId: '649450'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 89
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: eb6f9cb4-b53b-49af-8ba0-2c811c0a3420
+id: 010b6952-7a36-4223-8b51-b4b13fd91b43
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 1-png-product-2
   type: product
-offerId: c31bfff0-a712-4605-b441-5f3ec7572219
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 27a0bfb8-d6aa-495b-8630-3d1ebf0fa277
+  priority: 0
+  slug: ab-lifestyle-png-logo-0
+  type: logo
+offerId: 3373d62d-5ed5-44d4-adac-42bd4c509544
 price:
   cents: 800
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.99
 slug: ab-lifestyle-platinum-poloshirt-pastel-green
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: AB Lifestyle Platinum Poloshirt | Pastel Green

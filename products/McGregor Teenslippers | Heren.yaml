@@ -1,22 +1,22 @@
-_id: 697384e16b0ee23caec59bb7
+_id: 6980c2259c88ad5c77a93a18
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
-classicId: '2962202'
-classicProductId: '620339'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983250'
+classicProductId: '620340'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 70
-end: '2026-02-02T22:59:59.999Z'
+directCheckout: false
+discount: 83
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: d9e59e6b-16f2-4558-9c09-9e749d51a8a9
+id: 756f2ea9-f939-4a2f-95c0-2571503ac893
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 66704d47-71a7-4ae3-9926-bd1da4f77133
+offerId: 8a999102-ed59-47ee-8a29-b7cec060b006
 price:
-  cents: 895
+  cents: 500
   currency: EUR
-  value: 8.95
+  value: 5
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: mcgregor-teenslippers-heren
-soldOut: true
-start: '2026-01-25T23:00:00.000Z'
+soldOut: false
+start: '2026-02-02T23:00:00.000Z'
 title: McGregor Teenslippers | Heren

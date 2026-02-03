@@ -1,12 +1,12 @@
-_id: 695e54288cdc6cde32272361
+_id: 698089e5e1809bffba513bd4
 appOnly: false
 brand: Columbia
 brands:
   - id: 5f0ce9cd-63f2-5848-80c4-5da01f910498
     name: Columbia
 categories:
-  - 7f3cac7e-bdfb-5883-a8f4-485aa4cdd129
-classicId: '2925392'
+  - 7ad70701-2893-5600-8417-008d613c050b
+classicId: '2981253'
 classicProductId: '686556'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 62
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: d8a7b625-d82c-5531-a11f-91613cf7908d
+id: af220dc6-92ab-4886-b817-3967431b16a5
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e5ec7380-ba1f-4d1a-8ddf-1cb8affe63d9
-  priority: 0
-  slug: columbia-png-logo-0
+  extension: png
+  id: 1921819
+  priority: 100
+  slug: columbia-logo
   type: logo
-offerId: 140249bb-7f5c-5d9d-92f0-a1fa71954a66
+offerId: fbe189fd-f28e-4b4f-8ec4-1b1ade01ba28
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 130
 slug: columbia-granite-point-convertible-fleecejack-heren
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Columbia Granite Point Convertible Fleecejack | Heren

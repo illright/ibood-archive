@@ -1,12 +1,12 @@
-_id: 695e54c5a3322377ca22daa2
+_id: 698089f0e1809bffba513bef
 appOnly: false
 brand: Columbia
 brands:
   - id: 5f0ce9cd-63f2-5848-80c4-5da01f910498
     name: Columbia
 categories:
-  - 7f3cac7e-bdfb-5883-a8f4-485aa4cdd129
-classicId: '2925417'
+  - 7ad70701-2893-5600-8417-008d613c050b
+classicId: '2981267'
 classicProductId: '686587'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 58
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 40962278-d0ed-532d-8c1d-409dca5dc5c3
+id: 8c10b70c-620d-4fc7-af2a-616de5f7be85
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2aae1e74-8f22-46cc-9bc4-0b287a3da7db
-  priority: 0
-  slug: columbia-png-logo-0
+  extension: png
+  id: 1921819
+  priority: 100
+  slug: columbia-logo
   type: logo
-offerId: 4d241bb2-69ae-574f-ab0b-add3e59fbe6d
+offerId: 68618d71-e180-49bb-b12e-756f717a1fe1
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 120
 slug: columbia-powder-lite-ii-jas-heren
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Columbia Powder Lite II Jas | Heren

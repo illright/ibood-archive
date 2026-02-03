@@ -1,22 +1,22 @@
-_id: 697772cfd3aac4af1449fe78
+_id: 6980c26d3e456b8631897477
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - bce9d04f-a1ab-574d-bf83-50d3597ed684
-classicId: '2967383'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983319'
 classicProductId: '671625'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
-end: '2026-02-09T22:59:59.999Z'
+directCheckout: true
+discount: 47
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: c0be95bd-9e11-46e1-856c-72f837aca555
+id: 9abf6deb-6988-450b-ac12-9a93721fd30a
 image:
   channels:
     - app
@@ -28,26 +28,16 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1765373
-  priority: 100
-  slug: mcgregor-logo
-  type: logo
-offerId: 12bac37d-4fe5-4a7b-bac7-14355fa0f752
+offerId: 875045b5-5706-4d57-8f32-9528d03c7265
 price:
-  cents: 5995
+  cents: 7995
   currency: EUR
-  value: 59.95
+  value: 79.95
 referencePrice:
   cents: 14995
   currency: EUR
   value: 149.95
 slug: mcgregor-fishermans-zip-mock-sweater-heren
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: 'McGregor Fishermans Zip Mock Sweater | Navy '

@@ -1,12 +1,12 @@
-_id: 697772f02b199b3a9d8b26f2
+_id: 6980c0299c88ad5c77a9395c
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - d960db42-d23e-57bc-8fdb-97e4de7a1541
-classicId: '2967443'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982862'
 classicProductId: '647357'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 77
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: d5a25822-1602-49b1-a303-c3a0affdb8d5
+id: ef17d273-597d-4528-be14-948f4f44bddb
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: bac0ff90-5ed7-438a-99c7-af2f7cf06957
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 86f35d23-d662-40fc-9fc2-26e3134eaad6
+  priority: 0
+  slug: 2284473-png-logo-0
+  type: logo
+offerId: ab8d1771-e00d-4a5d-8404-7e38ebc4a53a
 price:
   cents: 795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 34.95
 slug: blend-shorts-heren
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Blend Shorts | Heren

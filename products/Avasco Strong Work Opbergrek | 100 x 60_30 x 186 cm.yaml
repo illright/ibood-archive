@@ -1,31 +1,32 @@
-_id: 697763d3d3aac4af1449fbc1
+_id: 69807e35e1809bffba513717
 appOnly: false
 brand: Avasco
 brands:
   - id: ab4ea8cc-5f67-55b8-aeef-24e3c39ad361
     name: Avasco
 categories:
-  - 694dca85-b429-5ba8-9dc8-09efbbd656da
-classicId: '2965588'
+  - 29d43bb4-74c0-55e2-8402-da42b42e5bbb
+classicId: '2980732'
 classicProductId: '73314'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 63
-end: '2026-02-02T22:59:59.999Z'
+discount: 67
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: f76eee52-214c-40cc-bc67-743b6ba802b3
+id: 8b11d717-97fa-4b15-888e-d06a7bf983d9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 130315
-  priority: 100
-  slug: avasco-work-opbergrek-100-x-6030-x-186-cm
+    - all
+  extension: image/png
+  id: e5566999-b372-450e-8073-ed0a69451a50
+  priority: 0
+  slug: laag-7-png-product-101
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: avasco-logo
   type: logo
-offerId: f0023caa-b21b-48fa-a79f-77344c677439
+offerId: a0da8c78-62ff-4542-9cd0-7a88ea7fa74e
 price:
-  cents: 4495
+  cents: 3995
   currency: EUR
-  value: 44.95
+  value: 39.95
 referencePrice:
   cents: 11992
   currency: EUR
   value: 119.92
 slug: avasco-work-opbergrek-100-x-6030-x-186-cm
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Avasco Strong Work Opbergrek | 100 x 60/30 x 186 cm

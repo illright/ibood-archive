@@ -1,12 +1,12 @@
-_id: 6977731d4a3b0949f9ce1ca1
+_id: 6980c04f9c88ad5c77a93975
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - d960db42-d23e-57bc-8fdb-97e4de7a1541
-classicId: '2967528'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982873'
 classicProductId: '631169'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 80
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: a0dca453-fd51-4553-a36e-b95cb8e4b11a
+id: 0f0faf4f-8a1f-4d05-8bd0-5deaab25b076
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8a59331d-ff25-40d8-8641-e419f2332a0e
-  priority: 0
-  slug: boston-broers-polo-uni-pique-logo-0
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
   type: logo
-offerId: 91f1fd21-3c65-400b-9cf2-4b71dc0781c9
+offerId: 85bee832-ab9f-4368-bb49-117d32f7a29e
 price:
   cents: 1000
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 49.95
 slug: boston-broers-polo-uni-pique
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Boston Brothers Piqué Poloshirt | Heren

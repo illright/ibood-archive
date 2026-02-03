@@ -1,22 +1,22 @@
-_id: 697744cfb6114abaca973840
+_id: 6980c1360fcc050d4b65f691
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - cbc519e7-2e3e-5319-b537-3bed35a75659
-classicId: '2963865'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983006'
 classicProductId: '674417'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 60
-end: '2026-02-02T22:59:59.999Z'
+discount: 55
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 8c2361fa-e0e2-4832-970e-2dee910067a4
+id: ccc11e03-4ece-4b32-9acc-c88b7573d31d
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1634994
-  priority: 100
-  slug: nza-logo
+    - all
+  extension: image/png
+  id: 0b419f23-b022-4cca-a9b4-bdee199dc9aa
+  priority: 0
+  slug: nza-png-logo-0
   type: logo
-offerId: c59eb8a1-9ee7-4d82-b810-4e8038050f89
+offerId: 950de50c-7a8c-4e04-9353-823f476f40e3
 price:
-  cents: 3995
+  cents: 4495
   currency: EUR
-  value: 39.95
+  value: 44.95
 referencePrice:
   cents: 9999
   currency: EUR
   value: 99.99
 slug: nza-sweatshirt-half-zip-heren
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: NZA Sweatshirt Half Zip | Heren

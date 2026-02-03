@@ -1,22 +1,22 @@
-_id: 697772b92b199b3a9d8b266f
+_id: 6980c1df549cf490cb516253
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 7f0c3d6e-dfe6-514a-84bf-4cee61e70070
-classicId: '2967366'
-classicProductId: '655791'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983192'
+classicProductId: '655783'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 75
-end: '2026-02-09T22:59:59.999Z'
+discount: 69
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 55769159-678b-4791-9bfb-45833ca84218
+id: 6603438f-f5ef-45f1-a434-55e5c6bf11ea
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6abb0d29-1a53-4902-af76-26bdfea8fcc4
-  priority: 0
-  slug: lyle-scott-martin-ss-t-shirt-heren-png-logo-0
+  extension: png
+  id: 1695004
+  priority: 100
+  slug: lyle-scott-logo
   type: logo
-offerId: 7ff11ad7-4de2-4710-8d8c-0bd16aeee8ef
+offerId: 5d9fbb40-7c16-4ce7-9778-5c1aad8b067f
 price:
-  cents: 2000
+  cents: 2500
   currency: EUR
-  value: 20
+  value: 25
 referencePrice:
   cents: 8000
   currency: EUR
   value: 80
 slug: lyle-scott-fleece-crew-neck-sweater-heren
-soldOut: true
-start: '2026-01-26T23:00:00.000Z'
+soldOut: false
+start: '2026-02-02T23:00:00.000Z'
 title: ' Lyle & Scott Fleece Crew Neck Sweater | Heren'

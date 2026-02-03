@@ -1,31 +1,32 @@
-_id: 69776406703f05883c91d52f
+_id: 69807e34e1809bffba51370f
 appOnly: false
 brand: Avasco
 brands:
   - id: ab4ea8cc-5f67-55b8-aeef-24e3c39ad361
     name: Avasco
 categories:
-  - 694dca85-b429-5ba8-9dc8-09efbbd656da
-classicId: '2965553'
+  - 29d43bb4-74c0-55e2-8402-da42b42e5bbb
+classicId: '2980730'
 classicProductId: '197159'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 49
-end: '2026-02-02T22:59:59.999Z'
+discount: 54
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 6931e3f4-cc81-4035-adbe-66f99a8c32dd
+id: c0cfa9e0-4022-4dec-858a-811933a6e098
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 497620
+    - all
+  extension: image/png
+  id: bf1748ff-06ad-4f01-ae5f-08f3d197518f
   priority: 0
-  slug: avasco-strong-opbergrek-120-x-50-x-196-cm
+  slug: laag-6-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: avasco-logo
   type: logo
-offerId: cbfb8980-bde6-4b4c-ade2-22a4dce44754
+offerId: 99bd9d6d-bff7-471d-b03c-345d40f205c9
 price:
-  cents: 4995
+  cents: 4495
   currency: EUR
-  value: 49.95
+  value: 44.95
 referencePrice:
   cents: 9776
   currency: EUR
   value: 97.76
 slug: avasco-strong-opbergrek-120-x-50-x-196-cm
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: "Avasco Strong Opbergrek | 120\_x 50 x\_196 cm"

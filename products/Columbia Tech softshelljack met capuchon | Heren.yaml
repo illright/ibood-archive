@@ -1,12 +1,12 @@
-_id: 695e542aa3322377ca22da92
+_id: 698089e8e1809bffba513bd8
 appOnly: false
 brand: Columbia
 brands:
   - id: 5f0ce9cd-63f2-5848-80c4-5da01f910498
     name: Columbia
 categories:
-  - 7f3cac7e-bdfb-5883-a8f4-485aa4cdd129
-classicId: '2925394'
+  - 7ad70701-2893-5600-8417-008d613c050b
+classicId: '2981258'
 classicProductId: '686564'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 59
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 7171c1cd-111c-5efa-bac8-dd044ce37fac
+id: 826cdfe5-cc45-4fbd-be54-fef70868b35a
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: xl-everblue-crushed-blue-2095683429-columbia-tech-softshell-hoodie-men-s-columbia-product-4
   type: product
-offerId: 1d4c0eb2-cb74-5211-9835-f3a0752cbd9d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1921819
+  priority: 100
+  slug: columbia-logo
+  type: logo
+offerId: 1be9337a-4799-40da-9970-3514d8488358
 price:
   cents: 4495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 110
 slug: columbia-tech-softshell-hoodie-men
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Columbia Tech softshelljack met capuchon | Heren

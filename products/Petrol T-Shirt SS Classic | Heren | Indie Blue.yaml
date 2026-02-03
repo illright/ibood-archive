@@ -1,12 +1,12 @@
-_id: 697772fbd3aac4af1449feeb
+_id: 6980c18b6c224df2e6574384
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - a510e636-d003-59e1-b675-38dc0efacab1
-classicId: '2967465'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983099'
 classicProductId: '665311'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 60
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 3aed1983-2531-4adf-85c2-9f9fea20a44f
+id: 637bc1c0-40b4-4c1d-aacf-a3557fe07e39
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 8ec6b0f0-1aeb-4e91-b808-b70f09269451
+  priority: 0
+  slug: petrol-png-logo-0
   type: logo
-offerId: a0cdcaff-f1f4-4355-bc95-896ac540b2c9
+offerId: 1230b382-7c06-406c-b0ad-c7674b51d28b
 price:
   cents: 1195
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 29.99
 slug: petrol-t-shirt-ss-classic-heren-indie-blue
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Petrol T-Shirt SS Classic | Heren | Indie Blue

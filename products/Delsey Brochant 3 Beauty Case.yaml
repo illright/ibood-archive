@@ -1,22 +1,22 @@
-_id: 6979c705835dc63527fab1c2
+_id: 6980c0ad10c50e6ec565741b
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 054be6bb-598e-57fa-8342-fb3fe19e65e9
-classicId: '2971914'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982931'
 classicProductId: '665221'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 66
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 08871cd2-4209-4e58-8bd2-aeb85f5087c7
+id: d3b8cdab-9f44-4759-81cd-1f1bbfb84271
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: delsey-logo
   type: logo
-offerId: bd6af81a-88cf-4157-bb28-53b205eb4cf4
+offerId: 07ce0de6-869e-43f8-b3e7-79aa320e3b36
 price:
-  cents: 3000
+  cents: 2995
   currency: EUR
-  value: 30
+  value: 29.95
 referencePrice:
   cents: 8900
   currency: EUR
   value: 89
 slug: delsey-brochant-3-beauty-case
-soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+soldOut: true
+start: '2026-02-02T23:00:00.000Z'
 title: Delsey Brochant 3 Beauty Case

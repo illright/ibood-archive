@@ -13,19 +13,20 @@ deliveryPrice:
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
+discount: 75
 end: '2026-02-03T22:59:59.999Z'
 freeDelivery: false
 id: 402d5ac2-483e-4ae0-abd2-8501b1f27d85
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1486575
+    - all
+  extension: image/png
+  id: 033aedfb-0146-40b1-84dd-e2bde53a17c1-tr
   priority: 0
-  slug: magnani-crepe-eisen
+  slug: magnani-crepemaker-foto-1-jpg-product-1
   type: product
 logo:
   channels:
@@ -39,13 +40,13 @@ logo:
   type: logo
 offerId: bfdfa742-14bf-4439-a7d6-4b5dfe9ca5fe
 price:
-  cents: 1695
+  cents: 1495
   currency: EUR
-  value: 16.95
+  value: 14.95
 referencePrice:
-  cents: 3395
+  cents: 5895
   currency: EUR
-  value: 33.95
+  value: 58.95
 slug: magnani-crepe-maker
 soldOut: false
 start: '2026-01-27T23:00:00.000Z'

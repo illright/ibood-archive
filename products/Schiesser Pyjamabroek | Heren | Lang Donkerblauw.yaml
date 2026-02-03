@@ -1,42 +1,43 @@
-_id: 697374d0a99cbb0953d92fc2
+_id: 6980c2a93bd68f151776963a
 appOnly: false
 brand: SCHIESSER
 brands:
   - id: 8db8a07d-6bcb-53d4-bcc3-2210db5e26b0
     name: SCHIESSER
 categories:
-  - 6c5f9f96-a520-5fd2-a9f7-3cfd783b1dab
-classicId: '2962002'
-classicProductId: '644914'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983376'
+classicProductId: '644927'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 43
-end: '2026-02-02T22:59:59.999Z'
+discount: 50
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 5757d7be-3cb5-4bd1-8c99-ff760e955d18
+id: a11feef7-6af8-414d-93ae-57735fe0fb68
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2281364
-  priority: 100
-  slug: schiesser-pyjamabroek-heren-donkerblauw
+    - all
+  extension: image/png
+  id: 852ecf15-9203-4e23-b803-82819212449f
+  priority: 0
+  slug: bodywear-03-png-product-101
   type: product
-offerId: 5ad79515-fef4-4990-b0ad-abf84fc771b2
+offerId: ac7df277-1c28-451b-b244-03d361d47118
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 3495
+  cents: 3995
   currency: EUR
-  value: 34.95
-slug: schiesser-pyjamabroek-heren-donkerblauw
+  value: 39.95
+slug: schiesser-pyjamabroek-heren-lang-donkerblauw
 soldOut: false
-start: '2026-01-22T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Schiesser Pyjamabroek | Heren | Lang Donkerblauw

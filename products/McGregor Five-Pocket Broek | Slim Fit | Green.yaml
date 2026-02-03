@@ -1,22 +1,22 @@
-_id: 697772b3d3aac4af1449fe5c
+_id: 6980c2329c88ad5c77a93a1d
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - a510e636-d003-59e1-b675-38dc0efacab1
-classicId: '2967356'
-classicProductId: '627813'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983256'
+classicProductId: '627810'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 87
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 1341d2b3-4224-4383-8853-215afe1691e0
+id: c026db2a-51de-471d-ac38-6c7c3a663fea
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 9ccb0279-0ca4-4c21-b6e6-41345f3809ad
+offerId: 45a93ec3-fd93-44d3-b744-08cfd3cdb7f2
 price:
   cents: 1500
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 119.95
 slug: mcgregor-five-pocket-broek-slim-fit-green
-soldOut: true
-start: '2026-01-26T23:00:00.000Z'
+soldOut: false
+start: '2026-02-02T23:00:00.000Z'
 title: McGregor Five-Pocket Broek | Slim Fit | Green

@@ -1,22 +1,22 @@
-_id: 6973849222947f269a6eb6bc
+_id: 6980c024e782a47545f5d5ba
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
-classicId: '2962141'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982856'
 classicProductId: '658854'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 68
-end: '2026-02-02T22:59:59.999Z'
+directCheckout: true
+discount: 64
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: ba91e8bb-b442-49be-8d3a-5e3a409f6abe
+id: 6181981d-92b5-4f75-9b7f-ff71fb1a0533
 image:
   channels:
     - app
@@ -28,26 +28,16 @@ image:
   priority: 0
   slug: bb003-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 2030715
-  priority: 100
-  slug: bjorn-borg-logo
-  type: logo
-offerId: 7aec5267-9f50-434c-b4cd-1e2b089b88e2
+offerId: a945b64a-8d67-4f38-8fca-3f9b3b636a2b
 price:
-  cents: 3500
+  cents: 3995
   currency: EUR
-  value: 35
+  value: 39.95
 referencePrice:
   cents: 10995
   currency: EUR
   value: 109.95
 slug: sneaker-bjorn-borg-court-su-dames
 soldOut: false
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Björn Borg Court SU Sneakers | Dames

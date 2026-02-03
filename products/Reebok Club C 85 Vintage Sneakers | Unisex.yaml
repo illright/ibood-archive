@@ -1,22 +1,22 @@
-_id: 69738407a99cbb0953d93072
+_id: 6980c26b0da44531682396e2
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
-classicId: '2962072'
-classicProductId: '653679'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983318'
+classicProductId: '653670'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 63
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: dcb79e20-9dd7-452c-9567-b56ccf199221
+id: 94355988-05c0-4cbc-9739-1c0674ab29c0
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8e016b53-adf9-463a-adbb-952407d67d8c
-  priority: 0
-  slug: reebok-png-logo-0
+  extension: png
+  id: 2011608
+  priority: 100
+  slug: reebok-logo
   type: logo
-offerId: 5f0a8d78-0d77-45c4-b9b3-56a73c71fb53
+offerId: 4f53168d-b0e2-4884-b602-1fd6376f9cd2
 price:
-  cents: 5000
+  cents: 4995
   currency: EUR
-  value: 50
+  value: 49.95
 referencePrice:
   cents: 13500
   currency: EUR
   value: 135
 slug: reebok-club-c-85-vintage-sneakers-unisex
 soldOut: false
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Reebok Club C 85 Vintage Sneakers | Unisex

@@ -1,12 +1,12 @@
-_id: 69777292b6114abaca973dc5
+_id: 6980bf60e782a47545f5d56a
 appOnly: false
 brand: AB Lifestyle
 brands:
   - id: 48fa8c06-3349-5e6f-bdb6-f7e3d591abcc
     name: AB Lifestyle
 categories:
-  - d960db42-d23e-57bc-8fdb-97e4de7a1541
-classicId: '2967327'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982804'
 classicProductId: '649490'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 89
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 764ec4d9-f7f5-4a62-ba73-466ceae4dbc8
+id: 91ed598c-73d6-4365-ad63-4a91d846b41e
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 1-png-product-28
   type: product
-offerId: 22b43483-142f-47ae-a594-1c9dd161988a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e637eb98-dc50-4646-9360-7da4d1dcf324
+  priority: 0
+  slug: ab-lifestyle-png-logo-0
+  type: logo
+offerId: 3cec5b8a-049f-4fdc-aebd-660ebd9e410e
 price:
   cents: 800
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.99
 slug: ab-lifestyle-triple-coloured-poloshirt
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: AB Lifestyle Triple Coloured Poloshirt

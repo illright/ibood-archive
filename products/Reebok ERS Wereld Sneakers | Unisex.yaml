@@ -1,12 +1,12 @@
-_id: 697384cb22947f269a6eb716
+_id: 6980c26a0da44531682396e1
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
-classicId: '2962177'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983322'
 classicProductId: '653724'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 1d5f931d-470c-423a-8e2f-ea5c5be6a2b0
+id: e9de7d98-b9a8-4b90-9420-1dcfd7a3519a
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bfad712a-d6ab-466c-95c8-dc000fa89dbe
-  priority: 0
-  slug: reebok-png-logo-0
+  extension: png
+  id: 2011608
+  priority: 100
+  slug: reebok-logo
   type: logo
-offerId: 75222bbb-0af0-4372-9f02-7f44d5df776d
+offerId: e7dfc731-b688-4e4c-b61b-6b0974488990
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 135
 slug: reebok-ers-wereld-sneakers-unisex
 soldOut: false
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Reebok ERS Wereld Sneakers | Unisex

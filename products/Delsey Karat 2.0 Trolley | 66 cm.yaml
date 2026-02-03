@@ -1,22 +1,22 @@
-_id: 6979c6e0d3aac4af144a0c40
+_id: 6980c0a90fcc050d4b65f5d1
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 054be6bb-598e-57fa-8342-fb3fe19e65e9
-classicId: '2971871'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982925'
 classicProductId: '582989'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 66
-end: '2026-02-02T22:59:59.999Z'
+discount: 71
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 36d5c2dc-1f20-47dd-8577-89a8cab805ad
+id: 3292cf2e-56d8-4fd5-82a3-3b20a5ff76b5
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: delsey-karat-20-trolley-66-cm
   type: product
-offerId: 037a64c7-201e-4f00-9c41-caf9d8f2cbff
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
+  type: logo
+offerId: 037f141c-9e4d-4724-8444-05dd8979aaf2
 price:
-  cents: 12995
+  cents: 10995
   currency: EUR
-  value: 129.95
+  value: 109.95
 referencePrice:
   cents: 38500
   currency: EUR
   value: 385
 slug: delsey-karat-20-trolley-66-cm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Delsey Karat 2.0 Trolley | 66 cm

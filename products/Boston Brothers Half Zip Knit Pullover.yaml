@@ -1,22 +1,22 @@
-_id: 697772fd3c8a20cb311fd62e
+_id: 6980c0680fcc050d4b65f565
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - b1a62596-d4f7-5ddb-acce-507ba73df8f9
-classicId: '2967491'
-classicProductId: '662967'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982891'
+classicProductId: '662966'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 73
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: d9fb71a1-5c98-4b08-8af6-a5f1487d6502
+id: 9958fbe9-8825-49c4-9648-0f75ccc65cb5
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1729661
-  priority: 100
-  slug: boston-brothers-logo
-  type: logo
-offerId: 2ae77598-6069-4828-b4e1-42c5e8faff98
+offerId: d1f02d54-5477-46fa-b48d-2d23b9d4dc23
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 109.95
 slug: boston-brothers-half-zip-knit-pullover
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Boston Brothers Half Zip Knit Pullover

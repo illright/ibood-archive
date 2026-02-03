@@ -1,22 +1,22 @@
-_id: 6977731a55e946c8c3c54564
+_id: 6980c130775e6b5026f0133e
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d960db42-d23e-57bc-8fdb-97e4de7a1541
-classicId: '2967526'
-classicProductId: '652771'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983000'
+classicProductId: '652776'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 75
-end: '2026-02-09T22:59:59.999Z'
+discount: 70
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: bd501961-b76b-4dba-a246-1e18dd6e61d3
+id: a3ea5c30-e57d-4473-b7a4-782a5c9e298e
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 483c60a3-2616-441c-b9f4-3695ae40cadf
+offerId: f8677d57-09a9-4235-84ac-464a24663935
 price:
-  cents: 1000
+  cents: 1200
   currency: EUR
-  value: 10
+  value: 12
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: jack-jones-hoodie-jwhferris
-soldOut: true
-start: '2026-01-26T23:00:00.000Z'
+soldOut: false
+start: '2026-02-02T23:00:00.000Z'
 title: Jack & Jones Hoodie JWHFERRIS | Heren

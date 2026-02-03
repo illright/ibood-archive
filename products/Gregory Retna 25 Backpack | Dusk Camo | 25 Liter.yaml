@@ -1,12 +1,12 @@
-_id: 6971045238b107cbc34dae92
+_id: 698087e28897b11f13790ca5
 appOnly: false
 brand: Gregory
 brands:
   - id: 130860bd-950e-5cea-bf5a-45765860cd93
     name: Gregory
 categories:
-  - 38827283-5990-50b4-80b2-18646b111383
-classicId: '2959861'
+  - 212af944-ad1c-5cf9-9bf8-e322cf239d16
+classicId: '2981095'
 classicProductId: '689116'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: e6307301-ca2e-52e5-9ff1-8b45fd9ceba8
+id: c59f6deb-f1e8-4893-971e-a6a5e030e046
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: dusk-camo-gregory-retna-25-product-1
   type: product
-offerId: af81a60d-3e71-5223-8efe-436c19241c44
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1740550
+  priority: 100
+  slug: gregory-logo
+  type: logo
+offerId: 991a656e-5b8b-4066-8b46-6213501494a5
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 100
 slug: gregory-retna-25-backpack-dusk-camo-25-liter
 soldOut: false
-start: '2026-01-29T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Gregory Retna 25 Backpack | Dusk Camo | 25 Liter

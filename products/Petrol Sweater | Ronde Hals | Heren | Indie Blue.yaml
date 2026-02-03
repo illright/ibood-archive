@@ -1,22 +1,22 @@
-_id: 69777363d3aac4af1449ff56
+_id: 6980c1976e1f6cfd64dc732b
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 7f0c3d6e-dfe6-514a-84bf-4cee61e70070
-classicId: '2967569'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983114'
 classicProductId: '665381'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
-end: '2026-02-09T22:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: ab2fca32-ffec-432f-a637-deb43e607418
+id: b72ee82d-d784-41aa-9141-00d111033865
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: f7f55c72-065e-45dd-8682-19283d600ad8
+offerId: c5ae2ea2-2e63-40e0-931d-06af92b37556
 price:
-  cents: 2000
+  cents: 2495
   currency: EUR
-  value: 20
+  value: 24.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: petrol-sweater-ronde-hals-heren
-soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+soldOut: true
+start: '2026-02-02T23:00:00.000Z'
 title: Petrol Sweater | Ronde Hals | Heren | Indie Blue

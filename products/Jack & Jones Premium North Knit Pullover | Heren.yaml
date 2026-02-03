@@ -1,22 +1,22 @@
-_id: 697772e896a069952e760892
+_id: 6980c0ea10c50e6ec5657428
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - a510e636-d003-59e1-b675-38dc0efacab1
-classicId: '2967444'
-classicProductId: '589686'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2982958'
+classicProductId: '589687'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 75
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 23fbc329-aae4-4a9f-b0db-d8e2968dfd5b
+id: fd315a29-9122-4151-822b-fd21fa158bd0
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1829631
+  id: 2031813
   priority: 100
-  slug: jack-jones-logo
+  slug: jack-jones-premium-north-knit-pullover-heren
   type: logo
-offerId: 94a03e17-31a6-4112-9f10-5e067c6f9dd4
+offerId: 46ce3ec1-71cb-41d4-a350-3982fcf32743
 price:
   cents: 1500
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: jack-jones-premium-north-knit-pullover-heren
-soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+soldOut: true
+start: '2026-02-02T23:00:00.000Z'
 title: Jack & Jones Premium North Knit Pullover | Heren

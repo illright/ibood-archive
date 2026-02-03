@@ -1,12 +1,12 @@
-_id: 697764672b199b3a9d8b2378
+_id: 6980b969775e6b5026f010fd
 appOnly: false
 brand: BREF
 brands:
   - id: 30f9ab13-c127-510c-ada7-0ea64881fcd5
     name: BREF
 categories:
-  - 40481cad-da4d-5939-a829-3e436def4b07
-classicId: '2965704'
+  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
+classicId: '2982262'
 classicProductId: '563058'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 1d23970c-0c6f-48db-bcdd-88234ae6cdb8
+id: 709ae28d-b946-4932-8f3f-024eff3c8766
 image:
   channels:
     - app
     - website
-  extension: png
-  id: 1909935
+    - newsletter
+    - all
+  extension: image/png
+  id: a46ae6eb-6b87-48b0-944b-05351279b085
   priority: 0
-  slug: 27x-bref-power-active-toilettenstein-50-g
+  slug: brefje-png-product-1
   type: product
 logo:
   channels:
@@ -36,7 +38,7 @@ logo:
   priority: 100
   slug: bref-logo
   type: logo
-offerId: 4643a51a-21f7-468c-849b-e282e6884a55
+offerId: 60571f52-e671-441d-b032-12fc2d28e5b2
 price:
   cents: 2795
   currency: EUR
@@ -47,5 +49,5 @@ referencePrice:
   value: 79.99
 slug: 9x-3-bref-power-active-toiletblokjes-lavender
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: 9x 3 Bref Power Active Toiletblokjes Lavendel | 50 g

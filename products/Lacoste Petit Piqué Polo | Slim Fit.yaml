@@ -1,22 +1,22 @@
-_id: 6977735fd3aac4af1449ff51
+_id: 6980c186775e6b5026f01395
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - b1a62596-d4f7-5ddb-acce-507ba73df8f9
-classicId: '2967566'
-classicProductId: '638506'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983096'
+classicProductId: '638521'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 73
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 497c2951-e709-491b-8232-c69edacecacf
+id: 61b63ecb-f846-4aa3-9088-4eecc8a10a7c
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612112
-  priority: 100
-  slug: lacoste-logo
+    - all
+  extension: image/png
+  id: 2ed6eab9-8e08-4b62-8e82-16f87298a42e
+  priority: 0
+  slug: lacoste-petit-pique-polo-slim-fit-logo-0
   type: logo
-offerId: f8ba61ab-b790-4abd-8db1-dc1b99394a9b
+offerId: 0377d0f6-a035-4e91-b481-a30049648aaf
 price:
   cents: 3000
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 110
 slug: lacoste-petit-pique-polo-slim-fit
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Lacoste Petit Piqué Polo | Slim Fit

@@ -1,22 +1,22 @@
-_id: 6971dadf237853cbf8dd0c94
+_id: 698067b4b4d90054a78ac918
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - 40320283-e4c7-5197-8f58-3ba90dd4f814
-classicId: '2959994'
-classicProductId: '661535'
+  - 95731ebd-6ed8-5e05-be28-49b41bb434e1
+classicId: '2980485'
+classicProductId: '661527'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 36
-end: '2026-02-02T22:59:59.999Z'
+directCheckout: false
+discount: 43
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 38c5f948-4b00-4174-ab7a-ae3a913e239c
+id: bb61ee31-e531-4bc9-914b-8009f51dfe9c
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5c53676c-39a5-4b52-bc97-9da5e09da7b8-tr
+  id: 54dc6e46-acd0-4bc9-a89b-1bbd3d1e3f29-tr
   priority: 0
-  slug: m-shadow-lime-316022-40440-mid-layer-essential-thermal-odlo-product-1
+  slug: xxl-black-316022-15000-mid-layer-essential-thermal-odlo-product-2
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 14b25212-bb70-42da-8c0a-501df3ec169d
+offerId: 379845f9-c302-48a7-b67b-7c0969be535c
 price:
-  cents: 4495
+  cents: 3995
   currency: EUR
-  value: 44.95
+  value: 39.95
 referencePrice:
   cents: 7000
   currency: EUR
   value: 70
-slug: odlo-thermal-mid-layer-ronde-hals
-soldOut: true
-start: '2026-01-26T23:00:00.000Z'
+slug: odlo-thermal-midlayer-ronde-hals
+soldOut: false
+start: '2026-02-02T23:00:00.000Z'
 title: Odlo Thermal Midlayer met Ronde Hals

@@ -1,22 +1,22 @@
-_id: 6973848ca99cbb0953d93115
+_id: 6980c28b6c224df2e65744ef
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - dddcdbdd-22f3-5eb9-b20e-0c6de3619944
-classicId: '2962136'
-classicProductId: '671568'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983351'
+classicProductId: '671562'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 39
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 1a4296c2-e436-404f-987d-01c944b2ec90
+id: 34591dfe-05e7-4e50-89cc-40831e8404ae
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: re06-png-product-1
   type: product
-offerId: b756909d-3c61-4e0e-b700-e1e55373f039
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: 5bab22a2-f401-4717-b126-d644ef9aae8c
 price:
   cents: 10995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 179.95
 slug: rehab-creon-mix-sneakers-heren
 soldOut: false
-start: '2026-01-25T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Rehab Creon Mix Sneakers | Heren

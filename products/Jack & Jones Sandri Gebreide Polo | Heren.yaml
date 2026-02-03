@@ -1,22 +1,22 @@
-_id: 697772ce3c8a20cb311fd5d4
+_id: 6980c13d0fcc050d4b65f696
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 7f0c3d6e-dfe6-514a-84bf-4cee61e70070
-classicId: '2967405'
-classicProductId: '654004'
+  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
+classicId: '2983012'
+classicProductId: '653992'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 56
-end: '2026-02-09T22:59:59.999Z'
+directCheckout: false
+discount: 45
+end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 0033a5a0-cc39-42da-9154-6886f3e9737b
+id: f9bfd712-75c0-4116-a689-359704f918ed
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: bafe5cd8-a310-4be9-8456-661abdc379b6
+offerId: b6f28d18-e819-4c50-82ef-bbf9fec63ba6
 price:
-  cents: 2000
+  cents: 2495
   currency: EUR
-  value: 20
+  value: 24.95
 referencePrice:
   cents: 4499
   currency: EUR
   value: 44.99
 slug: jack-jones-sandri-gebreide-polo-heren
-soldOut: true
-start: '2026-01-26T23:00:00.000Z'
+soldOut: false
+start: '2026-02-02T23:00:00.000Z'
 title: Jack & Jones Sandri Gebreide Polo | Heren

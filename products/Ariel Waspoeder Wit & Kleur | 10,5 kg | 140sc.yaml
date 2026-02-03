@@ -1,12 +1,12 @@
-_id: 696f831231bd7e99b0da8f63
+_id: 6980b92ce782a47545f5d2b1
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 40481cad-da4d-5939-a829-3e436def4b07
-classicId: '2956614'
+  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
+classicId: '2982184'
 classicProductId: '688772'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 64
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: c0fd7240-f79b-5c25-b9f9-e41b8cefebab
+id: 44f4c0a2-03ff-4f9d-bf8d-aa24e5cb26dc
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ac2e5cff-70e4-4700-9231-936f6cfcb6ab
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: f24f092c-ed8d-5884-99dc-aded857ae78b
+offerId: deb050e4-130e-4f3b-bfa5-03b95311e8e9
 price:
   cents: 2695
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 74.94
 slug: ariel-waspoeder-wit-kleur-10-5-kg-140sc
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Ariel Waspoeder Wit & Kleur | 10,5 kg | 140sc

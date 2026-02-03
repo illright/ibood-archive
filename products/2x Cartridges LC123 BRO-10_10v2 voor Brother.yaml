@@ -1,12 +1,12 @@
-_id: 697765020c14a89a1dff1b1c
+_id: 6980b96c775e6b5026f0110d
 appOnly: false
 brand: Brother
 brands:
   - id: df4e68b2-2a8e-57ff-9d80-0d87839c5575
     name: Brother
 categories:
-  - 40481cad-da4d-5939-a829-3e436def4b07
-classicId: '2965853'
+  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
+classicId: '2982267'
 classicProductId: '61909'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: b8ec4472-5475-47a8-9309-a60aff3f1f8c
+id: 7815a9be-5680-4880-9a0e-de86b583049e
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: typ-1-bis-11-fur-brother-jpg-product-101
   type: product
-offerId: fe43b120-7d90-49bd-a6be-d4f311210911
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 446d35f2-7477-4110-96d7-1a05423e27da
+  priority: 0
+  slug: brother-logo-0
+  type: logo
+offerId: 8ac05608-4998-4792-96ad-9769372d63d1
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 79.95
 slug: 2x-cartridges-lc123-bro-10-10v2-voor-brother
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: 2x Cartridges LC123 BRO-10/10v2 voor Brother

@@ -1,12 +1,12 @@
-_id: 689091d9d531bcb029f70393
+_id: 69807e37e1809bffba51371f
 appOnly: false
 brand: Stanley
 brands:
   - id: 6b6b9ccd-1c3a-5298-8d05-5997fbcce8e5
     name: Stanley
 categories:
-  - 515ccccd-9c8c-59d1-a17d-1a192fefbc94
-classicId: '2716612'
+  - 4aae2d36-c9c1-5db6-87f7-1eb82b831ce9
+classicId: '2980736'
 classicProductId: '657536'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-02-02T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 21a6e7f1-5387-55aa-a325-b3c9fd5f29b9
+id: a83b7c9b-1a6a-42da-ab22-03bb85af688c
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: stanley-ptc-electric-heater-2000w-product-10
   type: product
-offerId: 6a05d1f0-f53b-52eb-ad8c-ab1832ff75be
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1792688
+  priority: 100
+  slug: stanley-logo
+  type: logo
+offerId: 995cc5ed-a557-495d-94e2-aa2fd473060f
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 49.95
 slug: stanley-keramische-heater-2000-w-sxjh002000e
 soldOut: false
-start: '2026-01-26T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Stanley Keramische Heater | 2000 W | SXJH002000E
