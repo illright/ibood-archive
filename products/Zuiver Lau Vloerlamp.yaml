@@ -1,12 +1,12 @@
-_id: 69675a92809c7dc927f86421
+_id: 6981b8c6bd9e534e7ee50775
 appOnly: false
 brand: ZUIVER
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: ZUIVER
 categories:
-  - b5287cb5-1f00-593b-b67e-cb6f09c940f9
-classicId: '2938942'
+  - 24232f72-e0ab-5604-8645-3b4303cf8751
+classicId: '2983911'
 classicProductId: '637348'
 deliveryPrice:
   cents: 895
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 4a9cc753-10fe-5003-be77-8426189d9b17
+id: 47b66de9-449f-4647-93ce-1bfa62b8964b
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: ffa61567-515e-4566-8aa1-c32170134efb-tr
+  extension: jpg
+  id: 2251736
   priority: 0
-  slug: zuiver-lau-stehleuchte-jpg-product-1
+  slug: zuiver-lau-stehleuchte
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: zuiver-logo
   type: logo
-offerId: 54a1ef00-cddd-5575-b070-dea0e838e25f
+offerId: 1a08af5b-c2bb-473a-af14-b734b394c073
 price:
   cents: 9995
   currency: EUR
@@ -50,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 299
 slug: zuiver-lau-vloerlamp
-soldOut: true
-start: '2026-01-27T23:00:00.000Z'
+soldOut: false
+start: '2026-02-03T23:00:00.000Z'
 title: Zuiver Lau Vloerlamp

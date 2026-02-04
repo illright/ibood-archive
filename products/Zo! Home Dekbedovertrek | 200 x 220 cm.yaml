@@ -1,32 +1,31 @@
-_id: 6978b97387dd04f1a16a8bd3
+_id: 6981f0018441ce1a55ac39e3
 appOnly: false
-brand: Heckett Lane
+brand: ZoHome
 brands:
-  - id: e4aab67a-916d-5500-9121-6fb22731dc9a
-    name: Heckett Lane
+  - id: 1b22d264-4d0a-55aa-90ad-01edc2c8d955
+    name: ZoHome
 categories:
-  - d6697a02-f068-50ad-b64e-06e7c327abe2
-classicId: '2970386'
-classicProductId: '637960'
+  - 78a522a7-59a5-5f4e-bd30-88c18b803c32
+classicId: '2985097'
+classicProductId: '536580'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 5608b001-e87d-4ffe-bbf4-dd076ca8b342
+id: 42fa5544-cb77-4612-9eca-3f19232d3ddd
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 97c3d4aa-429c-4773-9f7b-eb92ab7e5b65
+  extension: png
+  id: 2246808
   priority: 0
-  slug: zohome-02-png-product-40
+  slug: zo-home-dekbedovertrek-200-x-220-cm
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1721723
+  id: 1944366
   priority: 100
-  slug: heckett-lane-logo
+  slug: zohome-logo
   type: logo
-offerId: 684e591c-fe68-4278-8a77-5c3d5238f3ea
+offerId: d359bbc0-75e0-4ad0-8cf9-adf6936955e7
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 69.95
 slug: zo-home-dekbedovertrek-200-x-220-cm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Zo! Home Dekbedovertrek | 200 x 220 cm

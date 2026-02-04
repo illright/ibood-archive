@@ -1,22 +1,22 @@
-_id: 69773e86d3aac4af1449f74e
+_id: 6981be945a79d52653f26f2c
 appOnly: false
 brand: Blue Diamond
 brands:
   - id: 6567f73b-aff5-5e2c-a06b-57eac8535431
     name: Blue Diamond
 categories:
-  - 2c397995-8a9a-5a66-8f5e-1dfee880acda
-classicId: '2963740'
+  - 17995251-511d-5dd1-9e9c-2609a302554c
+classicId: '2984502'
 classicProductId: '621725'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 58
-end: '2026-02-03T22:59:59.999Z'
+discount: 67
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 380e9711-50a5-59b4-94a9-e70f775bc83b
+id: 379f6d9e-5e3c-4fc4-a021-c792cc0e06ba
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: pann-png-product-1
   type: product
-offerId: 6554f9d2-ba5c-5d49-9dee-af001ea80fff
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 858e585b-7582-496b-a39a-01bef91a7cc7
+  priority: 0
+  slug: blue-diamond-logo-0
+  type: logo
+offerId: 2676b13a-2fbf-4d26-a3f9-c4fff95ea3a9
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 5990
   currency: EUR
   value: 59.9
 slug: blue-diamond-triple-steel-rvs-keramische-koekenpan-20-cm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Blue Diamond Triple Steel RVS Keramische Koekenpan | 20 cm

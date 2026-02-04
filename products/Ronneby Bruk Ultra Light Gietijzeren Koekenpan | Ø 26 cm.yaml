@@ -1,12 +1,12 @@
-_id: 697876d90e1724d644f31b5b
+_id: 6981beae5b733c8f98bc0c8e
 appOnly: false
 brand: Ronneby Bruk
 brands:
   - id: 63a9233f-14fd-59bc-ae4e-9348e9b24847
     name: Ronneby Bruk
 categories:
-  - 2c397995-8a9a-5a66-8f5e-1dfee880acda
-classicId: '2969562'
+  - 0b019f1c-d808-58ea-86c4-052f50decda7
+classicId: '2984575'
 classicProductId: '602293'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 5cb5c441-4d3b-4ff1-987c-9c986ff8cd4a
+id: 95edb18b-2847-42be-a0a1-9c00a82286ff
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2122472
-  priority: 100
-  slug: ronneby-bruk-ultra-light-koekenpan-26-cm
+    - all
+  extension: image/png
+  id: 5502a789-0323-4888-82a5-f654d59b5bfd
+  priority: 0
+  slug: ronneby-bruk-logo-0
   type: logo
-offerId: e4b465df-c64d-42d4-bd11-e132633f4d40
+offerId: 9965e6b1-13ef-4bd8-9a4f-24934dbed278
 price:
   cents: 7495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 119
 slug: ronneby-bruk-ultra-light-koekenpan-26-cm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Ronneby Bruk Ultra Light Gietijzeren Koekenpan | Ø 26 cm

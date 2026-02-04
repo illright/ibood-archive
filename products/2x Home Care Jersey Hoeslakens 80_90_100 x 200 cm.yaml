@@ -1,31 +1,32 @@
-_id: 6978b99d0e1724d644f31faf
+_id: 69821dd27ef9beef51d4c016
 appOnly: false
 brand: Dreamhouse
 brands:
   - id: f603b8a3-86da-5c59-a6ca-bd52f50a1da6
     name: Dreamhouse
 categories:
-  - 1866416e-646f-53cf-9c95-b681bd1093c2
-classicId: '2970438'
-classicProductId: '46660'
+  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
+classicId: '2985859'
+classicProductId: '46658'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 53
-end: '2026-02-03T22:59:59.999Z'
+discount: 82
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 418a7f65-6398-45cc-854a-ece6e6609f2d
+id: 9d2b8ad3-4031-4b44-a6b9-77dc8566ad08
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 95232
-  priority: 13
-  slug: 2x-jersey-hoeslakens-8090100x200
+    - all
+  extension: image/avif
+  id: 7bdced1d-2faa-465c-afb9-c2c097d8fcc1
+  priority: 0
+  slug: 95225-avif-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: dreamhouse-logo
   type: logo
-offerId: 50b85597-29fe-44fd-bd52-b68cf9a05eed
+offerId: 627a9d6f-3344-492a-90ea-65543b2ab5c1
 price:
-  cents: 1295
+  cents: 1095
   currency: EUR
-  value: 12.95
+  value: 10.95
 referencePrice:
-  cents: 2780
+  cents: 5995
   currency: EUR
-  value: 27.8
+  value: 59.95
 slug: 2x-jersey-hoeslakens-8090100x200
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: 2x Home Care Jersey Hoeslakens 80/90/100 x 200 cm

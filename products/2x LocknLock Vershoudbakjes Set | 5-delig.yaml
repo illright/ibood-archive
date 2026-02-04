@@ -1,32 +1,34 @@
-_id: 69787710b02581400f54d700
+_id: 6981bebb840ae03aba6c5493
 appOnly: false
 brand: LOCK&LOCK
 brands:
   - id: 069e2a1d-00d4-5f9a-844e-c46972d10f1e
     name: LOCK&LOCK
 categories:
-  - 43e9ffd3-4414-55cd-99fa-60760aa8fe63
-classicId: '2969664'
-classicProductId: '673302'
+  - 17995251-511d-5dd1-9e9c-2609a302554c
+classicId: '2984605'
+classicProductId: '666680'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 68
-end: '2026-02-03T22:59:59.999Z'
+discount: 63
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: e9f0bd7d-7b99-4749-a740-8c3ea66b5bd1
+id: 06cd16e0-c1fe-4ca9-808a-b30044ac3c7e
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 354013e1-1e31-4107-8ec4-4076b799f714
+  id: f68d5c67-c124-445b-85e8-e3d8fd04aa65-tr
   priority: 0
-  slug: locknlock-01-png-product-1
+  slug: locknlock-vershouddozen-voordeelset-small-5-delig-bpa-free-hpl806s5-product-1
   type: product
 logo:
   channels:
@@ -39,16 +41,16 @@ logo:
   priority: 0
   slug: lock-lock-logo-0
   type: logo
-offerId: 78e42c58-b910-4028-9520-c7b9e200bd7e
+offerId: 1b156b60-c275-4dba-b855-3cfc0ecedc94
 price:
-  cents: 1295
+  cents: 1495
   currency: EUR
-  value: 12.95
+  value: 14.95
 referencePrice:
   cents: 3990
   currency: EUR
   value: 39.9
 slug: 2x-locknlock-vershoudbakjes-set-5-delig
-soldOut: true
-start: '2026-01-27T23:00:00.000Z'
+soldOut: false
+start: '2026-02-03T23:00:00.000Z'
 title: 2x LocknLock Vershoudbakjes Set | 5-delig

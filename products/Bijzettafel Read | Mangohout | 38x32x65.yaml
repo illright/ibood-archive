@@ -1,34 +1,36 @@
-_id: 6978777b0e1724d644f31d1c
+_id: 6981b8eabdfd1a81beabf84f
 appOnly: false
 brand: NB-MiMo
 brands:
   - id: cdc58f0d-0aa0-5ebe-b2d3-fc1d997bdf3b
     name: NB-MiMo
 categories:
-  - 9cc11e06-f10e-5a76-a33d-f14e1f7a9813
-classicId: '2969838'
-classicProductId: '658408'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2984029'
+classicProductId: '658410'
 deliveryPrice:
-  cents: 595
+  cents: 895
   currency: EUR
-  value: 5.95
+  value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: d43ef540-2bca-48d7-912a-47189beead0e
+id: a3b93793-7ad8-4324-9dff-76300391fd65
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 87e813f4-1e19-4f63-b94e-37cf22d8cfee
+  id: 77b342ed-b7b6-4eb8-8a3b-273f9c507c26-tr
   priority: 0
-  slug: hsm-002-mainz-png-product-1
+  slug: hsm-collection-read-beistelltisch-jpg-product-2
   type: product
-offerId: 43d0fbdb-2b62-41e2-9db6-cd56569a8911
+offerId: a6572b74-c94c-4c6c-a1a0-114e6d4376a0
 price:
   cents: 3995
   currency: EUR
@@ -38,6 +40,6 @@ referencePrice:
   currency: EUR
   value: 99.95
 slug: bijzettafel-read-mangohout
-soldOut: true
-start: '2026-01-27T23:00:00.000Z'
+soldOut: false
+start: '2026-02-03T23:00:00.000Z'
 title: Bijzettafel Read | Mangohout | 38x32x65

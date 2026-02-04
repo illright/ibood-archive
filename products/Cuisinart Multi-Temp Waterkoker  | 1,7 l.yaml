@@ -1,12 +1,12 @@
-_id: 6970e0adc3c69f5704957f42
+_id: 6981bec57ef9beef51d4bc45
 appOnly: false
 brand: Cuisinart
 brands:
   - id: 74130ea0-e823-55b1-a10f-12d0c8be0526
     name: Cuisinart
 categories:
-  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
-classicId: '2959580'
+  - c2f713c4-be94-538b-87e1-d8a0c4dcbc85
+classicId: '2984643'
 classicProductId: '689055'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 38b0bfb1-3d4e-571e-89f3-7f7317f29ee2
+id: 3149671b-3194-42ec-93b5-061e61ecdd14
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: signature-collection-multi-temp-kettle-product-0
   type: product
-offerId: 44803de7-d2f0-5fe5-a76e-cb2170a00503
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1945323
+  priority: 100
+  slug: cuisinart-logo
+  type: logo
+offerId: 1e58aab2-5bf9-42da-ac05-e3443e895c01
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119.9
 slug: cuisinart-multi-temp-waterkoker-1-7-l
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Cuisinart Multi-Temp Waterkoker  | 1,7 l

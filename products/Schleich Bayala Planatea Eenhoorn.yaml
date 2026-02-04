@@ -1,12 +1,12 @@
-_id: 697874ea2b199b3a9d8b2abb
+_id: 6981ad35bd9e534e7ee50662
 appOnly: false
 brand: Schleich
 brands:
   - id: 8e8e1a4a-5340-51af-b9a4-6d5572cffaf5
     name: Schleich
 categories:
-  - e90ce619-0730-5ab9-91ea-8de4866cfa2e
-classicId: '2969179'
+  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
+classicId: '2983751'
 classicProductId: '684325'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 50
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 577cb487-0805-434e-9c9e-6c98fa629098
+id: 4e4b1c60-bd30-4d35-82b7-b8ff60d2daf7
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 39070801-schleich-bayala-collectible-unicorn-planetea-product-0
   type: product
-offerId: 45ced149-7259-4108-a58d-b183155f8794
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 76bba5ed-49d4-4fd9-8d32-c6243b17c10b
+  priority: 0
+  slug: schleich-logo-0
+  type: logo
+offerId: fd4f7f05-5384-47d5-b62b-730caaae81c0
 price:
   cents: 495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 9.99
 slug: schleich-bayala-planatea-eenhoorn
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Schleich Bayala Planatea Eenhoorn

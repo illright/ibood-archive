@@ -1,12 +1,12 @@
-_id: 69676244809c7dc927f864d4
+_id: 6981b8e4959006b0cdd1ed55
 appOnly: false
 brand: Bold Monkey
 brands:
   - id: 882c0ed5-df3e-50fb-9fa3-10ffad274ff7
     name: Bold Monkey
 categories:
-  - b5287cb5-1f00-593b-b67e-cb6f09c940f9
-classicId: '2939669'
+  - 24232f72-e0ab-5604-8645-3b4303cf8751
+classicId: '2984001'
 classicProductId: '687563'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 55
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: b59fef6f-d14f-5ad5-b47e-a18861f56fbf
+id: a782d85b-f428-4dac-86d3-0e523b43ea25
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2f691eb3-84fd-4d26-b2c3-71ce2f0b9a38
-  priority: 0
-  slug: bold-monkey-logo-png-logo-0
+  extension: png
+  id: 2020202
+  priority: 100
+  slug: bold-monkey-logo
   type: logo
-offerId: 48b32c45-f366-5ee2-8b70-80e9ab59d866
+offerId: 49af3560-f0da-408f-ad76-c88d016844e9
 price:
   cents: 13900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 309
 slug: bold-monkey-proudly-crowned-panther-vloerlamp
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Bold Monkey Proudly Crowned Panther Vloerlamp

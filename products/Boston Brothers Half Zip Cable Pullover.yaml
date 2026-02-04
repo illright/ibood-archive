@@ -1,22 +1,22 @@
-_id: 6980c064e782a47545f5d5fc
+_id: 6981dea57ef9beef51d4bcf2
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
-classicId: '2982889'
-classicProductId: '662964'
+  - 1456d817-7eda-53b7-b745-42fc4f04875c
+classicId: '2984908'
+classicProductId: '662963'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 73
-end: '2026-02-08T22:59:59.999Z'
+directCheckout: true
+discount: 75
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 017d2f76-a92b-4ec4-9ba4-5e8a3363a85c
+id: 5da2f7ac-c3ab-46e5-b0d8-ac03da681044
 image:
   channels:
     - app
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: boston-brothers-logo
   type: logo
-offerId: 4f1e7f36-24ea-4a87-ab94-514db7403fd9
+offerId: 47565587-44c0-4748-a8c1-e38d6e039823
 price:
-  cents: 2695
+  cents: 2495
   currency: EUR
-  value: 26.95
+  value: 24.95
 referencePrice:
   cents: 9995
   currency: EUR

@@ -1,12 +1,12 @@
-_id: 6978764a0e1724d644f319f5
+_id: 6981be6de270e4113c642d5d
 appOnly: false
 brand: GreenPan
 brands:
   - id: 23b3d7af-a873-5386-8c95-20bb07ea82ad
     name: GreenPan
 categories:
-  - 2c397995-8a9a-5a66-8f5e-1dfee880acda
-classicId: '2969337'
+  - 0b019f1c-d808-58ea-86c4-052f50decda7
+classicId: '2984383'
 classicProductId: '687639'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 7c61d6a1-4da8-43d2-b8fb-d35c0db1aeb2
+id: d3297170-cd74-4344-8832-2a33e913c72e
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: cc000672-001-greenpan-valencia-pro-koekenpannenset-20-26cm-product-1
   type: product
-offerId: 684e589f-46ab-4167-bf6b-88b148b36548
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 29f7a7ae-58c4-485c-a310-feadd9c22d60
+  priority: 0
+  slug: greenpan-logo-101
+  type: logo
+offerId: 32b497b5-b226-471f-adba-d61c33fc78ec
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 109.9
 slug: greenpan-valencia-pro-koekenpannenset-20-26-cm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: 'Greenpan Valencia Pro Koekenpannenset 20 + 26 cm '

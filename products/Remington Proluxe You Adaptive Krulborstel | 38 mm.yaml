@@ -1,12 +1,12 @@
-_id: 696a1029c9b6be1c43158fce
+_id: 6981beb77ef9beef51d4bc39
 appOnly: false
 brand: Remington
 brands:
   - id: b921885b-ae1f-57eb-ad3e-40d8bbb2ecad
     name: Remington
 categories:
-  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
-classicId: '2945931'
+  - c2f713c4-be94-538b-87e1-d8a0c4dcbc85
+classicId: '2984596'
 classicProductId: '687969'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 32f60ff5-9730-5021-b999-45ec75f6466a
+id: d0d15c83-50c7-4e3a-8e27-f0ed0d1bd745
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: cb9800-remington-proluxe-you-adaptive-hot-brush-product-44
   type: product
-offerId: 983b7483-dd3a-5624-a08c-8ec949c3f0e2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1726514
+  priority: 100
+  slug: remington-logo
+  type: logo
+offerId: 5f892dae-d0fc-45e5-9014-6105d56b02dc
 price:
   cents: 5495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 99.99
 slug: remington-proluxe-you-adaptive-krulborstel-38-mm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Remington Proluxe You Adaptive Krulborstel | 38 mm

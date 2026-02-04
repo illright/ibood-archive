@@ -1,12 +1,12 @@
-_id: 6970e0ad7f4c21651c5b89af
+_id: 6981be935a79d52653f26f2a
 appOnly: false
 brand: Cuisinart
 brands:
   - id: 74130ea0-e823-55b1-a10f-12d0c8be0526
     name: Cuisinart
 categories:
-  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
-classicId: '2959579'
+  - c2f713c4-be94-538b-87e1-d8a0c4dcbc85
+classicId: '2984499'
 classicProductId: '689056'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 1e9b369a-5ee0-554b-b005-14f0db44e1b5
+id: fb64902b-ecd3-4bd2-beaf-8edcb4e776ba
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: power-advantage-hand-mixer-product-0
   type: product
-offerId: de6b8f1b-d5e1-533c-82d1-d1fcc2f9c4c1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1945323
+  priority: 100
+  slug: cuisinart-logo
+  type: logo
+offerId: f7a08ea5-5a54-460f-988b-c7a7ea8533f1
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 54.9
 slug: cuisinart-power-advantage-handmixer
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: 'Cuisinart Power Advantage Handmixer '

@@ -1,12 +1,12 @@
-_id: 696761b985daa9e2dfd3396f
+_id: 6981b92bf4a2c4bd2a2e8b85
 appOnly: false
 brand: ZUIVER
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: ZUIVER
 categories:
-  - 9cc11e06-f10e-5a76-a33d-f14e1f7a9813
-classicId: '2939650'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2984192'
 classicProductId: '687553'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 61
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 0d5004d7-998e-5646-a325-b39d977cb99e
+id: 0256f3f2-1ecd-45c7-b49c-f22570f64b41
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1e0d27e2-6102-4a03-a7ed-0fc58f6ee638
-  priority: 0
-  slug: zuiver-logo-png-logo-0
+  extension: png
+  id: 2026182
+  priority: 100
+  slug: zuiver-logo
   type: logo
-offerId: 4b3ae2b2-2c29-5cd9-bb71-dde3f7bf67b0
+offerId: 0b81dd50-0f53-4946-acfe-b880a01e1550
 price:
   cents: 14900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 379
 slug: zuiver-morning-nachtkastje
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Zuiver Morning Nachtkastje

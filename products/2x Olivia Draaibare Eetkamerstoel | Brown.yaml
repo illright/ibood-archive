@@ -1,12 +1,12 @@
-_id: 697876dad3aac4af144a0419
+_id: 6981b8e97ef9beef51d4baff
 appOnly: false
 brand: Criks Design
 brands:
   - id: 4c7735c3-d9e7-52c5-9a21-d0155dad8a6e
     name: Criks Design
 categories:
-  - 76cd8721-beb4-5ca2-bce1-021c00c09526
-classicId: '2969560'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2984018'
 classicProductId: '681068'
 deliveryPrice:
   cents: 1995
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 19.95
 directCheckout: true
 discount: 50
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 58cb622a-b844-4888-b281-4c178fe96db3
+id: c4f6d844-a608-4bdd-a7a8-4a239f2c3682
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b2fb5503-9856-4aa2-8a58-27d9c56a8fee
-  priority: 0
-  slug: criks-design-logo-png-logo-0
+  extension: png
+  id: 1919117
+  priority: 100
+  slug: criks-design-logo
   type: logo
-offerId: 9a1dc08f-c5fb-4881-9e1a-39a5c435ee5b
+offerId: f9472a84-37d3-4d83-905a-fce735431848
 price:
   cents: 24900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 498
 slug: 2x-criks-design-olivia-eetkamerstoel-brown
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: 2x Olivia Draaibare Eetkamerstoel | Brown

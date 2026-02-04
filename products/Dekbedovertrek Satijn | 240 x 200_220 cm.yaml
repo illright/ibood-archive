@@ -1,31 +1,32 @@
-_id: 697250d51e5cd51212801ba1
+_id: 697f7ded812fa4524dfd1f7a
 appOnly: false
 brand: Cinderella
 brands:
   - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
     name: Cinderella
 categories:
-  - 10784595-1852-51d9-9e06-794391142f66
-classicId: '2961373'
-classicProductId: '598764'
+  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
+classicId: '2980026'
+classicProductId: '472541'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 60
-end: '2026-02-03T22:59:59.999Z'
+discount: 55
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 4ffb9d36-1aaf-581f-8794-7b6fd39cb7b0
+id: 0987faae-aa95-5afb-a8c2-63ef035baf6f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2068793
-  priority: 1
-  slug: cinderella-bettwasche-satin-240-x-200220-cm
+    - all
+  extension: image/png
+  id: 00a1f88e-be47-4e6f-a080-6c47e83761e2
+  priority: 0
+  slug: cinderella-55-png-product-1-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: cinderella-logo
   type: logo
-offerId: 3545e836-f8b3-5909-a779-628aea55efb1
+offerId: 18c9fb3c-e6b5-566f-9967-d7a60b691379
 price:
-  cents: 7995
+  cents: 8995
   currency: EUR
-  value: 79.95
+  value: 89.95
 referencePrice:
   cents: 19995
   currency: EUR
   value: 199.95
-slug: cinderella-dekbedovertrek-satijn-240-x-200220
+slug: cinderella-overtrek-satijn-240-x-200220
 soldOut: false
-start: '2026-01-28T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Dekbedovertrek Satijn | 240 x 200/220 cm

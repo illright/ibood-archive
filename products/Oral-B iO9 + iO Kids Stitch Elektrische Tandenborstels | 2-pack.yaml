@@ -1,12 +1,12 @@
-_id: 696a26a18e40b1d23d152eb7
+_id: 6981be989f4c2b468e880b35
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
-classicId: '2947272'
+  - c2f713c4-be94-538b-87e1-d8a0c4dcbc85
+classicId: '2984493'
 classicProductId: '688267'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 54cf70a6-a3a0-59e0-8101-fa639ad49f08
+id: cd4d406c-f72d-4eac-8c57-c7d5c18ee3f1
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: kids2-png-product-1
   type: product
-offerId: 18aeeb80-c9c9-5c53-b9c4-b82a2ede5714
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800052
+  priority: 100
+  slug: oral-b-logo
+  type: logo
+offerId: 1bac4d51-6e08-4d42-a9e9-11b99c926095
 price:
   cents: 19995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 479.98
 slug: oral-b-io9-io-kids-stitch-elektrische-tandenborstels-2-pack
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Oral-B iO9 + iO Kids Stitch Elektrische Tandenborstels | 2-pack

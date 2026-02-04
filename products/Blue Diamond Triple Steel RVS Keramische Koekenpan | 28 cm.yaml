@@ -1,22 +1,22 @@
-_id: 69773e84b6114abaca97381d
+_id: 6981be8e840ae03aba6c5435
 appOnly: false
 brand: GreenPan
 brands:
   - id: 23b3d7af-a873-5386-8c95-20bb07ea82ad
     name: GreenPan
 categories:
-  - 2c397995-8a9a-5a66-8f5e-1dfee880acda
-classicId: '2963738'
+  - 17995251-511d-5dd1-9e9c-2609a302554c
+classicId: '2984482'
 classicProductId: '621727'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 63
-end: '2026-02-03T22:59:59.999Z'
+discount: 69
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 3bb7d90e-e2c6-5aba-99ee-78d841ab9677
+id: 9c3261d1-e60b-4e39-bd55-6eddfb1c5fc8
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: cc003687-001-blue-diamond-3-ply-koekenpan-28cm-product-7
   type: product
-offerId: 6424f584-06ff-5b62-b816-07fb7b5a9b71
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 29f7a7ae-58c4-485c-a310-feadd9c22d60
+  priority: 0
+  slug: greenpan-logo-101
+  type: logo
+offerId: a94bfe7c-de75-4c62-a1d2-eaef2176b4d2
 price:
-  cents: 2995
+  cents: 2495
   currency: EUR
-  value: 29.95
+  value: 24.95
 referencePrice:
   cents: 7990
   currency: EUR
   value: 79.9
 slug: blue-diamond-triple-steel-rvs-keramische-koekenpan-28-cm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Blue Diamond Triple Steel RVS Keramische Koekenpan | 28 cm

@@ -1,12 +1,12 @@
-_id: 697876967963c7c3da00bb3f
+_id: 6981b8c3bd9e534e7ee5076f
 appOnly: false
 brand: Housecraft Living
 brands:
   - id: 41f194b5-2e39-5e2d-bdc8-cc81a9032e72
     name: Housecraft Living
 categories:
-  - 76cd8721-beb4-5ca2-bce1-021c00c09526
-classicId: '2969461'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2983897'
 classicProductId: '681981'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 58
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 03dc4b2d-c5d8-4e9e-b4f9-4640912e00b0
+id: 2d04ff86-cb92-4bbe-a9b3-8e5facbfa6db
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: liny-png-product-1
   type: product
-offerId: 32529956-0047-4c58-9fdf-a264f96bc3be
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ffc39527-c9c2-4771-9080-2fc357416a31
+  priority: 0
+  slug: housecraft-living-logo-0
+  type: logo
+offerId: 08f9449f-180d-4990-9ff8-c9818d3ae6f0
 price:
   cents: 19900
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 478
 slug: 2x-housecraft-living-indy-eetkamerstoel-met-leuning
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: 2x Housecraft Living Indy Eetkamerstoel met Leuning

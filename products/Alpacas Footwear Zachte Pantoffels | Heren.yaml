@@ -1,4 +1,4 @@
-_id: 698076678897b11f13790ac2
+_id: 6980765b8897b11f13790ab4
 appOnly: false
 brand: Alpacas
 brands:
@@ -6,26 +6,29 @@ brands:
     name: Alpacas
 categories:
   - b3ff52da-9f02-599d-879c-ab037860b115
-classicId: '2980564'
-classicProductId: '587688'
+classicId: '2980559'
+classicProductId: '587708'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 55
+discount: 54
 end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 3447aec8-a76a-4477-ad47-fc57d6c7260e
+id: 88eef184-daab-40b6-8378-ef26418d392c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2049401
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 482465fd-cfa7-487e-8de7-8ddfa1559bef-tr
   priority: 0
-  slug: alpacas-footwear-zachte-pantoffels-heren
+  slug: 40-black-67k0301b-alpacas-footwear-men-product-0
   type: product
 logo:
   channels:
@@ -37,15 +40,15 @@ logo:
   priority: 100
   slug: alpacas-logo
   type: logo
-offerId: 7d60d6e3-197d-43b9-bdb8-4f0fbc5e16aa
+offerId: 171b6fcf-093a-4992-9e1c-92fa8e68ab13
 price:
-  cents: 2495
+  cents: 2995
   currency: EUR
-  value: 24.95
+  value: 29.95
 referencePrice:
-  cents: 5495
+  cents: 6495
   currency: EUR
-  value: 54.95
+  value: 64.95
 slug: alpacas-footwear-zachte-pantoffels-heren
 soldOut: false
 start: '2026-02-02T23:00:00.000Z'

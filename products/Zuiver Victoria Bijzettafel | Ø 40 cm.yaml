@@ -1,12 +1,12 @@
-_id: 696761b8809c7dc927f864c2
+_id: 6981b916bd9e534e7ee50835
 appOnly: false
 brand: ZUIVER
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: ZUIVER
 categories:
-  - 9cc11e06-f10e-5a76-a33d-f14e1f7a9813
-classicId: '2939646'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2984143'
 classicProductId: '687552'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 49
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: d81f7b56-4f2b-5385-ae8e-e86689f6e451
+id: c2b89e87-19cb-44fa-8b89-5b17ab825516
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2b9fc78b-6096-4f5b-9920-3ead6a2c916e
-  priority: 0
-  slug: zuiver-logo-png-logo-0
+  extension: png
+  id: 2026182
+  priority: 100
+  slug: zuiver-logo
   type: logo
-offerId: 11a7364b-cffd-5cb2-928c-6d6b6f5ed71f
+offerId: 4b4f6f28-7412-481d-8faa-d1a151eabfb6
 price:
   cents: 16900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 329
 slug: zuiver-victoria-bijzettafel-40-cm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Zuiver Victoria Bijzettafel | Ø 40 cm

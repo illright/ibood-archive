@@ -1,12 +1,12 @@
-_id: 696a26a0c9b6be1c431590be
+_id: 6981beba03f05b201441d284
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - d317a5ea-2d06-58ab-a6d3-12d49f903fda
-classicId: '2947269'
+  - c2f713c4-be94-538b-87e1-d8a0c4dcbc85
+classicId: '2984593'
 classicProductId: '687987'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 36513718-3af5-5617-b044-c65383db1fe2
+id: 5df425eb-dfa7-4305-95b8-d0f24ad42f23
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: io2-series-night-black-forest-green-duo-edition-product-1
   type: product
-offerId: 62f307f9-361f-57e5-82af-da22002ac993
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800052
+  priority: 100
+  slug: oral-b-logo
+  type: logo
+offerId: 81da45dc-e86c-438b-ac11-5236386881a4
 price:
   cents: 5500
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 149.99
 slug: oral-b-io2-duo-edition-zwart-groen-2er-set
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Oral-B iO2 Duo Edition Tandenborstels | Zwart + Groen | 2-delig

@@ -1,12 +1,12 @@
-_id: 69675a9c85daa9e2dfd338fd
+_id: 6981b90a12f474e42f8dbad7
 appOnly: false
 brand: White Label Living
 brands:
   - id: 23da1979-8d63-50e7-ab7f-86c243763f9e
     name: White Label Living
 categories:
-  - b5287cb5-1f00-593b-b67e-cb6f09c940f9
-classicId: '2938946'
+  - 24232f72-e0ab-5604-8645-3b4303cf8751
+classicId: '2984133'
 classicProductId: '482943'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 71
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 102c216d-1b75-54a7-b2a4-74fddc3393b2
+id: 017b1479-696a-4e1a-aa64-8661024d2bef
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8fced92c-b60c-4e7a-b7f6-b4b2acfc205e
-  priority: 0
-  slug: white-label-living-logo-png-logo-0
+  extension: png
+  id: 1684242
+  priority: 100
+  slug: white-label-living-logo
   type: logo
-offerId: eccaaff6-ab2e-5b69-98c4-fed8e1c92a4d
+offerId: 6324bcd4-f187-4641-a381-9afed1fb211c
 price:
   cents: 1695
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 59
 slug: white-label-living-lasse-wandlamp
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: White Label Living Lasse Wandlamp

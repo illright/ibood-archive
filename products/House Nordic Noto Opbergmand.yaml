@@ -1,12 +1,12 @@
-_id: 6960f3fcd8851baf084f2fc0
+_id: 6981b925af67d9eab5b21a2e
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 10e90e77-7cb1-55bb-a1a4-8526d877ec90
-classicId: '2929003'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2984184'
 classicProductId: '684193'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 7128ca46-5d4b-5690-94a2-4999b7ce6209
+id: b18421f8-1c0e-48b0-9e9b-d78954334a33
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 69aaf458-0f9a-40c4-9557-8045206cdc02
-  priority: 0
-  slug: house-nordic-logo-png-logo-0
+  extension: png
+  id: 1644555
+  priority: 100
+  slug: house-nordic-logo
   type: logo
-offerId: 0ba6aa4b-f89a-5493-84f1-273300b3c588
+offerId: f63047a2-a2f6-4c25-8bd4-5090d5e0b592
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 45
 slug: house-nordic-noto-opbergmand
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: House Nordic Noto Opbergmand

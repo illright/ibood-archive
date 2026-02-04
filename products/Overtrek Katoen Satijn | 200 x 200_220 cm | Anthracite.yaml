@@ -1,12 +1,12 @@
-_id: 6978bad82b199b3a9d8b3045
+_id: 6979f0c52b199b3a9d8b345f
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - 1866416e-646f-53cf-9c95-b681bd1093c2
-classicId: '2970778'
+  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
+classicId: '2974924'
 classicProductId: '208882'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 2927c9ae-862c-4e3d-b32d-0e3ecb52bea7
+id: 0b011ec0-40b8-5dac-ac60-0379d967f2e3
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 2271137
+  extension: image/png
+  id: f78b6107-8952-4ead-9ce3-8252bc734155-tr
   priority: 0
-  slug: ten-cate-dbo-satin-200-x-200220-cm
+  slug: ten-cate-dbo-satin-200-x-200220-cm-png-product-2
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: ten-cate-logo
   type: logo
-offerId: 0d932087-4360-48bc-8b30-d81eb5fa074c
+offerId: 46cb1200-5d8e-56bb-aba6-c6cfc1cb2d8e
 price:
   cents: 4495
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 109.95
 slug: ten-cate-overtrek-katoen-satijn-200-x-200-220-cm-anthracite
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Overtrek Katoen Satijn | 200 x 200/220 cm | Anthracite

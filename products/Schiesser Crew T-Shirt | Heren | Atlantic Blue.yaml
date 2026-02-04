@@ -1,12 +1,12 @@
-_id: 6980c2aeb9f58c4cea20c6f8
+_id: 6980ab643999b83aa2778dcc
 appOnly: false
 brand: SCHIESSER
 brands:
   - id: 8db8a07d-6bcb-53d4-bcc3-2210db5e26b0
     name: SCHIESSER
 categories:
-  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
-classicId: '2983378'
+  - af38d330-9edb-58e4-b498-73411656dcac
+classicId: '2981863'
 classicProductId: '664229'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 40
-end: '2026-02-08T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 2a610ac1-c2e9-4354-b90c-fc32b2825f28
+id: b471631f-0349-4c12-95e7-9ab5fa8724a5
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: s-atlantic-blue-182179-899-048-t-shirt-crew-schiesser-product-1
   type: product
-offerId: cfc79c88-ce37-4033-bf8a-5aa20a99e017
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 82036a2d-60ee-4c5d-bb16-aac2741c1468
+  priority: 0
+  slug: schiesser-logo-png-logo-0
+  type: logo
+offerId: ea99ad5e-05cc-4ff0-b1aa-603bf95d139a
 price:
   cents: 1795
   currency: EUR

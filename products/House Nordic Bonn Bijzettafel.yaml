@@ -1,12 +1,12 @@
-_id: 6960f3ffd8851baf084f2fc5
+_id: 6981b908840ae03aba6c5352
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 9cc11e06-f10e-5a76-a33d-f14e1f7a9813
-classicId: '2929004'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2984105'
 classicProductId: '684194'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 65
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: bc9c2d0b-4dc7-5f11-be3d-987893b214fc
+id: c1cabb8f-da2c-472f-b4c8-673d22ef1fea
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 97e97346-4095-4d59-986d-b47ade6a7922
-  priority: 0
-  slug: house-nordic-logo-png-logo-0
+  extension: png
+  id: 1644555
+  priority: 100
+  slug: house-nordic-logo
   type: logo
-offerId: d1ddeb4a-b8b6-53e0-8c4a-02deac11fb28
+offerId: ea27777c-68c9-4cce-9c58-ba156c5830e4
 price:
   cents: 9995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 285
 slug: house-nordic-bonn-bijzettafel
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: House Nordic Bonn Bijzettafel

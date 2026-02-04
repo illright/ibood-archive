@@ -1,32 +1,31 @@
-_id: 6978b9fa6f4c97106ca7f635
+_id: 69821dd87b02f2cf43da17df
 appOnly: false
 brand: Dreamhouse
 brands:
   - id: f603b8a3-86da-5c59-a6ca-bd52f50a1da6
     name: Dreamhouse
 categories:
-  - d6697a02-f068-50ad-b64e-06e7c327abe2
-classicId: '2970621'
-classicProductId: '660141'
+  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
+classicId: '2985863'
+classicProductId: '276137'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 48
-end: '2026-02-03T22:59:59.999Z'
+directCheckout: false
+discount: 62
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 552c0dd1-2e9b-4987-90bd-3b459e089507
+id: 386bbc85-562b-4f88-a9a0-659e3cb08ab6
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 002d036a-6543-43ea-8d1b-733d30a25c1e-tr
+  extension: png
+  id: 1471340
   priority: 0
-  slug: 2x-przescierado-dreamhouse-80-100-x-200220-cm-jpg-product-22
+  slug: 2x-hoeslaken-double-jersey-8090100-x-200220
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: dreamhouse-logo
   type: logo
-offerId: 9beb02ba-dfcd-4620-a473-7f415b74072e
+offerId: cacb3933-449c-4b3c-87fa-d4ec972f0ec5
 price:
-  cents: 2495
+  cents: 2295
   currency: EUR
-  value: 24.95
+  value: 22.95
 referencePrice:
-  cents: 4790
+  cents: 5995
   currency: EUR
-  value: 47.9
+  value: 59.95
 slug: 2x-hoeslaken-double-jersey-8090100-x-200220
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: 2x Dreamhouse Hoeslaken Double Jersey | 80/90/100 x 200/220 cm

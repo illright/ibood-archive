@@ -1,12 +1,12 @@
-_id: 6967624b809c7dc927f864d8
+_id: 6981b94af4a2c4bd2a2e8bb6
 appOnly: false
 brand: White Label Living
 brands:
   - id: 23da1979-8d63-50e7-ab7f-86c243763f9e
     name: White Label Living
 categories:
-  - 10e90e77-7cb1-55bb-a1a4-8526d877ec90
-classicId: '2939671'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2984233'
 classicProductId: '687564'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 42
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 339e2334-96aa-565e-9786-56a86a24c32a
+id: dea1ccef-5947-4002-b7be-4cc6f6c0f3fd
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4dae7c96-2d82-42fe-a68a-a7352d534725
-  priority: 0
-  slug: white-label-living-logo-png-logo-0
+  extension: png
+  id: 1684242
+  priority: 100
+  slug: white-label-living-logo
   type: logo
-offerId: f3a3363e-5560-50f2-ad17-05fd27003de4
+offerId: 36cc5fc7-60fe-4c23-a3d5-ba15dbdd4429
 price:
   cents: 1695
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 29
 slug: white-label-living-ayur-sierkussen-40-cm
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: White Label Living Ayur Sierkussen | 40 cm

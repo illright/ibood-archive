@@ -1,12 +1,12 @@
-_id: 696761ae85daa9e2dfd33961
+_id: 6981b924f4a2c4bd2a2e8b75
 appOnly: false
 brand: Bold Monkey
 brands:
   - id: 882c0ed5-df3e-50fb-9fa3-10ffad274ff7
     name: Bold Monkey
 categories:
-  - 9cc11e06-f10e-5a76-a33d-f14e1f7a9813
-classicId: '2939628'
+  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
+classicId: '2984178'
 classicProductId: '687546'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2026-02-03T22:59:59.999Z'
+end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 76f6c478-3e9a-5271-9247-3f177f7a1e83
+id: 3342dc98-7f72-42e9-88c8-962936f2e929
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b6f54494-807b-41e5-a20c-355e5e9133ae
-  priority: 0
-  slug: bold-monkey-logo-png-logo-0
+  extension: png
+  id: 2020202
+  priority: 100
+  slug: bold-monkey-logo
   type: logo
-offerId: dbc296ae-be39-5709-b977-91bd4792d72e
+offerId: 9cfff1d0-7aa6-444f-81f0-316116bc3e55
 price:
   cents: 12900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 275
 slug: bold-monkey-hactua-bijzettafel
 soldOut: false
-start: '2026-01-27T23:00:00.000Z'
+start: '2026-02-03T23:00:00.000Z'
 title: Bold Monkey Hactua Bijzettafel
