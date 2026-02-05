@@ -1,4 +1,4 @@
-_id: 69775ea42b199b3a9d8b2325
+_id: 69775e022b199b3a9d8b2308
 appOnly: false
 brand: McGregor
 brands:
@@ -6,27 +6,26 @@ brands:
     name: McGregor
 categories:
   - 0bfa4d2b-81c8-5098-8608-8bb11ac30a99
-classicId: '2965394'
-classicProductId: '634611'
+classicId: '2965070'
+classicProductId: '583210'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 61
+directCheckout: true
+discount: 65
 end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 010771a3-e02d-5ca2-8667-81a39944d672
+id: a289ee14-6c89-53f7-84f8-33c085ad7f3d
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6e57a077-a88e-497a-bc81-ad85ba769ed8
+  extension: png
+  id: 2001579
   priority: 0
-  slug: stretch-oxford-shirt-mcgregor-product-2
+  slug: mcgregor-stretch-oxford-overhemd-heren
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: b1326146-3a4f-5822-acbe-56b7c87d21dd
+offerId: 05a9cdf9-9050-5196-952e-b1ca62cc61af
 price:
   cents: 3495
   currency: EUR
   value: 34.95
 referencePrice:
-  cents: 8995
+  cents: 9995
   currency: EUR
-  value: 89.95
-slug: stretch-oxford-shirt-mcgregor
-soldOut: false
+  value: 99.95
+slug: mcgregor-stretch-oxford-overhemd-heren
+soldOut: true
 start: '2026-02-03T23:00:00.000Z'
 title: McGregor Stretch Oxford Overhemd | Heren

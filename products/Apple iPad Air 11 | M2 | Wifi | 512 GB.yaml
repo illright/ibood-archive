@@ -1,12 +1,12 @@
-_id: 6979e6c1d3aac4af144a0ec8
+_id: 698326d858883d6c4909231a
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - ba670216-f354-5488-aeab-1e47a2f08b9a
-classicId: '2973231'
+  - 12788a2a-3971-593f-a7e2-b703fae227cc
+classicId: '2986304'
 classicProductId: '682018'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 41
-end: '2026-02-04T22:59:59.999Z'
+end: '2026-02-11T22:59:59.999Z'
 freeDelivery: false
-id: d6442026-61d9-411a-93b0-f72010d2bbb0
+id: d9bbc4c3-f1fb-4296-af6f-8af3377c7d0f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: ipad-00-png-product-1
   type: product
-offerId: ec922844-5c9d-4215-bafb-70df95767538
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: 5c61d860-d6b4-4e67-8212-99322c1ea305
 price:
   cents: 64900
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 1099
 slug: apple-ipad-air-11-m2-wifi-512-gb
 soldOut: false
-start: '2026-01-28T23:00:00.000Z'
+start: '2026-02-04T23:00:00.000Z'
 title: Apple iPad Air 11 | M2 | Wifi | 512 GB

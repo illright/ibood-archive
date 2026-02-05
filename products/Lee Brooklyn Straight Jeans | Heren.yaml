@@ -1,4 +1,4 @@
-_id: 6980c1b86e1f6cfd64dc737c
+_id: 6980c1ba6c224df2e657440e
 appOnly: false
 brand: Lee Jeans
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Lee Jeans
 categories:
   - b1ff58c7-0221-564e-b9f5-a261a517e7ae
-classicId: '2983161'
-classicProductId: '670559'
+classicId: '2983163'
+classicProductId: '670576'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 70
 end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 5fc6b530-acfc-4c04-a0e5-68982473aff1
+id: 856f70a7-96b5-49eb-a508-4a304d1ebd4b
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5008247c-cce9-4746-9843-dee350d30af9
+  id: a2763ba1-5dcf-4efd-9d41-84c82e208f5c
   priority: 0
-  slug: w32-l32-true-112371078-brooklyn-straight-lee-product-3
+  slug: w31-l32-gabriel-112372640-brooklyn-straight-lee-product-6
   type: product
-offerId: 4e653dc2-545a-41e7-a253-b5c50b12e8e5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1782704
+  priority: 100
+  slug: lee-jeans-logo
+  type: logo
+offerId: 4d1bbda5-1b3c-4664-b824-71c8d380e8f2
 price:
   cents: 2995
   currency: EUR

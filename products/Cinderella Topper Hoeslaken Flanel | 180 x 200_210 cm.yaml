@@ -1,4 +1,4 @@
-_id: 697f7e3c2b199b3a9d8b3c83
+_id: 697f7e38812fa4524dfd1fc0
 appOnly: false
 brand: Cinderella
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Cinderella
 categories:
   - 8fefadaf-65c7-56f8-b4f1-5041d5924601
-classicId: '2980119'
-classicProductId: '193825'
+classicId: '2980118'
+classicProductId: '193821'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,17 +16,16 @@ directCheckout: true
 discount: 60
 end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 06f9a644-774a-54bf-89fd-343737b011ea
+id: 2992d889-1b76-5e7f-8cc2-ba559c0a1d90
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 928d3ab6-0599-45fa-b09b-103101ee73c7
-  priority: 0
-  slug: topper-spannbettlaken-90-x-200210-cm-2-jpg-product-7-png-product-1
+  extension: jpg
+  id: 478372
+  priority: 1
+  slug: topper-hoeslaken-flanel-180-x-200210-cm
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1696595
+  id: 2133384
   priority: 100
-  slug: cinderella-logo
+  slug: topper-hoeslaken-flanel-180-x-200210-cm
   type: logo
-offerId: ff1eb9d1-2ea9-5e80-a0af-2da09f9c1c6b
+offerId: 10c17c92-7391-5724-8586-248e95d7dc4f
 price:
   cents: 3895
   currency: EUR
