@@ -1,4 +1,4 @@
-_id: 697767733f9b42d0ab2fd555
+_id: 69775ddad3aac4af1449fb6d
 appOnly: false
 brand: McGregor
 brands:
@@ -6,8 +6,8 @@ brands:
     name: McGregor
 categories:
   - 0bfa4d2b-81c8-5098-8608-8bb11ac30a99
-classicId: '2965110'
-classicProductId: '689663'
+classicId: '2964986'
+classicProductId: '578107'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,17 +16,16 @@ directCheckout: false
 discount: 65
 end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: aa5de37c-468f-51bc-b0a2-c39a8a3f5e3d
+id: 4eb1c133-19dd-54f7-8df8-a148cec06db6
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 50d0adc6-6cc8-443a-b1c6-d6cb1479d46e
+  extension: png
+  id: 1985952
   priority: 0
-  slug: 1-png-product-1
+  slug: mcgregor-ronde-of-v-hals-pullover
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1765373
+  id: 1985953
   priority: 100
-  slug: mcgregor-logo
+  slug: mcgregor-ronde-of-v-hals-pullover
   type: logo
-offerId: 2392fdb3-c217-5acf-8c7b-69fceed8227d
+offerId: 0ea1c2e7-d708-5706-b84d-bfb8dcaa2bbe
 price:
   cents: 3495
   currency: EUR
@@ -47,7 +46,7 @@ referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
-slug: mcgregor-v-neck-en-c-neck-truien-royal-blue-ice-green-olive
-soldOut: false
+slug: mcgregor-ronde-of-v-hals-pullover
+soldOut: true
 start: '2026-02-03T23:00:00.000Z'
 title: McGregor Ronde- of V-Hals Pullover | Heren

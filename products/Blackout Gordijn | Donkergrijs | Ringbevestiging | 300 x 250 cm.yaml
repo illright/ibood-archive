@@ -1,4 +1,4 @@
-_id: 6979d969edffeee041df25e1
+_id: 6979d91fd3aac4af144a0d69
 appOnly: false
 brand: Larson
 brands:
@@ -6,45 +6,48 @@ brands:
     name: Larson
 categories:
   - d4bc01ea-7c01-58ed-8f70-6f5eec3082c0
-classicId: '2973071'
-classicProductId: '76660'
+classicId: '2972941'
+classicProductId: '56045'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 78
+discount: 71
 end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 43a814ad-cfd4-50ea-89c4-8b06169d4991
+id: 66a99ecc-3a0c-5259-b7f1-784d20f08038
 image:
   channels:
     - app
-  extension: jpg
-  id: 188095
-  priority: 1
-  slug: larson-verdunkelungsvorhang-300-x-250-cm
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ef9f86b5-0767-47e6-951d-3f637a7045da
+  priority: 0
+  slug: larson-verdunkelungsvorhang-300-x-250-cm-5-png-product-18
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 856090
+  extension: png
+  id: 2080102
   priority: 100
-  slug: larson-logo
+  slug: larson-verdunkelungsvorhang-300-x-250-cm
   type: logo
-offerId: 77b835e5-a1e7-50c5-b0b8-503795f8db70
+offerId: 1068efb1-a327-53f9-9890-add421016aa4
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 8995
+  cents: 6995
   currency: EUR
-  value: 89.95
-slug: larson-blackout-gordijn-300-x-250
+  value: 69.95
+slug: larson-blackout-gordijn-donkergrijs-300-x-250-cm
 soldOut: false
 start: '2026-02-03T23:00:00.000Z'
 title: Blackout Gordijn | Donkergrijs | Ringbevestiging | 300 x 250 cm

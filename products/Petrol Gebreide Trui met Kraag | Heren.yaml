@@ -1,4 +1,4 @@
-_id: 6980c2408c3853c049bf3dd1
+_id: 6980c1f83e456b863189743f
 appOnly: false
 brand: Petrol
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Petrol
 categories:
   - b1ff58c7-0221-564e-b9f5-a261a517e7ae
-classicId: '2983268'
-classicProductId: '673916'
+classicId: '2983221'
+classicProductId: '673769'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 57
+discount: 40
 end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: e5ca277f-fba9-425a-8bdb-80c357f45d4d
+id: 5e09f491-1181-433d-a1a3-07654068aad7
 image:
   channels:
     - app
@@ -24,19 +24,29 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: eb46ef2b-9e74-4c50-b0db-2f267965b35a
+  id: 7646da2b-42ad-4a11-ad82-ba4758d09584
   priority: 0
-  slug: pt01-png-product-1
+  slug: petrol-98-png-product-1
   type: product
-offerId: 2e06a1c2-6eb3-4643-85cc-5b801ccca36a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
+  type: logo
+offerId: b2488dc2-f59f-4e89-9794-fd1be1890dd0
 price:
-  cents: 2995
+  cents: 5995
   currency: EUR
-  value: 29.95
+  value: 59.95
 referencePrice:
-  cents: 6999
+  cents: 9999
   currency: EUR
-  value: 69.99
+  value: 99.99
 slug: petrol-gebreide-trui-met-kraag-heren
 soldOut: false
 start: '2026-02-02T23:00:00.000Z'

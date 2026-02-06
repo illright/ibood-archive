@@ -1,22 +1,22 @@
-_id: 6980bf61e782a47545f5d56c
+_id: 6980ab610fcc050d4b65f0cf
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
-classicId: '2982806'
+  - af38d330-9edb-58e4-b498-73411656dcac
+classicId: '2981861'
 classicProductId: '483457'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 83
-end: '2026-02-08T22:59:59.999Z'
+discount: 72
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: af43a325-15f5-487b-bb6f-b0889997b8f4
+id: b6fd7141-63c3-446f-8532-12cf3e0cfe90
 image:
   channels:
     - website
@@ -25,28 +25,29 @@ image:
   extension: jpg
   id: 1401474
   priority: 0
-  slug: 6x-bamboo-essentials-naadloze-bamboe-hipster
+  slug: 6x-naadloze-bamboe-hipster-dames
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1519610
-  priority: 100
-  slug: 6x-bamboo-essentials-naadloze-bamboe-hipster
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
   type: logo
-offerId: 8190a3df-b660-4ab3-8151-c41f1b4a52b7
+offerId: 65496d63-84e0-4209-a659-526b8d284e66
 price:
-  cents: 995
+  cents: 1695
   currency: EUR
-  value: 9.95
+  value: 16.95
 referencePrice:
   cents: 5990
   currency: EUR
   value: 59.9
-slug: 6x-bamboo-essentials-naadloze-bamboe-hipster
-soldOut: true
+slug: 6x-naadloze-bamboe-hipster-dames
+soldOut: false
 start: '2026-02-02T23:00:00.000Z'
 title: 6x Bamboo Essentials Naadloze Bamboe Hipster | Dames

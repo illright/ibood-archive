@@ -1,4 +1,4 @@
-_id: 697a254ad3aac4af144a11f5
+_id: 697a252bd3aac4af144a11db
 appOnly: false
 brand: Multifurn
 brands:
@@ -6,27 +6,29 @@ brands:
     name: Multifurn
 categories:
   - 64767255-7e59-5265-a3a9-45a208a63619
-classicId: '2976823'
-classicProductId: '668956'
+classicId: '2976737'
+classicProductId: '668955'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 68
 end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 5c35bc26-fb72-5773-88d6-b42f92e80eab
+id: 0bc7d558-4534-52c0-806f-7dc0afd110e0
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: c5b1731a-f123-4086-8b9a-ebce6b77d3bc
+  id: 467587ec-6d10-4905-84e3-a7827c3ad43a-tr
   priority: 0
-  slug: mf01-png-product-1
+  slug: mfe-ft01ml-tau-multifurn-fauteuil-lucas-microleder-taupe-product-2
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: ba7af8a1-c619-5889-a76c-b077aad7bd08
+offerId: 25f53dbd-292c-5a11-b660-fce0da15e391
 price:
   cents: 12900
   currency: EUR
