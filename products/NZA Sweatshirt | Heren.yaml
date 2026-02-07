@@ -1,22 +1,22 @@
-_id: 6980c12954f10b96d2c51c52
+_id: 6981dea2fe979b0b4b592bd1
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
-classicId: '2982997'
-classicProductId: '674409'
+  - 1456d817-7eda-53b7-b745-42fc4f04875c
+classicId: '2984906'
+classicProductId: '674414'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-02-08T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 4e0ca091-79f5-4c4c-a887-9823440db670
+id: 7350744c-a773-409a-912c-89e612f7739c
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: s-pale-blue-25ls303-1658-sweat-round-neck-nza-product-0
   type: product
-offerId: c4f27c8d-ac08-42c0-baf9-bf896830e72b
+offerId: a015ffc0-57eb-4211-910d-2dd3d11a91d9
 price:
   cents: 4995
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 99.99
 slug: nza-sweatshirt-heren
-soldOut: false
+soldOut: true
 start: '2026-02-02T23:00:00.000Z'
 title: NZA Sweatshirt | Heren

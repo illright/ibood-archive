@@ -1,4 +1,4 @@
-_id: 697f7e3764a996dda5678a9f
+_id: 697f7e08812fa4524dfd1f8c
 appOnly: false
 brand: Cinderella
 brands:
@@ -6,27 +6,26 @@ brands:
     name: Cinderella
 categories:
   - 8fefadaf-65c7-56f8-b4f1-5041d5924601
-classicId: '2980116'
-classicProductId: '193818'
+classicId: '2980088'
+classicProductId: '608426'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 60
+discount: 63
 end: '2026-02-10T22:59:59.999Z'
 freeDelivery: false
-id: 175f730b-9ead-5a68-9cd6-01ed990dd5cc
+id: bc5f0c68-4e72-5ebc-a968-20fd99afcfe4
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ba7cbf26-8083-4a87-a4f7-cf7e716e5f49
-  priority: 0
-  slug: topper-spannbettlaken-90-x-200210-cm-1-jpg-product-5-png-product-4
+  extension: jpg
+  id: 2133872
+  priority: 100
+  slug: topper-hoeslaken-flanel-160-x-200210-cm
   type: product
 logo:
   channels:
@@ -34,15 +33,15 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1632467
+  id: 2133986
   priority: 100
-  slug: topper-bettlaken-flanell-160-x-200210-cm
+  slug: topper-hoeslaken-flanel-160-x-200210-cm
   type: logo
-offerId: 8f24cc6b-d626-5703-8395-745c48abed32
+offerId: 3d9c68ec-3c66-5da8-9694-f2f4cdcd3ae3
 price:
-  cents: 3695
+  cents: 3395
   currency: EUR
-  value: 36.95
+  value: 33.95
 referencePrice:
   cents: 9295
   currency: EUR
