@@ -1,4 +1,4 @@
-_id: 697b51592b199b3a9d8b3847
+_id: 697b51560192cbe08b6ea564
 appOnly: false
 brand: Exped
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Exped
 categories:
   - 60452020-a27d-51a6-95d0-c1a1bd0163bf
-classicId: '2977205'
-classicProductId: '637103'
+classicId: '2977201'
+classicProductId: '637101'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,27 +16,26 @@ directCheckout: true
 discount: 48
 end: '2026-02-08T22:59:59.999Z'
 freeDelivery: false
-id: 32e71040-ca52-5107-96dc-6e838939073e
+id: 5c312511-7645-5e34-a8d6-c207f230f325
 image:
   channels:
-    - website
     - app
-    - newsletter
+    - website
   extension: jpg
-  id: 2240075
-  priority: 1
+  id: 2240070
+  priority: 0
   slug: exped-serac-35-m-rucksack-35-l
   type: product
-offerId: c2b9089d-76a4-5f49-add8-68bc10c8b078
+offerId: cc7cde97-b3db-584e-bdc0-a2daeb81e161
 price:
-  cents: 11495
+  cents: 10995
   currency: EUR
-  value: 114.95
+  value: 109.95
 referencePrice:
-  cents: 21995
+  cents: 20995
   currency: EUR
-  value: 219.95
+  value: 209.95
 slug: exped-serac-35-m-rugzak-35-l
-soldOut: false
+soldOut: true
 start: '2026-02-03T23:00:00.000Z'
 title: Exped Serac 35 M Rugzak | 35 L
