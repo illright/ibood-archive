@@ -1,22 +1,22 @@
-_id: 6980c0a59c88ad5c77a939ad
+_id: 698067828897b11f13790a3c
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
-classicId: '2982917'
-classicProductId: '664492'
+  - 95731ebd-6ed8-5e05-be28-49b41bb434e1
+classicId: '2980449'
+classicProductId: '664481'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 55
-end: '2026-02-08T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: b08aef0c-126a-44b0-847f-5a63e925c319
+id: b0a5889c-00c3-49e3-b1e4-297dc7deb562
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d13a5419-e815-4199-be7b-70c88b84a2c5
+  id: 952cdbec-7f64-4a08-894e-5ee684b03f3f
   priority: 0
-  slug: cruyff-25-png-product-1
+  slug: cruyff-23-png-product-1
   type: product
-offerId: 6033e56e-0f62-46d8-9f49-048c95d41c21
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a59ab98a-275f-4a29-9be1-c96bf264257a
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: 54fa861a-26eb-493e-83c5-2085814ebf0a
 price:
   cents: 4495
   currency: EUR

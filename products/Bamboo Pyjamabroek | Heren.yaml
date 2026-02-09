@@ -1,22 +1,22 @@
-_id: 6980bf679c88ad5c77a93921
+_id: 6980aaca0fcc050d4b65f045
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - b1ff58c7-0221-564e-b9f5-a261a517e7ae
-classicId: '2982810'
-classicProductId: '462052'
+  - af38d330-9edb-58e4-b498-73411656dcac
+classicId: '2981811'
+classicProductId: '462044'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2026-02-08T22:59:59.999Z'
+end: '2026-02-09T22:59:59.999Z'
 freeDelivery: false
-id: 199380a1-ac0e-49cf-880d-a423d619e26d
+id: cceaaa9e-57e4-4b0a-be5f-3ab6a0ca6a96
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1989030
-  priority: 100
-  slug: bamboo-pyjamabroek-heren
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
   type: logo
-offerId: 4cb02827-b4ff-4ce9-ac6d-30d2793d041f
+offerId: cdf0a911-b6c2-4de1-9c67-b9df2b1f9eea
 price:
   cents: 1995
   currency: EUR
