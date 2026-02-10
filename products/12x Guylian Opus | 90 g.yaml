@@ -1,22 +1,22 @@
-_id: 6980b9e59c88ad5c77a937bf
+_id: 6989a2ed4594ce92f370f40c
 appOnly: false
 brand: GUYLIAN
 brands:
   - id: 14904089-53e6-52f8-b590-cf93d22187ec
     name: GUYLIAN
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2982401'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992405'
 classicProductId: '479032'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 57
-end: '2026-02-09T22:59:59.999Z'
+discount: 59
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 98055325-cc96-4926-94d6-5b68f16e3ec4
+id: 9f47806d-12de-45c6-8f8f-c5a79b622c21
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: bulk-17-png-product-1
   type: product
-offerId: f3344ee6-a167-4937-a435-b72d8d476360
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2896014b-944f-4fae-b7f4-1b9c89c37691
+  priority: 0
+  slug: guylian-logo-0
+  type: logo
+offerId: 49c3513f-9dd5-44de-ab7e-4c22f6ea90aa
 price:
-  cents: 2195
+  cents: 2095
   currency: EUR
-  value: 21.95
+  value: 20.95
 referencePrice:
   cents: 5148
   currency: EUR
   value: 51.48
 slug: 12x-guylian-opus-90-g
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: 12x Guylian Opus | 90 g

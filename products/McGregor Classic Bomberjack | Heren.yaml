@@ -1,31 +1,32 @@
-_id: 69775dcc2b199b3a9d8b22f5
+_id: 6981de4e7ef9beef51d4bcce
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 0bfa4d2b-81c8-5098-8608-8bb11ac30a99
-classicId: '2964971'
-classicProductId: '578043'
+  - d5521e65-ea56-5b17-99ac-35d54277a7a5
+classicId: '2984836'
+classicProductId: '669476'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 55
-end: '2026-02-09T22:59:59.999Z'
+directCheckout: false
+discount: 60
+end: '2026-02-16T22:59:59.000Z'
 freeDelivery: false
-id: 98d8a7f9-4d7a-57e7-b632-bce3b8bbd7cf
+id: 31a98826-d026-42ec-a1a9-7ec38358a6f3
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2129751
+    - all
+  extension: image/png
+  id: 1c26ff4b-09a8-4f84-ac0e-e85081e20758
   priority: 0
-  slug: mcgregor-classic-bomberjack-heren
+  slug: bomber-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 62cf8b05-fdfe-5fdb-8e29-5617bf2d8550
+offerId: 176ad8a2-9954-47c9-a125-f34b9ec33e4e
 price:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 referencePrice:
   cents: 19995
   currency: EUR
   value: 199.95
 slug: mcgregor-classic-bomberjack-heren
-soldOut: true
-start: '2026-02-03T23:00:00.000Z'
+soldOut: false
+start: '2026-02-02T23:00:00.000Z'
 title: McGregor Classic Bomberjack | Heren

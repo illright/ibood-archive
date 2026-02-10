@@ -1,12 +1,12 @@
-_id: 697885d40e1724d644f31ec2
+_id: 6989a507d3cd6ccbc94fab74
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 0bfa4d2b-81c8-5098-8608-8bb11ac30a99
-classicId: '2970149'
+  - 6c5041ff-e29e-55e7-8352-a3d06ed17fcf
+classicId: '2992984'
 classicProductId: '689653'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 27ed2a27-74c1-557f-91f8-555710ed4d8e
+id: dd907f38-2b4c-4c85-afa5-a346382e72ba
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xxl-navy-2100-mm251-1004-01-rain-coat-mcgregor-product-0
   type: product
-offerId: 4fe1b273-d9b3-559f-a53b-5e91972939e6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: a36b61bb-69a8-415a-a494-65efb6865ef4
 price:
   cents: 11995
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 279.95
 slug: mcgregor-rain-coat-heren
-soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+soldOut: true
+start: '2026-02-09T23:00:00.000Z'
 title: McGregor Rain Coat | Heren

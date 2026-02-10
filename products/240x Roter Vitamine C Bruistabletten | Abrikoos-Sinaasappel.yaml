@@ -1,22 +1,22 @@
-_id: 6980bc69ec8b7f7f4addc530
+_id: 6989a3e6e980f53813e0a112
 appOnly: false
 brand: Roter
 brands:
   - id: 09c2086f-e087-5f14-b47d-ff7a942efeac
     name: Roter
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2982684'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992654'
 classicProductId: '680298'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 72
-end: '2026-02-09T22:59:59.999Z'
+discount: 74
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 028e9c1c-e6d6-4b3b-a0ca-c7f7e2f12c7c
+id: 2122dd6f-787e-48ab-a343-7fab6bafbde8
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: abrikoos-sinaasappel-png-product-0
   type: product
-offerId: 5d2d87bc-69ff-44b7-aaac-4b0ac5cec90e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a50f1a7b-b309-41ec-bee8-981144fe0fcf
+  priority: 0
+  slug: roter-logo-0
+  type: logo
+offerId: 00047d64-e43a-490e-b418-b4bc36f006fd
 price:
-  cents: 2195
+  cents: 1995
   currency: EUR
-  value: 21.95
+  value: 19.95
 referencePrice:
   cents: 7794
   currency: EUR
   value: 77.94
 slug: 240x-roter-vitamine-c-bruistabletten-abrikoos-sinaasappel
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: 240x Roter Vitamine C Bruistabletten | Abrikoos-Sinaasappel

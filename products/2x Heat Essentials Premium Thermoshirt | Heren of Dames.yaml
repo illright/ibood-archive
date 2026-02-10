@@ -1,22 +1,22 @@
-_id: 69809b5fe1809bffba513ea7
+_id: 6989a513db1cc4cb5069642f
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 712095c9-4f55-5f55-a6c7-082696e66eea
-classicId: '2981687'
-classicProductId: '598798'
+  - 6c5041ff-e29e-55e7-8352-a3d06ed17fcf
+classicId: '2992998'
+classicProductId: '598802'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 81
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: f46cfae1-c34c-41e1-b5cc-08248b4b119d
+id: 5690b34a-ac68-4307-805e-9aeab00fb3b5
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1643383
+  id: 1643389
   priority: 100
-  slug: 2x-heat-essentials-premium-thermoshirt
+  slug: heat-essentials-logo
   type: logo
-offerId: ef49b538-4ea0-4a93-9f9d-5735cf104e7f
+offerId: d97f67cc-36f2-4d62-894a-98bdefef3eee
 price:
   cents: 1495
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 79.9
 slug: 2x-heat-essentials-premium-thermoshirt
-soldOut: true
-start: '2026-02-02T23:00:00.000Z'
+soldOut: false
+start: '2026-02-09T23:00:00.000Z'
 title: 2x Heat Essentials Premium Thermoshirt | Heren of Dames

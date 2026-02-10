@@ -1,12 +1,12 @@
-_id: 69809b29e1809bffba513e66
+_id: 6989a508e980f53813e0a20c
 appOnly: false
 brand: Bergans
 brands:
   - id: c379cb8a-8f0e-5721-bd5e-99efa22b1de9
     name: Bergans
 categories:
-  - 712095c9-4f55-5f55-a6c7-082696e66eea
-classicId: '2981660'
+  - 6c5041ff-e29e-55e7-8352-a3d06ed17fcf
+classicId: '2992982'
 classicProductId: '611665'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: e9c8bcef-3734-4f0c-9a80-db9477728d11
+id: 960d622f-e79b-410c-95a9-2bebaedfdd15
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2128314
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 63cdbda5-8423-490f-b1ab-6b9ce08a710b-tr
   priority: 0
-  slug: bergans-oppal-insulated-pants-dames
+  slug: bergans-oppdal-skihose-damen-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: bergans-logo
   type: logo
-offerId: 8b2fab9f-26a4-429c-9dcf-df2bf3a77744
+offerId: b7b67907-c929-4693-8316-e03c37233bd4
 price:
   cents: 8000
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 250
 slug: bergans-oppal-insulated-pants-dames
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Bergans Oppal Insulated Pants | Dames

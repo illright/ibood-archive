@@ -1,12 +1,12 @@
-_id: 698089efe1809bffba513bed
+_id: 6989a4f7db1cc4cb506963fe
 appOnly: false
 brand: Columbia
 brands:
   - id: 5f0ce9cd-63f2-5848-80c4-5da01f910498
     name: Columbia
 categories:
-  - 7ad70701-2893-5600-8417-008d613c050b
-classicId: '2981266'
+  - 1b6399dd-cabb-579a-ac4b-959f33087015
+classicId: '2992936'
 classicProductId: '686583'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 57
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: eb1d4cf4-cbed-4a0b-9b37-72acd5297ee2
+id: b0fcb606-7db3-444b-af09-1f2468c6c16d
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: cfbac7ef-688b-41a1-ad0e-fbf2d404e98a
-  priority: 0
-  slug: columbia-png-logo-0
+  extension: png
+  id: 1921819
+  priority: 100
+  slug: columbia-logo
   type: logo
-offerId: 6b29a013-0e6a-4122-bf46-3ec0c6bc3d0d
+offerId: 836515cb-9787-4290-9e2c-899937162c66
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 140
 slug: columbia-puffect-ii-pufferjack-dames
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Columbia Puffect II Pufferjack | Dames

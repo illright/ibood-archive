@@ -1,12 +1,12 @@
-_id: 6980ba2d9c88ad5c77a93834
+_id: 6989a328db1cc4cb50695fde
 appOnly: false
 brand: Jordan
 brands:
   - id: 0b34fdd4-d18e-5d9e-ac2f-4febcdeada0d
     name: Jordan
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2982463'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992469'
 classicProductId: '686845'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: b9274441-c647-44fb-8623-7cf49c0e2eda
+id: 582b158c-1ea8-4b81-b29d-909bdcb117d6
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4ab9c367-226e-451f-a0ab-ba3c4534846e
-  priority: 0
-  slug: jordan-png-logo-0
+  extension: png
+  id: 1744320
+  priority: 100
+  slug: jordan-logo
   type: logo
-offerId: d0e9ff4f-e406-41c6-a6e0-0f6328536994
+offerId: a8b25ae1-0372-4453-8ca7-50fecf0bfa2d
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 59.88
 slug: 24x-jordan-tandenborstel-individual-reach-medium
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: 24x Jordan Tandenborstel Individual Reach | Medium

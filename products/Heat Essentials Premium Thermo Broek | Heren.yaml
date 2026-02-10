@@ -1,30 +1,32 @@
-_id: 69809b680192cbe08b6eab6b
+_id: 6989a538db1cc4cb50696454
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 712095c9-4f55-5f55-a6c7-082696e66eea
-classicId: '2981693'
-classicProductId: '487284'
+  - 6c5041ff-e29e-55e7-8352-a3d06ed17fcf
+classicId: '2993017'
+classicProductId: '487281'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 63
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 7f6f0a35-4bd3-4853-a3d3-73d1a59f93b9
+id: 03dfae4f-f7ea-4e04-9c34-b0182d415cfd
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 40820ff7-38fc-4990-b070-f02818047dbc
+    - app
+    - website
+  extension: image/png
+  id: 40820ff7-38fc-4990-b070-f02818047dbc-tr
   priority: 0
   slug: heat-essentials-thermohose-herren-jpg-product-2
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: heat-essentials-logo
   type: logo
-offerId: 34ffde37-6947-458b-9824-026b86dd20c0
+offerId: cfabb227-6546-477d-94d2-141bfdfe4645
 price:
   cents: 1495
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 39.95
 slug: heat-essentials-premium-thermo-broek-heren
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Heat Essentials Premium Thermo Broek | Heren

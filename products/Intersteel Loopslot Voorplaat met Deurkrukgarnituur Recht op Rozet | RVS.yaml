@@ -1,12 +1,12 @@
-_id: 69807f448cb25179af264b44
+_id: 6989bc44183373bcbc3c5499
 appOnly: false
 brand: Intersteel
 brands:
   - id: cfeec5ba-10f1-568a-996a-c5c03cc96456
     name: Intersteel
 categories:
-  - 4aae2d36-c9c1-5db6-87f7-1eb82b831ce9
-classicId: '2981032'
+  - bb6fd7b0-b70b-5f95-8464-b12fb9bebf08
+classicId: '2994656'
 classicProductId: '683758'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 32
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: bbe36b36-1d0b-4b53-87a7-31b229c7f806
+id: a95f814b-a2a4-47f8-b0bf-953cc281c5fd
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: set-bestaand-uit-loopslot-voorplaat-wit-met-deurkrukgarnituur-recht-op-rozet-rvs-product-1
   type: product
-offerId: cbc879a6-ede6-4fcf-9fb2-87f71b137ddb
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: bef9f8a1-0cf2-48f4-99d8-cad691204a65
+  priority: 1
+  slug: intersteel-logo-1
+  type: logo
+offerId: 2e7402eb-db85-44e2-bbec-2f90a6193382
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 26.55
 slug: intersteel-loopslot-voorplaat-met-deurkrukgarnituur-recht-op-rozet-rvs
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Intersteel Loopslot Voorplaat met Deurkrukgarnituur Recht op Rozet | RVS

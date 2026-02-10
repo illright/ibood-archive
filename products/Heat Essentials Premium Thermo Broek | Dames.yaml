@@ -1,12 +1,12 @@
-_id: 69809b2ce1809bffba513e6e
+_id: 6989a53edb1cc4cb50696459
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 712095c9-4f55-5f55-a6c7-082696e66eea
-classicId: '2981661'
+  - 6c5041ff-e29e-55e7-8352-a3d06ed17fcf
+classicId: '2993019'
 classicProductId: '487289'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 63
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 7c499d08-b39a-465f-90da-0a62442d2bf3
+id: ca2dbe5f-ce6b-43ce-9c5b-28fc3c5004b4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1642034
-  priority: 100
-  slug: heat-essentials-premium-thermo-broek-dames
+    - all
+  extension: image/png
+  id: 6ec0b84e-716e-424a-acc1-e822e177866c-tr
+  priority: 0
+  slug: heat-essentials-thermohose-damen-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: heat-essentials-logo
   type: logo
-offerId: d93ca51c-0932-4e56-bd59-b74ed937d94f
+offerId: 57e508b6-66b3-481a-a49c-e093225a2003
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 39.95
 slug: heat-essentials-premium-thermo-broek-dames
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Heat Essentials Premium Thermo Broek | Dames

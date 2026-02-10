@@ -1,0 +1,53 @@
+_id: 6989d983e980f53813e0a64f
+appOnly: false
+brand: Michaelis
+brands:
+  - id: 2d2a09a5-7d0f-535a-8a8f-db955f1c6162
+    name: Michaelis
+categories:
+  - 399d92b5-56c3-5ab9-9206-fde1881b12b3
+classicId: '2996691'
+classicProductId: '661601'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 66
+end: '2026-02-15T22:59:59.999Z'
+freeDelivery: false
+id: e6db2818-4605-4f85-aac4-79f671f42265
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ce370023-15b5-42c9-bfae-4ff47388cc6b
+  priority: 0
+  slug: main-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1685056
+  priority: 100
+  slug: michaelis-logo
+  type: logo
+offerId: 8279b236-2a15-415e-a04f-b954299b3cee
+price:
+  cents: 2345
+  currency: EUR
+  value: 23.45
+referencePrice:
+  cents: 6995
+  currency: EUR
+  value: 69.95
+slug: michaelis-half-zip-pullover
+soldOut: false
+start: '2026-02-08T23:00:00.000Z'
+title: Michaelis Half Zip Pullover | Heren

@@ -1,12 +1,12 @@
-_id: 6981aed5bd9e534e7ee50677
+_id: 6989a41f71cddd349ffc65ee
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2983760'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992722'
 classicProductId: '688771'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: ca44568f-af56-590a-a7fe-d42f1893e943
+id: dd24f08d-a73d-45de-bd79-f5cab2439446
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: ariel-washing-liquid-color-4-5l-90sc-product-0
   type: product
-offerId: 69e6b557-cd83-5ba5-ac83-67f496c864c0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
+  type: logo
+offerId: 4fb97cc4-ce3f-4d5b-87c5-b48b38adf3d4
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 63.5
 slug: ariel-voeibaar-wasmiddel-color-4-5-l-90sc
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Ariel Voeibaar Wasmiddel Color | 4,5 L | 90sc

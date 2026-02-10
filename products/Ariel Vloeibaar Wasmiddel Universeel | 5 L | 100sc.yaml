@@ -1,12 +1,12 @@
-_id: 6981ae6d959006b0cdd1ec71
+_id: 6989a404db1cc4cb5069626d
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2983758'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992687'
 classicProductId: '688770'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 505a8a0e-2781-5975-9618-6efe144a70d9
+id: 5f4a149a-0199-425e-a2b7-b1a9fd96f8b4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e11674a7-5244-40fa-a645-bb5bf23cc8c6
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: 8e230351-c9d2-5035-a25c-a780efb405f0
+offerId: fc8a5ed1-d188-47a1-9b6f-04e9c198dcb3
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 66.5
 slug: ariel-vloeibaar-wasmiddel-universeel-5-l-100sc
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Ariel Vloeibaar Wasmiddel Universeel | 5 L | 100sc

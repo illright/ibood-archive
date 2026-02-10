@@ -1,12 +1,12 @@
-_id: 6980bc60ec8b7f7f4addc510
+_id: 6989a3e0db1cc4cb506961c9
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2982676'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992648'
 classicProductId: '675378'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 79
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 176b72bd-41d4-4303-850b-d7e42c3efd74
+id: 68573457-632a-47f1-a2af-fa2824101ddf
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1536012
-  priority: 100
-  slug: robijn-logo
+    - all
+  extension: image/png
+  id: 4ca793ec-b715-49ef-af7d-7dcfe08bfb7f
+  priority: 0
+  slug: robijn-png-logo-0
   type: logo
-offerId: 1301509b-11e1-446a-a3f1-1de9ebe8ce35
+offerId: e7df296f-786c-44d6-a8ee-6f03a7520f56
 price:
   cents: 2295
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 109
 slug: 4x-robijn-klein-krachtig-wasmiddel-black-velvet-1-19-l
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: 4x Robijn Klein & Krachtig Wasmiddel Black Velvet | 1,19 L (156sc)

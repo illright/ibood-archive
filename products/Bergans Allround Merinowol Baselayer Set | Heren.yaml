@@ -1,12 +1,12 @@
-_id: 69809b2d8897b11f13790edd
+_id: 6989a5056e58c6f518cc92fc
 appOnly: false
 brand: Bergans
 brands:
   - id: c379cb8a-8f0e-5721-bd5e-99efa22b1de9
     name: Bergans
 categories:
-  - 712095c9-4f55-5f55-a6c7-082696e66eea
-classicId: '2981663'
+  - 6c5041ff-e29e-55e7-8352-a3d06ed17fcf
+classicId: '2992985'
 classicProductId: '659623'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 35
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: fc62999c-d617-40bf-b046-d6ca68cbf248
+id: bd8d6e28-ff5f-472d-ac0e-e3e4296133f8
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 0b5d5cd4-9004-4925-9f8e-f29acbda773d
+    - website
+    - app
+  extension: image/png
+  id: 55914843-da81-4748-82ee-ef9959023372-tr
   priority: 0
-  slug: l-black-3450-91-allround-merino-baselayer-set-men-bergans-product-0
+  slug: l-black-3450-91-allround-merino-baselayer-set-men-bergans-product-0-jpeg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: bergans-logo
   type: logo
-offerId: 117591b9-f97a-45bd-a42a-ecb7afabf900
+offerId: b80c0743-f902-42da-b995-323e60d5d9c3
 price:
   cents: 8495
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 129.95
 slug: bergans-allround-merinowol-baselayer-set-heren
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Bergans Allround Merinowol Baselayer Set | Heren

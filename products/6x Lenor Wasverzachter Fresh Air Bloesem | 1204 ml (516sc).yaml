@@ -1,12 +1,12 @@
-_id: 6980ba4b775e6b5026f0122a
+_id: 6989a1f04594ce92f370f264
 appOnly: false
 brand: Lenor
 brands:
   - id: e07bbf59-7c5e-502f-acab-fa2bb6bdfa34
     name: Lenor
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2982496'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992114'
 classicProductId: '684822'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 71
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 7e96f9d9-f8e0-4d20-b477-4a9a0a4e40b8
+id: 595b3575-573a-431f-8fda-3e64ee5d9a54
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fcbf515f-6190-49fd-833e-8ce84f418e59
-  priority: 0
-  slug: lenor-png-logo-0
+  extension: png
+  id: 1526341
+  priority: 100
+  slug: lenor-logo
   type: logo
-offerId: 239eba22-67e8-4c2e-8a95-3e116be9b0fb
+offerId: 48770296-f413-40d3-9a11-656f9ac7d3c1
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119.94
 slug: 6x-lenor-wasverzachter-fresh-air-bloesem-1204-ml
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: 6x Lenor Wasverzachter Fresh Air Bloesem | 1204 ml (516sc)

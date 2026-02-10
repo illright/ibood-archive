@@ -1,22 +1,22 @@
-_id: 69807f20e1809bffba513a30
+_id: 6989bc2edb1cc4cb50696733
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - 4aae2d36-c9c1-5db6-87f7-1eb82b831ce9
-classicId: '2980995'
-classicProductId: '469999'
+  - bb6fd7b0-b70b-5f95-8464-b12fb9bebf08
+classicId: '2994633'
+classicProductId: '470004'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 45
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: b1214fc9-c3b9-41cd-843d-9a4147112d69
+id: ab6ee955-64e3-4d48-8b93-7360489ba3f7
 image:
   channels:
     - website
@@ -25,7 +25,7 @@ image:
   extension: png
   id: 1590922
   priority: 0
-  slug: lahti-pro-3-in-1-winterjacke
+  slug: lahti-pro-3-in-1-winterjas-met-afneembare-voering
   type: product
 logo:
   channels:
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1591115
+  id: 1591171
   priority: 100
-  slug: lahti-pro-3-in-1-winterjacke
+  slug: lahti-pro-logo
   type: logo
-offerId: de658e67-ada1-4161-92c1-5c782a9c0912
+offerId: d0fc5a7c-11c6-4b8a-853c-2dce5c59c6e1
 price:
   cents: 5495
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 99.9
 slug: lahti-pro-3-in-1-winterjas-met-afneembare-voering
-soldOut: true
-start: '2026-02-02T23:00:00.000Z'
+soldOut: false
+start: '2026-02-09T23:00:00.000Z'
 title: Lahti Pro 3-in-1 Winterjas met Afneembare Voering

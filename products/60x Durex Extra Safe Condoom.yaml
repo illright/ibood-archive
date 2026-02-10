@@ -1,52 +1,50 @@
-_id: 6983210758883d6c490921f6
+_id: 6989a29ee980f53813e0a0c5
 appOnly: false
 brand: Durex
 brands:
   - id: 79c1c5f4-3b42-53c6-8c2a-f7e8e1947023
     name: Durex
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2986177'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992313'
 classicProductId: '162475'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
-end: '2026-02-09T22:59:59.999Z'
+discount: 63
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 6bc0410f-9c3d-4fb5-85d7-59957acd47e5
+id: e217d224-1d81-453a-9214-b8a18bb1714e
 image:
   channels:
-    - website
     - app
-    - newsletter
-  extension: png
-  id: 1774705
-  priority: 0
-  slug: 60x-durex-extra-safe-kondome
+  extension: jpg
+  id: 401771
+  priority: 1
+  slug: 60x-durex-extra-safe-condoom
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1699168
+  extension: jpg
+  id: 400202
   priority: 100
-  slug: durex-logo
+  slug: 60x-durex-extra-safe-condoom
   type: logo
-offerId: 4951c1c4-e928-4e41-a8ff-b69de8094d45
+offerId: 61a818c3-a9c1-485d-8b87-51d6bad146bd
 price:
-  cents: 2295
+  cents: 2195
   currency: EUR
-  value: 22.95
+  value: 21.95
 referencePrice:
   cents: 5997
   currency: EUR
   value: 59.97
 slug: 60x-durex-extra-safe-condoom
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: 60x Durex Extra Safe Condoom

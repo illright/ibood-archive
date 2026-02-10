@@ -1,12 +1,12 @@
-_id: 6979ca7d3a6f0e95852b2b35
+_id: 6989a47b6e58c6f518cc927a
 appOnly: false
 brand: Weleda
 brands:
   - id: 4f33b879-d034-5389-8ae7-d4be340b01fa
     name: Weleda
 categories:
-  - 5d2923f9-23ce-5466-a166-a83e3226d6e6
-classicId: '2971969'
+  - e420cc63-c3db-56d6-9fcd-2f574781102a
+classicId: '2992866'
 classicProductId: '560367'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 553a47be-34ce-57a6-bf25-540c62f89635
+id: 4db28faa-bd9f-4a95-88b7-7e5f663257a4
 image:
   channels:
-    - newsletter
     - app
     - website
-  extension: png
-  id: 1908853
+    - newsletter
+    - all
+  extension: image/png
+  id: 8e5c1c8d-dd58-4a7a-92e6-c510a6d11bed
   priority: 0
-  slug: 6x-weleda-3-in-1-energy-fresh-duschgel-200-ml
+  slug: weleda-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 0
   slug: weleda-logo-0
   type: logo
-offerId: 92b01043-d690-5c1c-91eb-129ef81a1901
+offerId: 020c4b51-5506-4d2b-a2cb-bc3d246dd71c
 price:
   cents: 2295
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 41.94
 slug: x-weleda-men-3in1-energy-fresh-shower-gel-200-ml
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: 6x Weleda Men 3-in-1 Energy Fresh Shower Gel | 200 ml

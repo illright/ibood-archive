@@ -1,12 +1,12 @@
-_id: 69807e9d8897b11f13790bb0
+_id: 6989bbacbb32ca32d24c3c4a
 appOnly: false
 brand: Differnz
 brands:
   - id: e817bc14-1a54-59e0-9960-441393440a8d
     name: Differnz
 categories:
-  - 4aae2d36-c9c1-5db6-87f7-1eb82b831ce9
-classicId: '2980860'
+  - bb6fd7b0-b70b-5f95-8464-b12fb9bebf08
+classicId: '2994508'
 classicProductId: '686460'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 58
-end: '2026-02-09T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: cc981ec6-7db7-4367-a1bf-74c99b9d75e7
+id: 7a86f2e9-e38a-4b8d-8cf2-d05f253bbbdd
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: differnz-hator-fonteinset-37-5-x-18-5-x-9-cm-mat-zwart-product-4
   type: product
-offerId: e8865f60-7f80-4ee0-8a96-99a2e34cf218
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 28a36383-b7c2-487e-a974-716bb73281aa
+  priority: 0
+  slug: differnz-logo-0
+  type: logo
+offerId: 9b608626-c97d-4e61-84bc-13607be1ed7d
 price:
   cents: 6995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 164.95
 slug: differnz-hator-fonteinset-375-x-185-x-9
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Differnz Hator Fonteinset | 37,5 x 18,5 x 9 cm
