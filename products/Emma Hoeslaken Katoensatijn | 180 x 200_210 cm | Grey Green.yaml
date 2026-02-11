@@ -1,12 +1,12 @@
-_id: 6972270674569879141f3e84
+_id: 698b2a65a5ffcabf666e3f0f
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
-classicId: '2961246'
+  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
+classicId: '2999726'
 classicProductId: '689194'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: c6f0d292-a8d6-59bb-980a-69f859004af6
+id: a62db535-2774-4945-a16d-44026d540252
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 731445a1-a6bc-42e5-8c58-5cdb63816f92
-  priority: 0
-  slug: kayori-emma-bettwasche-140-x-200220-cm-png-logo-0
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
   type: logo
-offerId: 39886ae0-77f8-5941-bc33-6870d5c3968f
+offerId: 6c25391e-ab07-4853-bc6d-9ab541a00821
 price:
   cents: 3295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 66.95
 slug: kayori-emma-hoeslaken-katoensatijn-180-x-200-210-cm-grey-green
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Emma Hoeslaken Katoensatijn | 180 x 200/210 cm | Grey Green

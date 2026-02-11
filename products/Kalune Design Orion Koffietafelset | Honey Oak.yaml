@@ -1,12 +1,12 @@
-_id: 6981b909f4a2c4bd2a2e8b3a
+_id: 698afd13dcd927cea775db6f
 appOnly: false
 brand: Kalune
 brands:
   - id: f9525695-6bac-5e68-bd8d-234ccd8524a9
     name: Kalune
 categories:
-  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
-classicId: '2984122'
+  - a79a9aed-d370-5910-ad80-0bed481270de
+classicId: '2998867'
 classicProductId: '613788'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 6ef0eb40-12f1-4382-8b00-597c160bffc3
+id: 03bf23c7-5842-43f9-87fb-49aa98e698d9
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3f805d78-b975-4129-98ae-4eaa1d6d82d6-tr
-  priority: 0
-  slug: kalune-design-orion-koffietafelset-honey-oak-jpg-product-101
+  extension: jpg
+  id: 2239472
+  priority: 100
+  slug: kalune-design-orion-koffietafelset-honey-oak
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: kalune-logo
   type: logo
-offerId: 9ca75428-bc49-4861-a098-8ed4350ffa80
+offerId: 5a4ac659-9513-43f8-bd32-4bd151a05bc6
 price:
   cents: 10900
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 229.95
 slug: kalune-design-orion-koffietafelset-honey-oak
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Kalune Design Orion Koffietafelset | Honey Oak

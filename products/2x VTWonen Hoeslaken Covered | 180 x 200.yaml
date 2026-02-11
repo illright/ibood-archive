@@ -1,12 +1,12 @@
-_id: 69821e11a60e3bb09a161334
+_id: 698b29afe980f53813e0afb6
 appOnly: false
 brand: VT WONEN
 brands:
   - id: 779c3a3e-a55a-58a7-83aa-2b81b3802c35
     name: VT WONEN
 categories:
-  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
-classicId: '2985924'
+  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
+classicId: '2999507'
 classicProductId: '686434'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 5ce23890-d25c-4a1c-a064-320ba81fdc36
+id: 267a5304-dd89-4f91-85ca-0577c696ac2c
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: dc4d712b-24f3-4c14-a727-46b610911195
+  id: f0e04cbe-c877-4539-b314-0371689850a9
   priority: 0
-  slug: vt-wonen-28-png-product-0
+  slug: vt-wonen-91-png-product-2
   type: product
-offerId: 544a14fd-28ec-479d-978d-16e5b9d5057f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c3fae605-4f75-40ef-a05d-aba5b8b2f3b0
+  priority: 0
+  slug: vt-wonen-png-logo-0
+  type: logo
+offerId: b9d7be8b-011d-4149-96d9-a978796785bb
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 90.9
 slug: 2x-vtwonen-hoeslaken-covered-180x200
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: 2x VTWonen Hoeslaken Covered | 180 x 200

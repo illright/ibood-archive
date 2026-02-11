@@ -1,12 +1,12 @@
-_id: 6981ace97ef9beef51d4b937
+_id: 698aed8ddb1cc4cb50697230
 appOnly: false
 brand: Clementoni
 brands:
   - id: 3b8b575e-8775-54a2-b528-eb715456423c
     name: Clementoni
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983658'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997759'
 classicProductId: '678411'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: bd53e50e-6484-4c31-845b-d6b773addd23
+id: 98e7370d-bc92-4e88-8790-81260fc6378a
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: clementoni-12086-mickey-code-my-race-product-0
   type: product
-offerId: 89614682-b952-481a-a76c-09e0205d2729
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 66627dae-a4be-4c27-9578-8ba5ec2a8408
+  priority: 0
+  slug: clementoni-logo-0
+  type: logo
+offerId: 8c4d42b9-4331-4ae3-97fa-02f2d477c700
 price:
   cents: 1695
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 39.9
 slug: clementoni-mickey-code-mijn-race
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Clementoni Mickey Code My Race

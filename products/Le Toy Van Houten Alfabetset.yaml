@@ -1,12 +1,12 @@
-_id: 6981ad0a7ef9beef51d4b979
+_id: 698aedb9db1cc4cb5069730b
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983699'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997817'
 classicProductId: '684371'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 005e4555-a3bb-42ac-beb9-b9a9d55453da
+id: 19d07cf4-01c4-4adb-89ea-4103cb83ebfe
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 410pl143-ltv-wooden-alphabet-set-en-bag-fsc-100-product-2
   type: product
-offerId: 19f1853c-ed82-44ca-a051-7f403a7250d9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: f7c133b6-9450-40a8-b0a7-d3d57c5f750f
 price:
   cents: 1695
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 29.99
 slug: le-toy-van-houten-alfabetset
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Houten Alfabetset

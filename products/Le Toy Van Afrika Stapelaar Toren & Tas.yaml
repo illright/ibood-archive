@@ -1,12 +1,12 @@
-_id: 6981ad03959006b0cdd1ec0e
+_id: 698aeda5daf8f6172f8b908d
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983684'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997795'
 classicProductId: '628802'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 0e27ff5b-ec6b-4673-ad00-952753ba6cee
+id: aaa585c4-99d6-4617-bfe1-e4e9944b39ec
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: le-toy-van-ltv-afrika-stapelturm-tasche-jpg-product-101
   type: product
-offerId: b8369796-f07a-467b-b2f7-0161ac0f4f96
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: f36257ba-9065-4b3b-bf21-a7d53748e288
 price:
   cents: 895
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 16.99
 slug: le-toy-van-afrika-stapelaar-toren-tas
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Afrika Stapelaar Toren & Tas

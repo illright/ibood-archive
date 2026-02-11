@@ -1,12 +1,12 @@
-_id: 6981f0327ef9beef51d4be5c
+_id: 698b29431a546f8039e77b76
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 78a522a7-59a5-5f4e-bd30-88c18b803c32
-classicId: '2985191'
+  - d59856fb-37b0-5e56-bf4b-16c90315da38
+classicId: '2999333'
 classicProductId: '656283'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: ba43c21e-dbd8-486b-a25c-c771ff20f98d
+id: 893306c6-982e-4f98-b911-6bc056603259
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: bc306461-44e1-4612-8a32-284f8e018507
+offerId: d605c5ec-ed69-43b2-b200-b57e787f873f
 price:
   cents: 1995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 54.5
 slug: karlsson-pure-bold-wandklok-30-cm
-soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+soldOut: true
+start: '2026-02-10T23:00:00.000Z'
 title: Karlsson Pure Bold Wandklok | Ø 30 cm

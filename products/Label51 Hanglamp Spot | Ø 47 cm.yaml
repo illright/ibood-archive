@@ -1,12 +1,12 @@
-_id: 6981b8da0dddb76694fb3fd5
+_id: 698afce1db1cc4cb506977db
 appOnly: false
 brand: Label51
 brands:
   - id: 27c0a8fc-2f89-574d-b9bc-bf6b7bd1469f
     name: Label51
 categories:
-  - 24232f72-e0ab-5604-8645-3b4303cf8751
-classicId: '2983976'
+  - bffdcb27-ce50-5013-83f9-adfc7868f337
+classicId: '2998775'
 classicProductId: '423672'
 deliveryPrice:
   cents: 895
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 69
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 3b69aa5b-e18b-4865-be04-2e4f04b4807b
+id: 1ead6794-8f3f-49d9-a535-5199713a88e0
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: bf0037c7-d208-4072-b3dd-c96451eb3aec-tr
+  extension: jpg
+  id: 1414829
   priority: 0
-  slug: label51-spot-deckenleuchte-47-cm-jpg-product-101
+  slug: label51-hanglamp-spot-47-cm
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: label51-logo
   type: logo
-offerId: 731ab0cb-31ad-4d40-948a-064585b8cd26
+offerId: d3c1592a-07c7-4d4d-a4e3-831dad0ee5ce
 price:
   cents: 3995
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 129
 slug: label51-hanglamp-spot-47-cm
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Label51 Hanglamp Spot | Ø 47 cm

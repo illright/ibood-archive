@@ -1,12 +1,12 @@
-_id: 6981b956bd9e534e7ee5084a
+_id: 698afd5e7ec24330ecafd563
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
-classicId: '2984242'
+  - a79a9aed-d370-5910-ad80-0bed481270de
+classicId: '2999030'
 classicProductId: '684168'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 71c3e14d-6998-4a21-b8af-738f8c97b883
+id: 7195f7b6-33c9-4803-b223-15e857188d83
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7a35705b-674e-4c18-8fb2-72cb462c1ad7
-  priority: 0
-  slug: house-nordic-logo-png-logo-0
+  extension: png
+  id: 1644555
+  priority: 100
+  slug: house-nordic-logo
   type: logo
-offerId: 47ee10e7-e67b-46d5-b143-a3158ccf575b
+offerId: f8c40fe6-0db3-47ac-a0ca-92fa6ba1fbbd
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 75
 slug: house-nordic-vita-bijzettafel-travertin
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: House Nordic Vita Bijzettafel | Travertin

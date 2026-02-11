@@ -1,12 +1,12 @@
-_id: 6981acfebd9e534e7ee505b8
+_id: 698aedaddb1cc4cb506972d0
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983682'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997803'
 classicProductId: '684368'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 49a23fc0-7d75-458c-8f32-f8250958d3b4
+id: 878229ca-0eab-41a7-87d2-d6ce7cf8448e
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 410pl122-ltv-rainbow-wooden-xylophone-fsc-100-product-0
   type: product
-offerId: 9190402f-851d-43f4-ad82-77d03cf45af7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: a27f21cb-8420-4953-acb3-4d7abf57dfb1
 price:
   cents: 1295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 24.99
 slug: le-toy-van-houten-xylofoon
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Houten Xylofoon

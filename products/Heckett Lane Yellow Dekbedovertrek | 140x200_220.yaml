@@ -1,34 +1,31 @@
-_id: 6981eff8bd9e534e7ee50abf
+_id: 698b28ece980f53813e0af0d
 appOnly: false
 brand: Yellow
 brands:
   - id: e97b3863-595d-5f30-8cfe-81f988cfb3b2
     name: Yellow
 categories:
-  - 78a522a7-59a5-5f4e-bd30-88c18b803c32
-classicId: '2985086'
-classicProductId: '452446'
+  - d59856fb-37b0-5e56-bf4b-16c90315da38
+classicId: '2999244'
+classicProductId: '452447'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 1b1fb532-aa0e-4eda-bcb8-5dbde9d6e161
+id: 992ee14d-d47f-4bc9-98da-410442c377cf
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 6bfc1903-48c3-4c68-bbd4-b844d9f0d67d-tr
+  extension: png
+  id: 1506672
   priority: 0
-  slug: posciel-yellow-cialda-140-x-200220-cm-png-product-29
+  slug: heckett-lane-yellow-overtrek-140-x-200220
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: yellow-logo
   type: logo
-offerId: 3549d8b4-3c99-4897-a013-0454f38aa84c
+offerId: 869e8e47-628f-4185-95d0-f48b0153af5c
 price:
   cents: 3295
   currency: EUR
@@ -50,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 99.95
 slug: heckett-lane-yellow-overtrek-140-x-200220
-soldOut: true
-start: '2026-02-03T23:00:00.000Z'
+soldOut: false
+start: '2026-02-10T23:00:00.000Z'
 title: Heckett Lane Yellow Dekbedovertrek | 140x200/220

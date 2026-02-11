@@ -1,12 +1,12 @@
-_id: 6981acee959006b0cdd1ebee
+_id: 698aed91e980f53813e0a91c
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983664'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997767'
 classicProductId: '684374'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 7be413ca-af71-49c8-b18a-28c22d815342
+id: dacd82e1-ecd7-4bdf-afff-bb8b6641f7df
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 410tv296-ltv-fruit-en-smoothie-blender-set-fsc-100-product-2
   type: product
-offerId: 7c9ca3f9-907f-4dc9-8155-211f11003133
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: 152e4301-d358-4722-bbfb-e82b925b5570
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 39.99
 slug: le-toy-van-houten-fruit-smoothie-blender-set
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Houten Fruit & Smoothie Blender Set

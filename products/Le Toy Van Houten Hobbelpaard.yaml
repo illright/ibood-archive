@@ -1,12 +1,12 @@
-_id: 6981aceb959006b0cdd1ebe4
+_id: 698aed8fe980f53813e0a916
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983660'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997765'
 classicProductId: '684370'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: f4d2b09e-8f9e-4d18-9e46-e5a01c358765
+id: 9e3fe7ed-2433-422c-96d6-4b073af783d2
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 1200x1037-jpg-product-1
   type: product
-offerId: 3c350eb7-bc15-4e8b-a38a-7a3bfb3d563b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: 8f46730b-8cc5-4a3c-b38e-e834fb1e4108
 price:
   cents: 5995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 119.99
 slug: le-toy-van-houten-hobbelpaard
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Houten Hobbelpaard

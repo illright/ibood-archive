@@ -1,12 +1,12 @@
-_id: 6981b93212f474e42f8dbb0d
+_id: 698afd5fdb1cc4cb506978f6
 appOnly: false
 brand: ZUIVER
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: ZUIVER
 categories:
-  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
-classicId: '2984204'
+  - a79a9aed-d370-5910-ad80-0bed481270de
+classicId: '2998994'
 classicProductId: '687554'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 92a88a0b-28fd-4a33-b912-a6123f51b7fd
+id: db7b7ac9-88e8-48a3-bfbb-09663c67145a
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2026182
-  priority: 100
-  slug: zuiver-logo
+    - all
+  extension: image/png
+  id: ba87f89c-cadf-4d35-a6ed-8cf3993f4bf9
+  priority: 0
+  slug: zuiver-logo-png-logo-0
   type: logo
-offerId: 1505250f-f226-4c33-aef7-2234c2a3f9dc
+offerId: 0786c2c6-1bc1-41a2-aa72-30fef7c6489e
 price:
   cents: 24900
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 619
 slug: zuiver-june-nachtkastje
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Zuiver June Nachtkastje

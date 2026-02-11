@@ -1,12 +1,12 @@
-_id: 6981f009fe979b0b4b592cee
+_id: 698b2a89d65dcc46cc8456b5
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - e9a21ab4-bf69-58c3-8422-3b15fcc62f65
-classicId: '2985123'
+  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
+classicId: '2999772'
 classicProductId: '687906'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 69
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 992409df-d7f1-4e49-bbea-b8b1460b5a4a
+id: dc06ccd6-c880-43dd-bd81-e718c057c8e0
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: badjas-png-product-1
   type: product
-offerId: 76babf1b-89be-411b-b802-1cf0507a519f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1485600
+  priority: 100
+  slug: ten-cate-logo
+  type: logo
+offerId: 5608a399-51d3-47c4-898a-4dac1700f720
 price:
   cents: 2495
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 79.95
 slug: ten-cate-badjas-katoen-unisex
-soldOut: true
-start: '2026-02-03T23:00:00.000Z'
+soldOut: false
+start: '2026-02-10T23:00:00.000Z'
 title: Ten Cate Badjas Katoen | Unisex

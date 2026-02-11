@@ -1,12 +1,12 @@
-_id: 6981f00439452149c9883e12
+_id: 698b28f8d8148ff60604a126
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - 78a522a7-59a5-5f4e-bd30-88c18b803c32
-classicId: '2985105'
+  - d59856fb-37b0-5e56-bf4b-16c90315da38
+classicId: '2999255'
 classicProductId: '550534'
 deliveryPrice:
   cents: 1995
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 19.95
 directCheckout: true
 discount: 65
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 53c9a2e9-f43d-4d29-951e-7e7e2e749c40
+id: 7ca09fbc-86b2-4510-b399-45a09b05985b
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: 313ac756-0031-48e5-8934-a07a9c05c011-tr
+  extension: jpg
+  id: 2254164
   priority: 0
-  slug: dutchbone-class-tafel-180-x-90-cm-2-jpg-product-9
+  slug: dutchbone-class-tafel-180-x-90-cm
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: dutchbone-logo
   type: logo
-offerId: 4d450cc2-5964-45a1-a72c-d2b08c3ef7ea
+offerId: d295e222-85fb-453e-a07d-f9cc44ba785b
 price:
   cents: 34900
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 999
 slug: dutchbone-class-dining-table-180x90
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Dutchbone Class Eettafel | 180x90

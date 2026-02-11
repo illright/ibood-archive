@@ -1,12 +1,12 @@
-_id: 6981acfc7ef9beef51d4b955
+_id: 698aeda5e980f53813e0a93d
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983676'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997787'
 classicProductId: '684366'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 46
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 4197fa14-3ada-462d-8bc5-ae068c287b28
+id: 32cf5d51-974e-42c4-adfd-fe2c751f1777
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 410pl115-ltv-adventure-kaleidoscope-camera-original-version-product-2
   type: product
-offerId: 23e54533-7dfe-486e-a127-568fdcedfb01
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: 05dec1da-f849-42f4-bcbb-7e4b12d7e383
 price:
   cents: 1195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 21.99
 slug: le-toy-van-houten-kaleidoscoop-camera
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Houten Kaleidoscoop Camera

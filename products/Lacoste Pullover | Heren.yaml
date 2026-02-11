@@ -1,22 +1,22 @@
-_id: 6985fc1ce980f53813e0a033
+_id: 698b02c9db1cc4cb506979cc
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - c27f343f-1461-573f-b313-6a134058e651
-classicId: '2991739'
-classicProductId: '582052'
+  - 1456d817-7eda-53b7-b745-42fc4f04875c
+classicId: '2999127'
+classicProductId: '675131'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 55
-end: '2026-02-10T22:59:59.999Z'
+directCheckout: true
+discount: 36
+end: '2026-02-16T22:59:59.000Z'
 freeDelivery: false
-id: 1c070c8d-8627-507d-80a5-afa2f0856345
+id: 66c89d43-f14d-4057-817e-22521c6c471c
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 888960d3-1c3f-4330-be93-8350f50a0340
+  id: 90f54366-82d2-4f84-a262-2977ec5b3050
   priority: 0
-  slug: lacoste-png-product-2
+  slug: main-png-product-4
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 8e66412b-56a1-54d8-ae93-9563f55cbcb6
+offerId: 1721c14e-6557-4cbd-8042-1c8b6197c22f
 price:
-  cents: 4995
+  cents: 6995
   currency: EUR
-  value: 49.95
+  value: 69.95
 referencePrice:
   cents: 11000
   currency: EUR
   value: 110
 slug: lacoste-pullover
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Lacoste Pullover | Heren

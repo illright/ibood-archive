@@ -1,12 +1,12 @@
-_id: 6981ace6bd9e534e7ee50577
+_id: 698aed8de980f53813e0a90b
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983656'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997760'
 classicProductId: '684383'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 3636399d-71d8-4097-95f8-0a35696cc8f6
+id: 217161a9-889a-4474-86ea-c9b7446d1793
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 410tv448-ltv-wooden-tool-bench-fsc-100-product-8
   type: product
-offerId: cc089593-ee58-47d1-9870-ed4f4d124864
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: 71e58c57-7b3a-41ed-8d75-47652c0b9a08
 price:
   cents: 4995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 99.99
 slug: le-toy-van-houten-gereedschapsbank
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Houten Gereedschapsbank

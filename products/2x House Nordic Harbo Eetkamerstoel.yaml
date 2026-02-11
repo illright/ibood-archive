@@ -1,32 +1,31 @@
-_id: 6981b9487ef9beef51d4bb67
+_id: 698afdb3d8148ff60604a06d
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
-classicId: '2984228'
-classicProductId: '475950'
+  - a79a9aed-d370-5910-ad80-0bed481270de
+classicId: '2999100'
+classicProductId: '469059'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 52
-end: '2026-02-10T22:59:59.999Z'
+discount: 60
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 0a91cd14-f6f1-4fb2-b40b-9d9dd66709f7
+id: 54edb30d-2434-43d6-b19b-2ebecc0bd54b
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3d12cae3-22fe-479d-b25d-4124ddf8a321
+  extension: png
+  id: 1759553
   priority: 0
-  slug: 2x-house-nordic-harbo-esszimmerstuhl-1-png-product-29
+  slug: 2x-house-nordic-harbo-eetkamerstoel
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: da3e442f-e7cd-4334-a4b8-4d45e8f68d35
+offerId: d35c0eeb-d231-4b59-bb8d-acdb8a451449
 price:
-  cents: 11900
+  cents: 9995
   currency: EUR
-  value: 119
+  value: 99.95
 referencePrice:
   cents: 24995
   currency: EUR
   value: 249.95
 slug: 2x-house-nordic-harbo-eetkamerstoel
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: 2x House Nordic Harbo Eetkamerstoel

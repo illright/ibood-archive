@@ -19,13 +19,14 @@ freeDelivery: false
 id: 4d533b80-8b0e-457f-b315-c7656cf24674
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1882961
-  priority: 100
-  slug: 6x-axe-ice-chill-bodyspray-deo-2-in-1-150-ml
+    - all
+  extension: image/png
+  id: 41d3ddef-752c-4ca4-b08c-04fe4349992f-tr
+  priority: 0
+  slug: 6x-axe-ice-chill-bodyspray-deo-2-in-1-150-ml-jpg-product-101
   type: product
 logo:
   channels:

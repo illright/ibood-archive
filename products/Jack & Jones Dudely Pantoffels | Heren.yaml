@@ -1,4 +1,4 @@
-_id: 6989d7cb183373bcbc3c5676
+_id: 6989d7c9d8148ff6060497db
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,32 +6,43 @@ brands:
     name: Jack & Jones
 categories:
   - bdfa9aba-1878-5222-a9c9-06b39759a178
-classicId: '2996435'
-classicProductId: '588978'
+classicId: '2996433'
+classicProductId: '677944'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 48
+directCheckout: true
+discount: 40
 end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 8e80d7a9-db30-49a1-befa-d3e0f16595ba
+id: 80745bb9-56ab-40bd-a09c-6429b390fbb3
 image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ed77a75e-961f-4a72-9602-ddc773fde76c
+  priority: 0
+  slug: jack-jones-219-png-product-1
+  type: product
+logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 2031997
-  priority: 0
-  slug: jack-jones-jfwdudely-slippers
-  type: product
-offerId: 356aac27-5f33-4ec8-b726-1c00c4f6f2fd
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: f04bf681-649e-4780-8875-e7d0a5ad4c5f
 price:
-  cents: 1295
+  cents: 1495
   currency: EUR
-  value: 12.95
+  value: 14.95
 referencePrice:
   cents: 2499
   currency: EUR

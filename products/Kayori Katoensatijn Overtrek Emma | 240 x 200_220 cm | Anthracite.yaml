@@ -1,12 +1,12 @@
-_id: 6972270822947f269a6eb3fd
+_id: 698b2a3ad8148ff60604a2ba
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
-classicId: '2961250'
+  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
+classicId: '2999688'
 classicProductId: '689197'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 889cba94-c7db-502a-9113-673e340c5331
+id: 103752f0-88b5-4b5e-a92b-bc2e70391cad
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 375bb452-49a1-46a0-8af5-feca3eb32f88
-  priority: 0
-  slug: kayori-emma-bettwasche-140-x-200220-cm-png-logo-0
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
   type: logo
-offerId: d085b44a-2d47-5b9c-a8ae-808836c1cc4c
+offerId: a13cb36a-b112-4f3c-9f45-a13730a8cbdc
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 139.95
 slug: kayori-katoensatijn-overtrek-emma-240-x-200-220-cm-anthracite
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Kayori Katoensatijn Overtrek Emma | 240 x 200/220 cm | Anthracite

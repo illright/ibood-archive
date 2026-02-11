@@ -1,22 +1,22 @@
-_id: 6981f0138441ce1a55ac3a21
+_id: 698b290ce980f53813e0af40
 appOnly: false
 brand: VT WONEN
 brands:
   - id: 779c3a3e-a55a-58a7-83aa-2b81b3802c35
     name: VT WONEN
 categories:
-  - 78a522a7-59a5-5f4e-bd30-88c18b803c32
-classicId: '2985142'
-classicProductId: '610217'
+  - d59856fb-37b0-5e56-bf4b-16c90315da38
+classicId: '2999270'
+classicProductId: '610223'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 72
-end: '2026-02-10T22:59:59.999Z'
+discount: 75
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 7975fdee-d2f0-484a-8853-23d031da369a
+id: c0526f57-202a-4292-b04d-6d9ccbbe8d6e
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 3136fead-6197-4509-baac-f9fc9a8b8bb7
+  id: eed79f6b-b484-4ad0-912f-61f0f0dc1775
   priority: 0
-  slug: dekbed-02-png-product-28
+  slug: vtwonen-dekbedovertrek-katoen-200x200-220-product-8
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: vt-wonen-logo
   type: logo
-offerId: 9084e320-5838-4b9f-8847-eed1dc3018d8
+offerId: 51e5aa34-44be-4677-8d3d-458e42d89466
 price:
-  cents: 2495
+  cents: 2995
   currency: EUR
-  value: 24.95
+  value: 29.95
 referencePrice:
-  cents: 8995
+  cents: 11995
   currency: EUR
-  value: 89.95
+  value: 119.95
 slug: vtwonen-dekbedovertrek-katoen
-soldOut: true
-start: '2026-02-03T23:00:00.000Z'
+soldOut: false
+start: '2026-02-10T23:00:00.000Z'
 title: 'VT Wonen Dekbedovertrek '

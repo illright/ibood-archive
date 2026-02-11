@@ -1,22 +1,22 @@
-_id: 6981bf075b733c8f98bc0d16
+_id: 698af7df78dd94ffd5826437
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - c2f713c4-be94-538b-87e1-d8a0c4dcbc85
-classicId: '2984752'
-classicProductId: '657398'
+  - a5bce828-8128-5e3a-a141-ace8077e85b3
+classicId: '2998370'
+classicProductId: '657397'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-17T22:59:59.999Z'
 freeDelivery: false
-id: 8ac283c9-5da6-4aae-bec6-9b542c2149f2
+id: 5b3e426a-389e-4e39-9ee1-0d111ceed14b
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: f46b23f9-61ed-4d1d-b437-34d8d0dab840
+  id: 7b2f74ec-a477-4e7c-b5c0-abcb4b5013aa
   priority: 0
-  slug: oral-b-io5n-matt-black-tc-opzetborstelhouder-product-1
+  slug: oral-b-io5n-quite-white-tc-opzetborstelhouder-product-0
   type: product
-offerId: 94de8e4d-f835-41cb-b10d-963a3c3ef0f6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800052
+  priority: 100
+  slug: oral-b-logo
+  type: logo
+offerId: da2539e4-216a-43fc-afaa-a457128e2712
 price:
   cents: 7995
   currency: EUR
@@ -37,7 +47,7 @@ referencePrice:
   cents: 18999
   currency: EUR
   value: 189.99
-slug: oral-b-io-5n-elektrische-tandenborstel
+slug: oral-b-io-5-elektrische-tandenborstel
 soldOut: true
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: 'Oral-B iO 5N Elektrische Tandenborstel '

@@ -1,12 +1,12 @@
-_id: 69821de43a64d1b8764c21e3
+_id: 698b2942d65dcc46cc845472
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
-classicId: '2985876'
+  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
+classicId: '2999328'
 classicProductId: '677171'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: edca45c4-74a6-4f2d-90c0-870aa21d0716
+id: caaddcc9-3abc-4c63-94e8-0495e2e9491e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2964d0f5-5765-4935-bf41-f545dd7fafb0
-  priority: 0
-  slug: kayori-png-logo-0
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
   type: logo
-offerId: 1a01ccb2-d22b-4f3b-b49b-c2eebb653ccf
+offerId: 8603c532-2b45-45e6-9a3e-84360af6fd22
 price:
   cents: 4295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 189.95
 slug: kayori-dekbedovertrekset-tencel-260-x-200-220
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Kayori Dekbedovertrekset | Tencel | 260 x 200/220

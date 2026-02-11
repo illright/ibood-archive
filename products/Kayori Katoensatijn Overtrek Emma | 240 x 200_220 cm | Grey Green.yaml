@@ -1,12 +1,12 @@
-_id: 6972270774569879141f3e8b
+_id: 698b2a32d8148ff60604a2a8
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 8fefadaf-65c7-56f8-b4f1-5041d5924601
-classicId: '2961248'
+  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
+classicId: '2999684'
 classicProductId: '689195'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 2b01e27a-2e83-573d-a0f1-4a4b5e632450
+id: 8cba775a-e907-48be-8a95-d4c8e86d9ade
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a0c0163a-bcb1-41a0-a795-6789dbcaa38d
-  priority: 0
-  slug: kayori-emma-bettwasche-140-x-200220-cm-png-logo-0
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
   type: logo
-offerId: bc1886f4-6ae8-51c0-a69c-bee23ad63761
+offerId: cd8d3d2b-8ae0-4ece-a3db-ce5edb5988b4
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 139.95
 slug: kayori-katoensatijn-overtrek-emma-240-x-200-220-cm-grey-green
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Kayori Katoensatijn Overtrek Emma | 240 x 200/220 cm | Grey Green

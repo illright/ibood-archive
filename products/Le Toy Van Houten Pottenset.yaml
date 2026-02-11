@@ -1,12 +1,12 @@
-_id: 6981ad02bd9e534e7ee505d2
+_id: 698aedb1e980f53813e0a941
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983687'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997804'
 classicProductId: '684375'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: ae817ddc-e933-4cea-acef-046919005fea
+id: e7953474-7288-456f-bad1-2d82d7574881
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 410tv301-ltv-pots-en-pans-kitchen-accessories-fsc-100-product-1
   type: product
-offerId: 1169418f-9c73-46cf-8384-3c6b02258946
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: 8013328e-2bd7-49fd-a2ff-dbd92e9324ef
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 29.99
 slug: le-toy-van-houten-pottenset
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Houten Pottenset

@@ -1,12 +1,12 @@
-_id: 6981b90f959006b0cdd1ed86
+_id: 698afd2ee980f53813e0ad6f
 appOnly: false
 brand: Kalune
 brands:
   - id: f9525695-6bac-5e68-bd8d-234ccd8524a9
     name: Kalune
 categories:
-  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
-classicId: '2984119'
+  - a79a9aed-d370-5910-ad80-0bed481270de
+classicId: '2998905'
 classicProductId: '613785'
 deliveryPrice:
   cents: 895
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 59
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 79e25ab3-35d3-48cf-ae45-72fe7a4b0718
+id: 0b60c9c3-38ca-43c6-9994-2312fb4e9d01
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 39d5f973-e9ec-4071-a614-c416b7277af8-tr
+  extension: jpg
+  id: 2239493
   priority: 0
-  slug: kalune-design-orion-koffietafelset-walnut-jpg-product-1
+  slug: kalune-design-orion-koffietafelset-walnut
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: kalune-logo
   type: logo
-offerId: 8194aaba-c722-4873-a388-e1133872339d
+offerId: 91dc80a6-b444-4261-a3a3-a23752bf2544
 price:
   cents: 9900
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 239.95
 slug: kalune-design-orion-koffietafelset-walnut
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Kalune Design Orion Koffietafelset | Walnut

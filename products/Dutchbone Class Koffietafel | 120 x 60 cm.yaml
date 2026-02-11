@@ -1,12 +1,12 @@
-_id: 6981b8e40dddb76694fb3fec
+_id: 698afd107ec24330ecafd4db
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
-classicId: '2984005'
+  - a79a9aed-d370-5910-ad80-0bed481270de
+classicId: '2998856'
 classicProductId: '550542'
 deliveryPrice:
   cents: 1995
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 19.95
 directCheckout: true
 discount: 54
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: f8372d39-19b5-452f-bd95-498ddfde6d69
+id: 7acebf14-9dfe-488c-a665-302f3872cfa6
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: c48e609e-32e2-41f6-9120-594cde9bb5e1-tr
+  extension: jpg
+  id: 2254212
   priority: 0
-  slug: dutchbone-class-koffietafel-120-x-90-cm-jpg-product-1
+  slug: dutchbone-class-koffietafel-120-x-90-cm
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: dutchbone-logo
   type: logo
-offerId: b42c6c2f-83a4-467e-b064-dc0990623086
+offerId: 0b8aafd2-2115-40bd-af98-82b2dd7754f1
 price:
   cents: 22900
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 499
 slug: dutchbone-class-koffietafel-120-x-60-cm
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Dutchbone Class Koffietafel | 120 x 60 cm

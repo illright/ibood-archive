@@ -1,32 +1,31 @@
-_id: 6981b8c20dddb76694fb3fa8
+_id: 698afd00db1cc4cb50697842
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - 78f619fb-aea4-57c7-8981-2d8d78e4f223
-classicId: '2983900'
-classicProductId: '184328'
+  - a79a9aed-d370-5910-ad80-0bed481270de
+classicId: '2998810'
+classicProductId: '346530'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 83
-end: '2026-02-10T22:59:59.999Z'
+discount: 74
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 4bf62cf3-39b0-450c-84bf-cddbe24a83f4
+id: a1a33f3a-b0e7-40b5-af36-847e37ec0c0f
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3c5b8999-b977-4d48-b599-f9c0aceb1e0e-tr
+  extension: png
+  id: 1579840
   priority: 0
-  slug: lifa-living-saint-tropez-regal-7-ablagen-6-jpg-product-6
+  slug: lifa-living-saint-tropez-wandkast
   type: product
 logo:
   channels:
@@ -34,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1772501
+  id: 1579811
   priority: 100
-  slug: lifa-living-logo
+  slug: lifa-living-saint-tropez-wandkast
   type: logo
-offerId: 26a97fa1-1e1d-49f2-894e-20f1ad64e59f
+offerId: f9bd98e7-b9df-4219-b3d7-b254cc7413b0
 price:
   cents: 5195
   currency: EUR
   value: 51.95
 referencePrice:
-  cents: 29995
+  cents: 19995
   currency: EUR
-  value: 299.95
+  value: 199.95
 slug: lifa-living-saint-tropez-wandkast
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Lifa Living Saint-Tropez Open Wandkast

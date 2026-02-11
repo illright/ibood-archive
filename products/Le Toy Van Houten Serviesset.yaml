@@ -1,12 +1,12 @@
-_id: 6981ad04bd9e534e7ee505dd
+_id: 698aedaedb1cc4cb506972d6
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - 14d28e06-9bd1-5179-9faa-ed8e6b2889c3
-classicId: '2983688'
+  - eed05790-185f-57b4-8197-ae3ccec1fbc8
+classicId: '2997805'
 classicProductId: '684376'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: e1fcaa35-d441-4bdb-bd11-6c07d2ba90af
+id: 669bb100-ec49-4ca1-8cbe-0dff8a92821e
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 410tv309-ltv-cutlery-en-dinner-set-fsc-100-product-0
   type: product
-offerId: 395ee18f-fa95-40d0-9409-f5ef9487c999
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: ac6dd184-734f-4c1d-914b-4c89a9804d56
 price:
   cents: 1295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 24.99
 slug: le-toy-van-houten-serviesset
 soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Le Toy Van Houten Serviesset

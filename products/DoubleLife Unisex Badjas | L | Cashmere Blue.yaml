@@ -1,12 +1,12 @@
-_id: 6981f0157ef9beef51d4be20
+_id: 698b2a8fa5ffcabf666e3f85
 appOnly: false
 brand: DoubleLife
 brands:
   - id: 97e825b7-6aaa-5493-89e0-41939da9971f
     name: DoubleLife
 categories:
-  - e9a21ab4-bf69-58c3-8422-3b15fcc62f65
-classicId: '2985150'
+  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
+classicId: '2999779'
 classicProductId: '677339'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-10T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 6693dcd9-03f3-4649-b239-2a2ba9b059aa
+id: 2dbe1132-c3fc-4b5a-98ca-11a9f9c82df9
 image:
   channels:
     - app
@@ -41,7 +41,7 @@ logo:
   priority: 0
   slug: doublelife-logo-0
   type: logo
-offerId: 72a5fb6a-bb4f-442e-b1e0-e8e2e2180c4a
+offerId: 8981b617-7a65-4e0f-b5c2-7541fad66555
 price:
   cents: 1995
   currency: EUR
@@ -51,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 39.95
 slug: doublelife-unisex-badjas-l-cashmere-blue
-soldOut: false
-start: '2026-02-03T23:00:00.000Z'
+soldOut: true
+start: '2026-02-10T23:00:00.000Z'
 title: DoubleLife Unisex Badjas | L | Cashmere Blue
