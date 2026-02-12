@@ -1,31 +1,32 @@
-_id: 6989a512f47866a00d4f7ff6
+_id: 6989b1d24594ce92f370f6d7
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 1b6399dd-cabb-579a-ac4b-959f33087015
-classicId: '2992992'
+  - 0b3d8499-a24c-51f3-b170-ee0baf84e47b
+classicId: '2994101'
 classicProductId: '508670'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 55
-end: '2026-02-16T22:59:59.999Z'
+discount: 60
+end: '2026-02-15T22:59:59.999Z'
 freeDelivery: false
-id: 25932379-8cb3-43a6-b433-c36a62ffbd95
+id: ea080704-1561-58ee-8b02-6970b37cd0bf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1718207
+    - all
+  extension: image/png
+  id: d49d4d2f-f2fa-48f1-ab37-8fae0e4b3108
   priority: 0
-  slug: heat-essentials-thermo-handschoenen-unisex
+  slug: fashion-04-png-product-2
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: heat-essentials-logo
   type: logo
-offerId: 99997bd6-c27e-4b3c-b051-151806afabc0
+offerId: a2760afa-8ed8-56df-a754-b0fe0a7f02ec
 price:
-  cents: 895
+  cents: 795
   currency: EUR
-  value: 8.95
+  value: 7.95
 referencePrice:
   cents: 1995
   currency: EUR
   value: 19.95
 slug: heat-essentials-thermo-handschoenen-unisex
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-10T23:00:00.000Z'
 title: Heat Essentials Thermo Handschoenen | Unisex

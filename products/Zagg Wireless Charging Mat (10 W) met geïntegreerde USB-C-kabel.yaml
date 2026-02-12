@@ -1,12 +1,12 @@
-_id: 698326b444eb5276b409754d
+_id: 698c5081db1cc4cb50697e63
 appOnly: false
 brand: ZAGG
 brands:
   - id: d84a6c84-9bf1-5612-8b26-54212771a536
     name: ZAGG
 categories:
-  - 12788a2a-3971-593f-a7e2-b703fae227cc
-classicId: '2986260'
+  - 2ff50305-5830-5511-a4b0-a6f022ce37f4
+classicId: '3000855'
 classicProductId: '683216'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-02-11T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: 569e4cc1-1b5a-45aa-8180-b68f62e86d6a
+id: e2ba44e0-b3f1-4aaa-a36c-f5ff73303b6f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ce-01-png-product-2
   type: product
-offerId: 72c35dab-3a0e-418c-98e6-4ba7ce2e3275
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4555897f-4f80-4294-bd12-33155bbe91b7
+  priority: 0
+  slug: zagg-png-logo-0
+  type: logo
+offerId: 2f083497-6999-44c1-b7b0-29d8faaf4165
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 59.99
 slug: zagg-wireless-charging-mat-10-w-met-geintegreerde-usb-c-kabel
 soldOut: false
-start: '2026-02-04T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: Zagg Wireless Charging Mat (10 W) met geïntegreerde USB-C-kabel

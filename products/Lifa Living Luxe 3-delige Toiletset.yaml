@@ -1,4 +1,4 @@
-_id: 698afcb9db1cc4cb5069772a
+_id: 698afc9dd8148ff606049e5b
 appOnly: false
 brand: Lifa Living
 brands:
@@ -6,26 +6,29 @@ brands:
     name: Lifa Living
 categories:
   - c79cca8e-21d8-5adf-b834-88afc465dd8e
-classicId: '2998643'
-classicProductId: '402133'
+classicId: '2998638'
+classicProductId: '402134'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 64
+discount: 69
 end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 777bb041-8eec-4e23-9159-41bc8facbea1
+id: 24eb5fb9-bf0f-4def-9508-eb4513173da4
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1338161
+  extension: image/png
+  id: 38fbe8a7-b904-4844-9157-0c5936005328-tr
   priority: 0
-  slug: lifa-living-luxe-3-delige-toiletset
+  slug: lifa-living-toilettenset-3-teilig-jpg-product-9
   type: product
 logo:
   channels:
@@ -37,16 +40,16 @@ logo:
   priority: 100
   slug: lifa-living-logo
   type: logo
-offerId: db15ab5f-ed96-4da4-ab29-8ce9518f9b0b
+offerId: 7896c834-a848-4bdf-bfed-19736c90894e
 price:
-  cents: 1995
+  cents: 1695
   currency: EUR
-  value: 19.95
+  value: 16.95
 referencePrice:
-  cents: 5595
+  cents: 5495
   currency: EUR
-  value: 55.95
+  value: 54.95
 slug: lifa-living-luxe-3-delige-toiletset
-soldOut: false
+soldOut: true
 start: '2026-02-10T23:00:00.000Z'
 title: Lifa Living Luxe 3-delige Toiletset

@@ -1,12 +1,12 @@
-_id: 6983268658883d6c49092269
+_id: 698c507adb1cc4cb50697e4c
 appOnly: false
 brand: DeFunc
 brands:
   - id: af4a2860-be9a-5a78-a83b-747aa26743e7
     name: DeFunc
 categories:
-  - 40474b20-c7f4-548c-85e9-249a8b4807c0
-classicId: '2986216'
+  - 8b247be0-3035-53e2-a07b-3de58a370e39
+classicId: '3000842'
 classicProductId: '644815'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 71
-end: '2026-02-11T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: fcf97cfe-720f-40b7-a7d7-97e7ec13bdaa
+id: 28862837-8d4c-4440-ae57-65fca2957264
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: speaker-png-product-1
   type: product
-offerId: 4dd3668d-373f-464c-a287-52ad0192b8c6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1655546
+  priority: 100
+  slug: defunc-logo
+  type: logo
+offerId: 1fc54167-af93-49e4-837b-0fb128083f00
 price:
   cents: 9995
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 349.5
 slug: defunc-home-speaker-large-zwart
-soldOut: true
-start: '2026-02-04T23:00:00.000Z'
+soldOut: false
+start: '2026-02-11T23:00:00.000Z'
 title: Defunc Home Multiroom Speaker | Large | Wifi + Airplay2 | 100W

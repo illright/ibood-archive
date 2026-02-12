@@ -1,12 +1,12 @@
-_id: 698326b27f67a204896ec696
+_id: 698c5088db1cc4cb50697e7f
 appOnly: false
 brand: SwitchBot
 brands:
   - id: 08ee7dca-d3b9-5803-ba54-6944792b5695
     name: SwitchBot
 categories:
-  - 12788a2a-3971-593f-a7e2-b703fae227cc
-classicId: '2986263'
+  - 2ff50305-5830-5511-a4b0-a6f022ce37f4
+classicId: '3000861'
 classicProductId: '523540'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-02-11T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: 4c1f0717-aed2-44b2-8b1e-682026a64861
+id: 3305f67a-4de2-4be6-aee0-54ad1051d346
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1762186
+    - all
+  extension: image/png
+  id: 889d2378-5cca-47b9-b8b1-3e248f0a042f-tr
   priority: 0
-  slug: 2x-switchbot-hub-mini
+  slug: switchbot-hub-mini-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: switchbot-logo
   type: logo
-offerId: e66a2e58-0934-40c9-a5a6-b0bc52ff2251
+offerId: efc0d7df-7a97-435d-a072-9431c44f242c
 price:
   cents: 4495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 70
 slug: 2x-switchbot-hub-mini
 soldOut: false
-start: '2026-02-04T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: 2x SwitchBot Hub Mini

@@ -1,12 +1,12 @@
-_id: 698326fc58883d6c4909236e
+_id: 698c50c169c1486a49542fca
 appOnly: false
 brand: Fellowes
 brands:
   - id: 64d117c9-cfd8-5685-a4ad-92a6c7e50180
     name: Fellowes
 categories:
-  - 12788a2a-3971-593f-a7e2-b703fae227cc
-classicId: '2986333'
+  - 2ff50305-5830-5511-a4b0-a6f022ce37f4
+classicId: '3000935'
 classicProductId: '678380'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 76
-end: '2026-02-11T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: a56efe37-c428-46a5-85ae-e7ca085d3ee5
+id: d8d977e9-ddb7-463c-8285-9258735179b1
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: fellowes-lotus-wit-zit-sta-werkstation-zwart-product-0
   type: product
-offerId: d64d11b3-e750-45ef-9927-fac0ed4fb84a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e4cb381b-2b04-43fe-9b7d-a8919d19367b
+  priority: 0
+  slug: fellowes-png-logo-0
+  type: logo
+offerId: 7a62caa9-0c11-44d8-b367-9ee92df7926b
 price:
   cents: 11995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 495
 slug: fellowes-lotus-zit-sta-werkstation-zwart
 soldOut: false
-start: '2026-02-04T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: Fellowes Lotus Zit-Sta Werkstation | Zwart

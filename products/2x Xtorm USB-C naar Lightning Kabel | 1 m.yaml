@@ -1,12 +1,12 @@
-_id: 697a12692b199b3a9d8b35f3
+_id: 698c507adb1cc4cb50697e48
 appOnly: false
 brand: XTORM
 brands:
   - id: 3010b7cb-df9d-526c-b2a9-621e6b1c948c
     name: XTORM
 categories:
-  - 12788a2a-3971-593f-a7e2-b703fae227cc
-classicId: '2976309'
+  - 2ff50305-5830-5511-a4b0-a6f022ce37f4
+classicId: '3000841'
 classicProductId: '690869'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-02-11T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: bd9a510b-9ada-5505-8f6c-3a44daaafa13
+id: 74ca0a26-567b-4430-98dc-6390e119fdc4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 05f05fe3-188b-448c-bf7d-64819204d291
-  priority: 0
-  slug: xtorm-png-logo-0
+  extension: png
+  id: 2035508
+  priority: 100
+  slug: xtorm-logo
   type: logo
-offerId: 2b277029-4c7a-5b90-8dd4-a4a3d04c82f1
+offerId: 0ec17085-ddae-4cdc-8982-fb91cddbda3e
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 59.9
 slug: 2x-xtorm-usb-c-naar-lightning-kabel-1-m
 soldOut: false
-start: '2026-02-04T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: 2x Xtorm USB-C naar Lightning Kabel | 1 m

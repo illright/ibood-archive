@@ -1,12 +1,12 @@
-_id: 698326b37f67a204896ec69b
+_id: 698c508adb1cc4cb50697e8b
 appOnly: false
 brand: STEELSERIES
 brands:
   - id: 0caf62df-d186-5881-a280-5a9d84d8b55c
     name: STEELSERIES
 categories:
-  - 12788a2a-3971-593f-a7e2-b703fae227cc
-classicId: '2986264'
+  - 2ff50305-5830-5511-a4b0-a6f022ce37f4
+classicId: '3000865'
 classicProductId: '678989'
 deliveryPrice:
   cents: 595
@@ -14,23 +14,32 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 53
-end: '2026-02-11T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: ce2a5cbe-e9b7-49f4-a6e3-8d11c898f0ac
+id: ce1ac8a5-1363-4422-b362-eeb382a56bf0
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - website
-    - app
   extension: image/png
-  id: c4b2d504-ecc4-4a3f-be70-55b4c2d09827-tr
+  id: 9b418e94-23dd-4477-a0da-ee9751410f94
   priority: 0
-  slug: refurbished-steelseries-arctis-nova-5-wireless-gaming-headset-for-pc-black-product-0
+  slug: koptelefoon-01-png-product-1
   type: product
-offerId: 17c96dda-d163-4b88-ac8b-d6d15e15a592
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0e6fc8a0-e71a-4b27-ae0e-e6d15b0e58d2
+  priority: 0
+  slug: steelseries-png-logo-0
+  type: logo
+offerId: 2a0093fe-52d5-4ea4-b1d3-034a8293f603
 price:
   cents: 6995
   currency: EUR
@@ -41,5 +50,5 @@ referencePrice:
   value: 149
 slug: steelseries-arctis-nova-5-wireless-headset-refurbished-pc
 soldOut: false
-start: '2026-02-04T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: Steelseries Arctis Nova 5 Wireless Headset | Refurbished | PC

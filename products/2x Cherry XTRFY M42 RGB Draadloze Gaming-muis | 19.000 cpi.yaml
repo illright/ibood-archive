@@ -1,12 +1,12 @@
-_id: 6983273afedf4005cdf630d4
+_id: 698c5056db1cc4cb50697e19
 appOnly: false
 brand: CHERRY
 brands:
   - id: 4530a1af-4544-5f88-94b4-091c5db74ac7
     name: CHERRY
 categories:
-  - 12788a2a-3971-593f-a7e2-b703fae227cc
-classicId: '2986400'
+  - 3d734c7e-589a-54dd-8b0d-5f2115921cc9
+classicId: '3000822'
 classicProductId: '674305'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 86
-end: '2026-02-11T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: 5ac09385-8a11-4cdb-a604-2b2af21a011c
+id: 5185debb-25d0-4530-b2c8-92cd60d2cb5d
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 687cb093-2cca-45fd-9554-fd46b578a13f
+  id: 40f8603d-225b-4f04-9a54-64cac206f98e
   priority: 0
-  slug: 2-muizen-png-product-1
+  slug: muis-01-png-product-1
   type: product
-offerId: ae2cc757-652d-49a4-a222-f0d4c54ea03b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: be91f44c-6d00-4a70-88cd-5e28e64435bf
+  priority: 0
+  slug: cherry-logo-0
+  type: logo
+offerId: 8819fa12-4e94-4854-a3a6-9015bfe602c1
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 218
 slug: 2x-cherry-xtrfy-m42-rgb-wireless-gaming-maus-19000-cpi
 soldOut: true
-start: '2026-02-04T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: 2x Cherry XTRFY M42 RGB Draadloze Gaming-muis | 19.000 cpi

@@ -1,12 +1,12 @@
-_id: 6983268058883d6c49092254
+_id: 698c5072db1cc4cb50697e30
 appOnly: false
 brand: Hisense
 brands:
   - id: 87ea3bb4-812a-51a7-b41b-832fa5627974
     name: Hisense
 categories:
-  - 40474b20-c7f4-548c-85e9-249a8b4807c0
-classicId: '2986209'
+  - 8b247be0-3035-53e2-a07b-3de58a370e39
+classicId: '3000831'
 classicProductId: '689224'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 43
-end: '2026-02-11T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: ccccdcd2-13b8-44e6-822d-6631da330cb3
+id: 7e9ba0b4-07a6-42be-9433-43696927565d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: hisense-main-png-product-2
   type: product
-offerId: fa703f6a-f17c-4a2c-aaf7-440afa00d8dc
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1944648
+  priority: 100
+  slug: hisense-logo
+  type: logo
+offerId: 33009139-6281-4fbb-ad2a-2ab768fc3895
 price:
   cents: 19995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 349
 slug: hisense-3-1-2-kanaals-soundbar-360-dolby-atmos-ax3120g
 soldOut: false
-start: '2026-02-04T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: Hisense 3.1.2-Kanaals Soundbar | 360° | Dolby Atmos | AX3120G

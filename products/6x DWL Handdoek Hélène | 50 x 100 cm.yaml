@@ -19,13 +19,14 @@ freeDelivery: false
 id: 41bbb34e-7d81-4644-81fb-d5299f6a08f7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2185326
+    - all
+  extension: image/png
+  id: 62492201-5b2f-4f23-a452-b57c7f7e50b2-tr
   priority: 0
-  slug: 6x-dwl-handdoek-helene-50-x-100-cm
+  slug: 6x-dwl-handtuch-helene-50-x-100-cm-jpg-product-12
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 1698805
   priority: 100
-  slug: 6x-dwl-handdoek-helene-50-x-100-cm
+  slug: 6x-dwl-handtuch-helene-50-x-100-cm
   type: logo
 offerId: 5da4c397-8f37-4572-a77b-e1ddc31d9d7e
 price:
