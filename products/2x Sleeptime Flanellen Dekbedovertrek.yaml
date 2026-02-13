@@ -19,13 +19,14 @@ freeDelivery: false
 id: 031d60af-3316-430f-8ecc-d9cbb9feb7dd
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 460298
-  priority: 1
-  slug: sleeptime-flanell-bettwasche-140-x-200220-cm
+    - all
+  extension: image/png
+  id: c33ba4c2-0b4d-469a-a802-1ad2046d0f6b
+  priority: 0
+  slug: dekbedov-png-product-1
   type: product
 logo:
   channels:

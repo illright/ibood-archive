@@ -19,13 +19,14 @@ freeDelivery: false
 id: 0c01d3b6-9153-4516-ac4f-0202d8dff2d1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1696623
+    - all
+  extension: image/png
+  id: af8567c7-0f95-4646-824a-453f73b2ed59
   priority: 0
-  slug: 2x-cinderella-weekend-badmat-50-x-60-cm
+  slug: cind-main-png-product-1
   type: product
 logo:
   channels:

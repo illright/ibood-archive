@@ -19,13 +19,16 @@ freeDelivery: false
 id: 1fcf01d8-2d6c-5b2a-8942-f4e83549a22f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1233361
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 410146f5-2470-4db4-8dbc-b4425a182e2c-tr
   priority: 0
-  slug: strandlaken-100-x-180-cm
+  slug: recznik-plazowy-seahorse-100-x-180-cm-jpg-product-45
   type: product
 logo:
   channels:

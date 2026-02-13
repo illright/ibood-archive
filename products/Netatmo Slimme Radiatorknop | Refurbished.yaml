@@ -1,12 +1,12 @@
-_id: 69525eeef1a5907ea4de426a
+_id: 698c5107b92d3a6435a66b37
 appOnly: false
 brand: NETATMO
 brands:
   - id: 926f3c7b-2a59-5215-b522-d0cbbeb698a3
     name: NETATMO
 categories:
-  - c0f51f49-7db6-55eb-b005-79ea5a7f4594
-classicId: '2907215'
+  - 2ff50305-5830-5511-a4b0-a6f022ce37f4
+classicId: '3001011'
 classicProductId: '685754'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-02-15T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: c9dbd154-262e-544a-9c39-9eee5a15c0a0
+id: dd2e1a62-887e-4c85-887e-474ce7f7f007
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1604496
-  priority: 100
-  slug: netatmo-logo
+    - all
+  extension: image/png
+  id: b97f0ac1-6e7a-4ed8-9a1b-dcbc361de617
+  priority: 0
+  slug: netatmo-logo-0
   type: logo
-offerId: cd0ae311-e757-5a5c-ae37-c76ee09fa836
+offerId: c9ff4525-9aef-48e4-8380-9c661a4d2a6c
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 89.99
 slug: netatmo-slimme-radiatorknop-refurbished
 soldOut: true
-start: '2026-02-08T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: Netatmo Slimme Radiatorknop | Refurbished

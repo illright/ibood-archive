@@ -1,12 +1,12 @@
-_id: 69525b0d58ec0c3cfe96cf86
+_id: 698c5107d8148ff60604a4fd
 appOnly: false
 brand: NETATMO
 brands:
   - id: 926f3c7b-2a59-5215-b522-d0cbbeb698a3
     name: NETATMO
 categories:
-  - c0f51f49-7db6-55eb-b005-79ea5a7f4594
-classicId: '2907209'
+  - 2ff50305-5830-5511-a4b0-a6f022ce37f4
+classicId: '3001010'
 classicProductId: '177945'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-02-15T22:59:59.999Z'
+end: '2026-02-18T22:59:59.999Z'
 freeDelivery: false
-id: c3252257-e6d1-56b4-9ef8-09aac12c8a2f
+id: 447adab4-db49-4092-a419-9f0615ef6fe4
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1604496
-  priority: 100
-  slug: netatmo-logo
+    - all
+  extension: image/png
+  id: b97f0ac1-6e7a-4ed8-9a1b-dcbc361de617
+  priority: 0
+  slug: netatmo-logo-0
   type: logo
-offerId: 96bbc4e9-ab16-52c4-b2fa-d96723f50b97
+offerId: aad3d1c3-3231-4b76-8790-3415a21ed15b
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 119.99
 slug: netatmo-healthy-home-coach-refurbished
 soldOut: true
-start: '2026-02-08T23:00:00.000Z'
+start: '2026-02-11T23:00:00.000Z'
 title: Netatmo Healthy Home Coach | Refurbished
