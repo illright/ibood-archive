@@ -1,4 +1,4 @@
-_id: 69833c1a2f145976bc4331be
+_id: 69833b7505d6c15dbedbdb9b
 appOnly: false
 brand: Seahorse
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Seahorse
 categories:
   - dc85c65e-08d1-5ed3-acfb-05b6184c5450
-classicId: '2987833'
-classicProductId: '691388'
+classicId: '2987708'
+classicProductId: '612417'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 56
+discount: 73
 end: '2026-02-15T22:59:59.999Z'
 freeDelivery: false
-id: a91675d4-1f32-5716-88bb-9af270aa9b0a
+id: c2b4c46e-a643-5139-8122-8443d5897932
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2133602
+    - all
+  extension: image/png
+  id: 742601bf-a20f-438e-a301-81d0659b0a04-tr
   priority: 0
-  slug: 6x-seahorse-pure-washandje-16-x-21-cm
+  slug: 6x-seahorse-pure-washandje-16-x-21-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2133605
+  id: 1912435
   priority: 100
-  slug: 6x-seahorse-pure-washandje-16-x-21-cm
+  slug: seahorse-logo
   type: logo
-offerId: 63137057-8262-5264-ba51-3630a57775e8
+offerId: 045ce4fa-4ce5-573f-9eaa-b98e7d86f0ba
 price:
-  cents: 1395
+  cents: 795
   currency: EUR
-  value: 13.95
+  value: 7.95
 referencePrice:
-  cents: 3190
+  cents: 2995
   currency: EUR
-  value: 31.9
+  value: 29.95
 slug: 6x-seahorse-pure-washandje-16-x-21-cm
-soldOut: false
+soldOut: true
 start: '2026-02-10T23:00:00.000Z'
 title: 6x Seahorse Pure Washandje | 16 x 21 cm
