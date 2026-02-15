@@ -19,13 +19,16 @@ freeDelivery: false
 id: 03bceb04-8f04-47f6-93b7-31473dbe563f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1874679
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1153f428-ab07-4298-bb79-e02eac9f1aa4-tr
   priority: 0
-  slug: 2x-house-nordic-eetkamerstoel-middelfart
+  slug: 2x-house-nordic-middelfart-esszimmerstuhl-png-product-1
   type: product
 logo:
   channels:

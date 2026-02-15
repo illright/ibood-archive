@@ -1,4 +1,4 @@
-_id: 698b298ed65dcc46cc84551f
+_id: 698b29711a546f8039e77bb8
 appOnly: false
 brand: Sleeptime
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Sleeptime
 categories:
   - d5d95843-ef14-5943-9b28-36f4ba3d5cbb
-classicId: '2999468'
-classicProductId: '677283'
+classicId: '2999440'
+classicProductId: '677278'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 60
 end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 9a5d65d8-4445-455a-a708-d3fcf1826cca
+id: cf9c04e9-688a-466d-b81a-0b490fcb6efd
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1524027
-  priority: 100
-  slug: sleeptime-logo
+    - all
+  extension: image/png
+  id: 657e1622-2d84-45dd-9630-ad4d4adde82b
+  priority: 0
+  slug: sleeptime-png-logo-0
   type: logo
-offerId: 7b5da5cd-aa97-41ef-bcd0-bfea5567963b
+offerId: f5583ae8-80c3-4a89-8da5-0d3399125e36
 price:
   cents: 2795
   currency: EUR
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 69.95
 slug: sleeptime-wasbaar-dekbed-zonder-overtrek-200-x-200-220-cm
-soldOut: false
+soldOut: true
 start: '2026-02-10T23:00:00.000Z'
 title: Sleeptime Wasbaar Dekbed Zonder Overtrek | Incl. Kussensloop | 200 x 200/220 cm

@@ -19,13 +19,14 @@ freeDelivery: false
 id: a1a33f3a-b0e7-40b5-af36-847e37ec0c0f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1579840
+    - all
+  extension: image/png
+  id: 55744662-92b0-405d-8d95-0adc0f5c5045-tr
   priority: 0
-  slug: lifa-living-saint-tropez-wandkast
+  slug: lifa-living-saint-tropez-regal-7-ablagen-7-jpg-product-1
   type: product
 logo:
   channels:
@@ -35,7 +36,7 @@ logo:
   extension: png
   id: 1579811
   priority: 100
-  slug: lifa-living-saint-tropez-wandkast
+  slug: lifa-living-saint-tropez-regal-7-ablagen
   type: logo
 offerId: f9bd98e7-b9df-4219-b3d7-b254cc7413b0
 price:

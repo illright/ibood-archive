@@ -19,13 +19,16 @@ freeDelivery: false
 id: a4958fbb-68b4-4643-aae0-48c44b0f2ac8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1349758
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 48c79613-60af-4157-a9f5-ec953c3c1c66-tr
   priority: 0
-  slug: house-nordic-emilia-koffietafel
+  slug: house-nordic-emilia-koffietafel-1-jpg-product-11
   type: product
 logo:
   channels:

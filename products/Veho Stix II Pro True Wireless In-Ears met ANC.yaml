@@ -1,4 +1,4 @@
-_id: 6989e72cd8148ff606049b22
+_id: 69835eb693f88daacd1613ec
 appOnly: false
 brand: Veho
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Veho
 categories:
   - 86786a0f-cd39-53d1-a0e8-7a9521d1c35d
-classicId: '2997416'
-classicProductId: '540095'
+classicId: '2988501'
+classicProductId: '540096'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: true
 discount: 77
 end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 34162c9d-f5ec-5d50-bb0d-3d66096f103c
+id: 5d938225-9224-5d7e-a000-51c38a4f6187
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2014411
+    - all
+  extension: image/png
+  id: 4debfa81-897d-4f81-8333-fc458ac8c906
   priority: 0
-  slug: veho-stix-ii-pro-true-wireless-in-ears-met-anc
+  slug: veho-stix-ii-pro-true-wiredless-in-ears-anc-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: veho-logo
   type: logo
-offerId: 418bf6b2-57da-5799-84b6-4f76bf68e3b2
+offerId: 54547e9e-893e-553e-a1c8-d0eaca9ef58d
 price:
   cents: 3495
   currency: EUR
