@@ -1,22 +1,22 @@
-_id: 6989dc3ec9f63c15849b68fb
+_id: 698b02b2db1cc4cb506979b5
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 399d92b5-56c3-5ab9-9206-fde1881b12b3
-classicId: '2996955'
-classicProductId: '673658'
+  - 1456d817-7eda-53b7-b745-42fc4f04875c
+classicId: '2999117'
+classicProductId: '673672'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 61
-end: '2026-02-15T22:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2026-02-16T22:59:59.000Z'
 freeDelivery: false
-id: 84f91d9c-9d9d-451b-b737-ea43e20d8c18
+id: 0c36d5aa-8755-47a6-b150-05196d48576c
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 4708391d-73e2-408c-aed0-90bf5c82cd29
+offerId: cd2e9f25-dc87-4a8f-9342-af7dfb4528c7
 price:
-  cents: 2345
+  cents: 2995
   currency: EUR
-  value: 23.45
+  value: 29.95
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: petrol-gebreide-polo-heren
 soldOut: false
-start: '2026-02-08T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Petrol Gebreide Polo | Heren

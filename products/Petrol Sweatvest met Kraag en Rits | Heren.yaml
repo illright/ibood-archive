@@ -1,22 +1,22 @@
-_id: 6989dc3ac9f63c15849b68f4
+_id: 6981de9ffe979b0b4b592bc3
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 399d92b5-56c3-5ab9-9206-fde1881b12b3
-classicId: '2996954'
-classicProductId: '673652'
+  - 1456d817-7eda-53b7-b745-42fc4f04875c
+classicId: '2984902'
+classicProductId: '673647'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
-end: '2026-02-15T22:59:59.999Z'
+discount: 58
+end: '2026-02-16T22:59:59.000Z'
 freeDelivery: false
-id: 45827c0a-f6bf-4260-a750-e44014079f7f
+id: fa257343-7c1b-4ad0-91cc-d1ae4d7d9c08
 image:
   channels:
     - app
@@ -24,20 +24,30 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 7651d84b-b7f1-4f28-9245-e29eee6b9c00
+  id: b9446495-8a13-451a-ada7-80ebccbd66cc
   priority: 0
-  slug: pt01-png-product-1
+  slug: petrol-08-png-product-1
   type: product
-offerId: 0505a433-af19-4781-bffe-04787987cece
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
+  type: logo
+offerId: 4fb63f4e-b9b4-4674-8946-efe7ee52e5d3
 price:
-  cents: 2251
+  cents: 2495
   currency: EUR
-  value: 22.51
+  value: 24.95
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: petrol-sweatvest-met-kraag-en-rits-heren
 soldOut: false
-start: '2026-02-08T23:00:00.000Z'
+start: '2026-02-02T23:00:00.000Z'
 title: Petrol Sweatvest met Kraag en Rits | Heren

@@ -1,45 +1,46 @@
-_id: 698364c04b064076045cd01d
+_id: 6989a4f5e980f53813e0a1f3
 appOnly: false
 brand: Columbia
 brands:
   - id: 5f0ce9cd-63f2-5848-80c4-5da01f910498
     name: Columbia
 categories:
-  - 06c7340f-88be-5ead-8a0c-64e93c0e7f9f
-classicId: '2988572'
-classicProductId: '691456'
+  - 1b6399dd-cabb-579a-ac4b-959f33087015
+classicId: '2992951'
+classicProductId: '686568'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-02-17T22:59:59.999Z'
+end: '2026-02-16T22:59:59.999Z'
 freeDelivery: false
-id: 6ae86fce-3688-5676-9e1a-b90c329dbad8
+id: bf6f249d-6599-4fc8-ab6c-cf6521f7d7b2
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 22ab377a-88e7-4736-8286-02b9335dac04-tr
+  id: 01c648c0-3dc3-46c5-ba28-e64af8d74ce8-tr
   priority: 0
-  slug: s-chalk-2090891191-helvetia-ii-half-snap-fleece-men-s-columbia-product-4
+  slug: xl-everblue-2090891429-helvetia-ii-half-snap-fleece-men-s-columbia-product-4
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 75de59e8-f825-49f7-b96f-582f52f571aa
-  priority: 0
-  slug: columbia-png-logo-0
+  extension: png
+  id: 1921819
+  priority: 100
+  slug: columbia-logo
   type: logo
-offerId: b42730b8-a768-5688-9288-f002cf035ca2
+offerId: a3c660bb-dfca-427e-b11f-02f7dfe851ed
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +51,5 @@ referencePrice:
   value: 75
 slug: columbia-helvetia-streetwear-fleece-heren
 soldOut: false
-start: '2026-02-12T23:00:00.000Z'
+start: '2026-02-09T23:00:00.000Z'
 title: Columbia Helvetia Streetwear Fleece | Heren
