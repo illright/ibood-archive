@@ -1,12 +1,12 @@
-_id: 6983586c93f88daacd1613af
+_id: 69930e0992d2c1cb95529119
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 1aadc0d9-088f-5ce3-bce3-e44fa228094c
-classicId: '2988280'
+  - 0084e5eb-79a1-58d6-8d21-654c50c5a8fc
+classicId: '3008171'
 classicProductId: '691429'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: ac91fd93-678c-59aa-8e07-e3fd4210e12a
+id: b3863b3c-4432-43fa-b562-22e782d12614
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: polaroid-pld-2081-s-x-202449kj151uc-sunglasses-man-product-0
   type: product
-offerId: d15a7f9a-b348-590e-ab6a-d874e0c78523
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
+  type: logo
+offerId: 32a6f818-9124-4c58-b7f1-6e632c2dd889
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 85
 slug: polaroid-pld-2081-s-x-kj1-uc-51
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Polaroid Zonnebril | Heren | PLD 2081/S/X

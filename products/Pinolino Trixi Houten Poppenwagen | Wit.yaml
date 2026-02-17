@@ -1,12 +1,12 @@
-_id: 698089f5e1809bffba513c07
+_id: 698f008883c9384cb71fdd5e
 appOnly: false
 brand: Pinolino
 brands:
   - id: 10464502-330e-51e0-bc5e-f93ca2e5ba39
     name: Pinolino
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2981279'
+  - 8d27c420-ccdf-51c6-aeaf-fc5f60a7d97a
+classicId: '3005331'
 classicProductId: '630066'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 68
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-02-19T22:59:59.999Z'
 freeDelivery: false
-id: c4f413ff-6cf2-5551-a8f5-765c7fba5e2f
+id: 04a0066f-b977-4c26-87ce-db9e00fee90d
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2207680
-  priority: 100
-  slug: pinolino-trixi-puppenwagen-wei-ab-1-jahr
+    - all
+  extension: image/png
+  id: ebd674ec-2626-48d9-854e-bffbad15c613
+  priority: 0
+  slug: pinolino-logo-0
   type: logo
-offerId: c60f07f8-dd18-51e6-852d-f3ee68fbefb9
+offerId: 2cf8b05b-c982-4dd5-8e75-dd4309616b98
 price:
   cents: 2995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 94.9
 slug: pinolino-trixi-houten-poppenwagen
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Pinolino Trixi Houten Poppenwagen | Wit

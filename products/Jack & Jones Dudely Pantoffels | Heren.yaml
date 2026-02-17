@@ -1,53 +1,42 @@
-_id: 6989d7c9d8148ff6060497db
+_id: 69930eee92d2c1cb95529264
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - bdfa9aba-1878-5222-a9c9-06b39759a178
-classicId: '2996433'
-classicProductId: '677944'
+  - 823bbbd6-bc64-5df9-85b6-71b6eb059c2e
+classicId: '3008438'
+classicProductId: '588978'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 40
-end: '2026-02-16T22:59:59.999Z'
+directCheckout: false
+discount: 48
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 80745bb9-56ab-40bd-a09c-6429b390fbb3
+id: dcc6c05d-70e6-4f23-ab00-1eb9f110449c
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ed77a75e-961f-4a72-9602-ddc773fde76c
+  extension: jpg
+  id: 2031997
   priority: 0
-  slug: jack-jones-219-png-product-1
+  slug: jack-jones-jfwdudely-slippers
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
-  type: logo
-offerId: f04bf681-649e-4780-8875-e7d0a5ad4c5f
+offerId: 137dc3b1-0289-45ef-b6ab-9cd1ccf8929f
 price:
-  cents: 1495
+  cents: 1295
   currency: EUR
-  value: 14.95
+  value: 12.95
 referencePrice:
   cents: 2499
   currency: EUR
   value: 24.99
 slug: jack-jones-dudely-pantoffels-heren
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Jack & Jones Dudely Pantoffels | Heren

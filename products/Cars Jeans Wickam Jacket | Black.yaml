@@ -1,22 +1,22 @@
-_id: 6981de5c76c5eb9ca03b0afe
+_id: 69930df209e88363752c03dc
 appOnly: false
 brand: Cars Jeans
 brands:
   - id: 1606205d-b37b-5b13-b9d4-f198ca94cb65
     name: Cars Jeans
 categories:
-  - d5521e65-ea56-5b17-99ac-35d54277a7a5
-classicId: '2984852'
+  - b155b763-ecd5-5e79-82c5-0ee7cb4aca14
+classicId: '3008148'
 classicProductId: '678794'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 59
-end: '2026-02-16T22:59:59.000Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: f0212c54-ff10-41f5-b067-7e237bb31a17
+id: 4ab2b439-3408-4efb-a7c0-ec8b69329fe7
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: cars-jeans-logo
   type: logo
-offerId: 238d4528-c02a-411f-afc6-c28a0c99cef8
+offerId: 663a736a-1716-4266-a28d-173617add1b2
 price:
   cents: 4495
   currency: EUR
@@ -51,5 +51,5 @@ referencePrice:
   value: 109.95
 slug: cars-jeans-wickam-jacket-black
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Cars Jeans Wickam Jacket | Black

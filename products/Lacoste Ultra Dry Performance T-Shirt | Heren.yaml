@@ -1,22 +1,22 @@
-_id: 698f3c7e65d0c9357d6f11cf
+_id: 6992e0b792d2c1cb95528d44
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - c27f343f-1461-573f-b313-6a134058e651
-classicId: '3005932'
-classicProductId: '356977'
+  - bfa03091-9355-5782-963a-44897b493d84
+classicId: '3007636'
+classicProductId: '638709'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 64
-end: '2026-02-16T22:59:59.999Z'
+directCheckout: true
+discount: 68
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 516bf3ed-246f-55d0-96e8-954e143f97be
+id: acfb177e-4764-44b4-b9bd-8d5f8df4f5ce
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 6d74c579-1f19-45b5-8d2b-e61d3a6154d7
+  id: 10a9bf96-fe40-4b9e-81fc-f5726af68a49
   priority: 0
-  slug: lacoste-ultra-dry-performance-t-shirt-heren-product-34
+  slug: lacoste-22-png-product-1
   type: product
 logo:
   channels:
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: a5d95a42-bf39-54b7-8544-3e353adbac6d
+offerId: 7be1093c-631f-4bd8-a618-f7cbf3379a5e
 price:
-  cents: 1995
+  cents: 1781
   currency: EUR
-  value: 19.95
+  value: 17.81
 referencePrice:
   cents: 5500
   currency: EUR

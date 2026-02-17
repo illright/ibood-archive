@@ -1,32 +1,31 @@
-_id: 6989a4fedb1cc4cb50696409
+_id: 698ee6213a523b06f4053c50
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - 1b6399dd-cabb-579a-ac4b-959f33087015
-classicId: '2992974'
-classicProductId: '666715'
+  - d6a14dc9-68a5-5df1-84ed-a2516b4840ff
+classicId: '3004889'
+classicProductId: '496470'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 55
-end: '2026-02-16T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 6e61b82e-d5f3-4c6c-a361-17375a75bb43
+id: e55dd07a-eeda-43a8-b3e1-5e6c4bc7881c
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 97b8f906-7500-45bf-b65b-d0f4031839f7
+  extension: png
+  id: 2100398
   priority: 0
-  slug: greg-png-product-1
+  slug: mowmow-stealth-clip-goggle-photochromic
   type: product
 logo:
   channels:
@@ -39,7 +38,7 @@ logo:
   priority: 0
   slug: mowmow-logo-0
   type: logo
-offerId: 844b89c1-142b-4c79-9ad4-a399d5feee84
+offerId: 0a6a5fb5-4a5d-4d9b-b734-32dc2ff63e95
 price:
   cents: 7995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 179
 slug: mowmow-stealth-clip-goggle-photochromic
-soldOut: true
-start: '2026-02-09T23:00:00.000Z'
+soldOut: false
+start: '2026-02-16T23:00:00.000Z'
 title: MowMow Stealth Clip Goggle | Photochromic

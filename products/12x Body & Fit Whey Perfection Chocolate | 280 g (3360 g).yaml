@@ -1,12 +1,12 @@
-_id: 6989a245db1cc4cb50695ee3
+_id: 69936f9392d2c1cb9552947e
 appOnly: false
 brand: Body en Fit
 brands:
   - id: 82671475-a959-51bb-8b74-6506d29cf40e
     name: Body en Fit
 categories:
-  - e420cc63-c3db-56d6-9fcd-2f574781102a
-classicId: '2992213'
+  - ed9cfe7c-d3a9-5072-9dd4-ac5502b71f83
+classicId: '3010148'
 classicProductId: '674021'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 84
-end: '2026-02-16T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: ff42d181-3939-4f0e-b011-94cfd53d02ea
+id: c72935cb-8d2d-4273-a5e6-cb077588c339
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1998953
-  priority: 100
-  slug: body-en-fit-logo
+    - all
+  extension: image/png
+  id: 18874c78-1957-4da1-8410-13e10daa3310
+  priority: 0
+  slug: bodyandfit-png-logo-0
   type: logo
-offerId: 99ea2628-3766-40a1-86d0-5a22748015c3
+offerId: 8f8dd308-098e-4cbd-8a81-125a6beb2a5c
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 215.88
 slug: 12x-body-fit-whey-perfection-chocolate-280-g
 soldOut: true
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: 12x Body & Fit Whey Perfection Chocolate | 280 g (3360 g)

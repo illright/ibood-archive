@@ -1,12 +1,12 @@
-_id: 698358f193f88daacd1613cc
+_id: 69930e0a00bcad1f45ee9f1b
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 1aadc0d9-088f-5ce3-bce3-e44fa228094c
-classicId: '2988293'
+  - 0084e5eb-79a1-58d6-8d21-654c50c5a8fc
+classicId: '3008173'
 classicProductId: '691439'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 2ab0dcfc-322e-5be8-a0e9-2eed18e1314b
+id: 8a801494-97cd-427e-a766-bb2556330c6c
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: polaroid-pld-2156-s-20673400356m9-sunglasses-unisex-adult-product-3
   type: product
-offerId: 2ba0dd85-4ebc-5485-a0ce-e5ad3aed12a5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
+  type: logo
+offerId: 7b78dca2-6422-41ed-a50f-7d2e17d9c79d
 price:
   cents: 2795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 60
 slug: polaroid-zonnebril-unisex-pld-2156-s
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Polaroid Zonnebril | Unisex | PLD 2156/S

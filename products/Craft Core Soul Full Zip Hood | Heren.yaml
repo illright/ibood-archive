@@ -1,4 +1,4 @@
-_id: 6984a36adeb3dd8880dce3ea
+_id: 698494a7deb3dd8880dce3ba
 appOnly: false
 brand: Craft
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Craft
 categories:
   - a4471fb5-75b7-5690-81d4-1eca4422c6d3
-classicId: '2989657'
-classicProductId: '691610'
+classicId: '2989567'
+classicProductId: '618171'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2026-02-19T22:59:59.999Z'
 freeDelivery: false
-id: 94b7f0a2-2221-5672-88f6-25c750026b29
+id: d7a6f4b2-168c-5f25-bfe9-a907a576fff9
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 578a839e-2713-4a9a-a0c8-e42aaf036f02-tr
+  id: d23fbac0-2084-467f-a9f7-5db2565c85f7-tr
   priority: 0
-  slug: m-black-1910620-999000-core-soul-full-zip-hood-m-craft-product-0
+  slug: craft-core-soul-sweatshirt-jacke-herren-1-jpg-product-2
   type: product
-offerId: df4678aa-3d6f-5356-84a0-3bbde785e2d3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2173607
+  priority: 100
+  slug: craft-core-soul-sweatshirt-jacke-herren
+  type: logo
+offerId: 663084da-6f8e-593b-a55f-e80ff2934dbf
 price:
   cents: 4495
   currency: EUR

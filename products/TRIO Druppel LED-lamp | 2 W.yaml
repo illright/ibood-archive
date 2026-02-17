@@ -19,13 +19,14 @@ freeDelivery: false
 id: 01f11703-6808-4c95-90a4-005ed4b05c6b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2206299
-  priority: 100
-  slug: trio-tropfen-led-lampe-2-w
+    - all
+  extension: image/png
+  id: 1d73cd8c-81d6-4698-97d2-e94fb49b2d23
+  priority: 0
+  slug: main-png-product-101
   type: product
 logo:
   channels:

@@ -1,12 +1,12 @@
-_id: 698c4249d8148ff60604a417
+_id: 6992d81283c9384cb71fdffc
 appOnly: false
 brand: Bahco
 brands:
   - id: 28ea2216-7811-5945-a5bd-9dca4a05bb82
     name: Bahco
 categories:
-  - bb6fd7b0-b70b-5f95-8464-b12fb9bebf08
-classicId: '3000534'
+  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
+classicId: '3007143'
 classicProductId: '613290'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2026-02-16T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: ddcf5b26-6653-4622-8fea-1cad63751dda
+id: 5b103951-e308-45c6-b0f0-c16e86942bb5
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1571287
-  priority: 1
-  slug: 2x-bahco-handzaag-55-cm
+    - all
+  extension: image/png
+  id: 8be04052-726f-451d-aa5b-01ac0bf2d5be
+  priority: 0
+  slug: bahco-logo-0
   type: logo
-offerId: 959a9d62-6ade-4336-99a1-39826b69f1af
+offerId: d56f2bdb-a214-4751-94ba-eb43368becf4
 price:
   cents: 2695
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 116
 slug: 2x-bahco-handzaag-55-cm
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: 2x Bahco Handzaag | 55 cm | 2600-22-XT-HP

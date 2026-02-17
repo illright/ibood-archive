@@ -1,12 +1,12 @@
-_id: 6981dea02f3025f4ec2b354a
+_id: 69930f0b28d705e4c552d0a9
 appOnly: false
 brand: FQ1924
 brands:
   - id: 91954d9f-3721-54cd-bae7-3a06c578a3a3
     name: FQ1924
 categories:
-  - 1456d817-7eda-53b7-b745-42fc4f04875c
-classicId: '2984903'
+  - 005f146d-7047-5509-a51a-28750acd2697
+classicId: '3008466'
 classicProductId: '687203'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 43
-end: '2026-02-16T22:59:59.000Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 159346df-bde7-4932-8fdd-def681f2fb0e
+id: 4b3b5d66-7896-41a9-8631-79a2f8edb88c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: fq1924-01-png-product-1
   type: product
-offerId: 3c1d9e8e-ae96-4cce-8964-72e9fab15e76
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 201afe16-7d09-4ca4-8c02-bdf1986306b1
+  priority: 0
+  slug: fq1924-logo-0
+  type: logo
+offerId: f8842bd6-0d77-49cf-80cf-483f615ec36d
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.95
 slug: fq1924-fqkiion-sweater-met-ronde-hals-heren
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: FQ1924 FQKIION Sweater met Ronde Hals | Heren

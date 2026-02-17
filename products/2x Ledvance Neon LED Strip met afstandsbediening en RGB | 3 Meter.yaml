@@ -1,12 +1,12 @@
-_id: 6989bb72acaffd9bfb0d76d6
+_id: 6992d71683c9384cb71fdec1
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - bb6fd7b0-b70b-5f95-8464-b12fb9bebf08
-classicId: '2994446'
+  - 8ff35d81-b566-53de-80f2-e934837973ff
+classicId: '3006906'
 classicProductId: '687196'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 86
-end: '2026-02-16T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 4629dcbd-27ae-4f48-9847-2ad0ad1296c3
+id: 5bfd3150-b61f-4684-811c-d585a1786680
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d590777d-dcdc-47d6-88eb-7e6f8c722463
-  priority: 0
-  slug: ledvance-png-logo-0
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
   type: logo
-offerId: 9017199e-5d64-48a8-ad1e-a1f9ac5e785f
+offerId: dfff4e1d-3120-4334-ab79-42f482ce3efa
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 129.9
 slug: 2x-ledvance-neon-led-strip-met-afstandsbediening-en-rgb-3-meter
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: 2x Ledvance Neon LED Strip met afstandsbediening en RGB | 3 Meter

@@ -1,12 +1,12 @@
-_id: 698c4247d8148ff60604a413
+_id: 6992d7ecd4b230276fbb5f64
 appOnly: false
 brand: Bahco
 brands:
   - id: 28ea2216-7811-5945-a5bd-9dca4a05bb82
     name: Bahco
 categories:
-  - bb6fd7b0-b70b-5f95-8464-b12fb9bebf08
-classicId: '3000533'
+  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
+classicId: '3007101'
 classicProductId: '260797'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2026-02-16T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: d8635c7e-4ce2-4b8a-a4cd-70590885a635
+id: dea113a1-dd7a-401f-b248-090002dea1e2
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1571292
-  priority: 100
-  slug: bahco-handbijl-360-mm
+    - all
+  extension: image/png
+  id: 8be04052-726f-451d-aa5b-01ac0bf2d5be
+  priority: 0
+  slug: bahco-logo-0
   type: logo
-offerId: 7e84dd45-fb8b-4f63-96df-c4e184030591
+offerId: 8de39a23-a461-4ed5-92bc-b186cb30fb3f
 price:
   cents: 1295
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 26.38
 slug: bahco-handbijl-360-mm
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Bahco Handbijl | 360 mm

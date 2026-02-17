@@ -1,12 +1,12 @@
-_id: 6980aaa93999b83aa2778cdd
+_id: 69930df228d705e4c552cf6c
 appOnly: false
 brand: Samsonite
 brands:
   - id: 76fdbcf4-cdc0-5321-9cad-2639a5d8bdf0
     name: Samsonite
 categories:
-  - bd7b7a6a-3e97-5db1-8197-dfa0e0641b4d
-classicId: '2981789'
+  - 0084e5eb-79a1-58d6-8d21-654c50c5a8fc
+classicId: '3008143'
 classicProductId: '687544'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2026-02-16T22:59:59.000Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 42636b27-9be9-44c2-b651-b532a160de5c
+id: e57ccf93-7b07-438d-b5f5-8c93674609f3
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 66-24-exp-black-1288311041-citybeat-spinner-samsonite-product-7
   type: product
-offerId: 95dd4022-aa2b-4ff0-b980-0b1235676125
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1744610
+  priority: 100
+  slug: samsonite-logo
+  type: logo
+offerId: 79d51bc9-c6d1-45df-a376-6bfad9e00ff2
 price:
   cents: 8495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 179
 slug: samsonite-citybeat-uitbreidbare-spinner-trolley-66-cm
 soldOut: false
-start: '2026-02-02T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Samsonite Citybeat Uitbreidbare Spinner Trolley | 66 cm

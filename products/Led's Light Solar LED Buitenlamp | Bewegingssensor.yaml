@@ -19,13 +19,14 @@ freeDelivery: false
 id: fe301ef7-b8b3-4a3d-8554-6239ae04151e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 397001
-  priority: 1
-  slug: leds-light-solar-buitenlamp
+    - all
+  extension: image/png
+  id: 2a22ce41-76df-430a-a0f0-86a372cefa61
+  priority: 0
+  slug: leds-light-led-auenleuchte-solar-jpg-product-1-png-product-2
   type: product
 logo:
   channels:

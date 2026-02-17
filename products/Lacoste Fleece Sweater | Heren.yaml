@@ -1,22 +1,22 @@
-_id: 6981de987ef9beef51d4bce2
+_id: 69930dd400bcad1f45ee9e9d
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 1456d817-7eda-53b7-b745-42fc4f04875c
-classicId: '2984895'
-classicProductId: '675208'
+  - 005f146d-7047-5509-a51a-28750acd2697
+classicId: '3008111'
+classicProductId: '675235'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 69
-end: '2026-02-16T22:59:59.000Z'
+directCheckout: false
+discount: 44
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 1daac0a7-f510-4f8c-b194-64108c59edfb
+id: 861041c8-7f08-4f27-a450-213d8fa8e761
 image:
   channels:
     - app
@@ -24,7 +24,7 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4eb5f85d-a98e-4196-8e0d-33e0237f7961
+  id: f09f8bd7-2893-4fd8-a488-31479e3956e7
   priority: 0
   slug: 1-png-product-1
   type: product
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 08fc84b0-6df8-466c-a89a-321823903711
+offerId: 97ecf8b1-86ec-4059-8549-f19b5786edb6
 price:
-  cents: 4995
+  cents: 8995
   currency: EUR
-  value: 49.95
+  value: 89.95
 referencePrice:
   cents: 16000
   currency: EUR
   value: 160
 slug: lacoste-fleece-sweater-heren
-soldOut: true
-start: '2026-02-02T23:00:00.000Z'
+soldOut: false
+start: '2026-02-16T23:00:00.000Z'
 title: Lacoste Fleece Sweater | Heren

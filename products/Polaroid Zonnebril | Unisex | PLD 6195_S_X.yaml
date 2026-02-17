@@ -1,12 +1,12 @@
-_id: 6983586c93f88daacd1613ad
+_id: 69930e1392d2c1cb95529126
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 1aadc0d9-088f-5ce3-bce3-e44fa228094c
-classicId: '2988279'
+  - 0084e5eb-79a1-58d6-8d21-654c50c5a8fc
+classicId: '3008186'
 classicProductId: '691433'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 04598441-9fa4-5f26-b841-f61d352e4ae3
+id: 09ada05b-2523-40e5-92d1-b9db17546657
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: polaroid-pld-6195-s-x-205697j5g58uc-sunglasses-unisex-adult-product-3
   type: product
-offerId: ad0a8b38-316b-5cdd-8696-9ffcb8528e2d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
+  type: logo
+offerId: 26348c4c-ff5b-48f5-9cbe-421c519a4a2d
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 70
 slug: polaroid-zonnebril-unisex-pld-6195-s-x
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Polaroid Zonnebril | Unisex | PLD 6195/S/X

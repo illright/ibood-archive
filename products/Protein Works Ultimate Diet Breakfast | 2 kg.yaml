@@ -1,22 +1,22 @@
-_id: 6989a3bcdb1cc4cb50696151
+_id: 6993708d420d028a5db3922f
 appOnly: false
 brand: Protein Works
 brands:
   - id: 9729d8c4-10e7-50ca-b489-73f2a0f67c19
     name: Protein Works
 categories:
-  - e420cc63-c3db-56d6-9fcd-2f574781102a
-classicId: '2992622'
-classicProductId: '604280'
+  - ed9cfe7c-d3a9-5072-9dd4-ac5502b71f83
+classicId: '3010598'
+classicProductId: '604283'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 58
-end: '2026-02-16T22:59:59.999Z'
+directCheckout: true
+discount: 51
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: be298810-462f-4e69-855a-840bcff029f6
+id: 811a5710-8211-4524-b3a7-89835aad2550
 image:
   channels:
     - website
@@ -25,7 +25,7 @@ image:
   extension: png
   id: 2167409
   priority: 0
-  slug: protein-works-ultimate-diet-breakfast-2-kg
+  slug: protein-works-ultimate-diet-breakfast
   type: product
 logo:
   channels:
@@ -33,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1863011
+  id: 2108878
   priority: 100
-  slug: protein-works-logo
+  slug: protein-works-ultimate-diet-breakfast
   type: logo
-offerId: 75d75dd6-1fd1-41a7-a47e-ac7225f1eda8
+offerId: 87c909cc-2eff-4139-93c4-20aead3f2f53
 price:
-  cents: 2995
+  cents: 3495
   currency: EUR
-  value: 29.95
+  value: 34.95
 referencePrice:
   cents: 7199
   currency: EUR
   value: 71.99
 slug: protein-works-ultimate-diet-breakfast
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Protein Works Ultimate Diet Breakfast | 2 kg

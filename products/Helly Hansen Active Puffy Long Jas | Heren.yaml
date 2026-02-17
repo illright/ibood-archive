@@ -1,34 +1,32 @@
-_id: 6989a4ab2e12c3a16075fe57
+_id: 698eead23a523b06f4053cb1
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - 1b6399dd-cabb-579a-ac4b-959f33087015
-classicId: '2992903'
-classicProductId: '659557'
+  - c3e976f8-21a3-529d-9b8e-375f1b10fc5f
+classicId: '3005029'
+classicProductId: '659561'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 57
-end: '2026-02-16T22:59:59.999Z'
+directCheckout: true
+discount: 54
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: fe3cb757-fca2-4283-8676-ee23b1975d73
+id: f974dd46-f66d-4829-83ab-3a7fabed0006
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
-  extension: image/png
-  id: b8f8bdc0-7914-4b6d-956a-af044ceaf243-tr
+  extension: image/jpeg
+  id: c49a8190-4ba1-4bbf-a0d3-d8092fc39aa4
   priority: 0
-  slug: s-824-nimbus-cloud-53522-824-s-active-puffy-long-jacket-helly-hansen-product-0
+  slug: l-990-black-53522-990-l-active-puffy-long-jacket-helly-hansen-product-1
   type: product
 logo:
   channels:
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: fcbc7b16-bc9a-4c91-8cf0-7be3a0b78615
+offerId: dcbfee79-79ad-4b57-bf1b-a241168eda9b
 price:
-  cents: 11995
+  cents: 12995
   currency: EUR
-  value: 119.95
+  value: 129.95
 referencePrice:
   cents: 28000
   currency: EUR
   value: 280
-slug: helly-hansen-active-puffy-long-jas-nimbus-cloud
+slug: helly-hansen-active-puffy-long-jas
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Helly Hansen Active Puffy Long Jas | Heren

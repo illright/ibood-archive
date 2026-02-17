@@ -1,22 +1,22 @@
-_id: 698b02cfdb1cc4cb506979e7
+_id: 69930e092210407f1afc8164
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 1456d817-7eda-53b7-b745-42fc4f04875c
-classicId: '2999134'
-classicProductId: '676190'
+  - 005f146d-7047-5509-a51a-28750acd2697
+classicId: '3008179'
+classicProductId: '676194'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 43
-end: '2026-02-16T22:59:59.000Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 6a5d85ed-69ab-4f1c-8d76-cd731e9e7f05
+id: 047450fc-c336-4163-8908-b08df220b8b1
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 1a2971c5-7b6e-462b-87c5-012a69d972fd
+offerId: db8398a4-c03a-4df7-9971-5ae5dbe51d11
 price:
   cents: 1695
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 29.99
 slug: jack-jones-premium-ajaxon-stretch-shirt-heren
-soldOut: true
-start: '2026-02-02T23:00:00.000Z'
+soldOut: false
+start: '2026-02-16T23:00:00.000Z'
 title: Jack & Jones Premium Ajaxon Stretch Shirt | Heren

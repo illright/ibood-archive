@@ -1,12 +1,12 @@
-_id: 6989bb14183373bcbc3c53ce
+_id: 6992d844d4b230276fbb5f6c
 appOnly: false
 brand: DeWALT
 brands:
   - id: aa972102-79c6-54b1-b2a4-b26148542064
     name: DeWALT
 categories:
-  - d03874c8-5277-524e-8187-b187c0d63784
-classicId: '2994341'
+  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
+classicId: '3007192'
 classicProductId: '655874'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 20
-end: '2026-02-16T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 0411859f-afe6-4922-983c-63d163e8433f
+id: 10e7a46e-b71e-4989-9b85-ab27f241d25b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 15cb19f4-8283-4775-9e59-d63240be1ae9
-  priority: 0
-  slug: dewalt-png-logo-0
+  extension: png
+  id: 1664148
+  priority: 100
+  slug: dewalt-logo
   type: logo
-offerId: 1e3e2fc2-55b8-4e09-8ad9-938d8067723b
+offerId: 83edd26d-de78-47a0-a327-1e67cf8f5681
 price:
   cents: 1195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 14.95
 slug: 3x-dewalt-stofzak-20-tot-30-l
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: 3x DeWalt Stofzak voor DXV30SAPTA en DXV34P-QT | 20 tot 30 l | DXVA19-4204

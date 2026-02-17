@@ -1,12 +1,12 @@
-_id: 698358f04b064076045ccfd9
+_id: 69930df009e88363752c03d6
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 1aadc0d9-088f-5ce3-bce3-e44fa228094c
-classicId: '2988290'
+  - 0084e5eb-79a1-58d6-8d21-654c50c5a8fc
+classicId: '3008137'
 classicProductId: '691444'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 1133a1e9-d188-5aac-81d6-847e5c19f7a6
+id: bcf85a15-be33-4997-897a-02c893c38c21
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: polaroid-pld-4174-s-x-2073801ed55m9-sunglasses-man-product-2
   type: product
-offerId: a35a10ab-7957-5501-8793-e3a01c140876
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
+  type: logo
+offerId: 92cd1112-af25-46c3-a659-3d9b2127c35e
 price:
   cents: 2595
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 100
 slug: polaroid-zonnebril-heren-pld-4174-s-x
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Polaroid Zonnebril | Heren | PLD 4174/S/X

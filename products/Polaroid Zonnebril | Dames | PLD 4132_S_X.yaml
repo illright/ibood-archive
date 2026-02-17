@@ -1,12 +1,12 @@
-_id: 6983586c4b064076045ccfc5
+_id: 69930e2b00cc45ec3ca7c73d
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 1aadc0d9-088f-5ce3-bce3-e44fa228094c
-classicId: '2988282'
+  - 0084e5eb-79a1-58d6-8d21-654c50c5a8fc
+classicId: '3008205'
 classicProductId: '691432'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 21922e06-631c-5937-8067-442c8329650e
+id: e0a2cb2b-f2dd-4767-bba9-a254a14f1d3f
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: polaroid-pld-4132-s-x-20533480753m9-sunglasses-woman-product-2
   type: product
-offerId: 549f7e2d-6598-5254-820b-630cfd4ed522
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
+  type: logo
+offerId: 5f9c73d9-2889-411b-a127-da51bc90d6c6
 price:
   cents: 3695
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 85
 slug: polaroid-zonnebril-dames-pld-4132-s-x
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Polaroid Zonnebril | Dames | PLD 4132/S/X

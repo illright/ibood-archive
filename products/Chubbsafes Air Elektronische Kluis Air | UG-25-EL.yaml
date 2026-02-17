@@ -1,12 +1,12 @@
-_id: 6989bb9fdb1cc4cb50696638
+_id: 6992d81192d2c1cb9552883a
 appOnly: false
 brand: Chubbsafe
 brands:
   - id: 87ef3d66-6ee4-58d9-9353-8ff98d889517
     name: Chubbsafe
 categories:
-  - bb6fd7b0-b70b-5f95-8464-b12fb9bebf08
-classicId: '2994487'
+  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
+classicId: '3007141'
 classicProductId: '688270'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 65
-end: '2026-02-16T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 86560a12-7330-4457-b3db-df08c7e5dc99
+id: 1a53a598-86cf-4c11-803c-33b56de22531
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: chubbsafe-kluis-1102002175-air-ug-25-el-product-1
   type: product
-offerId: c7e3ccba-576a-42d6-b082-6efd1e66115a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6832b3f8-39b0-4982-acf5-1fda20b4cc56
+  priority: 0
+  slug: chubbsafe-logo-0
+  type: logo
+offerId: 3d8dbee7-a34a-47d5-8549-523b5a3c7b3d
 price:
   cents: 7995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 229
 slug: chubbsafes-air-elektronische-kluis-air-ug-25-el
 soldOut: false
-start: '2026-02-09T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Chubbsafes Air Elektronische Kluis Air | UG-25-EL
