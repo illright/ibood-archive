@@ -19,13 +19,14 @@ freeDelivery: false
 id: 2e8fb1ee-bfe9-46fe-b534-b9ea98a41781
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1016110
+    - all
+  extension: image/png
+  id: 89bf59c2-482c-4f2a-a72f-bee3c7c9149b
   priority: 0
-  slug: leds-light-buitenlamp-2xgu10-ip44
+  slug: 1-png-product-1
   type: product
 logo:
   channels:

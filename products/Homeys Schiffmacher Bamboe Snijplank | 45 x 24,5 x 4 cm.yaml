@@ -1,12 +1,12 @@
-_id: 698af7b6db1cc4cb50697586
+_id: 6994342083c9384cb71fea9f
 appOnly: false
 brand: Homeys Schiffmacher
 brands:
   - id: 641d5332-a3a2-536e-ac2a-edc8470cd629
     name: Homeys Schiffmacher
 categories:
-  - d3247c37-c900-5a5f-8141-6a9379944dd2
-classicId: '2998282'
+  - dee04344-e101-5244-a51e-f2c681f95aed
+classicId: '3011542'
 classicProductId: '676914'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-02-17T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 1a70c143-bab9-4565-a280-0b2ca4453228
+id: 3cae16a2-15ed-4506-82c0-c3b8a1c300b3
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 2
   slug: homeys-schiffmacher-snijplank-bamboe-tattoobedrukking-45-x-24-5-x-4cm-product-2
   type: product
-offerId: c26ecf26-8177-4dad-b35d-cb5cfa714b73
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 676d4414-4348-41a7-a820-1cec8d30b7b2
+  priority: 0
+  slug: homeys-schiffmacher-logo-0
+  type: logo
+offerId: 3ec29e6b-7dd2-4788-b12a-a959a09f2295
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 84
 slug: homeys-schiffmacher-bamboe-snijplank-45-x-24-5-x-4-cm
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-02-17T23:00:00.000Z'
 title: Homeys Schiffmacher Bamboe Snijplank | 45 x 24,5 x 4 cm

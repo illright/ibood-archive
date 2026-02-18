@@ -1,12 +1,12 @@
-_id: 698af74e7bc5e44542bafd93
+_id: 6994342b92d2c1cb95529a2d
 appOnly: false
 brand: GRAEF
 brands:
   - id: c6a19d50-8bb4-5344-9ffa-709adb4917e3
     name: GRAEF
 categories:
-  - a5bce828-8128-5e3a-a141-ace8077e85b3
-classicId: '2998095'
+  - b9546dd9-8cc3-5143-8f7d-e25627f7bcd8
+classicId: '3011579'
 classicProductId: '638165'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-02-17T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 5f6a3c2d-2ea7-4d24-abcb-cc698012b094
+id: cd2f345d-63a9-4341-bdd4-78ba0b3e361a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: snijmachine-png-product-1
   type: product
-offerId: 058d7e60-3a15-4572-b080-db98730cad4c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3d1f7db2-2b75-4dc2-ab01-6bd647c8d916
+  priority: 0
+  slug: graef-logo-0
+  type: logo
+offerId: edcf3357-46dc-4f1a-abdd-dff04c6fbc45
 price:
   cents: 12995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 299
 slug: graef-elektrische-snijmachine-s-32100
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-02-17T23:00:00.000Z'
 title: Graef Elektrische Snijmachine S 32100

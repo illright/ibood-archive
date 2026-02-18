@@ -1,22 +1,22 @@
-_id: 698af71cd8148ff606049ca8
+_id: 6994343d92d2c1cb95529a73
 appOnly: false
 brand: Trebonn
 brands:
   - id: 3944ecdd-cd6b-5f36-9d1a-3c04915c95d2
     name: Trebonn
 categories:
-  - d6a2519e-319f-59c0-a42c-bc76546593ab
-classicId: '2998031'
+  - dee04344-e101-5244-a51e-f2c681f95aed
+classicId: '3011640'
 classicProductId: '674498'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 69
-end: '2026-02-17T22:59:59.999Z'
+discount: 80
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 85b5df05-0b08-46a5-a64d-acb158734e3b
+id: 550426b6-59a4-4fff-a8fd-45820cb1579a
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: 1120108-trebonn-chopdrainrest-snijplank-3-in-1-trilogy-product-0
   type: product
-offerId: cb049f89-50ee-4688-80e6-8ac6d7e266e9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fa6566f3-43ec-4f92-8740-44c43c22afc9
+  priority: 0
+  slug: trebonn-logo-0
+  type: logo
+offerId: e548b4e3-1a0a-4cca-aa19-5ec76b68ade1
 price:
-  cents: 1495
+  cents: 995
   currency: EUR
-  value: 14.95
+  value: 9.95
 referencePrice:
   cents: 4900
   currency: EUR
   value: 49
 slug: trebonn-snijplank-trilogy
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-02-17T23:00:00.000Z'
 title: Trebonn Snijplank Trilogy | 3-delig

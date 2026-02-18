@@ -1,22 +1,22 @@
-_id: 6992e0f983c9384cb71fe338
+_id: 69930ee0d4b230276fbb63ae
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - bfa03091-9355-5782-963a-44897b493d84
-classicId: '3007673'
-classicProductId: '661077'
+  - 823bbbd6-bc64-5df9-85b6-71b6eb059c2e
+classicId: '3008425'
+classicProductId: '661065'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 64
-end: '2026-02-22T22:59:59.999Z'
+directCheckout: true
+discount: 60
+end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: 070294f3-a671-473d-944e-d77bd7b5053d
+id: 2f9e127b-0198-4eb7-b524-7c00ed5b6f1f
 image:
   channels:
     - app
@@ -28,26 +28,16 @@ image:
   priority: 0
   slug: courtlite-2-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1734464
-  priority: 100
-  slug: clarks-logo
-  type: logo
-offerId: 3c706c5e-87be-44f9-8a73-3f69bfc560d2
+offerId: 4a76dd52-16dd-4a03-b462-bc11ee03daac
 price:
-  cents: 3567
+  cents: 4000
   currency: EUR
-  value: 35.67
+  value: 40
 referencePrice:
   cents: 10000
   currency: EUR
   value: 100
 slug: clarks-courtlite-2-lo-sneakers-heren
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-02-16T23:00:00.000Z'
 title: Clarks Courtlite 2 Lo Sneakers | Heren

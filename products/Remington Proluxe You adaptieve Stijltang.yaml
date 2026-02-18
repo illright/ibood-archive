@@ -1,12 +1,12 @@
-_id: 698af79f78dd94ffd5826380
+_id: 69943466e5a07d9b8b0dd515
 appOnly: false
 brand: Remington
 brands:
   - id: b921885b-ae1f-57eb-ad3e-40d8bbb2ecad
     name: Remington
 categories:
-  - a5bce828-8128-5e3a-a141-ace8077e85b3
-classicId: '2998236'
+  - b9546dd9-8cc3-5143-8f7d-e25627f7bcd8
+classicId: '3011715'
 classicProductId: '687970'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 46
-end: '2026-02-17T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 400fa051-ad23-42d8-8f76-8e9d4d72384e
+id: a8d8bda2-4002-4f2d-8c82-013c2901dfcd
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: s9880-remington-proluxe-you-adaptive-straightener-product-7
   type: product
-offerId: 046b29d4-4a41-487a-82d4-d74ed9fedc44
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1726514
+  priority: 100
+  slug: remington-logo
+  type: logo
+offerId: fb858974-f558-444e-a83a-f571c6f42f6c
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.99
 slug: remington-proluxe-you-adaptieve-stijltang
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-02-17T23:00:00.000Z'
 title: Remington Proluxe You adaptieve Stijltang

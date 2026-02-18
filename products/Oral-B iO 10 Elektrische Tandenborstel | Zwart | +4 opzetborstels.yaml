@@ -1,12 +1,12 @@
-_id: 698af7a9e980f53813e0aa6d
+_id: 6994346f4c30ac11671eb6ca
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - a5bce828-8128-5e3a-a141-ace8077e85b3
-classicId: '2998248'
+  - b9546dd9-8cc3-5143-8f7d-e25627f7bcd8
+classicId: '3011740'
 classicProductId: '688255'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-17T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: c50ca038-d76c-43e5-aa50-8aa08a8111d6
+id: e587b0d8-3ead-461d-b828-ec7394c816b5
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: zwart456-png-product-1
   type: product
-offerId: 30d43f7e-326d-41d9-8993-ca9de7d43b86
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800052
+  priority: 100
+  slug: oral-b-logo
+  type: logo
+offerId: fe217eda-5c1a-4df4-b3b6-c711e01b5b1f
 price:
   cents: 25995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 597.98
 slug: oral-b-io-10-elektrische-tandenborstel-zwart-4-opzetborstels
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-02-17T23:00:00.000Z'
 title: Oral-B iO 10 Elektrische Tandenborstel | Zwart | +4 opzetborstels

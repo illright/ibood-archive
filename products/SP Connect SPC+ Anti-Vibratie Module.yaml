@@ -1,4 +1,4 @@
-_id: 698cad87db1cc4cb506981c0
+_id: 698d93841ba1bbf52a1478af
 appOnly: false
 brand: SP Connect
 brands:
@@ -6,27 +6,29 @@ brands:
     name: SP Connect
 categories:
   - 7d87bb49-3879-5fb9-97b5-66187b567cd2
-classicId: '3003137'
-classicProductId: '650493'
+classicId: '3004200'
+classicProductId: '693365'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 33
+discount: 32
 end: '2026-02-23T22:59:59.999Z'
 freeDelivery: false
-id: a7046806-34a8-598a-80ee-2ca1b9f11bc0
+id: c6cf186c-8280-5ad6-8be6-92ac27cff0e5
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: 285a7e96-017e-47c4-83aa-ecdc73f0ca3c
+  id: 00109ebc-efef-4e83-8c88-7522367f3879-tr
   priority: 0
-  slug: 1-png-product-1
+  slug: sp-anti-vibration-module-spc-plus-chrome-52830-product-0
   type: product
 logo:
   channels:
@@ -35,20 +37,20 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 12c196c8-5f2a-4ca7-abe5-23bac5f06d60
+  id: de47913e-4b67-4154-b8ba-074a7916a82f
   priority: 0
-  slug: sp-connect-logo-0
+  slug: sp-connect-logo-0-1-png-logo-0
   type: logo
-offerId: ab8b4f57-f314-57d6-a5ea-405e70eefe83
+offerId: caeb76e7-0884-5617-9c46-6ce21db0814a
 price:
-  cents: 1995
+  cents: 2395
   currency: EUR
-  value: 19.95
+  value: 23.95
 referencePrice:
-  cents: 2999
+  cents: 3499
   currency: EUR
-  value: 29.99
-slug: sp-connect-spcplus-antivibratie-module-voor-motorfietsen
+  value: 34.99
+slug: sp-connect-spc-anti-vibratie-module
 soldOut: false
 start: '2026-02-16T23:00:00.000Z'
 title: SP Connect SPC+ Anti-Vibratie Module

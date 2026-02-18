@@ -1,12 +1,12 @@
-_id: 698af7d778dd94ffd5826413
+_id: 6994349792d2c1cb95529ad3
 appOnly: false
 brand: GRAEF
 brands:
   - id: c6a19d50-8bb4-5344-9ffa-709adb4917e3
     name: GRAEF
 categories:
-  - a5bce828-8128-5e3a-a141-ace8077e85b3
-classicId: '2998354'
+  - b9546dd9-8cc3-5143-8f7d-e25627f7bcd8
+classicId: '3011851'
 classicProductId: '540375'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-02-17T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 9a00c758-0221-410a-8123-77eabf82743f
+id: 1309d654-75bc-44e0-b408-146dd0ea58f9
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 100
   slug: graef-stabmixer-mit-zubehor-set
   type: product
-offerId: 3a32938b-c60e-41cd-a547-3cf239a55376
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3d1f7db2-2b75-4dc2-ab01-6bd647c8d916
+  priority: 0
+  slug: graef-logo-0
+  type: logo
+offerId: 890e83bc-96e4-4a23-9c4d-d4f2cb0da152
 price:
   cents: 5995
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 99.95
 slug: graef-staafmixer-hb-502-800w
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-02-17T23:00:00.000Z'
 title: Graef Staafmixer HB 502 | 800W | Inclusief Klopper + Hakmolen 0,5l + Kunststof Beker 0,7l
