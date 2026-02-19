@@ -1,12 +1,12 @@
-_id: 69931a6983c9384cb71fe6aa
+_id: 699589ae6974958ca1910971
 appOnly: false
 brand: Imperial
 brands:
   - id: 1dd862f9-2900-5c7b-8764-2b0089d18843
     name: Imperial
 categories:
-  - 8b247be0-3035-53e2-a07b-3de58a370e39
-classicId: '3008721'
+  - aaa6a397-a069-53ab-8ddf-4e7b1fa0999f
+classicId: '3013156'
 classicProductId: '627747'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-18T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: 286c3b20-c89b-4428-8179-6a80bb7165e9
+id: 20a1f2fe-5c8f-42f4-89d8-968a534ece26
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: imperial-png-product-1
   type: product
-offerId: cba06e61-0b4d-4c4f-9fcb-a57f5e5143c8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 17609254-c73b-43ec-98c1-54d50c832c18
+  priority: 0
+  slug: imperial-png-logo-0
+  type: logo
+offerId: ec5c00b1-5c2a-4935-9465-5c51aee6fe01
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.95
 slug: imperial-dabman-d105-radio-dab-fm
 soldOut: false
-start: '2026-02-11T23:00:00.000Z'
+start: '2026-02-18T23:00:00.000Z'
 title: Imperial Dabman D105 Radio | DAB+ | FM | Bluetooth

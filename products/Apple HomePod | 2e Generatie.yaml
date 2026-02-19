@@ -1,22 +1,22 @@
-_id: 698c50c3d8148ff60604a47c
+_id: 69958a1892d2c1cb95529e2f
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 2ff50305-5830-5511-a4b0-a6f022ce37f4
-classicId: '3000937'
+  - b92e7185-590c-5b0f-97d9-f538b55eddd7
+classicId: '3013252'
 classicProductId: '686869'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 14
-end: '2026-02-18T22:59:59.999Z'
+end: '2026-02-22T22:59:59.999Z'
 freeDelivery: false
-id: f8d99898-cf13-4b28-b914-48341e55c289
+id: 195ae5de-ee12-4fe6-a99e-4c7c7e187c8b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 92ef4d5e-c870-4390-a69e-a5c7b629b1ad
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 7a5b4795-17bb-4382-8d6b-8c3c762eaee7
+offerId: da1e6dd4-6b27-42aa-b990-10ffcef31933
 price:
   cents: 29900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 349
 slug: apple-homepod-2e-generatie
 soldOut: false
-start: '2026-02-11T23:00:00.000Z'
+start: '2026-02-18T23:00:00.000Z'
 title: Apple HomePod | 2e Generatie
