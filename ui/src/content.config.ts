@@ -2,7 +2,7 @@ import { resolve } from "node:path";
 import type { Loader } from "astro/loaders";
 import { defineCollection } from "astro:content";
 import { z } from "astro/zod";
-import { YAML } from "bun";
+import yaml from "js-yaml";
 import { openRepository } from "es-git";
 
 const __dirname = new URL(".", import.meta.url).pathname;
@@ -230,7 +230,7 @@ function productLoader({
               entry.toObject(repo).peelToBlob().content()
             );
             const productData = ProductSnapshotData.parse(
-              YAML.parse(fileContent)
+              yaml.load(fileContent)
             );
 
             const stats =
