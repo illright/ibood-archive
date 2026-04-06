@@ -1,17 +1,17 @@
 import type { z } from "zod/v4";
 import yaml from "js-yaml";
-import { Env } from "./envSchema";
-import { LiveResponse, LiveResponseUnknown } from "./iboodSchema";
+import { Env } from "./envSchema.ts";
+import { LiveResponse, LiveResponseUnknown } from "./iboodSchema.ts";
 import { parseArgs } from "node:util";
 import { join } from "node:path";
-import { mkdir, rm } from "node:fs/promises";
+import { mkdir, rm, writeFile } from "node:fs/promises";
 
 const endpoint = new URL(
   "https://api.ibood.io/search/items/live?live&take=10000"
 );
 
 const { values } = parseArgs({
-  args: Bun.argv,
+  args: process.argv,
   options: {
     path: {
       type: "string",
@@ -66,7 +66,7 @@ function sanitizePath(path: string) {
 async function placeProducts(products: z.infer<typeof LiveResponse>) {
   return Promise.all(
     products.data.items.map((product) =>
-      Bun.write(
+      writeFile(
         join(productsFolder, `${sanitizePath(product.title)}.yaml`),
         yaml.dump(product, { sortKeys: true, lineWidth: -1 })
       )
