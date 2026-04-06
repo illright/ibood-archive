@@ -224,7 +224,7 @@ function productLoader({
         }
 
         commit.tree().walk("PreOrder", (entry) => {
-          const name = entry.name();
+          const name = entry.name().replace(/%/g, "pct");
           if (entry.type() === "Blob") {
             const fileContent = new TextDecoder().decode(
               entry.toObject(repo).peelToBlob().content()
