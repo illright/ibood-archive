@@ -1,12 +1,12 @@
-_id: 6995887a25cbb705d878948d
+_id: 69cb9a219c08f0dfbb47a8fa
 appOnly: false
 brand: KIDKRAFT
 brands:
   - id: 49e93778-332b-592d-ab8b-167869bd6b72
     name: KIDKRAFT
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '3013149'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131691'
 classicProductId: '645512'
 deliveryPrice:
   cents: 895
@@ -14,30 +14,32 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: e061217c-6908-469e-a26c-2448b7957145
+id: 10731e1f-59b4-4dfc-bec3-f894d9c7a63a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2274564
+    - all
+  extension: image/png
+  id: 77c1e0f4-f7da-447a-9163-35ec54904b8a
   priority: 0
-  slug: kidkraft-pastelkleurige-broodrooster-speelset
+  slug: speelgoed-04-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2275523
-  priority: 100
-  slug: kidkraft-pastelkleurige-broodrooster-speelset
+    - all
+  extension: image/png
+  id: 68227d37-b176-459a-9fa3-e9113f731a1b
+  priority: 0
+  slug: slug-logo-0
   type: logo
-offerId: 7b535441-2c25-4c35-b684-32812f257ed9
+offerId: e0572e8a-2c1d-4c32-9156-6f177867ece4
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +50,5 @@ referencePrice:
   value: 29.99
 slug: kidkraft-pastelkleurige-broodrooster-speelset
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: KidKraft Pastelkleurige Broodrooster Speelset

@@ -1,22 +1,22 @@
-_id: 691df25435cd1861b1caf362
+_id: 69cbd5154fe6bbfeb8fde433
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 1670b4ad-3ea3-583c-9029-775ba2c0d093
-classicId: '2833006'
-classicProductId: '679838'
+  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
+classicId: '3136813'
+classicProductId: '679831'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: c26f9d10-4ea0-5050-842c-5648dd1d872a
+id: d0926cad-447b-4a23-920d-ba326cc7f203
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d065cf6a-b830-4ae7-bc1c-6a911df53ef7
+  id: 84cbb19c-57dd-489d-8120-e50c24590f8b
   priority: 0
-  slug: l-black-12297361-jwhnorrebro-emb-sweat-crew-sn-jack-and-jones-originals-product-0
+  slug: l-skyway-12297361-jwhnorrebro-emb-sweat-crew-sn-jack-and-jones-originals-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8576e536-d94d-4eb3-bd33-f5a48f7891d0
-  priority: 0
-  slug: jack-jones-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 11d9d851-3b3a-540a-a432-c99e5f7d40c5
+offerId: ec9809d8-b7cc-44ef-805e-6fd0fd6f1ebb
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 39.99
 slug: jack-jones-originals-norrebro-sweater-heren
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
+title: Jack & Jones Originals Norrebro Sweater | Heren
 title: Jack & Jones Originals Norrebro Sweater | Heren

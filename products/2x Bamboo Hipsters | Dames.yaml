@@ -1,45 +1,43 @@
-_id: 698c7fd2db1cc4cb50698034
+_id: 69cfb073007cfbea86cf3136
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 2a8f74ff-ae97-5a54-8162-b5dcf512c8c0
-classicId: '3002111'
-classicProductId: '381395'
+  - ca95bb2a-585a-5a61-b436-eab08f4ad4eb
+classicId: '3142891'
+classicProductId: '381396'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 40
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: b1cc83b2-e414-5653-b38f-295a019cc72f
+id: 6543ef0d-4740-45f7-9e9f-b906eaa04c27
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f89ac0dd-8f16-4894-bf11-3290f9fd52a7
+  extension: jpg
+  id: 1287228
   priority: 0
-  slug: bamboo-06-png-product-1
+  slug: 2x-bamboo-hipsters-dames
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e050be77-f736-4239-85c1-77f0e927fa7f
-  priority: 101
-  slug: bamboo-elements-logo-101
+  extension: png
+  id: 1920019
+  priority: 100
+  slug: 2x-bamboo-hipsters-dames
   type: logo
-offerId: db04eb3e-86d8-5527-8ce3-fbe61c613224
+offerId: dcbd76a1-54a4-49d2-8023-50275fae1ca0
 price:
   cents: 1495
   currency: EUR
@@ -49,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 24.95
 slug: 2x-bamboo-hipsters-dames
-soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: 2x Bamboo Hipsters | Dames

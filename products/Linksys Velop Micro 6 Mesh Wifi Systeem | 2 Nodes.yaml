@@ -1,12 +1,12 @@
-_id: 698eff8192d2c1cb95528443
+_id: 69cbb2aa4fe6bbfeb8fda2ac
 appOnly: false
 brand: Linksys
 brands:
   - id: 96c0aa94-096f-5eee-a811-7f1aba61aa52
     name: Linksys
 categories:
-  - 414a1405-5618-5012-a89d-98eda17fff36
-classicId: '3005311'
+  - 5af6ed1d-7d6c-5909-81e1-e136ab69a1c5
+classicId: '3135328'
 classicProductId: '693578'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 79
-end: '2026-02-19T22:59:59.999Z'
+end: '2026-04-08T21:59:59.999Z'
 freeDelivery: false
-id: 107bb369-0f4c-59be-b445-8cce0777f563
+id: 2e9faa35-3447-472c-8c87-1523c6841c78
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2b4ef1b7-8ee0-48f9-9194-bfdc7a7a9b05
-  priority: 0
-  slug: linksys-png-logo-0
+  extension: png
+  id: 1684192
+  priority: 100
+  slug: linksys-logo
   type: logo
-offerId: 1dfb4dc5-cda4-5b41-9523-b711b505d9a9
+offerId: 8e688c94-f6a4-4565-b089-cb1f3c628741
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 279.95
 slug: linksys-velop-micro-6-mesh-wifi-systeem-2-nodes
 soldOut: false
-start: '2026-02-18T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Linksys Velop Micro 6 Mesh Wifi Systeem | 2 Nodes

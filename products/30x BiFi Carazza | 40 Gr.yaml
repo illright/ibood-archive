@@ -1,22 +1,22 @@
-_id: 69936f7f412261ec39fb5526
+_id: 69ccd65b72f5bc57e806ddcb
 appOnly: false
 brand: BiFi
 brands:
   - id: d2a52741-a702-5d07-a180-f12f5e9ea610
     name: BiFi
 categories:
-  - ed9cfe7c-d3a9-5072-9dd4-ac5502b71f83
-classicId: '3010131'
+  - 410405d0-f9ef-5408-b1ee-f2e9da33bcab
+classicId: '3137867'
 classicProductId: '426865'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 67
-end: '2026-02-23T22:59:59.999Z'
+discount: 83
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 426a34e5-5e59-42c6-9d49-543ca8623b7f
+id: fedb447a-dce8-4f20-b113-b85fccaf5902
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: f4817940-3c33-47a0-a86e-8fc3d561e2d5
+  id: 03be8fb9-52e1-4371-b49b-1085ad6cd76b
   priority: 0
-  slug: 1-png-product-1
+  slug: bifi-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: bifi-logo
   type: logo
-offerId: 8412acd8-540a-4f46-a07c-d1e66db56dcd
+offerId: a5e00373-ac98-47a9-9527-4ccea4d33e85
 price:
-  cents: 995
+  cents: 495
   currency: EUR
-  value: 9.95
+  value: 4.95
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: 30x-bifi-carazza-40-gr
-soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: 30x BiFi Carazza | 40 Gr

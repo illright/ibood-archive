@@ -1,32 +1,32 @@
-_id: 698b2a0dd8148ff60604a249
+_id: 69cbcde44fe6bbfeb8fdd981
 appOnly: false
 brand: VT WONEN
 brands:
   - id: 779c3a3e-a55a-58a7-83aa-2b81b3802c35
     name: VT WONEN
 categories:
-  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
-classicId: '2999637'
-classicProductId: '685735'
+  - 81e93a86-9fa9-5a69-b3e4-b5d56ce132df
+classicId: '3135914'
+classicProductId: '685737'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 27dd6829-992f-4c03-a546-fb1b874d8762
+id: b4ff0c11-19fc-4af6-aded-e0db689ece9e
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 87976fd2-8cbc-409f-9257-ab832bc851e6
+  id: 1098ff55-bc33-4d17-aa9d-20fd489e661d-tr
   priority: 0
-  slug: main-789-png-product-2
+  slug: anthracite-vt-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: vt-wonen-logo
   type: logo
-offerId: fcdec6aa-18b8-445f-a4af-adc9124a9353
+offerId: acd3dccd-75d0-4183-8f33-9c175b1b6959
 price:
   cents: 4995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 143.6
 slug: 8x-vt-wonen-soft-embrace-handdoek-70-x-140-cm
-soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: 8x VT Wonen Soft Embrace Handdoek | 70 x 140 cm

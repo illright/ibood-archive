@@ -1,12 +1,12 @@
-_id: 6995887b25cbb705d8789492
+_id: 69cb9a2d9c08f0dfbb47a942
 appOnly: false
 brand: KIDKRAFT
 brands:
   - id: 49e93778-332b-592d-ab8b-167869bd6b72
     name: KIDKRAFT
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '3013150'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131725'
 classicProductId: '645504'
 deliveryPrice:
   cents: 895
@@ -14,20 +14,32 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 64
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 4ef40dc8-a843-4df5-9198-2f93233c15bf
+id: 596aa118-d7b6-4b5f-a551-a5b4a25b91b0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2274506
+    - all
+  extension: image/png
+  id: fe461dc7-7b44-4c82-a3cc-344332b5c074-tr
   priority: 0
-  slug: kidkraft-houtentreinset-bouwplaats
+  slug: kidkraft-holzeisenbahn-baustelle-ab-3-jahre-jpg-product-1
   type: product
-offerId: 36f935b8-548d-45a0-a02f-062bb59491a0
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 68227d37-b176-459a-9fa3-e9113f731a1b
+  priority: 0
+  slug: slug-logo-0
+  type: logo
+offerId: 46c7613f-43e3-47c0-8b95-850c39749a7e
 price:
   cents: 4495
   currency: EUR
@@ -37,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 124.99
 slug: kidkraft-houtentreinset-bouwplaats
-soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: KidKraft HoutenTreinset Bouwplaats

@@ -1,12 +1,12 @@
-_id: 698b29d9d8148ff60604a1d5
+_id: 69cbe53919b288590a9a3289
 appOnly: false
 brand: Ambiante
 brands:
   - id: 4e8d0e43-ecd4-5245-aa59-d378fc077e12
     name: Ambiante
 categories:
-  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
-classicId: '2999571'
+  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
+classicId: '3137423'
 classicProductId: '573784'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 391a3360-fef4-4f13-bdfe-fb1d0afc4f6f
+id: 3cfb23a1-e19b-482b-9032-346c39a7ace7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1956615
-  priority: 100
-  slug: ambiante-cotton-uni-hoeslaken-180-x-200-cm
+    - all
+  extension: image/png
+  id: a3ae948e-cb96-4cc6-9d89-c03afac4ade7-tr
+  priority: 0
+  slug: dekbed-02-png-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: ambiante-logo
   type: logo
-offerId: 2347ed78-fc44-48ac-86ab-4cea5689335f
+offerId: b220d959-d541-4c99-a5a9-c4f91bdc4bce
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 33.95
 slug: ambiante-cotton-uni-hoeslaken-180-x-200-cm
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Ambiante Cotton Uni Hoeslaken | Sand | 180 x 200 cm

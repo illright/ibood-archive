@@ -1,22 +1,22 @@
-_id: 698b29f9d8148ff60604a21d
+_id: 69c3eccf0dded6f873d4c2c9
 appOnly: false
-brand: Ten Cate
+brand: Ten Cate by Twentse Damast
 brands:
-  - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
-    name: Ten Cate
+  - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
+    name: Ten Cate by Twentse Damast
 categories:
-  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
-classicId: '2999614'
-classicProductId: '690509'
+  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
+classicId: '3115268'
+classicProductId: '702226'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: e4355f90-ef1a-4803-be0d-85ec109c4d2a
+id: af71d470-9c41-53ab-94ec-285e4b3a9032
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485600
-  priority: 100
-  slug: ten-cate-logo
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 27f5a530-b233-4308-9323-7a97cc27cdc7
+offerId: 14911df8-a50d-5d0c-bbfd-379bb9127b0d
 price:
   cents: 5495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 119.9
 slug: ten-cate-2x-hoeslaken-katoen-satijn-180-x-220-cm-green
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: 2x Hoeslaken Katoen Satijn | 180 x 220 cm | Green

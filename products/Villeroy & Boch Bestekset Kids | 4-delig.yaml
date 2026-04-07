@@ -1,31 +1,32 @@
-_id: 6994344d3d5585157c24bc79
+_id: 69c3ad48e623bb8dd11bab51
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 35fa0410-308d-536f-8191-8d0082d77703
-classicId: '3011672'
+  - 72014663-2149-553a-86d8-5c66c6de1e2b
+classicId: '3112163'
 classicProductId: '219102'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
-discount: 40
-end: '2026-02-22T22:59:59.999Z'
+discount: 45
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 2ab3e57e-aee9-4c42-aae4-873c89cf5716
+id: 38cb556e-28eb-5a61-9d54-a11055ff0886
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 550663
+    - all
+  extension: image/png
+  id: a12b3d58-93c4-4915-8141-94adc6b127d0-tr
   priority: 0
-  slug: vb-bestekset-kids-4-delig
+  slug: villeroy-boch-kinderbesteck-4-tlg-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: villeroy-boch-logo
   type: logo
-offerId: 4e865da0-fc6d-48b9-ba65-87ce92dbfce1
+offerId: 4035224c-02ac-52b4-a301-878063cc21d2
 price:
   cents: 1795
   currency: EUR
   value: 17.95
 referencePrice:
-  cents: 2990
+  cents: 3290
   currency: EUR
-  value: 29.9
+  value: 32.9
 slug: vb-bestekset-kids-4-delig
 soldOut: false
-start: '2026-02-17T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Villeroy & Boch Bestekset Kids | 4-delig

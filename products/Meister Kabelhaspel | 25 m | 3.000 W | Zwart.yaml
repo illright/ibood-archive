@@ -1,12 +1,12 @@
-_id: 697b5f790192cbe08b6ea59a
+_id: 69cbd3f93ed6e72ab1f0584b
 appOnly: false
 brand: Meister
 brands:
   - id: dc0c4ee5-40a6-578c-9d58-b7d56774a86a
     name: Meister
 categories:
-  - 6e7414f2-6909-5cf4-a28d-bf3d6240864f
-classicId: '2977280'
+  - 5b86b552-7da4-5dde-a6bd-b620c9e6c343
+classicId: '3136507'
 classicProductId: '690777'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.000Z'
 freeDelivery: false
-id: b989340e-034b-56b6-84cf-2809b271fd8c
+id: 01e6b450-8431-4c16-b62c-d73ce27fdd1e
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: meister-kabelhaspel-h05vv-f-3g1-5mm-ip20-25m-product-0
   type: product
-offerId: ed1c33a2-0616-5933-84b3-12a0c7a4a351
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1722229
+  priority: 100
+  slug: meister-logo
+  type: logo
+offerId: ceb8d3f3-c01b-41fe-b043-283e5d0ca580
 price:
   cents: 3995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 79.99
 slug: meister-kabelhaspel-25-m-3-000-w-zwart
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Meister Kabelhaspel | 25 m | 3.000 W | Zwart

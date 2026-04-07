@@ -1,12 +1,12 @@
-_id: 69930e972210407f1afc819a
+_id: 69cbd52728482382885a63e4
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 005f146d-7047-5509-a51a-28750acd2697
-classicId: '3008317'
+  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
+classicId: '3136827'
 classicProductId: '691296'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: c4bbd89e-9c84-4514-ba7d-0031b0d91400
+id: 29aa5ac5-436c-4004-805f-08e41298d5b8
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 72d64316-4aa9-46f6-9b1a-338cd84af09d
-  priority: 0
-  slug: jack-jones-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 53f503e6-ad2c-4c23-b2c4-b09c5a5d995e
+offerId: 651c631a-00f2-43a5-9482-811e77adf3db
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-essentials-western-denim-overhemd-heren
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Jack & Jones Essentials Western Denim Overhemd | Heren

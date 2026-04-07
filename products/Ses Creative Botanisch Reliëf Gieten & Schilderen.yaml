@@ -1,12 +1,12 @@
-_id: 698210828441ce1a55ac3b4d
+_id: 69cb9a3ec5530539c5413777
 appOnly: false
 brand: SES Creative
 brands:
   - id: f1f5c1ed-9580-5a90-aa8c-d28b62de122c
     name: SES Creative
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2985424'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131780'
 classicProductId: '691330'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 85448fe1-70ef-5467-8268-90885fbff554
+id: 7625b284-8ace-4bc9-a7b5-66808cb125d3
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: ses-14036-botanical-relief-casting-and-painting-inspired-by-nature-product-0
   type: product
-offerId: 25aa9bae-40b2-5748-9d18-4be75334bfb6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 57106bca-8501-4fbb-9dba-ea550f3fec92
+  priority: 0
+  slug: ses-creative-logo-0
+  type: logo
+offerId: eeab6b20-1858-4af5-92c8-27b6e3c1db0f
 price:
   cents: 995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 18.99
 slug: ses-creative-botanisch-relief-gieten-schilderen
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Ses Creative Botanisch Reliëf Gieten & Schilderen

@@ -1,12 +1,12 @@
-_id: 69958a676974958ca1910a6e
+_id: 69cbb3d6e2a2a765dc0cf292
 appOnly: false
 brand: Anker
 brands:
   - id: ccd7e286-39b0-53c3-8d73-01b9fc4fe59d
     name: Anker
 categories:
-  - b92e7185-590c-5b0f-97d9-f538b55eddd7
-classicId: '3013317'
+  - 5af6ed1d-7d6c-5909-81e1-e136ab69a1c5
+classicId: '3135748'
 classicProductId: '689259'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 60
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-08T21:59:59.999Z'
 freeDelivery: false
-id: c80cd29e-18fe-4e14-9e4a-9e9f659c71a3
+id: 00ded0ea-033d-4775-84f5-1607e174cb5b
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: anker-usb-c-display-hub-4-in-1-10gbps-product-0
   type: product
-offerId: 560f0cbe-fa66-4ac0-a0c6-4144b199d063
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 331f0690-6c88-4cfc-bb10-11882c48a7c0
+  priority: 0
+  slug: anker-logo-0
+  type: logo
+offerId: d93d84de-1233-4b8b-b89e-4cae12a2f34c
 price:
   cents: 1995
   currency: EUR
@@ -40,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: anker-4-in-1-usb-c-hub-10gbps-100w-4k-output
-soldOut: false
-start: '2026-02-18T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: Anker 4-in-1 USB-C Hub | 10Gbps | 100W | 4K Output

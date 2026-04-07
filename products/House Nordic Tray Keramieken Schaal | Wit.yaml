@@ -1,12 +1,12 @@
-_id: 69846070deb3dd8880dce33c
+_id: 69cb99caca0164559036e9be
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - c79cca8e-21d8-5adf-b834-88afc465dd8e
-classicId: '2988806'
+  - ca272ff4-7374-5785-86f1-40a1bc7027f7
+classicId: '3131451'
 classicProductId: '691520'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: f9eacf09-4b24-57ed-8856-f3e1f43075fc
+id: e2443321-fa34-455c-ab56-8e03ac74299d
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e5c670cc-68a3-4356-a14a-415afa270c17
-  priority: 0
-  slug: house-nordic-png-logo-0
+  extension: png
+  id: 1644555
+  priority: 100
+  slug: house-nordic-logo
   type: logo
-offerId: f5607760-5129-5fe1-84c0-93dccb02d6e2
+offerId: 465cc42f-eea2-48fb-a523-83739b0a72ef
 price:
   cents: 1495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 34.95
 slug: house-nordic-tray-keramieken-schaal-wit
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: House Nordic Tray Keramieken Schaal | Wit

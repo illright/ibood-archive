@@ -1,12 +1,12 @@
-_id: 69937051420d028a5db3917c
+_id: 69ccd64b4fe6bbfeb8ff1db1
 appOnly: false
 brand: M&M's
 brands:
   - id: 0626d530-6d7e-509d-8b0e-835e13653473
     name: M&M's
 categories:
-  - ed9cfe7c-d3a9-5072-9dd4-ac5502b71f83
-classicId: '3010440'
+  - 410405d0-f9ef-5408-b1ee-f2e9da33bcab
+classicId: '3137832'
 classicProductId: '685785'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 4072c6fb-ea47-40c6-bdfd-1dae1e7996b4
+id: 9445837b-81d3-420d-88c7-69c62cfbf3c3
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: 4dd257fc-3510-4967-a13d-cd2c65bde059-tr
+  id: 2ea7b4e6-6430-4764-afcb-d1eaf2d05252
   priority: 0
-  slug: 12x-m-m-minis-chocolate-pouch-117gr-product-0
+  slug: m-m-s-01-png-product-1
   type: product
 logo:
   channels:
@@ -41,7 +39,7 @@ logo:
   priority: 0
   slug: m-m-s-logo-0
   type: logo
-offerId: c536cffe-b2b0-4acd-80b5-3de49607f04c
+offerId: 7126d21d-f82d-475f-87e8-4ce497acd977
 price:
   cents: 1295
   currency: EUR
@@ -51,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 29.88
 slug: 12x-m-m-s-zakje-chocolate-minis-117-g
-soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: 12x M&M's Zakje Chocolate Minis | 117 g

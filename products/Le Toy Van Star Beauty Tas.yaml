@@ -1,12 +1,12 @@
-_id: 698aed87d8148ff606049c24
+_id: 69cb9a4a9c08f0dfbb47a9e8
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2997750'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131818'
 classicProductId: '588230'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 024a1643-ea8c-4f07-bad6-919845a9046e
+id: b70f27bc-81d7-4057-b529-12c1a7325326
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: speelgoed-02-png-product-1
   type: product
-offerId: d42e31fc-cd0b-41cd-9ae5-ec810b0e4641
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: 50fa84c3-34a2-488f-9ffe-3b6caf42ae5a
 price:
   cents: 1995
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: le-toy-van-star-beauty-tas
-soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: Le Toy Van Star Beauty Tas

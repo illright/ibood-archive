@@ -1,12 +1,12 @@
-_id: 697b5f32fa628e7eaf6a19ee
+_id: 69cbd35119b288590a9a1d75
 appOnly: false
 brand: Meister
 brands:
   - id: dc0c4ee5-40a6-578c-9d58-b7d56774a86a
     name: Meister
 categories:
-  - 6e7414f2-6909-5cf4-a28d-bf3d6240864f
-classicId: '2977277'
+  - 5b86b552-7da4-5dde-a6bd-b620c9e6c343
+classicId: '3136344'
 classicProductId: '690787'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.000Z'
 freeDelivery: false
-id: f4687a5a-925e-5e3e-ba7a-194b263e9599
+id: 0fea786c-fc41-4035-b688-1d6c80482085
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: meister9-png-product-1
   type: product
-offerId: 2856e562-8260-564f-aa7d-49383da572b1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1722229
+  priority: 100
+  slug: meister-logo
+  type: logo
+offerId: 977578ae-8459-472c-ac04-9831e3446575
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 49.98
 slug: 4x-meister-6-voudige-stekkerdoos-schakelaar-140-cm
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: 4x Meister 6-Voudige Stekkerdoos | Schakelaar | 140 cm

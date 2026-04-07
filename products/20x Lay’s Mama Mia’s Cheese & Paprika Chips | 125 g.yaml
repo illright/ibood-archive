@@ -1,54 +1,43 @@
-_id: 6984740d4b064076045cd099
+_id: 69ccd66f72f5bc57e806de02
 appOnly: false
 brand: LAY'S
 brands:
   - id: c2dac7c1-a364-5a06-8d6a-13a54dd40d89
     name: LAY'S
 categories:
-  - ed9cfe7c-d3a9-5072-9dd4-ac5502b71f83
-classicId: '2988983'
+  - 410405d0-f9ef-5408-b1ee-f2e9da33bcab
+classicId: '3137898'
 classicProductId: '691548'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 53
-end: '2026-02-23T22:59:59.999Z'
+discount: 55
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 5df45ef1-a3b3-5bdd-b5a9-c4df301c7183
+id: 9c009bda-e609-4d83-8d56-c431663df50e
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 74559680-2220-4ded-a2b5-f06e2c573bf2
+  id: 91334609-cc9c-4fbd-b0b0-98eeaec5cb84
   priority: 0
-  slug: 20x-lays-mama-mia-s-125gr-be-product-1
+  slug: mama1-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 5a7038af-e799-4141-a852-cce14990554d
-  priority: 0
-  slug: lay-s-png-logo-0
-  type: logo
-offerId: be4683c7-d9e7-5b0a-9acb-f9896dc067fa
+offerId: deca3398-d85a-47a2-8d7d-39eb816d817e
 price:
-  cents: 1695
+  cents: 1595
   currency: EUR
-  value: 16.95
+  value: 15.95
 referencePrice:
   cents: 3580
   currency: EUR
   value: 35.8
 slug: 20x-lay-s-mama-mia-s-cheese-paprika-chips-125-g
-soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: 20x Lay’s Mama Mia’s Cheese & Paprika Chips | 125 g

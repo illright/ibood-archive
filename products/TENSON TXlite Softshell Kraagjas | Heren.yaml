@@ -1,12 +1,12 @@
-_id: 698ee7e983c9384cb71fdca4
+_id: 69b944164bd3ef3732505691
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - f3cf07a8-01e1-5fa6-9902-d68b542a1c01
-classicId: '3004991'
+  - 9eb41094-3ecb-5a0b-9391-d79d86ed9af1
+classicId: '3086721'
 classicProductId: '621914'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 790e0ae3-6485-4ee8-9fd8-04a9e2338e97
+id: 8ed436ee-0f55-43eb-a1c7-43fec98d896c
 image:
   channels:
     - app
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: 11af4c31-70ad-40d0-8165-c21d00302361
+offerId: 9880cd7b-afa3-465b-8d6e-dad8a18b3e83
 price:
-  cents: 3995
+  cents: 4000
   currency: EUR
-  value: 39.95
+  value: 40
 referencePrice:
   cents: 13995
   currency: EUR
   value: 139.95
 slug: tenson-txlite-softshell-kraag-jas-mannen
-soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+soldOut: true
+start: '2026-03-23T23:00:00.000Z'
 title: TENSON TXlite Softshell Kraagjas | Heren
+

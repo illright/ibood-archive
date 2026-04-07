@@ -1,22 +1,22 @@
-_id: 698eeada83c9384cb71fdcfa
+_id: 69c11ccd7604145fd0cec247
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - c3e976f8-21a3-529d-9b8e-375f1b10fc5f
-classicId: '3005036'
+  - 9eb41094-3ecb-5a0b-9391-d79d86ed9af1
+classicId: '3099053'
 classicProductId: '574276'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 53
-end: '2026-02-22T22:59:59.999Z'
+directCheckout: true
+discount: 60
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 9ad2b656-ea88-4400-8686-fa44e79da0ee
+id: 7fde6a24-26cc-4f85-b78c-5700e6d64402
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: e832f615-6643-4a5b-9059-dbf8ecd4906c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
+  type: logo
+offerId: 6601349e-d0af-4d16-979d-30ff49eb9655
 price:
-  cents: 6995
+  cents: 6000
   currency: EUR
-  value: 69.95
+  value: 60
 referencePrice:
   cents: 15000
   currency: EUR
   value: 150
 slug: helly-hansen-vancouver-fleece-lined-jacket
-soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+soldOut: true
+start: '2026-03-23T23:00:00.000Z'
 title: Helly Hansen Vancouver Fleece Lined Jacket | Heren
+

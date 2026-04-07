@@ -1,12 +1,12 @@
-_id: 6992d77192d2c1cb95528680
+_id: 69cbd2be19b288590a9a1c91
 appOnly: false
 brand: NEXXT
 brands:
   - id: 613806ee-dbf7-5606-986c-1480104cf3df
     name: NEXXT
 categories:
-  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
-classicId: '3006943'
+  - 5b86b552-7da4-5dde-a6bd-b620c9e6c343
+classicId: '3136190'
 classicProductId: '690889'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.000Z'
 freeDelivery: false
-id: 00de4e4c-44c5-45d8-ae87-113e0277e0b4
+id: 744d5354-22e6-4785-bb99-04c389134350
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: bezem-main-2-png-product-1
   type: product
-offerId: da47db2f-3e6a-4ca5-b34c-7f111dd7e08e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8b41e568-cdf6-4a61-848c-7797e07f0298
+  priority: 0
+  slug: nexxt-logo-0
+  type: logo
+offerId: c172023c-6283-4367-956b-1bf4c2165a30
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 99
 slug: nexxt-waterborstel-deluxe
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Nexxt Telescopische Wasborstel Deluxe | 6,5 m | Zachte Borstel En Raamwisser

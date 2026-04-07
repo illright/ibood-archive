@@ -1,12 +1,12 @@
-_id: 6995887b25cbb705d8789490
+_id: 69cb9a34600f062cd15ebb9b
 appOnly: false
 brand: Playmobil
 brands:
   - id: 34463654-9a0b-5c50-9623-0408ec8cb929
     name: Playmobil
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '3013147'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131728'
 classicProductId: '645533'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: b8e9479f-47e1-4af5-a655-5906b214fc64
+id: 194e5f10-1578-472f-94b8-dba2b77886e8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2272795
+    - all
+  extension: image/png
+  id: e75590e0-1b25-42dd-a591-0d4e9b9a03e9-tr
   priority: 0
-  slug: playmobil-vakantiehuis
+  slug: playmobil-ferienhaus-ab-18-monaten-jpg-product-1
   type: product
 logo:
   channels:
@@ -33,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2278311
+  id: 1761749
   priority: 100
-  slug: playmobil-vakantiehuis
+  slug: playmobil-logo
   type: logo
-offerId: 09614031-5d2e-4ada-b9d6-88f489aeae40
+offerId: 6b898012-c564-40af-82c9-0e057ed4fe72
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 62.99
 slug: playmobil-vakantiehuis
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Playmobil Vakantiehuis

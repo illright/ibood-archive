@@ -1,12 +1,12 @@
-_id: 698aedc8db1cc4cb50697366
+_id: 69cb9a3a9c08f0dfbb47a98f
 appOnly: false
 brand: Esschert Design
 brands:
   - id: ff3ac434-56dc-56f4-bc4e-28eb43eec8d7
     name: Esschert Design
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2997841'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131766'
 classicProductId: '556738'
 deliveryPrice:
   cents: 595
@@ -14,30 +14,31 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 2959d763-f6e3-4d68-9667-650ab671b5af
+id: 30556fcb-bfb0-4181-a8e8-137688422c7a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1875429
+    - all
+  extension: image/png
+  id: 2c9e67bc-4ecf-4faf-bf5d-39d373223f75-tr
   priority: 0
-  slug: esschert-design-kinderkruiwagen-kunststof
+  slug: esschert-design-kinderschubkarre-jpg-product-1
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1881028
+  extension: jpg
+  id: 527586
   priority: 100
-  slug: esschert-design-kinderkruiwagen-kunststof
+  slug: esschert-design-logo
   type: logo
-offerId: 92888e9a-63c8-44af-8d94-e418d1985250
+offerId: 7a799e93-0019-42f3-a6ed-247046b09b57
 price:
   cents: 1095
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 19.95
 slug: esschert-design-kinderkruiwagen-kunststof
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Esschert Design Kinderkruiwagen Kunststof

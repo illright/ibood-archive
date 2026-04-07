@@ -1,12 +1,12 @@
-_id: 6992d7ec83c9384cb71fdf8a
+_id: 69cbd3e04fe6bbfeb8fde239
 appOnly: false
 brand: Tiger
 brands:
   - id: f0765e68-96e4-5a85-9c99-070faa849fe6
     name: Tiger
 categories:
-  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
-classicId: '3007102'
+  - 5b86b552-7da4-5dde-a6bd-b620c9e6c343
+classicId: '3136503'
 classicProductId: '691071'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.000Z'
 freeDelivery: false
-id: 980631ad-7046-49bc-a8c1-36b4d94d751c
+id: 36efca73-fc08-4186-9bab-aa074aa10c9a
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: tiger-dock-corner-shower-basket-22-cm-stainless-steel-brushed-product-3
   type: product
-offerId: b3a32b66-c867-40e5-a761-047024eee1f8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800649
+  priority: 100
+  slug: tiger-logo
+  type: logo
+offerId: fbcdbd25-dff5-4261-8051-d73d4b2f548a
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 88.95
 slug: tiger-dock-douchemand-hoek-22-cm-rvs-geborsteld
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Tiger Dock Douchemand Hoek | 22 cm | RVS Geborsteld

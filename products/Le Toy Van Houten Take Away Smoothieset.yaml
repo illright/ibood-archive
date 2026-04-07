@@ -1,22 +1,22 @@
-_id: 698aeda4daf8f6172f8b908c
+_id: 69cb9a25c5530539c54136b6
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2997793'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131699'
 classicProductId: '684381'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 47
-end: '2026-02-22T22:59:59.999Z'
+discount: 14
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: eb8214cc-ccf8-46e3-b077-0537206605ae
+id: f57c4514-369c-4e76-ad24-1626b348896b
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: 410tv336-ltv-take-away-smoothie-trio-fsc-100-product-0
   type: product
-offerId: b7aab366-2f44-4788-b57f-bc37f81f98e2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: b190c2fa-53e8-4611-a5c4-12f780f6e325
 price:
-  cents: 795
+  cents: 1295
   currency: EUR
-  value: 7.95
+  value: 12.95
 referencePrice:
   cents: 1499
   currency: EUR
   value: 14.99
 slug: le-toy-van-houten-take-away-smoothieset
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Le Toy Van Houten Take Away Smoothieset

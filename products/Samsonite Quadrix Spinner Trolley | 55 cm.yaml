@@ -1,22 +1,22 @@
-_id: 69930dc3d4b230276fbb62b9
+_id: 69cbde258a3a2c8a43e82afb
 appOnly: false
 brand: Samsonite
 brands:
   - id: 76fdbcf4-cdc0-5321-9cad-2639a5d8bdf0
     name: Samsonite
 categories:
-  - 0084e5eb-79a1-58d6-8d21-654c50c5a8fc
-classicId: '3008090'
+  - 606debad-4197-5847-809f-b71f3c782d6f
+classicId: '3137235'
 classicProductId: '687538'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 55
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 28f01503-169f-4d8d-b468-75e635e8f8ef
+id: b3eed52a-35c0-4f03-9e96-ec4f92819f60
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: d7742656-e6f6-40c6-8d47-49ece3da5520
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1744610
+  priority: 100
+  slug: samsonite-logo
+  type: logo
+offerId: d3b064b2-0cf7-4b87-ac4e-6761512588aa
 price:
   cents: 13995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 309
 slug: samsonite-quadrix-spinner-trolley-55-cm
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Samsonite Quadrix Spinner Trolley | 55 cm

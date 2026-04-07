@@ -1,31 +1,32 @@
-_id: 698494b5e980f53813e09c9f
+_id: 69ca43b685eed0b0f51e6318
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - a4471fb5-75b7-5690-81d4-1eca4422c6d3
-classicId: '2989578'
-classicProductId: '618197'
+  - 6b16e418-d4fa-56d7-b22e-9b423dcf065f
+classicId: '3128191'
+classicProductId: '691624'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2026-02-19T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 21c41c8a-c6f2-559b-90c9-fa69a2e7f8f4
+id: c8466672-e6d1-49c3-a6a6-b0c447b0714c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2173722
+    - all
+  extension: image/png
+  id: 6fc6e1ba-0459-43f3-b51d-6f40d2921750-tr
   priority: 0
-  slug: craft-core-soul-sweatshorts
+  slug: xl-black-1910625-999000-core-soul-sweatshorts-m-craft-product-0
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: craft-logo
   type: logo
-offerId: 48cec33c-f6b1-5e17-a640-c97eb4e2f894
+offerId: 2992f3a1-efcc-41b5-af8f-90e3d862175d
 price:
   cents: 3495
   currency: EUR
@@ -46,7 +47,7 @@ referencePrice:
   cents: 5995
   currency: EUR
   value: 59.95
-slug: craft-core-soul-sweatshorts
-soldOut: true
-start: '2026-02-15T23:00:00.000Z'
+slug: craft-core-soul-sweatshorts-heren
+soldOut: false
+start: '2026-03-31T22:00:00.000Z'
 title: Craft Core Soul Sweatshorts | Heren

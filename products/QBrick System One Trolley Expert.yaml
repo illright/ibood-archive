@@ -1,12 +1,12 @@
-_id: 6992d80192d2c1cb95528806
+_id: 69cbd2f33ed6e72ab1f0567a
 appOnly: false
 brand: Qbrick
 brands:
   - id: dc91ca5a-788c-55d5-8650-eb3500097d71
     name: Qbrick
 categories:
-  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
-classicId: '3007126'
+  - 5b86b552-7da4-5dde-a6bd-b620c9e6c343
+classicId: '3136257'
 classicProductId: '659082'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 54
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.000Z'
 freeDelivery: false
-id: b178a118-76c7-4493-9cd7-757d6b1eb0f9
+id: 71acc9ce-3d24-4651-9ef4-1e674416e12c
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 71d608ab-3911-43dc-9075-143685d0c6df
+  id: 71d608ab-3911-43dc-9075-143685d0c6df-tr
   priority: 0
   slug: qbrick-system-one-trolley-expert-product-0
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: qbrick-logo
   type: logo
-offerId: 6d903246-b38e-4daa-81e8-4d8d4408dd20
+offerId: 8c559ca0-0ebb-4b3d-aae9-31eb174ebfa1
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 108.9
 slug: qbrick-system-one-trolley-expert
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: QBrick System One Trolley Expert

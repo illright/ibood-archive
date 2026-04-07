@@ -1,0 +1,53 @@
+_id: 69cbb2ea19b288590a99e1a0
+appOnly: false
+brand: Apple
+brands:
+  - id: fdd49684-29ac-59d6-adef-6536bdeecf47
+    name: Apple
+categories:
+  - a665a272-8b3f-5f5c-b574-f5e004f0a8bf
+classicId: '3135436'
+classicProductId: '675337'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 27
+end: '2026-04-08T21:59:59.999Z'
+freeDelivery: false
+id: ab78532b-0800-4a46-b777-fddae3db791c
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9db41e87-adc7-4c32-b097-8db78566e2eb-tr
+  priority: 0
+  slug: image-avif-product-2
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: 97de2f84-24a8-4388-8bd0-3e07f10b8c5f
+price:
+  cents: 14600
+  currency: EUR
+  value: 146
+referencePrice:
+  cents: 19900
+  currency: EUR
+  value: 199
+slug: apple-airpods-4-anc
+soldOut: false
+start: '2026-03-31T22:00:00.000Z'
+title: Apple AirPods 4 ANC

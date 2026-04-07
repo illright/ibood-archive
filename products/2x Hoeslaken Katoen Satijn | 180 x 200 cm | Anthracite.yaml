@@ -1,22 +1,22 @@
-_id: 698b29fdd65dcc46cc845633
+_id: 69c3ecaf0dded6f873d4c286
 appOnly: false
-brand: Ten Cate
+brand: Ten Cate by Twentse Damast
 brands:
-  - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
-    name: Ten Cate
+  - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
+    name: Ten Cate by Twentse Damast
 categories:
-  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
-classicId: '2999623'
-classicProductId: '690496'
+  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
+classicId: '3115229'
+classicProductId: '702213'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 50184171-b82d-4322-94fc-549ad5aad516
+id: 03cf931f-566d-57ea-b00c-f45e5269ab41
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485600
-  priority: 100
-  slug: ten-cate-logo
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 19e6e503-472d-4e77-87cb-deca0ad02461
+offerId: e5ea1af6-eefe-5e43-828f-8e6c3948c4e7
 price:
   cents: 5295
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 109.9
 slug: 2x-hoeslaken-katoen-satijn-180-x-200-cm-anthracite
-soldOut: true
-start: '2026-02-10T23:00:00.000Z'
+soldOut: false
+start: '2026-03-31T22:00:00.000Z'
 title: 2x Hoeslaken Katoen Satijn | 180 x 200 cm | Anthracite

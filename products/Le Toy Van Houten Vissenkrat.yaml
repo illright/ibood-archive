@@ -1,22 +1,22 @@
-_id: 698aedaed8148ff606049c4a
+_id: 69cb9a4a19b288590a99a812
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2997800'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131809'
 classicProductId: '684372'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
-end: '2026-02-22T22:59:59.999Z'
+discount: 35
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 4cad6b0e-ddcf-4138-b102-d65e113d59d2
+id: c6dd6ec9-0e06-4193-91fe-69165f6e8a2c
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: 410tv184-ltv-market-fish-wooden-play-food-crate-fsc-100-product-0
   type: product
-offerId: aee71c07-6dd4-43e9-ad1a-c2588cf7d3ea
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: adec75d6-ab88-4fc2-bbd8-057b66908f62
 price:
-  cents: 995
+  cents: 1295
   currency: EUR
-  value: 9.95
+  value: 12.95
 referencePrice:
   cents: 1999
   currency: EUR
   value: 19.99
 slug: le-toy-van-houten-vissenkrat
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Le Toy Van Houten Vissenkrat

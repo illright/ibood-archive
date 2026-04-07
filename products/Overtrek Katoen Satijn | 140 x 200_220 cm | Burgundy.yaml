@@ -1,12 +1,12 @@
-_id: 698b29fcd65dcc46cc845631
+_id: 69c3ec72cc50cb2f129fef97
 appOnly: false
-brand: Ten Cate
+brand: Ten Cate by Twentse Damast
 brands:
-  - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
-    name: Ten Cate
+  - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
+    name: Ten Cate by Twentse Damast
 categories:
-  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
-classicId: '2999619'
+  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
+classicId: '3115120'
 classicProductId: '662285'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 28b91f92-1dfd-499d-bd3f-594d37bb5497
+id: dc6cdd32-6e78-57b1-9729-bde4b012f869
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485600
-  priority: 100
-  slug: ten-cate-logo
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 0b37126e-f1e1-44c2-92ef-68708039b220
+offerId: 68a8e6c0-c341-50d5-863e-cd67a40b14d9
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 79.95
 slug: ten-cate-overtrek-katoen-satijn-140-x-200-220-cm-burgundy
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Overtrek Katoen Satijn | 140 x 200/220 cm | Burgundy

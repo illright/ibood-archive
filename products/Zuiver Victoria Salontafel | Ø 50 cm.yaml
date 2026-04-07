@@ -1,12 +1,12 @@
-_id: 698afd0fe980f53813e0ad41
+_id: 69cb99f3ca0164559036ea96
 appOnly: false
 brand: ZUIVER
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: ZUIVER
 categories:
-  - a79a9aed-d370-5910-ad80-0bed481270de
-classicId: '2998844'
+  - 72c8b431-94c6-548a-a0cf-e0aec87f7250
+classicId: '3131578'
 classicProductId: '687551'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 9ac56647-0968-401e-a489-b685b2cc11d5
+id: 91ca8cc6-565a-417f-a302-73a4c5d0188a
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b5a835c7-4b74-4ed7-86fd-1332c823088b
-  priority: 0
-  slug: zuiver-logo-png-logo-0
+  extension: png
+  id: 2026182
+  priority: 100
+  slug: zuiver-logo
   type: logo
-offerId: 6aa7028a-1be8-4668-b721-63b43f314a4d
+offerId: b6222ac1-76a5-42bc-90ed-1f88059657b4
 price:
   cents: 14900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 369
 slug: zuiver-victoria-salontafel-50-cm
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Zuiver Victoria Salontafel | Ø 50 cm

@@ -1,12 +1,12 @@
-_id: 69821d707ef9beef51d4bfe5
+_id: 69cb9973600f062cd15eb9f4
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - a79a9aed-d370-5910-ad80-0bed481270de
-classicId: '2985829'
+  - 72c8b431-94c6-548a-a0cf-e0aec87f7250
+classicId: '3131234'
 classicProductId: '656135'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 51
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: dc88ba06-1bcb-5569-8352-7eebf614d424
+id: 7e15e5ce-4281-482b-98af-3cb42d20c60e
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: jill-06-png-product-1
   type: product
-offerId: bb7c3677-7259-5b59-b7be-dbb5a2a324b0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1633646
+  priority: 100
+  slug: multifurn-logo
+  type: logo
+offerId: 5b7066c6-4a51-4ecd-80d4-52dacfb93ba4
 price:
   cents: 16900
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 348
 slug: 2x-jill-bureaustoel
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: 2x Jill Bureaustoel

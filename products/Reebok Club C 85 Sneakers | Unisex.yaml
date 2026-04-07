@@ -1,22 +1,22 @@
-_id: 6992df7892d2c1cb95528b28
+_id: 69cbddd43964b943ee544762
 appOnly: false
 brand: REEBOK
 brands:
   - id: 13d331a3-67ae-508d-93cf-1673105e3147
     name: REEBOK
 categories:
-  - bfa03091-9355-5782-963a-44897b493d84
-classicId: '3007470'
-classicProductId: '653573'
+  - b8395062-90d4-5681-b51a-673a6da3f376
+classicId: '3137220'
+classicProductId: '684767'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 66
-end: '2026-02-22T22:59:59.999Z'
+directCheckout: false
+discount: 52
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: f541a8a1-005a-48f4-8094-31470c96fe39
+id: eb1f1904-9f89-4982-8dfb-2001e3304fbd
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d69caead-b6fc-41fb-8c8e-8116ab7bed69
+  id: be6f5540-7dc0-4eb7-8aad-ec50a6aa0490-tr
   priority: 0
-  slug: schoenen-png-product-1
+  slug: 41-pugry2-ftwwht-rbkle3-100074450-53-club-c-85-reebok-sneaker-unisex-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: reebok-logo
   type: logo
-offerId: 4f036eba-5814-418d-99d3-9683e8e4708f
+offerId: 45fce6f5-08cc-489b-9d20-ca7f7767023c
 price:
-  cents: 3572
+  cents: 4995
   currency: EUR
-  value: 35.72
+  value: 49.95
 referencePrice:
   cents: 10500
   currency: EUR
   value: 105
 slug: reebok-club-c-85-sneakers-unisex
-soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: Reebok Club C 85 Sneakers | Unisex

@@ -1,12 +1,12 @@
-_id: 6992d7d383c9384cb71fdf72
+_id: 69cbd39028482382885a61c1
 appOnly: false
 brand: Bahco
 brands:
   - id: 28ea2216-7811-5945-a5bd-9dca4a05bb82
     name: Bahco
 categories:
-  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
-classicId: '3007068'
+  - 5b86b552-7da4-5dde-a6bd-b620c9e6c343
+classicId: '3136428'
 classicProductId: '683160'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.000Z'
 freeDelivery: false
-id: 6b69beb7-ea92-462f-9e69-65eb7bd59d15
+id: 838fb226-e2c1-4325-82b9-878894b61caf
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: bahco09-png-product-1
   type: product
-offerId: f44a1d4f-9e10-43b9-ac26-40f6ff779314
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8be04052-726f-451d-aa5b-01ac0bf2d5be
+  priority: 0
+  slug: bahco-logo-0
+  type: logo
+offerId: cc4aa0e6-a90d-4411-9dd9-6a4c0d8c270f
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 80.33
 slug: bahco-klauwhamer-heavy-duty-sloopbeitel
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Bahco Klauwhamer & Heavy Duty Sloopbeitel

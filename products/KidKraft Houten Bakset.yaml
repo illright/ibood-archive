@@ -1,12 +1,12 @@
-_id: 6995887f6974958ca1910961
+_id: 69cb9a479c08f0dfbb47a9da
 appOnly: false
 brand: KIDKRAFT
 brands:
   - id: 49e93778-332b-592d-ab8b-167869bd6b72
     name: KIDKRAFT
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '3013146'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131800'
 classicProductId: '645507'
 deliveryPrice:
   cents: 595
@@ -14,20 +14,32 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 8da8af7d-52b7-4237-921a-da5bb62f99d6
+id: 69b6a912-dc13-4d56-8c0b-e6628867c06b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2274527
+    - all
+  extension: image/png
+  id: d9e5cc1f-e73b-49e7-9f4a-5a53f74971ce-tr
   priority: 0
-  slug: kidkraft-houten-bakset
+  slug: kidkraft-backset-aus-holz-ab-3-jahre-jpg-product-1
   type: product
-offerId: 466e8fa6-5113-42c2-a1d1-25e657de11ea
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 68227d37-b176-459a-9fa3-e9113f731a1b
+  priority: 0
+  slug: slug-logo-0
+  type: logo
+offerId: a5c29a4e-968e-4680-82a3-3f9a92a429af
 price:
   cents: 1495
   currency: EUR
@@ -38,5 +50,5 @@ referencePrice:
   value: 29.99
 slug: kidkraft-houten-bakset
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: KidKraft Houten Bakset

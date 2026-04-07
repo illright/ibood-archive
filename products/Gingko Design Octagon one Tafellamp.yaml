@@ -1,12 +1,12 @@
-_id: 698afd7cdb1cc4cb5069793a
+_id: 69cb99f5ca0164559036ea9f
 appOnly: false
 brand: Gingko Design
 brands:
   - id: 7b1823a9-9e0e-545a-b612-3ba4bedae9a2
     name: Gingko Design
 categories:
-  - bffdcb27-ce50-5013-83f9-adfc7868f337
-classicId: '2999036'
+  - e6451a9f-e3c1-5641-aa5c-47ed8dfe5eb9
+classicId: '3131584'
 classicProductId: '625136'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 3ea254da-d262-428a-901a-07dead72d2ca
+id: e4fdcd7a-9fae-49dd-8112-81dca9e3eabf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2193767
+    - all
+  extension: image/png
+  id: a1a83c57-1e75-437e-bee0-4ca121967474-tr
   priority: 0
-  slug: gingko-design-octagon-one-tafellamp
+  slug: gingko-design-octagon-one-schreibtischlampe-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 0
   slug: gingko-design-logo-0
   type: logo
-offerId: 67f21cae-1844-46a0-8e55-0964c1961c39
+offerId: 0fa11295-240c-4a86-b4cb-1c34571b483a
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 89
 slug: gingko-design-octagon-one-tafellamp
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-04-01T22:00:00.000Z'
 title: Gingko Design Octagon one Tafellamp

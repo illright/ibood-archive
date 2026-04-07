@@ -1,12 +1,12 @@
-_id: 698afd5ddb1cc4cb506978f3
+_id: 69cb9a12a8f84de162e0a385
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - a79a9aed-d370-5910-ad80-0bed481270de
-classicId: '2998995'
+  - 72c8b431-94c6-548a-a0cf-e0aec87f7250
+classicId: '3131648'
 classicProductId: '687558'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 52
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: caf27e8f-dfb3-4dd1-8b3b-1255001e4a62
+id: 41ccd7c5-8443-413f-9df8-c19ccce55dc4
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ab5d4a30-7c3d-45cf-81d6-f14aa0f782c5
-  priority: 0
-  slug: dutchbone-logo-png-logo-0
+  extension: png
+  id: 1999917
+  priority: 100
+  slug: dutchbone-logo
   type: logo
-offerId: b3f273ca-9f59-4d5f-afee-2edec5997fff
+offerId: 8c63fa9a-8825-48b1-b172-e4c731d34c15
 price:
   cents: 11900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 249
 slug: dutchbone-monogram-kruk
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Dutchbone Monogram Kruk

@@ -1,22 +1,22 @@
-_id: 691c80e74024d37c9f9a7505
+_id: 69cbde13352eb7b7d55e9ba9
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 1670b4ad-3ea3-583c-9029-775ba2c0d093
-classicId: '2832578'
-classicProductId: '679055'
+  - 606debad-4197-5847-809f-b71f3c782d6f
+classicId: '3137238'
+classicProductId: '679061'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 477a4439-9368-5bde-aaae-49d150c87e25
+id: fc195b57-927e-4ce0-904c-8adc030b03a3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d004803c-6b7e-495f-a93d-e70afe2c16da
-  priority: 0
-  slug: jack-jones-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 3832847c-2e22-56c5-a199-65c346b0cd8d
+offerId: 4b7c0370-7fcd-4f76-93c5-38dbf43245bb
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: jack-jones-jaccarlo-leren-riem
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Jack & Jones Jaccarlo Leren Riem | Heren

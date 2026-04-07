@@ -1,12 +1,12 @@
-_id: 698f008983c9384cb71fdd63
+_id: 69cb99daa8f84de162e0a367
 appOnly: false
 brand: Pinolino
 brands:
   - id: 10464502-330e-51e0-bc5e-f93ca2e5ba39
     name: Pinolino
 categories:
-  - 8d27c420-ccdf-51c6-aeaf-fc5f60a7d97a
-classicId: '3005332'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131500'
 classicProductId: '690974'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-02-19T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: d862c5e2-a530-4c75-81db-51049d53233d
+id: a1b0b2f6-d2ff-4d87-a8fe-f6e2bfa9300e
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 59a0668c-1c37-4919-bd2c-66c40caad022
+    - website
+    - app
+  extension: image/png
+  id: 59a0668c-1c37-4919-bd2c-66c40caad022-tr
   priority: 0
   slug: pinolino-loopwagen-uli-rood-pin-269425-product-2
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: pinolino-logo-0
   type: logo
-offerId: a68545c5-9414-4b2b-8eae-46c0cf3e9998
+offerId: 08ca9906-5c2e-4f9b-991a-9186b0b25f81
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 89.99
 slug: pinolino-uli-houten-loopwagen-rood
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Pinolino Uli Houten Loopwagen | Rood

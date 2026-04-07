@@ -1,12 +1,12 @@
-_id: 698aed9adb1cc4cb50697263
+_id: 69cb9a0cc5530539c5413612
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2997779'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131637'
 classicProductId: '684379'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: df386b7e-25dc-41e3-a252-e43a76da03de
+id: ef3b46c1-b944-40a7-8667-55aed20dfbc9
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 410tv334-ltv-vintage-style-film-camera-original-version-product-2
   type: product
-offerId: 15d2276b-1cdd-47e1-98a8-89049a49a11b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: ae1adbb1-49ad-4bd5-9654-99909061cb55
 price:
   cents: 1295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 24.99
 slug: le-toy-van-vintage-stijl-houten-filmcamera
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Le Toy Van Vintage Stijl Houten Filmcamera

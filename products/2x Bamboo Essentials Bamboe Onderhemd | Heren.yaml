@@ -1,31 +1,32 @@
-_id: 69930e9728d705e4c552d011
+_id: 69bd3c332fb66cbafb6d6e18
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 3de88d8b-25c3-5363-8731-12f0292a5cdb
-classicId: '3008321'
-classicProductId: '389347'
+  - ca95bb2a-585a-5a61-b436-eab08f4ad4eb
+classicId: '3096687'
+classicProductId: '389346'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: f493d485-4ba4-4e6e-ab48-11b60f812b3a
+id: a00d9a6e-b3fa-506f-ab12-ad297fb65835
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1287408
+    - all
+  extension: image/png
+  id: 989c5a14-3803-4ffc-9718-21e602fff059
   priority: 0
-  slug: 2x-bamboe-onderhemd-heren
+  slug: bamboo-02-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 101
   slug: bamboo-elements-logo-101
   type: logo
-offerId: 4dab553f-d898-4aec-b24c-359a75c286ae
+offerId: c7862dcc-9c8a-5590-933c-f40bd3b1cd0f
 price:
   cents: 1495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 29.95
 slug: 2x-bamboe-onderhemd-heren
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: 2x Bamboo Essentials Bamboe Onderhemd | Heren

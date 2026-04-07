@@ -1,12 +1,12 @@
-_id: 6984a408deb3dd8880dce3f1
+_id: 69ca43abba5b2e7fcdf93161
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - a4471fb5-75b7-5690-81d4-1eca4422c6d3
-classicId: '2989662'
+  - 6b16e418-d4fa-56d7-b22e-9b423dcf065f
+classicId: '3128188'
 classicProductId: '691632'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 51
-end: '2026-02-19T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 91a4ef2e-f285-5dc0-8467-0f1d055343c0
+id: 48b3d3eb-eb9c-42c1-b2a8-d27ec14d0ca6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xl-grey-melange-1910629-950000-core-soul-hood-sweatshirt-w-craft-product-0
   type: product
-offerId: 00350fc8-1d8f-5274-a15f-191f266edf21
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1667968
+  priority: 100
+  slug: craft-logo
+  type: logo
+offerId: 7ad65f72-b5ae-4178-bd96-5c5105b1f420
 price:
   cents: 4195
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 84.95
 slug: craft-core-soul-hoodie-dames-grijs
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Craft Core Soul Hoodie| Dames | Grijs

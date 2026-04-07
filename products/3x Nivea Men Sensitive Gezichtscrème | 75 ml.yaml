@@ -1,12 +1,12 @@
-_id: 6993717a412261ec39fb58b5
+_id: 69cb7b3b7ed825c4aeb28c2e
 appOnly: false
 brand: Nivea
 brands:
   - id: d8a2a976-e8d8-5949-9c8a-954f3947519d
     name: Nivea
 categories:
-  - 74e98d4f-7f0f-56b9-acf6-6625326b1fbd
-classicId: '3010935'
+  - 4484675f-0c12-5114-a93e-e848526695c5
+classicId: '3130349'
 classicProductId: '559418'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,20 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 5f422b37-d050-46b5-ae92-f40aadc3967f
+id: f1d539bb-c7f8-43e0-b462-4f128892926c
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - newsletter
+    - app
+    - website
   extension: image/png
-  id: 6d48287c-09cc-4054-a37d-55736b37f55e
-  priority: 0
-  slug: 3x-nivea-men-sensitive-gezichtscreme-75-ml-product-3
+  id: 8697a15b-68e4-4978-89ad-2d47809ea49c
+  priority: 1
+  slug: 3x-nivea-men-sensitive-gezichtscreme-75-ml-product-2
   type: product
 logo:
   channels:
@@ -39,7 +40,7 @@ logo:
   priority: 0
   slug: nivea-logo-0
   type: logo
-offerId: d260c692-4947-4a76-9136-fd023591c3c7
+offerId: 552fdf52-05fa-4d64-ade0-4fea557f0d09
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +51,5 @@ referencePrice:
   value: 53.97
 slug: 3x-nivea-men-sensitive-gezichtscreme-75-ml
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: 3x Nivea Men Sensitive Gezichtscrème | 75 ml

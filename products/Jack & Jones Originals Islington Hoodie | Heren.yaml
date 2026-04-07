@@ -1,12 +1,12 @@
-_id: 691e0133054815dba617e04f
+_id: 69cbd4ad28482382885a632f
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 1670b4ad-3ea3-583c-9029-775ba2c0d093
-classicId: '2833028'
+  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
+classicId: '3136732'
 classicProductId: '679823'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 41d257f8-f5d7-560e-bf83-ee9214211440
+id: 569b2d4d-ceae-4358-9d87-ce1edb3b1004
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8bebcdb0-57a6-43b8-89f3-03e05d7e4041
-  priority: 0
-  slug: jack-jones-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: a7550bfc-742b-5cd6-9ab7-fdbddc418f88
+offerId: 95b926c5-cc53-4160-97af-37f7f2436975
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-originals-islington-hoodie-heren
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Jack & Jones Originals Islington Hoodie | Heren

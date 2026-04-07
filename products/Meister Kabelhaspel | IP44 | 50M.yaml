@@ -1,12 +1,12 @@
-_id: 697b5f79fa628e7eaf6a19f1
+_id: 69cbd348cd24a4f82bce5df9
 appOnly: false
 brand: Meister
 brands:
   - id: dc0c4ee5-40a6-578c-9d58-b7d56774a86a
     name: Meister
 categories:
-  - 6e7414f2-6909-5cf4-a28d-bf3d6240864f
-classicId: '2977279'
+  - 5b86b552-7da4-5dde-a6bd-b620c9e6c343
+classicId: '3136334'
 classicProductId: '690775'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 41
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.000Z'
 freeDelivery: false
-id: 0e31c146-301a-5874-b62c-aa6efd1b82a2
+id: 66855945-2f8a-4841-940d-2b6e0cc10d6f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: meister-kabelhaspel-h05rr-ip44-50m-product-0
   type: product
-offerId: 22fbf062-ed83-542b-9581-ad3b4339630d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1722229
+  priority: 100
+  slug: meister-logo
+  type: logo
+offerId: 115a6af5-ccdd-4d8e-b006-87b099ca238f
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119
 slug: meister-kabelhaspel-ip44-50m
 soldOut: false
-start: '2026-02-15T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Meister Kabelhaspel | IP44 | 50M

@@ -1,12 +1,12 @@
-_id: 6995887f25cbb705d878949a
+_id: 69cb99fdc5530539c54135a8
 appOnly: false
 brand: KIDKRAFT
 brands:
   - id: 49e93778-332b-592d-ab8b-167869bd6b72
     name: KIDKRAFT
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '3013145'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131607'
 classicProductId: '645510'
 deliveryPrice:
   cents: 895
@@ -14,20 +14,32 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 45
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 196fbc9a-6781-4823-8ea0-4e5255f4340f
+id: 67bed6d6-ae72-4246-9e3a-12123853db95
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2274542
-  priority: 100
-  slug: kidkraft-ijssalon-speelset
+    - all
+  extension: image/png
+  id: 74ed3599-8cc8-4469-83a7-16ecc3b06f59-tr
+  priority: 0
+  slug: kidkraft-eisdiele-spielset-ab-3-jahre-jpg-product-101
   type: product
-offerId: 786d860f-6b22-4c98-8747-18c376ef1367
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 68227d37-b176-459a-9fa3-e9113f731a1b
+  priority: 0
+  slug: slug-logo-0
+  type: logo
+offerId: 3fa4258c-8cda-4733-b55f-39cfc61ea24d
 price:
   cents: 2495
   currency: EUR
@@ -38,5 +50,5 @@ referencePrice:
   value: 44.99
 slug: kidkraft-ijssalon-speelset
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: KidKraft IJssalon Speelset

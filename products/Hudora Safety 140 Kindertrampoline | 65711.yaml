@@ -1,12 +1,12 @@
-_id: 699308ad83c9384cb71fe4b6
+_id: 69cb997f53700a2b53eee212
 appOnly: false
 brand: Hudora
 brands:
   - id: 9e0cd4c4-6b7c-5667-a684-0b511b637246
     name: Hudora
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '3008031'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131261'
 classicProductId: '691531'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: ab76128c-b403-4724-91f6-9577656e9991
+id: 293260f9-169d-48b8-9fca-21cbd2350708
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: juiste-png-product-1
   type: product
-offerId: 541dcb3f-7c50-445b-9b88-cc03595e0cd1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: afbe6c0f-7ef7-46ae-af61-829fa7cd0905
+  priority: 0
+  slug: hudora-logo-0
+  type: logo
+offerId: b0df4651-8f2d-4f40-a1be-506f4d1ebe0c
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 199.95
 slug: hudora-safety-140-kindertrampoline-65711
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Hudora Safety 140 Kindertrampoline | 65711

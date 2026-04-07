@@ -1,12 +1,12 @@
-_id: 698afd0fe980f53813e0ad42
+_id: 69cb9a249c08f0dfbb47a90f
 appOnly: false
 brand: Trio
 brands:
   - id: c20640a1-47f7-50d6-8fb4-6f3a3ab283d1
     name: Trio
 categories:
-  - bffdcb27-ce50-5013-83f9-adfc7868f337
-classicId: '2998821'
+  - e6451a9f-e3c1-5641-aa5c-47ed8dfe5eb9
+classicId: '3131698'
 classicProductId: '486863'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 49
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: a58b260a-0967-4db1-b514-c7978e3e6f79
+id: 32660a02-58f1-498d-b384-67887e13f1e1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1636644
-  priority: 100
-  slug: trio-vloerlamp-brantford
+    - all
+  extension: image/png
+  id: 1814fcb5-dc32-414b-a3be-f12ce22f03f7-tr
+  priority: 0
+  slug: trio-vloerlamp-brantford-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: trio-logo
   type: logo
-offerId: 5fe5b076-384a-4cad-8c11-903c76a1a232
+offerId: bcb0b6a7-c6ed-48f4-94e6-7375982d705b
 price:
   cents: 17900
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 349.99
 slug: trio-vloerlamp-brantford
-soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+soldOut: true
+start: '2026-04-01T22:00:00.000Z'
 title: Trio Vloerlamp Brantford

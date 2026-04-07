@@ -1,31 +1,32 @@
-_id: 69930f1d28d705e4c552d0c2
+_id: 69cbd52528482382885a63dd
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 005f146d-7047-5509-a51a-28750acd2697
-classicId: '3008484'
-classicProductId: '610786'
+  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
+classicId: '3136828'
+classicProductId: '689836'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 56
-end: '2026-02-23T22:59:59.999Z'
+discount: 67
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 0aeb9bd3-2218-4ba6-b35f-dcb8c766be6e
+id: 8dc9f524-bbe8-4506-a110-a4146fa78183
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2130374
+    - all
+  extension: image/png
+  id: d26023e7-bff8-4b7e-9757-13bfcd65513e-tr
   priority: 0
-  slug: mcgregor-stretch-poplin-shirt-heren
+  slug: xxl-white-9000-mm999-6001-04-stretch-poplin-shirt-mcgregor-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 62ab96b5-3233-4a6a-9cc0-b3e36081cd9a
+offerId: 91b6a16c-01d7-442b-9d96-26c8aa1796b9
 price:
-  cents: 3995
+  cents: 2995
   currency: EUR
-  value: 39.95
+  value: 29.95
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: mcgregor-stretch-poplin-shirt-heren
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: McGregor Stretch Poplin Shirt | Heren

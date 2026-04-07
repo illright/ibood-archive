@@ -1,22 +1,22 @@
-_id: 698aed83e980f53813e0a8e2
+_id: 69cb99e4c5530539c5413514
 appOnly: false
 brand: LTV
 brands:
   - id: a8f5b08c-768a-53dc-b135-03e316e5e455
     name: LTV
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2997744'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131528'
 classicProductId: '684378'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 50
-end: '2026-02-22T22:59:59.999Z'
+discount: 58
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 3a575ecd-21c2-409c-9d6b-44874ac11be2
+id: 2ceb7eb1-5ddb-48f3-b815-0abec3f2eeeb
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: 410tv324-ltv-tea-en-treats-trolley-market-stall-original-version-product-1
   type: product
-offerId: c5660115-ce75-4f46-9cb5-6509856c5edf
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ebe0afce-2204-4c9a-848f-fc6daffa9d60
+  priority: 0
+  slug: ltv-logo-0
+  type: logo
+offerId: 526f6f7b-5e6e-4186-9ebc-8a5e12d4fefb
 price:
-  cents: 9995
+  cents: 8495
   currency: EUR
-  value: 99.95
+  value: 84.95
 referencePrice:
   cents: 19999
   currency: EUR
   value: 199.99
 slug: le-toy-van-tea-treats-marktkraam
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Le Toy Van Tea & Treats Marktkraam

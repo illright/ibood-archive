@@ -1,32 +1,32 @@
-_id: 699589ae92d2c1cb95529d47
+_id: 69cbb3a42eede458c42e1279
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - b92e7185-590c-5b0f-97d9-f538b55eddd7
-classicId: '3013158'
-classicProductId: '687829'
+  - 5af6ed1d-7d6c-5909-81e1-e136ab69a1c5
+classicId: '3135677'
+classicProductId: '659086'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
 discount: 40
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-08T21:59:59.999Z'
 freeDelivery: false
-id: 0f6d9f66-7805-4b51-9ba1-e990d6e52468
+id: c0bf4dd7-1333-4239-a80b-31fecf1cbe35
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - website
     - app
+    - website
   extension: image/png
-  id: a9a5a6a1-8ffc-4c95-a34e-45fff585193f-tr
+  id: d07b15f2-c084-4efa-adab-0aeb592503b8-tr
   priority: 0
   slug: 2x-apple-usb-c-netzteil-20-w-png-product-1
   type: product
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: 92dbe16b-2d86-449a-b6be-1334533ba5ff
+offerId: 71c55758-9c8c-4176-9a98-f6a3d6b306c3
 price:
   cents: 2995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 50
 slug: 2x-apple-usbc-lichtnetadapter-20-w
-soldOut: false
-start: '2026-02-18T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: 2x Apple USB‑C Lichtnetadapter | 20 W

@@ -1,31 +1,32 @@
-_id: 698afd033a496caaf74e0064
+_id: 69cb9a23600f062cd15ebb6b
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - bffdcb27-ce50-5013-83f9-adfc7868f337
-classicId: '2998836'
+  - e6451a9f-e3c1-5641-aa5c-47ed8dfe5eb9
+classicId: '3131677'
 classicProductId: '510953'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: false
-discount: 59
-end: '2026-02-22T22:59:59.999Z'
+discount: 65
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 83d3d86b-b6af-4bc8-bc9b-5f6815996bd9
+id: 5a4b335d-03df-421f-9607-a9f3c9de518a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1729383
+    - all
+  extension: image/png
+  id: f498c189-ff2b-4034-9059-81b57875e919
   priority: 0
-  slug: dutchbone-meezan-hanglamp-m
+  slug: lamp-03-png-product-1
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1729458
+  id: 1999917
   priority: 100
-  slug: dutchbone-meezan-hanglamp-m
+  slug: dutchbone-logo
   type: logo
-offerId: 524e1872-cc4b-4691-9d6f-cd3343ddeb84
+offerId: a21df047-4004-4c0f-a061-fe337f0d21a8
 price:
-  cents: 6495
+  cents: 5495
   currency: EUR
-  value: 64.95
+  value: 54.95
 referencePrice:
   cents: 15900
   currency: EUR
   value: 159
 slug: dutchbone-meezan-hanglamp-m
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-04-01T22:00:00.000Z'
 title: Dutchbone Meezan Hanglamp | M

@@ -1,12 +1,12 @@
-_id: 698b29fad65dcc46cc84562c
+_id: 69c3ec4fcc50cb2f129fef57
 appOnly: false
-brand: Ten Cate
+brand: Ten Cate by Twentse Damast
 brands:
-  - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
-    name: Ten Cate
+  - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
+    name: Ten Cate by Twentse Damast
 categories:
-  - 399408e0-fcfd-50f9-bc8b-a583abb309d3
-classicId: '2999617'
+  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
+classicId: '3114967'
 classicProductId: '208889'
 deliveryPrice:
   cents: 595
@@ -14,30 +14,32 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: ee4e241c-ad99-4e24-88d5-050a188c00b4
+id: 22761698-9852-570e-93ce-5c6adff75737
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2271143
+    - all
+  extension: image/png
+  id: 7546dad6-00b2-4667-a396-bbcc491d256d
   priority: 0
-  slug: ten-cate-dbo-satin-240-x-200220-cm
+  slug: overtrek-satijn-140-x-200220-cm-product-0-png-product-0
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485600
-  priority: 100
-  slug: ten-cate-logo
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: af9834b0-3b0e-4de7-94a6-5adb2e4af3f0
+offerId: 1e69cad8-46cd-5026-9146-16b20640469d
 price:
   cents: 5495
   currency: EUR
@@ -47,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 129.95
 slug: ten-cate-overtrek-katoen-satijn-240-x-200-220-cm-taupe
-soldOut: true
-start: '2026-02-10T23:00:00.000Z'
+soldOut: false
+start: '2026-03-31T22:00:00.000Z'
 title: Overtrek Katoen Satijn | 240 x 200/220 cm | Taupe

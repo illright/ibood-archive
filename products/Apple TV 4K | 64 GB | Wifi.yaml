@@ -1,0 +1,55 @@
+_id: 69cbb2c1600f062cd15eecd6
+appOnly: false
+brand: Apple | Nedis
+brands:
+  - id: fdd49684-29ac-59d6-adef-6536bdeecf47
+    name: Apple
+  - id: f943c954-33f5-50b5-93a3-05ac31c2ab7b
+    name: Nedis
+categories:
+  - 5af6ed1d-7d6c-5909-81e1-e136ab69a1c5
+classicId: '3135364'
+classicProductId: '701628'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 24
+end: '2026-04-08T21:59:59.999Z'
+freeDelivery: false
+id: db0df8b1-9160-4b5f-b2f8-bf7de6f9fac3
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d5d4b9e8-0625-4804-be87-6a3300914468
+  priority: 0
+  slug: aptv-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: c9db31c2-2115-4514-9902-206967a69dbe
+price:
+  cents: 12900
+  currency: EUR
+  value: 129
+referencePrice:
+  cents: 16900
+  currency: EUR
+  value: 169
+slug: apple-tv-4k-64-gb-wifi
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
+title: Apple TV 4K | 64 GB | Wifi

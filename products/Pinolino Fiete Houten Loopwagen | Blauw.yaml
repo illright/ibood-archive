@@ -1,12 +1,12 @@
-_id: 698089ece1809bffba513be6
+_id: 69cb99ceca0164559036e9d5
 appOnly: false
 brand: Pinolino
 brands:
   - id: 10464502-330e-51e0-bc5e-f93ca2e5ba39
     name: Pinolino
 categories:
-  - eed05790-185f-57b4-8197-ae3ccec1fbc8
-classicId: '2981262'
+  - c88d74d9-3561-531f-a6c6-86617e9d3563
+classicId: '3131461'
 classicProductId: '630060'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: fd6cc3ab-6352-589d-b00f-62fdffbe1f3b
+id: 7a30634d-7a56-4097-adc8-2a1378a7a772
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2207630
-  priority: 100
-  slug: pinolino-fiete-lernlauflernwagen-blau-ab-1-j
+    - all
+  extension: image/png
+  id: ebd674ec-2626-48d9-854e-bffbad15c613
+  priority: 0
+  slug: pinolino-logo-0
   type: logo
-offerId: e870ce83-0db7-5322-b31e-fce79c04a13f
+offerId: 120ff23e-0669-4e2d-aec2-bcd914f84bd3
 price:
   cents: 2995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 109
 slug: pinolino-fiete-houten-loopwagen
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Pinolino Fiete Houten Loopwagen | Blauw

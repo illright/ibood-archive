@@ -1,22 +1,22 @@
-_id: 698ee7f683c9384cb71fdcb8
+_id: 69c11cce0009db9693f17db0
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - f3cf07a8-01e1-5fa6-9902-d68b542a1c01
-classicId: '3004999'
+  - 9eb41094-3ecb-5a0b-9391-d79d86ed9af1
+classicId: '3099061'
 classicProductId: '661392'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2026-02-23T22:59:59.999Z'
+directCheckout: true
+discount: 58
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: c866a7e6-3083-4018-879a-29766ab92b69
+id: f4968952-aab5-4ff5-a7c7-f5b144843db7
 image:
   channels:
     - app
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: eb95598c-d88d-44a0-b276-f67742f57460
+offerId: f6b65b25-5c5e-4653-9e7f-2da803c97990
 price:
-  cents: 5995
+  cents: 5000
   currency: EUR
-  value: 59.95
+  value: 50
 referencePrice:
   cents: 12000
   currency: EUR
   value: 120
 slug: tenson-melville-regenjas-dames
-soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+soldOut: true
+start: '2026-03-23T23:00:00.000Z'
 title: Tenson Melville Regenjas | Dames
+es

@@ -1,12 +1,12 @@
-_id: 698b290ce980f53813e0af40
+_id: 69cbcfa328482382885a61ac
 appOnly: false
 brand: VT WONEN
 brands:
   - id: 779c3a3e-a55a-58a7-83aa-2b81b3802c35
     name: VT WONEN
 categories:
-  - d59856fb-37b0-5e56-bf4b-16c90315da38
-classicId: '2999270'
+  - 553fa6ea-c125-5ee7-9127-c6fe7dd141b6
+classicId: '3136000'
 classicProductId: '610223'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: c0526f57-202a-4292-b04d-6d9ccbbe8d6e
+id: 57d76bea-8adc-499e-84f0-f5224206fc24
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: eed79f6b-b484-4ad0-912f-61f0f0dc1775
+  id: 4b6a93cd-a183-4306-a232-1cd044fc4f0a-tr
   priority: 0
-  slug: vtwonen-dekbedovertrek-katoen-200x200-220-product-8
+  slug: 321644-vtwonen-dekbedovertrek-katoen-moons-brown-200x200-220-product-1
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: vt-wonen-logo
   type: logo
-offerId: 51e5aa34-44be-4677-8d3d-458e42d89466
+offerId: eda2a654-dda6-4749-a578-f690960dc773
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 119.95
 slug: vtwonen-dekbedovertrek-katoen
-soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: 'VT Wonen Dekbedovertrek '

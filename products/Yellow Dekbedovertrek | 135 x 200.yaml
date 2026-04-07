@@ -1,12 +1,12 @@
-_id: 698b28eedb1cc4cb50697ad3
+_id: 69cbcf1319b288590a9a1866
 appOnly: false
 brand: Yellow
 brands:
   - id: e97b3863-595d-5f30-8cfe-81f988cfb3b2
     name: Yellow
 categories:
-  - d59856fb-37b0-5e56-bf4b-16c90315da38
-classicId: '2999245'
+  - 553fa6ea-c125-5ee7-9127-c6fe7dd141b6
+classicId: '3135967'
 classicProductId: '452459'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 9689d7fe-5498-4438-a6cd-353be04687e1
+id: 1ba89b2c-7dc6-43c4-b3e6-e5a0205639cd
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: e4a02273-d86a-44a7-aeee-7a775236cb58-tr
+  extension: png
+  id: 1506653
   priority: 0
-  slug: posciel-yellow-cialda-135-x-200-cm-png-product-33
+  slug: posciel-yellow-cialda-135-x-200-cm
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: yellow-logo
   type: logo
-offerId: 40d6a304-d352-47f6-9a68-14d23adc6724
+offerId: 6f137f0a-6560-4a4a-9a3d-b933706b6fc1
 price:
   cents: 3295
   currency: EUR
@@ -50,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 109.95
 slug: yellow-dekbedovertrek-135-x-200-duitse-maat
-soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: Yellow Dekbedovertrek | 135 x 200

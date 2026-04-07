@@ -1,12 +1,12 @@
-_id: 698b28dddb1cc4cb50697aaf
+_id: 69cbcec1352eb7b7d55e97da
 appOnly: false
 brand: VT WONEN
 brands:
   - id: 779c3a3e-a55a-58a7-83aa-2b81b3802c35
     name: VT WONEN
 categories:
-  - d59856fb-37b0-5e56-bf4b-16c90315da38
-classicId: '2999225'
+  - 553fa6ea-c125-5ee7-9127-c6fe7dd141b6
+classicId: '3135952'
 classicProductId: '516726'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 0bf6cf01-d1dc-4c72-b555-dd7c98575674
+id: 4b88891c-0bf5-451b-a79e-9f9ce20de81f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1992447
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1302803b-d6ab-4e1a-9e58-2ab256ec37cc-tr
   priority: 0
-  slug: vt-wonen-overtrek-140-x-200220-cm
+  slug: vt-wonen-overtrek-140-x-200220-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: vt-wonen-logo
   type: logo
-offerId: 92f72fa4-9c16-474a-851d-f4e74ed7e3bc
+offerId: 565fc9fd-84f1-4810-b32c-457f99a289f4
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 89.95
 slug: vt-wonen-overtrek-140-x-200220-cm
 soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: VT Wonen Dekbedovertrek | Katoensatijn | 140 x 200/220 cm

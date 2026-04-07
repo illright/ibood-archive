@@ -1,12 +1,12 @@
-_id: 6992d83692d2c1cb9552888c
+_id: 69cbd41f352eb7b7d55e99f1
 appOnly: false
 brand: Tiger
 brands:
   - id: f0765e68-96e4-5a85-9c99-070faa849fe6
     name: Tiger
 categories:
-  - ae6feb43-94e5-598a-8e8f-c28b80e6151d
-classicId: '3007183'
+  - 5b86b552-7da4-5dde-a6bd-b620c9e6c343
+classicId: '3136563'
 classicProductId: '691073'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-02-22T22:59:59.999Z'
+end: '2026-04-07T21:59:59.000Z'
 freeDelivery: false
-id: b0f3081b-452f-42ba-9eff-4d313b3f3332
+id: 2dbb53e5-9ddd-45a8-8d2c-f3d55ea2e239
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: tiger-dock-soap-dispenser-135-ml-freestanding-stainless-steel-brushed-product-2
   type: product
-offerId: d5141c30-cf47-493d-82d6-a1475af80fcb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800649
+  priority: 100
+  slug: tiger-logo
+  type: logo
+offerId: e7927e43-5b5d-4d31-9191-49749dd37e77
 price:
   cents: 1495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 41.95
 slug: tiger-dock-zeepdispenser-135-ml-vrijstaand-rvs-geborsteld
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Tiger Dock Zeepdispenser | 135 ml | Vrijstaand | RVS Geborsteld

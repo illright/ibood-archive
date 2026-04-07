@@ -1,12 +1,12 @@
-_id: 698b2ecae980f53813e0b004
+_id: 69ca8cbfbb8f88e3cc5d9a9a
 appOnly: false
 brand: Reco Skinlab
 brands:
   - id: 65f772b8-9ed9-5a22-aaf2-b47284d42c1f
     name: Reco Skinlab
 categories:
-  - 34dce5da-78d4-5b09-9d1d-0aec1f299749
-classicId: '2999908'
+  - f3ea8a0e-0884-5c6c-b445-42da738aafc4
+classicId: '3129974'
 classicProductId: '692726'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 8a492d05-7756-5849-9b86-22e8e2f303d5
+id: d591177e-c82b-4b79-b699-0ee447bdde83
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: reco-skinlab-niacinamide-10-radiance-serum-30ml-rec006-product-0
   type: product
-offerId: f21e0764-8c92-5374-b79c-1bf52e359ed5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fa67ed20-b07c-4073-8b9a-5118ae8dab14
+  priority: 0
+  slug: reco-skinlab-logo-0
+  type: logo
+offerId: b155a635-d7d0-4db3-b88b-8ded60272e81
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 78
 slug: reco-skinlab-niacinamide-10-radiance-serum-30-ml
 soldOut: false
-start: '2026-02-18T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: Reco Skinlab Niacinamide 10% Radiance Serum | 30 ml

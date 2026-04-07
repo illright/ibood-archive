@@ -1,12 +1,12 @@
-_id: 69930eac00cc45ec3ca7c81e
+_id: 69cbd4f328482382885a6389
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 005f146d-7047-5509-a51a-28750acd2697
-classicId: '3008353'
+  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
+classicId: '3136792'
 classicProductId: '689837'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-02-23T22:59:59.999Z'
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 929f5195-24af-4310-9a28-c5545b8b2342
+id: e6a15dea-67ba-48c1-aedc-aebd1bf1005a
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: eb571523-5654-4e94-91dd-a9d75f5254e3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: ec4fd109-b224-4f18-8009-2ddd9b381d5b
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: mcgregor-cassic-poloshirt-heren
 soldOut: false
-start: '2026-02-16T23:00:00.000Z'
+start: '2026-03-31T22:00:00.000Z'
 title: McGregor Cassic Poloshirt | Heren

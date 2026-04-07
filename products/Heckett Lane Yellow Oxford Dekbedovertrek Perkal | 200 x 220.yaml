@@ -1,34 +1,31 @@
-_id: 698b28ebdb1cc4cb50697acc
+_id: 69cbe4cf19b288590a9a31bb
 appOnly: false
 brand: Yellow
 brands:
   - id: e97b3863-595d-5f30-8cfe-81f988cfb3b2
     name: Yellow
 categories:
-  - d59856fb-37b0-5e56-bf4b-16c90315da38
-classicId: '2999242'
-classicProductId: '482143'
+  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
+classicId: '3137355'
+classicProductId: '320454'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 72
-end: '2026-02-22T22:59:59.999Z'
+discount: 68
+end: '2026-04-07T21:59:59.999Z'
 freeDelivery: false
-id: 2bf90b46-73e4-47cb-a7cc-e480433d3f30
+id: ec479625-667e-46fc-9000-795def101e4b
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 31666684-d6fc-4045-82d9-c1a151a9ab1d-tr
+  extension: jpg
+  id: 1632497
   priority: 0
-  slug: posciel-yellow-oxford-200-x-220-cm-2-jpg-product-12
+  slug: dekbedovertrek-perkal-200-x-220
   type: product
 logo:
   channels:
@@ -40,16 +37,17 @@ logo:
   priority: 100
   slug: yellow-logo
   type: logo
-offerId: 587a760a-faf2-4d35-a933-3a0afe86a9d5
+offerId: c0c6c4e4-0dba-4a3d-93af-592acb8cc5d0
 price:
-  cents: 4995
+  cents: 5695
   currency: EUR
-  value: 49.95
+  value: 56.95
 referencePrice:
   cents: 17995
   currency: EUR
   value: 179.95
 slug: dekbedovertrek-perkal-200-x-220
-soldOut: false
-start: '2026-02-10T23:00:00.000Z'
+soldOut: true
+start: '2026-03-31T22:00:00.000Z'
 title: Heckett Lane Yellow Oxford Dekbedovertrek Perkal | 200 x 220
+
