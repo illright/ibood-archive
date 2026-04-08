@@ -1,12 +1,12 @@
-_id: 69baa4410bf74d4ddf2cdbf5
+_id: 69d503fc2200a251fa3d31bf
 appOnly: false
 brand: HASBRO
 brands:
   - id: cac571e6-1496-5928-9e99-1b92d9fa21c4
     name: HASBRO
 categories:
-  - c88d74d9-3561-531f-a6c6-86617e9d3563
-classicId: '3092157'
+  - a47ee7bb-95c9-5865-9f1b-500bfffe34be
+classicId: '3149148'
 classicProductId: '700350'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 156325d5-1d8c-5d3c-97c6-25b5c99034d6
+id: 8277f9c7-959a-4955-879e-41433814c476
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4a57990f-6fd0-426f-b48c-63083dcfaf21
-  priority: 0
-  slug: hasbro-logo-png-logo-0
+  extension: png
+  id: 1744551
+  priority: 100
+  slug: hasbro-logo
   type: logo
-offerId: c09fdbe3-0693-5e40-a4a8-9ee3c07a1202
+offerId: c8828990-5c06-488e-9022-94895ec472e5
 price:
   cents: 995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 19.99
 slug: my-little-pony-sparkle-reveal-lantaarn
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: My Little Pony Sparkle Reveal Lantaarn

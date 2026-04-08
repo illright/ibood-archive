@@ -1,12 +1,12 @@
-_id: 69ccd6444fe6bbfeb8ff1d9c
+_id: 69d4f60dad70b49497440e27
 appOnly: false
 brand: Haribo
 brands:
   - id: 274432d1-d2e6-593c-8d06-6d003bbd1e14
     name: Haribo
 categories:
-  - 410405d0-f9ef-5408-b1ee-f2e9da33bcab
-classicId: '3137824'
+  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
+classicId: '3147964'
 classicProductId: '700394'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 2ef9cc01-ad91-4cd9-a7d2-4f8e043aad71
+id: 6f4f9390-fc5c-4116-8b15-d5bdd746d77f
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6499e47e-7f25-46c5-8750-df5b005d088b
-  priority: 0
-  slug: haribo-png-logo-0
+  extension: png
+  id: 1936479
+  priority: 100
+  slug: haribo-logo
   type: logo
-offerId: 5f6409fa-d2a4-4275-ba90-18d962472045
+offerId: 87035cb0-36c9-46f0-8fab-dc5f614acb4a
 price:
   cents: 2295
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 39.99
 slug: 3x-haribo-kiddies-big-box-900-gram
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 3x Haribo Kiddies Big Box | 900 gram

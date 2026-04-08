@@ -1,12 +1,12 @@
-_id: 69baa44538977bf7f7ce77bd
+_id: 69d504241c040adcd8d7e504
 appOnly: false
 brand: Carrera
 brands:
   - id: 92d00cd9-feb5-5cb6-820f-ba8271c25191
     name: Carrera
 categories:
-  - ca272ff4-7374-5785-86f1-40a1bc7027f7
-classicId: '3092139'
+  - 55ab2b73-4b64-519b-b142-0492183cf0a0
+classicId: '3149298'
 classicProductId: '700321'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 9a3c4cac-bcbf-51d9-b0de-5144eaea072e
+id: d41871fc-6bc0-4061-bb5d-6ff0bcb97948
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: carrera-krabbord-voor-kattenspeelgoed-product-3
   type: product
-offerId: 5c05c86b-d6d5-5d71-aa45-1f03a8b4cb9e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c0d50383-2123-420e-b17c-46a7710aa960
+  priority: 101
+  slug: carrera-logo-101
+  type: logo
+offerId: 6f03189e-caef-45b4-96b6-a84410365e3b
 price:
   cents: 695
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 14.95
 slug: carrera-krabbord-voor-katten
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Carrera Krabbord voor Katten

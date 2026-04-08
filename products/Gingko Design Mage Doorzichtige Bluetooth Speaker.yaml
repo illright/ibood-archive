@@ -1,32 +1,31 @@
-_id: 69cb9a524fe6bbfeb8fd68c2
+_id: 69d504606ef5d29d31518597
 appOnly: false
 brand: Gingko Design
 brands:
   - id: 7b1823a9-9e0e-545a-b612-3ba4bedae9a2
     name: Gingko Design
 categories:
-  - e6451a9f-e3c1-5641-aa5c-47ed8dfe5eb9
-classicId: '3131830'
+  - c28a6f98-16c9-5195-9258-06da36c8c88b
+classicId: '3149387'
 classicProductId: '625138'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 51
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: false
+discount: 53
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 4f134016-7146-4932-9044-24aefbe88d33
+id: 17d6fc6b-25e6-4d5a-8ce2-370627c73872
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 98ac2f47-3fc8-4928-8824-84d6d08d3a0f
+  extension: png
+  id: 2193712
   priority: 0
-  slug: lamp-05-png-product-2
+  slug: gingko-design-mage-doorzichtige-bluetooth-speaker
   type: product
 logo:
   channels:
@@ -39,16 +38,16 @@ logo:
   priority: 0
   slug: gingko-design-logo-0
   type: logo
-offerId: b1d34339-6241-49d3-9130-a43d212f560d
+offerId: f520a440-8357-4e87-b34b-d5188932b9f4
 price:
-  cents: 4195
+  cents: 3995
   currency: EUR
-  value: 41.95
+  value: 39.95
 referencePrice:
   cents: 8500
   currency: EUR
   value: 85
 slug: gingko-design-mage-doorzichtige-bluetooth-speaker
 soldOut: false
-start: '2026-04-01T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Gingko Design Mage Doorzichtige Bluetooth Speaker

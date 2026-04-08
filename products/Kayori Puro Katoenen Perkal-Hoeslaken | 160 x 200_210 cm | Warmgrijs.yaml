@@ -1,12 +1,12 @@
-_id: 69aa9bad0bd1564bf3391649
+_id: 69d4fb1e2200a251fa3d2fac
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - b7980245-dd6f-5f74-8f6e-f6ef0c05dc96
-classicId: '3064064'
+  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
+classicId: '3148675'
 classicProductId: '697899'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 2cc445e9-cbd3-5ce9-9110-17b38fae3325
+id: c9c4caa3-1934-4095-ad0c-26efa4284b3e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 13582e5f-fc4a-44ba-a004-3912a86a33de
-  priority: 0
-  slug: kayori-png-logo-0
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
   type: logo
-offerId: cea0d2bd-7abe-53e1-ba4a-9184bbd26e5e
+offerId: 59facfbe-b1d5-4cab-9ecf-e6cbf0e6d4c3
 price:
   cents: 3295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 67.95
 slug: kayori-puro-katoenen-perkal-hoeslaken-160-x-200-210-cm-warmgrijs
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Kayori Puro Katoenen Perkal-Hoeslaken | 160 x 200/210 cm | Warmgrijs

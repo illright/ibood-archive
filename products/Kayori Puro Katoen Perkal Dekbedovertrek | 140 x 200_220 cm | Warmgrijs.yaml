@@ -1,12 +1,12 @@
-_id: 69aa9bb00bd1564bf3391652
+_id: 69d4fb09bac80244cbcdfd5e
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - b7980245-dd6f-5f74-8f6e-f6ef0c05dc96
-classicId: '3064066'
+  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
+classicId: '3148630'
 classicProductId: '697901'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: f3656fb6-e161-5511-8068-01afa8228b4e
+id: 6a7f56af-236a-4604-bf5e-ec6e5087103e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f26145d6-3dbb-458f-b743-b73448db6764
-  priority: 0
-  slug: kayori-png-logo-0
+  extension: png
+  id: 1712377
+  priority: 100
+  slug: kayori-logo
   type: logo
-offerId: cff67db0-cf17-5010-8330-5a0c7a5a728d
+offerId: 3430db20-06f4-4b47-9f40-dfd5aa31ad43
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 99.95
 slug: kayori-puro-katoen-perkal-dekbedovertrek-140-x-200-220-cm-warmgrijs
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Kayori Puro Katoen Perkal Dekbedovertrek | 140 x 200/220 cm | Warmgrijs

@@ -1,31 +1,32 @@
-_id: 69cbe3b2709e0f846d8c7c82
+_id: 69d4fa92cd8c24113cf3a3fd
 appOnly: false
 brand: Feel Home
 brands:
   - id: 2341f31c-394f-55b7-89a0-adafcee96025
     name: Feel Home
 categories:
-  - cd389f78-8989-57d7-9e60-de261ea7ec50
-classicId: '3137247'
+  - bdec2fa6-2307-5d14-8daf-f9300de8905f
+classicId: '3148360'
 classicProductId: '615779'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 70
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: true
+discount: 75
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: d73a7d3f-8e27-444f-bf19-9e4775d4519a
+id: 8ea9fb94-9619-400e-bedf-f8dfc10b9d6c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2157517
+    - all
+  extension: image/jpeg
+  id: 6ef69ff4-c6cb-4221-90d4-c2097cae52e0
   priority: 0
-  slug: feel-home-verwarmend-kussen-45-x-60
+  slug: feel-home-verwarmend-kussen-45-x-60-product-6
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: feel-home-logo
   type: logo
-offerId: f0b2745a-f04f-466f-95ec-5004beb2674c
+offerId: acbbe230-f5a3-468a-aac5-e43f7b8c332d
 price:
-  cents: 2995
+  cents: 2495
   currency: EUR
-  value: 29.95
+  value: 24.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: feel-home-verwarmend-kussen-45-x-60
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Feel Home Verwarmend Kussen | 45 x 60 | Met Powerbank

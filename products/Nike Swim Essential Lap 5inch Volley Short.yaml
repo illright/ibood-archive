@@ -1,22 +1,22 @@
-_id: 69c11cb125db3a7b04754dfc
+_id: 69d5095c9d30757c77dadea7
 appOnly: false
 brand: Nike Swim
 brands:
   - id: cf1d460e-7ec0-5a30-96f7-013395e818f3
     name: Nike Swim
 categories:
-  - 9eb41094-3ecb-5a0b-9391-d79d86ed9af1
-classicId: '3099029'
-classicProductId: '628921'
+  - 61dbe380-3efc-5c28-8c67-4fc8215a60bc
+classicId: '3149739'
+classicProductId: '628922'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: true
+discount: 47
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: a754f2d3-1d4b-4dca-b768-cd758389bbb0
+id: 646740b0-4580-47f1-a57a-6ebfdf1c67c0
 image:
   channels:
     - website
@@ -27,22 +27,26 @@ image:
   priority: 0
   slug: nike-swim-essential-lap-5inch-volley-short
   type: product
-offerId: 613bffd1-3011-4f8d-a164-47e29126b297
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2213185
+  priority: 100
+  slug: nike-swim-essential-lap-5inch-volley-short
+  type: logo
+offerId: 2bf4abbb-8236-4740-a6cc-2f959f22d2e5
 price:
-  cents: 1500
+  cents: 2000
   currency: EUR
-  value: 15
+  value: 20
 referencePrice:
   cents: 3795
   currency: EUR
   value: 37.95
 slug: nike-swim-essential-lap-5inch-volley-short
-soldOut: false
-start: '2026-03-23T23:00:00.000Z'
-title: Nike Swim Essential Lap 5inch Volley Short
-y: EUR
-  value: 37.95
-slug: nike-swim-essential-lap-5inch-volley-short
-soldOut: false
-start: '2026-03-23T23:00:00.000Z'
+soldOut: true
+start: '2026-04-07T22:00:00.000Z'
 title: Nike Swim Essential Lap 5inch Volley Short

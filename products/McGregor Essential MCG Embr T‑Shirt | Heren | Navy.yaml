@@ -1,12 +1,12 @@
-_id: 69cbd4ea352eb7b7d55e9a55
+_id: 69d4dfc9746c7d2a1fa85012
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
-classicId: '3136784'
+  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
+classicId: '3146937'
 classicProductId: '694595'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 44
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 7f6468ab-cbd4-4b58-9103-9e1c7696008e
+id: b4e6c9fc-79d5-4d24-a6dc-35fd129e18c2
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1765373
-  priority: 100
-  slug: mcgregor-logo
+    - all
+  extension: image/png
+  id: 9e7d0a48-5787-4685-afd1-77e5a31a5c61
+  priority: 0
+  slug: mcgregor-png-logo-0
   type: logo
-offerId: 7de90618-284f-4282-893c-853e9c160f75
+offerId: e6f10be1-f2db-477b-bcca-ef5aacc6f920
 price:
   cents: 2495
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 44.95
 slug: mcgregor-essential-mcg-embr-t-shirt-heren-navy
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: McGregor Essential MCG Embr T‑Shirt | Heren | Navy

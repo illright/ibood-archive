@@ -1,12 +1,12 @@
-_id: 69cbb0c0600f062cd15ee9c7
+_id: 69d4b949bfec08d00555571b
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - 386bff06-e2f7-5a0d-b33d-dba2870afbcf
-classicId: '3134425'
+  - e6b3428d-a654-5c19-b64f-cd0e6dadda0b
+classicId: '3144938'
 classicProductId: '688256'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 1d4ea662-84f5-4850-aec5-3dbce27eeb9f
+id: f911d52f-3798-460a-8d03-2d8b6f8847f3
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: paars-png-product-2
   type: product
-offerId: b8cafc33-5d03-4d16-ae94-3d67bffc2a0f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800052
+  priority: 100
+  slug: oral-b-logo
+  type: logo
+offerId: 04dcf4b8-3bab-4cae-a9d8-261c7b2b0426
 price:
   cents: 18995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 447.98
 slug: oral-b-io9-elektrische-tandenborstel-6-opzetborstels-rose
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Oral-B iO9n elektrische tandenborstel + 6 opzetborstels | Rosé

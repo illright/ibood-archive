@@ -1,12 +1,12 @@
-_id: 69cbd2be4fe6bbfeb8fde070
+_id: 69d4fb902200a251fa3d3063
 appOnly: false
 brand: DKNC
 brands:
   - id: 7076d636-e45d-5110-99d4-44a888f46ffd
     name: DKNC
 categories:
-  - 553fa6ea-c125-5ee7-9127-c6fe7dd141b6
-classicId: '3136189'
+  - 6cf92da1-e54d-5fb7-9d3e-fa93aa554398
+classicId: '3148872'
 classicProductId: '680648'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 06389e19-c379-4661-b11d-2ef45a92cc31
+id: 94ec356a-0d26-492d-a644-bce11f5b8f4c
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: dknc-tree-joren-pe-with-lights-112x112x210cm-60000388-product-3
   type: product
-offerId: 03cf8c15-2d93-4be5-8387-cb51475f73fe
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7a59edee-b28f-4614-a1cb-fcd8667f2d9e
+  priority: 0
+  slug: dknc-logo-0
+  type: logo
+offerId: ae035bb4-ce5c-478e-a4be-f7135acf6b85
 price:
   cents: 19900
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 399.95
 slug: dknc-kunstkerstboom-joren-led-112-x-210-cm
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: PE Kunstkerstboom Joren LED | 112 x 210 cm

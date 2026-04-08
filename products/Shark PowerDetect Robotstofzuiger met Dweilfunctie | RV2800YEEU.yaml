@@ -1,12 +1,12 @@
-_id: 69c4eaf2e623bb8dd121533d
+_id: 69d4b9538f5a8c68a7659d70
 appOnly: false
 brand: Shark
 brands:
   - id: 1b474f33-b2fa-5791-898b-494fc5a6eb6a
     name: Shark
 categories:
-  - 833e6fc7-7a10-5f42-9fd9-637a9adee590
-classicId: '3115937'
+  - ee83c14d-0072-5791-9459-2979a4ffe10e
+classicId: '3144984'
 classicProductId: '702455'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 64
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: a090b64b-0ed6-5925-9d3e-d713bdcc0c7e
+id: 8ae3f8bb-4427-4b00-a57f-5c17ffe0c1b0
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: shark-rv2800yeeu-robotstofzuiger-product-4
   type: product
-offerId: d70423ca-2d2e-58f3-9983-68e9b38772c2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 35bd015b-5f8e-4648-a5fa-f02e10ba1a5b
+  priority: 0
+  slug: shark-logo-0
+  type: logo
+offerId: de6685d3-4056-4f9e-8094-e27282c66e15
 price:
   cents: 24900
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 699
 slug: shark-powerdetect-robotstofzuiger-met-dweilfunctie-rv2800yeeu
-soldOut: true
-start: '2026-03-31T22:00:00.000Z'
+soldOut: false
+start: '2026-04-07T22:00:00.000Z'
 title: Shark PowerDetect Robotstofzuiger met Dweilfunctie | RV2800YEEU

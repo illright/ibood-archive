@@ -1,12 +1,12 @@
-_id: 69cbd4e78173f5eaede114f3
+_id: 69d4dfc5161604f2188ca507
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
-classicId: '3136783'
+  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
+classicId: '3146938'
 classicProductId: '694589'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 44
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 92a00ba9-60fe-4e91-ae2e-1f2a97ddfe9a
+id: 3b26fe76-396a-4104-b7e9-5a8102927150
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1765373
-  priority: 100
-  slug: mcgregor-logo
+    - all
+  extension: image/png
+  id: feb5121c-0af2-46f9-9341-1668c6e4a3c6
+  priority: 0
+  slug: mcgregor-png-logo-0
   type: logo
-offerId: 6a989ac6-ccfe-4d57-a66e-d1ea95409244
+offerId: cba5dad2-ba51-4cc8-8877-093827e6d1f6
 price:
   cents: 2495
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 44.95
 slug: mcgregor-essential-mcg-embr-t-shirt-heren-grijs
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: McGregor Essential MCG Embr T‑Shirt | Heren | Grijs

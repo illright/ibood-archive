@@ -1,22 +1,22 @@
-_id: 69cbcde019b288590a9a1673
+_id: 69d4fa7a2200a251fa3d2e83
 appOnly: false
 brand: Cinderella
 brands:
   - id: 0ec322db-2eaa-52b1-8421-a3e3e18e917c
     name: Cinderella
 categories:
-  - 81e93a86-9fa9-5a69-b3e4-b5d56ce132df
-classicId: '3135911'
-classicProductId: '521044'
+  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
+classicId: '3148322'
+classicProductId: '683024'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: true
+discount: 67
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 545aaad8-048f-4364-82a2-3544bc67a738
+id: 40427ecf-c48b-4c18-bbd1-654b1ff53e5a
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: af8567c7-0f95-4646-824a-453f73b2ed59
+  id: 9ab84cf6-5bb0-4da1-9f89-45c293f61a42
   priority: 0
-  slug: cind-main-png-product-1
+  slug: cinderella-33-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: cinderella-logo
   type: logo
-offerId: 867d8120-01f6-4586-ac67-279a4237e4de
+offerId: 50246067-c74d-4848-aada-4317e811512a
 price:
-  cents: 1495
+  cents: 995
   currency: EUR
-  value: 14.95
+  value: 9.95
 referencePrice:
   cents: 2990
   currency: EUR
   value: 29.9
 slug: 2x-cinderella-weekend-badmat-50-x-60-cm
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 2x Cinderella Weekend Badmat | 50 x 60 cm

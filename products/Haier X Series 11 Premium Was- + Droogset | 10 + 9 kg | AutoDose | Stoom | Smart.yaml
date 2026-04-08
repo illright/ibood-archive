@@ -1,12 +1,12 @@
-_id: 69cbb1840d8a1a65a3aba5ab
+_id: 69d4b9c931ec364e1d28fdc9
 appOnly: false
 brand: Haier
 brands:
   - id: d8b29d56-0e08-5322-8de8-dd842df130ae
     name: Haier
 categories:
-  - 386bff06-e2f7-5a0d-b33d-dba2870afbcf
-classicId: '3134948'
+  - e6b3428d-a654-5c19-b64f-cd0e6dadda0b
+classicId: '3145305'
 classicProductId: '702787'
 deliveryPrice:
   cents: 5995
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 59.95
 directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: c8f245ea-740d-4a53-a1c1-f86a3141627f
+id: d3c1c40a-7d97-47eb-aba3-13fb180e115e
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-was-png-product-1
   type: product
-offerId: d7eb09ca-57ae-4b4a-bc69-11853523e4d9
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2001868
+  priority: 100
+  slug: haier-logo
+  type: logo
+offerId: 11441854-4078-447c-924c-6ad1e79c3f21
 price:
   cents: 99900
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 1998
 slug: haier-x-series-11-wasmachine-warmtepompdroger
-soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+soldOut: true
+start: '2026-04-07T22:00:00.000Z'
 title: Haier X Series 11 Premium Was- + Droogset | 10 + 9 kg | AutoDose | Stoom | Smart

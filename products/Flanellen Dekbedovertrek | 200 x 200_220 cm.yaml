@@ -1,12 +1,12 @@
-_id: 69cbe4f53ed6e72ab1f061ad
+_id: 69d4fab4bac80244cbcdfced
 appOnly: false
 brand: Sleeptime
 brands:
   - id: b48dcf3f-fb67-5daf-920d-c12d444b560e
     name: Sleeptime
 categories:
-  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
-classicId: '3137368'
+  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
+classicId: '3148464'
 classicProductId: '190086'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 74512e7b-9565-4ec2-855e-b6968b8d4c5b
+id: d60c535f-a459-4a1c-819c-46f02d9fe468
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 460317
+    - all
+  extension: image/png
+  id: 1208a019-d0bd-4fac-892e-4564876c91fe-tr
   priority: 0
-  slug: flanellen-dekbedovertrek
+  slug: sleeptime-bettbezug-200-x-200220-cm-jpg-product-8
   type: product
 logo:
   channels:
@@ -33,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 460711
+  id: 1524027
   priority: 100
-  slug: flanellen-dekbedovertrek
+  slug: sleeptime-logo
   type: logo
-offerId: b1d76e2a-c9b8-4216-8ebc-125629346c74
+offerId: 1cac4739-8466-414e-8aef-43c20dd2ce2e
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 29.95
 slug: flanellen-dekbedovertrek
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Flanellen Dekbedovertrek | 200 x 200/220 cm

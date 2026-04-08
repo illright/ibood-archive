@@ -1,22 +1,22 @@
-_id: 69cb99e419b288590a99a6dc
+_id: 69d503f2cd8c24113cf3a75a
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - e6451a9f-e3c1-5641-aa5c-47ed8dfe5eb9
-classicId: '3131530'
-classicProductId: '695830'
+  - c28a6f98-16c9-5195-9258-06da36c8c88b
+classicId: '3149132'
+classicProductId: '675020'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 49
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: false
+discount: 52
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 7a438b05-ce4c-4722-8126-a31cf63a0e9a
+id: d6665833-7b3d-49d5-929e-ca0f3a90a4dd
 image:
   channels:
     - app
@@ -24,30 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 40f1470a-3bd6-4591-9f93-f6281751426d-tr
+  id: 86ee51d6-cd70-4f74-a98b-a5fa93074210
   priority: 0
-  slug: 19700-01-31-lucide-hester-leeslamp-1xgu10-wit-product-4
+  slug: lamp-03-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1680420
-  priority: 100
-  slug: lucide-logo
+    - all
+  extension: image/png
+  id: 74fe13a0-c8a0-4b22-a013-a67bbbc1bdc2
+  priority: 0
+  slug: lucide-png-logo-0
   type: logo
-offerId: f704151b-97ee-4314-9cd3-916e75a5bfed
+offerId: c00a68c9-5ef2-477a-9a47-c8078adcf0d4
 price:
-  cents: 4295
+  cents: 3995
   currency: EUR
-  value: 42.95
+  value: 39.95
 referencePrice:
   cents: 8395
   currency: EUR
   value: 83.95
 slug: lucide-hester-leeslamp-gu10
 soldOut: false
-start: '2026-04-01T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Lucide Hester Leeslamp | GU10

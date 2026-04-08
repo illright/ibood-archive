@@ -1,12 +1,12 @@
-_id: 69cb99a0ca0164559036e928
+_id: 69d5041c9d30757c77dadd4a
 appOnly: false
 brand: DKNC
 brands:
   - id: 7076d636-e45d-5110-99d4-44a888f46ffd
     name: DKNC
 categories:
-  - ca272ff4-7374-5785-86f1-40a1bc7027f7
-classicId: '3131365'
+  - 55ab2b73-4b64-519b-b142-0492183cf0a0
+classicId: '3149262'
 classicProductId: '681869'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: fdd00444-0e35-4a78-8d7d-6b4bab58babd
+id: 6145363a-d831-4740-be56-4848b9c2c745
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 117864-dknc-door-stopper-triangle-fabric-14x14x18cm-product-0
   type: product
-offerId: 3ef9dfb5-b1a7-46e4-b1bb-27c3948bb2bc
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7a59edee-b28f-4614-a1cb-fcd8667f2d9e
+  priority: 0
+  slug: dknc-logo-0
+  type: logo
+offerId: adad0dd9-50a0-4e62-a74c-e128f1035265
 price:
   cents: 1495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 25.9
 slug: dknc-driehoekige-deurstopper-piramidevormig
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: DKNC Driehoekige Deurstopper | Piramidevormig

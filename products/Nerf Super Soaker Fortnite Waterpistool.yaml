@@ -1,12 +1,12 @@
-_id: 69baa4a28c823a7e893b3884
+_id: 69d5040ccd8c24113cf3a7ad
 appOnly: false
 brand: Nerf
 brands:
   - id: 06a9847e-0911-5c48-9a0a-aeae2563c197
     name: Nerf
 categories:
-  - c88d74d9-3561-531f-a6c6-86617e9d3563
-classicId: '3092168'
+  - a47ee7bb-95c9-5865-9f1b-500bfffe34be
+classicId: '3149161'
 classicProductId: '700353'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: dcdb88e0-2d73-5670-b7f6-573b73c2db94
+id: 09da8109-0211-47e6-8f83-cdeb2fb0c480
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4050cb76-2a3f-4c6a-b20c-49305c9a2c96
-  priority: 0
-  slug: nerf-logo-png-logo-0
+  extension: png
+  id: 1740939
+  priority: 100
+  slug: nerf-logo
   type: logo
-offerId: 28bd3c09-f861-5639-8ecb-540ae61a9169
+offerId: 5e6ef223-d750-42ed-8af2-6e1b9109d640
 price:
   cents: 995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 19.99
 slug: nerf-super-soaker-fortnite-waterpistool
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Nerf Super Soaker Fortnite Waterpistool

@@ -1,12 +1,12 @@
-_id: 69cbdcd10d027af9ce19bdb6
+_id: 69d4de8a36c61b8aa779d277
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - b8395062-90d4-5681-b51a-673a6da3f376
-classicId: '3137060'
+  - 108c1b95-2f2d-5440-a3d9-274a828a88c4
+classicId: '3146393'
 classicProductId: '688079'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 48
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 3a981f53-e5d9-4ce1-96e2-bf03b00ba16c
+id: ee117b70-b67f-4d9f-a5fb-76ea06428f1f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: tim-main-png-product-1
   type: product
-offerId: 18abf6f9-93cc-47d0-bb2f-ac5530855a4d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
+  type: logo
+offerId: c17cbf4e-c1e3-4624-bb30-0b7a55670ea2
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 135
 slug: timberland-sprint-low-lace-sneakers-heren
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Timberland Sprint Low Lace Sneakers | Heren

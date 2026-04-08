@@ -1,12 +1,12 @@
-_id: 69cb999cc5530539c5413385
+_id: 69d5041b2200a251fa3d31e0
 appOnly: false
 brand: DKNC
 brands:
   - id: 7076d636-e45d-5110-99d4-44a888f46ffd
     name: DKNC
 categories:
-  - ca272ff4-7374-5785-86f1-40a1bc7027f7
-classicId: '3131346'
+  - 55ab2b73-4b64-519b-b142-0492183cf0a0
+classicId: '3149241'
 classicProductId: '681870'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 837e9772-a058-48ad-8cbf-2eda172bd9ec
+id: 6189264f-58e9-41e4-8eb3-e9b9b6ed67d3
 image:
   channels:
     - website
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 118201-dknc-flower-box-bouquet-7-stems-citrus-dreamscape-artificial-78-9x19x10cm-product-0
   type: product
-offerId: e25abd28-8c60-4081-9d2a-31bdc138f2f5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7a59edee-b28f-4614-a1cb-fcd8667f2d9e
+  priority: 0
+  slug: dknc-logo-0
+  type: logo
+offerId: 94ae9eec-fba4-44b5-b595-dd432b5fbb31
 price:
   cents: 2295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 69.95
 slug: dknc-kunstbloemenboeket-citrus-78-9-x-19-x-10-cm
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: DKNC Kunstbloemenboeket | Citrus | 78,9 x 19 x 10 cm

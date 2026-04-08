@@ -1,12 +1,12 @@
-_id: 69bd3febbb330075c18672c5
+_id: 69d4de71746c7d2a1fa84e38
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - ca95bb2a-585a-5a61-b436-eab08f4ad4eb
-classicId: '3096972'
+  - e9d90a63-bb36-57bd-b68c-0179dc9e73ab
+classicId: '3146340'
 classicProductId: '701054'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 53
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 36a9d330-3065-553c-b757-2c5e512e1631
+id: d1de4e9e-1fdd-490b-966e-36e7bf7a17c3
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 6-boxers-png-product-1
   type: product
-offerId: 7e847f33-5097-55e9-85ed-e70643a487f4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
+  type: logo
+offerId: 1e0f41c9-b29e-4622-8441-1e3058d9b89c
 price:
   cents: 2795
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 59.9
 slug: 6x-bamboo-elements-boxershorts-lang
-soldOut: true
-start: '2026-03-31T22:00:00.000Z'
+soldOut: false
+start: '2026-04-07T22:00:00.000Z'
 title: 6x Bamboo Elements Lange Boxershorts | Heren

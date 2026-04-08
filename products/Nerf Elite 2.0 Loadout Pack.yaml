@@ -1,12 +1,12 @@
-_id: 69baa40bda3d41d141845ecf
+_id: 69d503f1cd8c24113cf3a752
 appOnly: false
 brand: Nerf
 brands:
   - id: 06a9847e-0911-5c48-9a0a-aeae2563c197
     name: Nerf
 categories:
-  - c88d74d9-3561-531f-a6c6-86617e9d3563
-classicId: '3092155'
+  - a47ee7bb-95c9-5865-9f1b-500bfffe34be
+classicId: '3149129'
 classicProductId: '700352'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: d3e5f5e3-498a-5626-9b14-d567013f6096
+id: 6d2effd4-6e58-438a-beb4-a347bd95571d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 01341380-4fcc-4da1-9a69-2cbbb97ffc85
-  priority: 0
-  slug: nerf-logo-png-logo-0
+  extension: png
+  id: 1740939
+  priority: 100
+  slug: nerf-logo
   type: logo
-offerId: d7217ac0-dea0-5deb-9cc7-bcd273f080c9
+offerId: ecf8cc49-63d1-46f0-b079-e5a20ca91378
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 24.99
 slug: nerf-elite-2-0-loadout-pack
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Nerf Elite 2.0 Loadout Pack

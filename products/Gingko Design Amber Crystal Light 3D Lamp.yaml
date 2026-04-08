@@ -1,54 +1,42 @@
-_id: 69cb9a3a4fe6bbfeb8fd6868
+_id: 69d5046c2200a251fa3d3245
 appOnly: false
 brand: Gingko Design
 brands:
   - id: 7b1823a9-9e0e-545a-b612-3ba4bedae9a2
     name: Gingko Design
 categories:
-  - e6451a9f-e3c1-5641-aa5c-47ed8dfe5eb9
-classicId: '3131749'
-classicProductId: '625130'
+  - c28a6f98-16c9-5195-9258-06da36c8c88b
+classicId: '3149404'
+classicProductId: '625127'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 44
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: false
+discount: 56
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: d14f35ad-7451-4779-a5c2-a18189073aed
+id: 11cd97a8-90e5-41e9-9d6b-b9285e9bc7c1
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: dbc5c4f8-95d5-4cfe-a51f-9d7f48dc1601
+  extension: jpg
+  id: 2193852
   priority: 0
-  slug: lamp-01-png-product-3
+  slug: gingko-design-amber-crystal-light-3d-lamp
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: e2556e22-101c-4d05-a178-592d951fe9a7
-  priority: 0
-  slug: gingko-design-logo-0
-  type: logo
-offerId: 5266af5b-3c53-4372-9af3-b93b8a3f9885
+offerId: 85bc08b2-948a-4dd0-a408-196f5fee2e70
 price:
-  cents: 3295
+  cents: 2396
   currency: EUR
-  value: 32.95
+  value: 23.96
 referencePrice:
-  cents: 5900
+  cents: 5500
   currency: EUR
-  value: 59
+  value: 55
 slug: gingko-design-amber-crystal-light-3d-lamp
 soldOut: false
-start: '2026-04-01T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Gingko Design Amber Crystal Light 3D Lamp

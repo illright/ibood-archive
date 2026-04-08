@@ -1,12 +1,12 @@
-_id: 69cb7ba4286dd9791cbcec77
+_id: 69d4f6adad70b49497440ede
 appOnly: false
 brand: Tampax
 brands:
   - id: 5c0b2108-d9ac-558a-bb7d-1a9b5acb4818
     name: Tampax
 categories:
-  - 4484675f-0c12-5114-a93e-e848526695c5
-classicId: '3130469'
+  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
+classicId: '3148210'
 classicProductId: '695863'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 543f8e6b-8a0a-466e-b94b-67b242018038
+id: aa770bf8-6f7a-41ff-8fb8-a1ab46b53b88
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: tempex-png-product-1
   type: product
-offerId: c278c056-21d4-4133-90a2-2743d196e8e4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9fc53916-aba5-4a80-ab45-ab92b572162a
+  priority: 0
+  slug: tampax-logo-0
+  type: logo
+offerId: 336cf196-d710-4449-8a67-0cfa60fd996a
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 54.32
 slug: tampax-regular-8x40
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 8x Tampax Regular Tampons | 40 Stuks

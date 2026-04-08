@@ -1,12 +1,12 @@
-_id: 69c3c16293e33f3ee1b0a106
+_id: 69d4f662cd8c24113cf3a2a5
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - 4484675f-0c12-5114-a93e-e848526695c5
-classicId: '3112438'
+  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
+classicId: '3148095'
 classicProductId: '702120'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: ecc7b508-dbd2-581d-bd19-e62333e8c2c5
+id: 307dc993-dd69-487c-8a95-4bdbeb8e97ef
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2a326cf0-8240-4c08-a187-d84d644b75c9
-  priority: 0
-  slug: oral-b-png-logo-0
+  extension: png
+  id: 1800052
+  priority: 100
+  slug: oral-b-logo
   type: logo
-offerId: 080ee0d2-7fa0-57eb-80e0-2e4867b8180c
+offerId: 26ac35b9-1052-47d9-bc4b-79e3c02da4fc
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 65.88
 slug: 12x-oral-b-sensitivity-gum-calm-original-tandpasta-75-ml
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 12x Oral-B Pro-Science Advanced Sensitivity & Gum Calm Original Tandpasta | 75 ml

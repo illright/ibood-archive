@@ -1,22 +1,22 @@
-_id: 69ca435485eed0b0f51e62f2
+_id: 69d4e22b746c7d2a1fa85063
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - 6b16e418-d4fa-56d7-b22e-9b423dcf065f
-classicId: '3128146'
-classicProductId: '691748'
+  - 9e247ef8-2279-546f-bbe0-c42f0a964d3d
+classicId: '3147002'
+classicProductId: '691753'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 33
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: cb139641-23be-4b83-a2a7-a248a30215ba
+id: ba93c9d2-a763-4fb4-8110-20152061fb86
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: c4c746d7-a2c6-43f1-9da0-91e67800f08c-tr
+  id: f28d039b-f092-4739-9b40-cd90c274614e-tr
   priority: 0
-  slug: l-ink-blue-1915948-3310-core-essence-shorts-2-m-men-craft-product-1
+  slug: xxl-6470-leaf-1915948-647000-core-essence-shorts-2-m-men-craft-product-5
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5e7870ed-7845-40a8-94ac-773bc9c30ec6
-  priority: 0
-  slug: craft-png-logo-0
+  extension: png
+  id: 1667968
+  priority: 100
+  slug: craft-logo
   type: logo
-offerId: d6f3e02a-e60b-46a8-8f1f-96ceaed057f6
+offerId: 2e170518-6c07-4813-8bd9-541dc06a1978
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 29.95
 slug: craft-core-essence-shorts-2-heren
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Craft Core Essence Shorts 2 | Heren

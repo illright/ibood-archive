@@ -1,12 +1,12 @@
-_id: 69c4ff88a26be119961c1701
+_id: 69d4f560cd8c24113cf3a18b
 appOnly: false
 brand: Dettol
 brands:
   - id: 01d29168-09cd-54d2-85a1-4c1204fe4f2d
     name: Dettol
 categories:
-  - 420c5f0a-9d32-54c4-9c8b-1a22025d953b
-classicId: '3116160'
+  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
+classicId: '3147712'
 classicProductId: '702500'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 47
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 7c3255d0-b416-5cca-9448-b2056b5809d3
+id: 3473973d-96e0-4cec-b0c9-fa44ec685b3d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0fc613ba-a592-442c-83f7-35182e02a770
-  priority: 0
-  slug: dettol-png-logo-0
+  extension: png
+  id: 1754153
+  priority: 100
+  slug: dettol-logo
   type: logo
-offerId: 701b4270-947f-5405-b313-22c48e4da7b0
+offerId: 27a41e1e-24a0-4792-a134-121d4d08db8d
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 27.96
 slug: 4x-dettol-allesreiniger-original-1-5-l
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 4x Dettol Allesreiniger Original | 1,5 L

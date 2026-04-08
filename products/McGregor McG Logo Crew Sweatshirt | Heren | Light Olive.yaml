@@ -1,22 +1,22 @@
-_id: 69cbd45b352eb7b7d55e9a33
+_id: 69d4df9b9b89a37ad3052197
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
-classicId: '3136655'
-classicProductId: '694679'
+  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
+classicId: '3146905'
+classicProductId: '694681'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 86f0629a-ae0d-4b53-b483-45d320362003
+id: 3adf569f-1d7f-4167-bd16-705fedd63521
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b53c2a96-5118-466c-a459-a96fb483c1b0
-  priority: 0
-  slug: mcgregor-png-logo-0
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
   type: logo
-offerId: 3c3bf8b9-4301-49f8-87aa-adebd6cfc007
+offerId: 13f62a72-d138-42b2-9ce1-4d66dc2e4fbe
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 99.95
 slug: mcgregor-mcg-logo-crew-sweatshirt-heren-light-olive
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: McGregor McG Logo Crew Sweatshirt | Heren | Light Olive

@@ -1,22 +1,22 @@
-_id: 69cbe3b8709e0f846d8c7c94
+_id: 69d4fab73f3c76810e41bd16
 appOnly: false
 brand: Tempur
 brands:
   - id: 34fd4d6e-345f-513c-8c8a-1c69c668cfae
     name: Tempur
 categories:
-  - cd389f78-8989-57d7-9e60-de261ea7ec50
-classicId: '3137253'
+  - bdec2fa6-2307-5d14-8daf-f9300de8905f
+classicId: '3148462'
 classicProductId: '581935'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 73033343-8528-4f8d-bbdb-36cb2fbc0450
+id: aa99edc9-caa4-4048-9516-5ec3ab53c8d8
 image:
   channels:
     - app
@@ -34,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1998002
+  id: 1871811
   priority: 100
-  slug: tempur-original-queen-kopfkissen
+  slug: tempur-logo
   type: logo
-offerId: a3c1d2c6-5a4c-49c3-b1f8-a55c57f5697c
+offerId: 50c8d262-cb66-405b-b90d-459b387f4796
 price:
   cents: 6995
   currency: EUR
@@ -49,5 +49,6 @@ referencePrice:
   value: 139
 slug: tempur-original-kussen-queen
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Tempur Original Kussen Queen
+ueen

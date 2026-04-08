@@ -1,22 +1,22 @@
-_id: 69ca4425ba5b2e7fcdf931a8
+_id: 69d4e2212200a251fa3d2925
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - 6b16e418-d4fa-56d7-b22e-9b423dcf065f
-classicId: '3128291'
-classicProductId: '691724'
+  - 9e247ef8-2279-546f-bbe0-c42f0a964d3d
+classicId: '3146990'
+classicProductId: '691732'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 32
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: af40b411-f89a-4c5e-8c82-947a9a732947
+id: b1ae162d-5615-4d9c-8ad9-c6c48367b862
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 93c8a77f-6898-47bd-916e-0a1d039a3d0d
+  id: 9d2fe84d-95ef-49cf-9e1d-5b8b0bfa981a
   priority: 0
-  slug: craft-03-png-product-1
+  slug: craft-05-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 31bb9be4-1abc-4ed7-8e64-91cbf21a801d
-  priority: 0
-  slug: craft-png-logo-0
+  extension: png
+  id: 1667968
+  priority: 100
+  slug: craft-logo
   type: logo
-offerId: 4823be88-8a4d-4f57-b53f-07af0172c91b
+offerId: 98a7efcc-1684-410f-a305-13d41c0b063f
 price:
   cents: 1695
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 24.95
 slug: carft-core-essence-ss-2-t-shirt-dames
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Carft Core Essence SS 2 T-Shirt | Dames

@@ -1,12 +1,12 @@
-_id: 69cbd4f18a3a2c8a43e8290c
+_id: 69d4dfbb2200a251fa3d28b0
 appOnly: false
 brand: VANS
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: VANS
 categories:
-  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
-classicId: '3136789'
+  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
+classicId: '3146931'
 classicProductId: '692243'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 34
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 41a6754a-1f07-4a02-94b2-78e2c8b43305
+id: 5bc95742-8292-462d-a493-6035d3663c73
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0f955dfc-8524-4125-b511-9488285a59b1
-  priority: 0
-  slug: vans-png-logo-0
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
   type: logo
-offerId: 1fb4ec61-3e45-45df-bc34-307c6d67f136
+offerId: ebaf5945-eca3-4dbe-ad8c-9b982505c7d7
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 30
 slug: vans-hangry-croc-t-shirt-kids
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Vans Hangry Croc T-Shirt | Kids

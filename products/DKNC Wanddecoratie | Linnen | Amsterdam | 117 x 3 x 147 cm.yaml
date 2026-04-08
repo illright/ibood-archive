@@ -1,12 +1,12 @@
-_id: 69cb99969c08f0dfbb47a75f
+_id: 69d504139d30757c77dadd25
 appOnly: false
 brand: DKNC
 brands:
   - id: 7076d636-e45d-5110-99d4-44a888f46ffd
     name: DKNC
 categories:
-  - ca272ff4-7374-5785-86f1-40a1bc7027f7
-classicId: '3131340'
+  - 55ab2b73-4b64-519b-b142-0492183cf0a0
+classicId: '3149206'
 classicProductId: '681865'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 66
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 0159d3af-39cd-418b-a56e-8a2663c6d7d4
+id: cfb91dea-8cfe-4f30-9bd1-f7663dddc479
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: dknc-03-png-product-1
   type: product
-offerId: 4ddc6cc9-c9be-4020-a571-5c352e8cfe2c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7a59edee-b28f-4614-a1cb-fcd8667f2d9e
+  priority: 0
+  slug: dknc-logo-0
+  type: logo
+offerId: db9424d3-1583-4f97-ba88-21653e4c9fd4
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 87.5
 slug: dknc-wanddecoratie-linnen-amsterdam-117-x-3-x-147-cm
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: DKNC Wanddecoratie | Linnen | Amsterdam | 117 x 3 x 147 cm

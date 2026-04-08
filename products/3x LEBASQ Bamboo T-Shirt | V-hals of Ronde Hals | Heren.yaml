@@ -1,22 +1,22 @@
-_id: 69cbdc343ed6e72ab1f06096
+_id: 69d4de5e36c61b8aa779d22e
 appOnly: false
 brand: LEBASQ
 brands:
   - id: 5ed8958f-d2d0-504c-ab26-192636419f50
     name: LEBASQ
 categories:
-  - ebaf29a1-f0f9-5d59-be01-ee9770b34f19
-classicId: '3137012'
-classicProductId: '616165'
+  - e9d90a63-bb36-57bd-b68c-0179dc9e73ab
+classicId: '3146326'
+classicProductId: '616150'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 45
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: d8c6b9e8-e870-4559-9bd9-971e2002a43e
+id: 8bcc5717-1ca0-49d8-aea0-3e9ae75dcda9
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: shirt-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1532847
-  priority: 1
-  slug: lebasq-logo
-  type: logo
-offerId: e87c1a9a-a77d-4cf9-8961-adce8a08e01a
+offerId: f1966a42-106b-4c58-a603-bfee58127838
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 54.95
 slug: 3x-lebasq-bamboo-t-shirt-v-hals-of-ronde-hals-heren
-soldOut: true
-start: '2026-03-31T22:00:00.000Z'
+soldOut: false
+start: '2026-04-07T22:00:00.000Z'
 title: 3x LEBASQ Bamboo T-Shirt | V-hals of Ronde Hals | Heren

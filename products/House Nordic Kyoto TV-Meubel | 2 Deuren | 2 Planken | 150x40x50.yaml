@@ -1,22 +1,22 @@
-_id: 69cb9a0fc5530539c5413626
+_id: 69d50608cd8c24113cf3a89a
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 72c8b431-94c6-548a-a0cf-e0aec87f7250
-classicId: '3131643'
+  - 3814c585-8949-5281-ad93-ca43c7be7731
+classicId: '3149478'
 classicProductId: '634745'
 deliveryPrice:
   cents: 1995
   currency: EUR
   value: 19.95
-directCheckout: true
-discount: 56
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: false
+discount: 23
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 5d94daef-3ba3-42cd-8e84-3dec72fc6ac1
+id: e4973524-cb2d-4f2b-8461-1422ff72c381
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1644555
-  priority: 100
-  slug: house-nordic-logo
+    - all
+  extension: image/png
+  id: f471f8a4-d705-479c-be6e-bd1994f3aa30
+  priority: 0
+  slug: house-nordic-natural-150x40x50cm-kyoto-tv-cabinet-2-doors-2-shelves-logo-0
   type: logo
-offerId: c7f09ffd-89aa-48e1-8b0c-a80189a7c4f3
+offerId: da5f04a8-d3cc-4b0e-93ca-fc86631a6009
 price:
-  cents: 24900
+  cents: 26900
   currency: EUR
-  value: 249
+  value: 269
 referencePrice:
-  cents: 56000
+  cents: 34900
   currency: EUR
-  value: 560
+  value: 349
 slug: house-nordic-natural-150x40x50cm-kyoto-tv-cabinet-2-doors-2-shelves
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: House Nordic Kyoto TV-Meubel | 2 Deuren | 2 Planken | 150x40x50

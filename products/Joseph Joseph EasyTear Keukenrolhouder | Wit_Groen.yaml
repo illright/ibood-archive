@@ -1,12 +1,12 @@
-_id: 69cbb14d56a0cfdf8a44a5a8
+_id: 69d4b99bbfec08d0055557cf
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - abc651d3-3fcd-57e6-b624-e48af7fcbb9c
-classicId: '3134797'
+  - c8f5782d-e777-54f9-97d7-99f8e38023b6
+classicId: '3145192'
 classicProductId: '668925'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: d709d3af-d999-4ed4-86b6-d61675fe7276
+id: bc1bf937-604f-4a35-8ae8-b1cda1be962f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: joseph-joseph-easy-tear-kitchenrollholder-white-green-product-1
   type: product
-offerId: fe368832-16ec-409e-a47e-d3c69d8c50db
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1898679
+  priority: 100
+  slug: joseph-joseph-logo
+  type: logo
+offerId: 3cee9ff8-6c27-467d-ae34-276fd94f089f
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 32.99
 slug: joseph-joseph-easytear-keukenrolhouder
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Joseph Joseph EasyTear Keukenrolhouder | Wit/Groen

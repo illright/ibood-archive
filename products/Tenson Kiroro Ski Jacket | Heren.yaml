@@ -1,22 +1,22 @@
-_id: 69c11ca80009db9693f17d61
+_id: 69d5090b5c6074630743acbb
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - 9eb41094-3ecb-5a0b-9391-d79d86ed9af1
-classicId: '3099018'
-classicProductId: '675931'
+  - 61dbe380-3efc-5c28-8c67-4fc8215a60bc
+classicId: '3149644'
+classicProductId: '675924'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 66
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 0548e722-76ac-4342-96c8-90b3e464af79
+id: f1302ad5-9655-431a-a7fd-1f5351b0c090
 image:
   channels:
     - app
@@ -24,7 +24,7 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 96203034-1197-4fbe-b36c-0f34bcd545ad
+  id: d89048cc-559e-4d46-9375-39f1d454d699
   priority: 0
   slug: 1-png-product-1
   type: product
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: 1a3fbbe1-c4c5-441d-820b-d6a1678263b7
+offerId: 1ba8639e-091c-4f6c-8dbc-54de79633169
 price:
   cents: 7500
   currency: EUR
@@ -48,7 +48,6 @@ referencePrice:
   currency: EUR
   value: 220
 slug: tenson-kiroro-ski-jacket-heren
-soldOut: true
-start: '2026-03-23T23:00:00.000Z'
+soldOut: false
+start: '2026-04-07T22:00:00.000Z'
 title: Tenson Kiroro Ski Jacket | Heren
-n

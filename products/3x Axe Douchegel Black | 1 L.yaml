@@ -1,12 +1,12 @@
-_id: 69c4ff3be623bb8dd121c3fe
+_id: 69d4f4e142e881a4078b2c39
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - 4484675f-0c12-5114-a93e-e848526695c5
-classicId: '3116157'
+  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
+classicId: '3147471'
 classicProductId: '702495'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 46603ac9-df20-546a-ac6b-7f376798c113
+id: b8ec3137-4c16-4831-87f0-e0d839b3fc8d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fe7e433b-37d4-4700-94ad-7928fa225d57
-  priority: 0
-  slug: axe-logo-png-logo-0
+  extension: png
+  id: 1692918
+  priority: 100
+  slug: axe-logo
   type: logo
-offerId: 6e4eef6c-fd42-5378-a9eb-e664e762885c
+offerId: 84e6b6da-7ff0-418a-9416-4bab8c454e0f
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 47.92
 slug: 3x-axe-douchegel-black-1-l
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 3x Axe Douchegel Black | 1 L

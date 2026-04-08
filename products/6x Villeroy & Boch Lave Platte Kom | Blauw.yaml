@@ -1,12 +1,12 @@
-_id: 69c3ad6693e33f3ee1b09fc3
+_id: 69d4ba19244c8eb0a53ef5aa
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 72014663-2149-553a-86d8-5c66c6de1e2b
-classicId: '3112243'
+  - c8f5782d-e777-54f9-97d7-99f8e38023b6
+classicId: '3145479'
 classicProductId: '696355'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: c9c7103e-f604-5a1d-a483-419589d13973
+id: 90d79e3b-8aa9-4da4-98f9-b56db4f6d240
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1042613800-like-by-villeroy-boch-lave-bleu-bowl-flat-set-of-pu-6-product-0
   type: product
-offerId: 289c4628-8b42-51a6-9e3d-b18f490051df
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
+  type: logo
+offerId: 90f07a0b-25ca-494a-8a76-7bcd08443bd7
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 149.4
 slug: 6x-villeroy-boch-lave-kom-blauw
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 6x Villeroy & Boch Lave Platte Kom | Blauw

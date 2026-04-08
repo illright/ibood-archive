@@ -1,12 +1,12 @@
-_id: 69cb99849c08f0dfbb47a704
+_id: 69d5040c746c7d2a1fa85855
 appOnly: false
 brand: DKNC
 brands:
   - id: 7076d636-e45d-5110-99d4-44a888f46ffd
     name: DKNC
 categories:
-  - ca272ff4-7374-5785-86f1-40a1bc7027f7
-classicId: '3131288'
+  - 55ab2b73-4b64-519b-b142-0492183cf0a0
+classicId: '3149164'
 classicProductId: '681875'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: f48432a6-1f7b-4edd-9921-0e9a5348f36c
+id: 27f825fb-d68c-478c-be09-2e09f2923347
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: dknc-07-png-product-1
   type: product
-offerId: e459b113-da5a-474c-ad92-9898cfe68945
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7a59edee-b28f-4614-a1cb-fcd8667f2d9e
+  priority: 0
+  slug: dknc-logo-0
+  type: logo
+offerId: 499cbf99-fa4b-403e-b3dc-e4dc4091a288
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 62.5
 slug: dknc-wanddecoratie-linnen-78-x-3-x-118-cm
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: DKNC Wanddecoratie | Linnen |  78 x 3 x 118 cm

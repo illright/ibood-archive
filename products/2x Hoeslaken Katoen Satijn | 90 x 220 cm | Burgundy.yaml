@@ -1,12 +1,12 @@
-_id: 69c3ece8e623bb8dd11c232e
+_id: 69d4fabf2200a251fa3d2ee9
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
-classicId: '3115291'
+  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
+classicId: '3148482'
 classicProductId: '702234'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: cb39086c-edd6-570d-ba9a-ef784e806fea
+id: 2130dea4-bb3a-4b8a-9499-34a529ab2a4b
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485600
-  priority: 100
-  slug: ten-cate-logo
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 2d1ef362-80a7-5c87-8c91-a520bc14645a
+offerId: c25dfa82-9bde-46ff-b309-ed6d659cecb1
 price:
   cents: 3795
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 75.9
 slug: ten-cate-2x-hoeslaken-katoen-satijn-90-x-220-cm-burgundy
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 2x Hoeslaken Katoen Satijn | 90 x 220 cm | Burgundy

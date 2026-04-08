@@ -1,12 +1,12 @@
-_id: 69cbdd518a3a2c8a43e82ab9
+_id: 69d4df3a9b89a37ad305213e
 appOnly: false
 brand: Australian Footwear
 brands:
   - id: a18b82b2-333c-5432-836f-b8e31865a729
     name: Australian Footwear
 categories:
-  - b8395062-90d4-5681-b51a-673a6da3f376
-classicId: '3137167'
+  - 108c1b95-2f2d-5440-a3d9-274a828a88c4
+classicId: '3146762'
 classicProductId: '692123'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 53
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: f03fe2be-4f41-4233-b6ed-7d25cb749500
+id: c752f544-2649-4e86-acdf-e9a65c8558c7
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: da3e71b3-c56f-4b3d-80a7-a83da315aba3
-  priority: 0
-  slug: australian-footwear-png-logo-0
+  extension: png
+  id: 1998839
+  priority: 100
+  slug: australian-footwear-logo
   type: logo
-offerId: 52f28cea-119e-4bb9-bd2c-8584818357da
+offerId: 1063399d-d349-44ac-bf4b-a3e1e0298c63
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 169.99
 slug: australian-footwear-mazzerato-sneakers-heren
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Australian Footwear Mazzerato Sneakers | Heren

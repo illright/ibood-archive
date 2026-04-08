@@ -1,12 +1,12 @@
-_id: 69ca442d85eed0b0f51e6360
+_id: 69d4e26d0a0661cbaa901103
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - 6b16e418-d4fa-56d7-b22e-9b423dcf065f
-classicId: '3128298'
+  - 11482de2-35d7-50a9-8a5b-5afd49cf353a
+classicId: '3147084'
 classicProductId: '693055'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 6aa7605f-e566-4665-8b80-371e433096eb
+id: 9863f63b-9336-4755-88fc-b98114c0c44d
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 226d7a07-04aa-463f-80e4-a446b1c45b5d
-  priority: 0
-  slug: odlo-png-logo-0
+  extension: png
+  id: 1620425
+  priority: 100
+  slug: odlo-logo
   type: logo
-offerId: c2f76970-b900-4268-9c6c-ed876cc23af0
+offerId: 2e797d5a-4b3b-439c-9edc-1b8dceba39d7
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,6 @@ referencePrice:
   value: 45
 slug: odlo-essentials-naadloos-hardloopshirt-korte-mouw-guacamole-melange
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Odlo Essentials Naadloos Hardloopshirt | Korte Mouw | Guacamole Melange
+

@@ -1,12 +1,12 @@
-_id: 69cbb1024fe6bbfeb8fd9ee6
+_id: 69d4b9c1244c8eb0a53ef568
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 72014663-2149-553a-86d8-5c66c6de1e2b
-classicId: '3134557'
+  - c8f5782d-e777-54f9-97d7-99f8e38023b6
+classicId: '3145292'
 classicProductId: '695845'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 8ce5028e-d76b-4c46-924a-b5d26f1899e2
+id: 9ba2ead1-4fb9-4d65-a521-5de09fe25a6e
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1264089057-villeroy-boch-louis-cutlery-set-30pcs-product-1
   type: product
-offerId: 465ac9c3-85fe-47d9-920e-a02543151b6e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
+  type: logo
+offerId: d374da89-b7a2-4980-912c-97b44aed3784
 price:
   cents: 9995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 259
 slug: villeroy-boch-louis-besteck-set-30-teilig
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Villeroy & Boch Louis bestekset | 30-delig

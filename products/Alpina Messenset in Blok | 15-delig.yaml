@@ -1,12 +1,12 @@
-_id: 69baa439f86408df10b36925
+_id: 69d4b9aabfec08d0055557fb
 appOnly: false
 brand: Alpina
 brands:
   - id: 67f53750-0698-5560-b56f-996f14449581
     name: Alpina
 categories:
-  - abc651d3-3fcd-57e6-b624-e48af7fcbb9c
-classicId: '3092148'
+  - c8f5782d-e777-54f9-97d7-99f8e38023b6
+classicId: '3145248'
 classicProductId: '700330'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 42
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 2d220c4d-5557-5972-a565-0f8b3179cb1d
+id: 5d405ebe-7324-49e8-891a-697d0d249c89
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: alpina-messenset-in-blok-15pcs-product-2
   type: product
-offerId: 9ff63cda-1a5e-52df-9929-8bd44563506f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1771309
+  priority: 100
+  slug: alpina-logo
+  type: logo
+offerId: 5b74fc93-6dc2-4270-8ff9-86d56579e670
 price:
   cents: 3495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 59.95
 slug: alpina-messenset-in-blok-15-delig
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Alpina Messenset in Blok | 15-delig

@@ -1,12 +1,12 @@
-_id: 69c4ff3de623bb8dd121c40c
+_id: 69d4f4e9cd8c24113cf3a05f
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - 4484675f-0c12-5114-a93e-e848526695c5
-classicId: '3116159'
+  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
+classicId: '3147494'
 classicProductId: '702499'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: f735e3ff-fbef-5e57-8e9a-7f4c4936f41c
+id: d5044877-91bf-4357-abd4-997c19512682
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2c059b25-2f86-40dc-bcb7-e73fb772abcf
-  priority: 0
-  slug: axe-logo-png-logo-0
+  extension: png
+  id: 1692918
+  priority: 100
+  slug: axe-logo
   type: logo
-offerId: b35a035d-aede-5a5a-bb76-71e05f848a1e
+offerId: 94e599b5-8a3d-4f55-8b45-12834f2de3bb
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 47.92
 slug: 3x-axe-douchegel-excite-1-l
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 3x Axe Douchegel Excite | 1 L

@@ -1,12 +1,12 @@
-_id: 69cbd52228482382885a63d1
+_id: 69d4dfe9cd8c24113cf39d80
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
-classicId: '3136825'
+  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
+classicId: '3146971'
 classicProductId: '691281'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 70
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 0ee4e39d-e81c-45f6-9993-3db8abb82f08
+id: 7a32fce6-2040-4839-ad5e-dd0aa9937627
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 688225a5-1f55-4ca9-a949-3ccb3b4aea1c
-  priority: 0
-  slug: jack-jones-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: fbad6477-545f-4b3f-851c-0fe3f7c3cc85
+offerId: edfab00c-3d54-444f-be60-e54e808ca361
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-premium-parker-overhemd-heren
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Jack & Jones Premium Parker Overhemd | Heren

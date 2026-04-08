@@ -1,22 +1,22 @@
-_id: 69cb9a2cc5530539c54136e4
+_id: 69d50625cd8c24113cf3a8ff
 appOnly: false
 brand: Kalune
 brands:
   - id: f9525695-6bac-5e68-bd8d-234ccd8524a9
     name: Kalune
 categories:
-  - 72c8b431-94c6-548a-a0cf-e0aec87f7250
-classicId: '3131720'
-classicProductId: '540931'
+  - 3814c585-8949-5281-ad93-ca43c7be7731
+classicId: '3149527'
+classicProductId: '540933'
 deliveryPrice:
   cents: 1995
   currency: EUR
   value: 19.95
-directCheckout: true
+directCheckout: false
 discount: 69
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: b04399b2-8137-4590-b2d9-e7a9e6fc8731
+id: 431299ad-95a7-4813-81f9-9a55ad06a650
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: kalune-logo
   type: logo
-offerId: 9138e1d5-7ff1-4ec4-8a8b-3e9e856bbbd0
+offerId: 4c1cd701-dfd6-4a30-86d5-4e5425d5efc0
 price:
   cents: 12900
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 409.99
 slug: emob-boekenkast-kalune-manco
-soldOut: true
-start: '2026-03-31T22:00:00.000Z'
+soldOut: false
+start: '2026-04-07T22:00:00.000Z'
 title: Emob Boekenkast Kalune Manco

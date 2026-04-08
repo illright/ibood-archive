@@ -1,12 +1,12 @@
-_id: 69baa31e8c823a7e893b3742
+_id: 69d504189d30757c77dadd36
 appOnly: false
 brand: Carrera
 brands:
   - id: 92d00cd9-feb5-5cb6-820f-ba8271c25191
     name: Carrera
 categories:
-  - ca272ff4-7374-5785-86f1-40a1bc7027f7
-classicId: '3092055'
+  - 55ab2b73-4b64-519b-b142-0492183cf0a0
+classicId: '3149219'
 classicProductId: '700319'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 660a5406-814d-5466-928c-68db7c9803bc
+id: 1fe1804a-ead4-45c8-9d9e-1babc3cc9625
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: carrera-dierenmand-o46cm-grijs-product-1
   type: product
-offerId: 3a3c824f-a7dd-51c7-9212-19aa4ed7fdc9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c0d50383-2123-420e-b17c-46a7710aa960
+  priority: 101
+  slug: carrera-logo-101
+  type: logo
+offerId: 052835ae-3223-4cec-8e32-a4edf0cf11c6
 price:
   cents: 995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 24.95
 slug: carrera-kussen-voor-huisdieren-46-cm
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Carrera Kussen voor Huisdieren | Ø 46 cm

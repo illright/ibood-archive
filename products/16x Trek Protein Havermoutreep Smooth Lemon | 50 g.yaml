@@ -1,12 +1,12 @@
-_id: 69c696ebcf400540189ee374
+_id: 69d4f6d6746c7d2a1fa85449
 appOnly: false
 brand: Trek
 brands:
   - id: 04292f61-7ba0-51be-98a1-3b687dafef7e
     name: Trek
 categories:
-  - 410405d0-f9ef-5408-b1ee-f2e9da33bcab
-classicId: '3127371'
+  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
+classicId: '3148233'
 classicProductId: '702931'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 753167c7-b22c-578d-aaa1-09870c52d06c
+id: 6adf0455-4b00-41c8-a66b-e859502ed3d5
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1c8b7b28-58dd-4b3f-a0f7-0e00bc75773a
-  priority: 0
-  slug: trek-png-logo-0
+  extension: png
+  id: 1905136
+  priority: 100
+  slug: trek-logo
   type: logo
-offerId: 927b9c9d-8c50-5620-96b6-e59b2aecd670
+offerId: 7467960a-dc53-4b91-9f92-49b78a2405c6
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 39.84
 slug: 16x-trek-protein-havermoutreep-smooth-lemon-50-g
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 16x Trek Protein Havermoutreep Smooth Lemon | 50 g

@@ -1,32 +1,32 @@
-_id: 69ca88f54fe6bbfeb8fada9a
+_id: 69d4f4c9746c7d2a1fa851f1
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 420c5f0a-9d32-54c4-9c8b-1a22025d953b
-classicId: '3129706'
+  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
+classicId: '3147444'
 classicProductId: '688770'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 67
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: false
+discount: 73
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 675dd458-b097-48f2-b0d6-a98ce47f8d94
+id: 47f9c5e3-d6ac-4418-a162-8838a5f95217
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 7cf8101c-00b6-4bda-92a2-1d0686d8c7de-tr
-  priority: 1
-  slug: ariel-01-png-product-1
+  id: d9432fc9-111f-459a-bc45-b2f492618899
+  priority: 0
+  slug: ariel-03-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: ariel-logo
   type: logo
-offerId: cc2b240f-a404-4d65-83e6-f5193edbdc57
+offerId: e80fe7ea-94d6-4d58-b9e0-59c76d0eed7e
 price:
-  cents: 2195
+  cents: 1795
   currency: EUR
-  value: 21.95
+  value: 17.95
 referencePrice:
   cents: 6650
   currency: EUR
   value: 66.5
 slug: ariel-vloeibaar-wasmiddel-regular-5-l-100sc
-soldOut: true
-start: '2026-03-31T22:00:00.000Z'
+soldOut: false
+start: '2026-04-07T22:00:00.000Z'
 title: Ariel Vloeibaar Wasmiddel Regular | 5 L | 100sc

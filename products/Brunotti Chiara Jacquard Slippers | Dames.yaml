@@ -1,12 +1,12 @@
-_id: 69ca53ce19b288590a969c6d
+_id: 69d5092d1c040adcd8d7e5e7
 appOnly: false
 brand: Brunotti
 brands:
   - id: 6a2e0d9a-ccf5-5842-bacc-0ea62bed2295
     name: Brunotti
 categories:
-  - fdd1966e-ec06-5822-bfe2-8c1e8c5aaf0d
-classicId: '3128323'
+  - d4d8bbad-07b2-55d4-a95a-4b9aabd426bd
+classicId: '3149674'
 classicProductId: '699691'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: d63a3e80-7825-4905-86f9-eb202890e604
+id: f0b18699-4091-43e9-8c4f-cb2646bdb96d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: df511607-9a53-4bdf-9064-6462bfdcb23c
-  priority: 0
-  slug: brunotti-png-logo-0
+  extension: png
+  id: 1820705
+  priority: 100
+  slug: brunotti-logo
   type: logo
-offerId: 743f299a-1dbc-41e1-9fba-d03f1e31822a
+offerId: 0b0ce335-86a8-4cac-889f-f1f072a9b5c7
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 29.99
 slug: brunotti-chiara-jacquard-slippers-dames
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Brunotti Chiara Jacquard Slippers | Dames
+

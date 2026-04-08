@@ -1,12 +1,12 @@
-_id: 69baa374da3d41d141845e4c
+_id: 69d4b97631ec364e1d28fd4a
 appOnly: false
 brand: Alpina
 brands:
   - id: 67f53750-0698-5560-b56f-996f14449581
     name: Alpina
 categories:
-  - d222ed61-d217-5f8e-9455-0edddeaca0de
-classicId: '3092063'
+  - f48c0fee-75cc-5412-b7b9-3b5f6c2fe78b
+classicId: '3145089'
 classicProductId: '700311'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 7a44cc95-2523-5c54-9c4e-65cace2b65c1
+id: d8ed5064-034f-4901-87b8-d33c9a6a80c3
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 86fecfee-72e4-4c27-a866-cf9d09c888ba
-  priority: 0
-  slug: alpina-logo-png-logo-0
+  extension: png
+  id: 1771309
+  priority: 100
+  slug: alpina-logo
   type: logo
-offerId: e0d55582-e2b3-51de-9a3e-a88b4e0a8f91
+offerId: 4d8c1829-54ad-43db-921a-e723c3be5cbf
 price:
   cents: 995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 19.95
 slug: alpina-7-delige-schoonmaakset
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Alpina 7-delige Schoonmaakset

@@ -1,12 +1,12 @@
-_id: 69cbdcd2dbc0376e859983ae
+_id: 69d4defe36c61b8aa779d2f7
 appOnly: false
 brand: Jeep
 brands:
   - id: 36c8c9f2-6e90-5081-a4b4-79c7905fd6a0
     name: Jeep
 categories:
-  - 606debad-4197-5847-809f-b71f3c782d6f
-classicId: '3137068'
+  - db3545df-7364-5165-b9eb-c211538603a0
+classicId: '3146622'
 classicProductId: '694159'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 7ea92853-b435-4256-8df4-2b9fcc30b36f
+id: 05bda7b6-2c31-41ef-9e1c-fc1e7389c442
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: trunk-png-product-1
   type: product
-offerId: 25cfe539-994d-4c67-a45c-3fce52597a87
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 07988bc3-06dc-43d0-b40d-00d4cd71a885
+  priority: 0
+  slug: jeep-logo-0
+  type: logo
+offerId: 0e84d098-8d64-4e71-b657-542e221df03f
 price:
   cents: 11995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 329
 slug: jeep-uitbreidbare-trolley-xl-106-liter
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Jeep Uitbreidbare Trolley XL | 80 cm | 106 liter

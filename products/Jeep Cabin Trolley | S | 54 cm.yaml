@@ -1,22 +1,22 @@
-_id: 69cbdc91352eb7b7d55e9afd
+_id: 69d4de6d2200a251fa3d2700
 appOnly: false
 brand: Jeep
 brands:
   - id: 36c8c9f2-6e90-5081-a4b4-79c7905fd6a0
     name: Jeep
 categories:
-  - 606debad-4197-5847-809f-b71f3c782d6f
-classicId: '3137044'
-classicProductId: '690625'
+  - db3545df-7364-5165-b9eb-c211538603a0
+classicId: '3146362'
+classicProductId: '690624'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 57
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: f1c46a55-1522-4e38-a803-5a4064026276
+id: 7e49a79a-1881-4e5d-bdda-85a3dff2a2ab
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: jeep-logo-0
   type: logo
-offerId: 5ae39d7e-bbaf-44eb-bed0-1678fbed0018
+offerId: 625d2b26-f39a-4803-b7b5-8fd1b5f9dc89
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 139
 slug: jeep-cabin-trolley-s-54-cm
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Jeep Cabin Trolley | S | 54 cm

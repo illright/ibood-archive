@@ -1,12 +1,12 @@
-_id: 69cbd38b8a3a2c8a43e82746
+_id: 69d4ded39b89a37ad30520a1
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
-classicId: '3136411'
+  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
+classicId: '3146492'
 classicProductId: '679485'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: a6354b8f-68c2-4fed-8cb5-4d12c1ca1161
+id: 440a6de0-7bbb-4885-bb6c-452d4875dea1
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: l-white-12254098-jwhsummer-shirt-ss-sn-jack-and-jones-product-0
   type: product
-offerId: 7ed8f680-5ec4-4c63-87bf-053bb6878dbe
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 9684e18c-3f5b-4ae3-9ce0-55d75b4353fa
 price:
   cents: 2195
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: jack-jones-summer-shirt-white
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Jack & Jones Summer Shirt | Heren | White

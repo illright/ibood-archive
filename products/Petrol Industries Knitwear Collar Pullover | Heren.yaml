@@ -1,22 +1,22 @@
-_id: 69cfc0b1a400e6be73ff51b6
+_id: 69d4f48542e881a4078b2bac
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - c27f343f-1461-573f-b313-6a134058e651
-classicId: '3142936'
-classicProductId: '673609'
+  - dc82146b-1676-5e8e-9111-4326cbd64c49
+classicId: '3147320'
+classicProductId: '673782'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 75
-end: '2026-04-07T21:59:59.999Z'
+discount: 77
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: e719c984-3ae6-5455-a078-e1247e9f5984
+id: 3c7fa2e4-8ef7-4c08-945d-b0d06af6763f
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8ea939e2-ecdc-49a1-8223-370222892a62
+  id: 734d4999-093e-41ca-b05d-ed15b74da9d2
   priority: 0
-  slug: amin-png-product-1
+  slug: main-png-product-1
   type: product
 logo:
   channels:
@@ -38,15 +38,15 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: d5fb930d-d833-5dfc-900f-2fd1298b0dd7
+offerId: 65c314e8-7a6e-4844-99fa-ebd59dec9337
 price:
-  cents: 1995
+  cents: 2032
   currency: EUR
-  value: 19.95
+  value: 20.32
 referencePrice:
-  cents: 7999
+  cents: 8999
   currency: EUR
-  value: 79.99
+  value: 89.99
 slug: petrol-industries-knitwear-collar-pullover
 soldOut: false
 start: '2026-04-06T22:00:00.000Z'

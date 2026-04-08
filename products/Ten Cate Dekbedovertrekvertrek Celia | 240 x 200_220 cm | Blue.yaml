@@ -1,12 +1,12 @@
-_id: 69c3ed590dded6f873d4c40b
+_id: 69d4fabcf21a327b56b50fcf
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 141bb0b7-6c9a-5db3-988e-f8192c327ea2
-classicId: '3115385'
+  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
+classicId: '3148480'
 classicProductId: '690542'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: ca077352-d927-5d80-992e-9692803923cf
+id: 20046484-6ac6-48eb-b41c-b7b87f1fcc8f
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1485600
-  priority: 100
-  slug: ten-cate-logo
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 032db5c6-62d7-5358-a58b-6d74a32b066b
+offerId: c879be44-4af1-4a03-a6b9-848d810a2308
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 79.95
 slug: ten-cate-dekbedovertrekvertrek-celia-240-x-200-220-cm-blue
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Ten Cate Dekbedovertrekvertrek Celia | 240 x 200/220 cm | Blue

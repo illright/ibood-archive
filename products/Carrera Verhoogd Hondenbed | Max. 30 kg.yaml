@@ -1,12 +1,12 @@
-_id: 69baa3738c823a7e893b3792
+_id: 69d50414cd8c24113cf3a7d1
 appOnly: false
 brand: Carrera
 brands:
   - id: 92d00cd9-feb5-5cb6-820f-ba8271c25191
     name: Carrera
 categories:
-  - ca272ff4-7374-5785-86f1-40a1bc7027f7
-classicId: '3092064'
+  - 55ab2b73-4b64-519b-b142-0492183cf0a0
+classicId: '3149181'
 classicProductId: '700317'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 4d8d22cd-ff6a-5b79-8b63-21805035bf03
+id: bf18697d-6991-42ae-a01c-7644a7aa1567
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: carrera-hondenbed-product-0
   type: product
-offerId: 0040da10-2e6c-5e41-a124-258af07681ae
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c0d50383-2123-420e-b17c-46a7710aa960
+  priority: 101
+  slug: carrera-logo-101
+  type: logo
+offerId: 0eddb4e1-560f-41d6-aa26-0bdde6f4dcce
 price:
   cents: 1295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 29.95
 slug: carrera-verhoogd-hondenbed-max-30-kg
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Carrera Verhoogd Hondenbed | Max. 30 kg

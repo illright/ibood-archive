@@ -1,12 +1,12 @@
-_id: 69baa445da3d41d141845eec
+_id: 69d503edcd8c24113cf3a742
 appOnly: false
 brand: Bestway
 brands:
   - id: 69122146-b12b-56ee-af5a-0a7d68e613c5
     name: Bestway
 categories:
-  - c88d74d9-3561-531f-a6c6-86617e9d3563
-classicId: '3092144'
+  - a47ee7bb-95c9-5865-9f1b-500bfffe34be
+classicId: '3149120'
 classicProductId: '700322'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 30a76ea0-d868-5c2a-b6c8-1d55beea466c
+id: b910931c-4de2-4780-a789-13ec2663cb6c
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 19144164-9356-4d7d-92bf-00b47d40def9
-  priority: 0
-  slug: bestway-logo-png-logo-0
+  extension: png
+  id: 1859452
+  priority: 100
+  slug: bestway-logo
   type: logo
-offerId: 4fd627db-1273-5f25-b2b3-62de08290edd
+offerId: 8d00b86a-cc33-419f-a37f-f5a888c4d8c7
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 49.99
 slug: bestway-lollipop-waterspeelmat
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Bestway Lollipop Waterspeelmat

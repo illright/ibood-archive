@@ -1,0 +1,53 @@
+_id: 69d4f5aecd8c24113cf3a1e6
+appOnly: false
+brand: Jack & Jones
+brands:
+  - id: 39b25177-ad63-5409-b26f-12f28f1d2104
+    name: Jack & Jones
+categories:
+  - dc82146b-1676-5e8e-9111-4326cbd64c49
+classicId: '3147840'
+classicProductId: '669832'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 80
+end: '2026-04-13T21:59:59.999Z'
+freeDelivery: false
+id: 4b7fcb5a-99cc-4d1a-90af-bb3efbeaf11e
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/jpeg
+  id: 42ef1245-e66f-41b8-8a29-cc8884906bc3
+  priority: 0
+  slug: 1-jpg-product-2
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 20a7ed80-b2af-4f7d-b4ad-b2de56197710
+price:
+  cents: 2011
+  currency: EUR
+  value: 20.11
+referencePrice:
+  cents: 9999
+  currency: EUR
+  value: 99.99
+slug: jack-and-jones-miles-mac-coat-ermine
+soldOut: false
+start: '2026-04-06T22:00:00.000Z'
+title: 'Jack & Jones Miles MAC Coat | Ermine '

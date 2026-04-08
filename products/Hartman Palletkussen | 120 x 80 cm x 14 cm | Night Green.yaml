@@ -1,12 +1,12 @@
-_id: 69cb99aa4fe6bbfeb8fd66f6
+_id: 69d4fe5a2200a251fa3d3141
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - ff9a53f2-5484-5087-84d6-64cb5ba7175d
-classicId: '3131377'
+  - f0f143b8-fd91-52aa-b935-e5ab8b3ab79d
+classicId: '3149074'
 classicProductId: '651892'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 6a53352f-c598-42e0-8a66-d4821168c128
+id: a1fd5ae6-94a5-4b0a-a319-12549e914604
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: hartman-casual-night-green-120x80x14-palletkussen-15050243-product-1
   type: product
-offerId: abe9cdb6-6382-4a56-9b91-29f1da3fe84f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
+  type: logo
+offerId: 5ef9981e-8ffc-480c-a346-cce07e2c9cee
 price:
   cents: 3295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 89.95
 slug: hartman-palletkussen-120-x-80-cm-x-14-cm-night-green
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Hartman Palletkussen | 120 x 80 cm x 14 cm | Night Green

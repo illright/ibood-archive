@@ -1,12 +1,12 @@
-_id: 69c3f66593e33f3ee1b14530
+_id: 69d4b98ef8392f6954c51413
 appOnly: false
 brand: metAltex
 brands:
   - id: dd2f31fe-63f5-5d4c-9a29-e7344cb68aac
     name: metAltex
 categories:
-  - d222ed61-d217-5f8e-9455-0edddeaca0de
-classicId: '3115712'
+  - f48c0fee-75cc-5412-b7b9-3b5f6c2fe78b
+classicId: '3145156'
 classicProductId: '702188'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: 8ff5367c-b621-57ce-be0b-b81b4be2d6be
+id: a870115f-34ba-417e-9a64-476eafbcf05d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: metaltex-tri-hang-multi-functionele-kledinghak-standaard-150cm-product-0
   type: product
-offerId: f62e0a42-d880-50c4-8a88-22fff1046bd8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1662635
+  priority: 100
+  slug: metaltex-logo
+  type: logo
+offerId: 9a57e60a-10ef-4f86-a640-0449223ed2ca
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: metaltex-tri-hang-kleiderstander-150-cm
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Metaltex Tri-Hang Kledingstandaard | 150 cm

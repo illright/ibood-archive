@@ -1,22 +1,22 @@
-_id: 69cb99bbca0164559036e982
+_id: 69d5040dcd8c24113cf3a7b2
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - e6451a9f-e3c1-5641-aa5c-47ed8dfe5eb9
-classicId: '3131415'
-classicProductId: '695836'
+  - c28a6f98-16c9-5195-9258-06da36c8c88b
+classicId: '3149169'
+classicProductId: '665946'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 63
-end: '2026-04-07T21:59:59.999Z'
+directCheckout: false
+discount: 56
+end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: f97ab4f8-c7c7-4054-a7d2-eaf7b50c088e
+id: 737095d3-0f4c-456a-955d-0ce536ff78b8
 image:
   channels:
     - app
@@ -24,30 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 742b6813-3387-46a5-9da2-2092783589a5
+  id: 353de800-ecd3-4db4-9124-8bbc4d499d14
   priority: 0
-  slug: lucide-35-png-product-1
+  slug: lucide-36-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1680420
-  priority: 100
-  slug: lucide-logo
+    - all
+  extension: image/png
+  id: 55036fed-f7c4-4d3e-87b1-0c440468a0ac
+  priority: 0
+  slug: lucide-logo-png-logo-0
   type: logo
-offerId: f3b90eab-54d5-496e-ade4-bd207aba68b2
+offerId: 1c3c1e2b-0460-41da-9cab-9fd85a5b2f06
 price:
-  cents: 4995
+  cents: 5995
   currency: EUR
-  value: 49.95
+  value: 59.95
 referencePrice:
   cents: 13595
   currency: EUR
   value: 135.95
 slug: lucide-vloerlamp-tondo-38-cm
 soldOut: false
-start: '2026-04-01T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 'Lucide Vloerlamp Tondo | Ø 38 cm '

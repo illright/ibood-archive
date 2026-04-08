@@ -1,12 +1,12 @@
-_id: 69cbd41519b288590a9a1eae
+_id: 69d4df2ccd8c24113cf39c88
 appOnly: false
 brand: Seidensticker
 brands:
   - id: 1d526062-f5ca-5b64-aa47-092abced1dba
     name: Seidensticker
 categories:
-  - 6dd4f5ed-7fb6-56e5-a5ca-ddb2406220ac
-classicId: '3136540'
+  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
+classicId: '3146715'
 classicProductId: '699403'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 44
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 07d31440-e047-42e5-a2ab-cd3b7ca93dc1
+id: b4f8ffde-2bcb-4221-b118-451d6552d858
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2ee66e14-3d3e-4a21-b966-c843e93268ca
-  priority: 0
-  slug: seidensticker-merino-pullover-herren-png-logo-0
+  extension: png
+  id: 1741033
+  priority: 100
+  slug: seidensticker-logo
   type: logo
-offerId: 6ba71508-a339-4466-b38a-8bf6450bbc1d
+offerId: 1d7c1f02-28da-409d-8dba-129ee0234353
 price:
   cents: 4495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 79.99
 slug: seidensticker-poloshirt-black
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: Seidensticker Poloshirt | Black

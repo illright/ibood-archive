@@ -1,12 +1,12 @@
-_id: 69cfb05f1eabbd1eca49d978
+_id: 69d4de09746c7d2a1fa84da9
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - ca95bb2a-585a-5a61-b436-eab08f4ad4eb
-classicId: '3142873'
+  - e9d90a63-bb36-57bd-b68c-0179dc9e73ab
+classicId: '3146215'
 classicProductId: '483426'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-04-07T21:59:59.999Z'
+end: '2026-04-13T21:59:59.999Z'
 freeDelivery: false
-id: 0e239750-33ba-482d-9835-bb3b7698df49
+id: 0a9a4db5-342c-4227-89f9-db852e7d85a6
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1519604
-  priority: 100
-  slug: 6x-bamboo-essentials-bamboe-string-dames
+    - all
+  extension: image/png
+  id: e050be77-f736-4239-85c1-77f0e927fa7f
+  priority: 101
+  slug: bamboo-elements-logo-101
   type: logo
-offerId: 41df8c1a-3b41-42c4-9266-d02f58d832a5
+offerId: 84971a8a-6695-4881-8b44-b781fe5dc4cc
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 59.9
 slug: 6x-bamboo-essentials-bamboe-string-dames
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-07T22:00:00.000Z'
 title: 6x Bamboo Essentials Bamboe String | Dames
