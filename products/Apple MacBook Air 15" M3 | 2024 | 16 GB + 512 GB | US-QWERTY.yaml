@@ -1,22 +1,22 @@
-_id: 69cbb3b22eede458c42e12b9
+_id: 69d618d22200a251fa3d35e2
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 5af6ed1d-7d6c-5909-81e1-e136ab69a1c5
-classicId: '3135700'
-classicProductId: '695637'
+  - 42a9acdd-33fd-5ad4-ac2b-729ed28ae839
+classicId: '3150689'
+classicProductId: '695638'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-04-08T21:59:59.999Z'
+end: '2026-04-15T21:59:59.999Z'
 freeDelivery: false
-id: 87d3dcda-3fb6-4219-9961-9f45cb00567b
+id: 5a85d21c-abaa-4241-ba3f-cece4df889ae
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: e21c91ae-f561-4254-9f7d-9a3ccffe4299
+  id: 72109152-3f9b-4633-8adc-24d74f26b24b
   priority: 0
-  slug: swank-png-product-1
+  slug: swinker-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: 89d6ebff-4842-42f8-b4b7-2c4d1645eab0
+offerId: 07e1973e-5cfa-4329-9831-ae53f2ed2634
 price:
   cents: 109900
   currency: EUR
@@ -48,7 +48,6 @@ referencePrice:
   currency: EUR
   value: 1829
 slug: apple-macbook-air-15-m3-2024-16-gb-512-gb-us-qwerty
-soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+soldOut: true
+start: '2026-04-08T22:00:00.000Z'
 title: Apple MacBook Air 15" M3 | 2024 | 16 GB + 512 GB | US-QWERTY
-Y

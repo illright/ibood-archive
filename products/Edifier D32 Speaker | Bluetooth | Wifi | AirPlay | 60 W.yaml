@@ -1,12 +1,12 @@
-_id: 69cbb2c208545261e7c9bc4a
+_id: 69d617b5746c7d2a1fa85c3c
 appOnly: false
 brand: Edifier
 brands:
   - id: 62530728-060f-56ac-a132-b6fd4934502d
     name: Edifier
 categories:
-  - a665a272-8b3f-5f5c-b574-f5e004f0a8bf
-classicId: '3135375'
+  - 48f2e810-08db-5a9e-8779-ea8ae917b819
+classicId: '3150449'
 classicProductId: '587725'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2026-04-08T21:59:59.999Z'
+end: '2026-04-15T21:59:59.999Z'
 freeDelivery: false
-id: f22703d6-f8b7-4f0c-a5e7-f368c0f7d015
+id: 1c7c9dbb-b4dd-4e9b-bc28-6891f158237c
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 58912057-6e7f-4688-afdd-b1e0dadffe3e-tr
+  extension: png
+  id: 2185731
   priority: 0
-  slug: edifier-d32-bluetooth-lautsprecher-png-product-1
+  slug: edifier-d32-bluetooth-lautsprecher
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: edifier-logo
   type: logo
-offerId: 9519155c-8038-4689-8de1-a70e89e60882
+offerId: cc1f9078-2979-4ed7-9bb6-23f05a5f0a1d
 price:
   cents: 8995
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 219.95
 slug: edifier-d32-draagbare-bluetooth-speaker
 soldOut: false
-start: '2026-03-31T22:00:00.000Z'
+start: '2026-04-08T22:00:00.000Z'
 title: Edifier D32 Speaker | Bluetooth | Wifi | AirPlay | 60 W

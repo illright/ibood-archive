@@ -1,22 +1,22 @@
-_id: 69cf8c01746c7d2a1fa84609
+_id: 69d617f7e59b0a00a170c6c6
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - a665a272-8b3f-5f5c-b574-f5e004f0a8bf
-classicId: '3142775'
-classicProductId: '693948'
+  - 48f2e810-08db-5a9e-8779-ea8ae917b819
+classicId: '3150562'
+classicProductId: '693946'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 31
-end: '2026-04-08T21:59:59.999Z'
+end: '2026-04-15T21:59:59.999Z'
 freeDelivery: false
-id: 54ad37ab-58ac-4926-b556-dc231be06cbc
+id: 6a874268-806c-4ed1-a3c6-e4d1e0913610
 image:
   channels:
     - app
@@ -26,21 +26,11 @@ image:
     - website
     - app
   extension: image/png
-  id: c94c3281-6381-490b-a1d1-5b6fb6e00130-tr
+  id: f138b17f-08d8-467a-bc45-fee1907a7e89-tr
   priority: 0
-  slug: asis-apple-airpods-max-2024-starlight-product-1
+  slug: asis-apple-airpods-max-2024-midnight-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1789994
-  priority: 100
-  slug: apple-logo
-  type: logo
-offerId: d813094d-6741-47f1-b704-da6266097007
+offerId: 68b70b35-97a6-48fa-94cc-26b0aa7b10e4
 price:
   cents: 39900
   currency: EUR
@@ -50,6 +40,6 @@ referencePrice:
   currency: EUR
   value: 579
 slug: apple-airpods-max-2024-as-is
-soldOut: true
-start: '2026-03-31T22:00:00.000Z'
+soldOut: false
+start: '2026-04-08T22:00:00.000Z'
 title: Apple AirPods Max | 2024 | As Is
