@@ -1,12 +1,12 @@
-_id: 69d4df36746c7d2a1fa84f59
+_id: 69dc53d0ff3c18abc0de8c99
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
-classicId: '3146741'
+  - c1be00c1-9512-5361-b8db-b38a242dc5af
+classicId: '3155631'
 classicProductId: '699016'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: b7c975ce-96c7-4212-a1dc-1c6e6d961036
+id: 8c19f776-edbe-4fa8-b665-4aeac3f426f0
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: s-salute-20720216-194011-bhbrody-half-sweatshirt-pullover-men-blend-product-2
   type: product
-offerId: 7261c5f2-dec1-4d36-8a59-bf3252005217
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 40e84a87-b8fa-4af3-b35e-c4ac59c5504d
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: 94f26c1c-bc20-4f14-a240-2324d89a8f7a
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 39.95
 slug: blend-half-zip-sweatshirt-salute-dark-blue
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-12T22:00:00.000Z'
 title: Blend Half Zip Sweatshirt | Salute Dark Blue

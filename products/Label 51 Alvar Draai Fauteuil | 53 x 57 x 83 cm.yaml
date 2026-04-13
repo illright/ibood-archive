@@ -1,4 +1,4 @@
-_id: 69d50620746c7d2a1fa8596d
+_id: 69d50615cd8c24113cf3a8c9
 appOnly: false
 brand: Label51
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Label51
 categories:
   - 3814c585-8949-5281-ad93-ca43c7be7731
-classicId: '3149518'
-classicProductId: '585122'
+classicId: '3149499'
+classicProductId: '585121'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 24
 end: '2026-04-14T21:59:59.999Z'
 freeDelivery: false
-id: eeecf258-eafd-43a4-a469-10840463895a
+id: a94864cc-5989-40a1-b912-371134fd9c9b
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 2006158
+  extension: image/png
+  id: 242eedc8-d50e-407e-91bf-46035f516d9e-tr
   priority: 0
-  slug: label-51-alvar-draai-fauteuil-53-x-57-x-83-cm
+  slug: label-51-alvar-draai-fauteuil-53-x-57-x-83-cm-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: label51-logo
   type: logo
-offerId: 9b4f85bb-da8e-4142-a97e-5939b941f9fe
+offerId: 3e5fe4c6-41fa-4c6d-816e-e6df94a97568
 price:
   cents: 25900
   currency: EUR
@@ -49,6 +52,4 @@ referencePrice:
 slug: label-51-alvar-draai-fauteuil-53-x-57-x-83-cm
 soldOut: false
 start: '2026-04-07T22:00:00.000Z'
-title: Label 51 Alvar Draai Fauteuil | 53 x 57 x 83 cm
-tart: '2026-04-07T22:00:00.000Z'
 title: Label 51 Alvar Draai Fauteuil | 53 x 57 x 83 cm

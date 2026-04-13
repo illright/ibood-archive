@@ -1,12 +1,12 @@
-_id: 69d4df92746c7d2a1fa84ff5
+_id: 69dc53e3f4aadb52e330ac5b
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
-classicId: '3146888'
+  - c1be00c1-9512-5361-b8db-b38a242dc5af
+classicId: '3155645'
 classicProductId: '699070'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: bcc8f95b-8986-4038-b719-10f2e7e79fd4
+id: 73aa7a47-eee3-4e74-8f45-a9f5a4d1366d
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: s-salute-20720234-194011-bhfillip-tee-short-sleeve-men-blend-product-1
   type: product
-offerId: f09c0340-f07c-485a-b20d-747de654987e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 23f3a07d-4357-4ce5-9022-3fddb906f664
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: e46f8fbc-4030-4de7-bb45-91336727bdfe
 price:
   cents: 1495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 24.95
 slug: blend-plain-logo-t-shirt-salute-dark-blue
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-12T22:00:00.000Z'
 title: Blend Plain Logo T-shirt | Salute Dark Blue

@@ -1,12 +1,12 @@
-_id: 69d4df2d0a0661cbaa901027
+_id: 69dc53d1e5d23dea43c2dcc5
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
-classicId: '3146733'
+  - c1be00c1-9512-5361-b8db-b38a242dc5af
+classicId: '3155630'
 classicProductId: '699010'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: 80434d17-a2fe-420c-9a53-61c33d2a3afa
+id: 2a9a891e-bef9-4080-9590-0d382d898fe8
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: s-otter-20720216-181018-bhbrody-half-sweatshirt-pullover-men-blend-product-2
   type: product
-offerId: 8d3eea5b-df5f-4d3f-9e41-32430b60eaaa
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0b85f858-ebc0-412c-963e-ee6c2b25159e
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: 7b0e4abe-dc6f-432d-a7d4-be863d865179
 price:
   cents: 2195
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 39.95
 slug: blend-half-zip-sweatshirt-otter
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-12T22:00:00.000Z'
 title: Blend Half Zip Sweatshirt | Otter
