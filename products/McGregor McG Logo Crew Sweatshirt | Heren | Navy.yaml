@@ -1,12 +1,12 @@
-_id: 69d4df9fcd8c24113cf39d4c
+_id: 69dc92880086065400364841
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
-classicId: '3146904'
+  - dcdde4dd-c089-5a8e-8e37-098bc0fce8b4
+classicId: '3155881'
 classicProductId: '694673'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: 4b32af89-24c6-47eb-83c5-a23d455e4239
+id: 6397df24-385e-491e-a5a9-57e6d6dfe353
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 90e9e229-e11f-43a6-9875-375bbb88bcbf
-  priority: 0
-  slug: mcgregor-png-logo-0
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
   type: logo
-offerId: 3b5f7ad8-d8d5-4bd4-a358-617a526e85bf
+offerId: 1a2e4bd0-ba6a-4fdc-bc67-0c638b92ff27
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 99.95
 slug: mcgregor-mcg-logo-crew-sweatshirt-heren-navy
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: McGregor McG Logo Crew Sweatshirt | Heren | Navy

@@ -1,12 +1,12 @@
-_id: 69d4de8c36c61b8aa779d279
+_id: 69dc927ae5d23dea43c2dee0
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
-classicId: '3146396'
+  - 37b7a467-fcfa-5146-94e6-fd6f06c8a1f0
+classicId: '3155851'
 classicProductId: '696264'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: 76073904-7860-497b-860a-576e34749ce8
+id: fc6ac886-044b-4077-89c0-94fb5ca20b16
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4a170169-7c47-4581-bf11-a8008e6a6ebe
-  priority: 0
-  slug: boston-brothers-logo-png-logo-0
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
   type: logo
-offerId: 9497ff3f-a8f3-4a69-96bf-75e295cb8acb
+offerId: 05003bd1-3c15-4d16-9dc0-ac07ab92cedc
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 59.95
 slug: boston-brothers-pique-polo-khaki
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Boston Brothers Piqué Polo | Khaki

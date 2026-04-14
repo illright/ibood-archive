@@ -1,22 +1,22 @@
-_id: 69d4f5bcbac80244cbcdfb4c
+_id: 69dc93c6c88b4050164b0d4a
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - dc82146b-1676-5e8e-9111-4326cbd64c49
-classicId: '3147853'
-classicProductId: '665357'
+  - 40a8eb84-957b-5be2-9f62-8f3ff6d5070f
+classicId: '3156418'
+classicProductId: '665369'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 73
-end: '2026-04-13T21:59:59.999Z'
+discount: 74
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: e2e426b8-27a4-4a43-84e4-7d176aeed3bc
+id: 12bfc3ea-3915-4aae-899c-f3491663f1ba
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 19b7aa21-e8d6-4d10-aa26-edebb75b53be
+  id: e48220a7-da88-43bc-818c-7a7d094b7eaa
   priority: 0
-  slug: petrol-38-png-product-1
+  slug: petrol-40-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 997ea211-b737-4963-bad4-dd11bcd58160
+offerId: 3f468a20-21dc-4a1d-9c20-93da6757c607
 price:
-  cents: 1612
+  cents: 1571
   currency: EUR
-  value: 16.12
+  value: 15.71
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: petrol-hoodie-print-heren-deep-black
-soldOut: false
-start: '2026-04-06T22:00:00.000Z'
+soldOut: true
+start: '2026-04-13T22:00:00.000Z'
 title: Petrol Hoodie Print | Heren | Deep Black
+

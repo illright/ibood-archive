@@ -19,13 +19,14 @@ freeDelivery: false
 id: 47a32c75-2be4-581e-97e2-1c375e858f90
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2252675
+    - all
+  extension: image/png
+  id: 92d29ebb-ef1c-475d-9c69-a98416c96ba3
   priority: 0
-  slug: lacoste-dh2050-41-golf-poloshirt-herren
+  slug: main-png-product-1
   type: product
 logo:
   channels:

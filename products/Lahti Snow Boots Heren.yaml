@@ -1,12 +1,12 @@
-_id: 69d4bdf08f5a8c68a7659f34
+_id: 69dcd0e7e5d23dea43c2e461
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - 1bf4506a-a356-5cc7-8375-1d97091b60ca
-classicId: '3145989'
+  - d67cd36c-e1a3-597b-8910-b443aedf6236
+classicId: '3157357'
 classicProductId: '135940'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 6e69d675-be49-4318-bb54-e214bd35a608
+id: e684794e-63ed-407c-be28-b4c03a6a1964
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: lahti-snow-boots-heren
   type: product
-offerId: f7e7edaf-7a42-4bab-bcee-3aabc6a51476
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1591171
+  priority: 100
+  slug: lahti-pro-logo
+  type: logo
+offerId: 0154d280-daa3-4c9c-976d-a208de2b5a50
 price:
   cents: 3995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 74.95
 slug: lahti-snow-boots-heren
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Lahti Snow Boots Heren

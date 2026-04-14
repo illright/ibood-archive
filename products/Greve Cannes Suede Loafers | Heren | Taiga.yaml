@@ -1,12 +1,12 @@
-_id: 69d4dea436c61b8aa779d284
+_id: 69dcb8c1e5d23dea43c2e1b7
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 108c1b95-2f2d-5440-a3d9-274a828a88c4
-classicId: '3146423'
+  - 42a795f7-4537-5d15-aa95-508090793e94
+classicId: '3156744'
 classicProductId: '688441'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: c535c8e8-d634-4ed7-8ba0-0d44b3b95d94
+id: 2dae0dbe-a177-42ea-bcad-3244fa98c9e8
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1912813
-  priority: 100
-  slug: greve-logo
+    - all
+  extension: image/png
+  id: d75301a2-68c7-4ef1-93ad-5d3bc1f4722b
+  priority: 0
+  slug: greve-png-logo-0
   type: logo
-offerId: 5e322fca-de81-4c60-8c85-5f5aff4d1db1
+offerId: 934f732f-6c33-4607-8029-8fe7ad0bfad1
 price:
   cents: 11995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 180
 slug: greve-cannes-suede-loafers-heren-taiga
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Greve Cannes Suede Loafers | Heren | Taiga

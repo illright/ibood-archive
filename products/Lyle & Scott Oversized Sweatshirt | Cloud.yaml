@@ -1,12 +1,12 @@
-_id: 69d4dee19b89a37ad30520c0
+_id: 69dc92aa3d8bf31d8309695e
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
-classicId: '3146547'
+  - db54553b-8d0d-534e-9f1d-0c8ec8e7dd61
+classicId: '3155993'
 classicProductId: '701474'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 29
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: c1186e46-21ac-4ab4-a4e7-c9d5dee79c26
+id: cd6fe62e-c38f-4ec4-8f04-d4348318df3d
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1695004
-  priority: 100
-  slug: lyle-scott-logo
+    - all
+  extension: image/png
+  id: cb6f380a-a715-4fcc-85e1-7f836c071564
+  priority: 0
+  slug: lyle-scott-kleding-png-logo-0
   type: logo
-offerId: 56ad3bfc-1b56-4486-9a61-160dbdd6f90b
+offerId: 79001dad-0df7-4a45-b323-877b42f77709
 price:
   cents: 4995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 70
 slug: lyle-scott-oversized-sweatshirt-cloud
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Lyle & Scott Oversized Sweatshirt | Cloud

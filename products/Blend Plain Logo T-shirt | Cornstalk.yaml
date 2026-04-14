@@ -1,4 +1,4 @@
-_id: 69dc53e0f4aadb52e330ac56
+_id: 69b4055e2d9c20206e1db500
 appOnly: false
 brand: Blend
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Blend
 categories:
   - c1be00c1-9512-5361-b8db-b38a242dc5af
-classicId: '3155643'
+classicId: '3082177'
 classicProductId: '699058'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 40
 end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: 3cde7503-66a1-48d9-8ddc-2480f356e9f1
+id: 8bcff3ce-b2f5-5334-832e-cea4b06ac7c9
 image:
   channels:
     - app
@@ -28,20 +28,22 @@ image:
   priority: 0
   slug: m-cornstalk-20720234-161315-bhfillip-tee-short-sleeve-men-blend-product-1
   type: product
-offerId: f098be04-811c-46e4-9d87-4a4836a8b283
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4516ce52-e9a0-48bd-8ad6-f24a182b39ba
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: 8d933a22-d781-527e-bb4b-55c7c7441f06
 price:
   cents: 1495
   currency: EUR
   value: 14.95
-referencePrice:
-  cents: 2495
-  currency: EUR
-  value: 24.95
-slug: blend-plain-logo-t-shirt-cornstalk
-soldOut: false
-start: '2026-04-12T22:00:00.000Z'
-title: Blend Plain Logo T-shirt | Cornstalk
-4.95
 referencePrice:
   cents: 2495
   currency: EUR

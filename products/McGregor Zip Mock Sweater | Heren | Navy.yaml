@@ -1,22 +1,22 @@
-_id: 69d4dfb2161604f2188ca4db
+_id: 69dc92b0e5d23dea43c2df69
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
-classicId: '3146923'
+  - dcdde4dd-c089-5a8e-8e37-098bc0fce8b4
+classicId: '3155987'
 classicProductId: '694634'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: e992e02e-1ccb-43d7-80e9-949d6cb4b2fe
+id: 2fbe442a-b4d9-4bd7-ac07-8da62abb43ab
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4794fa3e-7d93-4f23-9e56-12d38f42302d
-  priority: 0
-  slug: mcgregor-png-logo-0
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
   type: logo
-offerId: d2443e4c-6511-4feb-bd10-bbbe8e08920d
+offerId: d7ac544f-518c-47f8-b161-71bb274fc1c7
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 119.95
 slug: mcgregor-zip-mock-sweater-heren-navy
 soldOut: true
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: McGregor Zip Mock Sweater | Heren | Navy

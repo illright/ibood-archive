@@ -1,22 +1,22 @@
-_id: 69d4f44e2200a251fa3d299f
+_id: 69dc92c2c88b4050164b0cd5
 appOnly: false
 brand: Adidas
 brands:
   - id: bb74918f-af4d-5098-a84a-ff1e04a7f4e6
     name: Adidas
 categories:
-  - 3212a461-d176-5094-9d75-592a93225d9b
-classicId: '3147200'
-classicProductId: '704531'
+  - 40a8eb84-957b-5be2-9f62-8f3ff6d5070f
+classicId: '3156037'
+classicProductId: '704532'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 68
-end: '2026-04-13T21:59:59.999Z'
+discount: 70
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: 115580eb-8380-4484-8e35-a61d8e3a2743
+id: 6c3fb8d6-468d-4afc-80c7-42d966f11bdb
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 44812cc4-f03f-46c8-838c-218c1461f238
-  priority: 0
-  slug: adidas-png-logo-0
+  extension: png
+  id: 1735813
+  priority: 100
+  slug: adidas-logo
   type: logo
-offerId: 9c3c293e-459b-455c-8683-04674834126e
+offerId: d2f30aa2-81a1-47c0-a981-7e3739f16764
 price:
-  cents: 2318
+  cents: 2202
   currency: EUR
-  value: 23.18
+  value: 22.02
 referencePrice:
   cents: 7300
   currency: EUR
   value: 73
 slug: adidas-active-micro-flex-boxer-3-pack-multicolor-4am014
 soldOut: false
-start: '2026-04-06T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: 6x Adidas Active Micro Flex Boxershort

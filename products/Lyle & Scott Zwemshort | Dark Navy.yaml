@@ -1,12 +1,12 @@
-_id: 69d4de89ae3f915afed528d5
+_id: 69dc92d0e5d23dea43c2df8c
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - d7c34624-ef41-51e8-a6b8-c571c760c2a4
-classicId: '3146390'
+  - db54553b-8d0d-534e-9f1d-0c8ec8e7dd61
+classicId: '3156047'
 classicProductId: '701414'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 36
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: 87626ed9-1e74-46dd-abc0-23ca706f053a
+id: 2170a65b-b5f6-479c-8d88-7f949f4e371e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 28698c2a-d91b-49a9-82e6-af6c7c18bb1f
-  priority: 0
-  slug: lyle-scott-kleding-png-logo-0
+  extension: png
+  id: 1695004
+  priority: 100
+  slug: lyle-scott-logo
   type: logo
-offerId: 34458a0b-c33b-4eff-b50e-0be0c35695a0
+offerId: e1579968-ba33-455c-9661-574769038463
 price:
   cents: 3495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 55
 slug: lyle-scott-zwemshort-dark-navy
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Lyle & Scott Zwemshort | Dark Navy

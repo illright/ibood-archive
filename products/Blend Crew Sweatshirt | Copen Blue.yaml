@@ -1,4 +1,4 @@
-_id: 69dc53dde5d23dea43c2dccf
+_id: 69b4044c030de4a94009996c
 appOnly: false
 brand: Blend
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Blend
 categories:
   - c1be00c1-9512-5361-b8db-b38a242dc5af
-classicId: '3155641'
+classicId: '3082161'
 classicProductId: '698980'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 40
 end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: 32d8d257-51c5-416f-a09d-9c5b4720d403
+id: b96c2a56-a8c3-5473-af94-7903c9a85460
 image:
   channels:
     - app
@@ -30,20 +30,22 @@ image:
   priority: 0
   slug: l-copen-blue-20720214-184025-bhbrody-crew-sweatshirt-pullover-men-blend-product-1
   type: product
-offerId: 956442b3-dfc4-4c7a-b64a-ce0eaf958371
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d7b03a9c-9e74-4aad-8b49-39b79d280e10
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: 5f914e83-5a72-55f0-8c8d-f2a075f68931
 price:
   cents: 1795
   currency: EUR
   value: 17.95
-referencePrice:
-  cents: 2995
-  currency: EUR
-  value: 29.95
-slug: blend-crew-sweatshirt-copen-blue
-soldOut: false
-start: '2026-04-12T22:00:00.000Z'
-title: Blend Crew Sweatshirt | Copen Blue
-e: 17.95
 referencePrice:
   cents: 2995
   currency: EUR

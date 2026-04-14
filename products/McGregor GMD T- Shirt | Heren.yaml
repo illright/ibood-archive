@@ -1,22 +1,22 @@
-_id: 69d4f4ebad70b49497440cf8
+_id: 69dc935bf4aadb52e330af2c
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - dc82146b-1676-5e8e-9111-4326cbd64c49
-classicId: '3147509'
-classicProductId: '638302'
+  - 40a8eb84-957b-5be2-9f62-8f3ff6d5070f
+classicId: '3156327'
+classicProductId: '638303'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
+directCheckout: false
 discount: 87
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: 7c63d9e2-904f-4ec1-934d-3860e496247d
+id: 141b28c4-9a9d-40d5-8a47-6322056fada8
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 4ead1445-3e81-4f73-994b-c2ac58ab1e3b
+offerId: af4a6428-1e8f-4f09-aab9-f5111050a83f
 price:
   cents: 774
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: mcgregor-gmd-t-shirt-heren
 soldOut: false
-start: '2026-04-06T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: McGregor GMD T- Shirt | Heren

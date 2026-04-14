@@ -1,22 +1,22 @@
-_id: 69d4de710a0661cbaa900f49
+_id: 69dcbab50086065400364a27
 appOnly: false
 brand: VANS
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: VANS
 categories:
-  - 108c1b95-2f2d-5440-a3d9-274a828a88c4
-classicId: '3146368'
-classicProductId: '692254'
+  - 64c1b48e-79c8-5245-b61e-8b5a2f80a648
+classicId: '3156832'
+classicProductId: '692261'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 27
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: 19aad1a5-7db7-4506-86af-b7b20a755757
+id: 2c7190ee-2dbf-4edb-9654-ea194d0e9f03
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 9ba1bde8-ec57-450c-9fc3-797f0f63c772
+  id: c278b289-e5cc-4aa9-8c67-de04d12dbd18-tr
   priority: 0
-  slug: vans-03-png-product-1
+  slug: 44-pine-forest-vnen6-vn000y7hen61-vero-ls-suede-canvas-pine-forest-mens-vans-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 15511aa9-60a8-40d9-8988-912a721f38af
-  priority: 0
-  slug: vans-png-logo-0
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
   type: logo
-offerId: 4bd3213c-5949-4a18-b923-3827594dfed2
+offerId: 4cc19ad8-88b7-476f-a4df-ce5d93c8cd46
 price:
   cents: 3995
   currency: EUR
@@ -50,6 +49,6 @@ referencePrice:
   value: 55
 slug: vans-vero-sneakers-heren
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Vans Vero Sneakers | Heren
-ns Vero Sneakers | Heren
+Heren

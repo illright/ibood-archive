@@ -1,12 +1,12 @@
-_id: 69d4de4bcd8c24113cf39b09
+_id: 69dc91c4e5d23dea43c2dd37
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d7c34624-ef41-51e8-a6b8-c571c760c2a4
-classicId: '3146276'
+  - 15ffeb9f-c567-5398-bfa9-b7dcae3b8cfc
+classicId: '3155682'
 classicProductId: '679470'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 57
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: 7baa12ff-55de-4c53-a192-c0711bbda891
+id: 6e7e3753-d422-43c2-be26-1357570ebe8e
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: w34-l34-olive-night-12167599-jwhpaul-jjwarner-akm-111-olive-night-jack-and-jones-pants-studio-product-5
   type: product
-offerId: b2eb960a-3c1e-4fc4-9e36-a5797e244b42
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 4fe9274a-bcae-4f24-ae60-208e5c5a972f
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: jack-jones-paul-warner-cargobroek-heren-olive-night
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Jack & Jones Paul Warner Cargobroek | Heren | Olive Night

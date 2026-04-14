@@ -1,12 +1,12 @@
-_id: 69d4df4a9b89a37ad305215f
+_id: 69dcb8c6f4aadb52e330b041
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 108c1b95-2f2d-5440-a3d9-274a828a88c4
-classicId: '3146799'
+  - 42a795f7-4537-5d15-aa95-508090793e94
+classicId: '3156747'
 classicProductId: '688456'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 30
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: 11b0a8c7-a0b8-4f13-89f3-9b1af9deb162
+id: d0af0acd-8030-4f37-819f-7cb8e5ecbae1
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1912813
-  priority: 100
-  slug: greve-logo
+    - all
+  extension: image/png
+  id: 8885b76d-cbdd-4b13-b596-4f5cf1cc3005
+  priority: 0
+  slug: greve-png-logo-0
   type: logo
-offerId: 6f26484e-4b76-4c6d-a909-a56bcbbaac1b
+offerId: d8656dac-50ef-4740-a455-09d683ee688a
 price:
   cents: 13995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 200
 slug: greve-wave-suede-sneakers-heren-sirena
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Greve Wave Suede Sneakers | Heren | Sirena

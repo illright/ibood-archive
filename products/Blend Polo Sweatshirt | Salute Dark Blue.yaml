@@ -1,4 +1,4 @@
-_id: 69dc53d0f4aadb52e330ac3b
+_id: 69b40550b04f6dd8ac1851a0
 appOnly: false
 brand: Blend
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Blend
 categories:
   - c1be00c1-9512-5361-b8db-b38a242dc5af
-classicId: '3155633'
+classicId: '3082171'
 classicProductId: '699028'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 38
 end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: 27727a93-f681-422f-8608-de8625f9e935
+id: 68c1e1d4-c21a-549a-b285-e7ed1b4a1f8a
 image:
   channels:
     - app
@@ -30,20 +30,23 @@ image:
   priority: 0
   slug: 3xl-salute-20720221-194011-bhbrody-polo-sweatshirt-pullover-men-blend-product-1
   type: product
-offerId: 0e593389-0bb1-42ca-a6ca-778ea34244bd
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0236b06f-da34-4789-b0c6-36bf1d7a166b
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: da1f9dfe-6f5f-5ebc-ae0a-45c201df1615
 price:
   cents: 2495
   currency: EUR
   value: 24.95
 referencePrice:
-  cents: 3995
-  currency: EUR
-  value: 39.95
-slug: blend-polo-sweatshirt-salute-dark-blue
-soldOut: false
-start: '2026-04-12T22:00:00.000Z'
-title: Blend Polo Sweatshirt | Salute Dark Blue
-erencePrice:
   cents: 3995
   currency: EUR
   value: 39.95

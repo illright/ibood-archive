@@ -1,12 +1,12 @@
-_id: 69d4dee636c61b8aa779d2d7
+_id: 69dc92a9c88b4050164b0ca7
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - d7c34624-ef41-51e8-a6b8-c571c760c2a4
-classicId: '3146555'
+  - dcdde4dd-c089-5a8e-8e37-098bc0fce8b4
+classicId: '3155994'
 classicProductId: '689720'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: c947776a-c164-404f-96ff-a1665e9b188c
+id: 9e8ca578-6e2a-49ac-b04d-46f6bc0a6fc9
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 8069fde4-1079-4417-aca5-8426e6504e85
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: 2da72a50-c1a2-4bbb-99e1-5dba5747cb19
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: mcgregor-summer-poplin-chino-heren
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: McGregor Summer Poplin Chino | Heren

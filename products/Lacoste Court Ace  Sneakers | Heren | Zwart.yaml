@@ -1,12 +1,12 @@
-_id: 69d4ded50a0661cbaa900fa8
+_id: 69dcb9c12f473a2757a2a695
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 108c1b95-2f2d-5440-a3d9-274a828a88c4
-classicId: '3146493'
+  - 05a73174-23b6-51b3-bd65-131c6db6a741
+classicId: '3156777'
 classicProductId: '695668'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: b6646fe3-6ada-48bc-af82-1e64570b4bab
+id: 6f514b2b-8d82-4511-a7ed-cd234e3ffc93
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: lc007-png-product-1
   type: product
-offerId: 9dcb0632-95e6-43a2-8edd-30001f694529
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: 4114ec05-c25d-43c8-b31e-e45f50817624
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 90
 slug: lacoste-court-ace-sneakers-heren-zwart
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Lacoste Court Ace  Sneakers | Heren | Zwart

@@ -1,12 +1,12 @@
-_id: 69d4dfb42200a251fa3d289e
+_id: 69dc9299f4aadb52e330add6
 appOnly: false
 brand: Seidensticker
 brands:
   - id: 1d526062-f5ca-5b64-aa47-092abced1dba
     name: Seidensticker
 categories:
-  - 28ddcb0d-4f67-5c8d-8b20-0a07e5a58293
-classicId: '3146924'
+  - 89646638-9c9c-512b-9aa3-5563448dacf6
+classicId: '3155925'
 classicProductId: '699357'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-04-13T21:59:59.999Z'
+end: '2026-04-20T21:59:59.999Z'
 freeDelivery: false
-id: b78487cf-0936-4486-a003-fd0d63253a74
+id: 1b381eb4-004d-4aca-8ef7-b1488ed29177
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1741033
-  priority: 100
-  slug: seidensticker-logo
+    - all
+  extension: image/png
+  id: 70b340cc-67e5-4c7d-93b2-ea740146cbe4
+  priority: 0
+  slug: seidensticker-merino-pullover-herren-png-logo-0
   type: logo
-offerId: 4baaf416-1d10-445c-bad4-5aa25d039ee4
+offerId: d7f61ba2-537d-45df-85dd-4a61c4c965c0
 price:
   cents: 5995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 119.99
 slug: seidensticker-merino-polo-trui-navy
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-13T22:00:00.000Z'
 title: Seidensticker Merino Polo Trui | Navy
