@@ -1,12 +1,12 @@
-_id: 69cd1d2d19b288590a9b59f2
+_id: 69ddfcdfd74a93e6eba956fd
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - c8f5782d-e777-54f9-97d7-99f8e38023b6
-classicId: '3138637'
+  - 23f01cf6-d98f-55f1-9774-39000a638d98
+classicId: '3159266'
 classicProductId: '703716'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: fdb9073f-035e-519b-9989-bb1d85b109bc
+id: 16751d9f-4546-497e-ac22-f635fc863c92
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: bjorn-stemmed-glass-47cl-lagom-6-pieces-product-0
   type: product
-offerId: 63847b62-07d6-5a62-819a-8529ef7a98b2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1619105
+  priority: 100
+  slug: bjorn-logo
+  type: logo
+offerId: 82409fb2-6688-4e6c-a482-c8a167c72229
 price:
   cents: 3695
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 89.9
 slug: bjorn-steelglas-47cl-lagom-set-van-6
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Bjorn glas met steel 47 cl | LAGOM | set van 6

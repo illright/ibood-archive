@@ -1,32 +1,34 @@
-_id: 69d50607746c7d2a1fa85929
+_id: 69de17a4931b497b9d83646d
 appOnly: false
 brand: Housecraft Living
 brands:
   - id: 41f194b5-2e39-5e2d-bdc8-cc81a9032e72
     name: Housecraft Living
 categories:
-  - 3814c585-8949-5281-ad93-ca43c7be7731
-classicId: '3149475'
-classicProductId: '684023'
+  - dfa09545-8a89-594b-b5b3-294b7669dc1d
+classicId: '3160554'
+classicProductId: '684026'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 44
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: f000ff42-ef6e-408a-a53e-54e2dfbb54d8
+id: ff40a086-9c02-48fe-890b-0488a8b7ffbd
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 784cacc4-2c3e-4a69-89e5-0f4867f044f3
+  id: 9a8f87cb-2683-42ed-83ee-a7552c5ef2a4-tr
   priority: 0
-  slug: housecraft-living-05-png-product-1
+  slug: housecraft-living-02-png-product-1-png-product-2
   type: product
 logo:
   channels:
@@ -35,11 +37,11 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: fc8d70c5-11dd-441d-85d3-f86c775b1690
+  id: ffc39527-c9c2-4771-9080-2fc357416a31
   priority: 0
-  slug: housecraft-living-png-logo-0
+  slug: housecraft-living-logo-0
   type: logo
-offerId: fd7e583b-dc1c-4f62-baca-2e97636c39ff
+offerId: 34439d10-d064-4520-8235-a3761e39f680
 price:
   cents: 17900
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 318
 slug: 2x-housecraft-living-claes-eetkamerstoel
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 2x Housecraft Living Claes Eetkamerstoel

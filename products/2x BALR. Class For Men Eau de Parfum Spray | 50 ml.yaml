@@ -1,12 +1,12 @@
-_id: 69d51cf12200a251fa3d3351
+_id: 69dcdcdbe5d23dea43c2e660
 appOnly: false
 brand: BALR.
 brands:
   - id: eb1a69d7-bf76-5bb1-98a4-434b0f29e332
     name: BALR.
 categories:
-  - f8905536-b4a4-55c9-9692-f3eb34b42887
-classicId: '3149756'
+  - c0b0f1c4-a86b-59ea-94b6-f35222e353f5
+classicId: '3157739'
 classicProductId: '681256'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 76
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: d615dcfa-b5e6-4834-b35e-df8e790a01ff
+id: 966d0c92-aa2c-43d5-af74-3ec2bcd86b91
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 07af8be5-16a7-4691-afe4-b8759fa6a28a
-  priority: 0
-  slug: balr-png-logo-0
+  extension: png
+  id: 1991470
+  priority: 100
+  slug: balr-logo
   type: logo
-offerId: fab473cf-2929-4594-9a9a-70043e104212
+offerId: 0d2188b0-fbd4-42a6-8659-fe4b060d757f
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 144
 slug: 2x-balr-class-for-men-edp-spray-50-ml
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 2x BALR. Class For Men Eau de Parfum Spray | 50 ml

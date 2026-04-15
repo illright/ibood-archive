@@ -1,12 +1,12 @@
-_id: 69d504505c6074630743ac4d
+_id: 69de1833931b497b9d8365c3
 appOnly: false
 brand: Trio
 brands:
   - id: c20640a1-47f7-50d6-8fb4-6f3a3ab283d1
     name: Trio
 categories:
-  - c28a6f98-16c9-5195-9258-06da36c8c88b
-classicId: '3149358'
+  - c17acebd-ecbb-597d-a822-3f57fec4dfd1
+classicId: '3160803'
 classicProductId: '668693'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 8885be86-5042-43e7-a5f0-ec80f4d6e854
+id: 3b240175-4d45-4843-b597-e1757e29df89
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 1
   slug: cinque-plafonniere-cipallone-617600132-product-1
   type: product
-offerId: 3657f9a1-962e-4c02-99f9-a2dea379aed8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1741315
+  priority: 100
+  slug: trio-logo
+  type: logo
+offerId: 132cdc08-8a8a-4a65-b13d-db4d54cc0ad8
 price:
   cents: 9995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 229
 slug: cinque-plafondlamp-cipallone-e27-40w
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Cinque Plafondlamp Cipallone | E27 | 40W

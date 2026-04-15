@@ -1,22 +1,22 @@
-_id: 69d4fba2ad70b494974410c4
+_id: 69de2d72ec662d7857dbc67f
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - f0f143b8-fd91-52aa-b935-e5ab8b3ab79d
-classicId: '3148910'
-classicProductId: '644385'
+  - 1dc7aaab-c0c2-5dbb-9845-1fbdee9d89a5
+classicId: '3161040'
+classicProductId: '644386'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 58
-end: '2026-04-14T21:59:59.999Z'
+directCheckout: true
+discount: 63
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 2aa9edab-25bb-4522-93c4-53fd526cb5b6
+id: ed8a6be7-c322-4d07-9b2c-5a6a1f7ce38a
 image:
   channels:
     - app
@@ -24,30 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 7fd56613-f642-4a97-9a8c-4ba8fc118305
+  id: 7b4a5d9d-f409-4e28-aca5-892e93cf33e1
   priority: 0
-  slug: hartman-06-png-product-1
+  slug: hartman-39-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1769766
-  priority: 100
-  slug: hartman-logo
+    - all
+  extension: image/png
+  id: 86d678a7-76bc-4ee1-a95d-ba8a8712bad7
+  priority: 0
+  slug: hartman-png-logo-0
   type: logo
-offerId: 8d41edcd-805d-4d42-83ff-f399853caa4e
+offerId: e42c643f-548f-40e8-8339-e05f677b4e9e
 price:
-  cents: 9995
+  cents: 8995
   currency: EUR
-  value: 99.95
+  value: 89.95
 referencePrice:
   cents: 23990
   currency: EUR
   value: 239.9
 slug: 2x-hartman-sophie-rondo-elegance-tuinstoel
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 2x Hartman Sophie Rondo Elegance Tuinstoel

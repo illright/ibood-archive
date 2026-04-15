@@ -1,22 +1,22 @@
-_id: 69d4e2460a0661cbaa90109f
+_id: 69ddf59c1b26269ffa8605cb
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - 11482de2-35d7-50a9-8a5b-5afd49cf353a
-classicId: '3147033'
-classicProductId: '694515'
+  - 8c7c750d-9952-57d0-97f2-9b053f714a02
+classicId: '3158461'
+classicProductId: '702790'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 57
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 37cb41b9-28b9-4fcc-95f8-35614bf378cd
+id: cb43e34f-9645-4213-9eeb-a678197ece4a
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c2a997d2-21a8-4b80-8af3-62ecec1e7f54
-  priority: 0
-  slug: odlo-logo-png-logo-0
+  extension: png
+  id: 1620425
+  priority: 100
+  slug: odlo-logo
   type: logo
-offerId: 6c7b22e2-a9a5-482f-893f-841a0d7c2b36
+offerId: c5539cbe-572a-4052-b544-0dc5aae133c6
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 70
 slug: 5-paar-odlo-essential-enkelsokken-white
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 5 Paar Odlo Essential Enkelsokken | White

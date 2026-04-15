@@ -1,12 +1,12 @@
-_id: 69d5094e6ef5d29d31518660
+_id: 69ddec2e38f2232511cf45f6
 appOnly: false
 brand: Cotopaxi
 brands:
   - id: db6da39d-bebb-5b6e-941d-fb9dc98d15a6
     name: Cotopaxi
 categories:
-  - 61dbe380-3efc-5c28-8c67-4fc8215a60bc
-classicId: '3149718'
+  - 5d738666-c1cb-53af-b97e-074ce2fbd32d
+classicId: '3158227'
 classicProductId: '648814'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 82
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: e4ec0935-8e72-4c67-9caa-2fcc8d945976
+id: b00f9c2f-397e-4f3a-b8ae-0a517ec5f279
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 3a37fbe6-1258-4b4e-84b7-7142f40ea45f
+offerId: 6fbfa836-547e-4bcc-be4a-2e0468be4bec
 price:
   cents: 1500
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 84.95
 slug: cotopaxi-brinco-5-short-abyss
-soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+soldOut: true
+start: '2026-04-14T22:00:00.000Z'
 title: Cotopaxi Brinco 5 Short | Abyss

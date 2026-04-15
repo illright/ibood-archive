@@ -1,12 +1,12 @@
-_id: 69d4b950cd8c24113cf39653
+_id: 69ddfb37d74a93e6eba955fb
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - f48c0fee-75cc-5412-b7b9-3b5f6c2fe78b
-classicId: '3144968'
+  - e5efeaec-0d64-56dc-98bf-db92e443b557
+classicId: '3158700'
 classicProductId: '346681'
 deliveryPrice:
   cents: 895
@@ -14,31 +14,30 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 61
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: f6095b1c-bcff-4140-a679-8fe90df67708
+id: 02665f83-a2ad-41ea-8154-42e9ba8e7db2
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4af381e2-5f10-464b-ad33-72eb83aea692-tr
+  extension: jpg
+  id: 1099266
   priority: 0
-  slug: joseph-joseph-tota-wasmand-60-liter-jpg-product-4
+  slug: joseph-joseph-tota-wasmand-60-liter
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1898679
+  extension: jpg
+  id: 1099066
   priority: 100
-  slug: joseph-joseph-logo
+  slug: joseph-joseph-tota-wasmand-60-liter
   type: logo
-offerId: 187b8315-42f4-4c41-ab9e-5bef3ad23597
+offerId: 0dd9647e-02fc-4841-be72-2dae3617c0e6
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 129
 slug: joseph-joseph-tota-wasmand-60-liter
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Joseph Joseph Tota Wasmand | 60 liter

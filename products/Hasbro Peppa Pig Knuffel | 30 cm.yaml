@@ -1,12 +1,12 @@
-_id: 69c1494d7604145fd0cec3a0
+_id: 69de0a81228b4e41342595ad
 appOnly: false
 brand: HASBRO
 brands:
   - id: cac571e6-1496-5928-9e99-1b92d9fa21c4
     name: HASBRO
 categories:
-  - 04389aec-e491-54cf-a9d2-5a92df8eedbc
-classicId: '3101614'
+  - 68e1301a-2812-515f-a854-def27165553e
+classicId: '3159983'
 classicProductId: '701555'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: e08e2356-16ae-511b-a2d3-4e27639016a9
+id: 84b97206-e609-4207-8305-04218d6722d7
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 12aaaaae-996a-43a6-84c3-762e834a043b
-  priority: 0
-  slug: hasbro-png-logo-0
+  extension: png
+  id: 1744551
+  priority: 100
+  slug: hasbro-logo
   type: logo
-offerId: c7cdd0c0-9edd-5dde-8980-86ff9138df6b
+offerId: 5f6bef7e-3492-47c2-84d6-8a19ddbe2b79
 price:
   cents: 795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 14.95
 slug: hasbro-peppa-pig-knuffel-30-cm
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Hasbro Peppa Pig Knuffel | 30 cm

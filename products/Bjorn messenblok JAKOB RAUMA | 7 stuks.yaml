@@ -1,12 +1,12 @@
-_id: 69cd1d160967e0a9ae4f4e0b
+_id: 69ddfd70f4aadb52e330b82b
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - c8f5782d-e777-54f9-97d7-99f8e38023b6
-classicId: '3138640'
+  - 23f01cf6-d98f-55f1-9774-39000a638d98
+classicId: '3159471'
 classicProductId: '703718'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 37add55c-ce9a-5c6c-93de-a3b51c6e8ae2
+id: a7b5bc24-c89b-4b88-b7e2-7ffe59531671
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: bjorn-kitchen-knife-block-jakob-rauma-7-pieces-product-0
   type: product
-offerId: 7c2725ef-1a9e-5929-9b44-095e2cbe7798
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1619105
+  priority: 100
+  slug: bjorn-logo
+  type: logo
+offerId: 150dbb0b-f371-4d4e-bde7-37a0229ef200
 price:
   cents: 9995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 249.9
 slug: bjorn-mes-blok-jakob-rauma-7-delig
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Bjorn messenblok JAKOB RAUMA | 7 stuks

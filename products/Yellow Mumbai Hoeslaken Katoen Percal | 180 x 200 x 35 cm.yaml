@@ -1,12 +1,12 @@
-_id: 69d4fabe3f3c76810e41bd24
+_id: 69de2eeee5d23dea43c2f6ef
 appOnly: false
 brand: Yellow
 brands:
   - id: e97b3863-595d-5f30-8cfe-81f988cfb3b2
     name: Yellow
 categories:
-  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
-classicId: '3148488'
+  - 637490ee-725e-5f0c-9abc-a14dcc2c20b3
+classicId: '3161209'
 classicProductId: '651009'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: cdc82a5f-14ee-413c-b509-1810ae6c7c1a
+id: 417b418e-7855-45ca-9a6e-26af5c05b232
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: dc038462-05ff-46a3-98d0-dd1c90e52d0e
+  id: 6a177d1c-4a23-4637-8596-e5e14ffa64fd
   priority: 0
-  slug: yellow-04-png-product-1
+  slug: yellow-10-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1632566
-  priority: 100
-  slug: yellow-logo
+    - all
+  extension: image/png
+  id: 51475fc2-3502-4a93-927d-8ff79ca634f4
+  priority: 0
+  slug: yellow-png-logo-0
   type: logo
-offerId: 5d25f220-2c55-4ab2-ad91-f177367a65c7
+offerId: c7e8d65a-8e38-4709-b43c-e40bbb0b1870
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 79.95
 slug: yellow-mumbai-hoeslaken-katoen-percal-180-x-200-x-35-cm
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Yellow Mumbai Hoeslaken Katoen Percal | 180 x 200 x 35 cm

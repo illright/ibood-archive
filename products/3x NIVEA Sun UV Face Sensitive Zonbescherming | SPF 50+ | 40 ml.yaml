@@ -1,12 +1,12 @@
-_id: 69d63c67746c7d2a1fa85ee0
+_id: 69de4d66b0e8c12ec0705d1f
 appOnly: false
 brand: Nivea Sun
 brands:
   - id: a2170227-a9c4-50d7-9452-5dc927159020
     name: Nivea Sun
 categories:
-  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
-classicId: '3152020'
+  - 14f56166-63bb-5082-bb9c-c34ab92589c7
+classicId: '3162696'
 classicProductId: '699331'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: b9fe028f-0642-4ef1-a9e3-5d67f881a6cc
+id: 74999139-ca9d-4684-8110-a0c5ab1a7865
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1779844
-  priority: 100
-  slug: 3x-ph-spray-spf50-200ml
+    - all
+  extension: image/png
+  id: 0c976cd9-968c-4a49-a9f5-b81051831b33
+  priority: 101
+  slug: nivea-sun-logo-101
   type: logo
-offerId: 33c2d90d-de98-4dd3-b1fe-9f0f8c65b060
+offerId: 7e8b522c-b226-47cc-808e-9dab82f535f8
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 53.97
 slug: 3x-nivea-sun-uv-face-sensitive-zonbescherming-spf-50-40-ml
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 3x NIVEA Sun UV Face Sensitive Zonbescherming | SPF 50+ | 40 ml

@@ -1,34 +1,31 @@
-_id: 69d4fab8ad70b49497440f67
+_id: 69de2ee0988ac162203418dc
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
-classicId: '3148476'
-classicProductId: '208880'
+  - 637490ee-725e-5f0c-9abc-a14dcc2c20b3
+classicId: '3161200'
+classicProductId: '175092'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: a4aa6975-abae-4858-8ce2-2a1643c1e87e
+id: f922a0dd-8829-45ad-800f-5896ac2e1369
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: ff1ca1ff-1593-4936-a4e8-bcf933bff48e-tr
+  extension: png
+  id: 1459611
   priority: 0
-  slug: tc-grey-png-product-12-png-product-0
+  slug: overtrek-satijn-140-x-200220-cm
   type: product
 logo:
   channels:
@@ -41,7 +38,7 @@ logo:
   priority: 0
   slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 20a78d8d-6c46-40a0-b734-ab9ce812741c
+offerId: 13873071-1fc7-4621-baa8-385b3974ac2f
 price:
   cents: 2795
   currency: EUR
@@ -51,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 79.95
 slug: overtrek-satijn-140-x-200220-cm
-soldOut: true
-start: '2026-04-07T22:00:00.000Z'
+soldOut: false
+start: '2026-04-14T22:00:00.000Z'
 title: Ten Cate Dekbedovertrek Satijn | 140 x 200/220 cm

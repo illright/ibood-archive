@@ -1,22 +1,22 @@
-_id: 69d5092b5c6074630743acc7
+_id: 69ddeafc2390bfb13c42c535
 appOnly: false
 brand: VAUDE
 brands:
   - id: 5bd79664-1a7d-5922-b8fe-f12f6f6be54e
     name: VAUDE
 categories:
-  - 61dbe380-3efc-5c28-8c67-4fc8215a60bc
-classicId: '3149671'
+  - 5d738666-c1cb-53af-b97e-074ce2fbd32d
+classicId: '3158180'
 classicProductId: '680006'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 67
-end: '2026-04-14T21:59:59.999Z'
+directCheckout: false
+discount: 70
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: e916feb8-230d-4a70-b069-759c4e30f5f8
+id: e7b0112c-f86b-4f2d-82c0-ec2eadee63e6
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 90dc0198-7c8d-42ca-9703-c6c98c146e3d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1735071
+  priority: 100
+  slug: vaude-logo
+  type: logo
+offerId: fecc57b7-eb64-49c4-b74d-54f53a803dcb
 price:
-  cents: 10000
+  cents: 9000
   currency: EUR
-  value: 100
+  value: 90
 referencePrice:
   cents: 30000
   currency: EUR
   value: 300
 slug: vaude-monviso-2-5-layer-hardshell-jacket-heren
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Vaude Monviso 2,5-Layer Hardshell Jacket | Heren

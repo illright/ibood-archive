@@ -1,12 +1,12 @@
-_id: 69d602ec2200a251fa3d33db
+_id: 69dcd21c0086065400364c7f
 appOnly: false
 brand: Amacx
 brands:
   - id: 3d88b718-6e78-5d35-bd6e-1ffadeeaa033
     name: Amacx
 categories:
-  - 405a701b-1472-5f3c-a276-adb01af7077d
-classicId: '3150172'
+  - 8498abaa-2ebf-51a4-824d-cc3ee166d19e
+classicId: '3157429'
 classicProductId: '701547'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 7b6db3b6-fd1b-4174-9fb9-610f473a620f
+id: f2b5afe7-01c7-41c0-beb0-29c161b2f95e
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 922aff2a-0cc7-4351-a963-278c6e17be14
-  priority: 0
-  slug: amacx-04-png-product-1
+  id: ea852fd9-9898-41c1-9245-fcc9480ea5dc
+  priority: 1
+  slug: amacx-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: amacx-logo
   type: logo
-offerId: ddbda483-e8f7-42a4-a47b-cb039ddc15ec
+offerId: 90627927-58e8-4a37-b85e-88b586864e9d
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 85.9
 slug: 24x-amacx-turbo-gel-cassis-60-ml
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 24x Amacx Turbo Gel Cassis | 60 ml

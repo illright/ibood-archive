@@ -1,12 +1,12 @@
-_id: 69d50404746c7d2a1fa8583c
+_id: 69de0ac8008606540036516c
 appOnly: false
 brand: Nerf
 brands:
   - id: 06a9847e-0911-5c48-9a0a-aeae2563c197
     name: Nerf
 categories:
-  - a47ee7bb-95c9-5865-9f1b-500bfffe34be
-classicId: '3149153'
+  - 68e1301a-2812-515f-a854-def27165553e
+classicId: '3160080'
 classicProductId: '700354'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 43
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 063cbb0a-67e1-4e30-96ab-32238e0ca15b
+id: 9631cd2e-be29-455f-83b8-7607ec170b34
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a9bd357e-8b6d-41dc-9e64-9a3650cc8048
-  priority: 0
-  slug: nerf-logo-png-logo-0
+  extension: png
+  id: 1740939
+  priority: 100
+  slug: nerf-logo
   type: logo
-offerId: fced0364-6103-4f0b-af2e-72747a52efd5
+offerId: 68c05cde-67e9-450f-b3fd-2e65f52b83cb
 price:
   cents: 1695
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: nerf-alpha-strike-blaster
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Nerf Alpha Strike Blaster

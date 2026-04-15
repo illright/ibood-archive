@@ -1,12 +1,12 @@
-_id: 69d4e29fcd8c24113cf39e86
+_id: 69ddf5f00086065400364f66
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - d978fc23-e6e6-55c8-b1ee-7a9862c3f94f
-classicId: '3147120'
+  - c26fa996-a735-56ac-9430-3beff2b8a968
+classicId: '3158564'
 classicProductId: '626695'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 67
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 1899be64-27d3-4814-acc9-efaa0035f035
+id: 8be5d4dd-1f3d-4a46-90b4-d1f6e9ae7a96
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: cruyff-sports-league-t-shirt-kids
   type: product
-offerId: 4260a1ab-c4d1-47fa-b64a-19d6b5c8ddb8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2201611
+  priority: 100
+  slug: cruyff-sports-league-t-shirt-kids
+  type: logo
+offerId: 91de51c7-6d4a-493d-a82d-e0ea8ead72e2
 price:
   cents: 1000
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 29.95
 slug: cruyff-sports-league-t-shirt-kids
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Cruyff Sports League T-Shirt | Kids

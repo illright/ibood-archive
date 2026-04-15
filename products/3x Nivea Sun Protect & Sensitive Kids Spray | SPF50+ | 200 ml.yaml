@@ -1,12 +1,12 @@
-_id: 69d63c5a2200a251fa3d3715
+_id: 69de4d594762fc114248307f
 appOnly: false
 brand: Nivea Sun
 brands:
   - id: a2170227-a9c4-50d7-9452-5dc927159020
     name: Nivea Sun
 categories:
-  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
-classicId: '3152005'
+  - 14f56166-63bb-5082-bb9c-c34ab92589c7
+classicId: '3162678'
 classicProductId: '699326'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: ed23aca0-3341-48a0-a9bd-90d6694d9380
+id: 521c03d2-c854-4ed4-adb2-54e3d275ecc8
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1779844
-  priority: 100
-  slug: 3x-ph-spray-spf50-200ml
+    - all
+  extension: image/png
+  id: 0c976cd9-968c-4a49-a9f5-b81051831b33
+  priority: 101
+  slug: nivea-sun-logo-101
   type: logo
-offerId: f6c0c2e8-94f5-4bc5-bb86-7bf68503daa1
+offerId: e3638dae-2340-4598-ab81-f4c5bfc46416
 price:
   cents: 2795
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 86.97
 slug: 3x-nivea-sun-protect-sensitive-kids-spf50
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 3x Nivea Sun Protect & Sensitive Kids Spray | SPF50+ | 200 ml

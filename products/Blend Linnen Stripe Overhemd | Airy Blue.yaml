@@ -1,4 +1,4 @@
-_id: 69dc53d1e5d23dea43c2dcc1
+_id: 69b405532d9c20206e1db4f8
 appOnly: false
 brand: Blend
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Blend
 categories:
   - c1be00c1-9512-5361-b8db-b38a242dc5af
-classicId: '3155629'
+classicId: '3082172'
 classicProductId: '699034'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 40
 end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: 4aa5c32d-c60f-49cc-89b2-b66f6c38cdd1
+id: ce263443-6b07-5ad1-968f-84efabcc373f
 image:
   channels:
     - app
@@ -30,20 +30,23 @@ image:
   priority: 0
   slug: xxl-airy-blue-20720224-900002389-bhbobby-linen-stripe-long-sleeve-men-blend-product-4
   type: product
-offerId: bbdd6f9a-f0bf-4682-a933-774f95db4ae4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2ede5681-396a-4339-b6b0-df7544e3a743
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: e263b672-2932-5278-9d99-9286ef7ac63a
 price:
   cents: 2995
   currency: EUR
   value: 29.95
 referencePrice:
-  cents: 4995
-  currency: EUR
-  value: 49.95
-slug: blend-linnen-stripe-overhemd-airy-blue
-soldOut: false
-start: '2026-04-12T22:00:00.000Z'
-title: Blend Linnen Stripe Overhemd | Airy Blue
-erencePrice:
   cents: 4995
   currency: EUR
   value: 49.95

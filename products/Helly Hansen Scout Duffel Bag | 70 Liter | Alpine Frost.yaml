@@ -1,12 +1,12 @@
-_id: 69d508f89d30757c77dade0d
+_id: 69ddeb1cf4aadb52e330b590
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - c9f7821e-2d26-555b-958c-bcb36a991aa4
-classicId: '3149612'
+  - d7a4b54c-4ab3-5e07-8173-2b847b47aa8b
+classicId: '3158165'
 classicProductId: '697349'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 1e6a8ad0-c55e-4fae-b939-f8144fe0227f
+id: 3bfb0834-d3f1-471c-8e9b-8038235352cc
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b158a2ec-9e9d-4a36-a0fc-d9c52ddeddad
-  priority: 0
-  slug: helly-hansen-2023-png-logo-0
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
   type: logo
-offerId: e14f6301-4524-4ebe-8a15-ebd49a5b1136
+offerId: d9863528-d95c-4bdf-8d9f-b018258f623a
 price:
   cents: 6495
   currency: EUR
@@ -51,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 110
 slug: helly-hansen-scout-duffel-bag-70-liter-alpine-frost
-soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+soldOut: true
+start: '2026-04-14T22:00:00.000Z'
 title: Helly Hansen Scout Duffel Bag | 70 Liter | Alpine Frost

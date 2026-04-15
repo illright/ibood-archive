@@ -1,12 +1,12 @@
-_id: 69d4fb2bcd8c24113cf3a56a
+_id: 69de2d03f4aadb52e330c5cb
 appOnly: false
 brand: Seahorse
 brands:
   - id: 272e7684-ef36-5d4e-9c53-c336f48ffff6
     name: Seahorse
 categories:
-  - 6cf92da1-e54d-5fb7-9d3e-fa93aa554398
-classicId: '3148708'
+  - 1dc7aaab-c0c2-5dbb-9845-1fbdee9d89a5
+classicId: '3160918'
 classicProductId: '213466'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 5c8e9eee-7a95-48ba-8d95-21c5fbc252b0
+id: b660deee-7f96-46db-9cfd-a223422b8ac7
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5a126d1e-f414-46a4-b5b4-271af8a141ed-tr
+  extension: jpg
+  id: 1233361
   priority: 0
-  slug: recznik-plazowy-seahorse-100-x-180-cm-jpg-product-45
+  slug: strandlaken-100-x-180-cm
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: seahorse-logo
   type: logo
-offerId: 9c641b65-f329-41e6-ae68-e302fed995a6
+offerId: 0282301b-f17d-4279-b8d4-fd87199f8c5d
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 59.95
 slug: strandlaken-100-x-180-cm
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Seahorse Strandlaken | 100 x 180 cm

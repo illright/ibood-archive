@@ -1,22 +1,22 @@
-_id: 69d4b9b7244c8eb0a53ef558
+_id: 69ddfc52d74a93e6eba956b3
 appOnly: false
 brand: Organess
 brands:
   - id: 17997cee-809c-5786-be0a-f3462d55922e
     name: Organess
 categories:
-  - c8f5782d-e777-54f9-97d7-99f8e38023b6
-classicId: '3145274'
+  - 23f01cf6-d98f-55f1-9774-39000a638d98
+classicId: '3159086'
 classicProductId: '693902'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 42
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 0f778ea5-ebb9-4415-8631-a6f0cc912853
+id: f2343a77-37e6-46e4-a3b0-4a4cbe5f70f5
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 68b48ffc-81e4-4423-8961-c9afb25e6fc1
+  id: 47028095-7f85-4c5c-b815-ec768d3b8e0c
   priority: 0
-  slug: organess-01-png-product-1
+  slug: mainkruiden-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: organess-logo-0
   type: logo
-offerId: 92fc7b16-360c-49e2-b3fe-15cb92d0bef5
+offerId: 2d92d72f-8ed5-46d5-84f9-9dda6192e345
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 59.95
 slug: organess-kruidenrek-liggend-acacia-28-potjes
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Organess Kruidenrek Liggend | Acacia | 28 potjes

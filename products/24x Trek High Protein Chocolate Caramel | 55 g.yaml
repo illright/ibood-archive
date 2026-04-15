@@ -1,12 +1,12 @@
-_id: 69d4f6d6746c7d2a1fa85445
+_id: 69de4de24762fc11424831e6
 appOnly: false
 brand: Trek
 brands:
   - id: 04292f61-7ba0-51be-98a1-3b687dafef7e
     name: Trek
 categories:
-  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
-classicId: '3148232'
+  - 14f56166-63bb-5082-bb9c-c34ab92589c7
+classicId: '3162910'
 classicProductId: '702935'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 0d28b990-841e-4fae-a9ff-0d44b2c44525
+id: 5256781b-07e9-4cb8-b175-7b66e3ef741e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b6330c00-a6ab-4f27-8010-de4606b1af9f
-  priority: 0
-  slug: trek-png-logo-0
+  extension: png
+  id: 1905136
+  priority: 100
+  slug: trek-logo
   type: logo
-offerId: 3a5c63a3-5ccd-4e8f-9226-dae2cb471c39
+offerId: 87b26cae-231b-4376-a1c1-11c59a246ac6
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 64.56
 slug: 24x-trek-high-protein-chocolate-caramel-55-g
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 24x Trek High Protein Chocolate Caramel | 55 g

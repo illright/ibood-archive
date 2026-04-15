@@ -1,12 +1,12 @@
-_id: 69cd1a128a05da56c5601608
+_id: 69ddfd2ef4aadb52e330b7cd
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - c8f5782d-e777-54f9-97d7-99f8e38023b6
-classicId: '3138610'
+  - 23f01cf6-d98f-55f1-9774-39000a638d98
+classicId: '3159376'
 classicProductId: '165082'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 68
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 684e7f38-f195-5b55-b95a-f4b716b9dc82
+id: 3598f639-d861-408a-89b2-7938f0e974c6
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 63d37d07-9c7c-4348-a971-cc316f9af19e-tr
+  extension: jpg
+  id: 689048
   priority: 0
-  slug: bjorn-pattern-geschirrset-42-teilig-1-jpg-product-1
+  slug: bjorn-the-full-service-serviesset-42-delig
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: bjorn-logo
   type: logo
-offerId: e67a59ad-5bf9-5839-822d-b034e6e7f3d4
+offerId: 859734c6-db52-45c6-a267-05506b698628
 price:
   cents: 15900
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 489.9
 slug: bjorn-the-full-service-serviesset-42-delig
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Björn The Full Service Serviesset | 42-delig

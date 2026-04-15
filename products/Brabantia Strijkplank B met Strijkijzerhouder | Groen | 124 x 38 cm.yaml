@@ -1,12 +1,12 @@
-_id: 69d4b957020d0c0f9c6d9411
+_id: 69ddfb4d897537f785d136ce
 appOnly: false
 brand: Brabantia
 brands:
   - id: 16d65324-cfd8-5d65-8fb7-91add7d04dc7
     name: Brabantia
 categories:
-  - f48c0fee-75cc-5412-b7b9-3b5f6c2fe78b
-classicId: '3144995'
+  - e5efeaec-0d64-56dc-98bf-db92e443b557
+classicId: '3158737'
 classicProductId: '697520'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 41
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 46bdf581-74c2-4db3-8486-868e7d90de30
+id: 2331b445-7ab8-41f1-a73d-7e476032e957
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 219665-brabantia-strijkplank-b-124x38-cm-calm-rustle-met-solide-stoomunithouder-white-22-product-4
   type: product
-offerId: ae651796-e709-4c62-8e95-b76556e5fea2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2032387
+  priority: 100
+  slug: brabantia-logo
+  type: logo
+offerId: 48a9b79f-5d36-476b-918d-78d7545ce208
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119
 slug: brabantia-bugelplank-b-met-strijkijzerhouder-groen-124-x-38-cm
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Brabantia Strijkplank B met Strijkijzerhouder | Groen | 124 x 38 cm

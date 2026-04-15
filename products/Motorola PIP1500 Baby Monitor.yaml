@@ -1,12 +1,12 @@
-_id: 69c149ae0009db9693f18032
+_id: 69de0a65f4aadb52e330b8fa
 appOnly: false
 brand: MOTOROLA
 brands:
   - id: 719378bc-ffb3-593c-b0fb-eb57854ecd83
     name: MOTOROLA
 categories:
-  - 04389aec-e491-54cf-a9d2-5a92df8eedbc
-classicId: '3101616'
+  - 68e1301a-2812-515f-a854-def27165553e
+classicId: '3159944'
 classicProductId: '701560'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: c073c8ec-b4e7-5120-b340-2a151438d518
+id: 1e2540cb-9e1c-48ac-b010-30fb07e3f0e4
 image:
   channels:
     - app
@@ -30,16 +30,14 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9f6a7e08-1d7f-4e10-9070-17e7650d8de8
-  priority: 0
-  slug: motorola-png-logo-0
+  id: 689816
+  priority: 100
+  slug: motorola-logo
   type: logo
-offerId: 4fb9ae79-d119-54fc-b172-e16f5dfe8f6b
+offerId: 371113d5-01f9-48ae-a455-50a2d3018f87
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +48,5 @@ referencePrice:
   value: 119
 slug: motorola-pip1500-baby-monitor
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Motorola PIP1500 Baby Monitor

@@ -1,12 +1,12 @@
-_id: 69d4e2c2746c7d2a1fa850cb
+_id: 69ddf58f0086065400364ef7
 appOnly: false
 brand: Mizuno
 brands:
   - id: 4fec73e8-8c86-58da-9eab-cfab3a20a37b
     name: Mizuno
 categories:
-  - d978fc23-e6e6-55c8-b1ee-7a9862c3f94f
-classicId: '3147142'
+  - c26fa996-a735-56ac-9430-3beff2b8a968
+classicId: '3158442'
 classicProductId: '651333'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 5f16e544-3836-491c-b5f8-e1ac9d20233d
+id: 07f9ce9a-0c8d-421f-9a5f-f63c54430981
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1807305
-  priority: 100
-  slug: mizuno-logo
+    - all
+  extension: image/png
+  id: 1f31668f-4bc9-4b0c-b550-b72dcde2a4d6
+  priority: 0
+  slug: mizuno-logo-png-logo-0
   type: logo
-offerId: f21f7fc0-6de3-4ff9-b41b-1f8e1383ba58
+offerId: ec60e67c-f48b-4a45-a8a2-2aceec6d487b
 price:
   cents: 6000
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 100
 slug: mizuno-revolt-4-hardloopschoenen
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Mizuno Revolt 4 Hardloopschoenen | Heren en Dames

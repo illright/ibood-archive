@@ -1,12 +1,12 @@
-_id: 69ca3646cdbd253bcced6f63
+_id: 69de4e04988ac162203425f1
 appOnly: false
 brand: Veet
 brands:
   - id: fb05e723-207e-53e0-842b-91ba451dcca6
     name: Veet
 categories:
-  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
-classicId: '3127836'
+  - 14f56166-63bb-5082-bb9c-c34ab92589c7
+classicId: '3162972'
 classicProductId: '702071'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 1bc2f7e8-810a-5088-9504-a4141d7ad5d1
+id: 188f9f6c-4a49-4163-9725-350f4112729c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c8fbaf85-6535-4ce5-8aa5-193290ac9e51
-  priority: 0
-  slug: veet-men-png-logo-0
+  extension: png
+  id: 1536024
+  priority: 100
+  slug: veet-logo
   type: logo
-offerId: d131d39b-fd5a-50ca-b8eb-779b8a915860
+offerId: 20a289fc-f7f8-487f-99b6-10a2de2febfc
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 54.48
 slug: 6x-veet-men-ontharingscreme-200-ml
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 6x Veet Men Ontharingscrème | Gevoelige Huid | 200 ml

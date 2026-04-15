@@ -1,12 +1,12 @@
-_id: 69a8394b68012cc2541b0c71
+_id: 69ddea75a9f7722d56058d97
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - c9f7821e-2d26-555b-958c-bcb36a991aa4
-classicId: '3059054'
+  - d7a4b54c-4ab3-5e07-8173-2b847b47aa8b
+classicId: '3158126'
 classicProductId: '697308'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 46
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 8066a6ad-2f7a-5570-9644-990b82b56f2d
+id: fb999135-e929-4791-abd1-02fd6dc6ddb5
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: l-red-30229-162-l-crew-fleece-jacket-helly-hansen-product-0
   type: product
-offerId: 3e67c361-aada-561d-976d-5b828311d567
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
+  type: logo
+offerId: f44c02dc-f092-4baa-9e40-78b7da16488d
 price:
   cents: 6995
   currency: EUR
@@ -39,12 +49,6 @@ referencePrice:
   value: 130
 slug: helly-hansen-crew-fleecejack-heren
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Helly Hansen Crew Fleecejack | Heren
-00
-  currency: EUR
-  value: 130
-slug: helly-hansen-crew-fleecejack-heren
-soldOut: false
-start: '2026-04-07T22:00:00.000Z'
-title: Helly Hansen Crew Fleecejack | Heren
+w Fleecejack | Heren

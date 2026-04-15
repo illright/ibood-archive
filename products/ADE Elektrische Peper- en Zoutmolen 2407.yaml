@@ -1,12 +1,12 @@
-_id: 69d4ba208f5a8c68a7659e7f
+_id: 69ddfd460086065400365048
 appOnly: false
 brand: Graef
 brands:
   - id: c6a19d50-8bb4-5344-9ffa-709adb4917e3
     name: Graef
 categories:
-  - c8f5782d-e777-54f9-97d7-99f8e38023b6
-classicId: '3145491'
+  - 23f01cf6-d98f-55f1-9774-39000a638d98
+classicId: '3159419'
 classicProductId: '661778'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 5142c616-a430-48bd-b5e1-4111cdc9ded1
+id: dce42225-60f5-4258-b401-19f7473a1fb4
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 2407-ade-peper-en-zoutmolen-elektrisch-product-0
   type: product
-offerId: 2c832801-4f9e-4b1d-8af7-3d1a4e696b64
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3d1f7db2-2b75-4dc2-ab01-6bd647c8d916
+  priority: 0
+  slug: graef-logo-0
+  type: logo
+offerId: 52a23161-78f9-4906-a2cc-29944aa833fb
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 59.99
 slug: ade-elektrisch-peperzout-mill-2407
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: ADE Elektrische Peper- en Zoutmolen 2407

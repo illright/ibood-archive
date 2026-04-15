@@ -1,12 +1,12 @@
-_id: 69d4f50d746c7d2a1fa85281
+_id: 69de4bec4762fc1142482e46
 appOnly: false
 brand: Bolsius
 brands:
   - id: 96ec547b-ffbd-5fc2-b03f-f14679a99f8d
     name: Bolsius
 categories:
-  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
-classicId: '3147569'
+  - 14f56166-63bb-5082-bb9c-c34ab92589c7
+classicId: '3162260'
 classicProductId: '597605'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 44a8b748-1694-49a2-bf66-248e0d57f3e4
+id: 007f3013-6e81-4ecf-b0c8-52d57e8f6aac
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1580436
-  priority: 100
-  slug: bolsius-logo
+    - all
+  extension: image/png
+  id: 724d4312-baee-4d96-8ad2-1f052709957a
+  priority: 0
+  slug: bolsius-png-logo-0
   type: logo
-offerId: 972cf74a-b508-4377-b99f-92e8a2c8f758
+offerId: 615c386b-55dd-4b09-932c-15ade981fc0c
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 62.94
 slug: 6x-bolsius-true-joy-oriental-softness-geurstokjes-80-ml
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 6x Bolsius True Joy Oriental Softness Geurstokjes | 80 ml

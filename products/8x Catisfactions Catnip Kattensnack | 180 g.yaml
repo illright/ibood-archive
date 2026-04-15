@@ -1,12 +1,12 @@
-_id: 69d4f537cd8c24113cf3a157
+_id: 69de4c2f988ac1622034222c
 appOnly: false
 brand: CATISFACTIONS
 brands:
   - id: 032a2962-513a-5d1b-9af4-98bf40dadd21
     name: CATISFACTIONS
 categories:
-  - b88fe01e-b445-5dfe-8e5d-36fdffeb0a6d
-classicId: '3147671'
+  - 14f56166-63bb-5082-bb9c-c34ab92589c7
+classicId: '3162311'
 classicProductId: '701077'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 34295069-3a0d-4b47-aa99-f6bd64cb24ce
+id: 2b15fb21-dc7d-46a9-a4a6-df03b18665d0
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: catisfactions-02-png-product-1
   type: product
-offerId: 3f4eafa3-0e20-4570-a3f2-aad8ad910e0b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1812736
+  priority: 100
+  slug: catisfactions-logo
+  type: logo
+offerId: 26e9e05b-49d5-44a7-8bc6-211bb4990f0d
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 45.52
 slug: 8x-catisfactions-catnip-kattensnack-180-g
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 8x Catisfactions Catnip Kattensnack | 180 g

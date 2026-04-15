@@ -1,12 +1,12 @@
-_id: 69d4fae4746c7d2a1fa855cb
+_id: 69de2f2af4aadb52e330c833
 appOnly: false
 brand: Heckett Lane
 brands:
   - id: e4aab67a-916d-5500-9121-6fb22731dc9a
     name: Heckett Lane
 categories:
-  - 8032fcdd-236a-572f-961e-f3349ff7ec6d
-classicId: '3148554'
+  - 637490ee-725e-5f0c-9abc-a14dcc2c20b3
+classicId: '3161250'
 classicProductId: '387981'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 538ecf79-bc7a-4a08-a6f0-fff82a55a763
+id: 9046a3cf-7b1e-41dc-9bad-96429945571c
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 22b7114d-fe61-4764-9c5f-531bed6517aa
-  priority: 0
-  slug: heckett-lane-elementi-spannbettlaken-140-x-200-jpg-product-101-png-product-101
+  extension: jpg
+  id: 1685506
+  priority: 100
+  slug: elementi-hoeslaken-90-x-200-210-220-cm
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: heckett-lane-logo
   type: logo
-offerId: 03711ec6-3668-4585-963b-9084768834b8
+offerId: 26d96034-f015-4230-830f-f78098f327c8
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 57.95
 slug: elementi-hoeslaken-90-x-200-210-220-cm
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Heckett Lane Elementi Hoeslaken | 90 x 200 / 210-220 cm

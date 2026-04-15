@@ -1,12 +1,12 @@
-_id: 69ca8cd04fe6bbfeb8fae393
+_id: 69ddf59b1b26269ffa8605c4
 appOnly: false
 brand: Cruyff
 brands:
   - id: ac6dc579-3d41-563b-bc45-22b7dda072a3
     name: Cruyff
 categories:
-  - af17493e-c67f-5b9b-9d6d-4c09aa4c7d9a
-classicId: '3129988'
+  - 8c7c750d-9952-57d0-97f2-9b053f714a02
+classicId: '3158458'
 classicProductId: '703106'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: f7168594-9c6a-5b7e-8066-59bc2e6e933e
+id: e4ceec85-5f6e-495e-b058-0f18db37ab31
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: o-s-black-csa261302-998-entreno-duffle-backpack-unisex-cruyff-product-1
   type: product
-offerId: 12228384-dd32-5919-914e-7e352efdf5e0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1560940
+  priority: 100
+  slug: cruyff-logo
+  type: logo
+offerId: 4ca93add-deaf-48dd-8f7f-dffbced72b43
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: cruyff-entreno-duffle-bag-zwart-20-liter
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Cruyff Entreno Duffle Bag | Zwart | 20 Liter

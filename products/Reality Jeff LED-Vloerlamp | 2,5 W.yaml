@@ -1,12 +1,12 @@
-_id: 69d50475cd8c24113cf3a850
+_id: 69de183aec662d7857dbc0e8
 appOnly: false
 brand: Reality
 brands:
   - id: 68f08060-5567-5269-a037-e62decf8511d
     name: Reality
 categories:
-  - c28a6f98-16c9-5195-9258-06da36c8c88b
-classicId: '3149409'
+  - c17acebd-ecbb-597d-a822-3f57fec4dfd1
+classicId: '3160820'
 classicProductId: '639700'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 29d22a2e-5210-41d7-97a7-06fc952ec6bb
+id: 13f61718-ce0d-4b08-b125-ccdb674e9640
 image:
   channels:
     - website
@@ -27,7 +27,18 @@ image:
   priority: 100
   slug: reality-jeff-led-vloerlamp-25-w
   type: product
-offerId: 8aa190ba-d72c-43f5-b9eb-84a64b66dc15
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 207fb9f8-97b3-4c5c-9699-d228c4a3b97f
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: efb98b5c-95dc-4245-9f63-8929652ec5aa
 price:
   cents: 4995
   currency: EUR
@@ -38,5 +49,5 @@ referencePrice:
   value: 89.99
 slug: reality-jeff-led-vloerlamp-25-w
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Reality Jeff LED-Vloerlamp | 2,5 W

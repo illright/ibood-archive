@@ -1,12 +1,12 @@
-_id: 69b92f321625a73ca1ca578f
+_id: 69de0a56f4aadb52e330b8d0
 appOnly: false
 brand: Pinolino
 brands:
   - id: 10464502-330e-51e0-bc5e-f93ca2e5ba39
     name: Pinolino
 categories:
-  - 04389aec-e491-54cf-a9d2-5a92df8eedbc
-classicId: '3086410'
+  - 68e1301a-2812-515f-a854-def27165553e
+classicId: '3159931'
 classicProductId: '630068'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: c5f79cd4-2ed2-5345-a298-9502a7e09445
+id: 4acad343-71a5-4d98-af2a-0c93621051c4
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2207916
-  priority: 100
-  slug: pinolino-lotta-houten-glijbaan
+    - all
+  extension: image/png
+  id: ebd674ec-2626-48d9-854e-bffbad15c613
+  priority: 0
+  slug: pinolino-logo-0
   type: logo
-offerId: a8115de4-b689-59e7-a448-68f95631fe6a
+offerId: e6c2357b-b2ed-4ef2-9981-83eedfded7aa
 price:
   cents: 8995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 150
 slug: pinolino-lotta-houten-glijbaan
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Pinolino Lotta Houten Glijbaan

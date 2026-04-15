@@ -1,12 +1,12 @@
-_id: 69d504142200a251fa3d31d3
+_id: 69de0a6fe5d23dea43c2e8fe
 appOnly: false
 brand: DKNC
 brands:
   - id: 7076d636-e45d-5110-99d4-44a888f46ffd
     name: DKNC
 categories:
-  - 55ab2b73-4b64-519b-b142-0492183cf0a0
-classicId: '3149182'
+  - 31355c26-cc7d-5a79-9df3-e842f84a2592
+classicId: '3159956'
 classicProductId: '681866'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 66
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: d34c311f-c2dc-4d1a-a6a3-3a1148ce2569
+id: b4607f4d-1b6b-44a9-a747-1052dbbeb274
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: dknc-04-png-product-1
   type: product
-offerId: 870a69ae-4cee-4f53-9dc6-b22080405309
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7a59edee-b28f-4614-a1cb-fcd8667f2d9e
+  priority: 0
+  slug: dknc-logo-0
+  type: logo
+offerId: db181018-6fcc-45c4-bcb1-aa3bbf844ff9
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 87.5
 slug: dknc-wanddecoratie-linnen-met-ophanghaak-bloemen-117-x-3-x-147-cm
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: DKNC Wanddecoratie | Linnen met ophanghaak | Bloemen | 117 x 3 x 147 cm

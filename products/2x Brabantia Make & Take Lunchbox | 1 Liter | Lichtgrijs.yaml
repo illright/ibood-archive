@@ -1,12 +1,12 @@
-_id: 69d4b9d2f8392f6954c5145c
+_id: 69ddfcda897537f785d1384a
 appOnly: false
 brand: Brabantia
 brands:
   - id: 16d65324-cfd8-5d65-8fb7-91add7d04dc7
     name: Brabantia
 categories:
-  - c8f5782d-e777-54f9-97d7-99f8e38023b6
-classicId: '3145319'
+  - 23f01cf6-d98f-55f1-9774-39000a638d98
+classicId: '3159259'
 classicProductId: '697777'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 4f8848ef-cc2d-4004-9315-9012104e2547
+id: 7873b11d-75a6-488a-b464-541bb8c84955
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 206184-brabantia-make-take-lunchkom-1-liter-kunststof-light-grey-product-3
   type: product
-offerId: c7eae792-f0c7-4064-acef-66951db9e6cd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2032387
+  priority: 100
+  slug: brabantia-logo
+  type: logo
+offerId: 5952f803-e161-4d8f-8608-a72d63f901af
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 25.9
 slug: 2x-brabantia-make-take-lunchbox-1-liter-lichtgrijs
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 2x Brabantia Make & Take Lunchbox | 1 Liter | Lichtgrijs

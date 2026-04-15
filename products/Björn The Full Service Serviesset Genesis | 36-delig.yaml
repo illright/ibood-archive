@@ -1,28 +1,29 @@
-_id: 69cd19f319b288590a9b59af
+_id: 69ddfca1eaa2b91f3fb2481c
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - c8f5782d-e777-54f9-97d7-99f8e38023b6
-classicId: '3138515'
+  - 23f01cf6-d98f-55f1-9774-39000a638d98
+classicId: '3159189'
 classicProductId: '342984'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 65
-end: '2026-04-14T21:59:59.999Z'
+directCheckout: false
+discount: 67
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: d14855db-6c2a-5033-b264-0df782681ecf
+id: b455b758-3840-474d-92ae-e89ebcc189ac
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 1418055
+    - app
+    - newsletter
+  extension: png
+  id: 1668787
   priority: 0
   slug: bjorn-the-full-service-serviesset-genesis-36-delig
   type: product
@@ -32,21 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1619105
+  id: 1668786
   priority: 100
-  slug: bjorn-logo
+  slug: bjorn-the-full-service-serviesset-genesis-36-delig
   type: logo
-offerId: 6e6300e9-e5c8-5a84-b278-e094376f4ab1
+offerId: 933e484d-d84c-43e1-b4a9-e52ed58c20a5
 price:
-  cents: 15900
+  cents: 14900
   currency: EUR
-  value: 159
+  value: 149
 referencePrice:
   cents: 44990
   currency: EUR
   value: 449.9
 slug: bjorn-the-full-service-serviesset-genesis-36-delig
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Björn The Full Service Serviesset Genesis | 36-delig
-nesis | 36-delig

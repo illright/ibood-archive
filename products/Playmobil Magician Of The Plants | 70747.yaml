@@ -1,12 +1,12 @@
-_id: 69c149bd4feecd0a82d18a27
+_id: 69de0aafe5d23dea43c2e950
 appOnly: false
 brand: Playmobil
 brands:
   - id: 34463654-9a0b-5c50-9623-0408ec8cb929
     name: Playmobil
 categories:
-  - 04389aec-e491-54cf-a9d2-5a92df8eedbc
-classicId: '3101624'
+  - 68e1301a-2812-515f-a854-def27165553e
+classicId: '3160039'
 classicProductId: '701566'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 30bf4ae7-15c0-500a-8789-8e249ade3813
+id: 2100814e-85da-4d4a-b274-4fffc7b4115d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ce670546-757c-4dea-af2d-adf04b08b91b
-  priority: 0
-  slug: playmobil-png-logo-0
+  extension: png
+  id: 1761749
+  priority: 100
+  slug: playmobil-logo
   type: logo
-offerId: 54cfff45-4e79-51e8-bb95-7c26438980e5
+offerId: 3b7370f4-ced1-4ed1-9ffb-dcde3cb6b8bc
 price:
   cents: 695
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 11.99
 slug: playmobil-magician-of-the-plants-70747
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: Playmobil Magician Of The Plants | 70747

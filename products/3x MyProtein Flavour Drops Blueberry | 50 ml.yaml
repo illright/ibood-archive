@@ -1,12 +1,12 @@
-_id: 69c501c8a26be119961c24a5
+_id: 69dcd2eff4aadb52e330b37d
 appOnly: false
 brand: MyProtein
 brands:
   - id: 5d1e6318-10d4-5152-842b-30593b51fa02
     name: MyProtein
 categories:
-  - 405a701b-1472-5f3c-a276-adb01af7077d
-classicId: '3116243'
+  - 8498abaa-2ebf-51a4-824d-cc3ee166d19e
+classicId: '3157567'
 classicProductId: '702690'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 10401a46-f008-52aa-be91-e369e2884710
+id: ee59b004-e28f-4988-b1d7-76b7b3979af7
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b3fd9a91-4f93-455c-8828-96fe7e1604f2
-  priority: 0
-  slug: myprotein-png-logo-0
+  extension: png
+  id: 1876835
+  priority: 100
+  slug: myprotein-logo
   type: logo
-offerId: 192bea93-e7db-5511-9cc3-c2c5dc7b3fb0
+offerId: 09d55398-6194-4fcf-b9cc-1e1af656e860
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: 3x-myprotein-flavour-drops-blueberry-50-ml
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 3x MyProtein Flavour Drops Blueberry | 50 ml

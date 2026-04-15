@@ -1,22 +1,22 @@
-_id: 69d4b9d2244c8eb0a53ef575
+_id: 69ddfd54f6a8c52a89184934
 appOnly: false
 brand: Leopold Vienna
 brands:
   - id: f15121e7-515c-5456-9d1e-00992b2f9c4a
     name: Leopold Vienna
 categories:
-  - c8f5782d-e777-54f9-97d7-99f8e38023b6
-classicId: '3145333'
+  - 23f01cf6-d98f-55f1-9774-39000a638d98
+classicId: '3159441'
 classicProductId: '697732'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 78
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 155dea21-5a73-4028-bb08-f2d22044eb7b
+id: 7eb80710-ac69-481b-a6c3-fa6cb735b5fd
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: leopold-vienna-logo
   type: logo
-offerId: f6ea5e68-77cb-4f6f-ace7-c4fee33697c9
+offerId: 94013a31-82f2-4492-9b74-220f8526ce2c
 price:
   cents: 1695
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 77.95
 slug: leopold-vienna-dubbelwandige-theepot-oslo-1-l
-soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+soldOut: true
+start: '2026-04-14T22:00:00.000Z'
 title: Leopold Vienna Dubbelwandige Theepot Oslo | 1 L

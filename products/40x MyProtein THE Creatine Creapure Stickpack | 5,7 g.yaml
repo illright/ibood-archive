@@ -1,12 +1,12 @@
-_id: 69c501cae623bb8dd121d3bb
+_id: 69dcd2eaf4aadb52e330b37b
 appOnly: false
 brand: MyProtein
 brands:
   - id: 5d1e6318-10d4-5152-842b-30593b51fa02
     name: MyProtein
 categories:
-  - 405a701b-1472-5f3c-a276-adb01af7077d
-classicId: '3116247'
+  - 8498abaa-2ebf-51a4-824d-cc3ee166d19e
+classicId: '3157565'
 classicProductId: '702691'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 51544470-aabb-5426-9673-69eab7cdfd69
+id: 9756465b-2c5f-42cb-ad18-a9e500ff8c3c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 06c6e67c-3ecc-4dd3-957c-51a87fb2b3c4
-  priority: 0
-  slug: myprotein-png-logo-0
+  extension: png
+  id: 1876835
+  priority: 100
+  slug: myprotein-logo
   type: logo
-offerId: a51c03b6-b5de-556f-b351-b3a2d284d56f
+offerId: 5e5ae30a-41bb-4da9-a71f-4ea516d82d2f
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 31.98
 slug: 40x-myprotein-the-creatine-creapure-stickpack-5-7-g
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: 40x MyProtein THE Creatine Creapure Stickpack | 5,7 g

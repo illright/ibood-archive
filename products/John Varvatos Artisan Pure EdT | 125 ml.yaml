@@ -1,12 +1,12 @@
-_id: 69d51d4b51bd7658b87366a6
+_id: 69dcdd02349df6fc13e81ddb
 appOnly: false
 brand: JOHN VARVATOS
 brands:
   - id: 77a3aa59-da4e-5f00-ae8e-820993a72140
     name: JOHN VARVATOS
 categories:
-  - f8905536-b4a4-55c9-9692-f3eb34b42887
-classicId: '3149898'
+  - c0b0f1c4-a86b-59ea-94b6-f35222e353f5
+classicId: '3157802'
 classicProductId: '468382'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 47278a95-d75f-4151-a8e0-8f6aa3a1d5fc
+id: 24366496-ce07-4d20-a48f-0046d921c5c4
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: john-varvatos-logo
   type: logo
-offerId: da210e5a-b07c-46ff-8f7f-97f20a1def32
+offerId: 840a285d-c83f-4244-87f7-b1919cede490
 price:
   cents: 3295
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 89
 slug: john-varvatos-artisan-pure-edt-125-ml
-soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+soldOut: true
+start: '2026-04-14T22:00:00.000Z'
 title: John Varvatos Artisan Pure EdT | 125 ml

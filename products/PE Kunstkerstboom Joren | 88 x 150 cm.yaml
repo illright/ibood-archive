@@ -1,12 +1,12 @@
-_id: 69d4fb8cbac80244cbcdfe2f
+_id: 69de2d4acda68077d7752850
 appOnly: false
 brand: DKNC
 brands:
   - id: 7076d636-e45d-5110-99d4-44a888f46ffd
     name: DKNC
 categories:
-  - 6cf92da1-e54d-5fb7-9d3e-fa93aa554398
-classicId: '3148870'
+  - 1dc7aaab-c0c2-5dbb-9845-1fbdee9d89a5
+classicId: '3160999'
 classicProductId: '680643'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2026-04-14T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: b63658c5-b326-4bc5-ab3d-95cdbad0685b
+id: d0edfe2e-1f4f-419e-9e96-a2eaa560d0db
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: dknc-tree-joren-pe-88x88x150cm-50000386-product-1
   type: product
-offerId: d2a90a0c-dd40-49bb-98aa-f27b7fb3a769
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7a59edee-b28f-4614-a1cb-fcd8667f2d9e
+  priority: 0
+  slug: dknc-logo-0
+  type: logo
+offerId: 3ea32c79-4a80-4e8c-a6c5-d55f6bdc3fc7
 price:
   cents: 4995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 149.95
 slug: dknc-kunstkerstboom-joren-88-x-150-cm
 soldOut: false
-start: '2026-04-07T22:00:00.000Z'
+start: '2026-04-14T22:00:00.000Z'
 title: PE Kunstkerstboom Joren | 88 x 150 cm
