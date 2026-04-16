@@ -1,12 +1,12 @@
-_id: 69dccb390086065400364a38
+_id: 69df5d51988ac162203467bf
 appOnly: false
 brand: Xiaomi
 brands:
   - id: e1f1726b-db22-5b93-a615-f46617d63e08
     name: Xiaomi
 categories:
-  - 42a9acdd-33fd-5ad4-ac2b-729ed28ae839
-classicId: '3156871'
+  - 655ab2f1-e643-5db9-8c49-21289a55a07b
+classicId: '3164145'
 classicProductId: '705901'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-04-15T21:59:59.999Z'
+end: '2026-04-21T21:59:59.999Z'
 freeDelivery: false
-id: 25b1841c-1f83-4343-af7e-6fb3c7075cc8
+id: 880c9a74-494e-441b-bd2e-8f564b844b88
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xiaomi-jumping-rope-smart-blue-product-0
   type: product
-offerId: db3aa76b-e7e3-4753-925d-2947ddaeb995
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1682260
+  priority: 100
+  slug: xiaomi-logo
+  type: logo
+offerId: b559c853-b1c0-4e76-9123-cf9245a36ade
 price:
   cents: 2750
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.95
 slug: xiaomi-smart-springtouw-blauw
-soldOut: true
-start: '2026-04-08T22:00:00.000Z'
+soldOut: false
+start: '2026-04-15T22:00:00.000Z'
 title: Xiaomi Springtouw Smart | Blauw

@@ -1,4 +1,4 @@
-_id: 69dcb97ff4aadb52e330b073
+_id: 69dcb97df4aadb52e330b069
 appOnly: false
 brand: Clarks
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Clarks
 categories:
   - 756df947-5f28-5938-b28a-2c5c4db34133
-classicId: '3156767'
-classicProductId: '695880'
+classicId: '3156764'
+classicProductId: '695888'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 36
+discount: 27
 end: '2026-04-19T21:59:59.999Z'
 freeDelivery: false
-id: cb1fd7b0-1bae-498c-8b1b-68472ce4a5f4
+id: 9034ee45-123a-4478-bcd2-3277b129e8c0
 image:
   channels:
     - app
@@ -24,25 +24,26 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: f5c9d7a1-64a5-4c74-bb66-8e63ff18c07b
+  id: d11ed969-3b58-4852-83fd-74b29760c251
   priority: 0
-  slug: clarks-04-png-product-1
+  slug: clarks-05-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1734464
-  priority: 100
-  slug: clarks-logo
+    - all
+  extension: image/png
+  id: b81599af-d0cf-4a5d-b3f6-0e54906430b8
+  priority: 0
+  slug: clarks-png-logo-0
   type: logo
-offerId: 4ea57e27-5ed1-4cf5-b0a0-7253cbd800db
+offerId: 9523c72e-ed4f-43cb-a259-c8298157ff38
 price:
-  cents: 6995
+  cents: 7995
   currency: EUR
-  value: 69.95
+  value: 79.95
 referencePrice:
   cents: 11000
   currency: EUR
@@ -50,6 +51,4 @@ referencePrice:
 slug: clarks-torford-bootschoenen-heren
 soldOut: false
 start: '2026-04-13T22:00:00.000Z'
-title: Clarks Torford Bootschoenen | Heren
-000Z'
 title: Clarks Torford Bootschoenen | Heren
