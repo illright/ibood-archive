@@ -1,32 +1,32 @@
-_id: 69dcd24ff4aadb52e330b2fd
+_id: 69e099e7e99497a9527ac8b4
 appOnly: false
-brand: ISOSTAR
+brand: Isostar
 brands:
   - id: 3701351e-6301-5f1f-96af-e7b0dead56aa
-    name: ISOSTAR
+    name: Isostar
 categories:
-  - 8498abaa-2ebf-51a4-824d-cc3ee166d19e
-classicId: '3157511'
-classicProductId: '696799'
+  - 790f7ab4-a7d7-5036-80f6-9d0191af0c83
+classicId: '3165179'
+classicProductId: '706396'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 49
-end: '2026-04-21T21:59:59.999Z'
+directCheckout: false
+discount: 54
+end: '2026-04-17T21:59:59.999Z'
 freeDelivery: false
-id: 314db888-350c-4d13-aea0-1f26f655edb8
+id: 677c115c-baec-588d-b443-ccae3b325569
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: fee805ad-ecb8-4215-a1e1-e23b1b752426
+  id: f1a53bd9-0b2e-4603-b8a2-726e6845e5d0
   priority: 0
-  slug: isostar-02-png-product-2
+  slug: isostar-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: isostar-logo
   type: logo
-offerId: 29a441ed-13ad-4540-8222-d250902cea01
+offerId: d41bb1f6-cb29-5de4-acd7-37fd0c16423a
 price:
-  cents: 1995
+  cents: 1795
   currency: EUR
-  value: 19.95
+  value: 17.95
 referencePrice:
   cents: 3897
   currency: EUR
   value: 38.97
 slug: 3x-isostar-hydrate-perform-lemon-560-g
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-16T22:00:00.000Z'
 title: 3x Isostar Hydrate & Perform Lemon | 560 g
