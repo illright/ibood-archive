@@ -19,14 +19,13 @@ freeDelivery: false
 id: ce63d606-9f0e-4238-bf51-d2319b730a13
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f27e046e-a6d6-481f-964d-86f5de197f5b
+  extension: jpg
+  id: 1383656
   priority: 0
-  slug: zo-home-84-png-product-1
+  slug: zo-home-bademantel-unisex
   type: product
 logo:
   channels:
@@ -48,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: zo-home-badjas-unisex
-soldOut: false
+soldOut: true
 start: '2026-04-14T22:00:00.000Z'
 title: Zo! Home Badjas | Unisex
