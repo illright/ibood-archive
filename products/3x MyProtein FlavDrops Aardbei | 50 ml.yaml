@@ -19,13 +19,14 @@ freeDelivery: false
 id: bca4bfa9-2948-457d-a833-c5fce542e898
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2159477
+    - all
+  extension: image/png
+  id: bdc48240-b819-430a-b096-207b3ade9627
   priority: 0
-  slug: 3x-myprotein-flavdrops-erdbeere-50-ml
+  slug: myprotein-png-product-1
   type: product
 logo:
   channels:

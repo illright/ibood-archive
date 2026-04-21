@@ -1,12 +1,12 @@
-_id: 69dc91c6ff3c18abc0de8cf9
+_id: 69e5e90296f1054962087e0a
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - d9310925-700b-516c-89d7-e63b15bebf30
-classicId: '3155684'
+  - 767e867d-85bd-56ea-9529-558a87e70509
+classicId: '3167018'
 classicProductId: '663924'
 deliveryPrice:
   cents: 395
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-04-20T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: a8c1508d-aef5-4eee-8607-586314abb6ed
+id: e3cff023-d766-42d6-b959-c9e387f9acdb
 image:
   channels:
-    - website
     - app
-  extension: jpg
-  id: 1287408
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 181c6083-3019-43bc-9979-313f458d5b40
   priority: 0
-  slug: 4x-bamboo-essentials-unterhemd-herren
+  slug: bamboo-01-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +39,7 @@ logo:
   priority: 101
   slug: bamboo-elements-logo-101
   type: logo
-offerId: daa7da3d-4de7-4e62-9d7b-021d8003ec7e
+offerId: ae6c7e29-4d46-405e-9d3f-1a7a345f42fd
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +50,5 @@ referencePrice:
   value: 59.9
 slug: 4x-bamboe-onderhemd-heren
 soldOut: false
-start: '2026-04-13T22:00:00.000Z'
+start: '2026-04-20T22:00:00.000Z'
 title: 4x Bamboo Essentials Bamboe Onderhemd | Heren

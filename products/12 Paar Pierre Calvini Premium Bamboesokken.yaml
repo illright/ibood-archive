@@ -1,31 +1,32 @@
-_id: 69dc9346f4aadb52e330af1c
+_id: 69e5e90d64b25b828da19452
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 40a8eb84-957b-5be2-9f62-8f3ff6d5070f
-classicId: '3156306'
-classicProductId: '309610'
+  - 767e867d-85bd-56ea-9529-558a87e70509
+classicId: '3167028'
+classicProductId: '287507'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 71
-end: '2026-04-20T21:59:59.999Z'
+directCheckout: false
+discount: 67
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: 2a9abc60-2a59-4cbb-a13a-152d2f1715b1
+id: 4e8459c0-1df5-4300-bd19-1e4915ed8d86
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1188429
-  priority: 100
-  slug: 12-paar-pierre-calvini-bamboesokken-sneaker
+    - all
+  extension: image/png
+  id: 81ca4375-61d0-4b75-9308-791d6c1e036b
+  priority: 0
+  slug: bamboo-02-png-product-101
   type: product
 logo:
   channels:
@@ -38,17 +39,16 @@ logo:
   priority: 101
   slug: bamboo-elements-logo-101
   type: logo
-offerId: abd9af17-9e09-4d7c-aeed-0cd4bf5a2d1b
+offerId: 19a60f35-e1c4-4a62-b70e-7e13e9088137
 price:
-  cents: 1710
+  cents: 1995
   currency: EUR
-  value: 17.1
+  value: 19.95
 referencePrice:
   cents: 5995
   currency: EUR
   value: 59.95
 slug: 12-paar-pierre-calvini-bamboesokken-sneaker
 soldOut: false
-start: '2026-04-13T22:00:00.000Z'
+start: '2026-04-20T22:00:00.000Z'
 title: 12 Paar Pierre Calvini Premium Bamboesokken
-n

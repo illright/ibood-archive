@@ -1,31 +1,32 @@
-_id: 69dc940174daff21710cf11e
+_id: 69e5e91e7f4bdb5061d3c14a
 appOnly: false
 brand: Ten Cate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: Ten Cate
 categories:
-  - 40a8eb84-957b-5be2-9f62-8f3ff6d5070f
-classicId: '3156499'
-classicProductId: '671214'
+  - 53c3c8dd-2438-5df0-b775-a3a42b1f6efd
+classicId: '3167078'
+classicProductId: '671213'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 69
-end: '2026-04-20T21:59:59.999Z'
+discount: 58
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: e3726d6a-be3b-4206-a8f7-478d06113234
+id: 67a26633-24af-4be1-9455-dbcfc7a40608
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2105059
+    - all
+  extension: image/png
+  id: 226b44b1-1daf-4cdc-b05e-02f1bf6e318c-tr
   priority: 0
-  slug: 3x-ten-cate-bamboo-basic-heren-t-shirt
+  slug: 3x-ten-cate-bamboo-basic-heren-t-shirt-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: ten-cate-logo
   type: logo
-offerId: 0a1ed0d0-3a9e-4bc5-b3d4-d89394e8594c
+offerId: da178bef-8429-4195-9299-0695ad1f295e
 price:
-  cents: 1834
+  cents: 2495
   currency: EUR
-  value: 18.34
+  value: 24.95
 referencePrice:
   cents: 5997
   currency: EUR
   value: 59.97
 slug: 3x-ten-cate-bamboo-basic-heren-t-shirt
-soldOut: true
-start: '2026-04-13T22:00:00.000Z'
+soldOut: false
+start: '2026-04-20T22:00:00.000Z'
 title: 3x Ten Cate Bamboo Basic Heren T-Shirt | Ronde of V-Hals

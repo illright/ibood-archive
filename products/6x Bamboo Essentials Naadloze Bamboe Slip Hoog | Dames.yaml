@@ -1,12 +1,12 @@
-_id: 69dc91f9e5d23dea43c2dda2
+_id: 69e5e91396f1054962087e60
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - d9310925-700b-516c-89d7-e63b15bebf30
-classicId: '3155723'
+  - 767e867d-85bd-56ea-9529-558a87e70509
+classicId: '3167046'
 classicProductId: '483450'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-04-20T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: 1ad002cd-56cc-469b-b473-9c631083ae68
+id: 90505356-87cf-4e6c-be24-69a43606d4cb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1401448
+    - all
+  extension: image/png
+  id: 34b0c6f4-86d8-4c9b-b40a-743652ff1cc2
   priority: 0
-  slug: 6x-bamboo-essentials-naadloze-bamboe-slip-hoog
+  slug: bamboo-03-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 101
   slug: bamboo-elements-logo-101
   type: logo
-offerId: 1e42ae05-9e12-4d2b-aaec-bd7cc3bc7748
+offerId: 98d6ebc3-a9f4-4a22-afe4-e12b0e794703
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.9
 slug: 6x-bamboo-essentials-naadloze-bamboe-slip-hoog
 soldOut: false
-start: '2026-04-13T22:00:00.000Z'
+start: '2026-04-20T22:00:00.000Z'
 title: 6x Bamboo Essentials Naadloze Bamboe Slip Hoog | Dames

@@ -1,31 +1,32 @@
-_id: 69dc93e2ff3c18abc0de8ece
+_id: 69e5e9197f4bdb5061d3c12d
 appOnly: false
 brand: Bamboo Elements
 brands:
   - id: 38f2ae65-b325-58dd-b55f-cb4e3c806a96
     name: Bamboo Elements
 categories:
-  - 40a8eb84-957b-5be2-9f62-8f3ff6d5070f
-classicId: '3156457'
-classicProductId: '483420'
+  - 767e867d-85bd-56ea-9529-558a87e70509
+classicId: '3167059'
+classicProductId: '483413'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 76
-end: '2026-04-20T21:59:59.999Z'
+directCheckout: false
+discount: 40
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: 84b3bf91-b0ec-4621-bc58-be0cdb715509
+id: 34180df0-4338-45c4-b02f-62e1100e031c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1401445
+    - all
+  extension: image/png
+  id: 117c83c1-4243-4616-a57b-982dfde03805
   priority: 0
-  slug: 4x-bamboe-hipsters-dames
+  slug: bamboo-07-png-product-1
   type: product
 logo:
   channels:
@@ -38,17 +39,16 @@ logo:
   priority: 101
   slug: bamboo-elements-logo-101
   type: logo
-offerId: c7119287-e047-48a9-ac64-03366bc99ae9
+offerId: 189ab660-0b09-425c-a3e1-ec6e5eb866d7
 price:
-  cents: 1218
+  cents: 2995
   currency: EUR
-  value: 12.18
+  value: 29.95
 referencePrice:
   cents: 4990
   currency: EUR
   value: 49.9
 slug: 4x-bamboe-hipsters-dames
 soldOut: false
-start: '2026-04-13T22:00:00.000Z'
+start: '2026-04-20T22:00:00.000Z'
 title: 4x Bamboo Essentials Bamboe Hipsters | Dames
-
