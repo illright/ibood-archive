@@ -1,53 +1,53 @@
-_id: 69df6410988ac16220346ab2
+_id: 69e782b0857c59b945d52834
 appOnly: false
 brand: Nivea Sun
 brands:
   - id: a2170227-a9c4-50d7-9452-5dc927159020
     name: Nivea Sun
 categories:
-  - 14f56166-63bb-5082-bb9c-c34ab92589c7
-classicId: '3164439'
-classicProductId: '658556'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3174958'
+classicProductId: '699322'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 67
-end: '2026-04-21T21:59:59.999Z'
+directCheckout: true
+discount: 65
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: a16de9b1-2c36-49c9-a1d1-e916cea78c7d
+id: f8052433-c7a9-4b50-a97b-2024584eef9a
 image:
+  channels:
+    - newsletter
+    - app
+    - website
+  extension: png
+  id: 2200006
+  priority: 0
+  slug: 3x-nivea-sun-sonnenspray-spf-50-200-ml
+  type: product
+logo:
   channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: 98991e04-370f-4c7a-9290-761daf06fb2e
-  priority: 0
-  slug: son-png-product-1
-  type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1779844
-  priority: 100
-  slug: 3x-nivea-sun-sonnenspray-spf-50-200-ml
+  id: 0c976cd9-968c-4a49-a9f5-b81051831b33
+  priority: 101
+  slug: nivea-sun-logo-101
   type: logo
-offerId: 0b434527-9403-4c92-b58c-17b6255a60c1
+offerId: a96912b1-ae40-4ab4-a815-33f5d026239c
 price:
-  cents: 2695
+  cents: 2795
   currency: EUR
-  value: 26.95
+  value: 27.95
 referencePrice:
-  cents: 8247
+  cents: 8097
   currency: EUR
-  value: 82.47
+  value: 80.97
 slug: 3x-nivea-sun-protect-hydrate-spray-spf50
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 3x Nivea Sun Protect & Hydrate Spray | SPF50+ | 200ml

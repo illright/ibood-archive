@@ -1,12 +1,12 @@
-_id: 69ddf56a0086065400364ec3
+_id: 69e60fbd96f105496208832f
 appOnly: false
 brand: Danish Endurance
 brands:
   - id: 93b12927-ec67-5fa8-8603-ad00e7da401c
     name: Danish Endurance
 categories:
-  - 8c7c750d-9952-57d0-97f2-9b053f714a02
-classicId: '3158419'
+  - ff82595f-39b5-547a-8174-efe3efcbbd6b
+classicId: '3168075'
 classicProductId: '702948'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 59
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 324286e2-b87a-4270-90cf-fcc2d87f5b76
+id: 18df9ede-ccc1-4764-a219-7edf3d9663f3
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sokken-png-product-1
   type: product
-offerId: c5420629-a968-4905-96a3-ed970ccb0b24
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f1e192ce-9772-470a-8f37-6c57ea6aee0f
+  priority: 0
+  slug: danish-endurance-classic-sports-quarter-socks-black-39-42-product-0-png-logo-0
+  type: logo
+offerId: c179905f-54c7-4c3e-b1fa-f5f93c7beef0
 price:
   cents: 2795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 67.9
 slug: 6-paar-danish-endurance-classic-sports-quarter-socks
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 6 paar Danish Endurance Classic Sports Quarter Socks

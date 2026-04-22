@@ -1,12 +1,12 @@
-_id: 69de30b3cda68077d7752a0f
+_id: 69e76e0e23aed90e1022df6b
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 637490ee-725e-5f0c-9abc-a14dcc2c20b3
-classicId: '3161654'
+  - 4279497f-b6c7-5ec7-9d60-cdc96d1b90e8
+classicId: '3173623'
 classicProductId: '511108'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 219cb276-9474-4ce9-8289-383da67ce484
+id: f7a63e53-ae5f-402e-9a23-4095203c0466
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1725141
-  priority: 100
-  slug: twentse-damast-unisex-badjas-s-m
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 70e7cf0c-4dbb-4647-a553-05fa53b7d608
+offerId: b63c2df7-141e-4bbf-82d8-dc1e133fc815
 price:
   cents: 2295
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 69.95
 slug: twentse-damast-unisex-badjas-s-m
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Twentse Damast Unisex Badjas | S - M | Dark Blue

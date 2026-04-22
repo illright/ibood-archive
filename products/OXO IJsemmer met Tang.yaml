@@ -1,12 +1,12 @@
-_id: 69df757d4ae3ab648f4f333d
+_id: 69e74d3c043572fb18ecb149
 appOnly: false
 brand: OXO
 brands:
   - id: 6c02d4fd-b956-53db-8b7c-18f6ab5f2422
     name: OXO
 categories:
-  - 23f01cf6-d98f-55f1-9774-39000a638d98
-classicId: '3164725'
+  - 8bc7989a-8294-5dc2-ac82-7a7236e18a2c
+classicId: '3171877'
 classicProductId: '602280'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 630e80d8-aca1-4d75-9687-86aba69c3be0
+id: 062b43cc-3bb4-4f35-822a-33c8583f2a47
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2123926
-  priority: 100
-  slug: oxo-ijsemmer-met-tang
+    - all
+  extension: image/png
+  id: fcdb40ae-7d39-4146-a9f0-8d545cc7b8f4
+  priority: 0
+  slug: oxo-logo-0
   type: logo
-offerId: 9fb3eb6a-0cde-44f2-b056-d477382a8051
+offerId: d4f185b8-ebf5-4f25-ab5f-ed6d4cee7d2d
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 69.95
 slug: oxo-ijsemmer-met-tang
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: OXO IJsemmer met Tang

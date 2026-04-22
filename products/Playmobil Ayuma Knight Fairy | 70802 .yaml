@@ -1,12 +1,12 @@
-_id: 69de0abb008606540036512d
+_id: 69e751ae64b25b828da1a72c
 appOnly: false
 brand: Playmobil
 brands:
   - id: 34463654-9a0b-5c50-9623-0408ec8cb929
     name: Playmobil
 categories:
-  - 68e1301a-2812-515f-a854-def27165553e
-classicId: '3160061'
+  - 9b426fe4-f414-59ae-bebd-59abecb8ccd4
+classicId: '3172547'
 classicProductId: '701567'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: f2b4e7c9-fd2b-4f02-b78c-117c397d7a14
+id: 258bc067-da70-41bf-9e4b-5bc56c3bc001
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ff339670-ba3e-4228-b8bf-1ac3db5ce128
-  priority: 0
-  slug: playmobil-png-logo-0
+  extension: png
+  id: 1761749
+  priority: 100
+  slug: playmobil-logo
   type: logo
-offerId: 9313f099-41ce-4024-86d5-c453c26651e9
+offerId: eb2257a4-2626-4e09-be00-8c1d681c6236
 price:
   cents: 495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 12.95
 slug: playmobil-ayuma-knight-fairy-70802
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 'Playmobil Ayuma Knight Fairy | 70802 '

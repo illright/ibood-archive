@@ -1,12 +1,12 @@
-_id: 69d2d2f700208beb10ae797e
+_id: 69e7812a96f105496208976f
 appOnly: false
 brand: Fa
 brands:
   - id: f5c653ba-0541-5168-8eae-d43fbba331d5
     name: Fa
 categories:
-  - 14f56166-63bb-5082-bb9c-c34ab92589c7
-classicId: '3143490'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3174180'
 classicProductId: '704676'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 739fd5bf-ab9c-5af5-8dde-38c65d6860d4
+id: 31d42ca5-dab8-467d-bad1-7268d7a87327
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9c5316c4-bd41-457a-bb68-a571020c5580
-  priority: 0
-  slug: fa-png-logo-0
+  extension: png
+  id: 1897134
+  priority: 100
+  slug: fa-logo
   type: logo
-offerId: d2b5d46c-2f41-593c-908a-626b89666fa9
+offerId: fb48610e-0bda-4ff6-a647-d294ffc949f7
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 51.48
 slug: 12x-fa-men-kick-off-douchegel-2-in-1-250-ml
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 12x Fa Men Kick Off Douchegel 2-in-1 | 250 ml

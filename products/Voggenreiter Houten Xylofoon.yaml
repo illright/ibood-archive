@@ -1,12 +1,12 @@
-_id: 69c2b3e2d2463e51700daa54
+_id: 69e751fe64b25b828da1a808
 appOnly: false
 brand: Voggenreiter
 brands:
   - id: d5fa52bd-39d2-59da-8969-da780fc19587
     name: Voggenreiter
 categories:
-  - 68e1301a-2812-515f-a854-def27165553e
-classicId: '3110547'
+  - 9b426fe4-f414-59ae-bebd-59abecb8ccd4
+classicId: '3172728'
 classicProductId: '701986'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 54c8af50-86db-5478-97fc-4ff041f13ad4
+id: 0eb849f9-a806-402d-9a06-3d820dfcb93a
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: voggenreiter-vog-xylofoon-hout-39501074-product-1
   type: product
-offerId: 9943d05a-75d1-5cbd-a9e2-8d8af2eeb332
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 70a8d17b-25dd-44c0-900e-769a0a7c8c68
+  priority: 0
+  slug: voggenreiter-logo-0
+  type: logo
+offerId: 16cd1112-02e9-4045-8772-414f66b76283
 price:
   cents: 1695
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 29.95
 slug: voggenreiter-houten-xylofoon
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Voggenreiter Houten Xylofoon

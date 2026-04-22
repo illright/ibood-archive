@@ -1,12 +1,12 @@
-_id: 69ddead270525c33c0021798
+_id: 69e6104c950b767fb86ce42b
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - d7a4b54c-4ab3-5e07-8173-2b847b47aa8b
-classicId: '3158161'
+  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
+classicId: '3168225'
 classicProductId: '697443'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 44
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: a60570ae-d634-4530-9509-0e61d4a4850e
+id: eef87e07-3dcd-4d68-9393-894660ebcd6d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: s-terrain-green-63052-473-s-brono-softshell-shorts-helly-hansen-product-1
   type: product
-offerId: 417d04ef-1721-48cd-b5dd-95d45d19a887
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
+  type: logo
+offerId: 5c7e5c73-5e72-4492-a75f-90155fa80d2a
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 80
 slug: helly-hansen-brona-softshell-shorts-heren
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Helly Hansen Brona Softshell Shorts | Heren

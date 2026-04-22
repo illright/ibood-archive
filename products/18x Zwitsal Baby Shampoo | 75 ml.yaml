@@ -1,12 +1,12 @@
-_id: 69de4e254762fc1142483254
+_id: 69e783b706e4063af0e8272b
 appOnly: false
 brand: Zwitsal
 brands:
   - id: e756a7ad-bfb9-53ac-bec8-247afa4ef216
     name: Zwitsal
 categories:
-  - 14f56166-63bb-5082-bb9c-c34ab92589c7
-classicId: '3163062'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3175835'
 classicProductId: '700889'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 7518fb99-221f-4949-9c5b-c0b0b41c71fa
+id: 73b59883-dfe6-4d9d-89a2-a6fd5b8a8f9b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5f3d3177-7418-41b8-a6d9-40fae9c8544d
-  priority: 0
-  slug: zwitsal-png-logo-0
+  extension: jpg
+  id: 1467534
+  priority: 100
+  slug: zwitsal-logo
   type: logo
-offerId: 98ec0484-bfe8-4f30-a376-47391b47c0bc
+offerId: 8e3ee064-4805-450e-a70c-2e6de8355379
 price:
   cents: 1895
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 44.82
 slug: 18x-zwitsal-baby-shampoo-75-ml
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 18x Zwitsal Baby Shampoo | 75 ml

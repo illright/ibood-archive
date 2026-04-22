@@ -1,12 +1,12 @@
-_id: 69df453a988ac162203460b6
+_id: 69e74b84142ed4fb59810bd6
 appOnly: false
 brand: Samsung
 brands:
   - id: d925541a-b4c5-57e6-9497-016344a9a7ac
     name: Samsung
 categories:
-  - 655ab2f1-e643-5db9-8c49-21289a55a07b
-classicId: '3163820'
+  - 4e6643d9-0765-53a2-b18c-8ba9afcf823e
+classicId: '3171229'
 classicProductId: '698934'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 61
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 4baff562-454e-5ad2-99de-b8f2a4bc3a2f
+id: 6fcd2129-152c-4938-9780-0c41984a53b1
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fe39d7a0-b26d-4c5b-b399-ee68590d1df4
-  priority: 0
-  slug: samsung-png-logo-0
+  extension: png
+  id: 1685320
+  priority: 100
+  slug: samsung-logo
   type: logo
-offerId: 945ea84a-fe89-5a82-8d22-b99fccd65b78
+offerId: f0ca78a2-8e55-43f7-bc2d-e96588b95562
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 129
 slug: samsung-pm981a-interne-ssd-256-gb-m-2-nvme-refurbished
 soldOut: false
-start: '2026-04-15T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Samsung PM981a interne SSD | 256 GB | M.2 | NVMe | Refurbished

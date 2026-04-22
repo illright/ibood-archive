@@ -1,12 +1,12 @@
-_id: 69de2e42f4aadb52e330c6dd
+_id: 69e76b99043572fb18ecb5b6
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 4c4fbbea-64d1-5a69-948b-c49db421f4d2
-classicId: '3161045'
+  - 83a7aff1-267a-5eb1-9686-e083b8e5c12d
+classicId: '3173202'
 classicProductId: '409749'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 3041f9e3-87d7-46a0-ac6e-356721f21376
+id: 3bbe3a84-fcda-4498-af63-7e9fdf857d70
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c66f8898-9d31-4121-be82-336ef38cfef3
-  priority: 0
-  slug: ten-cate-by-twentse-damast-logo-0
+  extension: png
+  id: 1485600
+  priority: 100
+  slug: ten-cate-logo
   type: logo
-offerId: db308661-7e94-45c9-aa8f-c31ced58a66b
+offerId: 80113c4b-1c63-4a12-9d85-575730f380a5
 price:
   cents: 21900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 599.95
 slug: ten-cate-ganzendons-4-seizoenendekbed-140-x-200-cm
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Ten Cate Ganzendonzen 4-Seizoenendekbed | 140 x 200 cm

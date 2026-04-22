@@ -1,12 +1,12 @@
-_id: 69d2d2fb1eabbd1eca49da3b
+_id: 69e7825323aed90e1022e221
 appOnly: false
 brand: Milka
 brands:
   - id: eb8ea9c7-e15f-5a69-a7db-cbbb2a2d5840
     name: Milka
 categories:
-  - 14f56166-63bb-5082-bb9c-c34ab92589c7
-classicId: '3143496'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3174607'
 classicProductId: '706006'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 2e0d94d7-1d6e-50c4-896b-c34f57bd45a9
+id: ad0d1069-571c-4508-89d0-c5831055d8e1
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fc5625e9-4bec-4396-83ae-c555781a6a5d
-  priority: 0
-  slug: milka-logo-png-logo-0
+  extension: png
+  id: 1995316
+  priority: 100
+  slug: milka-logo
   type: logo
-offerId: 4ca82200-580a-5475-8a40-cbc52037f284
+offerId: e6eb22d5-ada9-4348-9cbd-c580e8892508
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 50.79
 slug: 70x-milka-nussini-wafelreep-31-5-g
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 70x Milka Nussini Wafelreep | 31,5 g

@@ -1,22 +1,22 @@
-_id: 69cd30610967e0a9ae4f4e7c
+_id: 69e610a4a65f90c69faad8c5
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 70abb20c-5e90-560d-9c07-1764c438edb9
-classicId: '3139003'
-classicProductId: '703778'
+  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
+classicId: '3168312'
+classicProductId: '703785'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 61
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: d9e578c7-313e-5e7f-8336-a349682dec7b
+id: 76dbe7be-f252-44a3-95be-58a5e59680d5
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 22f28392-9846-490e-bce3-87f42042b6db
+  id: 3de99183-a862-4074-8f8a-534e1ebc279e
   priority: 0
-  slug: schoen-08-png-product-1
+  slug: schoen-07-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 20fafa01-dde4-418c-be05-b10a87e1b746
-  priority: 0
-  slug: travelin-png-logo-0
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
   type: logo
-offerId: 96b896c9-1562-53ff-8630-c099ad380ff8
+offerId: db78d6b5-fa6d-4bd2-ade0-5596004c6ebc
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 89.95
 slug: travelin-liminka-wandelsandalen-dames
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
+title: Travelin' Liminka Wandelsandalen | Dames
+
 title: Travelin' Liminka Wandelsandalen | Dames

@@ -1,12 +1,12 @@
-_id: 69df5d50f4aadb52e33114cf
+_id: 69e74ad8a90575a7b3d03a15
 appOnly: false
 brand: Veho
 brands:
   - id: dd7a10b7-03ce-50be-9c63-95b8034e4244
     name: Veho
 categories:
-  - 02cef15c-942d-5f3e-909f-23b204990703
-classicId: '3164148'
+  - da85e256-f221-5f3f-aefd-fb1a7fa86ba7
+classicId: '3170968'
 classicProductId: '509150'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: a7bebe93-e796-4e8c-bf5b-52eb53036f6e
+id: 33ff20e1-db04-4cd4-b8db-c8e34ebe1b1c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1529679
+    - all
+  extension: image/png
+  id: 4f551a46-2db4-40b8-9097-8713086a662e
   priority: 0
-  slug: 2x-veho-bluetooth-koptelefoon-zb-4-neb
+  slug: 2x-veho-bluetooth-koptelefoon-zb-4-neb-product-6
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: veho-logo
   type: logo
-offerId: 258385ac-f163-4169-9d9e-abc0162eb65e
+offerId: 53102922-bb6c-43cb-bd3c-033067eab04d
 price:
   cents: 6995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 299.99
 slug: 2x-veho-bluetooth-koptelefoon-zb-4-neb
 soldOut: false
-start: '2026-04-15T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 2x Veho Bluetooth Koptelefoon met Microfoon | ZB-4NEB

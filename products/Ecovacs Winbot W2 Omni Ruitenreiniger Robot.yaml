@@ -1,12 +1,12 @@
-_id: 69ce55401eabbd1eca49d640
+_id: 69e74b63043572fb18ecada4
 appOnly: false
 brand: Ecovacs
 brands:
   - id: be0c2f3c-3700-5e09-aef3-979fd755cdf8
     name: Ecovacs
 categories:
-  - 39d1bcb7-687a-56cf-bc5d-d4b1f1e7dead
-classicId: '3140393'
+  - f09e65ec-6231-5632-bb1f-e867df562b48
+classicId: '3171132'
 classicProductId: '704530'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 34
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: 91e9bb63-a3d9-5c4a-842f-bdd174a7b810
+id: b3dda992-7e5c-4933-9ca7-fa40f2643df4
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ecovacs-winbot-w2-omni-product-1
   type: product
-offerId: 0de00873-739a-50ee-bd1e-5ccb06d6d576
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b10b401e-938e-4031-ba52-5e58fbe0a8b7
+  priority: 0
+  slug: ecovacs-logo-0
+  type: logo
+offerId: debd70b3-d236-46af-a1b4-32fb08377b9d
 price:
   cents: 32900
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 499
 slug: ecovacs-winbot-w2-omni-ruitenreiniger-robot
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Ecovacs Winbot W2 Omni Ruitenreiniger Robot

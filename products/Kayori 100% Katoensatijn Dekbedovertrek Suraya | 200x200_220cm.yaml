@@ -1,31 +1,32 @@
-_id: 69de2f9eec662d7857dbc891
+_id: 69e76d7a8dbe7c7886dac045
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 637490ee-725e-5f0c-9abc-a14dcc2c20b3
-classicId: '3161397'
-classicProductId: '525946'
+  - 4279497f-b6c7-5ec7-9d60-cdc96d1b90e8
+classicId: '3173517'
+classicProductId: '689184'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 71
-end: '2026-04-21T21:59:59.999Z'
+discount: 77
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: fd076cc2-a140-4de6-80ea-76cae25a9fab
+id: 4783041c-2a70-462c-8a02-313c66141359
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2088502
+    - all
+  extension: image/png
+  id: da67d916-0290-4375-95e6-077668ed9dc9
   priority: 0
-  slug: kayori-satijn-dekbedovertrek-suraya-200-x-200220
+  slug: kayori-06-png-product-1
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1778348
+  id: 1712377
   priority: 100
-  slug: kayori-satijn-dekbedovertrek-suraya-200-x-200220
+  slug: kayori-logo
   type: logo
-offerId: a0ff40f0-9cf3-4204-95bc-96debbbbb922
+offerId: 074b34ad-9293-4003-8774-feb96535b294
 price:
-  cents: 3795
+  cents: 2995
   currency: EUR
-  value: 37.95
+  value: 29.95
 referencePrice:
   cents: 12995
   currency: EUR
   value: 129.95
 slug: kayori-satijn-dekbedovertrek-suraya-200-x-200220
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Kayori 100% Katoensatijn Dekbedovertrek Suraya | 200x200/220cm

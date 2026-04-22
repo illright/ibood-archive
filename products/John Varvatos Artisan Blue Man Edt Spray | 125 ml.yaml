@@ -1,12 +1,12 @@
-_id: 69dcdd05a9c1052a0a0b1ed8
+_id: 69e783d596f1054962089c31
 appOnly: false
 brand: JOHN VARVATOS
 brands:
   - id: 77a3aa59-da4e-5f00-ae8e-820993a72140
     name: JOHN VARVATOS
 categories:
-  - c0b0f1c4-a86b-59ea-94b6-f35222e353f5
-classicId: '3157801'
+  - 5aae2617-f328-5ec4-99ad-b437cf430b7f
+classicId: '3175890'
 classicProductId: '570012'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 7d20c5b6-8d70-45b1-b5f4-7c532818af77
+id: f11b5425-d126-4132-bbc9-074c85b12b11
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: john-varvatos-logo
   type: logo
-offerId: a91de3d8-f275-4334-a121-ec3dad1fa5f7
+offerId: 844fcafb-2952-47a6-a873-baf841432a45
 price:
   cents: 3295
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 89
 slug: john-varvatos-artisan-blue-man-edt-spray-125-ml
-soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+soldOut: true
+start: '2026-04-21T22:00:00.000Z'
 title: John Varvatos Artisan Blue Man Edt Spray | 125 ml

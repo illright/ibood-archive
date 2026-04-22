@@ -1,29 +1,29 @@
-_id: 69de2fe0988ac162203419ba
+_id: 69e76d9a2489def398b75f17
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 637490ee-725e-5f0c-9abc-a14dcc2c20b3
-classicId: '3161481'
-classicProductId: '525894'
+  - 4279497f-b6c7-5ec7-9d60-cdc96d1b90e8
+classicId: '3173547'
+classicProductId: '590968'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 64
-end: '2026-04-21T21:59:59.999Z'
+discount: 50
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 5ff4dbba-f226-4821-b162-a81f9e65edf1
+id: 3643bf4f-939f-4a50-bd5d-fb0cd9abeb01
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1499715
+  extension: jpg
+  id: 2243146
   priority: 0
   slug: kayori-spannbettlaken-90100-x-200220-cm
   type: product
@@ -37,16 +37,17 @@ logo:
   priority: 100
   slug: kayori-logo
   type: logo
-offerId: 548dc059-6d96-4694-be41-458975b9c12a
+offerId: be07a9f1-d034-435e-81ca-19d96137af37
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 5495
+  cents: 3995
   currency: EUR
-  value: 54.95
+  value: 39.95
 slug: kayori-double-jersey-hoeslaken-90100-x-200220-cm
-soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+soldOut: true
+start: '2026-04-21T22:00:00.000Z'
 title: Kayori Double Jersey Hoeslaken 90/100 x 200/220 cm
+

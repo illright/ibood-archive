@@ -1,12 +1,12 @@
-_id: 69ce7fd055800b4e5ca77d9a
+_id: 69e7811596f1054962089702
 appOnly: false
 brand: ELLE
 brands:
   - id: 958f3645-6602-55c6-9154-58e0e04e7907
     name: ELLE
 categories:
-  - c0b0f1c4-a86b-59ea-94b6-f35222e353f5
-classicId: '3141690'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3174145'
 classicProductId: '704559'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: b52d5f58-8ad5-5b9e-8c13-5f8ebf73e396
+id: 6a35f945-5053-46d7-8c6f-40d259ee447a
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9e8b7c1f-cf71-4c8a-84d8-05864f024021
-  priority: 0
-  slug: elle-png-logo-0
+  extension: png
+  id: 2008169
+  priority: 100
+  slug: elle-logo
   type: logo
-offerId: 9e8a7d43-6cfa-517e-8833-9d9b27ad3f17
+offerId: 43a6bf24-1e71-417a-bed7-8f1a08c230f3
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 25
 slug: elle-home-night-escape-geurkaarsenset-3x-70-g
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Elle Home Night Escape Geurkaarsenset | 3x 70 g

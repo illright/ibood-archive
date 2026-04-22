@@ -1,12 +1,12 @@
-_id: 69ddfd440086065400365047
+_id: 69e74ca0043572fb18ecafdf
 appOnly: false
 brand: Bloomfold
 brands:
   - id: 46352708-327f-5083-8f46-407fa0ee16fa
     name: Bloomfold
 categories:
-  - bc231978-8633-5552-8d18-89334b73c0f5
-classicId: '3159418'
+  - acda9f96-ed7e-5238-8269-192be1180b57
+classicId: '3171696'
 classicProductId: '633874'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 46
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 028775db-6c35-49f8-a8c7-2ae5defc15f2
+id: f49c108b-ca1b-4987-95b3-d2fdcad88ab4
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2238246
-  priority: 100
-  slug: bloomfold-luchtreiniger-aura
+    - all
+  extension: image/png
+  id: 9357da57-8489-441a-8876-defa1f75333e
+  priority: 0
+  slug: bloomfold-logo-0
   type: logo
-offerId: 3eb61479-be61-4e01-9f9c-1fd4091ff44a
+offerId: 492b7996-f23b-45ec-be6d-0cb500909d83
 price:
   cents: 7995
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 149
 slug: bloomfold-luchtreiniger-aura
-soldOut: true
-start: '2026-04-14T22:00:00.000Z'
+soldOut: false
+start: '2026-04-21T22:00:00.000Z'
 title: Bloomfold Luchtreiniger Aura

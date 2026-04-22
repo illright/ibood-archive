@@ -1,12 +1,12 @@
-_id: 69ddf559e5d23dea43c2e709
+_id: 69e60fb796f1054962088311
 appOnly: false
 brand: Dunlop
 brands:
   - id: b8894fbd-968a-5925-8d83-57a26d571a6e
     name: Dunlop
 categories:
-  - e4b5f7e3-ebe4-5eef-bc15-90be5e4e41d1
-classicId: '3158404'
+  - ff82595f-39b5-547a-8174-efe3efcbbd6b
+classicId: '3168068'
 classicProductId: '703792'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 31
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 4753bb9c-bd1d-41ca-9a94-e0d0e5cb0c73
+id: e1675744-6a84-46c0-a576-a53d40f95a3e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4d85a50a-1752-43e6-96d1-fa97519be554
-  priority: 0
-  slug: dunlop-png-logo-0
+  extension: png
+  id: 1682266
+  priority: 100
+  slug: dunlop-logo
   type: logo
-offerId: 8156e337-d6a1-4ff6-9ccc-e0709a6c94e3
+offerId: 31a52e7b-ca75-404b-9c54-4d1c4e4b8e41
 price:
   cents: 10995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 159.95
 slug: dunlop-pro-padelballen-24-blikjes-a-3-stuks
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Dunlop Pro Padel Ballen | 24 blikken à 3 stuks

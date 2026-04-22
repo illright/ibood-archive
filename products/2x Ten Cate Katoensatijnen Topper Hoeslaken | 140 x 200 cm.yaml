@@ -1,12 +1,12 @@
-_id: 69de2ee5f4aadb52e330c7b1
+_id: 69e76d2b2489def398b75e3e
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 637490ee-725e-5f0c-9abc-a14dcc2c20b3
-classicId: '3161201'
+  - 4279497f-b6c7-5ec7-9d60-cdc96d1b90e8
+classicId: '3173403'
 classicProductId: '525047'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: def1b5bc-ea5a-4413-8d96-db6f1839fdff
+id: fa5ccef5-a03b-48b0-8199-99f86dfc0145
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1523260
-  priority: 100
-  slug: 2x-ten-cate-topperlaken-satin-140-x-200-cm
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: f386ec57-70ba-4a89-912f-fed171e08bc6
+offerId: c93c1f88-cc9b-4f32-9eb6-de06594d16ab
 price:
   cents: 3995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 79.9
 slug: 2x-topper-hoeslaken-140-x-200-cm
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 2x Ten Cate Katoensatijnen Topper Hoeslaken | 140 x 200 cm

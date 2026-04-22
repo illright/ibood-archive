@@ -1,12 +1,12 @@
-_id: 69ce7f8a746c7d2a1fa84490
+_id: 69e780be06e4063af0e824e0
 appOnly: false
 brand: Clarins
 brands:
   - id: bf93256a-71c6-50c0-8d63-30e1cefc2553
     name: Clarins
 categories:
-  - c0b0f1c4-a86b-59ea-94b6-f35222e353f5
-classicId: '3141686'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3174028'
 classicProductId: '704555'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 53
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: f5476892-2b98-5248-b768-b384579727d7
+id: 3c8567c6-f129-4f4f-bfe6-7135d3463b24
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 703d146d-c0a7-4531-947a-c59a13c7e5f4
-  priority: 0
-  slug: clarins-png-logo-0
+  extension: png
+  id: 2006249
+  priority: 100
+  slug: clarins-logo
   type: logo
-offerId: 108cd19f-aa5d-506c-8df0-c91f412e1a69
+offerId: b976dec5-2800-4698-afc7-e2b0994a885b
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 38
 slug: clarins-wonder-volume-mascara-xxl-01-extreme-black
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Clarins Wonder Volume Mascara XXL | 01 Extreme Black

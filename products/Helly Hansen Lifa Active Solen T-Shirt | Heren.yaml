@@ -1,22 +1,22 @@
-_id: 69ddea7ea9f7722d56058d9b
+_id: 69e61053039b903182749ab2
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - d7a4b54c-4ab3-5e07-8173-2b847b47aa8b
-classicId: '3158128'
-classicProductId: '697422'
+  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
+classicId: '3168233'
+classicProductId: '697407'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: 64f188bc-cab8-4113-82da-9d2207543a76
+id: 7f4e7418-7e9d-41fa-a12b-a7f67e8e60ce
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 9424b044-0191-4617-94c9-648b5418d561-tr
+  id: 0e7f4df8-e13a-41aa-bb07-d01e98b99752-tr
   priority: 0
-  slug: l-dark-mint-48376-472-l-lifa-active-solen-t-shirt-helly-hansen-product-0
+  slug: l-white-48376-001-l-lifa-active-solen-t-shirt-helly-hansen-product-3
   type: product
-offerId: b1a4e9a6-e8b6-433f-8a4a-21718e78e2fe
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
+  type: logo
+offerId: 160efeb0-55a6-44cf-b29b-42c347f922b7
 price:
   cents: 2995
   currency: EUR
@@ -39,10 +49,6 @@ referencePrice:
   value: 50
 slug: helly-hansen-lifa-active-solen-t-shirt-heren
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
-title: Helly Hansen Lifa Active Solen T-Shirt | Heren
-ansen-lifa-active-solen-t-shirt-heren
-soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Helly Hansen Lifa Active Solen T-Shirt | Heren
  Heren

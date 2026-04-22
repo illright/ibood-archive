@@ -1,32 +1,32 @@
-_id: 69ddf90ae5d23dea43c2e79f
+_id: 69e78279043572fb18ecbaba
 appOnly: false
 brand: Naif
 brands:
   - id: ef132678-f683-576e-836d-fa373ef13956
     name: Naif
 categories:
-  - 33beacf9-07b7-506d-9ee5-f10572f15a89
-classicId: '3158608'
-classicProductId: '677854'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3174750'
+classicProductId: '684621'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 81
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 18c5a194-1920-4738-ae77-be0ddb45f782
+id: 8e857a3c-2778-488e-b5e3-559d8c8fed2f
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 00ca9554-09b8-4666-8612-0ccfa39f47bd
-  priority: 0
-  slug: naif-01-png-product-1
+  id: b4278aea-9d40-4ced-9094-1a1950d1fde6
+  priority: 1
+  slug: naif-04-png-product-2
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: naif-logo-0
   type: logo
-offerId: e117e1bb-05fc-49e2-99b1-7904efdff603
+offerId: ec80cfde-dd4e-44f1-8022-fe5fc7e6683f
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 77.97
 slug: 3x-naif-beschermende-dagcreme-50-ml
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 3x Naïf Beschermende Dagcrème | 50 ml

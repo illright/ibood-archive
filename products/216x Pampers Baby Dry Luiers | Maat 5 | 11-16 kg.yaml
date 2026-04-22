@@ -1,12 +1,12 @@
-_id: 69de4d894762fc11424830fb
+_id: 69e782ed06e4063af0e8261d
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 14f56166-63bb-5082-bb9c-c34ab92589c7
-classicId: '3162739'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3175139'
 classicProductId: '698242'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 55
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: e3c83799-26a7-4f6c-ad1a-370c8c10449e
+id: 3702230b-e003-422c-8ebe-cacc06c47c4b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 61c3e9ab-4cd7-4bfb-a922-aabb95a1fd77
-  priority: 0
-  slug: pampers-png-logo-0
+  extension: png
+  id: 1919243
+  priority: 100
+  slug: pampers-logo
   type: logo
-offerId: 22bfcd39-faf2-4ff5-80f2-6a9090ab3e99
+offerId: efc9a288-9e40-4d5e-803b-8db4eef8bc49
 price:
   cents: 4995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 111.98
 slug: 216x-pampers-baby-dry-luiers-maat-5
-soldOut: true
-start: '2026-04-14T22:00:00.000Z'
+soldOut: false
+start: '2026-04-21T22:00:00.000Z'
 title: 216x Pampers Baby Dry Luiers | Maat 5 | 11-16 kg

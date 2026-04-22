@@ -1,22 +1,22 @@
-_id: 69d7777dcd8c24113cf3b118
+_id: 69e782ef06e4063af0e82623
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 14f56166-63bb-5082-bb9c-c34ab92589c7
-classicId: '3152315'
-classicProductId: '705456'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3175170'
+classicProductId: '705455'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 48
-end: '2026-04-21T21:59:59.999Z'
+discount: 49
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: b1572ed8-7436-5662-81b7-fb73f014a003
+id: 9e875176-2c07-4112-b27a-0e35ad070a8e
 image:
   channels:
     - app
@@ -24,31 +24,30 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: b4e3d719-7123-43ce-8971-e6691ab12574
+  id: 6517857c-af1f-4a12-bde9-e08f7943f194
   priority: 0
-  slug: pampers-12-png-product-1
+  slug: pampers-11-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a682b844-3199-4aad-9887-981dcefa9dca
-  priority: 0
-  slug: pampers-png-logo-0
+  extension: png
+  id: 1919243
+  priority: 100
+  slug: pampers-logo
   type: logo
-offerId: 343b6c2a-70b1-58c2-a360-169141abd5d0
+offerId: 036ba912-4309-49bc-bce5-d68ea351c8cb
 price:
   cents: 2795
   currency: EUR
   value: 27.95
 referencePrice:
-  cents: 5396
+  cents: 5499
   currency: EUR
-  value: 53.96
+  value: 54.99
 slug: 120x-pampers-baby-dry-luier-maat-4
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 120x Pampers Baby Dry Luier | Maat 4 | 9-14 kg

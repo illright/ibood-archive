@@ -1,12 +1,12 @@
-_id: 69dc8fd3e5d23dea43c2dcea
+_id: 69e74b4d96f1054962088d77
 appOnly: false
 brand: AEG
 brands:
   - id: 24684d3a-e900-5d86-bf58-a8e81b48a5aa
     name: AEG
 categories:
-  - 39d1bcb7-687a-56cf-bc5d-d4b1f1e7dead
-classicId: '3154825'
+  - f09e65ec-6231-5632-bb1f-e867df562b48
+classicId: '3171083'
 classicProductId: '705785'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 47
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: efc2ef72-b996-54fb-b246-d0535bf9ccd3
+id: 2e248984-bd97-4da0-9aab-40ee3d4f138a
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: aeg-ab51c2dg-stofzuiger-met-stofzak-product-8
   type: product
-offerId: e43390f0-27a5-586f-aa83-eb126ae7012f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1774563
+  priority: 100
+  slug: aeg-logo
+  type: logo
+offerId: 8b02b613-777c-4dcd-82df-41249234c930
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: aeg-ab51c2dg-5000-stofzuiger-met-stofzak
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: AEG AB51C2DG  5000 Stofzuiger met Stofzak

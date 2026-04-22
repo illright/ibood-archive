@@ -1,22 +1,22 @@
-_id: 69cd2f3a4fe6bbfeb8ff1f5e
+_id: 69e6101ba65f90c69faad7fd
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 70abb20c-5e90-560d-9c07-1764c438edb9
-classicId: '3138836'
-classicProductId: '703736'
+  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
+classicId: '3168166'
+classicProductId: '703743'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: d9b4d1ad-0262-5deb-a147-d32e0ad314d2
+id: e5239e44-d9fe-4289-b364-b717221a3b64
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5fad5a98-0b35-42e5-9b01-4518692d8256
+  id: defd7642-7ee8-4b86-881a-8d08f6476a4f
   priority: 0
-  slug: schoen-03-png-product-1
+  slug: schoen-04-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4863727e-beb7-41cb-b347-b05c391c5b88
-  priority: 0
-  slug: travelin-png-logo-0
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
   type: logo
-offerId: 5f374ca3-115b-588e-a8bd-23a22ec232fb
+offerId: ac222e99-5297-452e-b40f-ae8c569661a7
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 199.95
 slug: travelin-gudhjem-wandelschoenen-heren
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Travelin' Gudhjem Wandelschoenen | Heren

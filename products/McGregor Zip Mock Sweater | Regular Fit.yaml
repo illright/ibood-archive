@@ -1,0 +1,53 @@
+_id: 69e62bb864b25b828da19d97
+appOnly: false
+brand: McGregor
+brands:
+  - id: ab904669-c30e-5e44-b440-d11ada358fbf
+    name: McGregor
+categories:
+  - 6c6d77e6-c64b-5f35-b556-5ada335c5bee
+classicId: '3169866'
+classicProductId: '684277'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 69
+end: '2026-05-04T21:59:59.999Z'
+freeDelivery: false
+id: e29ce337-47fc-4e07-a943-0255607390e7
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 840221af-8ca1-46c7-9cfc-8635704bf8da
+  priority: 0
+  slug: main-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: c1c69fe0-60fa-49bc-95eb-5ba8e65a9463
+price:
+  cents: 3995
+  currency: EUR
+  value: 39.95
+referencePrice:
+  cents: 12995
+  currency: EUR
+  value: 129.95
+slug: mcgregor-zip-mock-sweater-regular-fit
+soldOut: false
+start: '2026-04-20T22:00:00.000Z'
+title: McGregor Zip Mock Sweater | Regular Fit

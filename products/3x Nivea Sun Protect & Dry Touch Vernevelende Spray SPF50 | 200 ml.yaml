@@ -1,44 +1,44 @@
-_id: 69df641af4aadb52e33117a5
+_id: 69e782b5dc4cbc51261f83ff
 appOnly: false
 brand: Nivea Sun
 brands:
   - id: a2170227-a9c4-50d7-9452-5dc927159020
     name: Nivea Sun
 categories:
-  - 14f56166-63bb-5082-bb9c-c34ab92589c7
-classicId: '3164441'
-classicProductId: '634164'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3174962'
+classicProductId: '641097'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: a7e9a015-b63a-4ec3-938b-febc7c30739b
+id: d5cb6fa8-5e6b-48e1-beac-e67ab508cfb7
 image:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2200011
+  priority: 0
+  slug: 3x-nivea-sun-protect-dry-touch-spf50
+  type: product
+logo:
   channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: 3c452376-7232-4e29-82f3-c3a66c027857
-  priority: 0
-  slug: nivea-01-png-product-1
-  type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1904898
-  priority: 100
-  slug: 3x-nivea-sun-protect-dry-touch-spf50
+  id: 0c976cd9-968c-4a49-a9f5-b81051831b33
+  priority: 101
+  slug: nivea-sun-logo-101
   type: logo
-offerId: ab34da72-1f80-4ad3-9f2b-5a522f842cff
+offerId: cf65ae1f-7371-4b02-a22c-4459c8bd4714
 price:
   cents: 2795
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 85.47
 slug: 3x-nivea-sun-protect-dry-touch-spf50
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 3x Nivea Sun Protect & Dry Touch Vernevelende Spray SPF50 | 200 ml

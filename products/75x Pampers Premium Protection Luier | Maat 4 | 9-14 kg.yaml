@@ -1,12 +1,12 @@
-_id: 69d77774746c7d2a1fa86047
+_id: 69e782e1857c59b945d52888
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 14f56166-63bb-5082-bb9c-c34ab92589c7
-classicId: '3152320'
+  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
+classicId: '3175112'
 classicProductId: '705451'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: c3e825cf-44f4-560f-b50c-a9668dfce7b8
+id: 61f42222-bd9a-4e73-a890-09c09d48f191
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f2f04866-75d1-443c-bda3-3a1fcc11eab9
-  priority: 0
-  slug: pampers-png-logo-0
+  extension: png
+  id: 1919243
+  priority: 100
+  slug: pampers-logo
   type: logo
-offerId: e4bebb26-4e2f-506b-87c4-5eade6b407cc
+offerId: 6c94df80-6f41-4b21-bbf3-d2b694e2a0ec
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 43.47
 slug: 75x-pampers-premium-protection-luier-maat-4
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 75x Pampers Premium Protection Luier | Maat 4 | 9-14 kg

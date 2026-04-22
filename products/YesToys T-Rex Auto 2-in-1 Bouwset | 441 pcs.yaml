@@ -1,12 +1,12 @@
-_id: 69c2b3f4d2463e51700daa58
+_id: 69e75128043572fb18ecb28f
 appOnly: false
 brand: YesToys
 brands:
   - id: db2220bc-da1a-506d-9d56-ae9541c74034
     name: YesToys
 categories:
-  - 68e1301a-2812-515f-a854-def27165553e
-classicId: '3110549'
+  - 9b426fe4-f414-59ae-bebd-59abecb8ccd4
+classicId: '3172308'
 classicProductId: '701988'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 38c776f5-2d74-565d-a0aa-63621f257a81
+id: 778ac11b-0ac0-4d23-b340-732e1c9b65b8
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: yestoys-t-rex-car-385yes52217-product-0
   type: product
-offerId: 08b8ef4a-4a10-589e-95ec-7befc33a992a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b65ddf2f-f4b6-4e55-9f8f-44399bf46b00
+  priority: 0
+  slug: yestoys-logo-0
+  type: logo
+offerId: 74df7c9e-4f44-4af2-a466-8b5973ac482b
 price:
   cents: 995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 27.99
 slug: yestoys-t-rex-auto-2-in-1-bouwset-441-pcs
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: YesToys T-Rex Auto 2-in-1 Bouwset | 441 pcs

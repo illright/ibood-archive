@@ -1,12 +1,12 @@
-_id: 69de0ab70086065400365122
+_id: 69e7519ea90575a7b3d04026
 appOnly: false
 brand: HASBRO
 brands:
   - id: cac571e6-1496-5928-9e99-1b92d9fa21c4
     name: HASBRO
 categories:
-  - 68e1301a-2812-515f-a854-def27165553e
-classicId: '3160054'
+  - 9b426fe4-f414-59ae-bebd-59abecb8ccd4
+classicId: '3172509'
 classicProductId: '701556'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 49a47528-09d6-4d9c-bf40-9820d10e8781
+id: b02dcb88-b20a-4a81-9fd8-f07a059eadc3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ce22aeff-58e9-4b43-8216-8cc50cc13400
-  priority: 0
-  slug: hasbro-png-logo-0
+  extension: png
+  id: 1744551
+  priority: 100
+  slug: hasbro-logo
   type: logo
-offerId: 5fb9dd2d-a99a-455c-93e2-60c4993c0d64
+offerId: a65dcf4a-e108-4039-9679-79f0b080e94d
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 26.99
 slug: hasbro-earthspark-figure-deluxe-prowl
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Hasbro Earthspark Figure Deluxe Prowl

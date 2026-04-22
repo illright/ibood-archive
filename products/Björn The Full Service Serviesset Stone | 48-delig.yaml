@@ -1,34 +1,31 @@
-_id: 69df757ce5d23dea43c34ca0
+_id: 69e74ccb043572fb18ecb060
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - 23f01cf6-d98f-55f1-9774-39000a638d98
-classicId: '3164724'
-classicProductId: '443625'
+  - 8bc7989a-8294-5dc2-ac82-7a7236e18a2c
+classicId: '3171763'
+classicProductId: '443621'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 67
-end: '2026-04-21T21:59:59.999Z'
+directCheckout: false
+discount: 70
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: a3960b80-2304-44bf-8ef5-d7543ccb80df
+id: 8169b69d-646c-4cca-82ba-36dc16c73690
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: 4f097cf0-436a-492b-aa42-07ea73cdaae2-tr
+  extension: png
+  id: 1619175
   priority: 0
-  slug: bjorn-the-full-service-48-delige-serviesset-stone-2-png-product-1
+  slug: bjorn-the-full-service-48-delige-serviesset-stone
   type: product
 logo:
   channels:
@@ -38,18 +35,18 @@ logo:
   extension: png
   id: 1619105
   priority: 100
-  slug: bjorn-logo
+  slug: bjorn-the-full-service-48-delige-serviesset-stone
   type: logo
-offerId: a07a01e5-eff3-4e6f-9579-255a8dbbf808
+offerId: f2a06a6c-7b2d-41f2-8a49-0ba48d5f3291
 price:
-  cents: 19900
+  cents: 18900
   currency: EUR
-  value: 199
+  value: 189
 referencePrice:
-  cents: 60990
+  cents: 61990
   currency: EUR
-  value: 609.9
+  value: 619.9
 slug: bjorn-the-full-service-48-delige-serviesset-stone
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Björn The Full Service Serviesset Stone | 48-delig

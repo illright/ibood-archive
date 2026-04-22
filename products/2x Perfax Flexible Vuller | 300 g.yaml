@@ -1,12 +1,12 @@
-_id: 69df4a62988ac16220346215
+_id: 69e5f822faf4273baf2e71b9
 appOnly: false
 brand: Perfax
 brands:
   - id: 8e6cff46-167f-5783-b0ce-ed1d2f39919e
     name: Perfax
 categories:
-  - d67cd36c-e1a3-597b-8910-b443aedf6236
-classicId: '3163868'
+  - ab0d0c66-81ec-525f-9cd8-66cf677bbcfc
+classicId: '3167930'
 classicProductId: '521253'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 6c0c278b-14e7-4d8a-86a8-bce6c26fb987
+id: 6ac92e98-ecf3-4b4c-ae89-a3ca30b59f74
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: 2x-perfax-flexible-vuller-300-g
   type: product
-offerId: 184011bf-ca6a-4d5b-b3df-358cf7917d14
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1855019
+  priority: 100
+  slug: perfax-logo
+  type: logo
+offerId: c53e6fac-f732-4b12-8ef2-0d1f8822afdc
 price:
   cents: 1095
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 19.2
 slug: 2x-perfax-flexible-vuller-300-g
 soldOut: false
-start: '2026-04-13T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: 2x Perfax Flexible Vuller | 300 g

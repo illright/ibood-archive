@@ -1,12 +1,12 @@
-_id: 69ddf591f4aadb52e330b63b
+_id: 69e60ff299d749e662aa04a2
 appOnly: false
 brand: Mizuno
 brands:
   - id: 4fec73e8-8c86-58da-9eab-cfab3a20a37b
     name: Mizuno
 categories:
-  - 014d7026-34f0-52e2-9d17-4ae4224fe760
-classicId: '3158441'
+  - ff82595f-39b5-547a-8174-efe3efcbbd6b
+classicId: '3168140'
 classicProductId: '678338'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 36
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: db6cf170-14e1-4ba8-aa1c-5d3a3ebeb814
+id: e9208211-5526-42e7-b5a1-4eaf58b363e4
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: 42-eventide-white-first-bloom-j1gd2618-25-wave-ultima-17-wos-women-mizuno-product-1
   type: product
-offerId: b10e773e-d32f-4e3a-9d37-26c10aab3956
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1807305
+  priority: 100
+  slug: mizuno-logo
+  type: logo
+offerId: 0b3524b3-99b0-49a5-a35f-25a44287d87e
 price:
   cents: 8995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 140
 slug: mizuno-j1gc2618-wave-ultima-17-laufschuh-damen
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Mizuno J1GC2618 Wave Ultima 17 hardloopschoen | Dames

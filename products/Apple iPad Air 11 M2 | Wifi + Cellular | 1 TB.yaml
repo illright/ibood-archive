@@ -1,22 +1,22 @@
-_id: 69df5d5df4aadb52e331151b
+_id: 69e74b2696f1054962088d2c
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 655ab2f1-e643-5db9-8c49-21289a55a07b
-classicId: '3164183'
+  - 4e6643d9-0765-53a2-b18c-8ba9afcf823e
+classicId: '3171039'
 classicProductId: '694858'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 47
-end: '2026-04-21T21:59:59.999Z'
+directCheckout: false
+discount: 54
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 6e3e3779-6077-413c-a01c-660312e219bd
+id: 7b281a96-739e-473a-af37-973e97f8d357
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: bef7e739-c11b-42f2-908c-908b8fdd3df8
+  id: ce529dd3-f147-4188-a3e7-b6553f92fec4
   priority: 0
-  slug: purp11-png-product-8
+  slug: ipad-mainz-mo-png-product-1
   type: product
 logo:
   channels:
@@ -38,17 +38,16 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: cc942c2c-a2a6-427c-bf27-196ef594d499
+offerId: 2da7f25a-90d9-4af1-8a2b-e231c951137b
 price:
-  cents: 79900
+  cents: 69900
   currency: EUR
-  value: 799
+  value: 699
 referencePrice:
   cents: 151900
   currency: EUR
   value: 1519
 slug: apple-ipad-air-11-m2-wifi-celullar-1-tb
 soldOut: false
-start: '2026-04-15T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Apple iPad Air 11 M2 | Wifi + Cellular | 1 TB
-

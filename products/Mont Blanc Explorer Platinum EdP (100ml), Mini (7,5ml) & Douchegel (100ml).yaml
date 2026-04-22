@@ -1,12 +1,12 @@
-_id: 69ce7d3fdddba0356126f33b
+_id: 69e7844423aed90e1022e3b5
 appOnly: false
 brand: Mont Blanc
 brands:
   - id: 7970737b-0959-5b4b-a3a7-aa1bd88b9a02
     name: Mont Blanc
 categories:
-  - c0b0f1c4-a86b-59ea-94b6-f35222e353f5
-classicId: '3141666'
+  - 5aae2617-f328-5ec4-99ad-b437cf430b7f
+classicId: '3175987'
 classicProductId: '681556'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: cc00e10f-462f-5c8f-9b69-0793d4963073
+id: d46769c4-5d53-4afb-8d97-4e680e2aeddb
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: parfum-01-png-product-1
   type: product
-offerId: 1251ca84-22f1-5f15-8aa8-ab78483cd6ae
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008255
+  priority: 100
+  slug: mont-blanc-logo
+  type: logo
+offerId: 0d564215-0386-41d8-8ae3-3eb1e7baa9d4
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 120
 slug: mont-blanc-explorer-platinum-edp-mini-douchegel
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Mont Blanc Explorer Platinum EdP (100ml), Mini (7,5ml) & Douchegel (100ml)

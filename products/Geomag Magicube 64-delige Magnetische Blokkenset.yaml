@@ -1,12 +1,12 @@
-_id: 69c2b25ad2463e51700da9b6
+_id: 69e750c664b25b828da1a40b
 appOnly: false
 brand: Geomag
 brands:
   - id: e1688028-94b7-5c50-8878-486dab593af5
     name: Geomag
 categories:
-  - 68e1301a-2812-515f-a854-def27165553e
-classicId: '3110213'
+  - 9b426fe4-f414-59ae-bebd-59abecb8ccd4
+classicId: '3172113'
 classicProductId: '701923'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 133b33de-6fa6-5597-b526-8e39f74a4fed
+id: 149a4255-3483-4e3a-9c0b-d983f7800754
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 40da4728-fef9-4b6c-93f7-fa6abc34f6ca
-  priority: 0
-  slug: geomag-logo-png-logo-0
+  extension: png
+  id: 2020963
+  priority: 100
+  slug: geomag-logo
   type: logo
-offerId: a847ddc4-9153-5384-b103-a310366a7879
+offerId: 1753155c-29ca-490c-97fe-7f663377fa09
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119.99
 slug: geomag-magicube-64-delige-magnetische-blokkenset
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Geomag Magicube 64-delige Magnetische Blokkenset

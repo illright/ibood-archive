@@ -1,12 +1,12 @@
-_id: 69ddfac8491114071e80c64b
+_id: 69e74b50142ed4fb59810b54
 appOnly: false
 brand: Duux
 brands:
   - id: ee0464f7-a5fb-5f85-b907-8b2578d2f118
     name: Duux
 categories:
-  - 18ad1454-cdb9-53fe-a86a-36f293083e2e
-classicId: '3158663'
+  - 486ddda6-1903-5dc5-bc19-1270eea36e58
+classicId: '3171107'
 classicProductId: '658302'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-04-21T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: 4a57dd20-3449-427b-b93b-c3c63553dab4
+id: 991d5a50-f4e2-494d-ac1b-e57b16072d7b
 image:
   channels:
     - newsletter
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0fd2cf06-4e0e-4c02-a7d8-ac47f081c5ac
-  priority: 0
-  slug: duux1-png-logo-0
+  extension: png
+  id: 1695408
+  priority: 100
+  slug: duux-logo
   type: logo
-offerId: 9aaed698-6f88-45e8-9e89-bf86ab842574
+offerId: af073f4f-3b6c-44db-b740-aa07bc961be0
 price:
   cents: 5999
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 139.99
 slug: duux-snooze-warmte-onderdeken-200-x-140-cm
 soldOut: false
-start: '2026-04-14T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Duux Snooze Warmte Onderdeken | 200 x 140 cm
