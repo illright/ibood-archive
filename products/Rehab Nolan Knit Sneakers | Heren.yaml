@@ -1,12 +1,12 @@
-_id: 69e62552a65f90c69faada85
+_id: 69e8ac9323aed90e1022e665
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - 6c6d77e6-c64b-5f35-b556-5ada335c5bee
-classicId: '3168763'
+  - 1a14757d-5435-5326-a877-f313ffa86c1b
+classicId: '3177382'
 classicProductId: '525983'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-04-28T21:59:59.999Z'
 freeDelivery: false
-id: 75be79a1-c1f5-4727-89cf-f3e7fcec8177
+id: eab27c4c-b2c2-4e43-9d52-6303a88a718b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1449555
+    - all
+  extension: image/png
+  id: 09cbc7b2-cfbe-43e6-98b6-e422a23b9cf9
   priority: 0
-  slug: rehab-nolan-knit-sneakers-heren
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -33,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1784871
+  id: 1784872
   priority: 100
-  slug: rehab-nolan-knit-sneakers-heren
+  slug: rehab-logo
   type: logo
-offerId: 626fbc93-b2d5-49c8-9329-7a2a94fb0cc2
+offerId: 090d3aea-a4ac-4a25-b2dd-8739494842ac
 price:
   cents: 8995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: rehab-nolan-knit-sneakers-heren
 soldOut: false
-start: '2026-04-20T22:00:00.000Z'
+start: '2026-04-21T22:00:00.000Z'
 title: Rehab Nolan Knit Sneakers | Heren

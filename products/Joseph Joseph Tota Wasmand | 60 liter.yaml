@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5a045ac5-4991-47cf-8218-211ed2a8ff82
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1099266
+  extension: image/png
+  id: f72a5d8e-c4be-4f8a-90f8-b09a8db8621a-tr
   priority: 0
-  slug: joseph-joseph-tota-wasmand-60-liter
+  slug: joseph-joseph-tota-wasmand-60-liter-jpg-product-1
   type: product
 logo:
   channels:

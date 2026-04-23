@@ -1,31 +1,32 @@
-_id: 69e6290296f10549620888b7
+_id: 69e7221164b25b828da19e47
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 6c6d77e6-c64b-5f35-b556-5ada335c5bee
-classicId: '3169404'
-classicProductId: '581855'
+  - f30dcc19-31ac-5f2f-8360-5e8495f24a00
+classicId: '3170369'
+classicProductId: '581822'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 56
-end: '2026-05-04T21:59:59.999Z'
+discount: 61
+end: '2026-04-23T21:59:59.999Z'
 freeDelivery: false
-id: 2f820ffb-a8f6-45f2-b370-91b0747d5a30
+id: bbdc265c-ffe7-5842-8156-c1c367ca65ee
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1998744
+    - all
+  extension: image/png
+  id: 66e84396-194b-4401-86b3-860993c636fa
   priority: 0
-  slug: petrol-industries-santiago-jeans
+  slug: petrol-01-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: petrol-industries-santiago-jeans
   type: logo
-offerId: bf91ab00-b28e-4e2a-879a-6ab6834e773b
+offerId: f64235e4-fef8-536d-b405-937b48db8b1c
 price:
-  cents: 3995
+  cents: 3495
   currency: EUR
-  value: 39.95
+  value: 34.95
 referencePrice:
   cents: 8999
   currency: EUR
   value: 89.99
 slug: petrol-industries-santiago-jeans
 soldOut: false
-start: '2026-04-20T22:00:00.000Z'
+start: '2026-04-22T22:00:00.000Z'
 title: Petrol Industries Santiago Jeans | Heren
