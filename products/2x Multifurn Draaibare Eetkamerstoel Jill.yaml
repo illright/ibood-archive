@@ -19,13 +19,16 @@ freeDelivery: false
 id: 2ff65e4e-999e-489f-aa51-0fe75003756c
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 1892545
+  extension: image/png
+  id: b49a6242-6da7-4493-bbd4-95ce57a82aac-tr
   priority: 0
-  slug: 2x-multifurn-jill-esszimmerstuhl
+  slug: 2x-multifurn-jill-esszimmerstuhl-5-jpg-product-1
   type: product
 logo:
   channels:
@@ -50,6 +53,4 @@ slug: 2x-multifurn-draaibare-eetkamerstoel-jill
 soldOut: false
 start: '2026-04-21T22:00:00.000Z'
 title: 2x Multifurn Draaibare Eetkamerstoel Jill
-false
-start: '2026-04-21T22:00:00.000Z'
-title: 2x Multifurn Draaibare Eetkamerstoel Jill
+

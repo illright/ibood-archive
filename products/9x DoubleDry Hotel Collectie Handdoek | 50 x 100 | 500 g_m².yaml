@@ -1,4 +1,4 @@
-_id: 69e76da423aed90e1022def7
+_id: 69e76da496f10549620893f9
 appOnly: false
 brand: Double Dry
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Double Dry
 categories:
   - 4279497f-b6c7-5ec7-9d60-cdc96d1b90e8
-classicId: '3173555'
-classicProductId: '693628'
+classicId: '3173554'
+classicProductId: '578259'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 63
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 8e690a30-38c7-44a2-b3d6-d02e48bf814e
+id: 40cb0c96-e022-4f38-a9de-511268b557f8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1973116
+    - all
+  extension: image/png
+  id: 8cd422d0-aa8e-4257-b784-d3e1d23dd099
   priority: 0
-  slug: 9x-doubledry-hotel-handdoek-50-x-100-cm
+  slug: doubledry-69-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: doubledry-logo
   type: logo
-offerId: ef7dafa4-5841-4a84-a303-8380c5ba450c
+offerId: 72bd0b3e-cb2f-4a36-81b1-4a2e32085a20
 price:
   cents: 2795
   currency: EUR
@@ -50,4 +51,3 @@ slug: 9x-doubledry-hotel-handdoek-50-x-100-cm
 soldOut: false
 start: '2026-04-21T22:00:00.000Z'
 title: 9x DoubleDry Hotel Collectie Handdoek | 50 x 100 | 500 g/m²
- Handdoek | 50 x 100 | 500 g/m²
