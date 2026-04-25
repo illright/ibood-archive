@@ -1,4 +1,4 @@
-_id: 69e618a1897bbde252f9becc
+_id: 69e5e9367f4bdb5061d3c186
 appOnly: false
 brand: Jeep
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Jeep
 categories:
   - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3168559'
+classicId: '3167120'
 classicProductId: '694172'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 61
+directCheckout: true
+discount: 56
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 5eac1de2-ea5e-560c-8922-90512d2310f5
+id: 589eff9d-b87c-4b1c-9534-a36157e86e88
 image:
   channels:
     - app
@@ -39,11 +39,11 @@ logo:
   priority: 0
   slug: jeep-logo-0
   type: logo
-offerId: 540bd8a0-1827-543a-bfe9-518c83695abc
+offerId: 62fb41eb-7f77-400c-aee3-7a134e4ee99b
 price:
-  cents: 8995
+  cents: 9995
   currency: EUR
-  value: 89.95
+  value: 99.95
 referencePrice:
   cents: 22900
   currency: EUR
@@ -52,3 +52,4 @@ slug: jeep-duffel-trolley-xl-82-cm
 soldOut: false
 start: '2026-04-21T22:00:00.000Z'
 title: Jeep Duffel Trolley | XL | 82 cm
+

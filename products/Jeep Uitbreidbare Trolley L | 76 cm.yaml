@@ -1,4 +1,4 @@
-_id: 69e618ac64b25b828da198d4
+_id: 69e5e9c3d70d7f47ed8d533c
 appOnly: false
 brand: Jeep
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Jeep
 categories:
   - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3168530'
+classicId: '3167328'
 classicProductId: '694154'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 63
+directCheckout: true
+discount: 60
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 119813e3-1b31-596b-905a-742e07b91d8d
+id: 709209fd-c57b-4aa5-851e-d9bf7cb9541d
 image:
   channels:
     - app
@@ -39,16 +39,17 @@ logo:
   priority: 0
   slug: jeep-logo-0
   type: logo
-offerId: 7e7f9f44-0915-5a81-833c-bfa93d4461b9
+offerId: 159f0eaf-d3ee-4988-99a7-529682fdb4d7
 price:
-  cents: 10995
+  cents: 11995
   currency: EUR
-  value: 109.95
+  value: 119.95
 referencePrice:
   cents: 29900
   currency: EUR
   value: 299
 slug: jeep-uitbreidbare-trolley-l-76-cm
-soldOut: false
+soldOut: true
 start: '2026-04-21T22:00:00.000Z'
 title: Jeep Uitbreidbare Trolley L | 76 cm
+m
