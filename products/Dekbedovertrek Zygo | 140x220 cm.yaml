@@ -1,4 +1,4 @@
-_id: 69e76b402489def398b75cfd
+_id: 69e76b0a043572fb18ecb554
 appOnly: false
 brand: De Witte Lietaer
 brands:
@@ -6,25 +6,25 @@ brands:
     name: De Witte Lietaer
 categories:
   - fdad5b42-61bd-53cb-9f18-abbd53e11552
-classicId: '3173102'
-classicProductId: '212354'
+classicId: '3173043'
+classicProductId: '212351'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
+discount: 62
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: bc9b41ff-7b18-4765-9e92-06cdd45b149c
+id: db4b0c18-d9c5-4ea3-bb1a-8dadbb29ca95
 image:
   channels:
     - website
     - app
     - newsletter
   extension: jpg
-  id: 533312
-  priority: 4
+  id: 533311
+  priority: 5
   slug: bettwasche-zygo-140-x-220-cm
   type: product
 logo:
@@ -37,16 +37,17 @@ logo:
   priority: 100
   slug: de-witte-lietaer-logo
   type: logo
-offerId: f8208bc2-b0d5-4d32-9ff2-6cbd08251780
+offerId: 534caa09-3ce6-4148-aefa-2e76cfa5d465
 price:
-  cents: 6495
+  cents: 4995
   currency: EUR
-  value: 64.95
+  value: 49.95
 referencePrice:
   cents: 12995
   currency: EUR
   value: 129.95
 slug: de-witte-lietaer-dekbedovertrek-zygo-140x220-cm
-soldOut: false
+soldOut: true
 start: '2026-04-21T22:00:00.000Z'
 title: Dekbedovertrek Zygo | 140x220 cm
+
