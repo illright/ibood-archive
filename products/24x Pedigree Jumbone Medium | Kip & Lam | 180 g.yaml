@@ -1,12 +1,12 @@
-_id: 69e782fb96f1054962089aeb
+_id: 69f09240b7136d94e58fcd49
 appOnly: false
 brand: Pedigree
 brands:
   - id: 3b2a45d0-c64c-5645-b226-325f850e3812
     name: Pedigree
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3175190'
+  - cae8e279-a269-5686-ad75-29cb8ba1248d
+classicId: '3181191'
 classicProductId: '514495'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-05T21:59:59.999Z'
 freeDelivery: false
-id: 2a7fe3b5-d141-4032-8531-0c6b4e2bdf3c
+id: 88c31377-a792-433e-bc1c-364fbeabd121
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1467318
+    - all
+  extension: image/png
+  id: e316a22f-d4d3-40bf-b652-854cb126049b
   priority: 0
-  slug: 24x-pedigree-huhn-lamm-hundesnack
+  slug: pedigree-01-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: pedigree-logo
   type: logo
-offerId: 6c7d76c6-f4e9-4df9-93bf-45e7f1b480fe
+offerId: 3d29bd7f-4f4c-4b21-9867-9fe2f2cd1f81
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 71.76
 slug: 24x-pedigree-jumbone-medium-kip-lam-180-g
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: 24x Pedigree Jumbone Medium | Kip & Lam | 180 g

@@ -1,31 +1,34 @@
-_id: 69e76dfb23aed90e1022df45
+_id: 69e9ffb3aa24632021dd53ab
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 4279497f-b6c7-5ec7-9d60-cdc96d1b90e8
-classicId: '3173603'
-classicProductId: '208889'
+  - 52f0faf9-8314-5053-b485-1d32b45c1bbd
+classicId: '3179222'
+classicProductId: '175104'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-03T21:59:59.999Z'
 freeDelivery: false
-id: d7eb6bcc-0e1f-4f9e-8490-f9862ba56daa
+id: 78c109b9-f967-5cad-9939-2048f99779fb
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 409967
+  extension: image/png
+  id: cc107269-5431-4a33-a21e-a3692c7c3346-tr
   priority: 0
-  slug: ten-cate-overtrek-satin-240x200220
+  slug: satin-bettwasche-240-x-200220-cm-jpg-product-0
   type: product
 logo:
   channels:
@@ -38,7 +41,7 @@ logo:
   priority: 0
   slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 076c0ab8-9498-4c26-9be1-5889a7be4be1
+offerId: 439a88dd-01c0-5a2f-9195-9a48507b6ab8
 price:
   cents: 5495
   currency: EUR
@@ -49,5 +52,5 @@ referencePrice:
   value: 129.95
 slug: ten-cate-overtrek-satin-240x200220
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Ten Cate 2-Persoons Dekbedovertrek Satin | 240 x 200/220

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 5b8dfb90-8bc0-4233-8edf-0846e7cbaa3f
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 777822
+  extension: image/png
+  id: 338f7891-eca7-48c6-aa29-1177cdeb88ad-tr
   priority: 0
-  slug: vans-asher-sneakers-heren
+  slug: vans-asher-sneakers-herren-jpg-product-1
   type: product
 logo:
   channels:
