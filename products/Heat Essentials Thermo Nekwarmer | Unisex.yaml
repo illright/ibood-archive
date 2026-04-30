@@ -1,12 +1,12 @@
-_id: 69e610b2950b767fb86ce4f6
+_id: 69f0d670d54b12971016f3e8
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168332'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183419'
 classicProductId: '508651'
 deliveryPrice:
   cents: 395
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 53
-end: '2026-04-29T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 0258ff89-7457-412d-88e2-0dabb57b256e
+id: 7b991564-2ae4-4dcf-bd8f-641435c1d5ce
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1718178
+    - all
+  extension: image/png
+  id: 2dbac949-1c5c-470b-9d73-0376fa7491e2
   priority: 0
-  slug: heat-essentials-thermo-nekwarmer-unisex
+  slug: outdoor-01-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: heat-essentials-logo
   type: logo
-offerId: efa62286-f19b-4b00-a37e-aa5ba82ddd12
+offerId: 847166fc-e045-4a2a-aa4c-35558d2bbf8d
 price:
   cents: 945
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 19.95
 slug: heat-essentials-thermo-nekwarmer-unisex
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-29T22:00:00.000Z'
 title: Heat Essentials Thermo Nekwarmer | Unisex

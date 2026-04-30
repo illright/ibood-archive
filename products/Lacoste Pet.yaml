@@ -1,32 +1,31 @@
-_id: 69ce4694746c7d2a1fa84343
+_id: 69f1f2103a59cb3ed15d3ee4
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - ba6a2cdf-1aa3-5b58-9d26-a9614e45fa39
-classicId: '3140121'
-classicProductId: '295606'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184607'
+classicProductId: '295607'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 42
+directCheckout: false
+discount: 53
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 2b30ed9d-68fa-501e-9d92-3654f8b61a17
+id: 44f14ce7-1b35-4fd8-b0a6-a443c3fc9091
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 23803219-bb45-4e30-8a65-d4e2f3908b68
+  extension: png
+  id: 889908
   priority: 0
-  slug: 141406-1-png-product-1
+  slug: lacoste-pet
   type: product
 logo:
   channels:
@@ -38,16 +37,19 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 5da22695-f50e-5efd-bd22-34c254b76dc1
+offerId: d3e1d763-ac15-4b59-9522-cb9d41432264
 price:
-  cents: 3495
+  cents: 2795
   currency: EUR
-  value: 34.95
+  value: 27.95
 referencePrice:
   cents: 6000
   currency: EUR
   value: 60
 slug: lacoste-pet
 soldOut: false
+start: '2026-04-28T22:00:00.000Z'
+title: Lacoste Pet
+se
 start: '2026-04-22T22:00:00.000Z'
 title: Lacoste Pet

@@ -1,12 +1,12 @@
-_id: 69e5e98364b25b828da19504
+_id: 69f1f24aadf93f3f37686eae
 appOnly: false
 brand: Jimmy Choo
 brands:
   - id: 68e35fb1-12ee-5116-8cbf-82620cc38bf3
     name: Jimmy Choo
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167232'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184705'
 classicProductId: '702628'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 69
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 20d022dc-c123-4688-8347-c994a003e8b8
+id: e8ed3a59-ea31-40a8-84d3-65d1ace5c94b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d2dbeb5f-ae50-47d7-9854-e8999cf7e891
-  priority: 0
-  slug: jimmy-choo-logo-png-logo-0
+  extension: png
+  id: 1707573
+  priority: 100
+  slug: jimmy-choo-logo
   type: logo
-offerId: d3b55c9c-d3ef-4bd2-aa3c-1dc696bfe0c6
+offerId: a206d010-3769-48a6-bf30-14d9156375f3
 price:
   cents: 9995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 320
 slug: jimmy-choo-rua-g-s-zonnebril-dames-nude
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Jimmy Choo Rua/G/S Zonnebril | Dames | Nude

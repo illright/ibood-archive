@@ -1,12 +1,12 @@
-_id: 69e5e9567f4bdb5061d3c1dd
+_id: 69f1f2369f8b31126d24f0e4
 appOnly: false
 brand: Jimmy Choo
 brands:
   - id: 68e35fb1-12ee-5116-8cbf-82620cc38bf3
     name: Jimmy Choo
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167160'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184668'
 classicProductId: '702632'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 65
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 88273e5d-fe7b-4011-837e-f5faea633190
+id: 6a708312-8438-450f-98f9-6404045a429b
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f1612a31-2e77-498f-8436-e2c6330a4334
-  priority: 0
-  slug: jimmy-choo-logo-png-logo-0
+  extension: png
+  id: 1707573
+  priority: 100
+  slug: jimmy-choo-logo
   type: logo
-offerId: 0c84a346-f9f2-4a8e-8bb1-6bb2f1267f40
+offerId: 6bd02cd9-dc53-4f3e-a81a-71ebdacd0f4f
 price:
   cents: 10995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 315
 slug: jimmy-choo-belinda-s-zonnebril-dames
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Jimmy Choo Belinda/S Zonnebril | Dames

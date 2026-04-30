@@ -1,22 +1,22 @@
-_id: 69e618df96f105496208857a
+_id: 69f1f2123a59cb3ed15d3ee8
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3168585'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184610'
 classicProductId: '665214'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 57
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 411258d4-cce9-5371-b027-bbe374a3709c
+id: 8779c213-de06-4202-843a-0c5af1b38522
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4b681381-6772-450e-bed3-ebaf07e74380
+  id: 2d3939fd-b029-45e9-a88e-c107f2a93a1e
   priority: 0
-  slug: 2-png-product-1
+  slug: de01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: delsey-logo
   type: logo
-offerId: 2fe04d2d-ef2e-5a7f-82d9-654fad2d58bb
+offerId: edb384ac-eaca-405f-9428-f61d72e006cd
 price:
   cents: 14995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 349
 slug: delsey-expandable-l-rempart-trolley-73-cm
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Delsey Expandable L Rempart Trolley | 73 cm

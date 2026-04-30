@@ -1,12 +1,12 @@
-_id: 69e5e9be96f1054962087e8d
+_id: 69f1f26815f49c1622354132
 appOnly: false
 brand: Calvin Klein
 brands:
   - id: 5e1f05ec-46df-5b7d-b02f-a93783163a82
     name: Calvin Klein
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167314'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184761'
 classicProductId: '702586'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 76
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 4ee00400-ce76-4eff-b015-e64bb7d73e91
+id: b26a8246-0999-473f-8f35-8ec9f8cf2ca0
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8c42b505-e62f-470c-8454-25498048b105
-  priority: 0
-  slug: calvin-klein-ck22554s-sonnenbrille-herren-png-logo-0
+  extension: png
+  id: 1790666
+  priority: 100
+  slug: calvin-klein-logo
   type: logo
-offerId: cfd7c8a1-6d88-4072-814f-34bab5ad71df
+offerId: a02e4276-34cf-415f-b85e-37d442ab9110
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 210
 slug: calvin-klein-ck22547-zonnebril-heren
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Calvin Klein CK22547 Zonnebril | Heren

@@ -1,31 +1,32 @@
-_id: 69e61080950b767fb86ce4a0
+_id: 69f0d64d2c2f6fdf5cffd74b
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168284'
-classicProductId: '509124'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183373'
+classicProductId: '509125'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 75
-end: '2026-04-29T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: e1ea3e55-a572-4799-86d7-19177098dbb5
+id: facee9e5-a49b-450a-963e-6c6f0028f4f4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1717450
+    - all
+  extension: image/png
+  id: dc429efb-e9fb-4277-8aae-99f08b5dea2b-tr
   priority: 0
-  slug: heat-essentials-snowboard-of-skihandschoenen
+  slug: heat-essentials-premium-handschuhe-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: heat-essentials-logo
   type: logo
-offerId: 6710fb10-45a5-4dc0-83cc-a94074486ea4
+offerId: 10c54365-5d1b-42f2-a9b3-54a9eb0b7648
 price:
   cents: 1000
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 39.95
 slug: heat-essentials-snowboard-of-skihandschoenen
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-29T22:00:00.000Z'
 title: Heat Essentials Premium Snowboard of Skihandschoenen | Unisex

@@ -1,12 +1,12 @@
-_id: 69ce4f8d55800b4e5ca77cfa
+_id: 69f1f2103a59cb3ed15d3ee1
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - ba6a2cdf-1aa3-5b58-9d26-a9614e45fa39
-classicId: '3140373'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184606'
 classicProductId: '704391'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 28
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: eb96cd5b-71d4-520f-adb0-d822f343d027
+id: ced88b60-ee37-44a7-918b-f429ba9bd8cb
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d650d3d7-2eb8-4c1a-9916-414d020c948e
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: 3821a243-8aa2-57bf-88b4-43728341c0c8
+offerId: 98c7bb78-b44b-4677-83bd-703b7896370d
 price:
   cents: 4995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 69
 slug: lacoste-rugzak-heren
 soldOut: false
-start: '2026-04-22T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
+title: Lacoste  Rugzak | Heren
+22T22:00:00.000Z'
 title: Lacoste  Rugzak | Heren

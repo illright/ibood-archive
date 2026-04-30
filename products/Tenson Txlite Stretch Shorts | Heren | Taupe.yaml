@@ -1,12 +1,12 @@
-_id: 69e6101296f105496208839a
+_id: 69f0d5f34195ab7b22364fd6
 appOnly: false
 brand: TENSON
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: TENSON
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168161'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183318'
 classicProductId: '697039'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 43
-end: '2026-04-29T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 2a60c792-3b14-4edd-864b-b38c890a610a
+id: 3bb4a72d-ecb4-47c7-8c0f-b92a1063b790
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: 3xl-taupe-5018305-738-txlite-stretch-shorts-men-tenson-product-1
   type: product
-offerId: 069ad5f8-17ff-4061-93e8-92ffec8e14eb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1504614
+  priority: 100
+  slug: tenson-logo
+  type: logo
+offerId: 30e663e9-9a97-4836-a1c7-0f3b5ba1d85f
 price:
   cents: 3995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 70
 slug: tenson-txlite-stretch-shorts-heren-taupe
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-29T22:00:00.000Z'
 title: Tenson Txlite Stretch Shorts | Heren | Taupe

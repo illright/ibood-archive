@@ -1,22 +1,22 @@
-_id: 69e610af039b903182749ae7
+_id: 69f0d66ba262a94b40db31f7
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168331'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183412'
 classicProductId: '693020'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 33
-end: '2026-04-29T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 7e3f5b03-8956-403b-a64c-4ed429f4510e
+id: ca4b80e5-6d89-4c02-920c-274e85427de4
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: ae355d36-6100-4464-9077-e43d1d17b07d
+offerId: 508afd81-cc66-4802-95e5-d47040086c64
 price:
   cents: 3995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 60
 slug: odlo-merino-baselayer-t-shirt-heren-dark-sapphire
-soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+soldOut: true
+start: '2026-04-29T22:00:00.000Z'
 title: Odlo Merino Baselayer T-Shirt | Heren | Dark Sapphire

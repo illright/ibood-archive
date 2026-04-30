@@ -1,34 +1,32 @@
-_id: 69e610ad96f105496208843b
+_id: 69f1e045d4d3a9ca97939ba1
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168320'
+  - fc1b845a-a34b-593f-aa28-c91c5af4c958
+classicId: '3184491'
 classicProductId: '682049'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 64
-end: '2026-04-29T21:59:59.999Z'
+directCheckout: false
+discount: 72
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: e0484fbd-d99c-45ed-9be8-736cebac8bfd
+id: b9afb63a-5cd1-4297-a61e-4dbbd58f1f9c
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: c82f5f44-e2aa-4d15-afd0-71bc4a03dbf2-tr
+  id: eca60996-4698-49f3-a01c-83c3e961ea7c
   priority: 0
-  slug: 37-black-tr-davw-colblck-siz37-davos-women-travelin-product-9
+  slug: travelin-29-png-product-1
   type: product
 logo:
   channels:
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: 6b28507a-629d-42a3-9cde-64e92c8bd108
+offerId: ce6014a7-d07d-4e35-ac33-0d2597fcaea2
 price:
-  cents: 8995
+  cents: 7000
   currency: EUR
-  value: 89.95
+  value: 70
 referencePrice:
   cents: 24995
   currency: EUR
   value: 249.95
 slug: travelin-davos-winterboots-dames
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-29T22:00:00.000Z'
 title: Travelin Davos Winterboots | Dames

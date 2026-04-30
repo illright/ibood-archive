@@ -1,31 +1,32 @@
-_id: 69e610ee96f10549620884a5
+_id: 69f0d6924195ab7b223650da
 appOnly: false
 brand: Dare2B
 brands:
   - id: 9ee78311-28d0-540b-8237-650f1f07a0d8
     name: Dare2B
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168389'
-classicProductId: '503182'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183458'
+classicProductId: '503184'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 70
-end: '2026-04-29T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: aec1f7eb-d2b8-473d-8d3d-69275a313652
+id: 8731e1d2-73af-4d0d-9556-b3cb9d642cb8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1699099
+    - all
+  extension: image/png
+  id: d63f2efc-80f9-4cf3-9369-6ecc530499f2-tr
   priority: 0
-  slug: dare2b-fuse-up-ii-midlayer-schwarz
+  slug: dare2b-fuse-up-ii-midlayer-schwarz-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: dare2b-logo
   type: logo
-offerId: 804171ea-f78b-4ff6-8def-a1ed0d3cc00a
+offerId: 3fbf1576-e7a5-4001-9e29-97c95b605725
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 50
 slug: dare2b-fuse-up-ii-stretch-midlayer-black
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-29T22:00:00.000Z'
 title: Dare2b Fuse Up II Recycled Lightweight Core Stretch Midlayer | Black

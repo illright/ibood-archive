@@ -1,12 +1,12 @@
-_id: 69e610b499d749e662aa0550
+_id: 69f0d66a26b46a8d05d5543f
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168336'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183416'
 classicProductId: '699488'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-04-29T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 44daa9b5-afe8-4c9c-aae8-c02749458465
+id: f93b79b9-d918-447b-8ef8-625920208c87
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1104dae7-8467-4877-9634-55bc2cfbb357
-  priority: 0
-  slug: praktycznie-z-travelin-png-logo-0
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
   type: logo
-offerId: 204a8947-9568-4fbb-a938-67fc5f7bdef7
+offerId: f27fd621-bac4-46d3-b718-0a4e462dc2f5
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 189.95
 slug: travelin-falnes-sneakers-dames
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-29T22:00:00.000Z'
 title: Travelin' Falnes Sneakers | Dames

@@ -1,12 +1,12 @@
-_id: 69e5e96dd70d7f47ed8d52a9
+_id: 69f1f23d9f8b31126d24f10a
 appOnly: false
 brand: Hugo Boss
 brands:
   - id: ea8978ea-f226-5c2a-bb5f-4458ac381560
     name: Hugo Boss
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167193'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184681'
 classicProductId: '702608'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 66
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 657da921-312f-4bbb-a6bf-89a5a2b6b662
+id: 52aa23fa-4ee7-478f-83be-2f52f982a293
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: cbb1dcc8-02fc-4a31-9922-ade5257bb809
-  priority: 0
-  slug: hugo-boss-logo-png-logo-0
+  extension: png
+  id: 1797875
+  priority: 100
+  slug: hugo-boss-logo
   type: logo
-offerId: 5acdd2f0-b1fc-4aa4-95e4-81b7bd6eacbd
+offerId: 569020ab-5c06-4c97-84c7-bfe1ec527d5c
 price:
   cents: 7995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 235
 slug: hugo-boss-1285-f-sk-zonnebril-heren
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Hugo Boss 1285/F/SK Zonnebril | Heren

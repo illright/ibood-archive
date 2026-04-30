@@ -1,12 +1,12 @@
-_id: 69e5e9d3d70d7f47ed8d5373
+_id: 69f1f27515f49c1622354155
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167350'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184780'
 classicProductId: '702567'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 57
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: babc59fe-b600-4b79-97de-ba82a7aed443
+id: 3ce7d308-4dd0-4bd4-b1b2-80268710b7b8
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8627ee8c-d185-4800-af1f-514db3570fd9
-  priority: 0
-  slug: polaroid-logo-png-logo-0
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
   type: logo
-offerId: 33feac9d-cd88-44fd-9933-a36f382c28f1
+offerId: 9076c544-ba3d-4ac0-939b-0f2455a4c90e
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 69
 slug: polaroid-4140-g-s-x-zonnebril-dames
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Polaroid 4140/G/S/X Zonnebril | Dames

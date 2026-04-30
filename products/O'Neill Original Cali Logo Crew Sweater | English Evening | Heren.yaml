@@ -1,12 +1,12 @@
-_id: 69e610b8950b767fb86ce507
+_id: 69f0d670a262a94b40db31fe
 appOnly: false
 brand: ONEILL
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: ONEILL
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168341'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183422'
 classicProductId: '692621'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-04-29T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 1d0e984a-1bf9-4113-a7fb-e7ea36e4a432
+id: c5e85758-7a52-4c9e-bae7-3781de7b5050
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xxl-english-evening-2750178-15093-o-riginals-cali-crew-mens-product-6
   type: product
-offerId: 302d980a-63cf-40e7-ad7d-9779835b7e80
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
+  type: logo
+offerId: 989462cc-0982-490c-acd1-e0e04991bfd7
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 59.99
 slug: o-neill-original-cali-logo-crew-sweater-english-evening-heren
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-29T22:00:00.000Z'
 title: O'Neill Original Cali Logo Crew Sweater | English Evening | Heren

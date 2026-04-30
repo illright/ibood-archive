@@ -1,12 +1,12 @@
-_id: 69e5e97e64b25b828da194ec
+_id: 69f1f2479f8b31126d24f139
 appOnly: false
 brand: Jimmy Choo
 brands:
   - id: 68e35fb1-12ee-5116-8cbf-82620cc38bf3
     name: Jimmy Choo
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167221'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184699'
 classicProductId: '702633'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 54
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: dc488951-e965-403c-b2e6-efd5a28ed833
+id: a6be2178-23cb-41dc-81b2-f982baf61b76
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 18b3b866-d189-4256-bef4-0e3fbe05b76f
-  priority: 0
-  slug: jimmy-choo-logo-png-logo-0
+  extension: png
+  id: 1707573
+  priority: 100
+  slug: jimmy-choo-logo
   type: logo
-offerId: 47e55b7d-7f44-4c01-943d-b154307d3124
+offerId: 72e28937-4334-4461-af4c-f6c40f8f7a2a
 price:
   cents: 10995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 240
 slug: jimmy-choo-lessie-s-zonnebril-dames
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Jimmy Choo Lessie/S Zonnebril | Dames

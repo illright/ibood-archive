@@ -1,22 +1,22 @@
-_id: 69e5e9a164b25b828da19571
+_id: 69f1f278bc861f8111188af2
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167279'
-classicProductId: '703344'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184784'
+classicProductId: '703345'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 42
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 9fdd6d67-ba8b-48b2-85ee-93fa3e172d22
+id: 7c7b3169-627f-4fbb-b5f2-9fbd74bfef1b
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5e1baf4a-8c4d-46fe-8f29-54731d842e3f
+  id: aff8b887-4985-4952-80eb-8dabc1b35ffb
   priority: 0
-  slug: lacoste-45-png-product-1
+  slug: lacoste-48-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a3a6fc86-9891-42ec-9982-9e98b2583815
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: 7e841b50-086a-448c-9277-eca82690b8c4
+offerId: 8a92be60-8a1e-44fc-8ebc-e38f20cacd23
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 60
 slug: lacoste-cap-heren
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Lacoste Cap | Heren

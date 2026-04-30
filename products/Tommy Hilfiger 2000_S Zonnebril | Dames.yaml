@@ -1,12 +1,12 @@
-_id: 69e5e9b064b25b828da195a6
+_id: 69f1f26515f49c1622354122
 appOnly: false
 brand: TOMMY HILFIGER
 brands:
   - id: 99c76082-42f2-52fe-aae8-bcee06114884
     name: TOMMY HILFIGER
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167303'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184754'
 classicProductId: '702593'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 69
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 4b1bcc19-66ea-4df7-9d97-7ddd89c44d8f
+id: edb6c71f-82b7-4e40-b65b-2980c7643ab7
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b9b300ed-6d3a-46e6-9697-842357b978e7
-  priority: 0
-  slug: tommy-hilfiger-th1556s-d51-zonnebril-heren-png-logo-0
+  extension: png
+  id: 2004411
+  priority: 100
+  slug: tommy-hilfiger-logo
   type: logo
-offerId: 8c2996d1-b7d9-4cd3-8688-27c7af801793
+offerId: 3bc54030-3b9c-4a65-baf5-3e49e54dd0d5
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 159
 slug: tommy-hilfiger-2000-s-zonnebril-dames
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Tommy Hilfiger 2000/S Zonnebril | Dames

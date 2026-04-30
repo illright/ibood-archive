@@ -1,12 +1,12 @@
-_id: 69e61096950b767fb86ce4b4
+_id: 69f0d651a262a94b40db31ef
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - d2506f75-fd91-5b60-8022-eaa4fb574f4c
-classicId: '3168303'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183387'
 classicProductId: '487290'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-04-29T21:59:59.999Z'
+end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: ee1e346b-c2c4-456c-854c-d8f0b3684e61
+id: a09f9b25-b30b-4781-b92b-7d8cfa7f2e63
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1642034
-  priority: 100
-  slug: heat-essentials-thermische-legging-vrouwen
+    - all
+  extension: image/png
+  id: 1c71523b-7acc-465a-a9cd-a2bad31b3888-tr
+  priority: 0
+  slug: heat-essentials-thermohose-damen-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: heat-essentials-logo
   type: logo
-offerId: 6224b381-c391-415b-97b3-e497d1235a32
+offerId: 0aa3219d-2224-4a89-96bb-3650d81ffabe
 price:
   cents: 1695
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 39.95
 slug: heat-essentials-thermische-legging-vrouwen
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-29T22:00:00.000Z'
 title: Heat Essentials Premium Thermische Legging | vrouwen

@@ -1,12 +1,12 @@
-_id: 69e5e9a469e788ff42fc8bec
+_id: 69f1f25dadf93f3f37686efa
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 6434b16b-737d-5a0e-920a-118129db1ced
-classicId: '3167281'
+  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
+classicId: '3184739'
 classicProductId: '702569'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 62
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 39695d44-a302-4985-84aa-5d0afb358b28
+id: 0bf576c0-16e8-4150-a437-1c63467e61f5
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 01e35328-f561-445d-9523-0f1069357077
-  priority: 0
-  slug: hugo-boss-logo-png-logo-0
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
   type: logo
-offerId: f4c40698-b8b7-4555-af16-3a276d03ff2c
+offerId: 2719fc35-14bf-460a-8557-7ffbbb3e6493
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 79
 slug: polaroid-4146-s-x-zonnebril-dames-havana
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-04-28T22:00:00.000Z'
 title: Polaroid 4146/S/X Zonnebril | Dames | Black
