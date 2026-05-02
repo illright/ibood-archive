@@ -1,22 +1,22 @@
-_id: 69f1e01a3a59cb3ed15d3eab
+_id: 69f0d6483a59cb3ed15d3c10
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - fc1b845a-a34b-593f-aa28-c91c5af4c958
-classicId: '3184425'
-classicProductId: '686150'
+  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
+classicId: '3183377'
+classicProductId: '686160'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 71
+directCheckout: true
+discount: 69
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 9104b144-0906-4233-82f3-fdfdc15002da
+id: f6631043-69da-4cfa-b04b-419a6b32af04
 image:
   channels:
     - app
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: d98e546e-ea23-4012-a75c-a586d65000a2
+offerId: bb57d2b9-f428-44aa-b0c2-c74733fc1d1f
 price:
-  cents: 7500
+  cents: 7995
   currency: EUR
-  value: 75
+  value: 79.95
 referencePrice:
   cents: 25995
   currency: EUR
@@ -51,4 +51,3 @@ slug: travelin-troms-outdoor-boots-heren
 soldOut: false
 start: '2026-04-29T22:00:00.000Z'
 title: Travelin' Troms Outdoor Boots | Heren
-n
