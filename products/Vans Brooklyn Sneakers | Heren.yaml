@@ -1,4 +1,4 @@
-_id: 69e6282aa65f90c69faadcb7
+_id: 69e6285aa65f90c69faadccd
 appOnly: false
 brand: VANS
 brands:
@@ -6,8 +6,8 @@ brands:
     name: VANS
 categories:
   - 6c6d77e6-c64b-5f35-b556-5ada335c5bee
-classicId: '3169202'
-classicProductId: '692463'
+classicId: '3169249'
+classicProductId: '692439'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 33
 end: '2026-05-04T21:59:59.999Z'
 freeDelivery: false
-id: 844abd77-099d-4514-b8aa-393e741d1e79
+id: ac785798-4532-482c-b7ac-cc9424312ef8
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 2f131f14-01f4-444f-a916-d5b2c1e96624
+  id: 4a74399a-ac7d-49f9-96aa-3eb220d9b0b9-tr
   priority: 0
-  slug: vans-08-png-product-1
+  slug: 40-parisian-night-vnjdu-vn000d7qjdu1-brooklyn-ls-varsity-block-parisian-night-mens-vans-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e9fef932-1cc0-4d26-b84c-de083ff66959
-  priority: 0
-  slug: vans-png-logo-0
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
   type: logo
-offerId: 2bbd5c9e-3802-4def-aefc-9d19d0af29c8
+offerId: fc509ade-8c10-4e1b-958f-f8756dae0e71
 price:
   cents: 4995
   currency: EUR
@@ -49,7 +48,6 @@ referencePrice:
   currency: EUR
   value: 75
 slug: vans-brooklyn-sneakers-heren
-soldOut: false
+soldOut: true
 start: '2026-04-20T22:00:00.000Z'
 title: Vans Brooklyn Sneakers | Heren
-ans Brooklyn Sneakers | Heren
