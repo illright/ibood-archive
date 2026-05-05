@@ -1,22 +1,22 @@
-_id: 69f1e050d36090017d9e2fbf
+_id: 69f35ea5de8dcb824e91cd06
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - fc1b845a-a34b-593f-aa28-c91c5af4c958
-classicId: '3184503'
+  - e6edcfd3-b58f-5703-a872-399c80ea65bc
+classicId: '3186479'
 classicProductId: '667691'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 75
-end: '2026-05-04T21:59:59.999Z'
+discount: 77
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: cfefedb8-e66a-4ab1-aacf-1d44e4ab7936
+id: 1a3a97da-76f8-4901-bd00-9a38fe94a471
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: ringsaker-png-product-1
   type: product
-offerId: c34a91a9-b575-4b79-b787-a9573806a10a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
+  type: logo
+offerId: a179b209-2959-49d4-8c21-3479226b5f21
 price:
-  cents: 6000
+  cents: 5500
   currency: EUR
-  value: 60
+  value: 55
 referencePrice:
   cents: 23995
   currency: EUR
   value: 239.95
 slug: travelin-ringsaker-chelsea-boots-dames
 soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Travelin' Ringsaker Chelsea Boots | Dames

@@ -1,31 +1,32 @@
-_id: 69ddedb1e0480d5c967db317
+_id: 69f89a0a3a59cb3ed15d53d2
 appOnly: false
 brand: AGU
 brands:
   - id: 3bc667aa-cf50-53cd-a2e7-2143117f3def
     name: AGU
 categories:
-  - 70c654bb-baa5-57da-8943-91063e77b23f
-classicId: '3158296'
-classicProductId: '563289'
+  - 03c4ea79-f952-52c2-a0db-9e1384e059a3
+classicId: '3193367'
+classicProductId: '563286'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 64
-end: '2026-05-04T21:59:59.999Z'
+directCheckout: false
+discount: 68
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 69878ee6-65bc-5f13-809b-80b9866e8771
+id: d254b764-03ca-4e77-8e67-190ae5f9f0dc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1908738
+    - all
+  extension: image/png
+  id: b275f776-0b5c-4876-af9b-838435a31b4f
   priority: 0
-  slug: agu-pride-hdii-fietsbril-unisex
+  slug: pride-hdii-png-product-1
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1911855
+  id: 1911852
   priority: 100
-  slug: agu-pride-hdii-fietsbril-unisex
+  slug: agu-pride-hdii-fahrradbrille-schwarz
   type: logo
-offerId: b6889de1-e55f-5b15-ad3e-90c2462cf3e3
+offerId: 0807bba1-6627-43b3-b239-0ac5f599b32e
 price:
-  cents: 4995
+  cents: 4495
   currency: EUR
-  value: 49.95
+  value: 44.95
 referencePrice:
-  cents: 13995
+  cents: 14000
   currency: EUR
-  value: 139.95
+  value: 140
 slug: agu-pride-hdii-fietsbril-unisex
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: AGU Pride HDII Fietsbril | Unisex

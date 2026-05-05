@@ -1,12 +1,12 @@
-_id: 69e750d3a90575a7b3d03e5f
+_id: 69f871d73a59cb3ed15d4d17
 appOnly: false
 brand: Geomag
 brands:
   - id: e1688028-94b7-5c50-8878-486dab593af5
     name: Geomag
 categories:
-  - 9b426fe4-f414-59ae-bebd-59abecb8ccd4
-classicId: '3172137'
+  - 088c2bec-7104-57fc-a13f-7e255204d4a1
+classicId: '3190025'
 classicProductId: '701920'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 56f4adf5-031c-47c5-a8b6-042941d05e2b
+id: fa94af09-5859-446d-9742-c9bf886dd36b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: dda13a91-864d-4b1b-8409-98aba6fc7168
-  priority: 0
-  slug: geomag-logo-png-logo-0
+  extension: png
+  id: 2020963
+  priority: 100
+  slug: geomag-logo
   type: logo
-offerId: 372270bb-2b08-4b95-8d91-0db6a045c8da
+offerId: b084b748-0936-457a-90cc-fc8034fa708c
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: geomag-supercolor-114-delige-magnetische-bouwset
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Geomag Supercolor 114-delige Magnetische Bouwset

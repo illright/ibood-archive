@@ -1,12 +1,12 @@
-_id: 69f1f24abc861f8111188a4a
+_id: 69f880b03a59cb3ed15d50f6
 appOnly: false
-brand: TOMMY HILFIGER
+brand: Tommy Hilfiger
 brands:
   - id: 99c76082-42f2-52fe-aae8-bcee06114884
-    name: TOMMY HILFIGER
+    name: Tommy Hilfiger
 categories:
-  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
-classicId: '3184708'
+  - a9ad2721-6f1e-5a98-a283-1700987d4c96
+classicId: '3192116'
 classicProductId: '691818'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 8372359f-31a1-4fe5-b25b-e805fcdeee03
+id: 4671f3be-ca00-47f0-b73e-750ad23439a9
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2004411
-  priority: 100
-  slug: tommy-hilfiger-logo
+    - all
+  extension: image/png
+  id: 990e8b72-4da7-4f40-8134-1cd095002bbe
+  priority: 0
+  slug: tommy-hilfiger-png-logo-0
   type: logo
-offerId: 824a8466-3b9e-4eb7-b885-5f843fa32b08
+offerId: 1ad92267-c6f2-4d9c-9d6e-5209eaeeb7e5
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 125
 slug: tommy-hilfiger-th-1557-s-zonnebril-heren
 soldOut: false
-start: '2026-04-28T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Tommy Hilfiger TH 1557/S Zonnebril | Heren

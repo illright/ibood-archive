@@ -1,12 +1,12 @@
-_id: 69f1f23e9f8b31126d24f10e
+_id: 69f87fcc0ccc0719a4a9f7ea
 appOnly: false
 brand: Hugo Boss
 brands:
   - id: ea8978ea-f226-5c2a-bb5f-4458ac381560
     name: Hugo Boss
 categories:
-  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
-classicId: '3184682'
+  - a9ad2721-6f1e-5a98-a283-1700987d4c96
+classicId: '3191997'
 classicProductId: '702614'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 8d05bc72-5231-4f5c-8472-e86ed9b14779
+id: bce76da6-a906-437d-bdd3-ecd541671106
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bfe509f9-c0a4-49a2-bcef-3c9dbc925d18
-  priority: 0
-  slug: hugo-boss-logo-png-logo-0
+  extension: png
+  id: 1797875
+  priority: 100
+  slug: hugo-boss-logo
   type: logo
-offerId: 8bada72e-f42d-4b11-94a9-c2d36828202b
+offerId: c1d7745c-5dbe-4cc0-b937-8fcf4ff07eb5
 price:
   cents: 7995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 200
 slug: hugo-boss-1433-s-zonnebril-heren-havana
 soldOut: false
-start: '2026-04-28T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Hugo Boss 1433/S Zonnebril | Heren | Havana

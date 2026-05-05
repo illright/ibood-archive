@@ -1,12 +1,12 @@
-_id: 69f322222c2f6fdf5cffdd36
+_id: 69f8a05cfd169f44bb52a713
 appOnly: false
-brand: BEN SHERMAN
+brand: Ben Sherman
 brands:
   - id: bffecce8-b77c-54d3-94b0-183f578722f8
-    name: BEN SHERMAN
+    name: Ben Sherman
 categories:
-  - 88c35907-b33b-5109-8304-4c9316c33237
-classicId: '3185559'
+  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
+classicId: '3193971'
 classicProductId: '671853'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 71
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: c14d1356-e405-40e6-81d0-779b092dd8e2
+id: 103e2d1e-3af6-47d6-b372-408c840fbd3c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: bs01-png-product-1
   type: product
-offerId: cd5a4232-17a6-45e3-9b72-eb81be72d328
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 09c449c2-75fe-4904-9ea4-eb648201018b
+  priority: 0
+  slug: ben-sherman-logo-0
+  type: logo
+offerId: b1d0504e-0aeb-4620-b1a6-d517678ed7f4
 price:
   cents: 2789
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 94.95
 slug: ben-sherman-signature-foulard-print-overhemd-dark-red
 soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Signature Foulard Print Overhemd | Dark Red

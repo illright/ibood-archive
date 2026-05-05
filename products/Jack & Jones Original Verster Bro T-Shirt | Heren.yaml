@@ -1,31 +1,32 @@
-_id: 69e62bda64b25b828da19db2
+_id: 69f891f27e0c07a4496b11ff
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 6c6d77e6-c64b-5f35-b556-5ada335c5bee
-classicId: '3169906'
-classicProductId: '552938'
+  - 69ddef6a-820a-5c37-a479-a7bb0b063675
+classicId: '3192840'
+classicProductId: '679584'
 deliveryPrice:
-  cents: 595
+  cents: 395
   currency: EUR
-  value: 5.95
-directCheckout: false
-discount: 45
-end: '2026-05-04T21:59:59.999Z'
+  value: 3.95
+directCheckout: true
+discount: 50
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 4f17c923-00cc-4829-92fb-ef15a86d20ea
+id: 4d133d19-2cf2-4b8d-a021-b6bfa8dc8776
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1903069
+    - all
+  extension: image/png
+  id: f18b1275-299b-445a-b6b0-799e3aedc3dc
   priority: 0
-  slug: jack-jones-original-verster-bro-t-shirt-heren
+  slug: jack-jones-06-png-product-1
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 53bf04a2-ac4b-424a-bfa5-c519be0326a5
+offerId: aa32251e-5e77-4e5c-b77f-abb18a93bb89
 price:
-  cents: 995
+  cents: 895
   currency: EUR
-  value: 9.95
+  value: 8.95
 referencePrice:
   cents: 1799
   currency: EUR
   value: 17.99
 slug: jack-jones-original-verster-bro-t-shirt-heren
 soldOut: false
-start: '2026-04-20T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Jack & Jones Original Verster Bro T-Shirt | Heren

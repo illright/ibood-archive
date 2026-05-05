@@ -1,12 +1,12 @@
-_id: 69e62990a65f90c69faadd37
+_id: 69f8334cfd169f44bb529029
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - ba6a2cdf-1aa3-5b58-9d26-a9614e45fa39
-classicId: '3169537'
+  - 7934f0b4-710a-5139-b3b6-df9c7023da94
+classicId: '3187440'
 classicProductId: '695698'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-05T21:59:59.999Z'
 freeDelivery: false
-id: 671d2f22-da4c-4c3a-9f0e-9c0587722244
+id: 53427426-7074-4a73-b64d-5789143728a9
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: lc009-png-product-1
   type: product
-offerId: 41d3bfee-7281-47bf-a752-1798d127da14
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: d146f1a1-0c4a-4dd5-a396-e516830a9849
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 120
 slug: lacoste-storm-96-2k-heren-wit-donkergroen
 soldOut: false
-start: '2026-04-22T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Lacoste Storm 96 2K | Heren | Wit/Donkergroen

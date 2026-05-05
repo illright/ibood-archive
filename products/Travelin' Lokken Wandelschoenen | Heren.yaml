@@ -1,22 +1,22 @@
-_id: 69f0d60fe7a6fa25bdefda11
+_id: 69f33a26d1044eba19ee1176
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
-classicId: '3183332'
-classicProductId: '703757'
+  - a569e2b8-acab-5a6b-a320-41672b250986
+classicId: '3186127'
+classicProductId: '703750'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 63
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 21e1110b-7149-4bfa-8763-30b7275cc8ab
+id: f2bf5134-fa1a-4440-9a37-70291ac10f75
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5bf1a681-4c16-4568-aca1-5f05893a7154
+  id: 1df89e5d-4200-4843-a458-a052c47f26f8
   priority: 0
-  slug: schoen-06-png-product-1
+  slug: schoen-05-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e4cec2dd-eb5f-49aa-a24c-426ea0d3da0a
-  priority: 0
-  slug: travelin-png-logo-0
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
   type: logo
-offerId: f85a8137-1bb8-43a1-8c2d-e06912e69622
+offerId: f66ffadf-0cb5-4827-9a1a-462b953bc48e
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 189.95
 slug: travelin-lokken-wandelschoenen-heren
 soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Travelin' Lokken Wandelschoenen | Heren

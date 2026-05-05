@@ -1,12 +1,12 @@
-_id: 69f1e05c809f616c8338b420
+_id: 69f35eaeb572644306268e87
 appOnly: false
 brand: MOWMOW
 brands:
   - id: 7ff2e8b6-b1d4-5c2e-b1b2-f84546daf130
     name: MOWMOW
 categories:
-  - fc1b845a-a34b-593f-aa28-c91c5af4c958
-classicId: '3184521'
+  - e6edcfd3-b58f-5703-a872-399c80ea65bc
+classicId: '3186497'
 classicProductId: '496486'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 4bbfda2a-8975-4143-8e87-aa5f1da91491
+id: 5ace7be8-5410-4ecb-9960-ecb618a8b1a5
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3c333314-56d0-41dd-8949-3fdf72d33365
-  priority: 0
-  slug: mowmow-logo-0
+  extension: png
+  id: 1674276
+  priority: 100
+  slug: mowmow-nature-merino-beanie
   type: logo
-offerId: 48084fc6-e5c8-4ab7-b5d4-82b8afbc6a4d
+offerId: 1ae3dead-fb0e-4571-b501-23f1fddab42b
 price:
   cents: 1000
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 34.95
 slug: mowmow-nature-merino-beanie
 soldOut: true
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: MowMow Nature Merino Beanie

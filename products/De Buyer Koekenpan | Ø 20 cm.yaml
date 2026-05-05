@@ -1,12 +1,12 @@
-_id: 69e74bc3142ed4fb59810c3f
+_id: 69f86739c845743468a4d546
 appOnly: false
-brand: DeBuyer
+brand: De Buyer
 brands:
   - id: 0226a1c2-a065-5d37-a5cc-16b478262a39
-    name: DeBuyer
+    name: De Buyer
 categories:
-  - 486ddda6-1903-5dc5-bc19-1270eea36e58
-classicId: '3171348'
+  - 3f3226ba-6e4f-5cce-b871-b9c9fcf9f175
+classicId: '3188435'
 classicProductId: '663215'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-05-04T21:59:59.000Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 38f8ca60-b63a-43fd-9f32-17f80b9d31c5
+id: af80f767-3e01-40e7-af8e-152928bc8e8a
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: debuyer-logo
   type: logo
-offerId: dbb0c96a-a949-4f31-922c-d01c233dbb08
+offerId: fbe7ac48-015e-4d50-9340-52214a850076
 price:
   cents: 1495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 46.95
 slug: de-buyer-koekenpan-20-cm
-soldOut: true
-start: '2026-04-21T22:00:00.000Z'
+soldOut: false
+start: '2026-05-04T22:00:00.000Z'
 title: De Buyer Koekenpan | Ø 20 cm

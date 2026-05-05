@@ -1,22 +1,22 @@
-_id: 69e7806096f10549620895e5
+_id: 69f87343f3421fae8dc3ae62
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3173913'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3190296'
 classicProductId: '655304'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 58
-end: '2026-05-04T21:59:59.999Z'
+directCheckout: false
+discount: 61
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: aaecba3e-6ba2-4c94-97af-a28314e1c459
+id: 7d303d54-e9d4-4023-b2a3-73165f7064c8
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1692918
-  priority: 100
-  slug: axe-logo
+    - all
+  extension: image/png
+  id: eafb7ba1-ebb9-4677-83e7-5e8b2b591bc1
+  priority: 0
+  slug: axe-logo-png-logo-0
   type: logo
-offerId: 3320ff7b-de2e-4dcb-9d2d-16392c36ae10
+offerId: f5ad252a-17ec-401d-8500-bd7cf8c63f32
 price:
-  cents: 3195
+  cents: 2995
   currency: EUR
-  value: 31.95
+  value: 29.95
 referencePrice:
   cents: 7668
   currency: EUR
   value: 76.68
 slug: 12x-axe-douchegel-ice-chill-400-ml
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 12x Axe Douchegel Ice Chill | 400 ml

@@ -1,22 +1,22 @@
-_id: 69f3231d3a59cb3ed15d41fd
+_id: 69f8a2f56f3ff419585d99fc
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - 88c35907-b33b-5109-8304-4c9316c33237
-classicId: '3185816'
+  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
+classicId: '3194654'
 classicProductId: '662738'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 79
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 3c66b07b-4d57-4562-b786-f1994901ad46
+id: 44005ab9-b73b-459e-b004-56f1ae46bea4
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: boston-brothers-logo
   type: logo
-offerId: ef3b8045-2746-40f5-a159-64882671fdfa
+offerId: 34b075b1-246c-4896-ae9f-f3641623a118
 price:
   cents: 1467
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 69.95
 slug: boston-brothers-button-down-overhemd
 soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Boston Brothers Button Down Overhemd

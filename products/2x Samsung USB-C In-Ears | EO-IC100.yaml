@@ -1,12 +1,12 @@
-_id: 69e6182564b25b828da1989e
+_id: 69f866e7f3421fae8dc3a580
 appOnly: false
 brand: Samsung
 brands:
   - id: d925541a-b4c5-57e6-9497-016344a9a7ac
     name: Samsung
 categories:
-  - da85e256-f221-5f3f-aefd-fb1a7fa86ba7
-classicId: '3168500'
+  - 8d427948-e94a-5fca-8e25-7e80f0fd346e
+classicId: '3188144'
 classicProductId: '707157'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-13T21:59:59.999Z'
 freeDelivery: false
-id: b5b40547-20ec-52cf-8032-b3d14e54d574
+id: 1c920ef8-b904-4585-93c4-c8c58df27e25
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2b4a2022-8465-437c-bbf9-6ae5d80eb77a
-  priority: 0
-  slug: samsung-png-logo-0
+  extension: png
+  id: 1685320
+  priority: 100
+  slug: samsung-logo
   type: logo
-offerId: 8c3997b2-fffe-5727-a894-0dc648faeceb
+offerId: f97a8edb-a5d2-4d1b-b9f3-06dd7b7b3ccb
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 42
 slug: 2x-samsung-usb-c-in-ears-eo-ic100
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 2x Samsung USB-C In-Ears | EO-IC100

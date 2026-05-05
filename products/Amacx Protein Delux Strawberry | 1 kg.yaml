@@ -1,12 +1,12 @@
-_id: 69e77fd7043572fb18ecb7bf
+_id: 69f86be7fd169f44bb529438
 appOnly: false
 brand: Amacx
 brands:
   - id: 3d88b718-6e78-5d35-bd6e-1ffadeeaa033
     name: Amacx
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3173795'
+  - 77751d0b-e84c-56b7-9b2d-a7cd6c239faf
+classicId: '3189285'
 classicProductId: '701308'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: 63b89a9a-cc8b-414c-a287-74c3c6f20536
+id: 54151410-7ef5-4819-97c5-925faea4e14c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b5d15a90-95db-46e7-bcd9-19b1343badbe
-  priority: 0
-  slug: amacx-png-logo-0
+  extension: png
+  id: 1631527
+  priority: 100
+  slug: amacx-logo
   type: logo
-offerId: f1a5f139-f56d-41bb-a87c-43481076dbf1
+offerId: 549c9447-8d8c-45b8-ba5d-20c69eb1df60
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 69.95
 slug: amacx-protein-delux-strawberry-1-kg
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Amacx Protein Delux Strawberry | 1 kg

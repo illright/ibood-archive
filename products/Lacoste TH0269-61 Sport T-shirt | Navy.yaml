@@ -1,12 +1,12 @@
-_id: 69ce5001746c7d2a1fa8438a
+_id: 69f898764cb6313a1d6d8135
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 14caae89-90c2-5089-bc44-99221ed1e987
-classicId: '3140381'
+  - deba93a0-893c-5514-8a47-ab0ed7f2eb4e
+classicId: '3192977'
 classicProductId: '704456'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 25
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 69944daf-9850-5e37-9a5a-161ae12d6789
+id: bcee2dfc-9805-42ba-b552-934d380283f0
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e5a958e0-f0ab-4be1-9791-0e73568ec863
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: e673df23-659e-53c9-affa-91bada2c1b0f
+offerId: a41028bb-f89d-45b1-81b9-d25d3406080c
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 80
 slug: lacoste-th0269-61-sport-t-shirt-white
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Lacoste TH0269-61 Sport T-shirt | Navy

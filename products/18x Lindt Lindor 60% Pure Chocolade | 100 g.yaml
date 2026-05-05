@@ -1,12 +1,12 @@
-_id: 69f1b20a3a59cb3ed15d3cc9
+_id: 69f8745749fb4c8921140353
 appOnly: false
 brand: Lindt
 brands:
   - id: e60bc2bc-24cb-519c-916c-96c8874f3a0a
     name: Lindt
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3183586'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3190682'
 classicProductId: '706777'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: ac19e825-5766-407c-95f3-097a351290ee
+id: c7b47616-8fde-4b30-9c3d-c982ce9fa8d3
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 45722df6-9f60-4673-a65b-f299e273b788
-  priority: 0
-  slug: lindt-04-png-product-1
+  id: ad665010-98d2-41f5-8eb2-7f2c576f6bf2
+  priority: 1
+  slug: lindt-03-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: lindt-logo-0
   type: logo
-offerId: e06af244-3318-408b-89ad-fe216134e248
+offerId: d694d8dd-d27e-4930-a63d-76fe82dcc4d0
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 71.82
 slug: 18x-lindt-lindor-60-pure-chocolade-100-g
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 18x Lindt Lindor 60% Pure Chocolade | 100 g

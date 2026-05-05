@@ -1,12 +1,12 @@
-_id: 69f322f91b96bbc71305cc02
+_id: 69f8a2c23567c7f96731f2e7
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 88c35907-b33b-5109-8304-4c9316c33237
-classicId: '3185758'
+  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
+classicId: '3194579'
 classicProductId: '675262'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: ca392bbb-8cc9-4d5c-8eb2-ef016ecd0799
+id: 9f010590-900f-410a-a17a-0567e7e1c94a
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 332fe740-d4bd-4927-99ba-10c0b1a04df6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: c320565c-f600-499d-9698-7eeb8ef36e9f
 price:
   cents: 5582
   currency: EUR
@@ -39,10 +49,6 @@ referencePrice:
   value: 130
 slug: lacoste-slim-fit-overhemd-heren
 soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Lacoste Slim Fit Overhemd | Heren
-  value: 130
-slug: lacoste-slim-fit-overhemd-heren
-soldOut: false
-start: '2026-04-29T22:00:00.000Z'
-title: Lacoste Slim Fit Overhemd | Heren
+

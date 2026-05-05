@@ -1,12 +1,12 @@
-_id: 69e75104a90575a7b3d03f17
+_id: 69f87204f3421fae8dc3aca3
 appOnly: false
 brand: Geomag
 brands:
   - id: e1688028-94b7-5c50-8878-486dab593af5
     name: Geomag
 categories:
-  - 9b426fe4-f414-59ae-bebd-59abecb8ccd4
-classicId: '3172237'
+  - 088c2bec-7104-57fc-a13f-7e255204d4a1
+classicId: '3190066'
 classicProductId: '701924'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: eb877a9b-8c4c-4f0f-93ed-e1b6c65cd94a
+id: 3646eb2b-21d6-45b9-a9ef-a5ab6675ae44
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 247a8ba8-8ab2-4443-a6e3-ffca23525f94
-  priority: 0
-  slug: geomag-logo-png-logo-0
+  extension: png
+  id: 2020963
+  priority: 100
+  slug: geomag-logo
   type: logo
-offerId: 78dca96f-fadf-46c3-95e1-6bb0249250b3
+offerId: 0cee664c-cc69-4ba6-b333-48e45d928b75
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 44.99
 slug: geomag-glitter-60-delige-magnetische-bouwset
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Geomag Glitter 60-delige Magnetische Bouwset

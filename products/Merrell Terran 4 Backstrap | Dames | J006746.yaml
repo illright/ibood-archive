@@ -1,12 +1,12 @@
-_id: 69e058e2e99497a9527ab073
+_id: 69f88fbc3a59cb3ed15d51f9
 appOnly: false
 brand: Merrell
 brands:
   - id: d199d883-246f-5414-be80-7a8501ca9f77
     name: Merrell
 categories:
-  - f9325acb-d534-5518-8471-c0db9babc0dd
-classicId: '3165075'
+  - 68ba742a-8f72-5c17-9baf-37d686d58409
+classicId: '3192661'
 classicProductId: '706250'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 89d4a70d-39ef-5e16-9e99-fe2fbbb37e8d
+id: a378810c-8f4b-4dc1-9439-42b7d32304dd
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: 42-incense-j006746-terran-4-backstrap-merrell-product-1
   type: product
-offerId: a1a25207-31ed-52d4-a6e1-e378481e2af7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1718923
+  priority: 100
+  slug: merrell-logo
+  type: logo
+offerId: c1486ccf-eb69-4e09-b0fd-c720835703b6
 price:
   cents: 5495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 95
 slug: merrell-terran-4-backstrap-dames-j006746
 soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Merrell Terran 4 Backstrap | Dames | J006746

@@ -1,22 +1,22 @@
-_id: 69f1b20e3a59cb3ed15d3cd5
+_id: 69f86c1ca540e7ef64467e5a
 appOnly: false
 brand: Myprotein
 brands:
   - id: 5d1e6318-10d4-5152-842b-30593b51fa02
     name: Myprotein
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3183590'
+  - 77751d0b-e84c-56b7-9b2d-a7cd6c239faf
+classicId: '3189352'
 classicProductId: '704965'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: 5d683c5b-7417-40f1-ac7e-670c151728ad
+id: fecd3415-932e-4c08-ab3f-8ee486d8a9e3
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1876835
-  priority: 100
-  slug: myprotein-logo
+    - all
+  extension: image/png
+  id: 7e1300ba-4a29-4087-8c84-e285d089a923
+  priority: 0
+  slug: myprotein-png-logo-0
   type: logo
-offerId: 5671c33a-8559-4710-824f-cbebea549988
+offerId: f05596d9-1e7f-402e-9e07-ca48b2943610
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.98
 slug: 60x-myprotein-impact-hydrate-elektrolyt-sachets-lemon-lime-6-8-g
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 60x MyProtein Impact Hydrate Elektrolyt Sachets Lemon & Lime | 6,8 g

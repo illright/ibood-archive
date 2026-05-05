@@ -1,12 +1,12 @@
-_id: 69e1f51839499fa4bedce64f
+_id: 69f87467fd169f44bb529999
 appOnly: false
 brand: M&M's
 brands:
   - id: 0626d530-6d7e-509d-8b0e-835e13653473
     name: M&M's
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3166279'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3190687'
 classicProductId: '707224'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: c7fd4b50-38f6-505c-965c-042e2c9c3ace
+id: f5d2cb35-385b-422e-954d-419a9a369c0a
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1642025
-  priority: 100
-  slug: 48x-mms-peanut-45-g-mhd-07072024
+    - all
+  extension: image/png
+  id: 5f5c9c9a-a6b7-486a-b324-958b93828906
+  priority: 0
+  slug: m-m-s-logo-0
   type: logo
-offerId: 29d67eb4-0add-595b-9a9b-5900e318eaa5
+offerId: a3fa74f5-cd76-4e9d-8a74-8adb008dc261
 price:
   cents: 2295
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 71.52
 slug: 48x-m-m-s-pinda-zakje-45-g
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 48x M&M's Pinda Zakje | 45 g

@@ -1,12 +1,12 @@
-_id: 69ce4dc655800b4e5ca77cdd
+_id: 69f89867540805e661ef196c
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 14caae89-90c2-5089-bc44-99221ed1e987
-classicId: '3140358'
+  - deba93a0-893c-5514-8a47-ab0ed7f2eb4e
+classicId: '3192946'
 classicProductId: '704289'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 30
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 79a42e7e-5076-5d53-a4dd-38b5a528a9e8
+id: 99733a0f-02ec-4292-860d-2217468dd2fe
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3e104e86-ebc6-47d6-b8be-d1775a2fa63d
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: 1bf43be8-79bd-5b32-85cf-73f44442363a
+offerId: 85d28d70-6165-4cfe-9302-a3087610b2f8
 price:
   cents: 6995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 100
 slug: lacoste-dh0171-61-poloshirt-green
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Lacoste DH0171-61 Poloshirt | Green

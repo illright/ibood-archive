@@ -1,22 +1,22 @@
-_id: 69f0d6403a59cb3ed15d3c06
+_id: 69f472482c2f6fdf5cffe012
 appOnly: false
 brand: Nike Swim
 brands:
   - id: cf1d460e-7ec0-5a30-96f7-013395e818f3
     name: Nike Swim
 categories:
-  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
-classicId: '3183367'
-classicProductId: '700456'
+  - eb96573e-bcf3-511e-ab86-76d57c61f8aa
+classicId: '3186694'
+classicProductId: '700461'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 30
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: db019687-435d-4826-8bdc-14ac524308ac
+id: 9a7a7000-a0b2-4911-aabf-3762874f9533
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 88829f37-6085-4916-a760-dcc453de89f8-tr
+  id: da313d94-3be3-457c-86d6-a9786f91a3d3
   priority: 0
-  slug: l-black-nessb451-001-contend-split-5-volley-short-nike-swim-product-2
+  slug: nike-05-png-product-1
   type: product
-offerId: 8bfd7675-21e9-4a0d-846b-6fff9ed70a0c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 829de38a-746b-47e9-8820-7b35d7e29611
+  priority: 0
+  slug: nike-swim-logo-0
+  type: logo
+offerId: 03614f84-6aac-4f63-b573-4b49e01ae959
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,7 @@ referencePrice:
   value: 49.95
 slug: nike-nike-swim-split-5-zwemshort-heren
 soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
+title: Nike Nike Swim Split 5" Zwemshort | Heren
+
 title: Nike Nike Swim Split 5" Zwemshort | Heren

@@ -1,22 +1,22 @@
-_id: 69e7838f06e4063af0e826db
+_id: 69f880bdf3421fae8dc3b5c9
 appOnly: false
 brand: Cerruti 1881
 brands:
   - id: e8dfde05-3cda-5954-b952-ab51e923890d
     name: Cerruti 1881
 categories:
-  - 5aae2617-f328-5ec4-99ad-b437cf430b7f
-classicId: '3175675'
+  - b1d2018f-15c2-56b3-9d78-3e809bae6d20
+classicId: '3192154'
 classicProductId: '278003'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
-end: '2026-05-04T21:59:59.999Z'
+discount: 39
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: 8360120d-af2b-4827-8f63-a03f4e7b3f0b
+id: 84160dc0-e4cd-4bd0-92b4-8361d9194855
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2136864
-  priority: 100
-  slug: cerruti-1881-edt-100-ml
+    - all
+  extension: image/png
+  id: 4c033847-e951-4f50-9cab-5f5a2644b9bb
+  priority: 0
+  slug: cerruti-1881-logo-0
   type: logo
-offerId: df13b478-f359-4e2e-ac2d-1b6e4aa9a80b
+offerId: 7bb4eb71-f186-4307-b67e-e6c2575ef4af
 price:
-  cents: 2795
+  cents: 4495
   currency: EUR
-  value: 27.95
+  value: 44.95
 referencePrice:
   cents: 7400
   currency: EUR
   value: 74
 slug: cerrutti-1881-pour-femme-edt-spray-100-ml
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Cerrutti 1881 Pour Femme EdT Spray | 100 ml

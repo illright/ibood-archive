@@ -1,12 +1,12 @@
-_id: 69ce4ffc55800b4e5ca77d09
+_id: 69f89872540805e661ef197f
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 14caae89-90c2-5089-bc44-99221ed1e987
-classicId: '3140379'
+  - deba93a0-893c-5514-8a47-ab0ed7f2eb4e
+classicId: '3192969'
 classicProductId: '704444'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 25
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: b9f1e751-caab-578e-beb1-559c6aebb041
+id: ea483bd5-3af5-4ed9-aab1-776307853a9c
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6e6572da-c004-4a65-96d5-ed918b7bdeb2
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: ea321485-17cf-5f14-95c9-2f99ea655915
+offerId: aa14f34b-30e9-4931-9cb8-db7dd4a753bb
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 80
 slug: lacoste-th0268-61-sport-t-shirt-billiard-green
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Lacoste TH0268-61 Sport T-Shirt | Billiard Green

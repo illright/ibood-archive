@@ -1,22 +1,22 @@
-_id: 69cce71b4fe6bbfeb8ff1e31
+_id: 69f873baf3421fae8dc3b0a2
 appOnly: false
 brand: Dreft
 brands:
   - id: 18c0c9f2-49bc-56f9-a912-d3b1334ea7eb
     name: Dreft
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3138303'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3190463'
 classicProductId: '703686'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 56
-end: '2026-05-04T21:59:59.999Z'
+discount: 58
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: e90079a2-dc19-534e-8106-2bab1095cb15
+id: dd5174a2-91d4-4bbb-aa4e-a0a57f296f85
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: dreft-wasverzachter-blue-harmony-enh-6x950ml-38sc-228sc-png-product-1
   type: product
-offerId: 47a36ea6-3ad8-51f4-9ea9-41184c0ebeb2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0cbc7681-1a41-4970-b158-3ff83fa6e084
+  priority: 0
+  slug: dreft-logo-0
+  type: logo
+offerId: 4c141577-d2c1-4412-9d58-ceba9a8cba35
 price:
-  cents: 1595
+  cents: 1495
   currency: EUR
-  value: 15.95
+  value: 14.95
 referencePrice:
   cents: 3594
   currency: EUR
   value: 35.94
 slug: 6x-dreft-wasverzachter-blue-harmony-950-ml-228sc
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 6x Dreft Wasverzachter | Blue Harmony | 950 ml (228sc)

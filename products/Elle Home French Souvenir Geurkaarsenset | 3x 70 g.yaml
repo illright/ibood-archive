@@ -1,12 +1,12 @@
-_id: 69e78114043572fb18ecb8d6
+_id: 69f873d049fb4c89211402de
 appOnly: false
 brand: ELLE
 brands:
   - id: 958f3645-6602-55c6-9154-58e0e04e7907
     name: ELLE
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3174140'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3190508'
 classicProductId: '704557'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: bce8100e-5525-4c3a-82eb-4895013cac79
+id: 85c5ed1d-c751-408d-8861-d1705b4dac91
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0dad675c-8905-4b1f-91dc-f8432e7dbed2
-  priority: 0
-  slug: elle-png-logo-0
+  extension: png
+  id: 2008169
+  priority: 100
+  slug: elle-logo
   type: logo
-offerId: ac8c132e-d692-4c99-b8dc-2fc535ccf808
+offerId: f5028325-1f5a-4827-a9b8-860a931745e5
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 25
 slug: elle-home-french-souvenir-geurkaarsenset-3x-70-g
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Elle Home French Souvenir Geurkaarsenset | 3x 70 g

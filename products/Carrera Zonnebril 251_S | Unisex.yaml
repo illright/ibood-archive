@@ -1,12 +1,12 @@
-_id: 69f1f22d15f49c1622354091
+_id: 69f880cba540e7ef64468692
 appOnly: false
 brand: Carrera
 brands:
   - id: 92d00cd9-feb5-5cb6-820f-ba8271c25191
     name: Carrera
 categories:
-  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
-classicId: '3184656'
+  - a9ad2721-6f1e-5a98-a283-1700987d4c96
+classicId: '3192174'
 classicProductId: '518804'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 03438b10-bc8e-4b8f-bef0-90a0156db3ae
+id: 0e27c798-8d2f-493e-b9c2-f8622392e813
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: 28247a10-9ea1-42d3-a08c-43d91aeeae60-tr
+  extension: jpg
+  id: 1752800
   priority: 0
-  slug: carrera-251s-sonnenbrille-grau-jpg-product-1
+  slug: carrera-zonnebril-251s-unisex
   type: product
 logo:
   channels:
@@ -41,7 +38,7 @@ logo:
   priority: 101
   slug: carrera-logo-101
   type: logo
-offerId: 13edca7d-fffa-494c-ac3b-ff77cc326f4f
+offerId: 6eb4fc3a-e737-4dca-98c0-e7fd55fe2b0e
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +49,5 @@ referencePrice:
   value: 169
 slug: carrera-zonnebril-251s-unisex
 soldOut: false
-start: '2026-04-28T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Carrera Zonnebril 251/S | Unisex

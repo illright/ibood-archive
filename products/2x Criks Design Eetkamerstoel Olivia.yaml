@@ -1,12 +1,12 @@
-_id: 69e7507d043572fb18ecb1f7
+_id: 69f898769ed2b53a186ac755
 appOnly: false
 brand: Criks Design
 brands:
   - id: 4c7735c3-d9e7-52c5-9a21-d0155dad8a6e
     name: Criks Design
 categories:
-  - 0d7b9f86-3ef5-5aff-bf56-6250283ab9a4
-classicId: '3171982'
+  - ea460922-6b53-5253-85ff-3923a4c31038
+classicId: '3192979'
 classicProductId: '666493'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 50
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: bfbb747e-bf0d-46a8-b945-c575927fc84f
+id: 53f639de-f3e8-4d72-af6f-d377e7e762f0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1668202
-  priority: 2
-  slug: 2x-criks-design-eetkamerstoel-olivia
+    - all
+  extension: image/png
+  id: 4787d35c-655d-40dd-a504-b0110f8029bc
+  priority: 0
+  slug: criks-design-05-png-product-1
   type: product
 logo:
   channels:
@@ -33,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1668211
+  id: 1919117
   priority: 100
-  slug: 2x-criks-design-eetkamerstoel-olivia
+  slug: criks-design-logo
   type: logo
-offerId: 6b1e528a-bc32-4de4-87e2-67a3814566f3
+offerId: 02311f4d-aa39-4b63-bc79-0438b8eb2cdf
 price:
   cents: 24900
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 498
 slug: 2x-criks-design-eetkamerstoel-olivia
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 2x Criks Design Eetkamerstoel Olivia

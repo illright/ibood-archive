@@ -1,12 +1,12 @@
-_id: 69f0d67d3a59cb3ed15d3c4b
+_id: 69f3285675eaafe59f8349ec
 appOnly: false
 brand: Brunotti
 brands:
   - id: 6a2e0d9a-ccf5-5842-bacc-0ea62bed2295
     name: Brunotti
 categories:
-  - 53c398bc-0b93-5cc3-af4a-194dcb873d4c
-classicId: '3183434'
+  - 3e119c9d-2838-57d2-a1f9-f1e16a33fe81
+classicId: '3186005'
 classicProductId: '691234'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 6afab808-e059-46d8-acf0-e31040ad0c63
+id: 255d6bce-2ef7-4e83-a287-8cee63fe9095
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4d1c13a7-be12-4a63-b968-37f05454cf29
-  priority: 0
-  slug: brunotti-kaiden-snow-pants-heren-png-logo-0
+  extension: png
+  id: 1820705
+  priority: 100
+  slug: brunotti-logo
   type: logo
-offerId: 4b0420d1-4198-46b4-93a6-b561dc713f68
+offerId: 4845031c-2e24-4651-a37d-c3d713380329
 price:
   cents: 4495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 119.99
 slug: brunotti-stickers-sweat-jas-heren-black
 soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Brunotti Stickers Sweat Jas | Heren | Black

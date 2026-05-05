@@ -1,12 +1,12 @@
-_id: 69e6286696f1054962088875
+_id: 69f86847e727dd053269ee7d
 appOnly: false
-brand: VANS
+brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
-    name: VANS
+    name: Vans
 categories:
-  - 6c6d77e6-c64b-5f35-b556-5ada335c5bee
-classicId: '3169270'
+  - 767158db-a8e9-531f-aaa3-22fc41b3b238
+classicId: '3189074'
 classicProductId: '692186'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 34
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: f3812b74-2ea6-45e6-bf68-8f4a6dafed31
+id: 994992ae-435e-445e-9917-65c0a83eb5e4
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: s-deep-indigo-vnfob-vn000sydfob1-double-standard-ss-tee-deep-indigo-mens-vans-product-1
   type: product
-offerId: 0232a0b8-02e2-4f8b-a173-bcc7a725c8e7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
+  type: logo
+offerId: 1436b421-5ab5-428e-9ef4-b01ac232b3a6
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 30
 slug: vans-double-standard-t-shirt-heren
 soldOut: false
-start: '2026-04-20T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Vans Double Standard T-Shirt | Heren

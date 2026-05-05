@@ -1,12 +1,12 @@
-_id: 69e60e4ba65f90c69faad750
+_id: 69f8768d3a59cb3ed15d4fd1
 appOnly: false
 brand: Vision
 brands:
   - id: 3f2356f5-599f-5132-b63d-eb6d296466ad
     name: Vision
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3168037'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3191783'
 classicProductId: '706979'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: a0281661-bb84-529c-a9dd-06e750d01046
+id: 4f8e2748-7998-4faf-9c32-8f7572289930
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: vision-01-png-product-1
   type: product
-offerId: 717fe2c6-56fe-5853-8462-e332c6f46c2d
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c7a10ca3-f324-495e-a319-c87df9dfb35d
+  priority: 0
+  slug: vision-logo-0
+  type: logo
+offerId: 6d097d13-5009-4fce-9655-bfffc3e46f68
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 63.98
 slug: 2x-vision-every-day-sun-protection-zonnebrand-spf30-180-ml
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 2x Vision Every Day Sun Protection Zonnebrand | SPF30 | 180 ml

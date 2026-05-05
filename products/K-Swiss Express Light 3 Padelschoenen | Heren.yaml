@@ -1,12 +1,12 @@
-_id: 69e61058a65f90c69faad834
+_id: 69f89a0c3567c7f96731ee73
 appOnly: false
 brand: K-Swiss
 brands:
   - id: f4bb9134-1177-560b-b793-33dc6851eb47
     name: K-Swiss
 categories:
-  - ff82595f-39b5-547a-8174-efe3efcbbd6b
-classicId: '3168232'
+  - 3bf56f23-cde6-55d6-815f-7f3ea7a90c5c
+classicId: '3193383'
 classicProductId: '693803'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 29
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 2caaeaf0-ad3b-4b5e-b186-e14aeab0ee0b
+id: 0cc24325-e599-4811-97d8-7b483d3625fb
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 76337138-07c2-4a09-9ad3-515d8aaa65a9
-  priority: 0
-  slug: k-swiss-png-logo-0
+  extension: png
+  id: 1787420
+  priority: 100
+  slug: k-swiss-logo
   type: logo
-offerId: 89525622-889e-49ac-8428-8df3409fd6a7
+offerId: 23d39e16-8026-403f-802c-2e4989e98c06
 price:
   cents: 8495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119.99
 slug: k-swiss-express-light-3-padelschoenen-heren
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: K-Swiss Express Light 3 Padelschoenen | Heren

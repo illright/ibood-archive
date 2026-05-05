@@ -1,12 +1,12 @@
-_id: 69ce4fff55800b4e5ca77d0b
+_id: 69f898783567c7f96731ee48
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 14caae89-90c2-5089-bc44-99221ed1e987
-classicId: '3140380'
+  - deba93a0-893c-5514-8a47-ab0ed7f2eb4e
+classicId: '3192973'
 classicProductId: '704450'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 25
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: a80a1b05-06a9-5ac4-a559-8ac894d107e4
+id: 37f6d9bc-7674-4c9a-9453-99ee7d31d1ea
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3002fbf8-e52e-4de4-a3fc-8555fc6d15a6
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: b79832b4-3929-5249-b51a-90dca0a11905
+offerId: c8bf4e5b-63b1-498e-81c0-c0699115a8b9
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 80
 slug: lacoste-th0269-61-sport-t-shirt-white
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Lacoste TH0269-61 Sport T-shirt | White

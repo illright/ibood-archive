@@ -1,12 +1,12 @@
-_id: 69e7821c96f105496208991a
+_id: 69f8745349fb4c8921140348
 appOnly: false
 brand: Lindor
 brands:
   - id: c2f99275-ad27-5055-965b-79aef5fb18db
     name: Lindor
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3174500'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3190679'
 classicProductId: '704674'
 deliveryPrice:
   cents: 595
@@ -14,23 +14,32 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: 309de165-116a-429b-995b-e387f4178d1d
+id: 4113fe3e-7dc6-491e-9a3e-ea70bc10a298
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - website
-    - app
   extension: image/png
-  id: b11e27d6-c05e-4014-aec2-141dbb6fe500-tr
+  id: 10becd84-65d2-4b44-9d22-b4a719c81b7a
   priority: 0
-  slug: 12x-lindor-tafel-milch-100g-product-0
+  slug: lindt-01-png-product-1
   type: product
-offerId: 7d74f135-384f-49cb-96ed-86fe576c733c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: af06bb17-7cae-4cf5-8b75-c0135ae1c442
+  priority: 0
+  slug: lindt-png-logo-0
+  type: logo
+offerId: 05b19a36-b4fe-4790-8974-02ee71423e07
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +50,5 @@ referencePrice:
   value: 47.88
 slug: lindor-milchtafel-12x100g
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 12x Lindt Lindor Melkchocolade | 100 g

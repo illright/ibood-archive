@@ -1,12 +1,12 @@
-_id: 69f1f26215f49c1622354112
+_id: 69f87fcb189aa3d686da9511
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
-classicId: '3184749'
+  - 6b52ea46-ebc7-5da5-9bcd-8e0374c0fec9
+classicId: '3192006'
 classicProductId: '702568'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: d9e7d618-e596-42a8-8886-8d2be2ecf2b2
+id: 557fe81b-b594-40ac-a152-ff3378ead7d4
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 19bcc2e8-8357-4e19-b110-aa2d867c2f4f
-  priority: 0
-  slug: polaroid-logo-png-logo-0
+  extension: png
+  id: 1873431
+  priority: 100
+  slug: polaroid-logo
   type: logo
-offerId: 7c13a9f1-aacc-434a-8445-6b2f6f32dbb8
+offerId: 68e4e942-2f60-428c-8497-bf05d6b00883
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 79
 slug: polaroid-4146-s-x-zonnebril-dames-havana
 soldOut: false
-start: '2026-04-28T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Polaroid 4146/S/X Zonnebril | Dames | Havana

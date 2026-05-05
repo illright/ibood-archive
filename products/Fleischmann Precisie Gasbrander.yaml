@@ -1,12 +1,12 @@
-_id: 69e5f83d2cd9df36b719c930
+_id: 69f86f96f3421fae8dc3ac6c
 appOnly: false
-brand: Fleischmann
+brand: Fleischmann's
 brands:
   - id: 52639958-878e-5606-9145-40e5d7076d73
-    name: Fleischmann
+    name: Fleischmann's
 categories:
-  - ab0d0c66-81ec-525f-9cd8-66cf677bbcfc
-classicId: '3167971'
+  - a4b3f069-6b73-5ee3-bbbd-7df51f2564f3
+classicId: '3189959'
 classicProductId: '621548'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: 314925b4-31b2-4872-a3c1-92e4699d079f
+id: bd61726a-f89b-42c0-b306-138cc9de3016
 image:
   channels:
     - website
@@ -38,7 +38,7 @@ logo:
   priority: 0
   slug: fleischmann-logo-0
   type: logo
-offerId: 56aa700e-6d3d-4e5d-b693-2c55ddd0f9d0
+offerId: 4ed36a66-c7bf-40da-8eaf-2194f507198a
 price:
   cents: 1495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 24.99
 slug: fleischmann-precisie-gasbrander
-soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+soldOut: true
+start: '2026-05-04T22:00:00.000Z'
 title: Fleischmann Precisie Gasbrander

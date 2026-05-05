@@ -1,12 +1,12 @@
-_id: 69ce4eaa55800b4e5ca77cec
+_id: 69f89874fd169f44bb52a10b
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 14caae89-90c2-5089-bc44-99221ed1e987
-classicId: '3140367'
+  - deba93a0-893c-5514-8a47-ab0ed7f2eb4e
+classicId: '3192962'
 classicProductId: '704345'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: bcbcdadc-df3e-5bf5-a7a2-55e56dbecc96
+id: 22e035bf-5187-4cae-ae35-05a9ccaadbf5
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f59cb03c-3578-467f-9504-54bcc049fdca
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: 7e8cd545-9624-5f1c-a4e1-bde7230b5998
+offerId: 9f67284e-28e0-4230-ad0f-94f37f93e0bb
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 75
 slug: lacoste-gh0255-61-sport-shorts-navy
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Lacoste GH0255-61 Sport Shorts | Abyss Blue

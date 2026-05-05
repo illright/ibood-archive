@@ -1,12 +1,12 @@
-_id: 69f1b2132c2f6fdf5cffd81b
+_id: 69f875f9f3421fae8dc3b41b
 appOnly: false
 brand: Quaker
 brands:
   - id: ab15d467-facb-5075-a883-8ae82f69e7fb
     name: Quaker
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3183596'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3191390'
 classicProductId: '691542'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: 46a3d848-869a-4a56-a3bc-9352e0aace87
+id: 324faec4-079d-40f9-a4c0-b409e6756735
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 86782845-ec0d-452e-94de-2c455d77b35d
+  extension: image/png
+  id: 619e5642-e17f-4f9a-9f3a-062abd58c639
   priority: 0
-  slug: 708x1200-jpg-product-0
+  slug: quaker-01-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: quaker-logo-0
   type: logo
-offerId: 59526d54-1502-4eb4-bef3-9d8fa4cce5f9
+offerId: 3b672aec-becc-420a-b9ab-249417d7b825
 price:
   cents: 2995
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 71.4
 slug: 12x-quaker-cruesli-zero-sugar-added-nuts-seeds-400-g
-soldOut: true
-start: '2026-04-21T22:00:00.000Z'
+soldOut: false
+start: '2026-05-04T22:00:00.000Z'
 title: 12x Quaker Cruesli Zero Sugar Added Nuts & Seeds | 400 g

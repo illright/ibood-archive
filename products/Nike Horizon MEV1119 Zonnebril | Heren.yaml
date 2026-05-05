@@ -1,12 +1,12 @@
-_id: 69f1f248adf93f3f37686eab
+_id: 69f88064a540e7ef6446864e
 appOnly: false
-brand: NIKE
+brand: Nike
 brands:
   - id: f10aecde-bde6-5dcb-884f-5e6ec146d868
-    name: NIKE
+    name: Nike
 categories:
-  - cfcdb66d-f06c-5308-97ae-5ab06a6cbd45
-classicId: '3184701'
+  - a9ad2721-6f1e-5a98-a283-1700987d4c96
+classicId: '3192092'
 classicProductId: '702574'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 32
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 6c317180-5e70-44b4-9655-fb7a9aec5e41
+id: 745f6606-36f0-40c0-b3f1-3921694c1781
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1785406
-  priority: 100
-  slug: nike-logo
+    - all
+  extension: image/png
+  id: d0912163-ad02-4568-a550-ce2428baf7ab
+  priority: 101
+  slug: nike-logo-101
   type: logo
-offerId: 4684425c-b2f9-4ee5-9f6f-9c26f67faa63
+offerId: 13d41b4f-f787-49d1-828a-eb2a12547bc6
 price:
   cents: 3995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 59
 slug: nike-horizon-mev1119-zonnebril-heren
 soldOut: false
-start: '2026-04-28T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Nike Horizon MEV1119 Zonnebril | Heren

@@ -1,12 +1,12 @@
-_id: 69e78392dc4cbc51261f85a1
+_id: 69f876983a59cb3ed15d4fdb
 appOnly: false
-brand: WC NET
+brand: WC Net
 brands:
   - id: d6f5a1dd-7884-5911-ade3-5d09f33613a7
-    name: WC NET
+    name: WC Net
 categories:
-  - fc7440f6-c6b0-50d4-8cc5-ae81c0e3e6a6
-classicId: '3175672'
+  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
+classicId: '3191790'
 classicProductId: '695840'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 64
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-11T21:59:59.999Z'
 freeDelivery: false
-id: cd3e4e89-0fc3-44bf-b9ad-5890682ad022
+id: fc2763f4-56ab-41a7-8dc0-0691a9423cf9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: wc-net-png-product-1
   type: product
-offerId: 5bab2cb0-50fd-4c95-83be-770a04479cc4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 82e09d7c-2365-4029-8c82-2a1ca458f79c
+  priority: 0
+  slug: wc-net-logo-0
+  type: logo
+offerId: 3571b65b-2804-4caf-87b8-fb1c672e028b
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 55.44
 slug: wc-net-intense-mountain-breeze-12x-700ml
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 12x WC Net Toiletgel Intense Mountain Breeze | 700 ml

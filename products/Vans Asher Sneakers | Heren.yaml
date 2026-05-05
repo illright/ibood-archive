@@ -1,12 +1,12 @@
-_id: 69e6285c96f105496208886c
+_id: 69f86826fd169f44bb529408
 appOnly: false
-brand: VANS
+brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
-    name: VANS
+    name: Vans
 categories:
-  - 6c6d77e6-c64b-5f35-b556-5ada335c5bee
-classicId: '3169254'
+  - 767158db-a8e9-531f-aaa3-22fc41b3b238
+classicId: '3188979'
 classicProductId: '266185'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 31
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 5b8dfb90-8bc0-4233-8edf-0846e7cbaa3f
+id: d02224ef-7d63-4303-a709-4773b7b51864
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: 338f7891-eca7-48c6-aa29-1177cdeb88ad-tr
+  extension: jpg
+  id: 777822
   priority: 0
-  slug: vans-asher-sneakers-herren-jpg-product-1
+  slug: vans-asher-sneakers-heren
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 9d75f0b5-b707-48b4-8188-7b5e7fd8c25e
+offerId: 22493147-65d4-436c-afd1-2d3dd21bdd65
 price:
   cents: 4495
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 65
 slug: vans-asher-sneakers-heren
 soldOut: false
-start: '2026-04-20T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Vans Asher Sneakers | Heren

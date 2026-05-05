@@ -1,12 +1,12 @@
-_id: 69e60ffc64b25b828da197cb
+_id: 69f89a314cf12bfd0716b533
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - ff82595f-39b5-547a-8174-efe3efcbbd6b
-classicId: '3168141'
+  - 2d546fae-d052-5775-a418-a13be05b404a
+classicId: '3193429'
 classicProductId: '694543'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 939717db-6776-42f8-a275-9a8d650ac1f0
+id: b2091086-da64-4a34-9fb8-be45e59e90dc
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 175692b6-c55a-4179-aa1d-e5ad567130b2
-  priority: 0
-  slug: bjorn-borg-png-logo-0
+  extension: png
+  id: 2030715
+  priority: 100
+  slug: bjorn-borg-logo
   type: logo
-offerId: 35d66b14-f01b-4f51-8c92-223522dd999c
+offerId: 0dc082c0-b336-4e63-98d8-e087ede09863
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 49.95
 slug: bjorn-borg-essential-1-sweatshirt-herren
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Björn Borg Essential 1 Sweatshirt | Heren

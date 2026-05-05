@@ -1,12 +1,12 @@
-_id: 69e628b0a65f90c69faadce6
+_id: 69f8a183fd169f44bb52a8ab
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - 6c6d77e6-c64b-5f35-b556-5ada335c5bee
-classicId: '3169328'
+  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
+classicId: '3194177'
 classicProductId: '695987'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 43
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 43f3eee2-1cd7-4763-a737-bcb875416b14
+id: 43e1e752-31da-4749-a6f8-f38540aac861
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: cc5ae292-92b9-420c-9870-d87c3fec25ea
-  priority: 0
-  slug: wrangler-logo-101-png-logo-0
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
   type: logo
-offerId: 8650df21-85eb-448f-9e6c-6feb005305dc
+offerId: f33079af-f5db-4593-b12f-ce9ab7b3d2a1
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 34.95
 slug: wrangler-graphic-t-shirt-navy
 soldOut: false
-start: '2026-04-20T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: Wrangler Graphic T-Shirt | Navy

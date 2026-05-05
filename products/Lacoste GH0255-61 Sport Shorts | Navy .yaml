@@ -1,12 +1,12 @@
-_id: 69ce4ef555800b4e5ca77cef
+_id: 69f8986e3567c7f96731ee3c
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 14caae89-90c2-5089-bc44-99221ed1e987
-classicId: '3140369'
+  - deba93a0-893c-5514-8a47-ab0ed7f2eb4e
+classicId: '3192958'
 classicProductId: '704339'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 42abb58c-d42a-5dc2-bacc-972c35387810
+id: 9ca87d79-c135-4471-9440-104da72d0806
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7438a46b-7843-4fe7-a34b-c04e2076a798
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: 04fd7239-f32f-5d16-b902-dbd59f90e1b1
+offerId: 097ecac7-b9aa-4dde-879c-b89a9b5ef60a
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 75
 slug: lacoste-gh0255-61-sport-shorts-navy
 soldOut: false
-start: '2026-04-21T22:00:00.000Z'
+start: '2026-05-04T22:00:00.000Z'
 title: 'Lacoste GH0255-61 Sport Shorts | Navy '

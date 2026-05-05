@@ -1,22 +1,22 @@
-_id: 69f3234d4063d43e823dad69
+_id: 69f8a346fd169f44bb52ab9e
 appOnly: false
-brand: BEN SHERMAN
+brand: Ben Sherman
 brands:
   - id: bffecce8-b77c-54d3-94b0-183f578722f8
-    name: BEN SHERMAN
+    name: Ben Sherman
 categories:
-  - 88c35907-b33b-5109-8304-4c9316c33237
-classicId: '3185940'
+  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
+classicId: '3194757'
 classicProductId: '671779'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 69
-end: '2026-05-04T21:59:59.999Z'
+end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: ad6e5ffb-da1e-4a39-8268-a66581396b38
+id: cadbc2a2-2473-42ed-af19-690072455266
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: ben-sherman-logo-0
   type: logo
-offerId: 4fe34dfc-4bc3-4a92-940d-5bf8e4d3e7e6
+offerId: ee12e981-a98d-4ba2-95d5-916c5506f6f4
 price:
   cents: 1254
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 39.95
 slug: ben-sherman-signature-t-shirt-dark-navy
-soldOut: false
-start: '2026-04-29T22:00:00.000Z'
+soldOut: true
+start: '2026-05-04T22:00:00.000Z'
 title: Signature T-shirt Katoen | Dark Navy
