@@ -1,4 +1,4 @@
-_id: 69f89f87fd169f44bb52a5f1
+_id: 69f89f82fd169f44bb52a5dc
 appOnly: false
 brand: Seidensticker
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Seidensticker
 categories:
   - 901bc853-9ffb-50d7-9e38-7accea1b70d0
-classicId: '3193703'
-classicProductId: '695287'
+classicId: '3193697'
+classicProductId: '695308'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 56
 end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 699c87f0-2699-49f1-b01d-e4fa5f9a402c
+id: b03061f2-b765-476e-951e-11b1282c9d4d
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: fa92b31c-4535-40b8-86b3-53c1d4b8f975-tr
+  id: c7b59d25-8fba-47b7-8dfc-9c6a94dce2f5-tr
   priority: 0
-  slug: 44-light-blue-01-849935-14-spread-kent-98-slim-fit-business-hemd-seidensticker-product-3
+  slug: 38-mid-blue-01-849936-14-spread-kent-98-slim-fit-business-hemd-seidensticker-product-4
   type: product
-offerId: 49f2c86e-e865-4b56-a7ff-e67aadd57064
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1741033
+  priority: 100
+  slug: seidensticker-logo
+  type: logo
+offerId: 67faad33-88b6-4677-b8ad-8e8c7eb4ef8b
 price:
   cents: 3995
   currency: EUR
@@ -41,8 +51,4 @@ slug: seidensticker-spread-kent-overhemd-slim-fit
 soldOut: false
 start: '2026-05-04T22:00:00.000Z'
 title: Seidensticker Spread Kent Overhemd | Slim Fit
- seidensticker-spread-kent-overhemd-slim-fit
-soldOut: false
-start: '2026-05-04T22:00:00.000Z'
-title: Seidensticker Spread Kent Overhemd | Slim Fit
-it
+ Fit

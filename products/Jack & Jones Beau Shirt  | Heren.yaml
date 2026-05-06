@@ -1,4 +1,4 @@
-_id: 69f891d9fd169f44bb52a04a
+_id: 69f891fbfd169f44bb52a081
 appOnly: false
 brand: Jack & Jones
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Jack & Jones
 categories:
   - 69ddef6a-820a-5c37-a479-a7bb0b063675
-classicId: '3192807'
-classicProductId: '680215'
+classicId: '3192841'
+classicProductId: '680211'
 deliveryPrice:
   cents: 395
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 47
 end: '2026-05-10T21:59:59.999Z'
 freeDelivery: false
-id: 19f7f56b-c948-4c23-a849-b708b5f293e7
+id: 936dd9e8-19b5-4b30-a141-d168ea369c77
 image:
   channels:
     - app
@@ -24,21 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 9fc9d0e0-6cf1-4bad-bc64-f8ad43418537
+  id: aae54df6-aba7-4568-b265-89d57ddb6781-tr
   priority: 0
-  slug: s-sky-captain-12298012-jwhbeau-tee-ss-frontprint-crew-neck-jack-and-jones-product-0
+  slug: l-iceberg-green-12298012-jwhbeau-tee-ss-frontprint-crew-neck-jack-and-jones-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
-  type: logo
-offerId: 01019a7b-6508-45a7-8e48-88d563b6c624
+offerId: b52611d8-4cf5-4f8f-8cf8-8c67a798dbf7
 price:
   cents: 795
   currency: EUR
@@ -46,6 +36,12 @@ price:
 referencePrice:
   cents: 1499
   currency: EUR
+  value: 14.99
+slug: jack-jones-beau-shirt
+soldOut: true
+start: '2026-05-04T22:00:00.000Z'
+title: Jack & Jones Beau Shirt  | Heren
+y: EUR
   value: 14.99
 slug: jack-jones-beau-shirt
 soldOut: false

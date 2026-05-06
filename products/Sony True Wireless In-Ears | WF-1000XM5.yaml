@@ -1,4 +1,4 @@
-_id: 69e24742a65f90c69faad4e9
+_id: 69e2474239499fa4bedce6d2
 appOnly: false
 brand: Sony
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Sony
 categories:
   - 8d427948-e94a-5fca-8e25-7e80f0fd346e
-classicId: '3166578'
-classicProductId: '489437'
+classicId: '3166571'
+classicProductId: '489436'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 25
 end: '2026-05-13T21:59:59.999Z'
 freeDelivery: false
-id: 89d4ab6c-3a81-540c-8b38-e3ced3d1486d
+id: 1da91bf3-935f-5921-8610-16cc698e4de1
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 1683211
+  extension: image/png
+  id: b1244380-e288-4f8e-95d1-5b8af34afef4-tr
   priority: 0
-  slug: sony-true-wireless-in-ears-wf-1000xm5
+  slug: sony-wf-1000xm5-kabellose-in-ears-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 0
   slug: sony-logo
   type: logo
-offerId: 73d82f9b-f937-53b7-a443-79756311e79a
+offerId: 69c9cfef-d735-5380-b703-b5c7d9f77363
 price:
   cents: 17995
   currency: EUR
@@ -47,6 +50,7 @@ referencePrice:
   currency: EUR
   value: 239.99
 slug: sony-true-wireless-in-ears-wf-1000xm5
-soldOut: false
+soldOut: true
 start: '2026-05-04T22:00:00.000Z'
 title: Sony True Wireless In-Ears | WF-1000XM5
+M5
