@@ -1,13 +1,13 @@
-_id: 69f86739e727dd053269ed3a
+_id: 69faf999bf81510bf7c6836d
 appOnly: false
 brand: Combekk
 brands:
   - id: 875fdc8f-76b7-5193-823b-3a250c9c9b2d
     name: Combekk
 categories:
-  - bd4e004c-9e7b-55cd-b120-f520fc1ee461
-classicId: '3188445'
-classicProductId: '588419'
+  - 39e854aa-e1a0-5eb3-855d-cfd6c6dae428
+classicId: '3197320'
+classicProductId: '694248'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,16 +16,17 @@ directCheckout: true
 discount: 50
 end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: a7e1f0f7-743e-4670-9e24-8b851cfaf37c
+id: 88c6789f-ab92-4561-80e7-9a1500e14349
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2020280
-  priority: 100
-  slug: combekk-sous-chef-braadpan-24-cm
+    - all
+  extension: image/png
+  id: 6d2b8a97-f3b0-434f-901a-68521b8ae8a8-tr
+  priority: 0
+  slug: combekk-sous-chef-dutch-oven-rood-24cm-product-5
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: combekk-logo
   type: logo
-offerId: 0d312c98-18a1-414a-ada8-b3c9e3c835d1
+offerId: 03b17a19-6fa0-4448-82fe-bbf228271362
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +51,4 @@ slug: combekk-sous-chef-braadpan-24-cm
 soldOut: false
 start: '2026-05-04T22:00:00.000Z'
 title: Combekk Sous-Chef Braadpan | 24 cm
--05-04T22:00:00.000Z'
-title: Combekk Sous-Chef Braadpan | 24 cm
+m
