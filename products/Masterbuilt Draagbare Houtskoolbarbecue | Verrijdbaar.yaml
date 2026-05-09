@@ -1,12 +1,12 @@
-_id: 69f86e43fd169f44bb5295a6
+_id: 69f8a22e6f3ff419585d9962
 appOnly: false
 brand: Masterbuilt
 brands:
   - id: 42427065-d7ac-5c66-9040-613cb784284b
     name: Masterbuilt
 categories:
-  - a4b3f069-6b73-5ee3-bbbd-7df51f2564f3
-classicId: '3189457'
+  - 2087d60c-c18e-5b1a-b405-0042aeeac0ab
+classicId: '3194403'
 classicProductId: '630106'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 1be23480-0def-4294-8856-4bf5e244f452
+id: 6a387d46-f259-481a-ad3a-c5f10f48c7f6
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: masterbuild-01-png-product-1
   type: product
-offerId: b5c8f427-86f8-4dc8-8cf1-b77c3f094e52
+offerId: 35a20f5c-7a85-4e4e-8c82-1cc9d56e9925
 price:
   cents: 14995
   currency: EUR
@@ -38,6 +38,7 @@ referencePrice:
   currency: EUR
   value: 399.99
 slug: masterbuilt-draagbare-houtskoolbarbecue
-soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+soldOut: true
+start: '2026-05-05T22:00:00.000Z'
 title: Masterbuilt Draagbare Houtskoolbarbecue | Verrijdbaar
+
