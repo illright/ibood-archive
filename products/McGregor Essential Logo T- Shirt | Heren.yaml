@@ -1,22 +1,22 @@
-_id: 69f8a34bfd169f44bb52abb6
+_id: 69fc6a89f9413d3b29f12de9
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194764'
-classicProductId: '689794'
+  - 6f829383-acbb-5afe-967e-aec3d2d88c56
+classicId: '3200534'
+classicProductId: '689795'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 71
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 41cfd85e-b8e5-4712-8f1d-b53f5168334c
+id: 316d805e-5ae9-41a0-8b59-ef82d91570db
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 1df35ffe-61bd-4c2b-b1d2-6a38eb1c1e09
+offerId: de2f186c-ea15-45e6-85ed-b5776bc23d98
 price:
   cents: 1295
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 44.95
 slug: mcgregor-essential-logo-t-shirt-heren
 soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: McGregor Essential Logo T- Shirt | Heren

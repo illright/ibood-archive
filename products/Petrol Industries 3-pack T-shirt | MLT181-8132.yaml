@@ -1,12 +1,12 @@
-_id: 69f8a0283567c7f96731efd8
+_id: 69fc6a5560bfb018e4e94670
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3193916'
+  - 038f8467-8044-51c2-88fa-9a3a83a0c4ad
+classicId: '3200035'
 classicProductId: '702282'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: c79dbb18-9d60-42d6-be8d-31eeff3df5b2
+id: 2a2c999a-1c79-4c1b-9510-e55bbe250c98
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: f3fea187-e1b5-440a-b397-016fb1c7ee73
+  priority: 0
+  slug: petrol-logo-png-logo-0
   type: logo
-offerId: 259440f0-1435-4938-937f-4a2ad2d050ba
+offerId: f77b53f4-923b-4d16-809b-c78a664507da
 price:
   cents: 2695
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 44.99
 slug: petrol-industries-3-pack-t-shirt-mlt181-8132
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Petrol Industries 3-pack T-shirt | MLT181-8132

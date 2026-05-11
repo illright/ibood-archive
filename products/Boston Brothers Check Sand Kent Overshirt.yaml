@@ -1,12 +1,12 @@
-_id: 69f8a147fd169f44bb52a870
+_id: 69fc69dff527b748f83a45f2
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194147'
+  - 9566cde1-8ec4-5de2-b7d3-5639600475e1
+classicId: '3199912'
 classicProductId: '662750'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 80
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 6ba51679-4a9e-498c-80b2-a37a0d16fe9c
+id: 7cd21cf4-99df-4a6e-8239-0cabb8959238
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: d9e7c8a6-2144-4e7c-83f7-393a17958fd5
+    - app
+    - website
+  extension: image/png
+  id: d9e7c8a6-2144-4e7c-83f7-393a17958fd5-tr
   priority: 0
   slug: 3xl-check-sand-bbo35f264-1020-5007-long-sleeve-overshirt-kent-boston-brothers-product-0
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: boston-brothers-logo
   type: logo
-offerId: 0c1612c6-5692-49f9-b2d1-c41af682ec52
+offerId: 8553fe76-9434-44be-b0c5-dde12e0af25e
 price:
   cents: 1595
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 79.95
 slug: boston-brothers-check-sand-kent-overshirt
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Boston Brothers Check Sand Kent Overshirt

@@ -1,12 +1,12 @@
-_id: 69f8a0e63567c7f96731f10b
+_id: 69fc6aa93270f7cda3bfa4ad
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194092'
+  - 038f8467-8044-51c2-88fa-9a3a83a0c4ad
+classicId: '3200205'
 classicProductId: '698345'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: fd0619e6-b745-46e6-8d8b-cb23f04eb258
+id: 30e8079b-0b1c-441d-b8b9-b148cf33ca7d
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 95dfde91-4b78-4061-bb99-7570c0e37d72
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: a2a42dea-3201-4487-a697-a06b0f4e0de2
+offerId: dfb0aa10-8706-4ed0-ad39-497a76e17194
 price:
   cents: 2995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 59.99
 slug: petrol-industries-hoodie-m-1060-swh112-marble-blue
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Petrol Industries Hoodie | M-1060-SWH112 | Marble Blue

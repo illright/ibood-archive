@@ -1,12 +1,12 @@
-_id: 69f8a333fd169f44bb52ab58
+_id: 69fc6a831dc9c6f2b3580c2e
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194724'
+  - 038f8467-8044-51c2-88fa-9a3a83a0c4ad
+classicId: '3200507'
 classicProductId: '702313'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 7190d803-172d-4ff3-9007-11c06f649ccd
+id: 2a837adf-75ad-4f54-8b3c-0d5ee5f0d0e9
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 32a3ff2a-5f1a-4218-a9f5-7dc968b3c9b2
+  priority: 0
+  slug: petrol-logo-png-logo-0
   type: logo
-offerId: 6cb50951-e206-412a-bc5e-87b8c22c4384
+offerId: d2d04296-49ab-4429-82fd-caa38cfa6e2c
 price:
   cents: 995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 19.99
 slug: petrol-industries-classic-t-shirt-tsr118-7130-light-tan
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Petrol Industries Classic T-shirt | TSR118-7130 | Light Tan

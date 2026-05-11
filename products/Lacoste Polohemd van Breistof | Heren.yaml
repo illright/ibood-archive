@@ -1,12 +1,12 @@
-_id: 69f8a0b83567c7f96731f0e6
+_id: 69fc6a29fc32cb3449e4d8a6
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194064'
+  - a5781f02-1609-5cf4-b5fa-f18c7670618b
+classicId: '3200123'
 classicProductId: '704240'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 36
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 239ef66b-5995-4cf3-b981-a9cb211ef243
+id: 36463b7c-4ba8-437c-8218-eccbbc15bd9e
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612112
-  priority: 100
-  slug: lacoste-logo
+    - all
+  extension: image/png
+  id: 85a22ab1-254a-4939-8936-d1e3cf4c5329
+  priority: 0
+  slug: lacoste-png-logo-0
   type: logo
-offerId: d3e14b9e-cf13-4ff5-82e7-95d02dee26f9
+offerId: 4ac1fea8-3f30-45a7-aa58-9cf42f00d5a9
 price:
   cents: 8995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 140
 slug: lacoste-polohemd-van-breistof-heren
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Lacoste Polohemd van Breistof | Heren

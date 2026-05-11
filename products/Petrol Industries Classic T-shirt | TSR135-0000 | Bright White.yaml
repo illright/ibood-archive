@@ -1,12 +1,12 @@
-_id: 69f8a208fd169f44bb52a93c
+_id: 69fc6a601dc9c6f2b3580bee
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194339'
+  - 038f8467-8044-51c2-88fa-9a3a83a0c4ad
+classicId: '3200320'
 classicProductId: '702342'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 7f617e2f-f0be-4eaf-a979-54ffeea67916
+id: f83beefc-16b7-46f2-b63a-7b3e6468421f
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3e9ba436-96fb-483a-a3d6-c09e606dc1fc
-  priority: 0
-  slug: petrol-logo-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 3e0d3678-fe9b-4d06-8794-50aeb3481801
+offerId: b7d902e9-210c-4ae5-8161-e592579cfa8a
 price:
   cents: 1495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 25.99
 slug: petrol-industries-classic-t-shirt-tsr135-0000-bright-white
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Petrol Industries Classic T-shirt | TSR135-0000 | Bright White

@@ -1,12 +1,12 @@
-_id: 69f8a2f2fd169f44bb52aadb
+_id: 69fc6a801f40b6fe537d74c3
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194652'
+  - 038f8467-8044-51c2-88fa-9a3a83a0c4ad
+classicId: '3200479'
 classicProductId: '698318'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 8f1d0654-ae16-4878-bdb6-8db20db4c912
+id: a9dfbb0e-8ca1-462d-bf9e-9216c32f5478
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 37655f45-dc8a-48b2-b295-a318ce72fcb2
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: 73ff76f3-ed8f-49c5-a4ad-163b1a15ab58
+offerId: f98a7f78-3a89-4cf5-b11e-009a9bdd5741
 price:
   cents: 2995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 49.99
 slug: 3x-petrol-industries-t-shirt-m-1060-mlt185
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: 3x Petrol Industries T-shirt | M-1060-MLT185

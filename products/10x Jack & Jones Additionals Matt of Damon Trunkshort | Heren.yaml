@@ -1,22 +1,22 @@
-_id: 69f891e0fd169f44bb52a053
+_id: 69fc5a902118a0ab2e92989d
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 69ddef6a-820a-5c37-a479-a7bb0b063675
-classicId: '3192811'
-classicProductId: '637578'
+  - acd141b5-d4a0-56ab-8510-442d19d76c1b
+classicId: '3199804'
+classicProductId: '637580'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 68
-end: '2026-05-10T21:59:59.999Z'
+directCheckout: true
+discount: 60
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 37d6fedf-15b3-4e2a-aae4-5f0df2691e2d
+id: 90ea0117-c2cf-4edf-a018-c8c9cc2c3116
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: d009623a-cf90-4ac3-86b2-3a0e1af04e11
+offerId: 33c2e5b9-6d1b-4062-9d07-594e398c71f9
 price:
-  cents: 2370
+  cents: 2995
   currency: EUR
-  value: 23.7
+  value: 29.95
 referencePrice:
   cents: 7499
   currency: EUR
   value: 74.99
 slug: 10x-jack-jones-additionals-trunkshort
-soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+soldOut: false
+start: '2026-05-10T22:00:00.000Z'
 title: 10x Jack & Jones Additionals Matt of Damon Trunkshort | Heren

@@ -1,12 +1,12 @@
-_id: 69f83717ec912f0ab59c0ffa
+_id: 69fc6a69fc32cb3449e4d9c8
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - 32ce2605-a4ad-5e40-8f87-91be53c31934
-classicId: '3187481'
+  - d1e668c8-0437-56f0-94f5-fa625b19f0e6
+classicId: '3200328'
 classicProductId: '688069'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: e09a3a58-61c2-40fa-bbe3-88f562589a3e
+id: bb01e6b0-1381-40b9-ad64-7a8a25c60277
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9fd4c1cb-e334-4e32-a3bc-abc7f535062d
-  priority: 0
-  slug: timberland-png-logo-0
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
   type: logo
-offerId: dfbfd471-fb34-4d66-b2e7-f005fdd3f91c
+offerId: f4f0c4bf-68ab-46df-b493-ed41768a9fc4
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 120
 slug: timberland-adventure-2-0-sneakers-heren
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Timberland Adventure 2.0 Sneakers | Heren

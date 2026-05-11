@@ -1,12 +1,12 @@
-_id: 69f8a07ffd169f44bb52a75a
+_id: 69fc6a061cbcb6f7aa03959a
 appOnly: false
 brand: Original Penguin
 brands:
   - id: 18863ac5-1510-54f2-b877-ed28426ed60e
     name: Original Penguin
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194001'
+  - 42947ea1-a48d-5571-b04e-b2320db5cb76
+classicId: '3200245'
 classicProductId: '696996'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 35
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 0e55da10-be96-47d8-9d95-57c479d63c21
+id: d7dacbe1-050e-4a46-afd8-8dccd7a32de5
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: s-bright-white-p118-opws2615-ss-cttn-camp-ao-emb-tee-original-pinguin-product-2
   type: product
-offerId: db630400-4380-4e51-8911-4efce91b0be8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 515da2be-8c14-4805-824e-8b75957393fe
+  priority: 0
+  slug: original-penguin-png-logo-0
+  type: logo
+offerId: 7004e9e4-9162-4794-82ff-540a62e9dea0
 price:
   cents: 5495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 85
 slug: original-penguin-opws2615-hemd-heren-bright-white
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Original Penguin OPWS2615 Hemd | Heren | Bright White

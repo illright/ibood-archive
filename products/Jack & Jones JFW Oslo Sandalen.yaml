@@ -1,12 +1,12 @@
-_id: 69f890bdfd169f44bb529f22
+_id: 69fc6aa2f9413d3b29f12e03
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 69ddef6a-820a-5c37-a479-a7bb0b063675
-classicId: '3192718'
+  - 96a66383-563c-561c-bf77-2d336ddeaef7
+classicId: '3200191'
 classicProductId: '679251'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 38
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 81f3b5e0-5e39-488c-af37-5eabe6b44738
+id: cbcd8782-d4b4-4b29-a9d1-9196f663f8a3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: cc84174c-6372-4f38-b913-26bc679873b7
-  priority: 0
-  slug: jack-and-jones-chino-shorts-herren-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 53bb065f-f678-4bee-a68f-dbe21bc0a9b6
+offerId: c4c0ec97-dac2-4d97-b645-54537afca5e1
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: jack-jones-jfw-oslo-sandalen
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Jack & Jones JFW Oslo Sandalen

@@ -1,4 +1,4 @@
-_id: 69fdcade0fc47a6bd2d643e5
+_id: 69f86796e727dd053269edde
 appOnly: false
 brand: Apple
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Apple
 categories:
   - aee7473b-e83a-5022-8642-0f16e71addc8
-classicId: '3201850'
-classicProductId: '695634'
+classicId: '3188787'
+classicProductId: '695633'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 48
+discount: 55
 end: '2026-05-13T21:59:59.999Z'
 freeDelivery: false
-id: e573e5bf-c1f1-48b4-a814-3db04615021e
+id: 6f862496-8878-4b1f-8eb1-f71c844fbf8d
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8eecd17a-7aeb-4127-823f-e87957e4de60
+  id: a4d21d9e-2e82-43a8-9374-4d08283c4178
   priority: 0
-  slug: swonki8e-png-product-1
+  slug: macerino-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: bdc1f500-2a87-4e57-b2ac-1623a67dadb7
+offerId: 3eed712e-a112-4418-8f31-ec29bbc61251
 price:
-  cents: 96900
+  cents: 82900
   currency: EUR
-  value: 969
+  value: 829
 referencePrice:
   cents: 184900
   currency: EUR
   value: 1849
 slug: apple-macbook-air-13-m2-2022-16-gb-1-tb-us-qwerty
-soldOut: false
+soldOut: true
 start: '2026-05-04T22:00:00.000Z'
 title: Apple MacBook Air 13" M2 | 2022 | 16 GB + 1 TB | US-QWERTY
+

@@ -1,12 +1,12 @@
-_id: 69f83700fd169f44bb52906e
+_id: 69fc6a522ad77f5ae473e9bb
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - 32ce2605-a4ad-5e40-8f87-91be53c31934
-classicId: '3187462'
+  - d1e668c8-0437-56f0-94f5-fa625b19f0e6
+classicId: '3200223'
 classicProductId: '688149'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 4b011340-351d-407d-b611-549a3429665b
+id: 8c016a57-7fcf-4ecc-b2a5-4fdef77e6f71
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 41-5-navy-full-grain-tb0a2pe5ep81030-lbes-low-lace-sneaker-navy-8-medium-timberland-product-3
   type: product
-offerId: b7aedca6-3d09-4202-a23f-aef11553817b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
+  type: logo
+offerId: a75a0ae3-a457-4372-8f03-cda6b7e0142b
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 140
 slug: timberland-lisbon-essential-sneakers-navy-heren
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Timberland Lisbon Essential Sneakers | Navy | Heren

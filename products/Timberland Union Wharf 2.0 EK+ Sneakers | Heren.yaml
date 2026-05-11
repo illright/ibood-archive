@@ -1,22 +1,22 @@
-_id: 69f837111027e5ec2fecc540
+_id: 69fc6a7013bc64b2b78bfee2
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - 32ce2605-a4ad-5e40-8f87-91be53c31934
-classicId: '3187475'
-classicProductId: '688159'
+  - d1e668c8-0437-56f0-94f5-fa625b19f0e6
+classicId: '3200366'
+classicProductId: '688170'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 6fc0c35b-129d-4789-89b4-3b84ff2620c5
+id: 6c1b0249-c12a-45c9-8fbd-97ff084f0915
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 2afa064d-a2e5-410b-ad7b-00b219e70c5a
+  id: efe45714-d2e6-4aef-80a6-957abe1628fc
   priority: 0
-  slug: timberland-01-png-product-1
+  slug: timberland-02-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2008165
-  priority: 100
-  slug: timberland-logo
+    - all
+  extension: image/png
+  id: 24a12625-ce24-451b-ac57-8d7b135d2ea9
+  priority: 0
+  slug: timberland-png-logo-0
   type: logo
-offerId: 11d8aafe-0004-477f-9ded-962110bdb4f1
+offerId: 699d99d2-86b9-4fe3-9ff2-500285ef121d
 price:
   cents: 5495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 95
 slug: timberland-union-wharf-2-0-ek-sneakers-heren
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Timberland Union Wharf 2.0 EK+ Sneakers | Heren

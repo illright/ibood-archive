@@ -1,22 +1,22 @@
-_id: 69f891de3a59cb3ed15d5303
+_id: 69fc6a84f9413d3b29f12ddc
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 69ddef6a-820a-5c37-a479-a7bb0b063675
-classicId: '3192810'
+  - 96a66383-563c-561c-bf77-2d336ddeaef7
+classicId: '3200571'
 classicProductId: '669782'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 84
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 5ef2731d-62d4-4f92-81e5-f3f61b66a010
+id: ca6b4930-7e12-4121-9284-5f5c33602e53
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: fa04662a-b72e-446b-9d7a-1ae339a220c4
+offerId: 0f91cea7-f0af-4918-9772-8198db138229
 price:
   cents: 985
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: jack-jones-urban-edge-overshirt-moonbeam
-soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+soldOut: false
+start: '2026-05-10T22:00:00.000Z'
 title: 'Jack & Jones Urban Edge Overshirt | Moonbeam '

@@ -1,12 +1,12 @@
-_id: 69f8a0a53a59cb3ed15d556b
+_id: 69fc6a5b2fa737a7e81cbffd
 appOnly: false
 brand: Original Penguin
 brands:
   - id: 18863ac5-1510-54f2-b877-ed28426ed60e
     name: Original Penguin
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3194042'
+  - 42947ea1-a48d-5571-b04e-b2320db5cb76
+classicId: '3200251'
 classicProductId: '696926'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 41
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: adaf74d5-d31e-4521-bcbc-cfd162c7d59d
+id: 4a90477e-d935-4da4-9aaa-5c5604edc8d6
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: l-birch-p252-opks2614-ao-jqrd-deco-1-4-zip-tee-original-pinguin-product-3
   type: product
-offerId: 25768b30-a049-4136-b75a-c524444c272c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: bf39226c-583e-4955-abf4-c386e4cee6d6
+  priority: 0
+  slug: original-penguin-png-logo-0
+  type: logo
+offerId: bb08d635-0a3e-42f4-a8ce-5f6ec3ed79dc
 price:
   cents: 4995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 85
 slug: original-penguin-opks2614-jacquard-shirt-heren-birch
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Original Penguin OPKS2614 Jacquard-Shirt | Heren | Birch

@@ -1,12 +1,12 @@
-_id: 69f836f3fd169f44bb52903c
+_id: 69fc6a30bf81510bf7c688bd
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 4dc34d02-5964-5619-991f-95edc363b8f0
-classicId: '3187447'
+  - 2ed2feef-2668-5cdf-b707-21cfbec03b04
+classicId: '3199941'
 classicProductId: '696778'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-10T21:59:59.999Z'
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 7183dc31-7ed3-4ae4-a78b-127bd816b5e0
+id: 146a36e1-51e0-480a-8123-e3d2d4b26aea
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 29d96365-70f4-4c57-adfa-cb6940653702
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1695004
+  priority: 100
+  slug: lyle-scott-logo
+  type: logo
+offerId: f1b6619e-6b8f-4a0c-a075-195125732620
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119.95
 slug: lyle-scott-lennox-starflex010-sneakers
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Lyle & Scott Lennox Starflex010 Sneakers | Heren

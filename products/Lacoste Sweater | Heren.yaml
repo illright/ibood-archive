@@ -1,22 +1,22 @@
-_id: 69f89fac25797b79420901f2
+_id: 69fc6a661cbcb6f7aa0396d1
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - ba5598a3-b4dc-5100-b22e-183259e5aa6d
-classicId: '3193740'
-classicProductId: '703116'
+  - a5781f02-1609-5cf4-b5fa-f18c7670618b
+classicId: '3200314'
+classicProductId: '704234'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 45
-end: '2026-05-10T21:59:59.999Z'
+discount: 36
+end: '2026-05-17T21:59:59.999Z'
 freeDelivery: false
-id: 2e9fc78a-3f6c-4c3f-960d-d8bea9d86497
+id: 1ee0ba31-0d41-401b-874b-87a75801faae
 image:
   channels:
     - app
@@ -24,30 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d5b2fa62-fbcd-483f-adfc-8393779c9bc6-tr
+  id: 1ba97bcc-86f1-46f0-b0b2-56a69ecfa8e4
   priority: 0
-  slug: 3-silver-chine-cca-ah0128-51-1ha1-men-s-sweater-01-lacoste-product-0
+  slug: lacoste-08png-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612112
-  priority: 100
-  slug: lacoste-logo
+    - all
+  extension: image/png
+  id: 69f7be0d-ab6a-4eed-baec-fe08ca3e3295
+  priority: 0
+  slug: lacoste-png-logo-0
   type: logo
-offerId: 9baa4802-5d13-488d-8278-168e52421b3e
+offerId: ab2f8f0e-6d04-4e32-aabb-11521c793a9d
 price:
-  cents: 5995
+  cents: 8995
   currency: EUR
-  value: 59.95
+  value: 89.95
 referencePrice:
-  cents: 11000
+  cents: 14000
   currency: EUR
-  value: 110
+  value: 140
 slug: lacoste-sweater-heren
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-10T22:00:00.000Z'
 title: Lacoste Sweater | Heren
