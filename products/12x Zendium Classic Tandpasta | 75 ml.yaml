@@ -1,12 +1,12 @@
-_id: 69f876e9fd169f44bb529b52
+_id: 6a01cfdc7203127dcf2e0c61
 appOnly: false
 brand: Zendium
 brands:
   - id: da96ec63-9c5d-52ad-a274-50ef133f8ce0
     name: Zendium
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3191859'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3206746'
 classicProductId: '683688'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 30874024-ff97-4a22-985e-efffdc974234
+id: a08b0e4a-c5ad-42e5-8dcb-f05c1309347a
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 6ce333c2-7cf9-445f-88eb-83abfb7b9148-tr
-  priority: 1
-  slug: 12x-zendium-classic-tandpasta-75-ml-product-2
+  id: 180dde13-4ff4-49a6-9466-f26c25d8d975
+  priority: 0
+  slug: zendium-01-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: zendium-logo-0
   type: logo
-offerId: 9b66b4f1-24dc-4377-9d12-6e12a6e478f6
+offerId: 22bdce13-3cea-4cad-8421-927081e35b68
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 59.88
 slug: 12x-zendium-classic-tandpasta-75-ml
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 12x Zendium Classic Tandpasta | 75 ml

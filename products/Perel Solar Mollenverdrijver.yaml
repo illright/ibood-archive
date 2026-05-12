@@ -1,12 +1,12 @@
-_id: 69f86f30f3421fae8dc3aba4
+_id: 6a01b63231b3e5e3c375742a
 appOnly: false
 brand: Perel
 brands:
   - id: 8bb774c9-f3c1-5bd5-aef0-cb7c91cf2a2f
     name: Perel
 categories:
-  - a4b3f069-6b73-5ee3-bbbd-7df51f2564f3
-classicId: '3189795'
+  - 8ad58ea0-dca5-54fb-b6c1-452d925d1ef4
+classicId: '3203651'
 classicProductId: '269647'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-18T21:59:59.999Z'
 freeDelivery: false
-id: 639ec539-f4c5-4b9e-92cb-83aca1fb8a6f
+id: f7d2e7cd-9143-400c-9106-51c36efc947d
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1775473
+  id: 1115444
   priority: 100
-  slug: perel-solar-mollenverdrijver
+  slug: perel-logo
   type: logo
-offerId: d1fb3dae-8daf-4b91-854a-caa5ec4cb555
+offerId: c820570b-2592-4a97-ab5e-789b85956291
 price:
   cents: 1395
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 26.95
 slug: perel-solar-mollenverdrijver
-soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+soldOut: true
+start: '2026-05-11T22:00:00.000Z'
 title: Perel Solar Mollenverdrijver

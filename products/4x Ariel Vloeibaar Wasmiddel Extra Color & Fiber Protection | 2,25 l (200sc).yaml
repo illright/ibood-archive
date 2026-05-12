@@ -1,12 +1,12 @@
-_id: 69e62af996f10549620889ff
+_id: 6a01cbdb266c577d374f0057
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3169733'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204377'
 classicProductId: '707023'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 66bb9a52-03fd-5cc2-9b77-c9c82563df17
+id: 64038883-8fa6-4b7c-b0b9-ca22b1a125be
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e1b76902-bc61-45c4-9b73-d7d9e26d28d8
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: f2e54880-3ed9-56f2-91e0-1958a41321c6
+offerId: b0d8cc13-a6b4-4d94-8188-979de4722965
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 107.2
 slug: 4x-ariel-vloeibaar-wasmiddel-extra-color-fiber-protection-2-25-l-200sc
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 4x Ariel Vloeibaar Wasmiddel Extra Color & Fiber Protection | 2,25 l (200sc)

@@ -1,12 +1,12 @@
-_id: 69f0b7202c2f6fdf5cffd41e
+_id: 6a01c128b4baef98adba3934
 appOnly: false
 brand: Shiseido
 brands:
   - id: b40e0945-6cfb-573a-bc9e-e5cb55e203dd
     name: Shiseido
 categories:
-  - b1d2018f-15c2-56b3-9d78-3e809bae6d20
-classicId: '3182208'
+  - 764a09d7-2185-5ca6-a40a-a7a304cbcafa
+classicId: '3204165'
 classicProductId: '708328'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 982bb383-0bbb-58cb-ab25-5e7506ba1eed
+id: 122dac68-55f6-429e-b797-2a2d2a312ee6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: shisei-png-product-1
   type: product
-offerId: c4711cf1-7efc-570b-ba53-4dbdda686ede
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2004677
+  priority: 100
+  slug: shiseido-logo
+  type: logo
+offerId: 491e8389-9f54-4242-b163-319c940f4368
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 57
 slug: shiseido-ginza-intense-edp-spray-30-ml
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: Shiseido Ginza Intense EdP Spray | 30 ml

@@ -1,12 +1,12 @@
-_id: 69f873533a59cb3ed15d4e21
+_id: 6a01cbfc266c577d374f007a
 appOnly: false
 brand: Beewise
 brands:
   - id: bfdee3f3-18bb-5c76-9e1f-80e27323faf9
     name: Beewise
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3190310'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204419'
 classicProductId: '695652'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 71675acc-df32-42cf-8201-ebc8a46c1e07
+id: ab4d0e60-fa52-4f89-a3f5-c7b5a52d160e
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: beewise-07-png-product-1
   type: product
-offerId: a3f65c17-c559-46c8-8af1-b3414627b63f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 1faf3f7b-95ef-4ae5-8b08-93fa3ea295dd
+  priority: 0
+  slug: beewise-logo-0
+  type: logo
+offerId: a3a4ac45-b847-4331-b253-06b9c9fd97e2
 price:
   cents: 1695
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 50.85
 slug: 3x-beewise-herbruikbare-inklapbare-beker-265-ml
-soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+soldOut: true
+start: '2026-05-11T22:00:00.000Z'
 title: 3x Beewise Herbruikbare Inklapbare Beker | 265 ml

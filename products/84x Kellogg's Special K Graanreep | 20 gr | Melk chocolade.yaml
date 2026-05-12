@@ -1,12 +1,12 @@
-_id: 69f87426f3421fae8dc3b1b6
+_id: 6a01cce251ab3247f14b08f5
 appOnly: false
 brand: Kellogg's
 brands:
   - id: a5a18fd7-6b52-55c8-a86a-d513a5aa18c5
     name: Kellogg's
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3190622'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204758'
 classicProductId: '420398'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 9dbe2091-c465-4f4d-bef6-d9903f438f51
+id: e0d95618-7284-48ab-a4a9-bb0dc76f4227
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: kellogg-s-logo
   type: logo
-offerId: dfab82d7-d7f8-4c5f-b8a4-a0590399513c
+offerId: d4d1631c-7f56-4f80-bd5b-869108a910fd
 price:
   cents: 2795
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 48.86
 slug: 84x-kellogg-s-special-k-graanreep-20-gr-melk-chocolade
-soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+soldOut: true
+start: '2026-05-11T22:00:00.000Z'
 title: 84x Kellogg's Special K Graanreep | 20 gr | Melk chocolade

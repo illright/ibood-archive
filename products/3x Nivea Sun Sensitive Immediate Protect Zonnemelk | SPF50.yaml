@@ -1,12 +1,12 @@
-_id: 69f875a0a540e7ef6446853b
+_id: 6a01ce587203127dcf2e0b1b
 appOnly: false
 brand: Nivea Sun
 brands:
   - id: a2170227-a9c4-50d7-9452-5dc927159020
     name: Nivea Sun
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3190986'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3205675'
 classicProductId: '699314'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 866b3b88-f82e-4316-8530-35f9ff7def87
+id: 17575bcf-89d2-49fd-a25a-ddde181f6157
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: abf5971a-25cc-448c-904f-eb8bc16c0520-tr
+  extension: jpg
+  id: 549038
   priority: 0
-  slug: 3x-nivea-sensitive-lsf50-jpg-product-1
+  slug: 3x-nivea-sensitive-lsf50
   type: product
 logo:
   channels:
@@ -41,7 +38,7 @@ logo:
   priority: 101
   slug: nivea-sun-logo-101
   type: logo
-offerId: 3475d6b5-8123-45b8-8fa7-4adee45d9073
+offerId: 9354d34b-1e38-421c-921b-daf46c1ef868
 price:
   cents: 2695
   currency: EUR
@@ -52,5 +49,5 @@ referencePrice:
   value: 83.97
 slug: 3x-nivea-sun-spf50-sensitive-zonnemelk
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 3x Nivea Sun Sensitive Immediate Protect Zonnemelk | SPF50

@@ -1,12 +1,12 @@
-_id: 69f86e4ef3421fae8dc3a843
+_id: 6a01b4f0bbd1e91376a9c35b
 appOnly: false
 brand: Flymo
 brands:
   - id: fb984e8e-a1f6-5002-a155-78f4e1c71a5b
     name: Flymo
 categories:
-  - a4b3f069-6b73-5ee3-bbbd-7df51f2564f3
-classicId: '3189469'
+  - 8ad58ea0-dca5-54fb-b6c1-452d925d1ef4
+classicId: '3203155'
 classicProductId: '693626'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-18T21:59:59.999Z'
 freeDelivery: false
-id: 4cce5e65-8fb0-4fe7-a10a-6ff16ba3d351
+id: 2eb5df96-5de6-4585-8a10-61c5de18b0b9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: flymo-hover-vac-250-with-collecting-box-product-7
   type: product
-offerId: 57b720ce-6e4c-49c1-8ce5-c8c2df689ac1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f46a378e-3ae5-43ee-93a2-8c277b57e83e
+  priority: 0
+  slug: flymo-logo-0
+  type: logo
+offerId: e7f242b2-1c55-45b5-91c1-0b7ceab2bb40
 price:
   cents: 7795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 129.99
 slug: flymo-hover-vac-250-zweefgrasmaaier-met-opvangbak
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: Flymo Hover Vac 250 Zweefgrasmaaier met Opvangbak

@@ -1,12 +1,12 @@
-_id: 69f0b71ab7136d94e58fce26
+_id: 6a01c117897e1bcc2e7c9a33
 appOnly: false
 brand: Narciso Rodriguez
 brands:
   - id: 9ed25783-02f7-55c6-8fc0-e8af528a413f
     name: Narciso Rodriguez
 categories:
-  - b1d2018f-15c2-56b3-9d78-3e809bae6d20
-classicId: '3182206'
+  - 764a09d7-2185-5ca6-a40a-a7a304cbcafa
+classicId: '3204150'
 classicProductId: '708325'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 6b05b685-7034-5da2-8283-1c0a35f87bdc
+id: 7dae414c-089e-4d8a-a1be-96ca33c086d7
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: n-rod-png-product-0
   type: product
-offerId: d24aae79-439f-5d64-8045-34e87c6c0eb3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2000767
+  priority: 100
+  slug: narciso-rodriguez-logo
+  type: logo
+offerId: 80d9dde8-c161-4fe8-8499-c6d7a94176ff
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 112
 slug: narciso-rodriguez-all-of-me-geschenkset-150-ml
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: Narciso Rodriguez All of Me Geschenkset | 150 ml

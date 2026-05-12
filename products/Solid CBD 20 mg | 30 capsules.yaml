@@ -1,12 +1,12 @@
-_id: 69f8762ff3421fae8dc3b4a4
+_id: 6a01cf2e51ab3247f14b0e1a
 appOnly: false
 brand: Solid
 brands:
   - id: f766d6bb-44ff-5732-9aee-a1f4448fef4f
     name: Solid
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3191590'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3206327'
 classicProductId: '706955'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 58
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 976c7e29-855a-401b-8be4-3575ab182640
+id: 13c55c3a-c247-44a3-8a1b-c970c071f0d6
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: solid-cbd-20mg-capsules-30mg-product-0
   type: product
-offerId: 1b0f301d-b9c5-459b-ae7e-2917c2d7cdb7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e1990c6c-774e-4d6a-a1c6-41be5ae4fb76
+  priority: 0
+  slug: solid-logo-0
+  type: logo
+offerId: af7194b5-d4e6-4f7a-888f-3ee4c140af5b
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.95
 slug: solid-cbd-20-mg-30-capsules
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: Solid CBD 20 mg | 30 capsules

@@ -1,12 +1,12 @@
-_id: 69f336663a59cb3ed15d425e
+_id: 6a01ce9f51ab3247f14b0cdd
 appOnly: false
 brand: Pedigree
 brands:
   - id: 3b2a45d0-c64c-5645-b226-325f850e3812
     name: Pedigree
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3186102'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3205920'
 classicProductId: '708733'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 2778702a-eebf-52d0-988e-3bdaf1b474a8
+id: 3670d04c-481b-4458-b02b-e72e89d7e9d6
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 33522c0f-7d00-4218-9697-da22abfcee68
-  priority: 0
-  slug: pedigree-png-logo-0
+  extension: jpg
+  id: 1424202
+  priority: 100
+  slug: pedigree-logo
   type: logo
-offerId: 0efb12db-4c57-5672-ad03-858f326765c9
+offerId: 8f80f02d-18ab-489f-a9ae-7d86552f52e7
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 37.96
 slug: 48x-pedigree-maaltijdzakjes-senior-in-gelei-100-g
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 48x Pedigree Maaltijdzakjes Senior in Gelei Multipack | 100 g

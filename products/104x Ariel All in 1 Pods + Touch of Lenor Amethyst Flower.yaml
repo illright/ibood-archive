@@ -1,12 +1,12 @@
-_id: 69e62afa96f1054962088a08
+_id: 6a01cbe461f6570a02ef8770
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3169737'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204390'
 classicProductId: '707029'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 86
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 7b458603-2635-501e-9f5d-2198c420c277
+id: 1d1632e5-f5c8-425a-87c8-842d1311a9a6
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 35717b46-f7ad-4ca1-aeb5-212e8144b42d
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: 41f48aa7-1566-5409-b804-0feefd223e37
+offerId: a2186146-5733-4a98-9003-869edefbf6b4
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 211.9
 slug: 104x-ariel-all-in-1-pods-touch-of-lenor-amethyst-flower
 soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 104x Ariel All in 1 Pods + Touch of Lenor Amethyst Flower

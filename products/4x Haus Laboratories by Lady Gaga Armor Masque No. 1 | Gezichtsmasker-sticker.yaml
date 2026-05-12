@@ -1,12 +1,12 @@
-_id: 69f874173a59cb3ed15d4e88
+_id: 6a01ccca51ab3247f14b08b1
 appOnly: false
 brand: Haus Laboratories
 brands:
   - id: 6e7265bb-8333-5a66-aa5d-85319be3ba4d
     name: Haus Laboratories
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3190593'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204722'
 classicProductId: '693593'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 93
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 6572d815-2825-4bb2-9038-0e6d92c05982
+id: 18ac2d0b-69bb-4fb4-b7f1-3170b959d3e0
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: masker-01-png-product-1
   type: product
-offerId: 94c6cedd-7f2b-408d-b397-37bfa8ebec21
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 44cdfa00-494a-4ddc-8786-575d786eac21
+  priority: 0
+  slug: haus-laboratories-logo-0
+  type: logo
+offerId: 29ed1613-9801-4eb9-8de1-7cbb7601d100
 price:
   cents: 795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 108
 slug: 4xhaus-laboratories-by-lady-gaga-armor-masque-no-1-gezichtsmasker-sticker
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 4x Haus Laboratories by Lady Gaga Armor Masque No. 1 | Gezichtsmasker-sticker

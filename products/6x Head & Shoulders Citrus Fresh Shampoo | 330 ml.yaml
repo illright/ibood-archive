@@ -1,12 +1,12 @@
-_id: 69f316d62c2f6fdf5cffdc17
+_id: 6a01ccd0b4baef98adba3a98
 appOnly: false
 brand: Head & Shoulders
 brands:
   - id: 93c0c375-0484-54bf-86e6-712b73798f88
     name: Head & Shoulders
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3185423'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204723'
 classicProductId: '708725'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 4a30134e-75ae-5cbb-9139-91b77990900b
+id: e34da1c7-3d4a-4983-9f59-63c47cbbacaf
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8fb8d740-38bb-4e31-b5dd-50302a18d86f
-  priority: 0
-  slug: head-shoulders-png-logo-0
+  extension: png
+  id: 1854470
+  priority: 100
+  slug: head-and-shoulders-logo
   type: logo
-offerId: 35c253f8-a6cc-52aa-890b-da18a40e9f0d
+offerId: e622c9f4-0cd5-45e4-a0b2-117a7667ad13
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 41.94
 slug: 6x-head-shoulders-citrus-fresh-shampoo-330-ml
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 6x Head & Shoulders Citrus Fresh Shampoo | 330 ml

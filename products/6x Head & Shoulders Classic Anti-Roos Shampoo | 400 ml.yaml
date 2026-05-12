@@ -1,12 +1,12 @@
-_id: 69f07d522c2f6fdf5cffd2d8
+_id: 6a01ccd3266c577d374f01c6
 appOnly: false
 brand: Head & Shoulders
 brands:
   - id: 93c0c375-0484-54bf-86e6-712b73798f88
     name: Head & Shoulders
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3181032'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204726'
 classicProductId: '708203'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 34b082d4-d2fb-5f94-bbe5-2e8baf6a6644
+id: a8edcad1-cdf8-42f2-8b30-a8e7a7fef252
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fad69b4c-a07a-4ad5-a96f-a2f407f8c868
-  priority: 0
-  slug: head-shoulders-png-logo-0
+  extension: png
+  id: 1854470
+  priority: 100
+  slug: head-and-shoulders-logo
   type: logo
-offerId: 278764dd-1e50-54e8-985a-dedad636957d
+offerId: 5157f43e-23ed-484b-acf8-c242e2a8f181
 price:
   cents: 2195
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 59.94
 slug: 6x-head-shoulders-classic-anti-roos-shampoo-400-ml
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 6x Head & Shoulders Classic Anti-Roos Shampoo | 400 ml

@@ -1,12 +1,12 @@
-_id: 69f3366e2c2f6fdf5cffde4a
+_id: 6a01cfbb266c577d374f06a0
 appOnly: false
 brand: Whiskas
 brands:
   - id: e2a685ae-9e80-52e6-b2bb-35d080da4fb7
     name: Whiskas
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3186104'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3206677'
 classicProductId: '708735'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: aaf5ea14-b92c-581e-af9f-396078d122b2
+id: 64c024f6-5739-42d6-b34b-d227248caba2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1acd1732-2d34-458a-8fe2-bf1fccc0f416
-  priority: 0
-  slug: whiskas-png-logo-0
+  extension: png
+  id: 1762185
+  priority: 100
+  slug: whiskas-logo
   type: logo
-offerId: c107225b-0e5e-525f-acd3-171894876c8d
+offerId: eff4e870-ed6f-4dd3-a706-3f894e25810a
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 51.96
 slug: 48x-whiskas-1-classic-selectie-in-saus-maaltijdzakjes-85-g
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 48x Whiskas 1+ Classic Selectie in Saus Maaltijdzakjes Multipack | 85 g

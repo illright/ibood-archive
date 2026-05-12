@@ -1,12 +1,12 @@
-_id: 69f876befd169f44bb529b2f
+_id: 6a01cfc97203127dcf2e0c4c
 appOnly: false
 brand: WoodWick
 brands:
   - id: b56b1d96-8b90-576d-8566-281a8ddd996a
     name: WoodWick
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3191832'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3206699'
 classicProductId: '676063'
 deliveryPrice:
   cents: 595
@@ -14,31 +14,32 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: c9096510-3ae6-4ff2-9555-47de6f7dbed9
+id: 3fe286a3-ebc2-4a00-906b-2de3705bee3c
 image:
+  channels:
+    - app
+    - newsletter
+    - all
+    - website
+  extension: image/png
+  id: 93d758b5-440f-4f07-808f-9547af24250b
+  priority: 1
+  slug: woodwick-01-png-product-1
+  type: product
+logo:
   channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: 93d758b5-440f-4f07-808f-9547af24250b
+  id: ea3a4fe6-ab45-4240-b946-250779c563c3
   priority: 0
-  slug: woodwick-01-png-product-1
-  type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1717757
-  priority: 100
-  slug: woodwick-logo
+  slug: woodwick-png-logo-0
   type: logo
-offerId: dbd21dc5-57a9-4254-b0a8-c06613eeff5b
+offerId: 842d7c6b-d1f3-421c-b8f1-f00fa3ce6566
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 111.6
 slug: 4x-woodwick-seconds-vanilla-bean-kaars-medium-60-branduren
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 4x WoodWick 'Seconds' Vanilla Bean Kaars | Medium | 60 Branduren

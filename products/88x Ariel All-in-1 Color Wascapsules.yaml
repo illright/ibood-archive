@@ -1,12 +1,12 @@
-_id: 69f316d42c2f6fdf5cffdc11
+_id: 6a01cbd9266c577d374f004d
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3185422'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204376'
 classicProductId: '708724'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 70
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: a59d78b0-81cf-5eaf-bdcb-b2f08524610c
+id: c7ae6ec2-40ad-4511-a2dc-4f5346d30051
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7a62126e-1bcb-4a0d-88ba-6272d29b8488
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: ad08ba13-efc1-576f-9aab-69d5f78d5fe5
+offerId: 199ece95-3985-4d19-bb19-4e6a121be171
 price:
   cents: 2395
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.14
 slug: 88x-ariel-all-in-1-color-wascapsules
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 88x Ariel All-in-1 Color Wascapsules

@@ -1,12 +1,12 @@
-_id: 69f0b720b7136d94e58fce32
+_id: 6a01cf2151ab3247f14b0ddd
 appOnly: false
 brand: Shiseido
 brands:
   - id: b40e0945-6cfb-573a-bc9e-e5cb55e203dd
     name: Shiseido
 categories:
-  - b1d2018f-15c2-56b3-9d78-3e809bae6d20
-classicId: '3182210'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3206233'
 classicProductId: '708330'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: a13831bd-3870-5b72-8700-64fa2f1f7a2a
+id: b445ab73-1478-4522-afbc-f783d4c353ef
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: shiseido-vital-perfection-liftdefine-radiance-night-concentrate-night-serum-40ml-product-0
   type: product
-offerId: 25a64335-1400-5d7e-800b-199f08ae40d3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2004677
+  priority: 100
+  slug: shiseido-logo
+  type: logo
+offerId: 769f5b3b-effc-4c5c-bb39-75ac03b78615
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 155
 slug: shiseido-vital-perfection-liftdefine-radiance-night-concentrate-night-serum-40-ml
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: Shiseido Vital Perfection Liftdefine Radiance Night Concentrate Night Serum | 40 ml

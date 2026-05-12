@@ -1,22 +1,22 @@
-_id: 69f35e743a59cb3ed15d4381
+_id: 69f33a2e51f210a105927aab
 appOnly: false
 brand: Tenson
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: Tenson
 categories:
-  - e6edcfd3-b58f-5703-a872-399c80ea65bc
-classicId: '3186425'
-classicProductId: '675961'
+  - 13709972-465f-5c48-bb7a-3ad4c69bb5a0
+classicId: '3186137'
+classicProductId: '675949'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 62
+directCheckout: true
+discount: 40
 end: '2026-05-12T21:59:59.999Z'
 freeDelivery: false
-id: 60308fab-106f-4351-ba1e-a0d7f0d33fc7
+id: 7a975314-8262-4746-a869-c68ac60582cd
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 0a342a87-6180-4847-ae98-d905606fcc93
+  id: bee648e2-2fe1-42ab-ac67-6b2a588047d1
   priority: 0
-  slug: main1-png-product-1
+  slug: 3xl-navy-blazer-5018267-590-niseko-ski-jacket-men-tenson-product-0-png-product-1
   type: product
 logo:
   channels:
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: 0fe0731d-17f6-489a-9859-db3aef09d0e3
+offerId: 53441dc6-6c6a-4b01-a4f3-964ab83da13d
 price:
-  cents: 7500
+  cents: 11995
   currency: EUR
-  value: 75
+  value: 119.95
 referencePrice:
   cents: 20000
   currency: EUR
@@ -50,6 +50,4 @@ referencePrice:
 slug: tenson-niseko-ski-jacket-heren
 soldOut: false
 start: '2026-05-04T22:00:00.000Z'
-title: Tenson Niseko Ski Jacket | Heren
-026-05-04T22:00:00.000Z'
 title: Tenson Niseko Ski Jacket | Heren

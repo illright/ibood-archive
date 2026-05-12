@@ -1,46 +1,45 @@
-_id: 69f875c9ec866c511bcc1d1f
+_id: 6a01b1be7203127dcf2e0542
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3191156'
-classicProductId: '660837'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3203082'
+classicProductId: '705729'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: fe3964e3-d22e-4d15-b1c5-cbe39f7716fb
+id: 3ec9bb35-331a-5757-8dc2-81cdd9119beb
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
   extension: image/png
-  id: c812f2b1-a2e0-4b39-b0c6-f280eb0205d6-tr
+  id: dedb9a29-123f-41eb-8fe4-f09f00a2910a
   priority: 0
-  slug: oral-b-sensitiveclean-eb60x-10-ct-product-1
+  slug: oral-b-02-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1800052
-  priority: 100
-  slug: oral-b-logo
+    - all
+  extension: image/png
+  id: d5dc2c7e-c53e-471d-bb21-8fa6a254bbc3
+  priority: 0
+  slug: oral-b-png-logo-0
   type: logo
-offerId: c707c377-0f1e-4e20-94c8-ac343e85b633
+offerId: 696b7a7f-0d62-5d49-a785-b5f6b2ab5c44
 price:
   cents: 2195
   currency: EUR
@@ -50,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 69.99
 slug: 10x-oral-b-pro-sensitive-clean-opzetborstel
-soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+soldOut: false
+start: '2026-05-11T22:00:00.000Z'
 title: 10x Oral-B Pro Sensitive Clean Opzetborstel

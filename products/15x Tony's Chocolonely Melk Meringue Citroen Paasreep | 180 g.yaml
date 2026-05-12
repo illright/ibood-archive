@@ -1,12 +1,12 @@
-_id: 69f8764aec866c511bcc1e53
+_id: 6a01cf4d51ab3247f14b0e68
 appOnly: false
 brand: Tony's Chocolonely
 brands:
   - id: 153c7cf1-d44b-53af-ab11-afe86c58f050
     name: Tony's Chocolonely
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3191687'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3206461'
 classicProductId: '705603'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 25e2ea46-a99c-4f69-bcb2-ad1c88f4ff16
+id: a27caa7d-c960-4fe4-a190-f65a81263fa2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 458c11ef-742f-406a-b317-ae3c66fd218b
-  priority: 0
-  slug: tonychocolonely-png-logo-0
+  extension: png
+  id: 1744224
+  priority: 100
+  slug: tony-s-chocolonely-logo
   type: logo
-offerId: 69d7fb6e-df22-4c46-9d7d-437b8e88f0fa
+offerId: 38f734de-6d0f-4f9f-a173-756a963c35f4
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 70.35
 slug: 15x-tony-s-chocolonely-melk-meringue-citroen-paasreep-180-g
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 15x Tony's Chocolonely Melk Meringue Citroen Paasreep | 180 g

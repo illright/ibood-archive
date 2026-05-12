@@ -1,12 +1,12 @@
-_id: 69f32b002c2f6fdf5cffde32
+_id: 6a01cc8951ab3247f14b07d5
 appOnly: false
 brand: Fairy
 brands:
   - id: 9b17ac23-8210-5492-b4df-a7456fdff12a
     name: Fairy
 categories:
-  - f59d5afc-ec0e-565b-bf15-cc4b6cc47256
-classicId: '3185424'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3204631'
 classicProductId: '708730'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 71
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 712f026e-fd9e-5014-9cf8-db37cbaf6645
+id: a7053bf2-ff3f-4066-aaa9-c33d65d22cb9
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: fairy-01-png-product-1
   type: product
-offerId: e376980f-0485-508f-8415-d1c07706c67a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1912430
+  priority: 100
+  slug: fairy-logo
+  type: logo
+offerId: 468e5347-dab5-48a4-8ec9-f447d574892e
 price:
   cents: 2795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 97.43
 slug: 142x-fairy-platinum-plus-all-in-one-lemon-vaatwastabletten
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: 142x Fairy Platinum Plus All in One Anti-Dull Lemon Vaatwastabletten | Winter Edition

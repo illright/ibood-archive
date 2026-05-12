@@ -1,12 +1,12 @@
-_id: 69f0b721b7136d94e58fce34
+_id: 6a01cf237203127dcf2e0bce
 appOnly: false
 brand: Shiseido
 brands:
   - id: b40e0945-6cfb-573a-bc9e-e5cb55e203dd
     name: Shiseido
 categories:
-  - b1d2018f-15c2-56b3-9d78-3e809bae6d20
-classicId: '3182211'
+  - 19a1a278-531b-55df-9669-111293b6ff95
+classicId: '3206230'
 classicProductId: '708329'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2026-05-11T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 8539bf8a-6093-5739-a2a5-c157ec7a83e7
+id: 0a8966ad-66b6-4b4a-a838-bbe65fd3356d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: shiseido-total-protective-cream-spf30-50ml-product-0
   type: product
-offerId: beac5deb-34a4-53b4-815e-66191bf13b8b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2004677
+  priority: 100
+  slug: shiseido-logo
+  type: logo
+offerId: b9fe01ae-678e-472c-bc51-6d8df408cb9c
 price:
   cents: 14995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 440
 slug: shiseido-total-protective-cream-spf30-50-ml
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-11T22:00:00.000Z'
 title: Shiseido Total Protective Cream SPF30 | 50 ml
