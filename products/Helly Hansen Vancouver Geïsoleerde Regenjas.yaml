@@ -1,22 +1,22 @@
-_id: 69f35e7dde8dcb824e91cc84
+_id: 6a01b73fb4baef98adba3870
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - e6edcfd3-b58f-5703-a872-399c80ea65bc
-classicId: '3186440'
-classicProductId: '673195'
+  - 47bece37-3c93-582b-8ffd-5e4fd59cbe3f
+classicId: '3203879'
+classicProductId: '673192'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 62
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 6d266a62-8f02-4c2a-8659-76086ee50abd
+id: 6b3644f8-be4d-4cd5-8906-dc5aec1d2544
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9dc30f77-7d71-4384-9eb4-f2a8fe4b2899
-  priority: 0
-  slug: helly-hansen-2023-png-logo-0
+  extension: png
+  id: 1973228
+  priority: 100
+  slug: helly-hansen-logo
   type: logo
-offerId: 5c61a6cd-66b9-4b56-b24b-18050ad09bab
+offerId: 787fa359-43e2-4e44-9d9b-269132db3ba3
 price:
   cents: 6000
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 160
 slug: helly-hansen-vancouver-geisoleerde-regenjas
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Helly Hansen Vancouver Geïsoleerde Regenjas

@@ -1,31 +1,32 @@
-_id: 69f8720aa540e7ef644681d8
+_id: 6a02d7157203127dcf2e0d5b
 appOnly: false
 brand: Jamara
 brands:
   - id: 641e17f1-8202-5f93-b51b-202326469c01
     name: Jamara
 categories:
-  - 088c2bec-7104-57fc-a13f-7e255204d4a1
-classicId: '3190071'
+  - 6865f624-09f1-548c-94a3-d5e356bd4447
+classicId: '3207140'
 classicProductId: '622153'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 41
-end: '2026-05-12T21:59:59.999Z'
+discount: 46
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: e20f136f-65a9-4b32-bf09-5558bb8a2e0d
+id: b00ef506-da92-45f7-9c59-ec5d6410d885
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2209486
+    - all
+  extension: image/png
+  id: f3429316-4a46-4435-8ef0-36e018478cb2
   priority: 0
-  slug: rc-monstertruck-lextron-desertbuggy-4wd
+  slug: toys-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +39,16 @@ logo:
   priority: 0
   slug: jamara-logo-0
   type: logo
-offerId: 10d98465-f4e0-498a-9f06-4012f5fdc37a
+offerId: 2188c614-1ce8-4860-a3da-d6a5c69319bc
 price:
-  cents: 10900
+  cents: 9995
   currency: EUR
-  value: 109
+  value: 99.95
 referencePrice:
   cents: 18500
   currency: EUR
   value: 185
 slug: rc-monstertruck-lextron-desertbuggy-4wd
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Jamara RC-Monstertruck Lextron Desertbuggy 4WD met LED

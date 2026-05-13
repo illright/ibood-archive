@@ -1,12 +1,12 @@
-_id: 69f87246a540e7ef64468254
+_id: 6a02d768a906d6093c47f616
 appOnly: false
 brand: Tuban
 brands:
   - id: 8a8e8234-b32f-5989-9374-4e7391597cf0
     name: Tuban
 categories:
-  - 088c2bec-7104-57fc-a13f-7e255204d4a1
-classicId: '3190150'
+  - 6865f624-09f1-548c-94a3-d5e356bd4447
+classicId: '3207225'
 classicProductId: '588242'
 deliveryPrice:
   cents: 595
@@ -14,20 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 22157922-5667-46f5-a8d3-9d4ee7ade625
+id: 7304f97a-8841-4941-a38d-9e9ab500015d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2018362
-  priority: 100
-  slug: tuban-tubi-jelly-set-cosmos
+    - all
+  extension: image/png
+  id: ae4ac0d5-5c5f-4a9c-a874-d453182fe9f0-tr
+  priority: 0
+  slug: tubi-jelly-planeten-jpg-product-101
   type: product
-offerId: 7c4f8fec-2822-4439-83c5-678ef5417b29
+offerId: 33e706e1-04e2-423b-b4fb-39dc1c8dede9
 price:
   cents: 1695
   currency: EUR
@@ -38,5 +39,5 @@ referencePrice:
   value: 34.99
 slug: tuban-tubi-jelly-set-cosmos
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Tuban Tubi Jelly Set | Cosmos

@@ -1,22 +1,22 @@
-_id: 69f89a3c3567c7f96731eea5
+_id: 6a01ad897203127dcf2e04a3
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - dd9f530d-ff12-50a1-862b-3d312bb4d579
-classicId: '3193444'
-classicProductId: '691722'
+  - 6f28c260-7688-570d-9c6d-92e7430edc9c
+classicId: '3202932'
+classicProductId: '618217'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 32
-end: '2026-05-12T21:59:59.999Z'
+directCheckout: false
+discount: 40
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 67994bff-a3a6-43dc-99cb-0d3078826a9c
+id: 59e11b5a-08b2-4bba-ab4d-249ce2551fe7
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 75a975e7-d105-40ad-a268-5ecabad7f955-tr
+  id: 3a517b21-2367-4414-af83-509a353aef3c
   priority: 0
-  slug: m-6470-leaf-1915287-647000-core-essence-ss-tee-2-m-men-craft-product-0
+  slug: craft4545-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: craft-logo
   type: logo
-offerId: b72edc64-3650-44b1-8c75-855862500aca
+offerId: 9d68b70e-ea5c-4056-a9b6-68be793e7477
 price:
-  cents: 1695
+  cents: 1495
   currency: EUR
-  value: 16.95
+  value: 14.95
 referencePrice:
   cents: 2495
   currency: EUR
   value: 24.95
 slug: craft-core-essence-ss-2-t-shirt-heren
-soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+soldOut: false
+start: '2026-05-12T22:00:00.000Z'
 title: Craft Core Essence SS 2 T-Shirt | Heren

@@ -1,12 +1,12 @@
-_id: 69f87280a540e7ef644682e6
+_id: 6a02d788cd67a6cdc9276059
 appOnly: false
 brand: Fisherprize
 brands:
   - id: 90e0346e-c138-5b8f-ad7b-ae0b3a854fd4
     name: Fisherprize
 categories:
-  - 088c2bec-7104-57fc-a13f-7e255204d4a1
-classicId: '3190221'
+  - 6865f624-09f1-548c-94a3-d5e356bd4447
+classicId: '3207280'
 classicProductId: '700348'
 deliveryPrice:
   cents: 895
@@ -14,21 +14,23 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 48
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 5a35c33a-aeb5-4d96-8a52-72b8c4efbe0d
+id: b7923c3a-db38-4da2-aa58-f752c0e8fe13
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: b9d732b4-60a6-4967-a617-a203a6b6ab1f
+    - website
+    - app
+  extension: image/png
+  id: b9d732b4-60a6-4967-a617-a203a6b6ab1f-tr
   priority: 0
   slug: fisherprize-night-light-hippo-led-product-0
   type: product
-offerId: 9b353acd-b0bf-4d3e-bb4b-05b2250fa199
+offerId: c3daa4d3-8463-44c3-9ad7-c859f230bfa1
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +41,5 @@ referencePrice:
   value: 24.95
 slug: fisher-price-nijlpaard-led-nachtlampje
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Fisher-Price Nijlpaard LED Nachtlampje

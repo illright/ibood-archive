@@ -1,12 +1,12 @@
-_id: 69f865f4fd169f44bb52921d
+_id: 6a02e04a4acd88baea562860
 appOnly: false
 brand: Dirt Devil
 brands:
   - id: 771dabbf-dd5b-560d-bb1a-6cbc85efd70a
     name: Dirt Devil
 categories:
-  - d90c0cc1-87d1-5e7c-a47b-140fb1f20670
-classicId: '3187922'
+  - 1b0d203b-da9c-559d-b792-da0388508426
+classicId: '3207472'
 classicProductId: '700306'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 794ae0b2-f9c8-4674-88e2-71737c95bcda
+id: 75a7ae11-41eb-40b1-ba94-4dd38b6c067f
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: dirt-devil-pedal-bin-30l-soft-close-product-6
   type: product
-offerId: 93992b76-90e2-4d6b-8bbf-8e51b5eb4763
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fe441e1f-0aa2-4c2e-86ee-8eab6e6c28dd
+  priority: 0
+  slug: dirt-devil-logo-0
+  type: logo
+offerId: c2679399-829b-4802-9351-15b90b37a714
 price:
   cents: 3995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 79.99
 slug: dirt-devil-pedaalemmer-soft-close-30-l-black
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Dirt Devil Pedaalemmer Soft Close | 30 l | Black

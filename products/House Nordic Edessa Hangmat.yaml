@@ -1,12 +1,12 @@
-_id: 695fc638b6e149b99819d54e
+_id: 6a02ec2047e7528351bfbee7
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 2087d60c-c18e-5b1a-b405-0042aeeac0ab
-classicId: '2928244'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208194'
 classicProductId: '620435'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 35
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: e851beae-bb4e-5cb7-ae34-f094da35d5c4
+id: 16e26b7d-4f8f-4443-9120-1704ea63c680
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2202922
+    - all
+  extension: image/png
+  id: 31630882-4c31-4719-9648-ade650a3bba1-tr
   priority: 0
-  slug: house-nordic-edessa-hangmat
+  slug: house-nordic-edessa-hangmat-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: house-nordic-edessa-hangmat
   type: logo
-offerId: 7b6323f2-f780-517c-9846-825a1a9ceeab
+offerId: f8d4769a-701f-44df-8e0c-f9fa3438a4c9
 price:
   cents: 2795
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 42.95
 slug: house-nordic-edessa-hangmat
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: House Nordic Edessa Hangmat

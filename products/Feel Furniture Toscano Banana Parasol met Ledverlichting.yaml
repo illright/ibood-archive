@@ -1,12 +1,12 @@
-_id: 68e419863bccb3b701649869
+_id: 6a02ebe97203127dcf2e10c4
 appOnly: false
 brand: Feel Furniture
 brands:
   - id: 3a39b666-76a8-5c73-aaf4-22a819a0fec9
     name: Feel Furniture
 categories:
-  - 2087d60c-c18e-5b1a-b405-0042aeeac0ab
-classicId: '2784027'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208116'
 classicProductId: '670247'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 61
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 008d2e88-313d-55d8-bdda-3509ef295359
+id: fbff3737-0f17-4a50-b828-ccca9dd2983d
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: feel-furniture-toscano-banana-parasol-met-verlichting-en-hoes-donkergrijs-product-0
   type: product
-offerId: 65b2aebc-a855-572b-8b5a-4dd3e4973e93
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1651347
+  priority: 100
+  slug: feel-furniture-logo
+  type: logo
+offerId: 868cc08e-97e5-4b96-bc37-f78d7ec15e0f
 price:
   cents: 6995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 179.95
 slug: feel-furniture-toscano-banana-parasol-met-ledverlichting
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Feel Furniture Toscano Banana Parasol met Ledverlichting

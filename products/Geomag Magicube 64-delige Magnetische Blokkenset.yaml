@@ -1,12 +1,12 @@
-_id: 69f871d03a59cb3ed15d4d00
+_id: 6a02d73c7203127dcf2e0db4
 appOnly: false
 brand: Geomag
 brands:
   - id: e1688028-94b7-5c50-8878-486dab593af5
     name: Geomag
 categories:
-  - 088c2bec-7104-57fc-a13f-7e255204d4a1
-classicId: '3190018'
+  - 6865f624-09f1-548c-94a3-d5e356bd4447
+classicId: '3207188'
 classicProductId: '701923'
 deliveryPrice:
   cents: 595
@@ -14,32 +14,31 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: dde6c814-2a9a-42a5-9812-43b51788ed3f
+id: 5fcd2494-1f95-440c-99fe-8ce914c883da
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 9bfd7b12-e907-4ca4-ba47-8cc905224e77
+  extension: image/png
+  id: 9bfd7b12-e907-4ca4-ba47-8cc905224e77-tr
   priority: 0
   slug: geomag-magicube-gem-colors-crystal-64-delig-magnetisch-speelgoed-1-5-jaar-8750319-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 40da4728-fef9-4b6c-93f7-fa6abc34f6ca
-  priority: 0
-  slug: geomag-logo-png-logo-0
+  extension: png
+  id: 2020963
+  priority: 100
+  slug: geomag-logo
   type: logo
-offerId: e3dbaa04-1d94-43f2-8208-0b657e373833
+offerId: d8ba2f57-7c57-4372-a194-d01cc3c3dd1a
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119.99
 slug: geomag-magicube-64-delige-magnetische-blokkenset
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Geomag Magicube 64-delige Magnetische Blokkenset

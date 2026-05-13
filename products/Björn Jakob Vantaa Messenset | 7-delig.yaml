@@ -1,12 +1,12 @@
-_id: 69f86697fd169f44bb5292e1
+_id: 6a02e0deeaaa2bc817edb722
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - b98aaf11-9012-50e6-9db8-7906a75a555d
-classicId: '3188051'
+  - 7ceeea83-e59c-50f1-b49b-465ec717c64c
+classicId: '3208002'
 classicProductId: '703719'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-05-13T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 8f346736-caa8-457a-bfce-053433c077a0
+id: 25a33248-5869-4c08-8ff1-41b563c457a6
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 12fc0247-c77a-42c6-9551-d24a15ce3894
-  priority: 0
-  slug: bjorn-logo-png-logo-0
+  extension: png
+  id: 1619105
+  priority: 100
+  slug: bjorn-logo
   type: logo
-offerId: 739c1f91-c9a4-492a-a423-5a23e428b5a0
+offerId: 364c7038-e020-451e-bfbd-2fb92e258e9e
 price:
   cents: 9995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 249.9
 slug: bjorn-jakob-vantaa-messenset-7-delig
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
+title: Björn Jakob Vantaa Messenset | 7-delig
+.000Z'
 title: Björn Jakob Vantaa Messenset | 7-delig

@@ -1,12 +1,12 @@
-_id: 69f35ea1de8dcb824e91ccf5
+_id: 6a01b75fe009ea24eaa5f947
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - e6edcfd3-b58f-5703-a872-399c80ea65bc
-classicId: '3186474'
+  - 47bece37-3c93-582b-8ffd-5e4fd59cbe3f
+classicId: '3203935'
 classicProductId: '686234'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: f2031577-99b0-4f79-93a2-0a539cb693ea
+id: 935a0d21-9115-48d3-adb6-ee05ba59d8d2
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 41-black-tr-lavw-colblck-siz41-larvik-women-boots-travelin-product-9
   type: product
-offerId: 12b53599-02a7-4e5a-a6e6-c50050972f35
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
+  type: logo
+offerId: 261ce3f1-d301-4a46-b4fe-f2b778dddd59
 price:
   cents: 6500
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 259.95
 slug: travelin-larvik-boots-dames
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Travelin' Larvik Boots | Dames

@@ -1,12 +1,12 @@
-_id: 69f8a1e96f3ff419585d98e4
+_id: 6a02ebfd47e7528351bfbea4
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 20ed6479-be1b-56b1-9184-b28812cab42d
-classicId: '3194257'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208149'
 classicProductId: '613781'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 28
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: c00c205c-6e87-4ef5-9c04-8dd56eda55d4
+id: f9e416c1-e9d0-4e46-aac7-7c6489a02a99
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2202898
+    - all
+  extension: image/png
+  id: bcd34de9-b37e-49df-b1af-dd7d48d1f8b5-tr
   priority: 0
-  slug: house-nordic-huelva-bijzettafel
+  slug: house-nordic-huelva-beistelltisch-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: fe069ea7-8d77-4506-a793-2325a15a6ffc
+offerId: db39061a-123c-4f7b-b232-2311c78d5801
 price:
   cents: 15900
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 219.95
 slug: house-nordic-huelva-bijzettafel
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: House Nordic Huelva Bijzettafel

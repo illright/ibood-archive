@@ -1,12 +1,12 @@
-_id: 69fd9b0f0fc47a6bd2d642f2
+_id: 6a02ec5c47e7528351bfbfc2
 appOnly: false
 brand: Esschert Design
 brands:
   - id: ff3ac434-56dc-56f4-bc4e-28eb43eec8d7
     name: Esschert Design
 categories:
-  - 2087d60c-c18e-5b1a-b405-0042aeeac0ab
-classicId: '3201545'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208284'
 classicProductId: '676546'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 45b3a261-fc58-4b37-965f-e884fa411ce7
+id: 32830f20-67e6-4b40-a39d-18ada953c31c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1808584
+    - all
+  extension: image/png
+  id: f5aeb0c5-9c42-4c7e-bdec-bece87b320ec-tr
   priority: 0
-  slug: 2x-esschert-design-pindakaashuisje-voor-vogels
+  slug: 2x-esschert-design-pindakaashuisje-voor-vogels-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: esschert-design-logo
   type: logo
-offerId: 6cf2a423-44e7-46f4-91da-560378b00494
+offerId: b6b8fd76-a1ac-41fe-94e0-7ccae9a66cdf
 price:
   cents: 995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 29.9
 slug: 2x-esschert-design-pindakaashuisje-voor-vogels
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: 2x Esschert Design Pindakaashuisje voor Vogels

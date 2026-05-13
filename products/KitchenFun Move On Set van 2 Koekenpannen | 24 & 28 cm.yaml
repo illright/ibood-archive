@@ -1,22 +1,22 @@
-_id: 69f8670bf3421fae8dc3a5c9
+_id: 6a02e07c8a0b8b1bcaabe3e7
 appOnly: false
 brand: Kitchenfun
 brands:
   - id: 31026b8d-bec3-59a0-a4d3-3882ef2e7a91
     name: Kitchenfun
 categories:
-  - 3f3226ba-6e4f-5cce-b871-b9c9fcf9f175
-classicId: '3188276'
+  - 03d35624-fb3e-503e-83bc-1c93690d55b2
+classicId: '3207701'
 classicProductId: '683436'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 70
-end: '2026-05-12T21:59:59.999Z'
+discount: 75
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: f81d9cd2-f6eb-4ddd-be6b-b8e784656f88
+id: ee41ce18-04dc-4d94-b04e-b298d277a346
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: kitchenfun-move-on-koekenpannenset-2-delig-product-0
   type: product
-offerId: 31a8253f-d95c-4d8b-a8ba-e5f2b643e5e0
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 793c9d15-7265-4ce8-bff7-4933c4722aed
+  priority: 0
+  slug: kitchenfun-logo-0
+  type: logo
+offerId: 0b86a6c1-501f-44e1-9ff0-f15c2a465cb9
 price:
-  cents: 2995
+  cents: 2495
   currency: EUR
-  value: 29.95
+  value: 24.95
 referencePrice:
   cents: 9900
   currency: EUR
   value: 99
 slug: kitchenfun-move-on-set-van-2-koekenpannen-24-28-cm
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: KitchenFun Move On Set van 2 Koekenpannen | 24 & 28 cm

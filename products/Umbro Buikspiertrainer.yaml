@@ -1,12 +1,12 @@
-_id: 69f899e2fd169f44bb52a3c6
+_id: 6a01ad36b4baef98adba35db
 appOnly: false
 brand: Umbro
 brands:
   - id: 7400ae02-043a-518b-ab15-ba742c142898
     name: Umbro
 categories:
-  - a4e19897-37b9-52f8-be3c-a2b638e3cba0
-classicId: '3193336'
+  - ff2763b4-7ccb-5a1a-8d99-907859b98dcb
+classicId: '3202898'
 classicProductId: '700310'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: cde09cc3-edef-49cd-a57a-dea3970ad233
+id: 1087cf59-8575-4ded-bbca-04941d214692
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: umbro-buiktrainer-product-0
   type: product
-offerId: d297196e-e8a8-4d74-bb83-6d0e611902e3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4a953987-0263-4c19-8585-4eef7ca62264
+  priority: 0
+  slug: umbro-logo-0
+  type: logo
+offerId: b246be11-e5fc-446f-a1a5-a9d9a2f4b562
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 49.99
 slug: umbro-buikspiertrainer
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Umbro Buikspiertrainer

@@ -1,12 +1,12 @@
-_id: 69f8724afd169f44bb5297de
+_id: 6a02d76633b5ebb7975f5a68
 appOnly: false
 brand: Geomag
 brands:
   - id: e1688028-94b7-5c50-8878-486dab593af5
     name: Geomag
 categories:
-  - 088c2bec-7104-57fc-a13f-7e255204d4a1
-classicId: '3190147'
+  - 6865f624-09f1-548c-94a3-d5e356bd4447
+classicId: '3207224'
 classicProductId: '488975'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: ee995f71-9933-4fb6-a786-544c82a13823
+id: 03eb4b10-8d06-4079-86cd-afceacb946de
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1911250
-  priority: 100
-  slug: geomag-magicube-story-building-three-little-pigs
+    - all
+  extension: image/png
+  id: 87990570-3942-40c4-b1e5-0dc65a1efc43-tr
+  priority: 0
+  slug: geomag-magicube-drei-kleine-schweinchen-png-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: geomag-logo
   type: logo
-offerId: b8c10359-6b9c-4b9b-870c-0404b71c9c87
+offerId: 5a0df52f-59c2-488c-8993-cbd0b38ddb3c
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: geomag-magicube-story-building-three-little-pigs
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Geomag Magicube Story Building Three Little Pigs | 42-Delig

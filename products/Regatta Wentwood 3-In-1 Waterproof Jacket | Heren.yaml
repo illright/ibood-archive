@@ -1,22 +1,22 @@
-_id: 69fb2df62118a0ab2e92952c
+_id: 6a01b73fa0cc7abda355e9c6
 appOnly: false
 brand: Regatta
 brands:
   - id: febd98de-cedc-5333-a234-06b0e44c9b32
     name: Regatta
 categories:
-  - e6edcfd3-b58f-5703-a872-399c80ea65bc
-classicId: '3198626'
-classicProductId: '686749'
+  - 47bece37-3c93-582b-8ffd-5e4fd59cbe3f
+classicId: '3203881'
+classicProductId: '686751'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 74
-end: '2026-05-12T21:59:59.999Z'
+directCheckout: false
+discount: 79
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: fbfee095-811c-43cb-a5b8-9ada14b0b02b
+id: fac24436-4b46-49df-9ebb-29e2da2e7215
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1638661
-  priority: 100
-  slug: regatta-logo
+    - all
+  extension: image/png
+  id: 4efe1fdd-1b7b-4679-bd0b-fcc1a310ee35
+  priority: 0
+  slug: regatta-png-logo-0
   type: logo
-offerId: e7b8829e-f42a-46db-a452-5c168411f77c
+offerId: a931e6e3-0ae1-4c5c-909b-ff8ece605d0d
 price:
-  cents: 5495
+  cents: 4500
   currency: EUR
-  value: 54.95
+  value: 45
 referencePrice:
   cents: 21000
   currency: EUR
   value: 210
 slug: regatta-wentwood-3-in-1-waterproof-jacket
-soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+soldOut: false
+start: '2026-05-12T22:00:00.000Z'
 title: Regatta Wentwood 3-In-1 Waterproof Jacket | Heren

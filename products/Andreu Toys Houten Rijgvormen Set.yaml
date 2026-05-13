@@ -1,12 +1,12 @@
-_id: 69f87269fd169f44bb529850
+_id: 6a02d77a80d59d1f540950cb
 appOnly: false
 brand: Andreu Toys
 brands:
   - id: 2ca18eb4-4eb6-58ab-8369-15c344a74348
     name: Andreu Toys
 categories:
-  - 088c2bec-7104-57fc-a13f-7e255204d4a1
-classicId: '3190188'
+  - 6865f624-09f1-548c-94a3-d5e356bd4447
+classicId: '3207255'
 classicProductId: '701967'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: b6c9e94a-2f07-429b-8273-4fa6f94fcb98
+id: 56370cf3-215b-4f3f-beb3-b62b9c79c7e9
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: andreu-toys-andreu-rijgvormen-41516233-product-4
   type: product
-offerId: 4c120077-7a0a-4834-8310-4b2bc16bbb42
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 970c25c2-16e1-48c4-aca9-b53f721d0141
+  priority: 0
+  slug: andreu-logo-png-logo-0
+  type: logo
+offerId: f9512768-c228-4345-b6f6-d30e2ccb6d5c
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 44.95
 slug: andreu-toys-houten-rijgvormen-set
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Andreu Toys Houten Rijgvormen Set

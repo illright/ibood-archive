@@ -1,12 +1,12 @@
-_id: 69f8a1fbcbf6bc2f9e478c9d
+_id: 6a02ec6247e7528351bfbfea
 appOnly: false
 brand: LED's Light
 brands:
   - id: 5c86dcfb-7e8e-5bfb-b35e-3bc7870052d9
     name: LED's Light
 categories:
-  - fafcdfef-0d40-5e12-86f1-e57de9365de3
-classicId: '3194304'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208295'
 classicProductId: '75264'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 8fd43aa5-007b-424e-b212-06e21269554b
+id: 2620c80e-6583-442f-9eb0-032e2dc2d6f7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 135020
-  priority: 1
-  slug: solar-floodlight-sensor
+    - all
+  extension: image/png
+  id: 1756a872-4536-4f8c-8c07-cebe9b846ea1-tr
+  priority: 0
+  slug: leds-light-solarscheinwerfer-jpg-product-2
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 101
   slug: led-s-light-logo-101
   type: logo
-offerId: 1393aa39-4db5-4c7e-8297-d6526a827178
+offerId: 6c86b743-2fea-4068-8e5e-097feec044ac
 price:
   cents: 1195
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 24.99
 slug: solar-floodlight-sensor
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: LED’s Light Solar Floodlight met Sensor

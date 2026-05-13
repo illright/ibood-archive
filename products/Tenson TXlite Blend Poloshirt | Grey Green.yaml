@@ -1,12 +1,12 @@
-_id: 69f33a36f07cdc161c7ab56a
+_id: 6a01adf5b4baef98adba369f
 appOnly: false
 brand: Tenson
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: Tenson
 categories:
-  - 13709972-465f-5c48-bb7a-3ad4c69bb5a0
-classicId: '3186152'
+  - 6f28c260-7688-570d-9c6d-92e7430edc9c
+classicId: '3202966'
 classicProductId: '697160'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: c3bdbeb2-9756-43e0-8b6c-dd8842b73121
+id: db948ca7-4db3-4918-ade0-310042fa7a30
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 3xl-grey-green-5018425-684-txlite-blend-polo-men-tenson-product-1
   type: product
-offerId: a0f2457c-4bad-4d63-92b4-0e312feda996
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1504614
+  priority: 100
+  slug: tenson-logo
+  type: logo
+offerId: 0428cf9c-ffc2-46ac-82f8-0d43f830f422
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 45
 slug: tenson-txlite-blend-poloshirt-grey-green
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Tenson TXlite Blend Poloshirt | Grey Green

@@ -1,12 +1,12 @@
-_id: 69f8a1f33567c7f96731f1fb
+_id: 6a02ec0a47e7528351bfbeb5
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - 20ed6479-be1b-56b1-9184-b28812cab42d
-classicId: '3194277'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208163'
 classicProductId: '620437'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 27
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 1281fdae-0127-4277-b359-764d9ebd930b
+id: 05225092-b775-4042-948f-c800a4141bc7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2203024
+    - all
+  extension: image/png
+  id: 853582e1-a257-4f1d-9b6b-add73505d761-tr
   priority: 0
-  slug: 4x-house-nordic-branson-tuinstoelen
+  slug: 4x-house-nordic-branson-tuinstoelen-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: 2b6641f5-aa19-4b4c-8068-2ddacc69b523
+offerId: f17259b0-fba8-483c-8002-5c846b1b7b4c
 price:
   cents: 16900
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 229.95
 slug: 4x-house-nordic-branson-tuinstoelen
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: 4x House Nordic Branson Tuinstoelen

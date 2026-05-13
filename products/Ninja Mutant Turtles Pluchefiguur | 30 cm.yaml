@@ -1,12 +1,12 @@
-_id: 69f87234f3421fae8dc3ad6b
+_id: 6a02d7207203127dcf2e0d7f
 appOnly: false
 brand: Ninja Turtles
 brands:
   - id: 8570b6bb-00fa-509c-ab8a-bfd498a482c1
     name: Ninja Turtles
 categories:
-  - 088c2bec-7104-57fc-a13f-7e255204d4a1
-classicId: '3190128'
+  - 6865f624-09f1-548c-94a3-d5e356bd4447
+classicId: '3207152'
 classicProductId: '693326'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 83
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: b7abdcda-960d-4ecf-a9d0-a14a3c9b7846
+id: 711511c3-e581-44f7-82cd-c50d2f2438be
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: grandi-giochi-tu815000-ninja-turtles-chaos-mutant-plush-toy-30-cm-4-different-figures-1-piece-product-0
   type: product
-offerId: c61a9b88-52f4-4314-86a9-95a6e3aad788
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 570404ca-f357-4b6f-add5-a5daad5f579b
+  priority: 0
+  slug: ninja-turtles-logo-0
+  type: logo
+offerId: f769e1be-c504-4ea9-a476-aa4e01e21eb2
 price:
   cents: 695
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 39.99
 slug: ninja-mutant-turtles-pluchefiguur-30-cm
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Ninja Mutant Turtles Pluchefiguur | 30 cm

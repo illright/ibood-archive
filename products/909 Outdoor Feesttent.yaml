@@ -1,12 +1,12 @@
-_id: 69f8a1f06f3ff419585d98f0
+_id: 6a02ec1572d3b2a265d5a0bd
 appOnly: false
 brand: Lifa Garden
 brands:
   - id: f72fddd6-187a-53f4-960a-80948a229bf8
     name: Lifa Garden
 categories:
-  - 2087d60c-c18e-5b1a-b405-0042aeeac0ab
-classicId: '3194278'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208176'
 classicProductId: '618914'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 5c83f6bb-83af-4a8a-9d3e-83f4f1b147e0
+id: e4cb203d-acf3-459a-b4c7-b397320ddc04
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2198708
+    - all
+  extension: image/png
+  id: a44dbd1e-80e0-4aa3-b83f-63d04191d64c-tr
   priority: 0
-  slug: 909-outdoor-partyzelt
+  slug: 909-outdoor-partyzelt-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: lifa-garden-logo
   type: logo
-offerId: 490f1012-ea76-4b9f-abdb-351d2ddd9333
+offerId: a2a4f297-14d2-4c51-b954-40844b0f36e3
 price:
   cents: 5995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: 909-buiten-partytent
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: 909 Outdoor Feesttent

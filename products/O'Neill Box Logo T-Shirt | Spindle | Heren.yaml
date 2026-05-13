@@ -1,12 +1,12 @@
-_id: 69eb2735aa24632021dd54ad
+_id: 6a01b79631b3e5e3c3757507
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 426e9d67-6a1f-52be-a305-e109e0764af9
-classicId: '3179768'
+  - 158123a0-044c-519a-bd5d-b3b85a76e1eb
+classicId: '3204012'
 classicProductId: '692588'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 5ef93e97-bdc3-4006-9a80-cdc692d3fae6
+id: da555e43-3636-47c0-a848-6f370bdb02bf
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xxl-spindle-2850353-15091-o-neill-box-logo-t-shirt-mens-product-0
   type: product
-offerId: 8fdfd487-b7b8-4add-b283-9dc661c3eb41
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
+  type: logo
+offerId: 8de7637d-4015-4ae8-9c43-9f84428ce697
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: o-neill-box-logo-t-shirt-spindle-heren
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: O'Neill Box Logo T-Shirt | Spindle | Heren

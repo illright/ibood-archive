@@ -1,12 +1,12 @@
-_id: 69fd9ae7fd3a0b2d30db0e81
+_id: 6a02ec3447e7528351bfbf34
 appOnly: false
 brand: Esschert Design
 brands:
   - id: ff3ac434-56dc-56f4-bc4e-28eb43eec8d7
     name: Esschert Design
 categories:
-  - 2087d60c-c18e-5b1a-b405-0042aeeac0ab
-classicId: '3201516'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208228'
 classicProductId: '562211'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 1b8c2504-6495-4f65-8eb5-af84cb259334
+id: b63daec6-06b6-4494-a4e7-7b3ffdc54a43
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1903893
-  priority: 100
-  slug: esschert-design-kweekkas
+    - all
+  extension: image/png
+  id: 848dbe87-4cf2-44b9-8aea-6289923c00f8-tr
+  priority: 0
+  slug: esschert-design-gewachshaus-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: esschert-design-logo
   type: logo
-offerId: 0fc87f24-61cb-4153-b4f9-2caccbc012cc
+offerId: 2a36b04c-472a-4e1d-9c2d-5db430960b21
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 66.25
 slug: esschert-design-kweekkas
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Esschert Design Kweekkas

@@ -1,12 +1,12 @@
-_id: 69f472432c2f6fdf5cffe009
+_id: 6a01b7127203127dcf2e06a9
 appOnly: false
 brand: Nike Swim
 brands:
   - id: cf1d460e-7ec0-5a30-96f7-013395e818f3
     name: Nike Swim
 categories:
-  - eb96573e-bcf3-511e-ab86-76d57c61f8aa
-classicId: '3186691'
+  - 158123a0-044c-519a-bd5d-b3b85a76e1eb
+classicId: '3203808'
 classicProductId: '628846'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 13
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 333795a3-7b12-4c83-a7cc-2b5882b1360c
+id: a9c1f477-abc3-48e9-90be-548e0476dc71
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: d6ad4be2-d3cc-48c0-b9ed-f8f3b5c75660
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 829de38a-746b-47e9-8820-7b35d7e29611
+  priority: 0
+  slug: nike-swim-logo-0
+  type: logo
+offerId: 92bc0342-0013-4b48-a3a6-4327adfc0637
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.95
 slug: nike-swim-essential-hydroguard-t-shirt
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: Nike Swim Essential Hydroguard T-Shirt | Heren

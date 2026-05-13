@@ -1,12 +1,12 @@
-_id: 69fd9b11b4baef98adba32ff
+_id: 6a02ec5547e7528351bfbfa1
 appOnly: false
 brand: Esschert Design
 brands:
   - id: ff3ac434-56dc-56f4-bc4e-28eb43eec8d7
     name: Esschert Design
 categories:
-  - 2087d60c-c18e-5b1a-b405-0042aeeac0ab
-classicId: '3201547'
+  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
+classicId: '3208276'
 classicProductId: '676544'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 41
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: fccb4ea3-6c30-4753-9f24-8e5b698b9a42
+id: f5ac70c0-1133-4ae8-80b6-0b1a5b133587
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1843334
+    - all
+  extension: image/png
+  id: 26ef8d58-e8df-4fc1-bd2d-c5d21ec79c31-tr
   priority: 0
-  slug: 2x-esschert-design-deurstopper-met-ring
+  slug: 2x-esschert-design-turstopper-mit-ring-1-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: esschert-design-logo
   type: logo
-offerId: e3b63fbd-7369-4d09-b515-56ccb3da6c72
+offerId: a95b6e21-d03a-40ef-9b67-201c1bac1dbf
 price:
   cents: 1295
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 21.9
 slug: 2x-esschert-design-deurstopper-met-ring
 soldOut: false
-start: '2026-05-05T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: 2x Esschert Design Deurstopper met Ring

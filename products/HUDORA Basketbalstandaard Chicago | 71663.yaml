@@ -1,12 +1,12 @@
-_id: 69cfb8a91eabbd1eca49d9c0
+_id: 6a02d7a0f22e93c7357a5ed3
 appOnly: false
 brand: Hudora
 brands:
   - id: 9e0cd4c4-6b7c-5667-a684-0b511b637246
     name: Hudora
 categories:
-  - 088c2bec-7104-57fc-a13f-7e255204d4a1
-classicId: '3142899'
+  - 6865f624-09f1-548c-94a3-d5e356bd4447
+classicId: '3207311'
 classicProductId: '704664'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 74
-end: '2026-05-12T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: eaf268ee-bbe7-514b-be5d-936dd92b9acf
+id: 5b4de7d2-27d9-4a83-9208-16602ddc3dbf
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: hudora-71663-basketballstander-chica-1-product-1
   type: product
-offerId: cd549644-f34f-5cf1-858c-d3582b4eac13
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: afbe6c0f-7ef7-46ae-af61-829fa7cd0905
+  priority: 0
+  slug: hudora-logo-0
+  type: logo
+offerId: 5251098f-7951-4801-bbaf-fb3b2ddc46fc
 price:
   cents: 4995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 189.95
 slug: hudora-basketbalstandaard-chicago-71663
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-12T22:00:00.000Z'
 title: HUDORA Basketbalstandaard Chicago | 71663
