@@ -1,4 +1,4 @@
-_id: 6a01cbe6e058a8fc424b96b4
+_id: 69fde163b4baef98adba34a7
 appOnly: false
 brand: Axe
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Axe
 categories:
   - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3204394'
-classicProductId: '583596'
+classicId: '3201955'
+classicProductId: '709843'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 64
+discount: 59
 end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 353cb01c-f744-4ab2-9c97-651d163be7d5
+id: f9f568f1-f40d-5235-a7f3-af64565da848
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2002350
+    - all
+  extension: image/jpeg
+  id: ca404021-6ac5-42e4-9e20-c14da8b37033
   priority: 0
-  slug: 6x-axe-excite-deospray-150-ml
+  slug: 6x-axe-excite-deospray-150-ml-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,11 +38,11 @@ logo:
   priority: 100
   slug: axe-logo
   type: logo
-offerId: 4dce4061-0c8a-4121-8747-a3d4a4ae71ab
+offerId: ec2bd111-fcf7-5156-a559-a97afd8df0ea
 price:
-  cents: 1495
+  cents: 1695
   currency: EUR
-  value: 14.95
+  value: 16.95
 referencePrice:
   cents: 4170
   currency: EUR

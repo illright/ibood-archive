@@ -1,12 +1,12 @@
-_id: 69e87d7b043572fb18ecbd8e
+_id: 6a045bf67203127dcf2e1469
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - aee7473b-e83a-5022-8642-0f16e71addc8
-classicId: '3176656'
+  - efed38e0-e996-589d-8e5a-84e5a3860f6b
+classicId: '3209770'
 classicProductId: '707397'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-05-13T21:59:59.999Z'
+end: '2026-05-20T21:59:59.999Z'
 freeDelivery: false
-id: 67afb7c4-31ed-54d5-933e-301ef30344dc
+id: 3f39c19f-23b7-47bf-b271-4b4e2553f3a1
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: trust-maxo-100w-2port-usb-c-gan-charger-black-product-0
   type: product
-offerId: 97becb0f-0ef2-54ef-b385-48e7ee13e558
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
+  type: logo
+offerId: 14be4b58-0bf2-4ca6-a843-d2e99562d72e
 price:
   cents: 2999
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 49.99
 slug: trust-maxo-100w-2x-usb-c-gan-lader
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-13T22:00:00.000Z'
 title: Trust Maxo 100W | GaN-oplader 2x USB-C

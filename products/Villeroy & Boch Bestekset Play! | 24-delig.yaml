@@ -1,4 +1,4 @@
-_id: 6a02e07d4acd88baea5628cb
+_id: 6a02e05e2833d0ad69afa61d
 appOnly: false
 brand: Villeroy & Boch
 brands:
@@ -6,26 +6,29 @@ brands:
     name: Villeroy & Boch
 categories:
   - 7ceeea83-e59c-50f1-b49b-465ec717c64c
-classicId: '3207668'
-classicProductId: '111796'
+classicId: '3207572'
+classicProductId: '111797'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 57
+discount: 62
 end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 0d904344-a629-4470-ae4a-2e238e6cbc1b
+id: 61935d4b-9a85-43fd-8165-cba7ff4aceaf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 210943
+    - all
+    - app
+    - website
+  extension: image/png
+  id: b0097259-0cbd-46bf-86d3-9388abbce074-tr
   priority: 0
-  slug: villeroy-boch-besteckset-play-24-teilig
+  slug: villeroy-boch-besteckset-play-24-teilig-jpg-product-8
   type: product
 logo:
   channels:
@@ -37,19 +40,16 @@ logo:
   priority: 100
   slug: villeroy-boch-logo
   type: logo
-offerId: 3e6cdc03-04e8-4b6f-8db8-d35956898c2a
+offerId: 1881b906-184e-42e6-9226-f37fff06940b
 price:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 referencePrice:
   cents: 20900
   currency: EUR
   value: 209
 slug: villeroy-boch-bestekset-24-delig
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
-title: Villeroy & Boch Bestekset Play! | 24-delig
-se
 start: '2026-05-12T22:00:00.000Z'
 title: Villeroy & Boch Bestekset Play! | 24-delig

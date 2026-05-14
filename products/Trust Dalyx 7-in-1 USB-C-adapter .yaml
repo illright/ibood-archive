@@ -1,12 +1,12 @@
-_id: 69e87d77043572fb18ecbd88
+_id: 6a045bff43533594a99f7753
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - aee7473b-e83a-5022-8642-0f16e71addc8
-classicId: '3176655'
+  - efed38e0-e996-589d-8e5a-84e5a3860f6b
+classicId: '3209787'
 classicProductId: '707396'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-05-13T21:59:59.999Z'
+end: '2026-05-20T21:59:59.999Z'
 freeDelivery: false
-id: 7bcc8590-cbef-56b4-84e5-e7c0b3bb44e0
+id: 80cb210f-7253-44d1-8769-19505377c08f
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: trust-dalyx-7-in-1-usb-c-adapter-product-2
   type: product
-offerId: 68ddaca3-4f55-50f6-bcfe-62d55ce17781
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
+  type: logo
+offerId: ebe45814-1733-4e61-b345-868ffbcb6207
 price:
   cents: 1999
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 49.99
 slug: trust-dalyx-7-in-1-usb-c-adapter
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-13T22:00:00.000Z'
 title: 'Trust Dalyx 7-in-1 USB-C-adapter '

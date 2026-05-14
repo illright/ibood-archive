@@ -1,32 +1,34 @@
-_id: 69f8675be727dd053269ed95
+_id: 6a045bfb7203127dcf2e1480
 appOnly: false
 brand: Mobvoi
 brands:
   - id: 023f5920-4663-525f-bfd7-8a0a45a1ade5
     name: Mobvoi
 categories:
-  - aee7473b-e83a-5022-8642-0f16e71addc8
-classicId: '3188631'
-classicProductId: '687329'
+  - efed38e0-e996-589d-8e5a-84e5a3860f6b
+classicId: '3209778'
+classicProductId: '697228'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2026-05-13T21:59:59.999Z'
+end: '2026-05-20T21:59:59.999Z'
 freeDelivery: false
-id: fd3b2b82-4848-4624-927e-16588f8857d3
+id: c517e2f3-7242-4b2e-8ea4-dfe72b01d4db
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - website
+    - app
+    - website
+    - app
   extension: image/png
-  id: bccd6a5b-cba4-47ab-ac0a-34693ca2db40
+  id: 13316159-9c40-40ea-9471-6f12f2ba1c21-tr
   priority: 0
-  slug: mobieraeoi-png-product-1
+  slug: mobvoi-ticnote-ai-note-recorder-dark-grey-product-4
   type: product
 logo:
   channels:
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: mobvoi-logo-0
   type: logo
-offerId: 13cb3c80-8d95-4be2-86fe-3b80c266f036
+offerId: e86ac50f-97f5-4c35-8a86-7b5585293c62
 price:
   cents: 9900
   currency: EUR
@@ -50,7 +52,5 @@ referencePrice:
   value: 169.95
 slug: mobvoi-ticnote-ai-note-recorder
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
-title: Mobvoi TicNote AI Voice Recorder
-:00:00.000Z'
+start: '2026-05-13T22:00:00.000Z'
 title: Mobvoi TicNote AI Voice Recorder
