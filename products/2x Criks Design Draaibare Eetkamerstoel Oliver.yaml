@@ -1,32 +1,32 @@
-_id: 69f8986e540805e661ef1976
+_id: 691c654edee708df7f144dc1
 appOnly: false
 brand: Criks Design
 brands:
   - id: 4c7735c3-d9e7-52c5-9a21-d0155dad8a6e
     name: Criks Design
 categories:
-  - ea460922-6b53-5253-85ff-3923a4c31038
-classicId: '3192954'
-classicProductId: '688021'
+  - 9635cc96-949c-59a8-b9f3-5c239b66883b
+classicId: '2832500'
+classicProductId: '679025'
 deliveryPrice:
-  cents: 1995
+  cents: 895
   currency: EUR
-  value: 19.95
-directCheckout: false
-discount: 54
+  value: 8.95
+directCheckout: true
+discount: 52
 end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 21c20e54-1800-47a3-9459-1c40156f9fd9
+id: 725fa208-1919-5db9-a9e6-ad2c28dd4e31
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
-  extension: image/png
-  id: 3b2fc1ac-c318-4434-a9c7-b01b667a378c
+    - newsletter
+    - all
+  extension: image/jpeg
+  id: 5ea2518c-917f-4b6b-9809-f51250afdb0f
   priority: 0
-  slug: chairs-png-product-1
+  slug: eco-taupe-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: criks-design-logo
   type: logo
-offerId: 657e0a97-0489-4374-bad9-b119d1456a8d
+offerId: 2cbf8688-b987-594a-9f16-2b3667447c5e
 price:
-  cents: 22900
+  cents: 23900
   currency: EUR
-  value: 229
+  value: 239
 referencePrice:
   cents: 49800
   currency: EUR
@@ -51,4 +51,3 @@ slug: criks-design-draaibare-eetkamerstoel-oliver
 soldOut: false
 start: '2026-05-12T22:00:00.000Z'
 title: 2x Criks Design Draaibare Eetkamerstoel Oliver
-
