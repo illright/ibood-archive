@@ -1,4 +1,4 @@
-_id: 69f9b043164f596000f0a987
+_id: 69f9b04168e099f86ca5c83b
 appOnly: false
 brand: Double Dry
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Double Dry
 categories:
   - 82f1faca-76d5-54cd-891a-05c459acba6e
-classicId: '3196165'
-classicProductId: '602320'
+classicId: '3196164'
+classicProductId: '602152'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 75
 end: '2026-05-19T21:59:59.000Z'
 freeDelivery: false
-id: 42407f3b-6943-4e62-8e41-e82850cd3e2f
+id: ddd27d1d-b41e-46e5-b82c-62b2fda18fae
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4afd4432-bff5-45ef-9cff-e5c8548df851
+  id: c4fab5c9-52e0-4488-b285-0e33ce8af057
   priority: 0
-  slug: doubledry-20-png-product-1
+  slug: doubledry-13-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: doubledry-logo
   type: logo
-offerId: 4b7e43ba-db9d-4a63-a896-7621a3a9628f
+offerId: 22f8fd96-d086-4cbe-bea1-f8b74bbe1874
 price:
   cents: 995
   currency: EUR
@@ -48,6 +48,7 @@ referencePrice:
   currency: EUR
   value: 39.9
 slug: 4x-doubledry-popcorn-handdoek-50-x-100-cm
-soldOut: false
+soldOut: true
 start: '2026-05-04T22:00:00.000Z'
 title: 4x DoubleDry Popcorn Weave Handdoek | 450 g/m² | 50 x 100 cm
+
