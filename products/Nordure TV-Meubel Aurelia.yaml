@@ -1,4 +1,4 @@
-_id: 69f898d34cb6313a1d6d82aa
+_id: 69f898b64cb6313a1d6d8234
 appOnly: false
 brand: Nordure
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Nordure
 categories:
   - ea460922-6b53-5253-85ff-3923a4c31038
-classicId: '3193138'
-classicProductId: '699818'
+classicId: '3193084'
+classicProductId: '699819'
 deliveryPrice:
   cents: 1995
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 50
 end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
-id: 448bbed3-b6c7-454f-8cbe-27cf58b1c251
+id: 32fc3d88-5729-420e-8827-8441ff4890db
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 1d046e75-baa5-45ff-b4d0-34ee71945272-tr
+  id: e288fee8-a9e1-4e9d-b619-31fe6dcbe9b8-tr
   priority: 0
-  slug: 903nrd1101-nordure-aurelia-atlas-product-4
+  slug: 903nrd1102-nordure-aurelia-cream-product-2
   type: product
-offerId: e81c9be0-f9c7-4df1-87cd-52a3d11fb574
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e04c2d1c-2e79-497f-af14-552970d5f204
+  priority: 0
+  slug: nordure-png-logo-0
+  type: logo
+offerId: c96214f3-c248-4971-92e5-ba761e906176
 price:
   cents: 19900
   currency: EUR
@@ -38,16 +49,6 @@ referencePrice:
   currency: EUR
   value: 399
 slug: nordure-tv-meubel-aurelia
-soldOut: false
-start: '2026-05-12T22:00:00.000Z'
-title: Nordure TV-Meubel Aurelia
-R
-  value: 199
-referencePrice:
-  cents: 39900
-  currency: EUR
-  value: 399
-slug: nordure-tv-meubel-aurelia
-soldOut: false
+soldOut: true
 start: '2026-05-12T22:00:00.000Z'
 title: Nordure TV-Meubel Aurelia

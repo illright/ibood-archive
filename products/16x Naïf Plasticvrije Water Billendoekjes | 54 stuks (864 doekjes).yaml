@@ -1,32 +1,32 @@
-_id: 69f9d461fd169f44bb52afe8
+_id: 6a0469c07203127dcf2e1531
 appOnly: false
 brand: Naif
 brands:
   - id: ef132678-f683-576e-836d-fa373ef13956
     name: Naif
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3196662'
+  - 790f7ab4-a7d7-5036-80f6-9d0191af0c83
+classicId: '3209985'
 classicProductId: '699287'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
-discount: 59
-end: '2026-05-19T21:59:59.999Z'
+directCheckout: false
+discount: 66
+end: '2026-05-18T21:59:59.999Z'
 freeDelivery: false
-id: 03a93f06-f664-5173-891e-ca30af965c05
+id: c4ff33d2-c717-5230-a34f-f8e007564618
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 021196c0-0ca2-4efd-b16d-e4f5d1040740
-  priority: 1
-  slug: naif-01-png-product-1
+  id: d986f060-7c8c-49f5-84f2-58a69449d092
+  priority: 0
+  slug: naif-02-png-product-1
   type: product
 logo:
   channels:
@@ -39,16 +39,16 @@ logo:
   priority: 0
   slug: naif-logo-0
   type: logo
-offerId: 50c32b0d-96c7-5a42-942a-167cf2efffed
+offerId: b0f94c53-cd77-5d94-a6b1-fd023f03c6a9
 price:
-  cents: 2795
+  cents: 2295
   currency: EUR
-  value: 27.95
+  value: 22.95
 referencePrice:
   cents: 6798
   currency: EUR
   value: 67.98
 slug: 16x-naif-plasticvrije-water-billendoekjes-54-stuks-864-doekjes
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-17T22:00:00.000Z'
 title: 16x Naïf Plasticvrije Water Billendoekjes | 54 stuks (864 doekjes)
