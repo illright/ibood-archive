@@ -1,12 +1,12 @@
-_id: 69f1b31f2c2f6fdf5cffd849
+_id: 6a0af32961358d15f979aadb
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - 9566cde1-8ec4-5de2-b7d3-5639600475e1
-classicId: '3183657'
+  - b5894ba0-c62b-5fb0-9278-5d793d8156bf
+classicId: '3217148'
 classicProductId: '708519'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-05-18T21:59:59.999Z'
+end: '2026-05-24T21:59:59.999Z'
 freeDelivery: false
-id: 5736ef83-8e22-518c-b18f-43e3b06871a6
+id: c2059eba-0c16-4102-9de8-ca375aaaba14
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 3xl-mint-blue-bbo36s315-3001-2355-t-shirt-aop-jersey-boston-brothers-product-0
   type: product
-offerId: 43747c13-f262-5e60-82c1-e5480f41e090
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
+  type: logo
+offerId: 1f2bb4dd-7af9-4707-b63d-1cf2040ddc23
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 29.95
 slug: boston-brothers-t-shirt-aop-jersey-heren-mint-blue
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-18T22:00:00.000Z'
 title: Boston Brothers T-shirt AOP Jersey | Heren | Mint Blue

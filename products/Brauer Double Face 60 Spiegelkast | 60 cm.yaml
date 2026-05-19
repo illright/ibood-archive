@@ -1,22 +1,22 @@
-_id: 6a01b6277203127dcf2e065a
+_id: 6a0aec7557a462761dbf2803
 appOnly: false
 brand: Brauer
 brands:
   - id: 040fd476-6935-5d68-900a-b953b2f377bd
     name: Brauer
 categories:
-  - 8ad58ea0-dca5-54fb-b6c1-452d925d1ef4
-classicId: '3203613'
-classicProductId: '695535'
+  - c2ffdaf8-16cd-5c11-8fec-198ca66791bd
+classicId: '3216020'
+classicProductId: '695533'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 85
-end: '2026-05-18T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 047fc82e-9fe5-4f93-bcd7-2a6e7d24f1dc
+id: e1f38cec-4c65-431d-88a7-d42ae4a193aa
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: 0801-png-product-1
   type: product
-offerId: 0b5240db-e1cf-4a15-ac10-429062e55de5
+offerId: 019c6678-bdf2-4e22-9506-ef5921dc07a4
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +39,5 @@ referencePrice:
   value: 537.24
 slug: brauer-double-face-60-spiegelkast-60-cm
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-18T22:00:00.000Z'
 title: Brauer Double Face 60 Spiegelkast | 60 cm

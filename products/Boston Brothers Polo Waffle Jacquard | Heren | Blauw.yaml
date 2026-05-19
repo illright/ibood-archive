@@ -1,12 +1,12 @@
-_id: 69f1b2943a59cb3ed15d3cf1
+_id: 6a0af20a61358d15f979aabe
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - 9566cde1-8ec4-5de2-b7d3-5639600475e1
-classicId: '3183641'
+  - b5894ba0-c62b-5fb0-9278-5d793d8156bf
+classicId: '3217090'
 classicProductId: '708483'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 57
-end: '2026-05-18T21:59:59.999Z'
+end: '2026-05-24T21:59:59.999Z'
 freeDelivery: false
-id: 350b7b83-08f2-5d5d-8070-4385273ce05a
+id: 1cb1cc8d-10fd-42c9-9b28-5bae5c44b6af
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: xl-blue-bbo36s331-3022-9108-polo-waffle-jacquard-boston-brothers-product-0
   type: product
-offerId: 40d3cb4b-37d2-5689-a735-06bf520809d5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
+  type: logo
+offerId: 92d86ef4-96ba-4fff-9997-18bf144b4bb3
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 69.95
 slug: boston-brothers-polo-waffle-jacquard-heren-blauw
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-18T22:00:00.000Z'
 title: Boston Brothers Polo Waffle Jacquard | Heren | Blauw

@@ -1,31 +1,34 @@
-_id: 6a01b61b31b3e5e3c37573e5
+_id: 6a019c427203127dcf2e0392
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - 8ad58ea0-dca5-54fb-b6c1-452d925d1ef4
-classicId: '3203587'
-classicProductId: '149794'
+  - d14feb6d-3aeb-5f63-969e-577f40fec65a
+classicId: '3202598'
+classicProductId: '149790'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 33
-end: '2026-05-18T21:59:59.999Z'
+directCheckout: false
+discount: 45
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: e0238298-15aa-4493-af8e-f74ace74e948
+id: 4a57c9d7-35b7-541a-b55d-5fbb60213ea6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 300976
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f35a0273-4dcb-4ae3-a659-ea1a0ce81564-tr
   priority: 0
-  slug: lahti-pro-broek-l40509
+  slug: lahti-pro-broek-l40509-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,20 +40,16 @@ logo:
   priority: 100
   slug: lahti-pro-logo
   type: logo
-offerId: a4f42161-6113-4a31-8856-39460b1fe1c2
+offerId: 122ae6b2-a4f1-5106-bb4d-ffa8a2189f40
 price:
   cents: 5995
   currency: EUR
   value: 59.95
 referencePrice:
-  cents: 8999
+  cents: 10990
   currency: EUR
-  value: 89.99
+  value: 109.9
 slug: lahti-pro-broek-l40509
-soldOut: false
-start: '2026-05-11T22:00:00.000Z'
-title: Lahti Pro Broek | L40509
--l40509
 soldOut: false
 start: '2026-05-17T22:00:00.000Z'
 title: Lahti Pro Broek | L40509

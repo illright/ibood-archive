@@ -1,12 +1,12 @@
-_id: 6a01b5be31b3e5e3c3757330
+_id: 6a0aec5b57a462761dbf27ab
 appOnly: false
 brand: Hultafors
 brands:
   - id: b4f2e5b2-4d8c-5020-8057-42000db20404
     name: Hultafors
 categories:
-  - 8ad58ea0-dca5-54fb-b6c1-452d925d1ef4
-classicId: '3203447'
+  - c2ffdaf8-16cd-5c11-8fec-198ca66791bd
+classicId: '3215942'
 classicProductId: '449190'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 31
-end: '2026-05-18T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 701bf5d2-d165-4272-bbab-3262c5171ec2
+id: fd35e272-f2f0-4735-a628-30b04064d035
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: hultafors-logo
   type: logo
-offerId: bfd04a99-4c98-4f6a-b593-edbb45eaa3fe
+offerId: ff4dab08-4120-430b-8b3d-f8c45e27a08a
 price:
   cents: 1895
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 27.47
 slug: hultafors-timmermans-hoekijzer
-soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+soldOut: true
+start: '2026-05-18T22:00:00.000Z'
 title: Hultafors Timmermans Hoekijzer

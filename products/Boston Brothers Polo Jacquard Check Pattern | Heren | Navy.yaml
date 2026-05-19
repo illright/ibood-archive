@@ -1,12 +1,12 @@
-_id: 69f1b3192c2f6fdf5cffd841
+_id: 6a0af2b558a1951480629441
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - 9566cde1-8ec4-5de2-b7d3-5639600475e1
-classicId: '3183655'
+  - b5894ba0-c62b-5fb0-9278-5d793d8156bf
+classicId: '3217122'
 classicProductId: '708501'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-05-18T21:59:59.999Z'
+end: '2026-05-24T21:59:59.999Z'
 freeDelivery: false
-id: 04bae5b2-ecca-5880-987a-079dde0913e9
+id: e3e45152-2e68-471c-b979-552258a09014
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: s-navy-bbo36s303-3007-2004-polo-jacquard-check-pattern-boston-brothers-product-0
   type: product
-offerId: e177bedd-d6e3-59dc-9078-13e6a510c12c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
+  type: logo
+offerId: 1f144a5d-2b17-4dd4-b379-b06367a3a6cf
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 59.95
 slug: boston-brothers-polo-jacquard-check-pattern-heren-navy
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-18T22:00:00.000Z'
 title: Boston Brothers Polo Jacquard Check Pattern | Heren | Navy

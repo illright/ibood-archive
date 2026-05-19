@@ -1,12 +1,12 @@
-_id: 69f1b3252c2f6fdf5cffd84e
+_id: 6a0af30c57a462761dbf2bdf
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - 9566cde1-8ec4-5de2-b7d3-5639600475e1
-classicId: '3183663'
+  - b5894ba0-c62b-5fb0-9278-5d793d8156bf
+classicId: '3217135'
 classicProductId: '708525'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 60
-end: '2026-05-18T21:59:59.999Z'
+end: '2026-05-24T21:59:59.999Z'
 freeDelivery: false
-id: 3b3da651-379a-5d58-9313-ebe2ea4ec0ab
+id: 96d5ce7f-06ac-4baf-8e67-6df3997e9810
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: l-off-white-bbo36s325-3018-1015-t-shirt-jacquard-stripe-pattern-boston-brothers-product-0
   type: product
-offerId: ebde079e-a15e-5cf1-a8a2-9cbbef9bda35
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
+  type: logo
+offerId: 19f21dda-bdcf-423c-a01f-e60a081c1e4b
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 49.95
 slug: boston-brothers-t-shirt-jacquard-stripe-pattern-heren-off-white
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-18T22:00:00.000Z'
 title: Boston Brothers T-shirt Jacquard Stripe Pattern | Heren | Off White

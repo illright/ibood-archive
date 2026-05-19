@@ -19,13 +19,16 @@ freeDelivery: false
 id: 749e60ae-04aa-5590-8f07-db59da8a29a8
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 2267796
+  extension: image/png
+  id: 444e68a8-5ea9-4ba7-99ac-f6b4c04403d6-tr
   priority: 0
-  slug: lenco-ls-570ok-platenspeler
+  slug: lenco-bluetooth-plattenspieler-ls-570ok-png-product-1
   type: product
 logo:
   channels:

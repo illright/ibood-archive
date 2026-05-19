@@ -1,22 +1,22 @@
-_id: 69fb0e712118a0ab2e929311
+_id: 6a0ae606d3366c876bfddbca
 appOnly: false
 brand: Woolrich
 brands:
   - id: f06dc165-836a-544a-aa6d-8c3cef959b4f
     name: Woolrich
 categories:
-  - 5d82a735-00e6-5b9f-bf1b-4c95dac17801
-classicId: '3197464'
-classicProductId: '709433'
+  - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
+classicId: '3212613'
+classicProductId: '709432'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 35
-end: '2026-05-18T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 54007a9f-4ba3-5da8-9849-f4e160c719ec
+id: fe1dadff-bfd3-4732-bb7d-753080abfa75
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 570f763f-cff2-4b61-99f1-54501c0358f4
+  id: e2856d2f-c067-459f-8cec-fe4876f690e6
   priority: 0
-  slug: woolrich-02-png-product-1
+  slug: wo01-png-product-1
   type: product
 logo:
   channels:
@@ -35,11 +35,11 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 1fc6bfad-eb8a-4ebf-82d9-b3114319be11
+  id: 5b02ae98-00a9-4d65-b1b4-ee2c236ea36e
   priority: 0
-  slug: woolrich-png-logo-0
+  slug: woolrich-logo-0
   type: logo
-offerId: cccedadf-76a8-51aa-b6ca-485d1a0e0720
+offerId: 37ea5b7c-70f4-4484-9a94-e7552f0c06ac
 price:
   cents: 15995
   currency: EUR
@@ -50,5 +50,6 @@ referencePrice:
   value: 245
 slug: woolrich-sneakers-classic-court-heren
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-17T22:00:00.000Z'
 title: Woolrich Sneakers Classic Court | Heren
+| Heren

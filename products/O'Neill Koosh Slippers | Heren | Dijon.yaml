@@ -14,7 +14,7 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 29
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-19T21:59:59.999Z'
 freeDelivery: false
 id: c8b955c2-8c08-5b03-8beb-afa9568bd471
 image:
@@ -23,8 +23,10 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 220a2547-1ce2-4a64-a7e0-826f45bf44e5
+    - website
+    - app
+  extension: image/png
+  id: 220a2547-1ce2-4a64-a7e0-826f45bf44e5-tr
   priority: 0
   slug: 45-dijon-2400069-17010-koosh-sandals-mens-product-1
   type: product

@@ -1,0 +1,53 @@
+_id: 6a0ae9214d5c4f83f9746988
+appOnly: false
+brand: Jack & Jones
+brands:
+  - id: 39b25177-ad63-5409-b26f-12f28f1d2104
+    name: Jack & Jones
+categories:
+  - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
+classicId: '3213978'
+classicProductId: '679251'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: false
+discount: 38
+end: '2026-05-26T21:59:59.999Z'
+freeDelivery: false
+id: 106a2d3b-d101-4158-a9ba-aa2c3f0727a9
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ec5829ec-8cd1-4a02-bf53-5f051aa97403
+  priority: 0
+  slug: jj01-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 484a3dd3-7377-4d28-8bbc-fc79a9fbfdb7
+price:
+  cents: 2495
+  currency: EUR
+  value: 24.95
+referencePrice:
+  cents: 3999
+  currency: EUR
+  value: 39.99
+slug: jack-jones-jfw-oslo-sandalen
+soldOut: false
+start: '2026-05-17T22:00:00.000Z'
+title: Jack & Jones JFW Oslo Sandalen

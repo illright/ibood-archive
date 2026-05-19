@@ -1,12 +1,12 @@
-_id: 69f1b3893a59cb3ed15d3d17
+_id: 6a0af2bd58a1951480629442
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - 9566cde1-8ec4-5de2-b7d3-5639600475e1
-classicId: '3183682'
+  - b5894ba0-c62b-5fb0-9278-5d793d8156bf
+classicId: '3217112'
 classicProductId: '708561'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-05-18T21:59:59.999Z'
+end: '2026-05-24T21:59:59.999Z'
 freeDelivery: false
-id: 1245ac6e-a28e-50a5-bb7d-317cfbc89f5c
+id: ce4e4151-f4d4-4716-bd85-8efd62648159
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: s-white-bbo36s311-3027-1000-polo-strecht-aop-boston-brothers-product-0
   type: product
-offerId: 15117c56-84b0-5961-a997-12905618884d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
+  type: logo
+offerId: 477e37df-b6dc-4b30-aff2-fad9e81d8e06
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 59.95
 slug: boston-brothers-polo-stretch-aop-heren-wit
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-18T22:00:00.000Z'
 title: Boston Brothers Polo Stretch AOP | Heren | Wit
