@@ -1,22 +1,22 @@
-_id: 6a01b72f26ab36d9f162530d
+_id: 6a0aefe157a462761dbf29ff
 appOnly: false
 brand: Teva
 brands:
   - id: 80dbbd54-bcc6-5a5d-9287-4de0be03652f
     name: Teva
 categories:
-  - 08d92967-b1f1-5562-92c0-6b332ef78dd8
-classicId: '3203851'
-classicProductId: '702989'
+  - e9fbbf3d-469c-5074-b3b2-e2992f77da52
+classicId: '3216688'
+classicProductId: '702990'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 37
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 49615f79-7263-4522-9e30-d43e7aa35bfd
+id: 04115942-746d-4851-991a-d768499d4b8e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c64078d9-b488-4978-99a9-4560a353355e
-  priority: 0
-  slug: teva-logo-png-logo-0
+  extension: png
+  id: 1790673
+  priority: 100
+  slug: teva-logo
   type: logo
-offerId: 156a8e50-7797-46b6-9391-59bc27a72634
+offerId: 8a732567-a59d-45b3-b15d-e50bb87de96a
 price:
   cents: 5695
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 90
 slug: teva-tirra-sandelen-dames
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Teva Tirra Sandelen | Dames

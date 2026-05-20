@@ -1,12 +1,12 @@
-_id: 6a02ec0b72d3b2a265d5a0b8
+_id: 6a0c0d2b57a462761dbf2d5a
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
-classicId: '3208161'
+  - 1d1c36be-ab93-500a-9904-602bfd14a0b6
+classicId: '3217631'
 classicProductId: '646455'
 deliveryPrice:
   cents: 895
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 69
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 5bead38b-b91c-459d-88aa-1262efbe62a6
+id: 28eb8a21-6e96-470b-8377-90150e9f3529
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 5b61820b-c44c-47c8-98a8-75fb47026213
+    - website
+    - app
+  extension: image/png
+  id: 5b61820b-c44c-47c8-98a8-75fb47026213-tr
   priority: 0
   slug: 65912108-hartman-sophie-studio-hpl-table-100x100-product-3
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: hartman-logo
   type: logo
-offerId: 3c7bd77a-44e8-4fb8-97f2-43302b186e6f
+offerId: 7fe6688f-e4f4-47b8-8b36-538baca7e4ac
 price:
   cents: 27900
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 899
 slug: hartman-tafel-sophie
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Hartman Tafel Sophie

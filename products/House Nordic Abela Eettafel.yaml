@@ -1,12 +1,12 @@
-_id: 6a02ec10a09a03fd288847ee
+_id: 6a0c0d33526c0879c81e6283
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
-classicId: '3208175'
+  - 1d1c36be-ab93-500a-9904-602bfd14a0b6
+classicId: '3217647'
 classicProductId: '698194'
 deliveryPrice:
   cents: 1995
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 19.95
 directCheckout: true
 discount: 54
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: e342d69a-be3a-40eb-b8dd-44599974f004
+id: 08af01c5-1dd7-44a4-b63e-4bf0c680f0b6
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: 659fd708-cc77-4f92-a071-6401901e59e9
+offerId: 52056896-e439-476b-bf65-a030d084a0d8
 price:
   cents: 34900
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 765
 slug: house-nordic-abela-eettafel
-soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+soldOut: true
+start: '2026-05-19T22:00:00.000Z'
 title: House Nordic Abela Eettafel

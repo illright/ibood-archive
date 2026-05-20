@@ -1,22 +1,22 @@
-_id: 6a01b7944d45d7833eef39e2
+_id: 6a0af08c57a462761dbf2b54
 appOnly: false
 brand: Dare2b
 brands:
   - id: 9ee78311-28d0-540b-8237-650f1f07a0d8
     name: Dare2b
 categories:
-  - 158123a0-044c-519a-bd5d-b3b85a76e1eb
-classicId: '3204009'
-classicProductId: '687451'
+  - 1a7ad8c3-52e8-59f2-b8c1-38f6791ae0b8
+classicId: '3216915'
+classicProductId: '687456'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 1e9d3f78-afaa-4831-8ca7-18ecf9821a65
+id: 7f93fb84-42c5-46f0-aadb-e0dd1acea98c
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1696859
-  priority: 100
-  slug: dare2b-logo
-  type: logo
-offerId: 0b7deac8-0649-4105-9e8c-1951e8b78ecc
+offerId: 04f7504b-bff8-4e8f-acd0-ec6acec970b6
 price:
   cents: 2495
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 90
 slug: dare2b-torrek-mountain-pro-midlayer
-soldOut: true
-start: '2026-05-12T22:00:00.000Z'
+soldOut: false
+start: '2026-05-19T22:00:00.000Z'
 title: Dare2B Torrek Mountain Pro Midlayer | Heren

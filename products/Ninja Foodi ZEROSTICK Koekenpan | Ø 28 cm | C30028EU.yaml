@@ -1,12 +1,12 @@
-_id: 69eb3b2596f105496208a68f
+_id: 6a0c2681cbe1e458c38b4b5e
 appOnly: false
 brand: Ninja
 brands:
   - id: 1a89dcb0-b45a-5248-87c6-e8c906d71203
     name: Ninja
 categories:
-  - 2163095f-155b-585e-9ea1-f5880efd5144
-classicId: '3180242'
+  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
+classicId: '3219809'
 classicProductId: '707900'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 947897ce-bfa0-5bb9-8681-1cfb92a755c6
+id: b712a0e5-cd7e-4aee-826e-a95192117619
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ninja-c30028eu-foodi-zerostick-bratpfanne-28-cm-1026389-product-2
   type: product
-offerId: c01d999c-c099-597c-9bad-6b496c9a178c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77bce145-c425-485b-bf0e-1f4e6d280804
+  priority: 0
+  slug: ninja-logo-0
+  type: logo
+offerId: c1487d9a-e23b-499c-9d94-d5b8b351b9b9
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 59.99
 slug: ninja-foodi-zerostick-koekenpan-28-cm-c30028eu
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Ninja Foodi ZEROSTICK Koekenpan | Ø 28 cm | C30028EU

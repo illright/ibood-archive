@@ -1,12 +1,12 @@
-_id: 6a02ec57a09a03fd288848e1
+_id: 6a0c697961358d15f979b200
 appOnly: false
 brand: höfats
 brands:
   - id: f2130e13-ae80-5faf-b467-21404766f077
     name: höfats
 categories:
-  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
-classicId: '3208278'
+  - f8c0f814-6154-5ac2-baab-322b01c3187c
+classicId: '3222429'
 classicProductId: '337101'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 69
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 9c07eebe-3f4f-4b01-9cfe-57333a32c86c
+id: 6803d1b8-657f-434e-82c3-0f95a614cec9
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: hofats-logo-0
   type: logo
-offerId: 4e720f8b-01f1-4566-b983-1b2cc5137038
+offerId: f092e896-17cd-4f0a-8f79-6a2f5e73f592
 price:
   cents: 3995
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 129
 slug: hofats-crate-vuurkorf
-soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+soldOut: true
+start: '2026-05-19T22:00:00.000Z'
 title: Höfats Crate Vuurkorf

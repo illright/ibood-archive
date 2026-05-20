@@ -1,12 +1,12 @@
-_id: 6a01b6b641c286b619d7e2db
+_id: 6a0aef2d61358d15f979aa2f
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - 158123a0-044c-519a-bd5d-b3b85a76e1eb
-classicId: '3203704'
+  - 1a7ad8c3-52e8-59f2-b8c1-38f6791ae0b8
+classicId: '3216324'
 classicProductId: '207388'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 48
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 65f82373-9ee0-4128-8820-b7b30e68f67f
+id: 6d3c63a4-33eb-4263-ac5b-925f33b1eddf
 image:
   channels:
     - app
@@ -24,21 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8a1cacf3-4c17-4a3f-b41c-55aad2837309
+  id: a406d84e-7097-44f4-bd80-4b2c1cd7fd29
   priority: 0
-  slug: outdoor-02-png-product-1
+  slug: main-png-product-2
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 525579
+  extension: png
+  id: 1973228
   priority: 100
-  slug: helly-hansen-seven-j-regenjacke
+  slug: helly-hansen-logo
   type: logo
-offerId: b5137c40-e0b6-496c-b8f5-28218b62639f
+offerId: 0808e240-8e67-45db-bad4-ab7c3c49ed7e
 price:
   cents: 6495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 125
 slug: helly-hansen-regenjas
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Helly Hansen Seven J Regenjas | Heren

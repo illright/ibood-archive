@@ -1,32 +1,32 @@
-_id: 69f07ddb04645fe315c09254
+_id: 6a0c1e2057a462761dbf34fa
 appOnly: false
 brand: Lenor
 brands:
   - id: e07bbf59-7c5e-502f-acab-fa2bb6bdfa34
     name: Lenor
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3181086'
-classicProductId: '708210'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3218725'
+classicProductId: '659162'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 63
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 7555d7d0-043f-5048-9339-a140b7088c8e
+id: def72304-7a65-41bf-9d9e-cdd397fd4dc1
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: fbd48179-181c-49ab-b19d-3e5b239efc5a
+  id: a3fdf5f5-dfba-4eca-8cb4-85dfe9ba8d91
   priority: 0
-  slug: lenor-02-png-product-1
+  slug: lenor-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lenor-logo
   type: logo
-offerId: c1de6a4e-c6ca-5c43-9577-80158affa4e4
+offerId: c1d5f37c-c05b-4eed-888e-e2601adb7629
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 79.98
 slug: 2x-lenor-geurparels-xxl-amber-orchidee-735-g
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 2x Lenor Geurparels XXL Amber & Orchidee | 735 g

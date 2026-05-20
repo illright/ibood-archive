@@ -1,32 +1,34 @@
-_id: 6a02e0a61d9db73ea3ff8c17
+_id: 6a0c274f57a462761dbf3d2f
 appOnly: false
 brand: Bloomfold
 brands:
   - id: 46352708-327f-5083-8f46-407fa0ee16fa
     name: Bloomfold
 categories:
-  - 4469d54e-d6c2-5d7c-83c0-bb5e3150b7af
-classicId: '3207884'
+  - 05f512ea-5e43-5f22-8e61-b35f775da30d
+classicId: '3220169'
 classicProductId: '633876'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 52
-end: '2026-05-19T21:59:59.999Z'
+directCheckout: true
+discount: 44
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 94e286be-b441-45ec-8a32-80594e99edf4
+id: 88806c39-1ca1-4817-a72a-29f7981cae4d
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 47163440-f1cd-41b4-a8ff-5734f42d17d7
+  id: 82d90b81-58b8-4e9d-92a0-95624dc81b78-tr
   priority: 0
-  slug: bloomfold-png-product-1
+  slug: bloomfold-luchtontvochtiger-12l-vivid-zwart-product-12
   type: product
 logo:
   channels:
@@ -35,20 +37,20 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 9eaabffc-17dc-4a60-acd4-7d27a4e6da56
+  id: 9357da57-8489-441a-8876-defa1f75333e
   priority: 0
-  slug: bloomfold-png-logo-0
+  slug: bloomfold-logo-0
   type: logo
-offerId: c91de6fa-cd7e-4819-ab4d-df7f050381f7
+offerId: 03921ec6-877a-4a29-986f-018309232f9c
 price:
-  cents: 11900
+  cents: 13900
   currency: EUR
-  value: 119
+  value: 139
 referencePrice:
   cents: 24900
   currency: EUR
   value: 249
 slug: bloomfold-vivid-luchtontvochtiger-12-l
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Bloomfold Vivid Luchtontvochtiger | 12 L

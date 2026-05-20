@@ -1,22 +1,22 @@
-_id: 6a01b71141c286b619d7e341
+_id: 6a0aef6158a19514806292d8
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - 47bece37-3c93-582b-8ffd-5e4fd59cbe3f
-classicId: '3203820'
-classicProductId: '663260'
+  - ebd92a9b-3f04-5e4a-a675-687fae9b721a
+classicId: '3216525'
+classicProductId: '663258'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 61
-end: '2026-05-19T21:59:59.999Z'
+discount: 64
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 47a71661-e6d5-48eb-b467-cacb5378d6cf
+id: 81b7856c-018f-4bd4-8810-a1ffa50747b4
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 86ab8e5e-4f33-4d60-a730-7535784f8cab
-  priority: 0
-  slug: craft-png-logo-0
+  extension: png
+  id: 1667968
+  priority: 100
+  slug: craft-logo
   type: logo
-offerId: 995703ec-46c1-4e2d-b640-d622dc93482f
+offerId: f177144c-44bd-446a-9c2c-a4213ac90034
 price:
-  cents: 2750
+  cents: 2500
   currency: EUR
-  value: 27.5
+  value: 25
 referencePrice:
   cents: 6995
   currency: EUR
   value: 69.95
 slug: craft-core-essence-wind-jacket
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Craft Core Essence Wind Jacket | Heren

@@ -1,12 +1,12 @@
-_id: 69eb3b3396f105496208a6a2
+_id: 6a0c26ce67826c646d15b645
 appOnly: false
 brand: Ninja
 brands:
   - id: 1a89dcb0-b45a-5248-87c6-e8c906d71203
     name: Ninja
 categories:
-  - 2163095f-155b-585e-9ea1-f5880efd5144
-classicId: '3180251'
+  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
+classicId: '3219934'
 classicProductId: '707909'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 989cb19f-f126-56f5-be5d-8faae9f75349
+id: fe6fb3e0-09ec-45a4-9aa1-53e761c2a8eb
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: ninja-c63000eu-foodi-zerostick-3-tlg-set-1020013-product-1
   type: product
-offerId: 87bba3a2-8b6e-51cc-a0e6-6b27539b7750
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77bce145-c425-485b-bf0e-1f4e6d280804
+  priority: 0
+  slug: ninja-logo-0
+  type: logo
+offerId: d655c10b-2f04-40fc-b6ee-0833811c444b
 price:
   cents: 11900
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 199.99
 slug: ninja-foodi-zerostick-pannenset-rvs-3-delig-c63000eu
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 'Ninja Foodi ZeroStick Steelpannenset | RVS 3-delig | C63000EU '

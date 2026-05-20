@@ -1,12 +1,12 @@
-_id: 6a04555f395039c13e0efb6a
+_id: 6a0aef3d58a195148062927b
 appOnly: false
 brand: MSR
 brands:
   - id: 61e7666a-e415-537d-bfad-7daad6217a25
     name: MSR
 categories:
-  - 47bece37-3c93-582b-8ffd-5e4fd59cbe3f
-classicId: '3209595'
+  - 1d404cb1-2f25-5b09-a319-3b77062af27b
+classicId: '3216401'
 classicProductId: '701662'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 6f55ea1f-abf1-445a-b4a1-c9a41b7df593
+id: 3517d6d2-ba4d-41df-838d-652f9b6fa6e7
 image:
   channels:
     - app
@@ -30,7 +30,7 @@ image:
   priority: 0
   slug: msr-07-png-product-1
   type: product
-offerId: 19e07e83-a8b4-488d-bc78-9a961988c6af
+offerId: dcad842f-60e8-4e1d-aea8-94e278d4bfec
 price:
   cents: 21995
   currency: EUR
@@ -40,6 +40,6 @@ referencePrice:
   currency: EUR
   value: 500
 slug: msr-tindheim-3-tunneltent
-soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+soldOut: true
+start: '2026-05-19T22:00:00.000Z'
 title: MSR Tindheim 3 Tunneltent | 3 Personen

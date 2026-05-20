@@ -1,12 +1,12 @@
-_id: 69f0817a2c2f6fdf5cffd2f3
+_id: 6a0c1cc957a462761dbf31db
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3181100'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3218302'
 classicProductId: '708206'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: fd388862-008e-5d3f-8555-6130a64f1d53
+id: aace8b92-2482-4f76-90b5-7dd0d47fc35e
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: f06d4f2f-634d-4a44-95f1-d78b6df5fcde-png-product-1
   type: product
-offerId: e1b05cc0-3508-53d3-97c9-cef9898307d5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
+  type: logo
+offerId: 7a1758fd-0141-45b2-aca0-be5a0521f3a3
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 68.78
 slug: 2x-ariel-active-vloeibaar-wasmiddel-1980-ml-44x-wassen
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 2x Ariel Active Vloeibaar Wasmiddel | 1980 ml | 44x Wassen

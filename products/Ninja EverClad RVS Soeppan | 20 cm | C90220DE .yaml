@@ -1,12 +1,12 @@
-_id: 69eb3b80aa24632021dd555f
+_id: 6a0c26bf473f60b97c61e6b5
 appOnly: false
 brand: Ninja
 brands:
   - id: 1a89dcb0-b45a-5248-87c6-e8c906d71203
     name: Ninja
 categories:
-  - 2163095f-155b-585e-9ea1-f5880efd5144
-classicId: '3180261'
+  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
+classicId: '3219903'
 classicProductId: '707918'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 26
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 207bb73c-37fe-5bcd-81ee-ec07fcd5d2ba
+id: 40ad2442-f868-4553-9901-73b60e999a42
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ninja-c90220de-everclad-suppentopf-edelstahl-20cm-1028875-product-0
   type: product
-offerId: 7e3a67e5-511d-533a-9b9b-55026ed6a307
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77bce145-c425-485b-bf0e-1f4e6d280804
+  priority: 0
+  slug: ninja-logo-0
+  type: logo
+offerId: 195eb5af-5c29-49db-8a25-bce56ae58eb0
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 94.99
 slug: ninja-everclad-rvs-soeppan-20-cm-c90220de
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 'Ninja EverClad RVS Soeppan | 20 cm | C90220DE '

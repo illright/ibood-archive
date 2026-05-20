@@ -1,12 +1,12 @@
-_id: 6a05cdfaa105660c18a43067
+_id: 6a0c2c02cbe1e458c38b4d54
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210580'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3220856'
 classicProductId: '682609'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 43d9ec6f-a9e0-592d-b8b2-82f5c535cd6a
+id: 74efbd93-e180-492b-9e5c-a10bc505ea97
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: aff10df0-f270-4c8a-a3e7-5aa28527e6a5
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: 66df24e1-07a8-550b-9221-f4319733ec5a
+offerId: bf2d78b3-4333-40bc-84c2-119d938cf44e
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 210
 slug: dick-moby-helsinki-zonnebril-unisex-chocolate-chip
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: Dick Moby Helsinki Zonnebril | Unisex | Chocolate Chip
 title: Dick Moby Helsinki Zonnebril | Unisex | Chocolate Chip

@@ -1,12 +1,12 @@
-_id: 698b23eed8148ff60604a0eb
+_id: 6a0aef98d3366c876bfde1cb
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - d1cf0e09-582b-5693-b6c4-93b82dcc86b9
-classicId: '2999214'
+  - e9fbbf3d-469c-5074-b3b2-e2992f77da52
+classicId: '3216601'
 classicProductId: '692666'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: cbada3ce-d66e-5313-b5f3-3068d1e5c9f7
+id: db5e895e-3c1c-496b-afa4-b77b9b6b2348
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: 42-falcon-2400064-17029-chad-pro-sandals-mens-product-1
   type: product
-offerId: 9b43a0a1-7379-569e-bf61-51d98a265ae1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
+  type: logo
+offerId: 2691a66f-73ed-403c-86c2-cecc9adba3e5
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 44.99
 slug: oneill-chad-pro-teenslippers-falcon
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: O'Neill Chad Pro Teenslippers | Falcon

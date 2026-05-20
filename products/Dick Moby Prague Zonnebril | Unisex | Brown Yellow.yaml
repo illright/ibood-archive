@@ -1,12 +1,12 @@
-_id: 6a05cdfbc1ea1182026148e4
+_id: 6a0c2c0613360ca95c50bd0d
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210596'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3220875'
 classicProductId: '682626'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 6682fa43-0bf7-5175-b865-2ce3b1af3c1f
+id: cfd71cc5-05b3-4da3-97f4-6675503f7831
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 33dd4841-d963-455a-8b56-bd4db761d813
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: 7d8cb12b-8f76-53f3-b550-b1162076d34a
+offerId: ec4d6be3-0bf1-4255-abf9-5320cad92be1
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 210
 slug: dick-moby-prague-zonnebril-unisex-brown-yellow
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: Dick Moby Prague Zonnebril | Unisex | Brown Yellow
+0Z'
 title: Dick Moby Prague Zonnebril | Unisex | Brown Yellow

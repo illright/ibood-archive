@@ -1,22 +1,22 @@
-_id: 6a01b75e4d45d7833eef3950
+_id: 6a0af03057a462761dbf2ac2
 appOnly: false
 brand: VAUDE
 brands:
   - id: 5bd79664-1a7d-5922-b8fe-f12f6f6be54e
     name: VAUDE
 categories:
-  - 158123a0-044c-519a-bd5d-b3b85a76e1eb
-classicId: '3203939'
-classicProductId: '698543'
+  - 1a7ad8c3-52e8-59f2-b8c1-38f6791ae0b8
+classicId: '3216770'
+classicProductId: '698546'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 58
-end: '2026-05-19T21:59:59.999Z'
+directCheckout: true
+discount: 63
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 9a8b9fd5-bd9d-415b-a23a-ba30c91adeb2
+id: d576b16b-d5dd-4048-89a7-911f84f8dd99
 image:
   channels:
     - app
@@ -40,16 +40,16 @@ logo:
   priority: 100
   slug: vaude-logo
   type: logo
-offerId: bbabefa6-0e5d-477e-acdc-52e8c6f61b1e
+offerId: 75cb13f2-e921-4f31-bbeb-3f33d796f796
 price:
-  cents: 4995
+  cents: 4495
   currency: EUR
-  value: 49.95
+  value: 44.95
 referencePrice:
   cents: 12000
   currency: EUR
   value: 120
 slug: vaude-wintry-iv-fietsjack-heren
-soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+soldOut: true
+start: '2026-05-19T22:00:00.000Z'
 title: Vaude Wintry IV Fietsjack | Heren

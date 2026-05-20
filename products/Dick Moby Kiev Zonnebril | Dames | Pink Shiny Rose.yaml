@@ -1,12 +1,12 @@
-_id: 6a05cdfd210480094cec73c3
+_id: 6a0c2c22cbe1e458c38b4d67
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210601'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3220901'
 classicProductId: '682615'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: d5aa19e7-ec21-54bb-a59f-4cd792660b8d
+id: 9d1412df-bd35-462b-a960-382af34a63d4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a7a7aefa-5a4f-450d-88e9-66cca5caab54
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: 7be95616-f50d-5f85-84b5-a374d4454e40
+offerId: 24e64b08-2e2a-48aa-b9f7-0aee5e5eb2ce
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 210
 slug: dick-moby-kiev-zonnebril-dames-pink-shiny-rose
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: Dick Moby Kiev Zonnebril | Dames | Pink Shiny Rose
+0Z'
 title: Dick Moby Kiev Zonnebril | Dames | Pink Shiny Rose

@@ -1,12 +1,12 @@
-_id: 69eb3b3496f105496208a6a6
+_id: 6a0c26e161358d15f979ae22
 appOnly: false
 brand: Ninja
 brands:
   - id: 1a89dcb0-b45a-5248-87c6-e8c906d71203
     name: Ninja
 categories:
-  - 2163095f-155b-585e-9ea1-f5880efd5144
-classicId: '3180253'
+  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
+classicId: '3219963'
 classicProductId: '707911'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 7aa52bf0-95ac-5029-8134-6acbf9db551c
+id: 4209e54b-4a4d-4d1b-bfbf-3df31066e92a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ninja-c90020de-everclad-edelstahl-pfanne-20-cm-1028857-product-1
   type: product
-offerId: b43d47f4-9e6a-5c74-b493-27bcace557c5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77bce145-c425-485b-bf0e-1f4e6d280804
+  priority: 0
+  slug: ninja-logo-0
+  type: logo
+offerId: 099efb08-2ee7-41f5-907d-9b89a29971eb
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 79.99
 slug: ninja-everclad-rvs-koekenpan-20-cm-rvs-c90020de
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Ninja EverClad RVS Koekenpan | 20 cm | RVS | C90020DE

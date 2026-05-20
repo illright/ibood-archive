@@ -1,12 +1,12 @@
-_id: 69f9aba9164f596000f0a824
+_id: 6a0c6b31fca486cf006aa63d
 appOnly: false
 brand: Ambiante
 brands:
   - id: 4e8d0e43-ecd4-5245-aa59-d378fc077e12
     name: Ambiante
 categories:
-  - d1b522e0-250a-5282-82da-b5a47630e3ce
-classicId: '3195773'
+  - f8c0f814-6154-5ac2-baab-322b01c3187c
+classicId: '3223105'
 classicProductId: '376959'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-05-19T21:59:59.000Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 5e14a4d4-ae98-4b13-83d1-d7701a507c88
+id: d0ab95fb-4d72-4992-9c70-2ad9b508c8b4
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a566f046-990d-4fd7-b730-cbb2aa854f1f-tr
+  extension: jpg
+  id: 1223391
   priority: 0
-  slug: przescierado-ambiante-uni-180-x-200210220-cm-jpg-product-23
+  slug: ambiante-percal-hoeslaken-180-x-200210220-cm
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: ambiante-logo
   type: logo
-offerId: f8984cc7-f2a9-4582-81cc-cdaa6a0a6fec
+offerId: 6a969fb0-8ab4-4094-bb1c-3e07b5dbf916
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +48,6 @@ referencePrice:
   value: 31.95
 slug: ambiante-percal-hoeslaken-180-x-200210220-cm
 soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Ambiante Percaline Hoeslaken | 180 x 200/210/220 cm
+

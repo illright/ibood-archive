@@ -1,12 +1,12 @@
-_id: 698b245fdb1cc4cb50697a9e
+_id: 6a0aefb9d3366c876bfde1ea
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - d1cf0e09-582b-5693-b6c4-93b82dcc86b9
-classicId: '2999217'
+  - e9fbbf3d-469c-5074-b3b2-e2992f77da52
+classicId: '3216640'
 classicProductId: '692685'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,33 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 29
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: c868869b-c420-52dd-bf1a-9d15f321cd63
+id: 41b06e5b-6978-4dc9-94ec-74c3b812509b
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: c6beed21-9e7f-4ccc-aa1f-8dbbfd76b0cf
+    - website
+    - app
+  extension: image/png
+  id: c6beed21-9e7f-4ccc-aa1f-8dbbfd76b0cf-tr-tr
   priority: 0
   slug: 44-avery-fern-2400069-16048-koosh-sandals-mens-product-1
   type: product
-offerId: 7743d179-9086-563c-b92e-0d7f7b289297
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
+  type: logo
+offerId: ec896f66-6acd-4f88-bf4c-b6d34352cefd
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +51,5 @@ referencePrice:
   value: 34.99
 slug: oneill-koosh-slippers-avery-fern
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: O'Neill Koosh Slippers | Heren | Avery Fern

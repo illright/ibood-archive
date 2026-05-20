@@ -1,12 +1,12 @@
-_id: 6a05ce044ea80720121b7984
+_id: 6a0c2c71cbe1e458c38b4dd5
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210628'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3221043'
 classicProductId: '682631'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: cc605b7f-4843-5c8f-a771-33970eb0ada9
+id: 6b714f3f-60a4-4a1a-9406-8b34ba9ea9ba
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 210ffe01-d48d-4362-8c83-89887f467a5a
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: ba3dcc69-fe39-56f7-8f80-8b0a28a84ea8
+offerId: d5872fb1-fdc5-4b49-ae9d-1ee27ef87a0b
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 210
 slug: dick-moby-vancouver-zonnebril-unisex-recycled-black
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Dick Moby Vancouver Zonnebril | Unisex | Recycled Black
+itle: Dick Moby Vancouver Zonnebril | Unisex | Recycled Black

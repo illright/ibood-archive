@@ -1,4 +1,4 @@
-_id: 6a0ae65dd3366c876bfddc2e
+_id: 6a0ae652d3366c876bfddc0c
 appOnly: false
 brand: Mizuno
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Mizuno
 categories:
   - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
-classicId: '3212733'
-classicProductId: '706845'
+classicId: '3212724'
+classicProductId: '706842'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 64
 end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 71d590c1-07b4-4c0e-958c-09b869e283a8
+id: 4b8211fc-e135-4621-a687-6d12a61d80f1
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 11c6a3ec-79a7-47a2-a5dc-5cde61c10458
+  id: 227118f1-2c97-4124-a88c-2ba44c3ab03b
   priority: 0
-  slug: schoen-04-png-product-1
+  slug: schoen-17-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: mizuno-logo
   type: logo
-offerId: 749750a5-83e2-4ec6-b8d3-33070840c716
+offerId: 47cefeed-b234-469a-8aae-330a7d62b0ac
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +48,7 @@ referencePrice:
   currency: EUR
   value: 110
 slug: mizuno-mxr-sport-sneaker-heren
-soldOut: false
+soldOut: true
 start: '2026-05-17T22:00:00.000Z'
 title: Mizuno MXR SPORT Sneaker  | Heren
+n

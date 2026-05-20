@@ -1,12 +1,12 @@
-_id: 6a0ae8a54d5c4f83f974688f
+_id: 6a0c2c6acbe1e458c38b4dcf
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ea6d19df-0f2b-5051-829c-a85beed854d7
-classicId: '3213691'
+  - 3db44b13-0456-5b5c-a0c8-2be45ee754e3
+classicId: '3221034'
 classicProductId: '702291'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 675f8ca3-6087-47d2-b525-6c9af75b4f48
+id: 6e7f39af-35ed-47e1-934d-ef5f978a72c8
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 9f354f63-5995-432c-9647-8b945b503320
+offerId: 9bb4ffce-b4bf-4d53-8038-660b077ade9a
 price:
   cents: 1995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: petrol-industries-polo-pol113-5178-navy-blue
-soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+soldOut: true
+start: '2026-05-19T22:00:00.000Z'
 title: Petrol Industries Polo | POL113-5178 | Navy Blue

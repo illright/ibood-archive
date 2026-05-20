@@ -1,12 +1,12 @@
-_id: 69e89bc896f1054962089fc7
+_id: 6a0c2bb957a462761dbf3f61
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - d462c804-3f3f-5b5a-b59e-070a0492cb34
-classicId: '3177067'
+  - ab73328e-6fad-5acd-a801-0d3f1fd2372e
+classicId: '3220761'
 classicProductId: '707589'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 7b1a2aa0-36e3-5b3e-9e51-b4334a02c70f
+id: 541df406-c34c-4b06-a1b2-54463a351df6
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bc0a6e22-8b9d-4c20-a702-8010ef8cb3b6
-  priority: 0
-  slug: new-zealand-auckland-png-logo-0
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
   type: logo
-offerId: efcc8aa9-a258-5f23-9293-b0c9e2de28ff
+offerId: 496c4cc7-fb25-459c-8345-e6fc60ab7c93
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,7 @@ referencePrice:
   value: 99.99
 slug: nza-chino-short-sand-26ds624
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: NZA Chino Short Sand | 26DS624
+ '2026-05-10T22:00:00.000Z'
 title: NZA Chino Short Sand | 26DS624

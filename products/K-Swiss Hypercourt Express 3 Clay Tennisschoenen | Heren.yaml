@@ -1,22 +1,22 @@
-_id: 6a01ad328dca5ed8af3e3070
+_id: 6a0c143d57a462761dbf2e48
 appOnly: false
 brand: K-Swiss
 brands:
   - id: f4bb9134-1177-560b-b793-33dc6851eb47
     name: K-Swiss
 categories:
-  - ee088c8f-d485-52b3-a9fb-bc26118661e2
-classicId: '3202903'
-classicProductId: '693765'
+  - 02a6e2e4-3e07-5423-9c4e-55bc909ee2f7
+classicId: '3217809'
+classicProductId: '693770'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 30
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: c40b096f-e9ee-40af-95bc-a0abd30dcf97
+id: d9fd4c3f-106f-4306-abd8-c9d70b19c55b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bd966495-2347-4309-8f64-82df507d7000
-  priority: 0
-  slug: k-swiss-png-logo-0
+  extension: png
+  id: 1787420
+  priority: 100
+  slug: k-swiss-logo
   type: logo
-offerId: 88772e68-66cc-46c5-aaf6-6f7330327e96
+offerId: f82f5d2d-af88-4472-baf6-0f9b4bd7db38
 price:
   cents: 10495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 149.99
 slug: k-swiss-hypercourt-express-3-clay-tennisschoenen-heren
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: K-Swiss Hypercourt Express 3 Clay Tennisschoenen | Heren

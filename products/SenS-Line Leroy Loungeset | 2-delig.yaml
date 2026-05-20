@@ -1,12 +1,12 @@
-_id: 6a02ec2647e7528351bfbf01
+_id: 6a0c0d42526c0879c81e62ac
 appOnly: false
 brand: SenS-Line
 brands:
   - id: 4ed2ad7a-6c73-5b95-8a0c-c6050222d67c
     name: SenS-Line
 categories:
-  - ccc8dd9f-720c-58a4-9e7d-2fac21d96f65
-classicId: '3208207'
+  - 1d1c36be-ab93-500a-9904-602bfd14a0b6
+classicId: '3217675'
 classicProductId: '613128'
 deliveryPrice:
   cents: 2995
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 29.95
 directCheckout: true
 discount: 48
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 0916f711-f890-4b7e-a35e-031324d88f17
+id: 7b9b3720-9fcc-49b1-b4ba-7f042f2bd449
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2134411
+    - all
+  extension: image/jpeg
+  id: 119a96ab-1ae8-434d-99ca-1b50757f655a
   priority: 0
-  slug: sens-line-leroy-loungeset-2-delig
+  slug: sens-line-leroy-loungeset-2-delig-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: sense-line-logo
   type: logo
-offerId: 1f2ade1a-1828-4303-a40c-cb170af3444b
+offerId: 4e00379d-7f5d-499b-a241-2d8956483ad7
 price:
   cents: 72900
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 1399.95
 slug: sens-line-leroy-loungeset-2-delig
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: SenS-Line Leroy Loungeset | 2-delig

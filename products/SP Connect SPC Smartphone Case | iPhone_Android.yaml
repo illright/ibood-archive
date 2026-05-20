@@ -1,12 +1,12 @@
-_id: 6a01b6cc4d45d7833eef38b6
+_id: 6a0aef2f57a462761dbf28d0
 appOnly: false
 brand: SP Connect
 brands:
   - id: 831d7807-96b1-5fd3-bd80-b766d2db938b
     name: SP Connect
 categories:
-  - e1ecf913-838f-5e29-a51f-a364841b8116
-classicId: '3203736'
+  - 1d222f25-4a19-53d9-bcc9-2a9036c693b1
+classicId: '3216337'
 classicProductId: '698480'
 deliveryPrice:
   cents: 395
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 73
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 522db69b-9683-4bd9-9b55-7868feb5ad64
+id: 0150ba66-9e01-4b3c-8143-028d61405ed7
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 24490a96-4af6-40f4-a466-1b7b4663aa47
+    - website
+    - app
+  extension: image/png
+  id: 24490a96-4af6-40f4-a466-1b7b4663aa47-tr
   priority: 0
   slug: sp-connect-phone-case-iphone-14-pro-max-55156-product-0
   type: product
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: sp-connect-logo-0
   type: logo
-offerId: d2b3286b-948c-4cd6-b5c0-d6bbc9aafb8a
+offerId: 43bc63f7-189a-4765-99b7-9c76889d77ac
 price:
   cents: 795
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 30
 slug: sp-connect-spc-smartphone-case-iphone-android
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: SP Connect SPC Smartphone Case | iPhone/Android

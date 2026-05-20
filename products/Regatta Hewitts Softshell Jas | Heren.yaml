@@ -1,22 +1,22 @@
-_id: 6a01b7564d45d7833eef3941
+_id: 6a0af034d3366c876bfde251
 appOnly: false
 brand: Regatta
 brands:
   - id: febd98de-cedc-5333-a234-06b0e44c9b32
     name: Regatta
 categories:
-  - 158123a0-044c-519a-bd5d-b3b85a76e1eb
-classicId: '3203920'
+  - 1a7ad8c3-52e8-59f2-b8c1-38f6791ae0b8
+classicId: '3216776'
 classicProductId: '698849'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 77
-end: '2026-05-19T21:59:59.999Z'
+discount: 80
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 7aa9af2b-f104-4326-a23e-5a95bb495693
+id: 21b8ed3f-0d88-457b-8694-e585e9a9cb4f
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: main-blau-png-product-2
   type: product
-offerId: d03ff1c5-cc35-4a1e-a486-9bcc8dddcb7d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1638661
+  priority: 100
+  slug: regatta-logo
+  type: logo
+offerId: e7bd5ad5-8506-4802-b716-06cfa86bb8ef
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 15000
   currency: EUR
   value: 150
 slug: regatta-hewitts-softshell-jas-heren
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Regatta Hewitts Softshell Jas | Heren

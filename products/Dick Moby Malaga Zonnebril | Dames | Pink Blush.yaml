@@ -1,12 +1,12 @@
-_id: 6a05cdef0d121a46a69739dd
+_id: 6a0c2ba357a462761dbf3f25
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210519'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3220729'
 classicProductId: '682589'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 24185e4d-b0be-539b-b866-da757ad3c6b7
+id: ec2e068f-a151-4659-89c3-b02e63eb0cac
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0e00601c-af97-48ee-8d6a-fbe39bc44eb5
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: b6a64cf6-474c-5450-891f-978e5c43d776
+offerId: 0d9a8f92-8d51-41e5-980a-cb773a52221d
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 210
 slug: dick-moby-malaga-zonnebril-dames-pink-blush
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: Dick Moby Malaga Zonnebril | Dames | Pink Blush
+.000Z'
 title: Dick Moby Malaga Zonnebril | Dames | Pink Blush

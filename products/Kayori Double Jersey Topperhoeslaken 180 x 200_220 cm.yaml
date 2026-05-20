@@ -1,28 +1,29 @@
-_id: 69f9afe3ad8a749f7c734763
+_id: 6a0c6b5bfca486cf006aa684
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 82f1faca-76d5-54cd-891a-05c459acba6e
-classicId: '3196027'
-classicProductId: '525917'
+  - 69f21b46-8642-5403-b21f-fecf2e686968
+classicId: '3223212'
+classicProductId: '525915'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
-end: '2026-05-19T21:59:59.000Z'
+discount: 60
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: d6b688ed-469f-4a25-b942-2804574ec6d4
+id: c8a9310d-faeb-421e-8bfc-0b601ad9a87f
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 1497698
+    - app
+    - newsletter
+  extension: png
+  id: 1499709
   priority: 0
   slug: kayori-topper-spannbettlaken-180-x-200220-cm
   type: product
@@ -36,17 +37,17 @@ logo:
   priority: 100
   slug: kayori-logo
   type: logo
-offerId: 15e2b321-365c-4a1e-aad2-b81f24da29da
+offerId: 640a9112-5c25-422b-aacd-85845ce1319f
 price:
-  cents: 1995
+  cents: 2195
   currency: EUR
-  value: 19.95
+  value: 21.95
 referencePrice:
-  cents: 3995
+  cents: 5495
   currency: EUR
-  value: 39.95
+  value: 54.95
 slug: double-jersey-topperhoeslaken-180-x-200220-cm
-soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+soldOut: false
+start: '2026-05-19T22:00:00.000Z'
 title: Kayori Double Jersey Topperhoeslaken 180 x 200/220 cm
-n 180 x 200/220 cm
+

@@ -1,12 +1,12 @@
-_id: 6a02e0d77203127dcf2e104a
+_id: 6a0c27b657a462761dbf3dd6
 appOnly: false
 brand: Björn
 brands:
   - id: fe34ea89-1124-5d56-8edd-b0216d185990
     name: Björn
 categories:
-  - 7ceeea83-e59c-50f1-b49b-465ec717c64c
-classicId: '3207984'
+  - eba0c25c-7e4f-58c0-97cc-5eb1dab15764
+classicId: '3220447'
 classicProductId: '556013'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: f123e128-4656-454b-b6e3-a27c7dd3d6ac
+id: 1e0dd012-9fa1-44b9-baeb-284b491c26b9
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: bjorn-logo
   type: logo
-offerId: 681873c9-5def-4563-ba4f-2930e1d73a34
+offerId: 465485a6-f115-4ace-8cc4-6212c96bfd0a
 price:
   cents: 1695
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 49.9
 slug: bjorn-acacia-servies-snijplank-elin-55-x-18-cm
-soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+soldOut: true
+start: '2026-05-19T22:00:00.000Z'
 title: Bjorn Acacia Servies Snijplank Elin | 55 x 18 cm

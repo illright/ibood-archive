@@ -19,13 +19,14 @@ freeDelivery: false
 id: 09f3a44c-0040-5c6b-83c0-13aa0b44d5cb
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2233417
+    - all
+  extension: image/png
+  id: 815c58c1-c317-44f5-8bc9-57b1f5ac00c0
   priority: 0
-  slug: phlox-strandlaken-turtle
+  slug: 1-png-product-2
   type: product
 logo:
   channels:

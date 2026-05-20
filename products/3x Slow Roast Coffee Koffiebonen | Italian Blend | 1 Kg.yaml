@@ -1,12 +1,12 @@
-_id: 6a01cf2951ab3247f14b0df9
+_id: 6a0c1f2961358d15f979adae
 appOnly: false
 brand: Slow Roast Coffee
 brands:
   - id: d8d6d021-9f66-5de4-be10-a96451eeeaa3
     name: Slow Roast Coffee
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3206294'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3219317'
 classicProductId: '703677'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 38a88766-c20a-414a-b73e-66550987b461
+id: dc9bf184-c762-4d36-af88-8d2c7f0b0ee8
 image:
   channels:
     - newsletter
     - all
     - app
     - website
-  extension: image/jpeg
-  id: f5a8547c-90a1-494b-8646-c910b8b05d20
+  extension: image/png
+  id: f5a8547c-90a1-494b-8646-c910b8b05d20-tr
   priority: 1
   slug: italian-blend-jpg-product-1
   type: product
-offerId: e1c1f68d-dc10-4756-be04-742be2b80efb
+offerId: 1be98dac-fbcb-480a-b0e9-f32c486f1818
 price:
   cents: 4795
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 75
 slug: 3x-slow-roast-coffee-koffiebonen-italian-blend-1-kg
-soldOut: true
-start: '2026-05-11T22:00:00.000Z'
+soldOut: false
+start: '2026-05-19T22:00:00.000Z'
 title: 3x Slow Roast Coffee Koffiebonen | Italian Blend | 1 Kg

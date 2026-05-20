@@ -1,32 +1,31 @@
-_id: 691c651a39ab3ea5699f85df
+_id: 6a0c3c8df075b108e31453aa
 appOnly: false
 brand: Criks Design
 brands:
   - id: 4c7735c3-d9e7-52c5-9a21-d0155dad8a6e
     name: Criks Design
 categories:
-  - 9635cc96-949c-59a8-b9f3-5c239b66883b
-classicId: '2832478'
-classicProductId: '494501'
+  - f2486e8f-a8fb-5218-948e-61efdd1c195c
+classicId: '3221468'
+classicProductId: '494499'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 462584a3-6f37-53a2-ae0e-cb6e487db9b3
+id: 86f847ed-fb05-4747-aa15-380fc15c567e
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 117fdd6a-4ab6-4c68-8be2-d892076cbeb6-tr
+  extension: png
+  id: 1668221
   priority: 0
-  slug: 2x-criks-design-eetkamerstoel-tosca-jpg-product-23
+  slug: 2x-criks-design-eetkamerstoel-tosca
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1668223
+  id: 1919117
   priority: 100
-  slug: 2x-criks-design-eetkamerstoel-tosca
+  slug: criks-design-logo
   type: logo
-offerId: df750a3d-4fb4-523a-8826-6e72cfaba63d
+offerId: 384083a2-a146-412f-baba-1044d948098c
 price:
   cents: 17900
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 298
 slug: 2x-criks-design-eetkamerstoel-tosca
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 2x Criks Design Eetkamerstoel Tosca

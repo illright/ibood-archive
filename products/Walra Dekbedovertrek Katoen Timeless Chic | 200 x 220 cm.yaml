@@ -1,12 +1,12 @@
-_id: 69f9b06df0a6a6e916964f8d
+_id: 6a0c6b5c61358d15f979b2ca
 appOnly: false
 brand: Walra
 brands:
   - id: e0330296-8ae1-537d-9b0c-6031dfc992ae
     name: Walra
 categories:
-  - 82f1faca-76d5-54cd-891a-05c459acba6e
-classicId: '3196227'
+  - 69f21b46-8642-5403-b21f-fecf2e686968
+classicId: '3223213'
 classicProductId: '701630'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-05-19T21:59:59.000Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 49b82a5e-f3b8-4751-bf46-7d8d17416ef9
+id: 424cc205-0b1e-457a-83b8-753f1dc9fc37
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d15ad351-d856-4779-b34f-5317798f9a78
-  priority: 0
-  slug: walra-logo-png-logo-0
+  extension: png
+  id: 1530512
+  priority: 100
+  slug: walra-logo
   type: logo
-offerId: 30b01e1b-3a0d-4d6c-a5c9-407cad58d293
+offerId: 06aa6a11-db82-4233-8dab-f8a870bf385a
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 89.95
 slug: walra-dekbedovertrek-katoen-timeless-chic-200-x-220-cm
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Walra Dekbedovertrek Katoen Timeless Chic | 200 x 220 cm

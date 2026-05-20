@@ -1,12 +1,12 @@
-_id: 69f9ab32fd169f44bb52ad88
+_id: 6a0c69e333d677b2be97c414
 appOnly: false
 brand: De Witte Lietaer
 brands:
   - id: 24776e2a-456e-5f9e-aef4-fb5b4005be07
     name: De Witte Lietaer
 categories:
-  - d1b522e0-250a-5282-82da-b5a47630e3ce
-classicId: '3195641'
+  - f8c0f814-6154-5ac2-baab-322b01c3187c
+classicId: '3222566'
 classicProductId: '212354'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-19T21:59:59.000Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 708bbb51-56dc-46f3-8c3a-b08151b61110
+id: 85c257c0-9ab1-44c6-b6e5-13fd0f61428a
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: overtrek-zygo-135-155-x-200220-cm
   type: product
-offerId: fbd95f8c-0687-493e-b699-45c0fe436e0f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1848861
+  priority: 100
+  slug: de-witte-lietaer-logo
+  type: logo
+offerId: a67f448e-93ad-4c0e-a273-9f10645dc251
 price:
   cents: 6495
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 129.95
 slug: overtrek-zygo-135-155-x-200220-cm
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: De Witte Lietaer Dekbedovertrek Zygo | 135/140/155 x 200/220 cm

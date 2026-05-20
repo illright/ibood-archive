@@ -1,12 +1,12 @@
-_id: 6a05cdfdc159454a08eba747
+_id: 6a0c2bf4bdea3f465fdf10db
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210573'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3220843'
 classicProductId: '682623'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: c50d877c-2902-5f83-b9f9-40449b184ad5
+id: 9793ed68-df69-47a4-8b8f-89d4c3d82699
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 61aae4a2-14a0-4a47-a012-acff0b7961c0
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: 5b38bf52-e879-55ff-92de-36a159fa8f8d
+offerId: e8d23cba-2d8b-4396-9bf7-08873e347510
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 210
 slug: dick-moby-puerto-plata-zonnebril-unisex-ocean
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: Dick Moby Puerto Plata Zonnebril | Unisex | Ocean
+00Z'
 title: Dick Moby Puerto Plata Zonnebril | Unisex | Ocean

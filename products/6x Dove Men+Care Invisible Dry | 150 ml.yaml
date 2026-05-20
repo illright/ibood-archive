@@ -1,12 +1,12 @@
-_id: 6a01cc56266c577d374f0140
+_id: 6a0c1d4a58705d4604b8d21a
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3204551'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3218424'
 classicProductId: '439149'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 1a393f13-a8c1-463c-9728-b42b942820b5
+id: 8a93ef41-ccac-4596-a50d-897dd7d6f8d1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1330029
+    - all
+  extension: image/png
+  id: 755ba2e4-76f0-4cb9-a223-b2ab8cea62a6-tr
   priority: 0
-  slug: 6x-dove-mencare-invisible-dry-150-ml
+  slug: 6x-dove-mencare-invisible-dry-antitranspirant-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: dove-logo
   type: logo
-offerId: 2d854209-059a-4091-8a67-87b6b09d2c8b
+offerId: f50d010a-e892-4df6-8552-3294604f09ad
 price:
   cents: 1295
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 32.94
 slug: 6x-dove-mencare-invisible-dry-150-ml
-soldOut: true
-start: '2026-05-11T22:00:00.000Z'
+soldOut: false
+start: '2026-05-19T22:00:00.000Z'
 title: 6x Dove Men+Care Invisible Dry | 150 ml

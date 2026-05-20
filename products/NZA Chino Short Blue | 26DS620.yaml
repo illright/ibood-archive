@@ -1,12 +1,12 @@
-_id: 69e89b4323aed90e1022e5da
+_id: 6a0c2b96bdea3f465fdf0fe6
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - d462c804-3f3f-5b5a-b59e-070a0492cb34
-classicId: '3177061'
+  - ab73328e-6fad-5acd-a801-0d3f1fd2372e
+classicId: '3220717'
 classicProductId: '707565'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: fc1bd585-c175-5f0e-8f6c-64d23af0d62f
+id: 69342a37-bc84-4953-b3fb-3a23c3171b33
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bda4f81e-6a40-46ec-a7d3-f05be6ebde1f
-  priority: 0
-  slug: new-zealand-auckland-png-logo-0
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
   type: logo
-offerId: b839c2b6-390a-55a2-9034-63f0ece9e341
+offerId: ac9d38e7-54b1-436a-be19-c37ede561451
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 89.99
 slug: nza-chino-short-sand-26ds620
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: NZA Chino Short Blue | 26DS620
+ '2026-05-10T22:00:00.000Z'
 title: NZA Chino Short Blue | 26DS620

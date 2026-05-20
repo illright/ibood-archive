@@ -1,12 +1,12 @@
-_id: 6a01cf61b4baef98adba3c5a
+_id: 6a0c1f4757a462761dbf39e8
 appOnly: false
 brand: Turtle Wax
 brands:
   - id: 65a5fba3-f3da-512c-a381-c66817ba28f1
     name: Turtle Wax
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3206501'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3219397'
 classicProductId: '339752'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: df4793ef-278d-4f1f-978f-e0b9ae86712c
+id: 14ed889c-c0ba-4871-9672-639303fb5a44
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1070902
-  priority: 100
-  slug: turtle-wax-green-line-dash-glass-500-ml
+    - all
+  extension: image/png
+  id: c7bf34d4-79b4-409b-b33d-c23b7556094a-tr
+  priority: 0
+  slug: turtle-wax-armaturen-und-glasreiniger-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: turtle-logo
   type: logo
-offerId: d3bdc9b0-5beb-4f92-a95d-20b3a2d66a41
+offerId: 8a1d767f-d46b-47f3-9e1e-cebf7f54ec15
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 30.98
 slug: turtle-wax-green-line-dash-glass-500-ml
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Turtle Wax Green Line Dash & Glass | 52860 | 500 ml

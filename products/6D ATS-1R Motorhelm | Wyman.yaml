@@ -1,22 +1,22 @@
-_id: 6a01b6d9a0cc7abda355e906
+_id: 6a0aef4657a462761dbf28d6
 appOnly: false
 brand: 6D Helmets
 brands:
   - id: 317df2f4-362a-5f82-9c63-73f8b1f8054f
     name: 6D Helmets
 categories:
-  - e1ecf913-838f-5e29-a51f-a364841b8116
-classicId: '3203762'
-classicProductId: '702017'
+  - 1d222f25-4a19-53d9-bcc9-2a9036c693b1
+classicId: '3216410'
+classicProductId: '702019'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 52
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 26e7a7d5-35df-430a-aa42-d1f8d652e373
+id: d762f578-e53c-4082-89d6-e4e521778e0b
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: helm-22-png-product-0
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 10d01c24-771a-4d65-9bc7-7ad5277203b5
-  priority: 0
-  slug: 6d-helmets-png-logo-0
-  type: logo
-offerId: 6c5e3fa0-0366-42b0-982d-37a1b8cde3f2
+offerId: 91fc32be-44c0-480e-b7fb-c215c9ef5268
 price:
   cents: 27900
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 579
 slug: 6d-ats-1r-motorhelm-wyman
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 6D ATS-1R Motorhelm | Wyman

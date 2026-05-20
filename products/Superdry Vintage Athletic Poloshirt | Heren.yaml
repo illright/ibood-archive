@@ -1,12 +1,12 @@
-_id: 69e0a272e99497a9527ac8f8
+_id: 6a0c2b5213360ca95c50bc45
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - e2b5d17e-5261-597b-89d2-b5f0b9be8aed
-classicId: '3165261'
+  - 3db44b13-0456-5b5c-a0c8-2be45ee754e3
+classicId: '3220624'
 classicProductId: '706599'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 55
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 0b190054-7bbd-555f-aa1d-9a98124de46e
+id: 054b0df4-91f1-4735-8593-34720e6c5727
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd003-png-product-1
   type: product
-offerId: 6c8ee302-ccb6-58ec-a74b-c8a8e8f233e5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5c8d01d2-0684-436c-8865-fcfc164551f0
+  priority: 0
+  slug: superdry-logo-0
+  type: logo
+offerId: f4c4064d-2453-445b-a233-e48ec46546af
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 54.99
 slug: superdry-vintage-athletic-polo
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Superdry Vintage Athletic Poloshirt | Heren

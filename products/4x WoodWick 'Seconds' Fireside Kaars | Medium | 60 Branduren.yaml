@@ -1,12 +1,12 @@
-_id: 6a01cfc651ab3247f14b0ef9
+_id: 6a0c1f7c57a462761dbf3a7d
 appOnly: false
 brand: WoodWick
 brands:
   - id: b56b1d96-8b90-576d-8566-281a8ddd996a
     name: WoodWick
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3206695'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3219547'
 classicProductId: '670972'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 964c2b2a-f9c7-4c4b-acfe-602faddbf3ec
+id: 2bd98049-8596-41c7-9859-b546307d13d9
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 255f2944-b260-4a37-851d-a23d0cecc806
-  priority: 0
-  slug: woodwick-02-png-product-1
+  id: 2dd5de9e-8009-4fad-808b-54cbd91e899d
+  priority: 1
+  slug: ww03-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: woodwick-logo
   type: logo
-offerId: 44de6b24-f684-427a-a637-b473dfd72ee4
+offerId: ce2b7183-ede2-40c0-a3ed-a7ddf828d890
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 111.6
 slug: 4x-woodwick-seconds-fireside-kaars-60-branduren
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 4x WoodWick 'Seconds' Fireside Kaars | Medium | 60 Branduren

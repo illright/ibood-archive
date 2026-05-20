@@ -1,12 +1,12 @@
-_id: 6a01ceab51ab3247f14b0cf0
+_id: 6a0c1edb57a462761dbf38d2
 appOnly: false
 brand: Persil
 brands:
   - id: 74e3ee44-49f0-58ea-a6f2-c8d8594e807b
     name: Persil
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3205948'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3219165'
 classicProductId: '701649'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: bd1ce40a-2fda-4fa5-b5b8-c5600f200701
+id: 34a65708-3967-4b4a-ac4e-e7f2e90ea1ec
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 2ebe9eec-033e-463f-bac5-31e04ce13adf
-  priority: 0
-  slug: persil-03-png-product-1
+  id: 912ec823-fd7d-4438-9c9a-f46186747122
+  priority: 1
+  slug: persil-02-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: persil-logo
   type: logo
-offerId: cef828cb-e8cf-4bb2-8174-914ec8653bea
+offerId: 6627c1b7-ce74-4f1d-8082-a3f4c827feee
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 83.16
 slug: 104x-persil-4-in-1-color-power-caps
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: '104x Persil 4-in-1 Color Power Caps '

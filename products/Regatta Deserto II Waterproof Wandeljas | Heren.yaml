@@ -1,22 +1,22 @@
-_id: 6a01b7914d45d7833eef39de
+_id: 6a0af07a57a462761dbf2b33
 appOnly: false
 brand: Regatta
 brands:
   - id: febd98de-cedc-5333-a234-06b0e44c9b32
     name: Regatta
 categories:
-  - 158123a0-044c-519a-bd5d-b3b85a76e1eb
-classicId: '3204003'
-classicProductId: '643569'
+  - 1a7ad8c3-52e8-59f2-b8c1-38f6791ae0b8
+classicId: '3216891'
+classicProductId: '630400'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 77
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 3ba74e3f-8924-4b4a-9112-b629dcc50238
+id: 88c7bf21-5630-4aff-8a30-0f7f575c40ec
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: regatta-logo
   type: logo
-offerId: dad8f675-f464-4ae4-8cd2-a90721b3e190
+offerId: 150e977a-4518-402e-a11d-74e3121042e6
 price:
   cents: 3495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 150
 slug: regatta-deserto-ii-waterproof-wandeljas
-soldOut: true
-start: '2026-05-12T22:00:00.000Z'
+soldOut: false
+start: '2026-05-19T22:00:00.000Z'
 title: Regatta Deserto II Waterproof Wandeljas | Heren

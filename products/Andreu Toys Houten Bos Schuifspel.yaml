@@ -1,12 +1,12 @@
-_id: 6a02d79a7203127dcf2e0e26
+_id: 6a0c3d2257a462761dbf44bd
 appOnly: false
 brand: Andreu Toys
 brands:
   - id: 2ca18eb4-4eb6-58ab-8369-15c344a74348
     name: Andreu Toys
 categories:
-  - 6865f624-09f1-548c-94a3-d5e356bd4447
-classicId: '3207302'
+  - 8ceaec7b-63e6-5652-8fd8-41e56c743bde
+classicId: '3221660'
 classicProductId: '701964'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: a8b1d3bd-d498-4ab1-b4e9-d5eee54725c9
+id: 00f715d6-5c35-4a10-b6a5-274581d65027
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: at01-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 6761f7a1-2497-4e8e-807e-6c6a12612f2e
-  priority: 0
-  slug: andreu-logo-png-logo-0
-  type: logo
-offerId: dad544c9-044d-4fd0-9253-9afe862918e0
+offerId: 548c3744-1f8c-4d7a-bf39-044aac81ab8c
 price:
   cents: 1695
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 28.95
 slug: andreu-toys-houten-bos-schuifspel
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Andreu Toys Houten Bos Schuifspel

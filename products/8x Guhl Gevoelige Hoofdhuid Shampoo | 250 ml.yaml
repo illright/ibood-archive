@@ -1,12 +1,12 @@
-_id: 6a01ccb351ab3247f14b087c
+_id: 6a0c1dc858705d4604b8d2a2
 appOnly: false
 brand: Guhl
 brands:
   - id: 49800b93-1315-529d-ab92-78c264880393
     name: Guhl
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3204696'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3218558'
 classicProductId: '698255'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: a894a636-4bce-4390-93c6-f76b17d091c2
+id: a13964a4-9070-414c-b0ef-beb2c0f98227
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: guhl-02-png-product-1
   type: product
-offerId: 963c4f09-d4ec-4b10-9b7a-7ff05f3a2d10
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b9eb39cb-9429-4cf6-8b33-8518302060ec
+  priority: 0
+  slug: guhl-png-logo-0
+  type: logo
+offerId: de854a9e-e3fd-42a8-bf1c-711b7c6fd6f4
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 71.92
 slug: 8x-guhl-gevoelige-hoofdhuid-shampoo-250-ml
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 8x Guhl Gevoelige Hoofdhuid Shampoo | 250 ml

@@ -1,4 +1,4 @@
-_id: 6a045bd7ee0501ae1ab388d1
+_id: 6a0c0b2461358d15f979ab8a
 appOnly: false
 brand: Samsung
 brands:
@@ -6,43 +6,44 @@ brands:
     name: Samsung
 categories:
   - 041fad09-05b0-50ea-9a1b-5c368e5e015c
-classicId: '3209709'
-classicProductId: '705533'
+classicId: '3217535'
+classicProductId: '705534'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 24
+discount: 32
 end: '2026-05-20T21:59:59.999Z'
 freeDelivery: false
-id: 87586c4e-6c47-4281-b7cf-209538d2412e
+id: 3dbafbf2-0c2c-4f5b-a1d4-e97ad5b8a3ce
 image:
+  channels:
+    - newsletter
+    - all
+    - website
+    - app
+  extension: image/png
+  id: f334d0ae-0d8d-4c2e-b50a-62011215592d-tr
+  priority: 0
+  slug: 51hg2oo0nhl-ac-sl1500-jpg-product-1
+  type: product
+logo:
   channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: e48fe536-001c-4a9d-8f97-d70c953d1e1f
+  id: 254c7282-95a0-4bbf-beb5-2650edfca37e
   priority: 0
-  slug: black-main-png-product-1
-  type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1685320
-  priority: 100
-  slug: samsung-logo
+  slug: samsung-png-logo-0
   type: logo
-offerId: ecc9b364-3570-4e5e-bdc4-d86e1d17bb37
+offerId: c44ecfcb-e48e-4208-b856-9d69c854af32
 price:
-  cents: 18800
+  cents: 16995
   currency: EUR
-  value: 188
+  value: 169.95
 referencePrice:
   cents: 24900
   currency: EUR

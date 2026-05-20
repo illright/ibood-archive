@@ -1,12 +1,12 @@
-_id: 69e0a101f4aadb52e33187dc
+_id: 6a0c2c54cbe1e458c38b4dca
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - e2b5d17e-5261-597b-89d2-b5f0b9be8aed
-classicId: '3165219'
+  - ab73328e-6fad-5acd-a801-0d3f1fd2372e
+classicId: '3220951'
 classicProductId: '706492'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 65aeb977-5389-59e3-a8e2-5ef3ea30070d
+id: 4481b70d-4485-46b7-a11f-f025e12ab48c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd006-png-product-1
   type: product
-offerId: 6576861b-d511-51ed-9fbf-ea49eb455826
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5c8d01d2-0684-436c-8865-fcfc164551f0
+  priority: 0
+  slug: superdry-logo-0
+  type: logo
+offerId: 4317ebab-0699-47f2-8df7-a71e840b3e33
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 79.99
 slug: superdry-heavy-cargo-short-camo
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Superdry  Heavy Cargo Short  | Camo

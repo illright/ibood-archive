@@ -1,12 +1,12 @@
-_id: 6a05ce02210480094cec73ce
+_id: 6a0c2c4257a462761dbf4042
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210614'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3220979'
 classicProductId: '682591'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 84fc8f1e-173d-51a9-98f3-22b88ee05aae
+id: b8da0366-f0d4-470f-a480-d4b604a9a684
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bfe6aefc-d8be-42e8-ac04-60dd9b555694
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: 1ffde484-fe61-5991-b560-ec0e3ce2ae1e
+offerId: a1d8d359-4676-4281-9d8d-eaea584d78f6
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 210
 slug: dick-moby-bern-zonnebril-heren-forst-satin-silver
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: Dick Moby Bern Zonnebril | Heren | Forst Satin Silver
+
 title: Dick Moby Bern Zonnebril | Heren | Forst Satin Silver

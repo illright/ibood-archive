@@ -1,12 +1,12 @@
-_id: 69eb3b2896f105496208a69a
+_id: 6a0c26c4258634a120605252
 appOnly: false
 brand: Ninja
 brands:
   - id: 1a89dcb0-b45a-5248-87c6-e8c906d71203
     name: Ninja
 categories:
-  - 2163095f-155b-585e-9ea1-f5880efd5144
-classicId: '3180247'
+  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
+classicId: '3219923'
 classicProductId: '707904'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 39
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: acf165d5-5124-5e2e-abfd-1efd8489ebec
+id: 5caa1fc7-2e56-4585-9a39-e4f3bf7eee47
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ninja-c60216de-suppentopf-aus-edelstahl-16-cm-1029209-product-0
   type: product
-offerId: 4ad132c2-e50d-5f9d-9351-430b24e3d51c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77bce145-c425-485b-bf0e-1f4e6d280804
+  priority: 0
+  slug: ninja-logo-0
+  type: logo
+offerId: 0b23a39b-80f3-4fcb-96e8-13266496661d
 price:
   cents: 4295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.99
 slug: ninja-foodi-zerostick-kookpan-16-cm-rvs-c60216en
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Ninja Foodi ZEROSTICK Kookpan | Ø 16 cm | RVS | C60216EN

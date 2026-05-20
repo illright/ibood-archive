@@ -1,12 +1,12 @@
-_id: 69eb3b2796f105496208a693
+_id: 6a0c270657a462761dbf3cca
 appOnly: false
 brand: Ninja
 brands:
   - id: 1a89dcb0-b45a-5248-87c6-e8c906d71203
     name: Ninja
 categories:
-  - 2163095f-155b-585e-9ea1-f5880efd5144
-classicId: '3180245'
+  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
+classicId: '3220038'
 classicProductId: '707902'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 34
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 3204e56e-11ad-5266-8b17-bf34ac5e2d55
+id: e2ebda52-10f6-4058-901d-870e046073f9
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: f457edf0747f04930239ee9a97f322be-webp-product-1
   type: product
-offerId: 17828838-b68f-5ef8-9561-9f95a8f531ed
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77bce145-c425-485b-bf0e-1f4e6d280804
+  priority: 0
+  slug: ninja-logo-0
+  type: logo
+offerId: 29cce981-f9ee-4fbe-8be1-1bc5168cf0bc
 price:
   cents: 3295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 49.99
 slug: ninja-foodi-zerostick-koekenpan-20-cm-c60020de
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Ninja Foodi ZEROSTICK Koekenpan | Ø 20 cm |  C60020DE

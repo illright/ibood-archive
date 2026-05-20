@@ -1,22 +1,22 @@
-_id: 6a01ad980f469f954019d19b
+_id: 6a0c15a431b9004683a21f2e
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 7053943f-56b6-5ca1-98e8-2bbb35d8fd48
-classicId: '3202969'
-classicProductId: '664552'
+  - f17319e9-2ae8-515b-8b22-40aa8f2984e5
+classicId: '3218070'
+classicProductId: '664556'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 2ff9286f-3f9d-41ad-b2de-c69636fa4835
+id: 214a943e-a8f8-4557-971e-7c0ec8c43c86
 image:
   channels:
     - app
@@ -24,22 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: a1eedae0-c654-4e5a-9137-0b4fcef8595f
+  id: ac34449f-2f07-4655-8371-f520c8ae856f
   priority: 0
-  slug: cruyff-13-png-product-1
+  slug: cruyff-15-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: adba4190-e111-43c9-9217-b95f73656e5c
-  priority: 0
-  slug: cruyff-png-logo-0
-  type: logo
-offerId: 40ee67a4-48c7-4dbb-ac9e-0f0a5052627a
+offerId: 080f5645-0652-43f4-9706-edb330ca3d66
 price:
   cents: 1500
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 37.95
 slug: cruyff-sports-recovery-shirt-heren
 soldOut: false
-start: '2026-05-12T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Cruyff Sports Recovery Shirt | Heren

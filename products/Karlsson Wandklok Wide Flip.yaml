@@ -1,31 +1,32 @@
-_id: 6a02d9604acd88baea5627da
+_id: 6a0c3c5a614f590ea97e96b4
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - e0f93f6e-c692-5e5f-a9c9-b1207dad1127
-classicId: '3207329'
-classicProductId: '612776'
+  - 335824d3-bdac-5031-9ec3-759c348d5025
+classicId: '3221389'
+classicProductId: '612777'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 62
-end: '2026-05-19T21:59:59.000Z'
+directCheckout: false
+discount: 65
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 7d6d27e8-ddd5-482f-a710-bca65ca9a7f7
+id: 6fa6c47d-4a48-41b2-84a5-f53b7653c8be
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2141978
-  priority: 100
-  slug: karlsson-wandklok-wide-flip
+    - all
+  extension: image/png
+  id: 9f283c53-41ff-408d-9a1d-4b9fe8ad27a8
+  priority: 0
+  slug: karlsson-54-png-product-0
   type: product
 logo:
   channels:
@@ -33,25 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1566233
+  id: 2141910
   priority: 100
-  slug: karlsson-logo
+  slug: karlsson-wandklok-wide-flip
   type: logo
-offerId: 408d6400-fb12-4b22-82d8-ca16b1f83af5
+offerId: 89051c7d-90a0-4c1f-9645-7635c2da3908
 price:
-  cents: 9995
+  cents: 8995
   currency: EUR
-  value: 99.95
+  value: 89.95
 referencePrice:
   cents: 25995
   currency: EUR
   value: 259.95
 slug: karlsson-wandklok-wide-flip
 soldOut: false
-start: '2026-05-04T22:00:00.000Z'
-title: Karlsson Wandklok Wide Flip
-e Flip
-p
-soldOut: false
-start: '2026-05-04T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Karlsson Wandklok Wide Flip

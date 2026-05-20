@@ -1,12 +1,12 @@
-_id: 6a05ce080d121a46a69739f3
+_id: 6a0c2c8513360ca95c50bd97
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210632'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3221060'
 classicProductId: '682602'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: 7b8f19b5-4287-5a6f-ad96-77873c88b627
+id: f74d0366-1323-4780-b76f-de2e3c5c006d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 27076e12-845b-44f3-ad79-3434946a4c20
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: c6b2d88a-cf6f-5eaf-b0fa-df4a5d520c91
+offerId: 67228e15-d988-49cf-8ca3-a253caf356b4
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 210
 slug: dick-moby-dusseldorf-zonnebril-unisex-grey-clouds
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
+title: Dick Moby Dusseldorf Zonnebril | Unisex | Grey Clouds
+
 title: Dick Moby Dusseldorf Zonnebril | Unisex | Grey Clouds

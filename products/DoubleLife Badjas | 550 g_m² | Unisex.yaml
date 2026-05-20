@@ -1,22 +1,22 @@
-_id: 69f9afa468e099f86ca5c6d8
+_id: 6a0c6b3061358d15f979b292
 appOnly: false
 brand: DoubleLife
 brands:
   - id: 97e825b7-6aaa-5493-89e0-41939da9971f
     name: DoubleLife
 categories:
-  - 82f1faca-76d5-54cd-891a-05c459acba6e
-classicId: '3195933'
-classicProductId: '677342'
+  - 69f21b46-8642-5403-b21f-fecf2e686968
+classicId: '3223081'
+classicProductId: '677325'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-19T21:59:59.000Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: c3c4faf2-fd10-4d4f-b62d-c7778ac551c6
+id: dd1356c7-2121-43f7-8b97-bb813665e438
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 1423e360-ba2b-4383-b1d1-3e631ed70956
+  id: 183fec9a-5436-4a5d-9b67-721ceb3417af
   priority: 0
-  slug: double-13-png-product-1
+  slug: double-25-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: doublelife-logo-0
   type: logo
-offerId: b40292c2-cc9e-4bfb-9c00-782593d36a32
+offerId: dec87d60-6de2-4ef9-8ee2-72b5f24b6c24
 price:
   cents: 1995
   currency: EUR
@@ -49,7 +49,6 @@ referencePrice:
   currency: EUR
   value: 39.95
 slug: doublelife-badjas-unisex
-soldOut: true
-start: '2026-05-04T22:00:00.000Z'
+soldOut: false
+start: '2026-05-19T22:00:00.000Z'
 title: DoubleLife Badjas | 550 g/m² | Unisex
-

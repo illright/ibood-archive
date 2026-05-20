@@ -1,12 +1,12 @@
-_id: 69f9d55cfd169f44bb52affe
+_id: 6a0c1e9296e7e577ae763ccb
 appOnly: false
 brand: Naif
 brands:
   - id: ef132678-f683-576e-836d-fa373ef13956
     name: Naif
 categories:
-  - 19a1a278-531b-55df-9669-111293b6ff95
-classicId: '3196671'
+  - f8d9e467-8371-55fa-9b44-0c941afc850e
+classicId: '3219011'
 classicProductId: '709810'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 64
-end: '2026-05-19T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: afda8608-b8b0-56c6-bf53-99cbbdc00832
+id: 05ba53be-a8e5-4350-8261-f72f9b44948b
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: chatgpt-image-8-mei-2026-13-09-49-png-product-1
   type: product
-offerId: ae2a1011-3519-5bbd-aaad-21dcb5cf80b8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e31747a6-0a8a-491d-8109-c20807853c3b
+  priority: 0
+  slug: naif-logo-0
+  type: logo
+offerId: ce582d59-79a8-47b2-9e40-0f06fa2d2155
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 41.97
 slug: 3x-naif-minerale-zonnebrandcreme-spf50-50ml
 soldOut: false
-start: '2026-05-11T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: 3x Naïf Minerale Zonnebrandcrème SPF50 | 50 ml
