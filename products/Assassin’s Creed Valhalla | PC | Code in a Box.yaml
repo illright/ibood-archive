@@ -1,12 +1,12 @@
-_id: 6a0c0b3f61358d15f979ab98
+_id: 6a0d9da957a462761dbf4e32
 appOnly: false
 brand: Assassin's Creed
 brands:
   - id: aabc3b9e-cce6-5174-8245-76ac0a1a70bb
     name: Assassin's Creed
 categories:
-  - efed38e0-e996-589d-8e5a-84e5a3860f6b
-classicId: '3217538'
+  - e420dbf5-289f-593f-bc06-017e8ebc05dd
+classicId: '3224537'
 classicProductId: '693231'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 48
-end: '2026-05-20T21:59:59.999Z'
+end: '2026-05-25T21:59:59.999Z'
 freeDelivery: false
-id: e3aa3ea8-3d33-44c0-a697-ff0ec4baffa1
+id: 174caa19-a7e0-4daa-9ac9-bac1811ba0e4
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: assassin-s-creed-valhalla-code-in-a-box-pc-product-0
   type: product
-offerId: 8c8d5f1a-b78c-4f74-8756-1ca0404305a5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0d6f6650-dda4-48bd-9e73-765ca2efb088
+  priority: 0
+  slug: assassin-s-creed-logo-0
+  type: logo
+offerId: 718cbe11-4dbd-4df7-97b6-e832f71d11bd
 price:
   cents: 995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 19
 slug: assassin-s-creed-valhalla-pc-code-in-a-box
 soldOut: false
-start: '2026-05-13T22:00:00.000Z'
+start: '2026-05-20T22:00:00.000Z'
 title: Assassin’s Creed Valhalla | PC | Code in a Box

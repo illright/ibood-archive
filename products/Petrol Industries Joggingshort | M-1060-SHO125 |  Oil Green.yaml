@@ -1,12 +1,12 @@
-_id: 6a0c2c9b173277dcab934bc8
+_id: 6a0ae8ad57a462761dbf21ef
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ab73328e-6fad-5acd-a801-0d3f1fd2372e
-classicId: '3221076'
+  - ea6d19df-0f2b-5051-829c-a85beed854d7
+classicId: '3213716'
 classicProductId: '698357'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-25T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 857febd9-3355-44ff-9bec-db7008e72817
+id: 6e478334-1c1e-4cee-a1df-2f6c4df0d534
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: d0670ee2-09d8-4f9c-a359-f04ba1fd6152
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: 74496a7c-ccd7-4266-a722-3366f7b87b91
+offerId: 95888e8d-4e24-4a94-b33b-117e5b94dd9e
 price:
   cents: 1995
   currency: EUR
@@ -50,7 +51,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: petrol-industries-joggingshort-m-1060-sho125-oil-green
-soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+soldOut: true
+start: '2026-05-17T22:00:00.000Z'
 title: Petrol Industries Joggingshort | M-1060-SHO125 |  Oil Green
-Petrol Industries Joggingshort | M-1060-SHO125 |  Oil Green

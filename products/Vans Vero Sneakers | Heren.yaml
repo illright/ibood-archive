@@ -1,4 +1,4 @@
-_id: 6a0ae8c8d3366c876bfdded2
+_id: 6a0ae8c2d3366c876bfddec2
 appOnly: false
 brand: Vans
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Vans
 categories:
   - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
-classicId: '3213791'
-classicProductId: '692260'
+classicId: '3213770'
+classicProductId: '692252'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 27
 end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: a3cf5c59-e825-4309-b64e-029dbc3b6a99
+id: fbc6b6db-6f8f-4676-8402-6bb1d3ba087b
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: c278b289-e5cc-4aa9-8c67-de04d12dbd18-tr
+  id: 9ba1bde8-ec57-450c-9fc3-797f0f63c772
   priority: 0
-  slug: 44-pine-forest-vnen6-vn000y7hen61-vero-ls-suede-canvas-pine-forest-mens-vans-product-1
+  slug: vans-03-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 24580374-513b-4d02-8b72-e66da21a6ff5
+offerId: eef88c67-39dc-49cc-89d1-e972deedaf74
 price:
   cents: 3995
   currency: EUR
@@ -48,7 +48,10 @@ referencePrice:
   currency: EUR
   value: 55
 slug: vans-vero-sneakers-heren
-soldOut: false
+soldOut: true
+start: '2026-05-17T22:00:00.000Z'
+title: Vans Vero Sneakers | Heren
+e
 start: '2026-05-17T22:00:00.000Z'
 title: Vans Vero Sneakers | Heren
 Heren
