@@ -1,12 +1,12 @@
-_id: 6a0c2c2e57a462761dbf3ff6
+_id: 6a0ae901d3366c876bfddf27
 appOnly: false
 brand: Tommy Hilfiger
 brands:
   - id: 99c76082-42f2-52fe-aae8-bcee06114884
     name: Tommy Hilfiger
 categories:
-  - 3a9fab58-34d2-5594-96f7-8bead38784d0
-classicId: '3220937'
+  - 048c7f9e-a3f7-5fa9-863a-44711fd641c4
+classicId: '3213942'
 classicProductId: '633716'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-05-25T21:59:59.999Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: 77f7121f-7838-4aed-aedc-58a88b73faa8
+id: 0505b577-8d0c-450a-a076-8b57e0b7022f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0185a56f-a2c7-41ee-890a-41e17bc0e261
-  priority: 0
-  slug: matte-black-tommy-hilfiger-sun-1975-s-003-51-19-145-logo-0
+  extension: png
+  id: 2004411
+  priority: 100
+  slug: tommy-hilfiger-logo
   type: logo
-offerId: 7d9fcc9b-f7dc-42e3-9d15-633b587bb0fd
+offerId: 7d30787c-a1b8-4070-bc27-4936f0beb712
 price:
   cents: 4995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 129
 slug: matte-black-tommy-hilfiger-sun-1975-s-003-51-19-145
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-17T22:00:00.000Z'
+title: Tommy Hilfiger Wayfarer Zonnebril | Heren
+tart: '2026-05-19T22:00:00.000Z'
 title: Tommy Hilfiger Wayfarer Zonnebril | Heren

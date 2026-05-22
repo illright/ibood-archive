@@ -19,13 +19,14 @@ freeDelivery: false
 id: 893c234d-df47-43bb-b6a3-fa3d4be323e4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1668787
+    - all
+  extension: image/png
+  id: 4d1de430-1393-4e71-9852-75594b7b0336
   priority: 0
-  slug: bjorn-the-full-service-serviesset-genesis-36-delig
+  slug: bjorn-main-png-product-1
   type: product
 logo:
   channels:
@@ -33,9 +34,9 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1668786
+  id: 1619105
   priority: 100
-  slug: bjorn-the-full-service-serviesset-genesis-36-delig
+  slug: bjorn-logo
   type: logo
 offerId: ab57e5ca-3551-42ad-acfb-298c5a3fafca
 price:
