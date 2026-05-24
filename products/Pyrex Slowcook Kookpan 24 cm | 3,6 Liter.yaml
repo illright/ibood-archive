@@ -19,13 +19,14 @@ freeDelivery: false
 id: 56a77668-3eff-4c5d-9348-5181e6256cb0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 414793
+    - all
+  extension: image/png
+  id: 6a0de3e2-366c-4e78-a775-62d358dc53de-tr
   priority: 0
-  slug: pyrex-slowcook-schmortopf-36-l-24-cm
+  slug: pyrex-slowcook-schmortopf-36-l-24-cm-jpg-product-1
   type: product
 logo:
   channels:

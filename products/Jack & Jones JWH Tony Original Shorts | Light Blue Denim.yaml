@@ -1,12 +1,12 @@
-_id: 6a0c2ba957a462761dbf3f30
+_id: 6a0ae70357a462761dbf1e94
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - ab73328e-6fad-5acd-a801-0d3f1fd2372e
-classicId: '3220736'
+  - d02372f7-0615-573a-9393-5f725d2825ef
+classicId: '3212907'
 classicProductId: '680200'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-26T21:59:59.999Z'
 freeDelivery: false
-id: bee61865-7ee4-4f66-9087-b87dd6e65532
+id: 49c23807-7fa2-47a9-9cfc-84c5ea52863f
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8c38c6f7-96c9-43e9-adca-faa5f8860806
-  priority: 0
-  slug: jack-and-jones-chino-shorts-herren-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: ecea33b2-733e-4b7e-a097-6932fe59c848
+offerId: 7250bc5e-9e5e-475f-b6e5-c9e74978b0b5
 price:
   cents: 2195
   currency: EUR
@@ -52,5 +51,7 @@ referencePrice:
   value: 39.99
 slug: jack-jones-jwh-tony-original-shorts-light-blue-denim
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-17T22:00:00.000Z'
+title: Jack & Jones JWH Tony Original Shorts | Light Blue Denim
+00.000Z'
 title: Jack & Jones JWH Tony Original Shorts | Light Blue Denim

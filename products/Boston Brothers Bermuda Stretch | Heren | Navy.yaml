@@ -1,4 +1,4 @@
-_id: 69f1b37c3a59cb3ed15d3d07
+_id: 6a0af262b04283bbf3619899
 appOnly: false
 brand: Boston Brothers
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Boston Brothers
 categories:
   - b5894ba0-c62b-5fb0-9278-5d793d8156bf
-classicId: '3183671'
+classicId: '3217099'
 classicProductId: '708537'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 57
 end: '2026-05-24T21:59:59.999Z'
 freeDelivery: false
-id: 05adc466-f4fc-52ab-a39d-8c97664c7479
+id: 60364106-49ce-44fe-a2b5-485cb31cd99e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1b0e0741-745a-4297-989d-d1efacdaacc5
-  priority: 0
-  slug: boston-brothers-png-logo-0
+  extension: png
+  id: 1729661
+  priority: 100
+  slug: boston-brothers-logo
   type: logo
-offerId: 13b1f285-fbf9-5e08-91e5-dce0517c3f89
+offerId: a4a777b7-482f-4651-b801-9130f048a5df
 price:
   cents: 2995
   currency: EUR
@@ -54,3 +53,4 @@ slug: boston-brothers-bermuda-stretch-heren-navy
 soldOut: false
 start: '2026-05-18T22:00:00.000Z'
 title: Boston Brothers Bermuda Stretch | Heren | Navy
+: Boston Brothers Bermuda Stretch | Heren | Navy
