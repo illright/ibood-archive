@@ -1,12 +1,12 @@
-_id: 6a05ce00210480094cec73c9
+_id: 6a0c2c24cbe1e458c38b4d6b
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - b9eaba40-6776-56cd-b5ac-1d1bf5b7dbf7
-classicId: '3210602'
+  - 3a9fab58-34d2-5594-96f7-8bead38784d0
+classicId: '3220905'
 classicProductId: '686609'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-24T21:59:59.999Z'
+end: '2026-05-26T21:59:59.000Z'
 freeDelivery: false
-id: d4037e97-cdbc-5281-9c69-d7fa281dcd45
+id: 416e8221-4666-431f-bfe5-a21cc93b17a3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 72e512c8-db0b-45af-8b26-cd456f4ee9c5
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: d04b8e60-0411-56ed-9e4c-00098bc7276c
+offerId: 08896c8f-b73e-45d4-b4e9-d3a0dce4b2cd
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 210
 slug: dick-moby-athene-zonnebril-unisex-matte-light-lavender
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-19T22:00:00.000Z'
 title: Dick Moby Athene Zonnebril | Unisex | Matte Light Lavender

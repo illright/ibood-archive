@@ -19,24 +19,25 @@ freeDelivery: false
 id: 0ae6d51c-71c6-42be-8f0e-9435357059a6
 image:
   channels:
+    - newsletter
+    - all
+    - website
+    - app
+  extension: image/png
+  id: c4ede22c-84d1-4326-8aef-56d1dd46ba77-tr
+  priority: 0
+  slug: 46-538-ebano-he50504camp07-relight-loafer-giorgio-product-0
+  type: product
+logo:
+  channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: 81714c85-3cf7-4382-bf33-9ec57d93ae03-tr
+  id: b1836368-460a-4d11-99cb-f002303b12e4
   priority: 0
-  slug: 46-538-ebano-he50504camp07-relight-loafer-giorgio-product-2
-  type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1681527
-  priority: 100
-  slug: giorgio-logo
+  slug: giorgio-png-logo-0
   type: logo
 offerId: db0d234c-c018-47cb-a41e-1979abfdc7c3
 price:

@@ -1,12 +1,12 @@
-_id: 6a0ae6064d4fe2b69e92412d
+_id: 6a0c2c4abdea3f465fdf1184
 appOnly: false
 brand: Scotch & Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch & Soda
 categories:
-  - a6f43ec0-01f6-52e4-924a-97582bfa2463
-classicId: '3212621'
+  - 3db44b13-0456-5b5c-a0c8-2be45ee754e3
+classicId: '3220977'
 classicProductId: '687112'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-26T21:59:59.000Z'
 freeDelivery: false
-id: bb1aad99-9652-4adf-b343-ef1153b55ca1
+id: 1f265f92-6c35-4543-8bb7-cc70fb4e52a6
 image:
   channels:
     - app
@@ -41,7 +41,7 @@ logo:
   priority: 0
   slug: scotch-and-soda-logo-0
   type: logo
-offerId: 43142182-d1a2-4dc9-805d-59685a05731d
+offerId: 97cdabd3-f265-4ccf-ab1e-cb7e98dd60c4
 price:
   cents: 3495
   currency: EUR
@@ -51,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 79.95
 slug: scotch-soda-sweater-polo-ssp26vmb-21178-grey-purple
-soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+soldOut: true
+start: '2026-05-19T22:00:00.000Z'
 title: Scotch & Soda Sweater Polo | SSP26VMB-21178 | Grey/Purple

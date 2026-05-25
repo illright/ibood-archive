@@ -1,12 +1,12 @@
-_id: 6a0ae8614d5c4f83f9746809
+_id: 6a0c2c32173277dcab934b53
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d02372f7-0615-573a-9393-5f725d2825ef
-classicId: '3213506'
+  - ab73328e-6fad-5acd-a801-0d3f1fd2372e
+classicId: '3220946'
 classicProductId: '680143'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-26T21:59:59.000Z'
 freeDelivery: false
-id: fdddb7cf-644d-4d47-a31f-1e635fa8d89a
+id: e485ba88-1715-41e5-a260-3ca3f020ecfd
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 2f3b7d91-8f90-422b-b198-8ebe25f9d294
+offerId: 26e612a2-8371-48fd-b5d7-5ae4541a813f
 price:
   cents: 1995
   currency: EUR
@@ -48,6 +48,7 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: jack-jones-original-5-pocket-shorts-beige
-soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+soldOut: true
+start: '2026-05-19T22:00:00.000Z'
 title: Jack & Jones Original 5-Pocket Shorts | Dusty Olive
+
