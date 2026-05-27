@@ -1,12 +1,12 @@
-_id: 6a045c331909105bb433654d
+_id: 6a158ff7a8c76037ac65d7ad
 appOnly: false
 brand: Tommy Hilfiger
 brands:
   - id: 99c76082-42f2-52fe-aae8-bcee06114884
     name: Tommy Hilfiger
 categories:
-  - e144ade8-c3ee-535d-a9b2-7f9afb3315c3
-classicId: '3209865'
+  - eaa0c1be-7c30-5016-959a-8a99d598144b
+classicId: '3238903'
 classicProductId: '710040'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 4f8b5eb1-e828-5665-8a8f-16bccf4facc1
+id: 12265f52-c186-4c0e-88a2-63eb1e22699b
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: tommy-hilfiger-tommy-girl-summer-edition-edt-spray-100-ml-product-0
   type: product
-offerId: f89851b6-61b8-5859-83f6-d9f949fdea5b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2004411
+  priority: 100
+  slug: tommy-hilfiger-logo
+  type: logo
+offerId: 8683121b-01c4-4588-9c72-75ded892a9ab
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 55.3
 slug: tommy-hilfiger-tommy-girl-summer-edition-eau-de-toilette-100-ml-dames
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Tommy Hilfiger Tommy Girl Summer Edition Eau de Toilette | 100 ml | Dames

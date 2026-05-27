@@ -1,12 +1,12 @@
-_id: 6a0ae9fc61358d15f979a741
+_id: 6a1588a3215b55471e2814d8
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 048c7f9e-a3f7-5fa9-863a-44711fd641c4
-classicId: '3214650'
+  - 150958d4-7c3c-5283-814c-503e7bbd7a1e
+classicId: '3235333'
 classicProductId: '556665'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: b235004e-4adb-4727-b3be-c360163b8a0b
+id: 370d49f1-e80c-4386-8452-0aaaf7e3922b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1875256
+    - all
+  extension: image/png
+  id: 146652bd-3033-4558-af85-53afd6b41e50-tr
   priority: 0
-  slug: polaroid-6164gs-zonnebril-dames
+  slug: polaroid-6164gs-sonnenbrille-damen-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: polaroid-logo
   type: logo
-offerId: ba2732c6-6fc3-4504-8d83-48f8f1a0e3ce
+offerId: af0ec5cd-87e5-4746-880e-b33461a6bd90
 price:
   cents: 2995
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 69
 slug: polaroid-6164gs-zonnebril-dames
-soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+soldOut: true
+start: '2026-05-26T22:00:00.000Z'
 title: Polaroid 6164/G/S Zonnebril | Dames

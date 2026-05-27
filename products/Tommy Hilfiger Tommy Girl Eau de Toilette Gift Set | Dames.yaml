@@ -1,12 +1,12 @@
-_id: 6a045c332b3d21972905083f
+_id: 6a158ff7384515407688c738
 appOnly: false
 brand: Tommy Hilfiger
 brands:
   - id: 99c76082-42f2-52fe-aae8-bcee06114884
     name: Tommy Hilfiger
 categories:
-  - e144ade8-c3ee-535d-a9b2-7f9afb3315c3
-classicId: '3209862'
+  - eaa0c1be-7c30-5016-959a-8a99d598144b
+classicId: '3238908'
 classicProductId: '710039'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 0209dfd0-8d4d-5bcc-a2e5-a84079b797ec
+id: 6c9a77c3-cfeb-42d3-9b80-efbe88261fee
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: tommy-hilfiger-tommy-girl-giftset-150-ml-product-3
   type: product
-offerId: 2aa5d1e5-5b05-5e66-ac6c-622d80b68f0e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2004411
+  priority: 100
+  slug: tommy-hilfiger-logo
+  type: logo
+offerId: 049e1c2b-030b-46d0-8aae-b6710e4925d6
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 58
 slug: tommy-hilfiger-tommy-girl-eau-de-toilette-gift-set-dames
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Tommy Hilfiger Tommy Girl Eau de Toilette Gift Set | Dames

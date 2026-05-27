@@ -1,12 +1,12 @@
-_id: 6a0ae7ddd3366c876bfddd84
+_id: 6a1589ae746d868fbf5a4157
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
-classicId: '3213228'
+  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
+classicId: '3235962'
 classicProductId: '702842'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 43
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 892942db-175c-4190-bd06-925e84412810
+id: 1a8d75e0-b117-4c18-a493-032a7a4bb85d
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1681527
-  priority: 100
-  slug: giorgio-logo
+    - all
+  extension: image/png
+  id: 044a6db7-4dff-4c5b-9eeb-b8b7ca5f8aa6
+  priority: 0
+  slug: giorgio-png-logo-0
   type: logo
-offerId: 91369607-5053-4cd6-8c51-c3400ad794b1
+offerId: e0248094-0993-430d-8a79-ca0a53f318d0
 price:
   cents: 12995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 229.95
 slug: giorgio-light-boy-sneakers-heren
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Giorgio Light-Boy Sneakers | Heren

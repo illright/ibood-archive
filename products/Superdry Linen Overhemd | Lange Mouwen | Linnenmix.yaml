@@ -1,22 +1,22 @@
-_id: 69e0a178f4aadb52e33187f3
+_id: 6a158b7e0ff77949c9ae10a5
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - e2b5d17e-5261-597b-89d2-b5f0b9be8aed
-classicId: '3165241'
-classicProductId: '706554'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3237154'
+classicProductId: '706556'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 9aaaffae-0337-59ab-acdb-d7d632412f05
+id: 1665b47d-bf45-4fdb-90ea-6a5c17ce1589
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd004-png-product-1
   type: product
-offerId: 6cdd38d7-dd18-54eb-a2c5-477121d64898
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 036d3e15-4bf4-428c-8e4b-bfe2dd88e867
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 79.99
 slug: superdry-linen-overhemd-lange-mouwen-linnenmix
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Superdry Linen Overhemd | Lange Mouwen | Linnenmix

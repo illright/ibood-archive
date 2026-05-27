@@ -1,32 +1,32 @@
-_id: 6a0c1eaf57a462761dbf381c
+_id: 6a158fa856f2e7ebed2d4795
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - f8d9e467-8371-55fa-9b44-0c941afc850e
-classicId: '3219073'
-classicProductId: '597794'
+  - 0cb8bce1-d9c4-5655-bdd1-3f18937b97b0
+classicId: '3238513'
+classicProductId: '705726'
 deliveryPrice:
-  cents: 595
+  cents: 395
   currency: EUR
-  value: 5.95
+  value: 3.95
 directCheckout: true
 discount: 67
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 87e9d1a8-357c-4c0b-b9c8-2eca65db8548
+id: ad8a2b5d-902a-41bb-b8eb-2ff96a9ca8f0
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: e3a687d5-5033-41e1-85e5-cc9776693cbe
+  id: a127ca3c-fc20-49d1-9856-820a1deaddb0
   priority: 0
-  slug: 10x-oral-b-crossaction-cleanmaximizer-opzetborstel-product-5
+  slug: oral-b-03-png-product-2
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: oral-b-logo
   type: logo
-offerId: e7929d40-abfb-40a9-a7f7-df29f6f705d5
+offerId: cb2b8be2-8606-471e-8b70-2b78d57fd62d
 price:
   cents: 2295
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 69.99
 slug: 10x-oral-b-crossaction-cleanmaximiser-opzetborstel
-soldOut: true
-start: '2026-05-19T22:00:00.000Z'
+soldOut: false
+start: '2026-05-26T22:00:00.000Z'
 title: 10x Oral-B CrossAction CleanMaximiser Opzetborstel

@@ -1,12 +1,12 @@
-_id: 6a0c686557a462761dbf4747
+_id: 6a1575d396b8bf7d53f4adfd
 appOnly: false
 brand: Emma Sleep
 brands:
   - id: 858c5e2a-cc67-5bb7-9658-9e59ca3ca2d2
     name: Emma Sleep
 categories:
-  - ca55f001-4cb9-5a66-9226-dd29c62a811e
-classicId: '3222298'
+  - 832dea31-62cc-592f-94e7-345dd24d7610
+classicId: '3233944'
 classicProductId: '663050'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 95dd1071-7967-4ed4-8b2d-dd558ae0ed02
+id: a1d3574c-e427-485c-96fc-9e85f8a7728e
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2265755
-  priority: 100
-  slug: emma-flip-topper-90-x-200-cm
+    - all
+  extension: image/png
+  id: aa4d81ee-0df9-4092-9cfa-c833665cbb73
+  priority: 0
+  slug: emma-sleep-logo-0
   type: logo
-offerId: 2f3a3a43-2744-4bb4-8ca6-073ce3ebc728
+offerId: 721e5eb7-67bd-41fe-85b7-e5a24224bd8b
 price:
   cents: 14900
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 249
 slug: emma-flip-topper-120-x-200-cm
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Emma Flip Topper | 120 x 200 cm

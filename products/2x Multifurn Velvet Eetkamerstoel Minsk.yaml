@@ -1,32 +1,31 @@
-_id: 6a0c3c73c60158cea56e9ba8
+_id: 6a1576c40fc971f4b00fd425
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - f2486e8f-a8fb-5218-948e-61efdd1c195c
-classicId: '3221430'
-classicProductId: '431640'
+  - 2858280d-b591-5a96-b225-0020357d4d17
+classicId: '3234849'
+classicProductId: '431643'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: false
 discount: 65
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 783c18ac-cc5b-4aff-a890-0aac88d72b4d
+id: 63ad34e8-2b8a-43b9-8419-919345223707
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: dbec93c0-e08d-455c-8aea-993030eeaa75
+  extension: jpg
+  id: 1434374
   priority: 0
-  slug: multifurn-117-png-product-1
+  slug: 2x-multifurn-velvet-eetkamerstoel-minsk
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: 5e972fbc-6366-44d3-8cc8-f6f2ede04120
+offerId: 4657bfd3-bb8e-411c-8aa5-9e4decbb6fd4
 price:
   cents: 6995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 198
 slug: 2x-multifurn-velvet-eetkamerstoel-minsk
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: 2x Multifurn Velvet Eetkamerstoel Minsk

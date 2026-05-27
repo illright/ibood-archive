@@ -1,22 +1,22 @@
-_id: 6a0eafb557a462761dbf516b
+_id: 6a158af45e67ddc2f3b08bb5
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - eba0c25c-7e4f-58c0-97cc-5eb1dab15764
-classicId: '3225456'
+  - 05f23ff9-e7de-5d2f-a491-b8a1587e66cc
+classicId: '3236840'
 classicProductId: '614419'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 66
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: e7a1e430-f0e3-43bf-9f1a-132b28e9242a
+id: 7a834850-caa1-4b74-a88e-31b4d99f5a2c
 image:
   channels:
     - app
@@ -34,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1994998
+  id: 2151852
   priority: 100
-  slug: villeroy-boch-logo
+  slug: villeroy-boch-mademoiselle-bestekset
   type: logo
-offerId: 80cce7af-c57b-4f5b-b12e-c824bfd6e8f0
+offerId: 53592227-65b5-4bdb-9658-831e2341053f
 price:
   cents: 16995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 499
 slug: villeroy-boch-mademoiselle-bestekset
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Villeroy & Boch Mademoiselle Bestekset | 68-delig

@@ -1,22 +1,22 @@
-_id: 6a0ae78d61358d15f979a632
+_id: 6a158a451b08ecfcb17c0294
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 3fd5ab56-52dc-5f51-bbf1-0e7b9ab881fe
-classicId: '3213060'
-classicProductId: '703506'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3236162'
+classicProductId: '703509'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 56
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: caad7e03-41e1-4032-9352-a91be76ac9a3
+id: 68c05f79-c540-42fd-b907-1c5da4add8f0
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: fbe36b5b-d5d0-4467-8159-e9bed9c95be7
+offerId: cf461f7c-edca-4597-9da8-4853b1d45349
 price:
   cents: 6995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 160
 slug: lacoste-ah5173-53-bitume-neps-1ha1
-soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+soldOut: true
+start: '2026-05-26T22:00:00.000Z'
 title: Lacoste AH5173-53 Sweater | Heren

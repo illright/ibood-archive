@@ -1,22 +1,22 @@
-_id: 6a0c2b0e57a462761dbf3e83
+_id: 6a1588e4b8add18f45cea129
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - ab73328e-6fad-5acd-a801-0d3f1fd2372e
-classicId: '3220564'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3235472'
 classicProductId: '521923'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 85
-end: '2026-05-26T21:59:59.000Z'
+discount: 87
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 2d82e32a-6ffa-456c-a55a-8780fc8ab066
+id: 4ea16be4-d23e-4e6d-b445-658cace25284
 image:
   channels:
     - app
@@ -28,22 +28,26 @@ image:
   priority: 0
   slug: mcgregorrr-png-product-1
   type: product
-offerId: bc0aabb4-1e42-466f-a766-0e425a2b1c7c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: 6c0cdac9-a9c6-4d07-8f76-ccf6fd58979e
 price:
-  cents: 1495
+  cents: 1345
   currency: EUR
-  value: 14.95
+  value: 13.45
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: mcgregor-gmd-cord-shorts-heren
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
-title: McGregor Cord Shorts | Heren
-EUR
-  value: 99.95
-slug: mcgregor-gmd-cord-shorts-heren
-soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: McGregor Cord Shorts | Heren

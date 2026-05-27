@@ -1,22 +1,22 @@
-_id: 6a0ae656d3366c876bfddc21
+_id: 6a158a193370449456416dcd
 appOnly: false
 brand: Mizuno
 brands:
   - id: 4fec73e8-8c86-58da-9eab-cfab3a20a37b
     name: Mizuno
 categories:
-  - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
-classicId: '3212712'
+  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
+classicId: '3236065'
 classicProductId: '706850'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: baed183c-55d0-4c37-bc08-748be1e7fe30
+id: b41bd554-a738-41d4-9a10-9615a74136ba
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b2e63cce-d077-48ec-9df2-1ed56a91baa4
-  priority: 0
-  slug: mizuno-png-logo-0
+  extension: png
+  id: 1807305
+  priority: 100
+  slug: mizuno-logo
   type: logo
-offerId: 1f8002e2-f057-4f51-abb3-69f564504229
+offerId: a84a782c-a394-498c-abd9-0f1f8f23e8aa
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 120
 slug: mizuno-mxr-tech-sneaker-heren
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Mizuno MXR TECH Sneaker  | Heren

@@ -1,53 +1,42 @@
-_id: 691c6529aa4ddbfa0a66eedd
+_id: 6a157744283a6dc1347a942a
 appOnly: false
 brand: Criks Design
 brands:
   - id: 4c7735c3-d9e7-52c5-9a21-d0155dad8a6e
     name: Criks Design
 categories:
-  - f2486e8f-a8fb-5218-948e-61efdd1c195c
-classicId: '2832485'
-classicProductId: '679011'
+  - 2858280d-b591-5a96-b225-0020357d4d17
+classicId: '3235073'
+classicProductId: '657447'
 deliveryPrice:
-  cents: 895
+  cents: 1995
   currency: EUR
-  value: 8.95
-directCheckout: true
-discount: 51
-end: '2026-05-26T21:59:59.999Z'
+  value: 19.95
+directCheckout: false
+discount: 54
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: a6cb578b-9cb5-5cc3-8b5d-f538513bff84
+id: 7d8981b7-d0ba-4660-9202-6dcc0874115c
 image:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: e2bd1744-e04f-43ae-8fc9-a0bc92bf5271
-  priority: 0
-  slug: criks-design-01-png-product-1
-  type: product
-logo:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 1919117
-  priority: 100
-  slug: criks-design-logo
-  type: logo
-offerId: 5cc3de24-e861-542b-a757-32169c376a51
+  id: 2091235
+  priority: 0
+  slug: 2x-monza-bjorn-esszimmerstuhl
+  type: product
+offerId: 9f2afb38-0102-4ce5-9593-4a0ccae35168
 price:
-  cents: 21900
+  cents: 20400
   currency: EUR
-  value: 219
+  value: 204
 referencePrice:
   cents: 44800
   currency: EUR
   value: 448
 slug: 2x-draaibare-eetkamerstoel-monza
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: 2x Draaibare Eetkamerstoel Monza

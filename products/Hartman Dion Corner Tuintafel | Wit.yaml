@@ -1,22 +1,22 @@
-_id: 69de82f8f4aadb52e330e009
+_id: 6a15758b96b8bf7d53f4ade7
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - e6f213ba-0572-5fd7-bc05-5a75b6f593d4
-classicId: '3162801'
+  - a936f176-2b3c-52c1-872a-de7cfe8794ee
+classicId: '3233735'
 classicProductId: '706028'
 deliveryPrice:
   cents: 1995
   currency: EUR
   value: 19.95
 directCheckout: true
-discount: 43
-end: '2026-05-26T21:59:59.000Z'
+discount: 47
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: a88fa5d3-6357-53a8-b28e-bede36b8b0d9
+id: 17d47efe-7575-407b-835c-d322fb446ad9
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: dion-ceramic-ld-table-88x88x40-product-6
   type: product
-offerId: 8b1604bd-ffc0-5065-bfb7-eced616cf5f6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
+  type: logo
+offerId: d7301415-0ef5-4515-8c1d-942b88b026d1
 price:
-  cents: 16900
+  cents: 15900
   currency: EUR
-  value: 169
+  value: 159
 referencePrice:
   cents: 29900
   currency: EUR
   value: 299
 slug: hartman-dion-corner-tuintafel-wit
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Hartman Dion Corner Tuintafel | Wit

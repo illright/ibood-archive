@@ -1,12 +1,12 @@
-_id: 6a045c1b1233481a64f3d0e3
+_id: 6a158fdb65bdec58499a7d71
 appOnly: false
 brand: Abercrombie & Fitch
 brands:
   - id: 954fd157-5c62-54e0-9f97-c44c6181b6b9
     name: Abercrombie & Fitch
 categories:
-  - e144ade8-c3ee-535d-a9b2-7f9afb3315c3
-classicId: '3209824'
+  - eaa0c1be-7c30-5016-959a-8a99d598144b
+classicId: '3238759'
 classicProductId: '710032'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 0e291bb1-8123-573c-9640-0f2ab6d22a3f
+id: ecffc14c-f4b0-4991-b608-48ec223daec9
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2e89309f-32b9-4d0c-8a26-297b0a5e59c4
-  priority: 0
-  slug: abercrombie-fitch-logo-png-logo-0
+  extension: png
+  id: 2008185
+  priority: 100
+  slug: abercrombie-fitch-logo
   type: logo
-offerId: 04df7bc8-6e2b-50e7-9f43-a42f692895cc
+offerId: c33a422e-2f1b-40cf-949e-84900f6415b0
 price:
   cents: 3995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 80.5
 slug: a-f-authentic-self-edt-100-ml
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Abercrombie & Fitch Authentic Self Eau de Toilette | 100 ml | Heren

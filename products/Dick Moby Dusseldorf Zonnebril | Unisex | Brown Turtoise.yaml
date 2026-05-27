@@ -1,12 +1,12 @@
-_id: 6a0c2be713360ca95c50bcce
+_id: 6a158953b26355346b4fd0b8
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - 3a9fab58-34d2-5594-96f7-8bead38784d0
-classicId: '3220830'
+  - 150958d4-7c3c-5283-814c-503e7bbd7a1e
+classicId: '3235744'
 classicProductId: '682604'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: d6331b9b-1cbd-438e-a5a7-404db50f142d
+id: d83b2ab2-10df-47af-9ad4-beefc0effdfd
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b6d35c48-7c37-41bd-8c72-f43e5c06713f
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: e198c272-c358-4cfa-9277-c8504395f0a8
+offerId: 1f3f7bda-df7d-4cf2-bd0d-f365622dc11a
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 210
 slug: dick-moby-dusseldorf-zonnebril-unisex-brown-turtoise
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Dick Moby Dusseldorf Zonnebril | Unisex | Brown Turtoise

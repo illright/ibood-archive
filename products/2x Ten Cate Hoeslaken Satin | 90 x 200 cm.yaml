@@ -1,22 +1,22 @@
-_id: 6a0c6b7f5e5f55e433007de0
+_id: 6a1575f43f655cfc30207d16
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 69f21b46-8642-5403-b21f-fecf2e686968
-classicId: '3223256'
+  - 045766a8-4e68-56cd-baa8-d0d54e6691da
+classicId: '3234147'
 classicProductId: '512224'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-05-26T21:59:59.999Z'
+discount: 57
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 42d87377-1dda-4cb0-a47f-63bcbf9afde9
+id: 4feb5b3f-1edc-4c85-9267-48d2085c530d
 image:
   channels:
     - website
@@ -27,16 +27,27 @@ image:
   priority: 0
   slug: 2x-hoeslaken-satin-90-x-200
   type: product
-offerId: 04a0927d-3f45-4afc-bfd5-b11559ce0378
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c66f8898-9d31-4121-be82-336ef38cfef3
+  priority: 0
+  slug: ten-cate-by-twentse-damast-logo-0
+  type: logo
+offerId: 7dbef16c-ffa3-4f45-b216-730d06ccc9d6
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 6990
   currency: EUR
   value: 69.9
 slug: 2x-hoeslaken-satin-90-x-200
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: 2x Ten Cate Hoeslaken Satin | 90 x 200 cm

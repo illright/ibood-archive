@@ -1,12 +1,12 @@
-_id: 6a0af05857a462761dbf2b0b
+_id: 6a15738165bdec58499a7ba8
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - ebd92a9b-3f04-5e4a-a675-687fae9b721a
-classicId: '3216835'
+  - 81fe234f-f9bd-57f1-aa7c-0ac80c931edc
+classicId: '3233329'
 classicProductId: '693491'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: dd09c2e3-89f0-4342-a3a8-a378f0117776
+id: 42001a22-ca78-40f7-a80a-e0dddacc2cc5
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 359af0f1-4c81-4508-9601-de69ff40dc9a-tr
+  id: c447cb3a-1022-4c0d-9b3f-5880a4fafc6b-tr
   priority: 0
-  slug: xl-black-out-2550146-19010-fwc-cruz-snow-pants-men-oneill-product-7
+  slug: xl-black-out-2550146-19010-fwc-cruz-snow-pants-men-oneill-product-0
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1530111
-  priority: 100
-  slug: oneill-logo
+    - all
+  extension: image/png
+  id: 5878037c-c666-401e-bac4-1e6137d03f0b
+  priority: 0
+  slug: oneill-png-logo-0
   type: logo
-offerId: 8cbca9c1-c5c6-4c10-82be-73eb698724c1
+offerId: 748d8c78-bb24-4306-a1de-ae6c5f297794
 price:
   cents: 5000
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 139.99
 slug: o-neill-fwc-cruz-wintersportbroek-heren
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: O'Neill FWC'Cruz Wintersportbroek | Heren

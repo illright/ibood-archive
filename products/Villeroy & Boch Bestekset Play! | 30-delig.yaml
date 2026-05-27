@@ -1,12 +1,12 @@
-_id: 6a0c27c6cbe1e458c38b4cb2
+_id: 6a158a93e407d96446b151a4
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - eba0c25c-7e4f-58c0-97cc-5eb1dab15764
-classicId: '3220477'
+  - 05f23ff9-e7de-5d2f-a491-b8a1587e66cc
+classicId: '3236357'
 classicProductId: '111803'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,16 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 27878dca-2e79-4b1d-951a-5ee5a619c533
+id: 31814ebb-b02e-436e-a039-af8411ec7258
 image:
   channels:
     - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 538c6d9a-7590-4d29-9a9a-29ec424a7683-tr
-  priority: 0
-  slug: villeroy-boch-besteckset-play-30-teilig-jpg-product-7
+  extension: jpg
+  id: 210959
+  priority: 1
+  slug: villeroy-boch-bestekset-30-delig
   type: product
 logo:
   channels:
@@ -38,7 +35,7 @@ logo:
   priority: 100
   slug: villeroy-boch-logo
   type: logo
-offerId: c297af73-fd75-4b38-862e-cd162b140cd9
+offerId: dc18ffb4-bea1-4f06-90cf-baac03a54d84
 price:
   cents: 9995
   currency: EUR
@@ -49,5 +46,5 @@ referencePrice:
   value: 259
 slug: villeroy-boch-bestekset-30-delig
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Villeroy & Boch Bestekset Play! | 30-delig

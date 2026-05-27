@@ -1,22 +1,22 @@
-_id: 6a0c2c6abdea3f465fdf11c9
+_id: 6a162b6629fa72017a84c528
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - ab73328e-6fad-5acd-a801-0d3f1fd2372e
-classicId: '3221038'
-classicProductId: '680112'
+  - 6aa888fa-9343-55ba-911b-db91d6ba72a8
+classicId: '3240004'
+classicProductId: '680113'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: a97f4b44-de8f-4f29-bc53-3a12fd272f56
+id: eb861e4b-ade7-48a2-90e2-e126235ffb09
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: cc9cf07b-2c2e-44d3-99dd-83498991a556
+offerId: ca91da5d-20f4-459e-92d4-66e8610c7513
 price:
   cents: 1995
   currency: EUR
@@ -50,8 +50,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: jack-jones-fred-chino-shorts-beige
-soldOut: true
-start: '2026-05-19T22:00:00.000Z'
-title: Jack & Jones Fred Chino Shorts | Beige
-'2026-05-17T22:00:00.000Z'
+soldOut: false
+start: '2026-05-26T22:00:00.000Z'
 title: Jack & Jones Fred Chino Shorts | Beige

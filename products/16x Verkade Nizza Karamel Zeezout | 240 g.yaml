@@ -1,12 +1,12 @@
-_id: 6a0c1f6058705d4604b8d499
+_id: 6a158fa24850354ce751ab9e
 appOnly: false
 brand: Verkade
 brands:
   - id: 2ce19470-3632-572a-9b47-dc298c0f4cc8
     name: Verkade
 categories:
-  - f8d9e467-8371-55fa-9b44-0c941afc850e
-classicId: '3219481'
+  - 59008c82-d55a-5b86-9237-57e978a5d2b2
+classicId: '3238494'
 classicProductId: '670209'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: b9247c3e-98bd-4563-8313-6812d51b6fcb
+id: 99b6b076-848b-4891-8b4e-0f92563438a0
 image:
   channels:
     - newsletter
     - all
-    - website
     - app
+    - website
   extension: image/png
-  id: 99c59b4b-cc21-4e6a-a516-371e3783f253
+  id: 34b76449-e837-4050-af07-459e95720565
   priority: 0
-  slug: sticker-01-png-product-1
+  slug: bulk-05-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: verkade-logo-0
   type: logo
-offerId: 3a3b2b84-c505-4a84-93c7-b782305ec167
+offerId: 4c4ef55d-cb83-4992-ab6a-e641368b6dcc
 price:
   cents: 1495
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 54.24
 slug: 16x-verkade-nizza-karamel-zeezout-240-g
-soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+soldOut: true
+start: '2026-05-26T22:00:00.000Z'
 title: 16x Verkade Nizza Karamel Zeezout | 240 g

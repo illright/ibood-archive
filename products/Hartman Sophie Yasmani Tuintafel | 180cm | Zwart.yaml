@@ -1,22 +1,22 @@
-_id: 69de82f5f4aadb52e330e001
+_id: 6a15758a5f0d1d682c6ac60f
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 1d1c36be-ab93-500a-9904-602bfd14a0b6
-classicId: '3162795'
+  - a936f176-2b3c-52c1-872a-de7cfe8794ee
+classicId: '3233731'
 classicProductId: '706023'
 deliveryPrice:
   cents: 2995
   currency: EUR
   value: 29.95
 directCheckout: true
-discount: 50
-end: '2026-05-26T21:59:59.999Z'
+discount: 58
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: c2713c92-3429-5144-9093-ea37001f458c
+id: f48f673b-be0d-4ccb-9757-d0ad1c3e3608
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: sophie-yasmani-table-180x95-zwarte-poten-product-5
   type: product
-offerId: d70dace6-45f7-55b2-a9f1-6deaa43db77d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
+  type: logo
+offerId: 20d528b3-b651-45cc-9c5f-bef948013461
 price:
-  cents: 64900
+  cents: 54900
   currency: EUR
-  value: 649
+  value: 549
 referencePrice:
   cents: 129900
   currency: EUR
   value: 1299
 slug: hartman-sophie-yasmani-tuintafel-180cm-zwart
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Hartman Sophie Yasmani Tuintafel | 180cm | Zwart

@@ -1,22 +1,22 @@
-_id: 6a0d62bb61358d15f979b378
+_id: 6a1589bc96b8bf7d53f4aeca
 appOnly: false
 brand: Saucony
 brands:
   - id: 33b2f2e4-ad97-59ac-b5c4-ff72b943bed0
     name: Saucony
 categories:
-  - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
-classicId: '3223726'
-classicProductId: '695367'
+  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
+classicId: '3235973'
+classicProductId: '695363'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 25
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 88b4ddce-49ac-4a60-a96b-14878a23555e
+id: f7af7889-ef76-4cdc-947f-0212bee07684
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: main1-png-product-1
   type: product
-offerId: 3f67b056-5aae-4b09-b7a0-5dcdf982e2ea
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f94c3acf-818d-4b16-9bb5-088d250ef6ed
+  priority: 101
+  slug: saucony-logo-101
+  type: logo
+offerId: 3f1c0db9-de73-4b50-8d51-175d4053c44b
 price:
   cents: 11995
   currency: EUR
@@ -38,13 +49,6 @@ referencePrice:
   currency: EUR
   value: 160
 slug: saucony-progrid-omni-9-tmy-sneakers-unisex
-soldOut: true
-start: '2026-05-17T22:00:00.000Z'
-title: Saucony ProGrid Omni 9 TMY Sneakers | Unisex
-ents: 16000
-  currency: EUR
-  value: 160
-slug: saucony-progrid-omni-9-tmy-sneakers-unisex
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Saucony ProGrid Omni 9 TMY Sneakers | Unisex

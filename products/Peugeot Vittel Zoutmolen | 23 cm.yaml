@@ -1,12 +1,12 @@
-_id: 6a0c2647173277dcab934801
+_id: 6a158b19a80a9f8d5f70d98f
 appOnly: false
 brand: Peugeot
 brands:
   - id: 6d41a9d0-9815-5453-a6fc-b4079687bcb0
     name: Peugeot
 categories:
-  - eba0c25c-7e4f-58c0-97cc-5eb1dab15764
-classicId: '3219715'
+  - 05f23ff9-e7de-5d2f-a491-b8a1587e66cc
+classicId: '3236948'
 classicProductId: '709040'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: fe6397a3-a04e-47bb-a82d-5cb827670c46
+id: fdd799b1-6369-4825-a4bc-a95baabccd7d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 18252-peugeot-vittel-moulin-a-sel-acryl-23-cm-product-0
   type: product
-offerId: 8fd43742-4e72-4a88-8dc9-65da1dea35d4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: bba9da10-c317-491f-8adb-a67057c80294
+  priority: 0
+  slug: peugeot-logo-0
+  type: logo
+offerId: 0cfd9a05-1dfd-4398-8266-18dc478bbe88
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 53.9
 slug: peugeot-vittel-zoutmolen-23-cm
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Peugeot Vittel Zoutmolen | 23 cm

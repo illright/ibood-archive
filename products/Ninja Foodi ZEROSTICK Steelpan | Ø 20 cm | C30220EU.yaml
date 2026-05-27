@@ -1,12 +1,12 @@
-_id: 6a0c26b4cbe1e458c38b4b9a
+_id: 6a15a853b6fba0fd06863fc6
 appOnly: false
 brand: Ninja
 brands:
   - id: 1a89dcb0-b45a-5248-87c6-e8c906d71203
     name: Ninja
 categories:
-  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
-classicId: '3219880'
+  - c9c20b17-9174-5fc4-8660-453bd27f92ee
+classicId: '3239847'
 classicProductId: '707901'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 411868c9-dcd7-42e5-8121-9b296ff7d6fe
+id: 80b97d8e-a491-4432-b15d-c63a42098eb7
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 61k1-jpzrzl-ac-sx679-jpg-product-1
   type: product
-offerId: c35858b5-1bbb-48f9-b0cc-f5a161c3f095
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77bce145-c425-485b-bf0e-1f4e6d280804
+  priority: 0
+  slug: ninja-logo-0
+  type: logo
+offerId: 3f536b8a-1d2a-41e5-8c95-975bc5c6a655
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.99
 slug: ninja-foodi-zerostick-steelpan-20-cm-c30220eu
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Ninja Foodi ZEROSTICK Steelpan | Ø 20 cm | C30220EU

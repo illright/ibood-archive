@@ -1,0 +1,53 @@
+_id: 6a15901a76d53933753c8ff9
+appOnly: false
+brand: Kellogg's
+brands:
+  - id: a5a18fd7-6b52-55c8-a86a-d513a5aa18c5
+    name: Kellogg's
+categories:
+  - 59008c82-d55a-5b86-9237-57e978a5d2b2
+classicId: '3239059'
+classicProductId: '420397'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 55
+end: '2026-05-29T21:59:59.999Z'
+freeDelivery: false
+id: 441f5b18-75fc-4ae5-a545-a2b0cfae8379
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2885d9f3-75ed-4e15-91f1-0238ac02d0cf
+  priority: 0
+  slug: graan-01-png-product-2
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1563479
+  priority: 100
+  slug: kellogg-s-logo
+  type: logo
+offerId: 15d690b1-734b-46cd-b278-6a7bd92a3f46
+price:
+  cents: 2195
+  currency: EUR
+  value: 21.95
+referencePrice:
+  cents: 4886
+  currency: EUR
+  value: 48.86
+slug: 84x-kelloggs-frosties-reep-25-g
+soldOut: false
+start: '2026-05-26T22:00:00.000Z'
+title: 84x Kellogg's Frosties Reep | 25 g

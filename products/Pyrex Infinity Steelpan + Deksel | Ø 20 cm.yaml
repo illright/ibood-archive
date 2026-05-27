@@ -1,22 +1,22 @@
-_id: 69f20ae95a3fdec46f79139e
+_id: 6a158abda4e6c87023386337
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
-classicId: '3185121'
+  - c9c20b17-9174-5fc4-8660-453bd27f92ee
+classicId: '3236540'
 classicProductId: '708701'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 36
-end: '2026-05-26T21:59:59.999Z'
+discount: 45
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 808d8cf8-4b14-5ce4-a770-b050252a13d6
+id: 3502e882-17e4-43e8-8826-66c8804c56a8
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: sr20apx-8044-infinity-steelpan-o20cm-2-5l-product-0
   type: product
-offerId: f0479ee4-130d-5be2-8929-dcc86a91fc34
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 752a9045-7a03-43bb-b0c5-d6365973ed06
+  priority: 0
+  slug: pyrex-logo-0
+  type: logo
+offerId: 9da529e9-a8a3-4675-8195-6a6940d2803f
 price:
-  cents: 2895
+  cents: 2495
   currency: EUR
-  value: 28.95
+  value: 24.95
 referencePrice:
   cents: 4550
   currency: EUR
   value: 45.5
 slug: pyrex-infinity-steelpan-deksel-20-cm
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Pyrex Infinity Steelpan + Deksel | Ø 20 cm

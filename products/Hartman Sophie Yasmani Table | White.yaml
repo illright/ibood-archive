@@ -1,22 +1,22 @@
-_id: 69de82f4988ac162203432d3
+_id: 6a157577a81e70702f8c6be3
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 1d1c36be-ab93-500a-9904-602bfd14a0b6
-classicId: '3162791'
+  - a936f176-2b3c-52c1-872a-de7cfe8794ee
+classicId: '3233681'
 classicProductId: '706022'
 deliveryPrice:
   cents: 5995
   currency: EUR
   value: 59.95
 directCheckout: true
-discount: 63
-end: '2026-05-26T21:59:59.999Z'
+discount: 68
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 4482fc13-b029-5894-bb34-20f6a90cee19
+id: dd5d2ace-be91-4250-a796-b22f45b47f6e
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: sophie-yasmani-table-300x100cm-product-2
   type: product
-offerId: bfed94fa-3634-5aa6-8d64-0ffabb328b3c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
+  type: logo
+offerId: c9e14728-a287-4b6d-ba29-2c9004f6d013
 price:
-  cents: 69900
+  cents: 59900
   currency: EUR
-  value: 699
+  value: 599
 referencePrice:
   cents: 189900
   currency: EUR
   value: 1899
 slug: hartman-sophie-yasmani-table-white
-soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+soldOut: true
+start: '2026-05-26T22:00:00.000Z'
 title: Hartman Sophie Yasmani Table | White

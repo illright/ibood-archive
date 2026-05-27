@@ -1,32 +1,31 @@
-_id: 6a0feb553660076dd5bdcdbb
+_id: 6a0ff74baa937ee3e60f142a
 appOnly: false
 brand: VirtuFit
 brands:
   - id: ec5b8d91-051a-5ffc-a578-2eee4cae9488
     name: VirtuFit
 categories:
-  - 414a1405-5618-5012-a89d-98eda17fff36
-classicId: '3228230'
+  - 7081865e-feae-5307-ae6d-ca380c818006
+classicId: '3228327'
 classicProductId: '555960'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 48
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 5bfec85e-9d74-5e19-a96b-ee3a2588c4e4
+id: 6086212e-5909-53b6-8618-074861f04f5d
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a69b075b-7506-4815-87be-35fd4b7540dd
-  priority: 0
-  slug: zwembad-png-product-1
+  extension: jpg
+  id: 1873127
+  priority: 100
+  slug: virtufit-rechthoekig-zwembad-260-x-180-cm
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 0
   slug: virtufit-logo
   type: logo
-offerId: aaa261d4-0896-5a40-b36f-41f4904f440b
+offerId: 200a68c5-c3ac-5280-88d2-b5e6b1a438f0
 price:
   cents: 11995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 229
 slug: virtufit-rechthoekig-zwembad-260-x-180-cm
 soldOut: false
-start: '2026-05-25T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: VirtuFit Rechthoekig Zwembad met Filterpomp | 260 x 180 cm

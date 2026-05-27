@@ -1,12 +1,12 @@
-_id: 69e0a16ce99497a9527ac8e4
+_id: 6a158c5e5769ae647fa8bcfa
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - e2b5d17e-5261-597b-89d2-b5f0b9be8aed
-classicId: '3165232'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3237375'
 classicProductId: '706520'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: d5a07cb9-4c5d-56ef-8551-de46d88ff171
+id: 6abfa82b-97ac-4c50-b942-570c5763af98
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 2xl-black-02a-m2014195a-polar-fleece-full-zip-superdry-product-0
   type: product
-offerId: 621c3cd0-082d-5da6-a5e6-694f410db753
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 5084f6f6-c04d-4bb3-894a-913ba37b6ed7
 price:
   cents: 3495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 79.99
 slug: superdry-polar-fleece-vest-full-zip-relaxed-fit
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Superdry Polar Fleece Vest | Full Zip | Relaxed Fit

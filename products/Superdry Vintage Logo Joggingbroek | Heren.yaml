@@ -1,22 +1,22 @@
-_id: 69e0a275f4aadb52e3318809
+_id: 6a158c82e9646671066023be
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - e2b5d17e-5261-597b-89d2-b5f0b9be8aed
-classicId: '3165262'
-classicProductId: '706606'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3237388'
+classicProductId: '706607'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 3b6ce510-73df-590d-894a-f33121a8a5c1
+id: 60e6ee23-49e4-46b2-bd73-7714d735abd7
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd012-png-product-1
   type: product
-offerId: 799c530f-943d-54f6-87eb-b91eb419604b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: b5a3e252-9d52-4902-83cd-c186d9cb9a90
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.99
 slug: superdry-vintage-logo-emb-jogger
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Superdry Vintage Logo Joggingbroek | Heren

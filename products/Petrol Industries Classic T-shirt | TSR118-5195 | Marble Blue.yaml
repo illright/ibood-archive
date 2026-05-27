@@ -1,12 +1,12 @@
-_id: 6a0ae8304d5c4f83f97467ac
+_id: 6a158b7144f9a1828222bba6
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ea6d19df-0f2b-5051-829c-a85beed854d7
-classicId: '3213396'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3237112'
 classicProductId: '702306'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: ad390d65-30d9-4299-9fa6-e03ed4a73d59
+id: 1078bfaa-1230-46c6-ab29-5da8d8656924
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 797f77fb-8cb1-40e8-96a8-351c16ee6f9b
+  priority: 0
+  slug: petrol-logo-png-logo-0
   type: logo
-offerId: 5ec72e4e-cdc1-4938-b8b5-1b6a681dbdc0
+offerId: f3430a42-6a31-4b45-bff0-b1f854eb70e4
 price:
   cents: 995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 19.99
 slug: petrol-industries-classic-t-shirt-tsr118-5195-marble-blue
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Petrol Industries Classic T-shirt | TSR118-5195 | Marble Blue

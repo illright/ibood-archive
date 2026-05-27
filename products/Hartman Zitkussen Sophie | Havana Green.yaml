@@ -1,22 +1,22 @@
-_id: 69de82f2988ac162203432ce
+_id: 6a15760396d305194670ad65
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - e6f213ba-0572-5fd7-bc05-5a75b6f593d4
-classicId: '3162787'
+  - a936f176-2b3c-52c1-872a-de7cfe8794ee
+classicId: '3234243'
 classicProductId: '706019'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 65
-end: '2026-05-26T21:59:59.000Z'
+discount: 50
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 996d0f18-ac3b-56f9-ad3a-a4661caab197
+id: bf3090c2-af72-4711-80f6-9b3116b7ec31
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: hartman-kussen-havana-green-40x40x1-product-0
   type: product
-offerId: 9fad2672-46a0-5873-8acd-79dd903ac416
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
+  type: logo
+offerId: 2866937a-755e-41c2-b382-4b5a31beeea6
 price:
-  cents: 695
+  cents: 995
   currency: EUR
-  value: 6.95
+  value: 9.95
 referencePrice:
   cents: 1995
   currency: EUR
   value: 19.95
 slug: hartman-zitkussen-sophie-havana-green
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Hartman Zitkussen Sophie | Havana Green

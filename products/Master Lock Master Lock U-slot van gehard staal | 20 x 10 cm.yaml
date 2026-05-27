@@ -1,12 +1,12 @@
-_id: 6a0d635657a462761dbf4c67
+_id: 6a156e19e9c734129473f852
 appOnly: false
 brand: Master Lock
 brands:
   - id: d48926db-eacd-5899-be5f-8c030a264646
     name: Master Lock
 categories:
-  - c2ffdaf8-16cd-5c11-8fec-198ca66791bd
-classicId: '3223748'
+  - 6c986d43-a278-504e-8b49-235f94ac14a8
+classicId: '3232041'
 classicProductId: '707875'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 8856be2f-5480-43d9-93f4-8afaba6a353e
+id: 1a293f3c-965f-4cc8-b602-098dfaaf58c4
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: masterlock-u-slot-200x100mm-gehard-staal-zwart-product-0
   type: product
-offerId: 18a0d08c-3820-4353-b5fa-bad8f013289c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530476
+  priority: 100
+  slug: master-lock-logo
+  type: logo
+offerId: 7af5cb1b-91ea-4a4d-b932-e704f9c416f7
 price:
   cents: 1495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 23.9
 slug: master-lock-u-schloss-200x100mm
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Master Lock Master Lock U-slot van gehard staal | 20 x 10 cm

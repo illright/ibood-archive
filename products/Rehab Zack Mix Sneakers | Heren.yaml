@@ -1,12 +1,12 @@
-_id: 6a0ae76057a462761dbf1f18
+_id: 6a1589d73f655cfc30207dda
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
-classicId: '3213001'
+  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
+classicId: '3235991'
 classicProductId: '698001'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 39
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: ceefbd02-e98c-423a-bcab-40d87bdee7e8
+id: fe2518fe-9338-4412-afdc-a87bbccc2bdb
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 12-png-product-2
   type: product
-offerId: 86fcb2d9-06b3-44ab-8093-2f97339383f1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: e9e44e1f-5093-4c1d-9df1-905e9c936d52
 price:
   cents: 10995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 179.95
 slug: rehab-zack-mix-white-khaki
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Rehab Zack Mix Sneakers | Heren

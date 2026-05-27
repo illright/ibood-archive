@@ -1,12 +1,12 @@
-_id: 6a0c26c4173277dcab934899
+_id: 6a15a851b6fba0fd06863fc5
 appOnly: false
 brand: Ninja
 brands:
   - id: 1a89dcb0-b45a-5248-87c6-e8c906d71203
     name: Ninja
 categories:
-  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
-classicId: '3219918'
+  - c9c20b17-9174-5fc4-8660-453bd27f92ee
+classicId: '3239844'
 classicProductId: '707916'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 59ed0e7f-1930-424a-9782-5968b8c68762
+id: bcf2b232-28fe-48a0-a963-b1da78531b47
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ninja-c90216de-everclad-suppentopf-edelstahl-16-cm-1028869-product-0
   type: product
-offerId: 5beaaf3a-0120-4b0b-9d66-339b2f94e721
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 77bce145-c425-485b-bf0e-1f4e6d280804
+  priority: 0
+  slug: ninja-logo-0
+  type: logo
+offerId: 90afd247-5a2d-4c9f-9ede-81e6c079b863
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 79.99
 slug: ninja-everclad-rvs-kookpan-16-cm-c90216de
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Ninja EverClad RVS Kookpan | 16 cm | C90216DE

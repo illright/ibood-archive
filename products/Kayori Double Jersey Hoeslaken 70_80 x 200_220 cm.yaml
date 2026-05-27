@@ -1,30 +1,31 @@
-_id: 6a0c6b4cd8ef5a3537fe17a3
+_id: 6a157637b8add18f45cea0c6
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 69f21b46-8642-5403-b21f-fecf2e686968
-classicId: '3223191'
-classicProductId: '525891'
+  - 045766a8-4e68-56cd-baa8-d0d54e6691da
+classicId: '3234510'
+classicProductId: '471654'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 53
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 0dab3315-b663-49c8-af19-1cd275c56f38
+id: 186dc31d-e1c2-4d31-b94a-c95516475ffb
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 1497691
+    - app
+    - newsletter
+  extension: png
+  id: 1499715
   priority: 0
-  slug: kayori-spannbettlaken-7080-x-200220-cm
+  slug: kayori-double-jersey-hoeslaken-7080-x-200220-cm
   type: product
 logo:
   channels:
@@ -32,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1712377
+  id: 1636352
   priority: 100
-  slug: kayori-logo
+  slug: kayori-double-jersey-hoeslaken-7080-x-200220-cm
   type: logo
-offerId: 62de6439-4cb2-4c14-a21b-188df6f63d21
+offerId: 608d642f-2285-4f56-821d-37b4a40f16da
 price:
   cents: 1795
   currency: EUR
@@ -47,6 +48,5 @@ referencePrice:
   value: 37.95
 slug: kayori-double-jersey-hoeslaken-7080-x-200220-cm
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Kayori Double Jersey Hoeslaken 70/80 x 200/220 cm
-/80 x 200/220 cm

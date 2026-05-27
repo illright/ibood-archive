@@ -1,32 +1,32 @@
-_id: 6a0c6b2df075b108e3145656
+_id: 6a15771eb4d91d76eaae364b
 appOnly: false
 brand: Criks Design
 brands:
   - id: 4c7735c3-d9e7-52c5-9a21-d0155dad8a6e
     name: Criks Design
 categories:
-  - f8c0f814-6154-5ac2-baab-322b01c3187c
-classicId: '3223091'
-classicProductId: '685105'
+  - 2858280d-b591-5a96-b225-0020357d4d17
+classicId: '3235013'
+classicProductId: '679020'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 54
-end: '2026-05-26T21:59:59.999Z'
+directCheckout: true
+discount: 49
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: b44137f8-8ee7-4b50-8341-8c21e64838b4
+id: cd82ac33-6722-4f02-9661-cf7a37d42fd2
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 4092c819-4fe4-4d7e-b7aa-ae2a123676ad
+  id: 965261c7-8ee0-40ed-b51c-bf42c85f76a9-tr
   priority: 0
-  slug: criks-06-png-product-1
+  slug: 2x-criks-design-barstoel-charly-product-3
   type: product
 logo:
   channels:
@@ -34,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1960667
+  id: 1919117
   priority: 100
-  slug: 2x-criks-esszimmerstuhl-charly
+  slug: criks-design-logo
   type: logo
-offerId: 09f9644e-6a23-4357-93f2-f553695e46e9
+offerId: 54d05ec1-e12f-4c1d-8b37-e2f61fff27c6
 price:
-  cents: 15900
+  cents: 17900
   currency: EUR
-  value: 159
+  value: 179
 referencePrice:
   cents: 34900
   currency: EUR
   value: 349
 slug: 2x-criks-design-barstoel-charly
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: 2x Criks Design Barstoel Charly

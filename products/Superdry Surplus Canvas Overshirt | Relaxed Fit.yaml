@@ -1,12 +1,12 @@
-_id: 69e0a17ce99497a9527ac8ee
+_id: 6a158b74e9c734129473fa47
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - e2b5d17e-5261-597b-89d2-b5f0b9be8aed
-classicId: '3165242'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3237123'
 classicProductId: '706559'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: f04aab42-b32b-5849-8eec-6378c4c96633
+id: 07be4176-0623-401d-9c23-3e760c509975
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd025-png-product-1
   type: product
-offerId: 958a9541-b5b3-59d3-a5aa-72eeadec6071
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 95b7491d-44d5-4528-8f77-73f0310811ed
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 99.99
 slug: superdry-surplus-canvas-overshirt-relaxed-fit
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Superdry Surplus Canvas Overshirt | Relaxed Fit

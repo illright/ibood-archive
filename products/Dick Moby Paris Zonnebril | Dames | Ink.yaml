@@ -1,12 +1,12 @@
-_id: 6a0c2c1c173277dcab934b32
+_id: 6a158926b4d91d76eaae3676
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - 3a9fab58-34d2-5594-96f7-8bead38784d0
-classicId: '3220898'
+  - 150958d4-7c3c-5283-814c-503e7bbd7a1e
+classicId: '3235645'
 classicProductId: '682621'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 3dee05c0-c03b-4146-b205-e09bf200cb36
+id: f581174f-b882-4c6c-8dc9-edfaf7fd6a4e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a8902853-b918-4771-b3ef-e7fe717ce663
-  priority: 0
-  slug: dick-moby-zonnebrillen-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: 95408dbb-29af-4e93-9d2e-9c7bd61c37df
+offerId: d319b709-baa2-43ee-9edb-b2b78315f4a4
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 210
 slug: dick-moby-paris-zonnebril-dames-ink
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Dick Moby Paris Zonnebril | Dames | Ink

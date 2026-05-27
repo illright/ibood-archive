@@ -1,12 +1,12 @@
-_id: 6a0ae57257a462761dbf1c3e
+_id: 6a1588dee6c76dbb4cbbd7cc
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - 62a2b2e7-e589-5cc4-9625-0d3b09ced357
-classicId: '3212497'
+  - 150958d4-7c3c-5283-814c-503e7bbd7a1e
+classicId: '3235456'
 classicProductId: '696145'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 5696b82e-7326-4069-8b38-8e68a66e2235
+id: 590756e4-14ee-488e-b603-9a0b0bce8818
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b3118eea-060a-46a0-9ab0-df13e92a57e5
-  priority: 0
-  slug: wrangler-logo-101-png-logo-0
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
   type: logo
-offerId: 1d32b91e-a6ee-41d9-ac7b-280386a6e4f2
+offerId: 88ddbcd6-9ef2-4edb-a0a9-2ed64e1db550
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 34.95
 slug: wrangler-leren-riem-brown
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Wrangler Leren Riem | Black

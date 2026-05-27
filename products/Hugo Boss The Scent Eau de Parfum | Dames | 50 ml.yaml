@@ -1,12 +1,12 @@
-_id: 6a045c2c53a93ce4eaecd5f7
+_id: 6a158fe7e6c76dbb4cbbd8d8
 appOnly: false
 brand: Hugo Boss
 brands:
   - id: ea8978ea-f226-5c2a-bb5f-4458ac381560
     name: Hugo Boss
 categories:
-  - e144ade8-c3ee-535d-a9b2-7f9afb3315c3
-classicId: '3209846'
+  - eaa0c1be-7c30-5016-959a-8a99d598144b
+classicId: '3238825'
 classicProductId: '710037'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 59b886c4-37e5-5d76-885a-085d92d5704a
+id: 71de24f7-1ce8-424c-951e-37a4ddd27abc
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: hugo-boss-the-scent-for-her-le-parfum-spray-50-ml-product-2
   type: product
-offerId: 96189754-6721-5758-847f-b4d1273bb45a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1797875
+  priority: 100
+  slug: hugo-boss-logo
+  type: logo
+offerId: 6b41203b-2502-43af-ae74-ed7e76cc2b8a
 price:
   cents: 4295
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 129
 slug: hugo-boss-the-scent-eau-de-parfum-dames-50-ml
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Hugo Boss The Scent Eau de Parfum | Dames | 50 ml

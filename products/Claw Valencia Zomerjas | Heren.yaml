@@ -1,22 +1,22 @@
-_id: 6a0aef8e57a462761dbf2953
+_id: 6a1572b5e407d96446b1506c
 appOnly: false
 brand: Claw
 brands:
   - id: cbb95331-e606-53ec-bf32-fbdaa4c937b3
     name: Claw
 categories:
-  - 1d222f25-4a19-53d9-bcc9-2a9036c693b1
-classicId: '3216593'
-classicProductId: '693207'
+  - b5707e00-094b-5284-bd0b-20d8a9478a51
+classicId: '3233003'
+classicProductId: '693211'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 381d9c10-8410-4808-a64d-75e55c7f0047
+id: 08509409-4b3d-4e3f-996a-850dc2855bd8
 image:
   channels:
     - app
@@ -41,7 +41,7 @@ logo:
   priority: 0
   slug: claw-logo-0
   type: logo
-offerId: 95491a77-9d3b-40a0-a972-83cbf4c3dc9f
+offerId: 350b48fc-ef69-4b1d-9e12-1a149116844b
 price:
   cents: 6995
   currency: EUR
@@ -51,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 119.95
 slug: claw-valencia-zomerjas-heren
-soldOut: true
-start: '2026-05-19T22:00:00.000Z'
+soldOut: false
+start: '2026-05-26T22:00:00.000Z'
 title: Claw Valencia Zomerjas | Heren

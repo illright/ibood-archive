@@ -1,22 +1,22 @@
-_id: 6a0aeaeb61358d15f979a7fc
+_id: 6a156e86b8add18f45ce9fdd
 appOnly: false
 brand: Hultafors
 brands:
   - id: b4f2e5b2-4d8c-5020-8057-42000db20404
     name: Hultafors
 categories:
-  - c2ffdaf8-16cd-5c11-8fec-198ca66791bd
-classicId: '3215224'
+  - 6c986d43-a278-504e-8b49-235f94ac14a8
+classicId: '3232228'
 classicProductId: '706109'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 54
-end: '2026-05-26T21:59:59.000Z'
+discount: 62
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: ab732bfe-5e68-4f71-851c-40ba9e2bed98
+id: 2ee2e193-a00d-414f-bd74-6dd0d6bfc582
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: hultafors-torx-screwdriver-set-hss-torx-444435-product-0
   type: product
-offerId: 35dcad1d-fddb-4c75-92c1-7a8072f5d75c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1660655
+  priority: 100
+  slug: hultafors-logo
+  type: logo
+offerId: df14c995-1954-44f0-afed-6602335a5d0c
 price:
-  cents: 2995
+  cents: 2495
   currency: EUR
-  value: 29.95
+  value: 24.95
 referencePrice:
   cents: 6534
   currency: EUR
   value: 65.34
 slug: hultafors-hss-torx-schroevendraaierset-6-delig
 soldOut: false
-start: '2026-05-18T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Hultafors HSS Torx Schroevendraaierset | 6-delig

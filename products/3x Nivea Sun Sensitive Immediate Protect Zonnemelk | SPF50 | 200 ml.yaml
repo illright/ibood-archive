@@ -1,12 +1,12 @@
-_id: 6a0d696357a462761dbf4c99
+_id: 6a158f6acc9cd28ce0a3998f
 appOnly: false
 brand: Nivea Sun
 brands:
   - id: a2170227-a9c4-50d7-9452-5dc927159020
     name: Nivea Sun
 categories:
-  - 7c4cc845-e449-51f5-8c44-a89fb44b4046
-classicId: '3223846'
+  - 84ebcd06-82ec-559f-b87b-ffb936c769d1
+classicId: '3238404'
 classicProductId: '699314'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 88f405ce-8eb6-40d6-8b1d-e27785ec2388
+id: 1b5189ca-3bab-4c76-8260-5f557fcd0a76
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1779844
-  priority: 100
-  slug: 3x-ph-spray-spf50-200ml
+    - all
+  extension: image/png
+  id: 0c976cd9-968c-4a49-a9f5-b81051831b33
+  priority: 101
+  slug: nivea-sun-logo-101
   type: logo
-offerId: 6aaea5c8-c393-400b-8a89-e0e4181f04f9
+offerId: 9d448e67-84d4-4506-a496-62a6d4caae2c
 price:
   cents: 2695
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 83.97
 slug: 3x-nivea-sun-spf50-sensitive-zonnemelk
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: 3x Nivea Sun Sensitive Immediate Protect Zonnemelk | SPF50 | 200 ml

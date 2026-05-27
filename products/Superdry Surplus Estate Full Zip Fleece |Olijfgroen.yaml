@@ -1,12 +1,12 @@
-_id: 69e0a0f7e99497a9527ac8d7
+_id: 6a158d2f1b08ecfcb17c02f9
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - e2b5d17e-5261-597b-89d2-b5f0b9be8aed
-classicId: '3165216'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3237554'
 classicProductId: '706474'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 55
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 714a14a8-0814-5b2d-ab9a-ff18c6cbc1bc
+id: af4fd74b-0265-445a-a092-da1c081ce565
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd010-png-product-1
   type: product
-offerId: fac6a4c1-9b45-5146-b9f0-ac53744c25e2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 09d25b0d-b355-420a-96ac-c2c797ed493a
 price:
   cents: 4495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 99.99
 slug: superdry-surplus-estate-full-zip-fleece-olijfgroen
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Superdry Surplus Estate Full Zip Fleece |Olijfgroen

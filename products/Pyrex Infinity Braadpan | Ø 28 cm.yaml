@@ -1,22 +1,22 @@
-_id: 69f20ae72b3ca960b0fe4c40
+_id: 6a15a84ab26355346b4fd1ea
 appOnly: false
 brand: Pyrex
 brands:
   - id: 915e3618-3c43-504f-9956-3206e8b51d5d
     name: Pyrex
 categories:
-  - 6c00abef-2d1b-515c-b7a6-c3212aff9456
-classicId: '3185117'
+  - c9c20b17-9174-5fc4-8660-453bd27f92ee
+classicId: '3239833'
 classicProductId: '708698'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 36
-end: '2026-05-26T21:59:59.999Z'
+discount: 33
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: ac5dc94a-b626-5b7f-a836-d90ec341b2b9
+id: ecc21843-9f6b-44ee-9768-ce74c4237cce
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: sr28bfx-8046-infinity-braadpan-o28cm-product-0
   type: product
-offerId: c8936ad4-afbd-5ca6-9b18-0031340ae55d
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 752a9045-7a03-43bb-b0c5-d6365973ed06
+  priority: 0
+  slug: pyrex-logo-0
+  type: logo
+offerId: 11b5ce0b-abc4-4314-b575-1eea427518bb
 price:
-  cents: 2895
+  cents: 2995
   currency: EUR
-  value: 28.95
+  value: 29.95
 referencePrice:
   cents: 4500
   currency: EUR
   value: 45
 slug: pyrex-infinity-braadpan-28-cm
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Pyrex Infinity Braadpan | Ø 28 cm

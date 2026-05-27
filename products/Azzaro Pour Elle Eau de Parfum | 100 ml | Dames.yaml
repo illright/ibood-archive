@@ -1,12 +1,12 @@
-_id: 6a045c1d24a924b795133513
+_id: 6a1590073370449456416eb9
 appOnly: false
 brand: Azzaro
 brands:
   - id: 9c5f50ef-8727-5626-afc1-5a9f39f5816d
     name: Azzaro
 categories:
-  - e144ade8-c3ee-535d-a9b2-7f9afb3315c3
-classicId: '3209826'
+  - eaa0c1be-7c30-5016-959a-8a99d598144b
+classicId: '3238959'
 classicProductId: '710033'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 9b6f8951-23ba-5e46-a41d-66c54da427f9
+id: fbce71a0-42cb-4efd-bd34-f91f56ff1e12
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: azzaro-pour-elle-edp-spray-100-ml-product-0
   type: product
-offerId: 8989bb3e-a4d0-5d0a-a1fb-91bd024c2a5d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2000436
+  priority: 100
+  slug: azzaro-logo
+  type: logo
+offerId: 180b0cee-6d97-4920-b1fc-2d7d4d52591e
 price:
   cents: 3295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 49
 slug: azzaro-pour-elle-eau-de-parfum-100-ml-dames
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Azzaro Pour Elle Eau de Parfum | 100 ml | Dames

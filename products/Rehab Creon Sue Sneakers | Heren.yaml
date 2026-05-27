@@ -1,12 +1,12 @@
-_id: 6a0ae77f57a462761dbf1f54
+_id: 6a1589ddb4abbaf570ff7161
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
-classicId: '3213046'
+  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
+classicId: '3235995'
 classicProductId: '698033'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 39
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 01e2732c-cd87-4f12-8bc9-e12b2344005b
+id: fa80861c-def2-47dd-815e-5722099c7051
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: f1485d6f-b070-448c-b5eb-ce3e4ba61655
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: 9ec00930-c328-420d-94e6-f67cad63ca5e
 price:
   cents: 10995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 179.95
 slug: rehab-creon-sue-sneakers-heren
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Rehab Creon Sue Sneakers | Heren

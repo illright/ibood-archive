@@ -1,12 +1,12 @@
-_id: 6a031ff67203127dcf2e11b1
+_id: 6a158ad80ff77949c9ae1085
 appOnly: false
 brand: Herzberg
 brands:
   - id: 851eeb96-840c-5a7b-add1-53815d83e7ba
     name: Herzberg
 categories:
-  - b70771c5-427b-5d41-85c2-9b8a4c5d5b6e
-classicId: '3208706'
+  - 683ee18e-96d5-5091-872e-9ba8debc612e
+classicId: '3236700'
 classicProductId: '703002'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 25
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 272a10d0-0278-5c70-8d5b-26de2621de11
+id: 0ba42b75-a22c-4f92-9996-3314a53af6b9
 image:
   channels:
     - app
@@ -28,7 +28,16 @@ image:
   priority: 0
   slug: qwe-png-product-1
   type: product
-offerId: 61d40111-aa62-5393-9ada-4f71a9f771e0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  id: 186293
+  priority: 100
+  slug: herzberg-logo
+  type: logo
+offerId: 76fe606a-cffa-45d0-8d1f-57fc481c540e
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +48,5 @@ referencePrice:
   value: 39.9
 slug: herzberg-kledingkast-xl-hg-8009blu
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Herzberg Kledingkast XL | HG-8009BLU | Blauw

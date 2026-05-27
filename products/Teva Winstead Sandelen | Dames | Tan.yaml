@@ -1,12 +1,12 @@
-_id: 6a0aef8257a462761dbf2941
+_id: 6a15736d5e67ddc2f3b08a60
 appOnly: false
 brand: Teva
 brands:
   - id: 80dbbd54-bcc6-5a5d-9287-4de0be03652f
     name: Teva
 categories:
-  - e9fbbf3d-469c-5074-b3b2-e2992f77da52
-classicId: '3216568'
+  - 7081865e-feae-5307-ae6d-ca380c818006
+classicId: '3233297'
 classicProductId: '702966'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 35
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: b3dd33b6-9968-4d27-9c72-1782b1e3eddf
+id: cc0ca2cb-782a-4a75-9e1d-6b66cf6d4220
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a4587aaa-e79a-4542-8288-c2b58de65c02
-  priority: 0
-  slug: teva-logo-png-logo-0
+  extension: png
+  id: 1790673
+  priority: 100
+  slug: teva-logo
   type: logo
-offerId: ecd7ff5e-3497-4650-b2de-898e402d39d1
+offerId: faf1fc80-b9c1-4064-b5b1-cf9763d4f2f0
 price:
   cents: 4195
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 65
 slug: teva-winstead-sandelen-dames-black
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Teva Winstead Sandelen | Dames | Tan

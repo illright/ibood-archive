@@ -1,12 +1,12 @@
-_id: 6a0c1f3461358d15f979adb4
+_id: 6a15903f8e3c2962583f562f
 appOnly: false
 brand: Solid
 brands:
   - id: f766d6bb-44ff-5732-9aee-a1f4448fef4f
     name: Solid
 categories:
-  - f8d9e467-8371-55fa-9b44-0c941afc850e
-classicId: '3219325'
+  - 2c80c8b0-e1b9-5d33-8577-aec711aefebe
+classicId: '3239200'
 classicProductId: '522320'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 3eb50f4f-b7c7-4830-84dc-b9aa4bffc32a
+id: bca4ad36-2589-4fc2-b96e-3d4408b7e29b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1760950
+    - all
+  extension: image/png
+  id: 8c864d30-5223-4691-aa23-35094c6f98d7
   priority: 0
-  slug: solid-premium-cbd-olie-40-10-ml
+  slug: 40-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 0
   slug: solid-logo-0
   type: logo
-offerId: 212a835e-7853-4911-ba80-a35eb3e5688c
+offerId: 15f2af73-ee85-44ee-a568-4ddb9188921a
 price:
   cents: 3995
   currency: EUR
@@ -47,7 +48,7 @@ referencePrice:
   cents: 13995
   currency: EUR
   value: 139.95
-slug: solid-premium-cbd-olie-40-10-ml
+slug: solid-premium-cbd-olie-40-procent-10-ml
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Solid Premium CBD Olie | 40% | 10 ml

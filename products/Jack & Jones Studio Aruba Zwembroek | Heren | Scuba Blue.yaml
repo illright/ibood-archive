@@ -1,22 +1,22 @@
-_id: 6a0ae92a57a462761dbf22de
+_id: 6a162b9e8c93ce2b1f16459a
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d02372f7-0615-573a-9393-5f725d2825ef
-classicId: '3214000'
-classicProductId: '680080'
+  - 6aa888fa-9343-55ba-911b-db91d6ba72a8
+classicId: '3240054'
+classicProductId: '680083'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 40
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 6240a5a9-a0e0-4fb8-b42e-7ee64d47b619
+id: 6b003600-facd-40c1-be31-d475b6b9aa50
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 0eb35b23-1a3c-440b-9275-89a1e573683f
+offerId: b486ac15-4c99-4136-8e20-25d0cf178a18
 price:
   cents: 1495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 24.99
 slug: jack-jones-studio-aruba-zwembroek-heren
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Jack & Jones Studio Aruba Zwembroek | Heren | Scuba Blue

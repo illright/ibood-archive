@@ -1,12 +1,12 @@
-_id: 6a0c1eed57a462761dbf3912
+_id: 6a159074112fdcdde2fb291d
 appOnly: false
 brand: Protein Works
 brands:
   - id: 9729d8c4-10e7-50ca-b489-73f2a0f67c19
     name: Protein Works
 categories:
-  - f8d9e467-8371-55fa-9b44-0c941afc850e
-classicId: '3219219'
+  - 59008c82-d55a-5b86-9237-57e978a5d2b2
+classicId: '3239397'
 classicProductId: '539396'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 7df46533-685c-4b01-8482-9dab1e3960ab
+id: 5234b646-23ce-4109-bf2e-2c07bed563be
 image:
   channels:
     - app
     - website
-  extension: png
-  id: 1859021
+    - newsletter
+    - all
+  extension: image/png
+  id: e2600b41-d5e3-474b-ad18-27257cbe954c
   priority: 0
-  slug: protein-works-100-protein-25-kg
+  slug: proteinworks-09-png-product-1
   type: product
 logo:
   channels:
@@ -36,7 +38,7 @@ logo:
   priority: 100
   slug: protein-works-logo
   type: logo
-offerId: 74d838a8-ddbd-4d38-8c92-5360ada14487
+offerId: e88e8796-c1a2-44d9-9933-ada5d44b06e7
 price:
   cents: 2995
   currency: EUR
@@ -47,5 +49,5 @@ referencePrice:
   value: 71.99
 slug: protein-works-100-protein-25-kg
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Protein Works 100% Protein | Vanilla Cream | 2,5 kg

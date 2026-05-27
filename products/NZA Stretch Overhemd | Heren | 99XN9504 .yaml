@@ -1,12 +1,12 @@
-_id: 6a0aef5058a19514806292b8
+_id: 6a158d87e407d96446b1520b
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - d462c804-3f3f-5b5a-b59e-070a0492cb34
-classicId: '3216465'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3237659'
 classicProductId: '707667'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 44
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 41d243e1-7968-40fe-ae5b-cbc507cf14a4
+id: 5453b680-2383-4e26-86d4-c8c1c7e47374
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: hemden-nza-png-product-1
   type: product
-offerId: b552082e-576c-4557-86ed-ebec8fa1e36a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
+  type: logo
+offerId: 0cdafe20-2b80-4a64-ab5c-2d8e6f1c3fb9
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 89.99
 slug: nza-stretch-overhemd-heren-99xn9504
 soldOut: false
-start: '2026-05-10T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: 'NZA Stretch Overhemd | Heren | 99XN9504 '

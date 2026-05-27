@@ -1,12 +1,12 @@
-_id: 6a0d6bb961358d15f979b42e
+_id: 6a1590fe94b2e30eab9be020
 appOnly: false
 brand: Garnier
 brands:
   - id: 1e411a40-14f6-5732-843d-2cadb8635994
     name: Garnier
 categories:
-  - 7c4cc845-e449-51f5-8c44-a89fb44b4046
-classicId: '3223882'
+  - 2c80c8b0-e1b9-5d33-8577-aec711aefebe
+classicId: '3239634'
 classicProductId: '704644'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-05-26T21:59:59.000Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 2752816a-a667-4411-a299-7a604c175424
+id: bf751024-c12c-4e82-89fa-2c1a860e3b12
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f5c7f81f-c9a6-40f4-841b-6c77ff9998c9
-  priority: 0
-  slug: garnier-logo-0
+  extension: png
+  id: 2265104
+  priority: 100
+  slug: 3x-garnier24h-protect-lotion-zonnebrandspray-spf30
   type: logo
-offerId: e8e88911-3df8-44d1-854a-b4ddda472012
+offerId: 2bacb589-73cb-46e8-8c76-43e0b240f07c
 price:
   cents: 2695
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 73.47
 slug: 3x-garnier24h-protect-lotion-zonnebrandspray-spf30
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: 3x Garnier Ambre Solair 24H Protect Lotion Zonnebrandspray | SPF30 | 150 ml

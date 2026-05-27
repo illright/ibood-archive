@@ -1,22 +1,22 @@
-_id: 6a0c27c957a462761dbf3e02
+_id: 6a0c505f57a462761dbf4690
 appOnly: false
 brand: VDN
 brands:
   - id: f9fc7e91-151f-53b4-8956-47ed556113c2
     name: VDN
 categories:
-  - eba0c25c-7e4f-58c0-97cc-5eb1dab15764
-classicId: '3220485'
+  - 05f23ff9-e7de-5d2f-a491-b8a1587e66cc
+classicId: '3222184'
 classicProductId: '658280'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 33
-end: '2026-05-26T21:59:59.000Z'
+discount: 22
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 5348516c-e611-40b8-a06a-c58a15a682e8
+id: 47b505d5-3c54-5f6f-8e8c-639f9c6b5e66
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: vdn-logo
   type: logo
-offerId: 1bf3e031-eae7-43e5-b5db-67a7d609fde5
+offerId: 43b8d238-c09e-58bb-88c2-8b1983735070
 price:
-  cents: 2995
+  cents: 3495
   currency: EUR
-  value: 29.95
+  value: 34.95
 referencePrice:
   cents: 4499
   currency: EUR
   value: 44.99
 slug: vdn-slijpsteen-set-ebook
-soldOut: true
-start: '2026-05-19T22:00:00.000Z'
+soldOut: false
+start: '2026-05-26T22:00:00.000Z'
 title: VDN Slijpsteen Set | Houder | Incl. Ebook

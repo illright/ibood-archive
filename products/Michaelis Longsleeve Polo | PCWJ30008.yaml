@@ -1,22 +1,22 @@
-_id: 6a0c2c21bdea3f465fdf1146
+_id: 6a1588e7b4d91d76eaae3662
 appOnly: false
 brand: Michaelis
 brands:
   - id: 2d2a09a5-7d0f-535a-8a8f-db955f1c6162
     name: Michaelis
 categories:
-  - 3db44b13-0456-5b5c-a0c8-2be45ee754e3
-classicId: '3220920'
-classicProductId: '659455'
+  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
+classicId: '3235486'
+classicProductId: '659453'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 72
-end: '2026-05-26T21:59:59.000Z'
+discount: 75
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: b78035cf-a9e5-4ce3-9f50-ba989b9a467f
+id: 4c3d3a4b-d9bb-422f-a258-0de8bd97789b
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a88ba690-ed7d-4a98-a75e-956d8fe424dc
-  priority: 0
-  slug: michaelis-png-logo-0
+  extension: png
+  id: 1685056
+  priority: 100
+  slug: michaelis-logo
   type: logo
-offerId: ff141e8e-9808-40fd-9e24-3b7145430bb1
+offerId: 336adc07-5f46-407c-97d8-b611a3f124fc
 price:
-  cents: 1969
+  cents: 1772
   currency: EUR
-  value: 19.69
+  value: 17.72
 referencePrice:
   cents: 6995
   currency: EUR
   value: 69.95
 slug: michaelis-polo-shirt
 soldOut: false
-start: '2026-05-19T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Michaelis Longsleeve Polo | PCWJ30008

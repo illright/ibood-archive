@@ -1,22 +1,22 @@
-_id: 6a0ae5fa61358d15f979a539
+_id: 6a162b84c2e90de2ab55869a
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d02372f7-0615-573a-9393-5f725d2825ef
-classicId: '3212601'
-classicProductId: '670534'
+  - 6aa888fa-9343-55ba-911b-db91d6ba72a8
+classicId: '3240033'
+classicProductId: '670540'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 76
-end: '2026-05-26T21:59:59.999Z'
+directCheckout: true
+discount: 68
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 9c4a02e6-0401-4e3b-87b0-d0b062246259
+id: 1fa5ae5f-50c2-4b16-9577-f7675958fe5a
 image:
   channels:
     - app
@@ -24,30 +24,26 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4ae3baf0-92e2-4d3d-b8bf-5b8470a4298b
+  id: 4d33e9d4-f00f-4908-92f8-f489896aebfa
   priority: 0
-  slug: jack-jones-05-png-product-1
+  slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
-  type: logo
-offerId: a6cf0128-1298-4653-8068-30a24c77c0bb
+offerId: 5c338088-d691-41b9-8e17-e39a9bae9feb
 price:
-  cents: 1695
+  cents: 2245
   currency: EUR
-  value: 16.95
+  value: 22.45
 referencePrice:
-  cents: 7000
+  cents: 6999
   currency: EUR
+  value: 69.99
+slug: jack-jones-thames-boots-heren
+soldOut: false
+start: '2026-05-26T22:00:00.000Z'
+title: Jack & Jones Thames Boots | Heren
+rrency: EUR
   value: 70
 slug: jack-jones-thames-boots-heren
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: Jack & Jones Thames Boots | Heren

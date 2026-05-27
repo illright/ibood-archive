@@ -1,22 +1,22 @@
-_id: 6a0aefab58a1951480629321
+_id: 6a1572db94b2e30eab9bddc2
 appOnly: false
 brand: Claw
 brands:
   - id: cbb95331-e606-53ec-bf32-fbdaa4c937b3
     name: Claw
 categories:
-  - 1d222f25-4a19-53d9-bcc9-2a9036c693b1
-classicId: '3216630'
-classicProductId: '692842'
+  - 81fe234f-f9bd-57f1-aa7c-0ac80c931edc
+classicId: '3233034'
+classicProductId: '678384'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 07f39167-1434-4e43-a5d8-aa1f659c9c38
+id: 071a6fab-b94d-4906-86db-f308246d0e45
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: claw-logo-0
   type: logo
-offerId: aed1d814-a948-4004-b691-b53cf6eaf92d
+offerId: 86b52d86-7f24-4e65-9555-f1ac390461a5
 price:
   cents: 3495
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 59.95
 slug: claw-silvan-jethelm-unisex
-soldOut: true
-start: '2026-05-19T22:00:00.000Z'
+soldOut: false
+start: '2026-05-26T22:00:00.000Z'
 title: Claw Silvan Jethelm | Unisex

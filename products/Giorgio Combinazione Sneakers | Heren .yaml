@@ -1,12 +1,12 @@
-_id: 6a0ae7ec4d5c4f83f974671e
+_id: 6a1589b0e6c76dbb4cbbd805
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 1fbc88db-6090-59da-9d8b-3e195bc2da0c
-classicId: '3213251'
+  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
+classicId: '3235966'
 classicProductId: '702884'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 36
-end: '2026-05-26T21:59:59.999Z'
+end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: e4ccda5e-7d1f-49e5-8d5d-99a0dd16386f
+id: 179b8a78-25d1-4b59-b257-bd7591540fc1
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 119dae81-e0f7-446a-8220-ed44ea909e80
-  priority: 0
-  slug: giorgio-png-logo-0
+  extension: png
+  id: 1681527
+  priority: 100
+  slug: giorgio-logo
   type: logo
-offerId: ed85449b-84fe-422a-bc00-e20ef3bbad3a
+offerId: 6e9b5cde-9009-4664-a982-d15354048e9a
 price:
   cents: 13995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 219.95
 slug: giorgio-combinazione-sneakers-heren
 soldOut: false
-start: '2026-05-17T22:00:00.000Z'
+start: '2026-05-26T22:00:00.000Z'
 title: 'Giorgio Combinazione Sneakers | Heren '
