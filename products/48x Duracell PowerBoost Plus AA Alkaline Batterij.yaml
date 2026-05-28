@@ -1,4 +1,4 @@
-_id: 6a159063a80a9f8d5f70da30
+_id: 6a1586b396d305194670adac
 appOnly: false
 brand: Duracell
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Duracell
 categories:
   - 2c80c8b0-e1b9-5d33-8577-aec711aefebe
-classicId: '3239336'
-classicProductId: '702271'
+classicId: '3235184'
+classicProductId: '711968'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 64
 end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: 373c8aba-22d4-474e-915a-be94cd2752a1
+id: 3c3feccd-1e1c-5409-8531-85c15a1af3b7
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 70272697-ba76-4eb5-a3e8-00fe0bb5e9c9
+  id: 313ccabd-d1d6-42b4-abb0-36c58044345b
   priority: 0
-  slug: duracell-03-png-product-1
+  slug: duracell-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: duracell-logo
   type: logo
-offerId: fe3c7607-9b8d-43c4-80f2-06276c3644b1
+offerId: 90772c98-b258-53e5-9c4e-198e7e6cbc0b
 price:
   cents: 3495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 98.28
 slug: 48x-duracell-powerboost-plus-aa-alkaline-batterij
-soldOut: false
+soldOut: true
 start: '2026-05-26T22:00:00.000Z'
 title: 48x Duracell PowerBoost Plus AA Alkaline Batterij
