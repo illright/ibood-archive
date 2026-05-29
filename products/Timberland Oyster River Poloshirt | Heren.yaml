@@ -1,4 +1,4 @@
-_id: 6a158db296d305194670ae7a
+_id: 6a158adeb4d91d76eaae36d1
 appOnly: false
 brand: Timberland
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Timberland
 categories:
   - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3237722'
-classicProductId: '689958'
+classicId: '3236720'
+classicProductId: '689961'
 deliveryPrice:
   cents: 395
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: a76bc1e2-4900-44a1-808e-243c5c4c8ce8
+id: ac141d20-4be3-449d-b46f-7bb166874411
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 6f56c968-0006-4899-9a93-0ee6646e56e3
+  id: 6eeb840e-2eac-4463-aaf5-33ee2bd087cf
   priority: 0
-  slug: timberland-main-png-product-1
+  slug: 4-png-product-1
   type: product
-offerId: 7910e617-2049-490b-930c-41887277bc53
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1751218
+  priority: 100
+  slug: timberland-oyster-river-poloshirt-heren
+  type: logo
+offerId: 0089a32a-7d52-4570-9260-ef9a416545f5
 price:
   cents: 3495
   currency: EUR
@@ -37,11 +47,6 @@ referencePrice:
   cents: 7000
   currency: EUR
   value: 70
-slug: timberland-oyster-river-poloshirt-heren
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
-title: Timberland Oyster River Poloshirt | Heren
-alue: 70
 slug: timberland-oyster-river-poloshirt-heren
 soldOut: false
 start: '2026-05-26T22:00:00.000Z'

@@ -1,4 +1,4 @@
-_id: 6a158a843a7e2d6bafdf40bb
+_id: 6a1588e36459546c98ae4f99
 appOnly: false
 brand: Vans
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Vans
 categories:
   - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
-classicId: '3236317'
-classicProductId: '692406'
+classicId: '3235474'
+classicProductId: '653331'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 30
+directCheckout: true
+discount: 49
 end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: fd988c1d-e5cf-47f7-9a0e-7dc4129db58d
+id: c59f8c3f-c1bf-4e03-b9e9-fb26f67f1a75
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 326a5ac8-9692-4d39-aa3d-defc86784270
+  id: 93082937-f6a3-4e32-91d0-84f2af4ae41f
   priority: 0
-  slug: vans-05-png-product-1
+  slug: 4-png-product-1
   type: product
 logo:
   channels:
@@ -38,19 +38,20 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 5ac251fc-3685-48d4-9a6e-1708cfa27108
+offerId: 0f86fa5e-a5c9-405f-a654-0acd2671d744
 price:
-  cents: 3495
+  cents: 2026
   currency: EUR
-  value: 34.95
+  value: 20.26
 referencePrice:
-  cents: 5000
+  cents: 4000
   currency: EUR
-  value: 50
+  value: 40
 slug: vans-brooklyn-sneakers-kids
-soldOut: false
+soldOut: true
 start: '2026-05-26T22:00:00.000Z'
 title: Vans Brooklyn Sneakers | Kids
+ | Kids
 t: false
 start: '2026-05-26T22:00:00.000Z'
 title: Vans Brooklyn Sneakers | Kids

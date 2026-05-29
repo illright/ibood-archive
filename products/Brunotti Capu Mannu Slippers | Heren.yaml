@@ -1,22 +1,22 @@
-_id: 6a157345f02dd3d5c30e2b21
+_id: 6a1572b2f9ba42687d391fc7
 appOnly: false
 brand: Brunotti
 brands:
   - id: 6a2e0d9a-ccf5-5842-bacc-0ea62bed2295
     name: Brunotti
 categories:
-  - 7081865e-feae-5307-ae6d-ca380c818006
-classicId: '3233222'
-classicProductId: '699675'
+  - b5707e00-094b-5284-bd0b-20d8a9478a51
+classicId: '3233001'
+classicProductId: '699666'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 63
 end: '2026-05-29T21:59:59.999Z'
 freeDelivery: false
-id: ef76cbaf-0d12-45b5-b79e-5545e40d383d
+id: 7c9f6d8b-b3dc-48b2-b7f5-09689bf56bb5
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 68f67733-d5db-4db2-a741-3676c9758080
+  id: 2b803959-720a-4184-8221-7148eb896d69
   priority: 0
-  slug: 44-black-2511800097-9999-capu-mannu-men-flip-flops-brunotti-product-0
+  slug: 44-beetle-green-2511800097-6505-capu-mannu-men-flip-flops-brunotti-product-0
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1820705
-  priority: 100
-  slug: brunotti-logo
+    - all
+  extension: image/png
+  id: 6dd396ea-d847-4f23-b114-b699b893104b
+  priority: 0
+  slug: brunotti-png-logo-0
   type: logo
-offerId: 1ae9fd27-2200-4111-b730-e17b66fd14e0
+offerId: 56e2af0d-dd23-41cc-8fe3-b4c95a13ee80
 price:
   cents: 1495
   currency: EUR
@@ -50,7 +51,4 @@ referencePrice:
 slug: brunotti-capu-mannu-slippers-heren
 soldOut: false
 start: '2026-05-26T22:00:00.000Z'
-title: Brunotti Capu Mannu Slippers | Heren
- Heren
-0Z'
 title: Brunotti Capu Mannu Slippers | Heren
