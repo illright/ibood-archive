@@ -1,12 +1,12 @@
-_id: 69ca901a19b288590a972a05
+_id: 6a195b60a4e6c87023386550
 appOnly: false
 brand: Under Armour
 brands:
   - id: 6f946bb0-b664-54f3-b36b-d179453b8899
     name: Under Armour
 categories:
-  - 150958d4-7c3c-5283-814c-503e7bbd7a1e
-classicId: '3129993'
+  - f4c3c95a-193e-53d5-b956-5263504f5003
+classicId: '3244845'
 classicProductId: '703007'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: df6b4b7e-b49d-53ae-be1f-8ca8b384fc18
+id: c8603899-54a6-4a29-8e26-748173ee8ced
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: matte-black-white-uar-sun-ua-0001-g-s-4nl-72-10-130-unisex-sunglasses-product-0
   type: product
-offerId: f49c7e48-5013-5b9d-b966-d52f8433aac1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1544404
+  priority: 100
+  slug: under-armour-logo
+  type: logo
+offerId: 6cf01a09-7297-48ef-98e5-136a8bdd5504
 price:
   cents: 3495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 150
 slug: under-armour-0001-g-s-4nl-zonnebril-unisex
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Under Armour 0001/G/S 4NL Zonnebril | Unisex

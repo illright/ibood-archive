@@ -1,12 +1,12 @@
-_id: 6a169fd989752b02e64d47d8
+_id: 6a19850d2c01c063f6a8990e
 appOnly: false
 brand: GP Batteries
 brands:
   - id: 00814a3a-e5b2-5027-8ff0-496b8f492706
     name: GP Batteries
 categories:
-  - 2c80c8b0-e1b9-5d33-8577-aec711aefebe
-classicId: '3240194'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3249780'
 classicProductId: '707266'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: ff83aa5d-e333-4556-831c-57cb77806704
+id: da5a70d1-e6b5-45cd-8754-b217c378cad3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ef1575e6-bfa4-400e-8fb1-f6d518bab326
-  priority: 0
-  slug: gp-png-logo-0
+  extension: png
+  id: 1669996
+  priority: 100
+  slug: gp-batteries-logo
   type: logo
-offerId: cd910f47-549f-47a1-a7c8-824f0f043fd2
+offerId: d3424298-364f-457c-9277-9ce2fee86127
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.99
 slug: 80x-gp-cr2032-ultra-knoopcelbatterij-lithium
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 80x GP CR2032 Ultra Knoopcelbatterij | Lithium

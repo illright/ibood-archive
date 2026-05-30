@@ -1,12 +1,12 @@
-_id: 6a15896ea81e70702f8c6cd1
+_id: 6a195bf41b08ecfcb17c04d7
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - 150958d4-7c3c-5283-814c-503e7bbd7a1e
-classicId: '3235801'
+  - f4c3c95a-193e-53d5-b956-5263504f5003
+classicId: '3245116'
 classicProductId: '682595'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 870154cf-2501-434b-8dad-5459e31c12b2
+id: d927ca9b-7700-489b-b9bb-625a51a115c6
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1902325
-  priority: 100
-  slug: dick-moby-logo
+    - all
+  extension: image/png
+  id: 3f006b88-d41b-49d0-bda3-de105369510d
+  priority: 0
+  slug: dick-moby-zonnebrillen-png-logo-0
   type: logo
-offerId: f2162018-0b08-436d-b1aa-6a8883120d72
+offerId: c2771102-64bb-4d00-9c03-a63143e702ba
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 210
 slug: dick-moby-doha-zonnebril-unisex-recycled-black
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Dick Moby Doha Zonnebril | Unisex | Recycled Black

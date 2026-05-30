@@ -1,12 +1,12 @@
-_id: 6a0d84059952229129f70de7
+_id: 6a1985249dade519c16e5b5c
 appOnly: false
 brand: Haribo
 brands:
   - id: 274432d1-d2e6-593c-8d06-6d003bbd1e14
     name: Haribo
 categories:
-  - 59008c82-d55a-5b86-9237-57e978a5d2b2
-classicId: '3224287'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3249823'
 classicProductId: '711008'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: 7747e7cc-4ccb-5df5-9b85-f2f571c681c2
+id: f381ee0f-dd83-41ce-ba63-f0e039f9307d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d8d20f57-cc16-4199-9ca0-0d72abc317eb
-  priority: 0
-  slug: haribo-png-logo-0
+  extension: png
+  id: 1936479
+  priority: 100
+  slug: haribo-logo
   type: logo
-offerId: 45366b9e-84e5-5f42-aaef-8d079984714b
+offerId: 51848262-9cb4-4a1c-9bf1-94169a52fb9c
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: 3x-haribo-pico-balla-snoep-1-kg
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 3x Haribo Pico Balla Snoep | 1 kg

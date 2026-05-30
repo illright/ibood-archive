@@ -1,12 +1,12 @@
-_id: 6a104a46e7d3c35af89824af
+_id: 6a19860d492244191e153c06
 appOnly: false
 brand: Marcel's Green Soap
 brands:
   - id: f1ebb901-8c6c-5683-9876-b8fb6291cd8b
     name: Marcel's Green Soap
 categories:
-  - 2c80c8b0-e1b9-5d33-8577-aec711aefebe
-classicId: '3229982'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3250302'
 classicProductId: '711810'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: 7dfa7935-3a25-5512-9002-a0e74d63e351
+id: f4e66dc6-f39e-414d-973e-dca3858907a7
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ms01-png-product-1
   type: product
-offerId: 71e24971-b041-5fc7-a1ff-2affee369664
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f723da37-9613-4668-a7dd-06d59c806890
+  priority: 0
+  slug: marcel-s-green-soap-logo-0
+  type: logo
+offerId: 5d4e235d-7f57-436c-93e1-4841ba6808af
 price:
   cents: 995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 17.97
 slug: 3x-marcel-s-green-soap-tonka-muguet-handzeep-500-ml
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 3x Marcel's Green Soap Tonka Muguet Handzeep | 500 ml

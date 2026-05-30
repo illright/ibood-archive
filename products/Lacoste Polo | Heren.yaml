@@ -1,22 +1,22 @@
-_id: 6a158a6ff9ba42687d3920f8
+_id: 6a197a18d2471747bb9d34f4
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3236259'
-classicProductId: '703241'
+  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
+classicId: '3248122'
+classicProductId: '703231'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
 discount: 45
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 9c7e2ab2-f338-4ec4-9f67-e079dee5ed15
+id: c6ff469b-4b13-4ada-9940-558305e5c14b
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: a88fb3cb-5fa9-4a4a-a146-f3a79191d1a5
+  id: bdf0a2e1-dc58-43a4-a6d9-b5c94aa03ac3
   priority: 0
-  slug: lacoste-09-png-product-1
+  slug: lacoste-02-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612112
-  priority: 100
-  slug: lacoste-logo
+    - all
+  extension: image/png
+  id: 8899e8eb-3db8-4d92-adc2-5834cab8b39a
+  priority: 0
+  slug: lacoste-png-logo-0
   type: logo
-offerId: 4c7386a7-6bff-401d-80fd-1fe0f0d8cec8
+offerId: 7dbbdeec-c4e1-4032-b342-bc1b76a4cf26
 price:
   cents: 5995
   currency: EUR
@@ -48,9 +49,6 @@ referencePrice:
   currency: EUR
   value: 110
 slug: lacoste-polo-heren
-soldOut: true
-start: '2026-05-26T22:00:00.000Z'
+soldOut: false
+start: '2026-05-29T22:00:00.000Z'
 title: Lacoste Polo | Heren
-05-26T22:00:00.000Z'
-title: Lacoste Polo | Heren
-n

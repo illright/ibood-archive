@@ -1,12 +1,12 @@
-_id: 6a158b8776d53933753c8f66
+_id: 6a1977b696d305194670b14f
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3237162'
+  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
+classicId: '3247380'
 classicProductId: '706551'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 21106ee9-e7e8-431c-bbcd-9346784c0fca
+id: 51405fe0-d838-4fd9-ae0e-77e25b0d14b4
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd024-png-product-1
   type: product
-offerId: 5e1d10d2-c328-4c31-abf4-a41c5d5a0737
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 7519ee60-ab43-4606-b912-aeb6e4d89d0c
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.99
 slug: superdry-stretch-chino-short-slimfit
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Superdry Stretch Chino Short | Slimfit

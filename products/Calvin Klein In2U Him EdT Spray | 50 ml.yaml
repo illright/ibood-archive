@@ -1,12 +1,12 @@
-_id: 6a15900ff9ba42687d3921d4
+_id: 6a197be5fc6a8332de37a03c
 appOnly: false
 brand: Calvin Klein
 brands:
   - id: 5e1f05ec-46df-5b7d-b02f-a93783163a82
     name: Calvin Klein
 categories:
-  - eaa0c1be-7c30-5016-959a-8a99d598144b
-classicId: '3239012'
+  - d409a77a-fff0-51a6-9a8b-0341ab9b6d27
+classicId: '3248705'
 classicProductId: '370200'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: b5dc483a-9270-490b-8b0c-257300cd34c2
+id: b7387b64-690b-4b03-a8c0-20d08836ba89
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1191444
-  priority: 100
-  slug: calvin-klein-in2u-him-edt-spray-50-ml
+    - all
+  extension: image/png
+  id: eeab2fd6-e842-46ce-8e0e-6d39c96b1ac2-tr
+  priority: 0
+  slug: calvin-klein-ck-in2u-him-edt-50-ml-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: calvin-klein-logo
   type: logo
-offerId: 79a52f26-c8d2-4489-9154-d3219a3e2ab6
+offerId: ed42d485-e08f-48c0-9a41-5f400fca0bd0
 price:
   cents: 1595
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 40
 slug: calvin-klein-in2u-him-edt-spray-50-ml
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Calvin Klein In2U Him EdT Spray | 50 ml

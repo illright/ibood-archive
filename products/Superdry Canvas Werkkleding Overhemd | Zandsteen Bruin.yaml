@@ -1,12 +1,12 @@
-_id: 6a158c56a4e6c87023386386
+_id: 6a19792a96d305194670b176
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3237370'
+  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
+classicId: '3247831'
 classicProductId: '706399'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 5f517b6f-dd20-48db-9587-e1f56add1ede
+id: 66318653-4436-4ff9-a314-5551695feb48
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd018-png-product-1
   type: product
-offerId: ef449576-5e98-41d7-97af-b670db0f2c5f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 07722c58-baea-4b35-833f-65cf041e4e9c
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 94.99
 slug: superdry-canvas-werkkleding-overhemd-zandsteen-bruin
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Superdry Canvas Werkkleding Overhemd | Zandsteen Bruin

@@ -1,12 +1,12 @@
-_id: 6a15a86d1b08ecfcb17c03a4
+_id: 6a195f61d2471747bb9d3440
 appOnly: false
 brand: GreenPan
 brands:
   - id: 23b3d7af-a873-5386-8c95-20bb07ea82ad
     name: GreenPan
 categories:
-  - c9c20b17-9174-5fc4-8660-453bd27f92ee
-classicId: '3239866'
+  - 7ee7bf3d-f062-5f86-8699-d4ce446f9c2f
+classicId: '3245962'
 classicProductId: '686820'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 9f5d8bff-6622-4359-afff-ba9ed15497fc
+id: 2f17bf3e-2d87-4c1a-a14e-a9b15521ba2d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: greenpan-png-product-0
   type: product
-offerId: ab4df5f8-1816-43df-a4a4-f94bfad7757a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 29f7a7ae-58c4-485c-a310-feadd9c22d60
+  priority: 0
+  slug: greenpan-logo-101
+  type: logo
+offerId: 4fa8abbb-bd2d-46fd-be0e-3f529fbdd8ce
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 79.9
 slug: greenpan-craft-keramische-koekenpan-pfas-vrij-20-cm
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Greenpan Craft Keramische Koekenpan | PFAS-vrij | 20 cm

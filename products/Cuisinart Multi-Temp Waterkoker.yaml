@@ -1,12 +1,12 @@
-_id: 6a0afaa561358d15f979ab01
+_id: 6a195f6ffe7379fe4b6f924d
 appOnly: false
 brand: Cuisinart
 brands:
   - id: 74130ea0-e823-55b1-a10f-12d0c8be0526
     name: Cuisinart
 categories:
-  - 793684a6-515b-5481-a13a-fef8c0391286
-classicId: '3217328'
+  - c56b5573-0010-5741-846e-c54694aa2b98
+classicId: '3246061'
 classicProductId: '710642'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 270fd2fc-9f22-598c-8b9a-58d594d33e32
+id: 181c4e60-791b-4be9-b978-2ecfdfb714ce
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: cuisinart-multi-temp-kettle-green-product-9
   type: product
-offerId: 9792331c-e233-5c7c-bd75-b2d1c8065ade
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1945323
+  priority: 100
+  slug: cuisinart-logo
+  type: logo
+offerId: ad337117-1012-4e0b-9b90-d43e0295da06
 price:
   cents: 5995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 119.9
 slug: cuisinart-multi-temp-waterkoker
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Cuisinart Multi-Temp Waterkoker

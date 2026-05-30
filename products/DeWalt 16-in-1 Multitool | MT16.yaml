@@ -1,12 +1,12 @@
-_id: 6a0c7d3c61358d15f979b32e
+_id: 6a194e02cac33f3ad8890dac
 appOnly: false
 brand: DeWalt
 brands:
   - id: aa972102-79c6-54b1-b2a4-b26148542064
     name: DeWalt
 categories:
-  - 6c986d43-a278-504e-8b49-235f94ac14a8
-classicId: '3223649'
+  - 9d723f02-2cc5-528e-95a8-aeb67cea3bfc
+classicId: '3244491'
 classicProductId: '707865'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 26
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-01T21:59:59.999Z'
 freeDelivery: false
-id: ca084bf0-eb05-5796-824e-dfc400c333e3
+id: 8097fcda-cf5c-45dd-860d-bede78ce750a
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: dewalt-mt16-multi-tool-product-0
   type: product
-offerId: c6a9ace3-889b-510a-94f8-83149f6925d4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1664148
+  priority: 100
+  slug: dewalt-logo
+  type: logo
+offerId: 9bef36ee-77a9-46c6-9412-0d2aa7432e7a
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 26.99
 slug: dewalt-16-in-1-multitool-mt16
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: DeWalt 16-in-1 Multitool | MT16

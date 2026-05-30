@@ -1,22 +1,22 @@
-_id: 6a158ad4b4d91d76eaae36c8
+_id: 6a19772a189733db22a01dae
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3236671'
-classicProductId: '703243'
+  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
+classicId: '3247246'
+classicProductId: '703246'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 43a86da0-8931-44c0-b9e3-240e3b17755b
+id: 761b79cc-68bb-4f02-a149-bf520a579487
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612112
-  priority: 100
-  slug: lacoste-logo
+    - all
+  extension: image/png
+  id: 2708dec8-ea39-42e8-82fc-625cddeede6a
+  priority: 0
+  slug: lacoste-png-logo-0
   type: logo
-offerId: 5aa719c0-2d37-403a-9d77-474d38e267c0
+offerId: b0abe0e9-c633-42fd-a376-cab01dd1df62
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 70
 slug: lacoste-zwemshort-heren
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Lacoste Zwemshort | Heren

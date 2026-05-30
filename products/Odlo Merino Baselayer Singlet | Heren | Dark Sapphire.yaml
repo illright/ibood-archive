@@ -1,22 +1,22 @@
-_id: 6a1572b4c4fb93535c79a416
+_id: 6a1931e8870d5de586a6c085
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - b5707e00-094b-5284-bd0b-20d8a9478a51
-classicId: '3233002'
-classicProductId: '693038'
+  - 928c3ce2-6fab-5d24-8012-4fee89a0c533
+classicId: '3243959'
+classicProductId: '693039'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 30
-end: '2026-05-29T21:59:59.999Z'
+discount: 50
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 0df4fb41-56c7-4ef1-9b88-52f8678b7e45
+id: 76698546-800a-4f99-8858-c0b858f3bbe1
 image:
   channels:
     - app
@@ -40,16 +40,16 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: e89aa3fd-02f1-4eea-8dbc-eaa062c398c6
+offerId: 6de3dd88-12d0-436c-a0ed-66e0b9a9f171
 price:
-  cents: 3495
+  cents: 2500
   currency: EUR
-  value: 34.95
+  value: 25
 referencePrice:
   cents: 5000
   currency: EUR
   value: 50
 slug: odlo-merino-baselayer-singlet-heren-dark-sapphire
-soldOut: true
-start: '2026-05-26T22:00:00.000Z'
+soldOut: false
+start: '2026-05-29T22:00:00.000Z'
 title: Odlo Merino Baselayer Singlet | Heren | Dark Sapphire

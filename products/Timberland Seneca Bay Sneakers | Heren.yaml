@@ -1,12 +1,12 @@
-_id: 6a158a19b4abbaf570ff7165
+_id: 6a195be85769ae647fa8beff
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
-classicId: '3236062'
+  - afc2499f-aaee-5235-b4ca-c5212838b81f
+classicId: '3245088'
 classicProductId: '688209'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 58
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 55bd995c-2eb7-4f57-b636-23e43876b74d
+id: 6b5dd99e-82e0-433c-9668-6c522eb125f2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 83ad0516-d685-4ca5-962d-726bfca99cee
-  priority: 0
-  slug: timberland-png-logo-0
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
   type: logo
-offerId: e7e9f8fe-5336-4f10-8143-a48eab75c03f
+offerId: e0721bdf-1adc-44f7-a1da-5aa99a6340e0
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 95
 slug: timberland-seneca-bay-sneakers-heren
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Timberland Seneca Bay Sneakers | Heren

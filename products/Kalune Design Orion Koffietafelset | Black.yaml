@@ -1,12 +1,12 @@
-_id: 6a1576cd746d868fbf5a40fe
+_id: 6a197b7aa9c146cc47c0ea8d
 appOnly: false
 brand: Kalune
 brands:
   - id: f9525695-6bac-5e68-bd8d-234ccd8524a9
     name: Kalune
 categories:
-  - 2858280d-b591-5a96-b225-0020357d4d17
-classicId: '3234863'
+  - 59fd5ed1-9df9-5305-ace2-bd24737d6165
+classicId: '3248471'
 classicProductId: '613790'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 65
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: b1aed97b-1dc7-459b-ac86-e85b50c55f18
+id: 1b0f6b7b-580a-44e0-99e1-85a3b49fbc70
 image:
   channels:
+    - newsletter
     - app
     - website
-    - newsletter
-    - all
-  extension: image/png
-  id: d32adc54-7e61-49e4-be40-f68040a0b211
+  extension: png
+  id: 2239862
   priority: 0
-  slug: 16052026-kalune-design-orion-coffee-table-black-png-product-1
+  slug: kalune-design-orion-koffietafelset-black
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: kalune-design-orion-koffietafelset-black
   type: logo
-offerId: da10cb79-4cdc-49f0-a98d-761372725057
+offerId: 4e5287c8-0dff-4b85-820d-e6d7ade55881
 price:
   cents: 7995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 229.95
 slug: kalune-design-orion-koffietafelset-black
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Kalune Design Orion Koffietafelset | Black

@@ -1,12 +1,12 @@
-_id: 6a0d982efd6dbf8bc66384f6
+_id: 6a195fb2d91f58b2e912a910
 appOnly: false
 brand: Solis
 brands:
   - id: 1abd1a6b-4fdf-59e5-aca3-9ac51bbb923c
     name: Solis
 categories:
-  - 793684a6-515b-5481-a13a-fef8c0391286
-classicId: '3224493'
+  - c56b5573-0010-5741-846e-c54694aa2b98
+classicId: '3246318'
 classicProductId: '699350'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 0459d52e-9bf1-5101-b21d-cf39afe2f88b
+id: 5d8eb6b5-4267-4b85-95a4-519922771999
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 96221-solis-flexi-temp-kettle-type-5519-product-1
   type: product
-offerId: 2a9308c6-fc92-5887-a604-1dda2485dae3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1649227
+  priority: 100
+  slug: solis-logo
+  type: logo
+offerId: 918a05f6-752b-4f51-8e60-9b43a7fba715
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 109.9
 slug: solis-flexi-temp-wasserkocher
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Solis Flexi Temp Waterkoker

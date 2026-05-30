@@ -1,12 +1,12 @@
-_id: 69bbf2abda3d41d14185f4de
+_id: 6a197bebb8add18f45cea4ee
 appOnly: false
 brand: Opviq
 brands:
   - id: f5dca205-0d16-5e78-8c4c-60e5a9b6243d
     name: Opviq
 categories:
-  - 2858280d-b591-5a96-b225-0020357d4d17
-classicId: '3093785'
+  - 59fd5ed1-9df9-5305-ace2-bd24737d6165
+classicId: '3248721'
 classicProductId: '700794'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: c8565528-3fe3-5eaa-ba2a-3f0a358259ce
+id: ddc9fd5a-5350-435a-bb58-630a0062931b
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8178f8b8-93d6-41f8-9f2d-5b627684fe09
-  priority: 0
-  slug: asir-group-png-logo-0
+  extension: jpg
+  id: 1791082
+  priority: 100
+  slug: opviq-logo
   type: logo
-offerId: 750feb90-2dc7-510f-8547-6ed3ac7dee24
+offerId: 2078f4c2-adcc-4ee8-847a-09c379c837b3
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 59.99
 slug: asir-driepoot-vloerlamp-zwart
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Asir Driepoot Vloerlamp | Zwart

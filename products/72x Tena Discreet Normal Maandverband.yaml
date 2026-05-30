@@ -1,12 +1,12 @@
-_id: 6a0473a2675fb61497f88f2e
+_id: 6a1986b0f5b5a4a5340bc12a
 appOnly: false
 brand: Tena
 brands:
   - id: ae2e5cdf-2bd2-580a-ae60-c1ed054acc86
     name: Tena
 categories:
-  - 2c80c8b0-e1b9-5d33-8577-aec711aefebe
-classicId: '3210162'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3250649'
 classicProductId: '658445'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 30
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: db09fbc2-3c4e-5a98-b8d4-bd6cc9b6889e
+id: 12f0a47e-43cc-4f96-9ff9-891e00099c27
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: tena-logo-0
   type: logo
-offerId: 46ac5d1c-4d32-5b9a-8406-ce62e03376c9
+offerId: c5929f58-9a5d-4e37-ac9e-02e4de087389
 price:
   cents: 1795
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 25.47
 slug: 72x-tena-discreet-normal-maandverband
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: 72x Tena Discreet Normal Maandverband

@@ -1,12 +1,12 @@
-_id: 6a0afaa361358d15f979aaf7
+_id: 6a195f73b26355346b4fd39d
 appOnly: false
 brand: Cuisinart
 brands:
   - id: 74130ea0-e823-55b1-a10f-12d0c8be0526
     name: Cuisinart
 categories:
-  - 793684a6-515b-5481-a13a-fef8c0391286
-classicId: '3217326'
+  - c56b5573-0010-5741-846e-c54694aa2b98
+classicId: '3246076'
 classicProductId: '710639'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 721ce26b-774b-5ae1-87b9-4db8805df9db
+id: d3aa0e40-14d1-46c4-9353-a23ed026b79f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: cuisinart-blast-go-to-go-blender-product-0
   type: product
-offerId: 1054b6d3-0988-5e99-9aa8-6c9d71fb1b15
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1945323
+  priority: 100
+  slug: cuisinart-logo
+  type: logo
+offerId: 1b987339-9170-4abd-9b2e-ea0dd01f902f
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 79.9
 slug: cuisinart-blast-go-draadloze-blender
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 'Cuisinart Blast & Go Draadloze Blender '

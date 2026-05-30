@@ -1,12 +1,12 @@
-_id: 6a159022a4e6c870233863f9
+_id: 6a198526384515407688ca55
 appOnly: false
 brand: Haribo
 brands:
   - id: 274432d1-d2e6-593c-8d06-6d003bbd1e14
     name: Haribo
 categories:
-  - 59008c82-d55a-5b86-9237-57e978a5d2b2
-classicId: '3239099'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3249826'
 classicProductId: '701071'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: 0c9b4ddb-8272-4a9b-b7fd-fa3101bbfd00
+id: 0f80b19f-1e59-4019-949d-5e0914e0a615
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: haribo-logo
   type: logo
-offerId: a6aa59e9-e197-4c7d-9b6e-94606a877684
+offerId: b207dfbb-ce43-47ab-93b4-6e136d96572a
 price:
   cents: 2295
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: 3x-haribo-kindermix-1-kg
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: 3x Haribo Kindermix | 1 kg

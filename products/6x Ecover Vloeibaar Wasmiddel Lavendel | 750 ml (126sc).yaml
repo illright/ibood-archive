@@ -1,12 +1,12 @@
-_id: 6a0d83f861358d15f979b4a9
+_id: 6a1984e3d2471747bb9d3571
 appOnly: false
 brand: Ecover
 brands:
   - id: 0f2a7f74-32b1-5144-afae-5808c44bd75f
     name: Ecover
 categories:
-  - 2c80c8b0-e1b9-5d33-8577-aec711aefebe
-classicId: '3224275'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3249726'
 classicProductId: '710669'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: 0abb2642-dd81-5e77-b331-26ead2a76827
+id: 657e8592-05d9-4540-b4e1-3049353de8f6
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: eco01-png-product-1
   type: product
-offerId: bd6d937b-1564-5c08-a129-09e5a3b06bb1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 5970b4ed-f45d-40ca-a33e-efff7adb20c9
+  priority: 0
+  slug: ecover-logo-0
+  type: logo
+offerId: 2b104cbf-ec52-4cae-bce9-95423a66bea4
 price:
   cents: 2195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 68.34
 slug: 6x-ecover-vloeibaar-wasmiddel-lavendel-750-ml
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 6x Ecover Vloeibaar Wasmiddel Lavendel | 750 ml (126sc)

@@ -1,22 +1,22 @@
-_id: 6a1589f64850354ce751aae7
+_id: 6a197998189733db22a01de1
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3236021'
-classicProductId: '694454'
+  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
+classicId: '3247963'
+classicProductId: '694453'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: f677ceec-48e6-404b-8402-9523bf14c583
+id: 01244941-a040-452c-a28e-af89319a5fce
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 707efce8-e52d-4c33-b37f-3bfb0643ac82
+  priority: 0
+  slug: petrol-png-logo-0
   type: logo
-offerId: b7eb3241-d6ab-4675-93f9-6ad1296e7ad5
+offerId: d85f0154-5e77-44cf-a483-9ba69216c5ba
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.99
 slug: petrol-sweater-collar-zip-heren
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Petrol Sweater Collar Zip | Heren

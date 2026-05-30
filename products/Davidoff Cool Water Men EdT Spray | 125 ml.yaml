@@ -1,12 +1,12 @@
-_id: 6a159008a4e6c870233863ec
+_id: 6a197bf0a80a9f8d5f70dd0b
 appOnly: false
 brand: Davidoff
 brands:
   - id: 0218a97f-9bff-5240-bb45-44506660a997
     name: Davidoff
 categories:
-  - eaa0c1be-7c30-5016-959a-8a99d598144b
-classicId: '3238979'
+  - d409a77a-fff0-51a6-9a8b-0341ab9b6d27
+classicId: '3248736'
 classicProductId: '27621'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: d73f2638-7372-4259-ae15-e90d474d15aa
+id: 7b4455cb-3231-42ea-80f6-b54e6a52e2e0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 457171
+    - all
+  extension: image/png
+  id: 4818814f-318a-42db-acc0-945120ae4fc3-tr
   priority: 0
-  slug: davidoff-cool-water-men-edt-spray-125-ml
+  slug: davidoff-cool-water-man-edt-125-ml-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 101
   slug: davidoff-logo-101
   type: logo
-offerId: 3fdc253e-3bd7-4463-bae1-40ce3584ede9
+offerId: 329def14-cf87-436a-862e-2eccbadfe615
 price:
   cents: 2595
   currency: EUR
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 72
 slug: davidoff-cool-water-men-edt-spray-125-ml
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: Davidoff Cool Water Men EdT Spray | 125 ml

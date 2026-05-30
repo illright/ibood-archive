@@ -1,12 +1,12 @@
-_id: 6a158b1f3f655cfc30207e29
+_id: 6a195f4a96d305194670b0b6
 appOnly: false
 brand: Ritzenhoff
 brands:
   - id: 4d374cf0-d48f-5d34-9daf-308a1d3215f0
     name: Ritzenhoff
 categories:
-  - 05f23ff9-e7de-5d2f-a491-b8a1587e66cc
-classicId: '3236962'
+  - ad9171c7-729e-5ffd-9e95-c68465226e9e
+classicId: '3245777'
 classicProductId: '710268'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 5d58f459-6c9f-41ac-9342-09ea11f8df83
+id: 95e36ff1-64b6-4412-b332-59e9f2986371
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: glazen3-png-product-1
   type: product
-offerId: 8f11a86f-60e2-4939-9eb0-4edb51bb90d7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4faea54c-dc25-4471-8e27-b8734e8fc69a
+  priority: 0
+  slug: ritzenhoff-logo-0
+  type: logo
+offerId: 6ce122bd-6696-4e0f-87e8-19333929308e
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 99.9
 slug: ritzenhoff-breker-24-delige-jive-glazenset
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Ritzenhoff & Breker 24-delige Jive Glazenset

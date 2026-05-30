@@ -1,12 +1,12 @@
-_id: 6a1575975e67ddc2f3b08a8f
+_id: 6a19836bf9ba42687d392521
 appOnly: false
 brand: Kinzo
 brands:
   - id: 2b364f22-4ccb-5cca-8628-50bd1cf879b6
     name: Kinzo
 categories:
-  - a936f176-2b3c-52c1-872a-de7cfe8794ee
-classicId: '3233766'
+  - 918b7257-5cb0-5e27-84e2-e215c5b60c4c
+classicId: '3249504'
 classicProductId: '700343'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 47
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 849d3f15-3bcc-482e-bf6c-cdc601628bb5
+id: 2a6b2f57-498b-4246-ae02-23f6e1dd0f42
 image:
   channels:
     - app
@@ -30,7 +30,7 @@ image:
   priority: 0
   slug: kinzo-kas-inloop-143x73x195cm-product-25
   type: product
-offerId: 95e0d857-a42b-4873-b849-ef18f46629cb
+offerId: 67e11bc0-c3c2-4240-9a37-137c235d4854
 price:
   cents: 3995
   currency: EUR
@@ -40,6 +40,6 @@ referencePrice:
   currency: EUR
   value: 74.95
 slug: kinzo-pvc-inloopkas-143-x-73-x-195
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: Kinzo PVC Inloopkas | 143 x 73 x 195

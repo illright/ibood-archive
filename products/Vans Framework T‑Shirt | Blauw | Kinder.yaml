@@ -1,12 +1,12 @@
-_id: 6a158d44746d868fbf5a41da
+_id: 6a1979c7b8521d5c95fdb45a
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3237578'
+  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
+classicId: '3248013'
 classicProductId: '692509'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 34
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: f26faf3b-5145-483d-ad02-3eefcdfa2df3
+id: 6213f241-b61b-4b07-9f67-cf77c7485e31
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: m-royal-cobalt-vn000tc8frx1-framework-ss-royal-cobalt-kids-vans-product-0
   type: product
-offerId: 9244391f-070f-44b0-8f91-a15cb6cb094d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
+  type: logo
+offerId: 046a5d68-727d-49d2-b304-64a3ff0172a1
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 30
 slug: vans-kids-framework-ss-blue
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Vans Framework T‑Shirt | Blauw | Kinder

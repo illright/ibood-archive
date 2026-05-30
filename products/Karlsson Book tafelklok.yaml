@@ -1,12 +1,12 @@
-_id: 6a15766ab4d91d76eaae362d
+_id: 6a1964b8d91f58b2e912a93a
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 2858280d-b591-5a96-b225-0020357d4d17
-classicId: '3234684'
+  - 92a871da-4a5e-5c90-8c9a-b138518d60aa
+classicId: '3246934'
 classicProductId: '707748'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 9284c0ea-6959-4353-b270-622534571939
+id: c4f33d15-ef44-4251-834e-1860a83a4577
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 2e696cfa-3fab-4666-9314-1a3690ff0db3
+offerId: 100891cb-b351-4d5a-bee8-93247c829799
 price:
   cents: 2495
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 64.75
 slug: karlsson-book-ka5756gr
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: Karlsson Book tafelklok

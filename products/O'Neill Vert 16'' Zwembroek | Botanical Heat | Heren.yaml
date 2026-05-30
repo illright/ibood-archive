@@ -1,22 +1,22 @@
-_id: 6a157327ad645948f2e7afc7
+_id: 6a1931f4a9c146cc47c0e923
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 81fe234f-f9bd-57f1-aa7c-0ac80c931edc
-classicId: '3233161'
-classicProductId: '692654'
+  - 928c3ce2-6fab-5d24-8012-4fee89a0c533
+classicId: '3243994'
+classicProductId: '692655'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 9f15add1-c081-4880-be8e-995a83d1832a
+id: 4c791730-254c-4277-bcfa-d848249d8e73
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: oneill-logo
   type: logo
-offerId: 9d0423b2-75fd-4b99-a0c9-be6e725b6430
+offerId: 72b13b1a-a0d3-48fe-bfb0-3f70955f93e5
 price:
   cents: 1995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: o-neill-vert-16-zwembroek-botanical-heat-heren
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: O'Neill Vert 16'' Zwembroek | Botanical Heat | Heren

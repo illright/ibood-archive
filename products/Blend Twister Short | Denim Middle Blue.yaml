@@ -1,22 +1,22 @@
-_id: 6a158b31fe7379fe4b6f8f92
+_id: 6a1977b037fe182ee794231d
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3236999'
+  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
+classicId: '3247373'
 classicProductId: '700020'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-05-29T21:59:59.999Z'
+discount: 33
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: d27a545a-0894-4942-8ce1-783c3a23d604
+id: 57ff06d7-3a59-418e-8ee5-741c54caf505
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: xl-denim-middle-blue-20713326-bhtwister-3326-s-reg-noos-shorts-blend-product-1
   type: product
-offerId: d99eba10-4cc9-45cd-88e3-a4dc002c5000
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8772dc54-3c98-453e-a7c6-f3b046647ea0
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: 0c401434-0040-4e44-a9ee-1331ae0a4cb5
 price:
-  cents: 1995
+  cents: 2695
   currency: EUR
-  value: 19.95
+  value: 26.95
 referencePrice:
   cents: 3995
   currency: EUR
   value: 39.95
 slug: blend-twister-short-denim-middle-blue
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Blend Twister Short | Denim Middle Blue

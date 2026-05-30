@@ -1,12 +1,12 @@
-_id: 6a158fbe5769ae647fa8bd49
+_id: 6a198571cac33f3ad8890fb8
 appOnly: false
 brand: Lay's
 brands:
   - id: c2dac7c1-a364-5a06-8d6a-13a54dd40d89
     name: Lay's
 categories:
-  - 59008c82-d55a-5b86-9237-57e978a5d2b2
-classicId: '3238624'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3249918'
 classicProductId: '709186'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: a92de729-7b03-424f-810c-318750003dcd
+id: 115664d4-5860-4995-8b0f-5b712b34df48
 image:
   channels:
     - app
@@ -30,7 +30,7 @@ image:
   priority: 0
   slug: 14x-lays-chips-pick-hdl-wb-300gr-be-product-0
   type: product
-offerId: 6b3771a4-319b-4e26-9c12-466a29a2fe67
+offerId: f4e3250c-a3a3-4a55-9619-a7e2fccae100
 price:
   cents: 1595
   currency: EUR
@@ -40,6 +40,6 @@ referencePrice:
   currency: EUR
   value: 43.4
 slug: 14x-lay-s-pickles-chips-300-g
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: 14x Lay's Pickles Chips | 300 g

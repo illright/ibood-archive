@@ -1,22 +1,22 @@
-_id: 6a1589ffa80a9f8d5f70d94b
+_id: 6a1977ee013f9a54609fbdcc
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3236035'
-classicProductId: '696133'
+  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
+classicId: '3247448'
+classicProductId: '696134'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 45
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 7a179428-40e2-4d14-a560-46f3c0060817
+id: 72be8bb7-55c2-4c19-804d-50aaa7fdc281
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: wrangler-logo
   type: logo
-offerId: 952afb78-4bb4-4cac-80ab-baca53e257b9
+offerId: 900e24b0-a6f9-419c-ba30-4d46039b11c0
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 54.95
 slug: wrangler-texas-denim-shorts
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: Wrangler Texas Denim Shorts

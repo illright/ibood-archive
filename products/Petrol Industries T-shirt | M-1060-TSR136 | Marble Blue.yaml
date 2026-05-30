@@ -1,22 +1,22 @@
-_id: 6a158a34384515407688c681
+_id: 6a1979fb41a2646418317952
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3236129'
-classicProductId: '698436'
+  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
+classicId: '3248078'
+classicProductId: '698437'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 47
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 1f120e74-29de-4438-a0ff-64d985349cbc
+id: a37a9598-5a79-4f24-9eb7-1f772c4b586f
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c73ba611-1521-42dd-8e95-d7121164d8d1
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: a8a0d63a-2f5a-4847-b61d-f68b1c306d05
+offerId: e41d9649-6cff-4eb5-8f3b-ce25139fa51d
 price:
   cents: 1595
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 29.99
 slug: petrol-industries-t-shirt-m-1060-tsr136-marble-blue
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Petrol Industries T-shirt | M-1060-TSR136 | Marble Blue

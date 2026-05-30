@@ -1,12 +1,12 @@
-_id: 6a0d840957a462761dbf4d9c
+_id: 6a198523a80a9f8d5f70dd70
 appOnly: false
 brand: Haribo
 brands:
   - id: 274432d1-d2e6-593c-8d06-6d003bbd1e14
     name: Haribo
 categories:
-  - 59008c82-d55a-5b86-9237-57e978a5d2b2
-classicId: '3224289'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3249820'
 classicProductId: '711009'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: ef922022-dd5d-56c9-9565-a98d3475683b
+id: b62591ac-9c3c-4553-a437-8c04520e1a73
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ca56af52-838e-45b8-bba6-795d84a24fe6
-  priority: 0
-  slug: haribo-png-logo-0
+  extension: png
+  id: 1936479
+  priority: 100
+  slug: haribo-logo
   type: logo
-offerId: 88dbc699-cdd8-5284-90a3-8660a8f721b6
+offerId: 67393f1f-dbbf-42bf-bd13-f1191255f173
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: 3x-haribo-balla-balla-red-snoepjes-1-kg
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 3x Haribo Balla Balla Red Snoepjes | 1 kg

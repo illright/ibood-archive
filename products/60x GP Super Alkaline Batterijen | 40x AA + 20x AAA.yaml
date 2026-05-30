@@ -1,12 +1,12 @@
-_id: 6a169fdab4abbaf570ff72d0
+_id: 6a19850eb8add18f45cea539
 appOnly: false
 brand: GP Batteries
 brands:
   - id: 00814a3a-e5b2-5027-8ff0-496b8f492706
     name: GP Batteries
 categories:
-  - 2c80c8b0-e1b9-5d33-8577-aec711aefebe
-classicId: '3240195'
+  - fa73a1b3-38b6-5230-8af6-69632974fee6
+classicId: '3249781'
 classicProductId: '707265'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-04T21:59:59.999Z'
 freeDelivery: false
-id: 536305a4-fa25-4dba-8b5c-c717a67cc14e
+id: f3a6405e-edf5-4c4c-9eb6-f13875d30c5c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8feef686-169a-44d1-b257-2f5c35e2fb40
-  priority: 0
-  slug: gp-png-logo-0
+  extension: png
+  id: 1669996
+  priority: 100
+  slug: gp-batteries-logo
   type: logo
-offerId: db253e7d-17e9-4065-a3b2-6ad0df4ac592
+offerId: 1890b8a2-6e99-4161-a1fc-f8d24ceb0433
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 59.99
 slug: 60x-gp-super-alkaline-batterijen-40x-aa-20x-aaa
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 60x GP Super Alkaline Batterijen | 40x AA + 20x AAA

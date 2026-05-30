@@ -1,22 +1,22 @@
-_id: 6a158a366459546c98ae4fe9
+_id: 6a197a4e0ff77949c9ae13c4
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3236134'
-classicProductId: '694448'
+  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
+classicId: '3248234'
+classicProductId: '694460'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 5f96f55c-ae30-43a7-a880-a50a6a25f881
+id: af90812b-c5d7-4d12-bf1c-c9dcd00b3676
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: c6055702-a728-4300-b7e2-7a369d027b92-tr
+  id: 9e87b685-8c93-4efb-a430-829607234db6-tr
   priority: 0
-  slug: l-antique-white-melee-m-1060-swc310-0009-l-men-sweater-collar-zip-petrol-product-6
+  slug: xl-navy-blue-m-1060-swh314-5178-xl-men-sweater-hooded-zip-petrol-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 1898058a-eccd-4744-8424-691f49771253
+  priority: 0
+  slug: petrol-png-logo-0
   type: logo
-offerId: d944d6d0-0a9b-4c99-bb81-8a38b373df1c
+offerId: 7e4c7295-c47c-4a8a-b579-bdbad33d16cf
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.99
 slug: petrol-sweater-met-rits-heren
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Petrol Sweater met Rits | Heren

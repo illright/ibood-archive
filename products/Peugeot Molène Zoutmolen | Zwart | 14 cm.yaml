@@ -1,12 +1,12 @@
-_id: 6a158b16746d868fbf5a41ae
+_id: 6a195f59cc9cd28ce0a39bcf
 appOnly: false
 brand: Peugeot
 brands:
   - id: 6d41a9d0-9815-5453-a6fc-b4079687bcb0
     name: Peugeot
 categories:
-  - 05f23ff9-e7de-5d2f-a491-b8a1587e66cc
-classicId: '3236939'
+  - ad9171c7-729e-5ffd-9e95-c68465226e9e
+classicId: '3245895'
 classicProductId: '709036'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 89a39bad-8f7d-4e31-81d0-bce7f1baa0fc
+id: c20cfb42-e06c-4851-9928-8dec714f2ca8
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 29005-peugeot-molene-moulin-a-sel-acryl-acryl-teinte-noir-14cm-product-5
   type: product
-offerId: 0ef65355-9f14-40af-a21c-cba824eb1c6d
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: bba9da10-c317-491f-8adb-a67057c80294
+  priority: 0
+  slug: peugeot-logo-0
+  type: logo
+offerId: 61881333-8461-417a-bc24-4b2447326b0d
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.9
 slug: peugeot-molene-zoutmolen-zwart-14-cm
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Peugeot Molène Zoutmolen | Zwart | 14 cm

@@ -1,12 +1,12 @@
-_id: 6a158fff5e67ddc2f3b08c39
+_id: 6a197c0796d305194670b1b8
 appOnly: false
 brand: Hugo Boss
 brands:
   - id: ea8978ea-f226-5c2a-bb5f-4458ac381560
     name: Hugo Boss
 categories:
-  - eaa0c1be-7c30-5016-959a-8a99d598144b
-classicId: '3238941'
+  - d409a77a-fff0-51a6-9a8b-0341ab9b6d27
+classicId: '3248804'
 classicProductId: '36021'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 29
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: b426e1dd-5a0f-4fc8-9911-470ffd745b61
+id: 8c389438-7584-4f22-ae44-180e21c146a1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 563729
-  priority: 100
-  slug: hugo-boss-bottled-edt-spray-50-ml
+    - all
+  extension: image/png
+  id: 70083d2e-7944-4431-80f3-7d96cc3cff96-tr
+  priority: 0
+  slug: boss-bottled-von-hugo-boss-edt-50-ml-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: hugo-boss-logo
   type: logo
-offerId: bad7789b-5ce2-4404-a573-f98d759c5803
+offerId: ddbeb0a1-ac2b-49e4-b573-dac13e4a2ed1
 price:
   cents: 3495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 48.99
 slug: hugo-boss-bottled-edt-spray-50-ml
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Hugo Boss Bottled EdT Spray | 50 ml

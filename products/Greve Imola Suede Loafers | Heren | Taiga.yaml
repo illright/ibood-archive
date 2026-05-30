@@ -1,22 +1,22 @@
-_id: 6a15894b5f0d1d682c6ac6d7
+_id: 6a195d236459546c98ae5255
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
-classicId: '3235726'
+  - afc2499f-aaee-5235-b4ca-c5212838b81f
+classicId: '3245325'
 classicProductId: '688417'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 41
-end: '2026-05-29T21:59:59.999Z'
+discount: 29
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 61100b88-a39c-419d-8859-0b5292c3b433
+id: 87a57a22-f334-4e1e-af35-574c3ddc65a6
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5396f7be-c3cf-4932-be6b-93dfea7afe5a
-  priority: 0
-  slug: greve-png-logo-0-png-logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: e817966f-ed96-4bdc-9f2d-29f85c68c99a
+offerId: 0020cea2-08ca-4fd4-bc70-9882ba1cff53
 price:
-  cents: 9995
+  cents: 11995
   currency: EUR
-  value: 99.95
+  value: 119.95
 referencePrice:
   cents: 17000
   currency: EUR
   value: 170
 slug: greve-imola-suede-loafers-heren-taiga
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Greve Imola Suede Loafers | Heren | Taiga

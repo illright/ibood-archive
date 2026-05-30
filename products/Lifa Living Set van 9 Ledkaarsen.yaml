@@ -1,31 +1,34 @@
-_id: 6a15763bf9ba42687d39206a
+_id: 6a19648607f7517efd8149d4
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - 2858280d-b591-5a96-b225-0020357d4d17
-classicId: '3234528'
-classicProductId: '605911'
+  - 92a871da-4a5e-5c90-8c9a-b138518d60aa
+classicId: '3246801'
+classicProductId: '605912'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 68
-end: '2026-05-29T21:59:59.999Z'
+directCheckout: true
+discount: 74
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: cc64e009-3063-4fd0-8b99-a88fa2f75ead
+id: f795e462-6856-4628-b5bf-68f0cc44cbff
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 2102971
+  extension: image/png
+  id: b327176c-382d-46c7-880b-176a0453ebdd-tr
   priority: 0
-  slug: lifa-living-set-van-9-ledkaarsen
+  slug: lifa-living-led-kerzen-set-9-teilig-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,16 +40,16 @@ logo:
   priority: 100
   slug: lifa-living-logo
   type: logo
-offerId: 8f52972d-1e14-4e0d-91c6-1abcc9081f8a
+offerId: 87433b0c-3c03-4c9c-9afd-010bc435c79d
 price:
-  cents: 1995
+  cents: 1605
   currency: EUR
-  value: 19.95
+  value: 16.05
 referencePrice:
   cents: 6294
   currency: EUR
   value: 62.94
 slug: lifa-living-set-van-9-ledkaarsen
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Lifa Living Set van 9 Ledkaarsen

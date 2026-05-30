@@ -1,32 +1,33 @@
-_id: 6a1573358c93ce2b1f16430d
+_id: 6a19322e424894b42df3ce75
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 81fe234f-f9bd-57f1-aa7c-0ac80c931edc
-classicId: '3233186'
-classicProductId: '588320'
+  - a3922e1a-6f51-5b75-804f-c73c205eb9eb
+classicId: '3244076'
+classicProductId: '588324'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 75
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 073e7482-552b-47db-99cb-ea9d79f4756d
+id: a0ffdc4b-f95d-45e8-8ae7-19c318a80334
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
   extension: image/png
-  id: abec5488-69e7-40b7-9793-b7e3e3619bde
+  id: cc5c7a39-e344-4ad7-9653-bb7ee953c763-tr
   priority: 0
-  slug: fashion-01-png-product-1
+  slug: heat-essentials-thermo-leggings-merino-jpg-product-1
   type: product
 logo:
   channels:
@@ -34,11 +35,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1643389
+  id: 2034318
   priority: 100
-  slug: heat-essentials-logo
+  slug: heat-essentials-thermo-leggings-merino
   type: logo
-offerId: 4832c96f-87b0-42be-b5bf-20166407e2e5
+offerId: 16681892-ed0c-47b5-9476-b9519572e9d3
 price:
   cents: 1500
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.95
 slug: heat-essentials-merino-wollen-thermo-broek-heren
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Heat Essentials Merino Wollen Thermo Broek | Heren

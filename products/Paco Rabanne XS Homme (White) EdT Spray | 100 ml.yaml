@@ -1,12 +1,12 @@
-_id: 6a155f26e407d96446b14fe9
+_id: 6a197c2b013f9a54609fbe34
 appOnly: false
 brand: Paco Rabanne
 brands:
   - id: f7fe4022-0755-5c75-a33d-49190b093726
     name: Paco Rabanne
 categories:
-  - eaa0c1be-7c30-5016-959a-8a99d598144b
-classicId: '3231210'
+  - d409a77a-fff0-51a6-9a8b-0341ab9b6d27
+classicId: '3248918'
 classicProductId: '278069'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 91cdbfc0-94fd-5ec1-bfcb-5fd88ed24116
+id: 14f7c405-cf8d-4237-a518-735680fe0d52
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1696858
-  priority: 100
-  slug: paco-rabanne-xs-homme-white-edt-100-ml
+    - all
+  extension: image/jpeg
+  id: 72223a30-e103-40f6-b284-7a8dfab71a79
+  priority: 0
+  slug: paco-rabanne-xs-homme-white-edt-100-ml-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: paco-rabanne-logo
   type: logo
-offerId: 99d5cac5-48a6-52fa-946e-f25295948af0
+offerId: 83c71a95-3ba7-44ea-a0f6-77e5f3bb4c1f
 price:
   cents: 3895
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 93.39
 slug: paco-rabanne-xs-homme-white-edt-spray-100-ml
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Paco Rabanne XS Homme (White) EdT Spray | 100 ml

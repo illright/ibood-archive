@@ -1,22 +1,22 @@
-_id: 6a158d1589752b02e64d4712
+_id: 6a1978ce9dade519c16e5acc
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3237535'
+  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
+classicId: '3247736'
 classicProductId: '700111'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 49
-end: '2026-05-29T21:59:59.999Z'
+discount: 37
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: bda668f4-4953-41f0-a675-8c74507ebbf7
+id: 46793dbe-482e-4bae-b420-95ff7483879e
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: xxl-salute-20720438-bhbaron-polo-noos-blend-product-3
   type: product
-offerId: 9bd3d32b-db6e-47d2-b970-7ad3ba02f723
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d79dcec8-87d1-4f25-8ca4-c523fc4396e4
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: 712e7a88-70ac-48ab-961d-befe79bbb708
 price:
-  cents: 1795
+  cents: 2195
   currency: EUR
-  value: 17.95
+  value: 21.95
 referencePrice:
   cents: 3495
   currency: EUR
   value: 34.95
 slug: blend-poloshirt-noos-salute-dark-blue
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Blend Poloshirt Noos | Salute Dark Blue

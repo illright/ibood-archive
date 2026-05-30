@@ -1,22 +1,22 @@
-_id: 6a156e0f76d53933753c8d45
+_id: 6a194e4ee785a1ede7e135e8
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - 6c986d43-a278-504e-8b49-235f94ac14a8
-classicId: '3232023'
+  - 9d723f02-2cc5-528e-95a8-aeb67cea3bfc
+classicId: '3244628'
 classicProductId: '701584'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 44
-end: '2026-05-29T21:59:59.999Z'
+discount: 40
+end: '2026-06-01T21:59:59.999Z'
 freeDelivery: false
-id: ca7ea1a9-a632-4ddc-916d-fa986951cbf6
+id: 2e8da8a0-fb33-4ccb-b520-f60729260fc6
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: jeans-trousers-light-blue-stretch-reinforc-s-ce-lahti-product-0
   type: product
-offerId: d1962704-5be5-4b06-82db-eeaf2238378b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1591171
+  priority: 100
+  slug: lahti-pro-logo
+  type: logo
+offerId: bf2561e3-4db4-4d68-8107-aaa9462f7b30
 price:
-  cents: 2795
+  cents: 2995
   currency: EUR
-  value: 27.95
+  value: 29.95
 referencePrice:
   cents: 4990
   currency: EUR
   value: 49.9
 slug: lahti-pro-werkjeans-slim-fit-320-g-m2-l40547
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Lahti Pro Werkjeans Slim Fit | 320 g/m² | L40547

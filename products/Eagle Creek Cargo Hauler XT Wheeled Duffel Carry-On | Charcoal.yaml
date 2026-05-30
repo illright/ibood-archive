@@ -1,12 +1,12 @@
-_id: 6a157366ad645948f2e7afdd
+_id: 6a1931df013f9a54609fbc4d
 appOnly: false
 brand: Eagle Creek
 brands:
   - id: ef7f1938-b585-5c4e-94b1-689d0d45e4d7
     name: Eagle Creek
 categories:
-  - 7081865e-feae-5307-ae6d-ca380c818006
-classicId: '3233281'
+  - eff0dceb-2de8-57a3-abfe-280b142a7877
+classicId: '3243936'
 classicProductId: '709614'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 263e669b-3060-4749-b87f-1809bdbda715
+id: 0ebf5240-afef-40b2-9182-8e936f78b308
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: charcoal-ec030301012-cargo-hauler-xt-wheeled-duffel-international-carry-on-eagle-creek-product-0
   type: product
-offerId: 5f0f3557-5c6c-4293-bdbe-32367261d441
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1558275
+  priority: 100
+  slug: eagle-creek-logo
+  type: logo
+offerId: 19dbb55e-b6b1-49fd-b78e-442b1a2fa6a5
 price:
   cents: 14995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 270
 slug: eagle-creek-cargo-hauler-xt-wheeled-duffel-carry-on-charcoal
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Eagle Creek Cargo Hauler XT Wheeled Duffel Carry-On | Charcoal

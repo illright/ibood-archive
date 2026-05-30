@@ -1,22 +1,22 @@
-_id: 6a158a2fb6fba0fd06863e91
+_id: 6a1977f355c58ca33f1c6fde
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3236114'
+  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
+classicId: '3247459'
 classicProductId: '698362'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: f317cef1-940c-4b22-a471-96268b75c3fc
+id: 3b841b5b-a74f-48d0-8330-524320c2d46b
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: cef53f0c-62be-4b5e-b3d9-dac40a68c2a4
+offerId: 64130329-481f-47a1-a911-9b11cdeb39bc
 price:
   cents: 1995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: petrol-industries-joggingshort-m-1060-sho125-marble-blue
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: Petrol Industries Joggingshort | M-1060-SHO125 | Marble Blue

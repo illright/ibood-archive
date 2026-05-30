@@ -1,12 +1,12 @@
-_id: 6a1589afe021d0e848e850ec
+_id: 6a19775a37fe182ee7942312
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3235959'
+  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
+classicId: '3247280'
 classicProductId: '689576'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 73
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: d9e731c4-8b5a-40ba-a88a-ccd5cbe1402b
+id: 66f5af0f-2ff7-4c95-9790-2b5daae6eee8
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 12-png-product-1
   type: product
-offerId: b910fa3c-7ea1-4945-ab16-7c8ed0d576b2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: 9603878f-ab90-4f6e-bd0e-499ad4a3d88e
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: mcgregor-garment-dye-corduroy-chino-heren
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: McGregor Garment Dye Corduroy Chino | Heren

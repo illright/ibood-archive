@@ -1,12 +1,12 @@
-_id: 6a0c577661358d15f979b169
+_id: 6a195bbe384515407688c8b9
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 6aa888fa-9343-55ba-911b-db91d6ba72a8
-classicId: '3222230'
+  - afc2499f-aaee-5235-b4ca-c5212838b81f
+classicId: '3245002'
 classicProductId: '710843'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 66
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: b4a25783-80e5-5ec5-9126-79bc116b2c1d
+id: d3968f75-0e8b-4be0-acfa-48f49bb7a88f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1285af45-b2df-4915-9a62-5d8e241ed815
-  priority: 0
-  slug: jack-jones-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 771e59af-2de4-5cf8-93bc-d9f171662248
+offerId: 09bab1db-b841-4fee-89ba-00ff735ec0b7
 price:
   cents: 1695
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 50
 slug: jack-jones-jfwswindon-combo-sneaker-12289630
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Jack & Jones Windon Combo Sneakers | Heren
+itle: Jack & Jones Windon Combo Sneakers | Heren

@@ -1,12 +1,12 @@
-_id: 6a1572e3215b55471e281406
+_id: 6a19318496d305194670afdf
 appOnly: false
 brand: Tenson
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: Tenson
 categories:
-  - b5707e00-094b-5284-bd0b-20d8a9478a51
-classicId: '3233046'
+  - f1c80392-204b-53e0-919e-e24949eb2f94
+classicId: '3243755'
 classicProductId: '697157'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 19119578-00ca-4dbc-9fb0-132451658318
+id: 16b4700e-a577-496b-a23c-673c60c12850
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: xl-dark-navy-5018425-590-txlite-blend-polo-men-tenson-product-0
   type: product
-offerId: 0e8dfaf7-a0f2-4cdb-aa91-d52978d1e1f6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1504614
+  priority: 100
+  slug: tenson-logo
+  type: logo
+offerId: 8c5ee597-bd00-4fe3-8577-c7b46b0ad3c3
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 45
 slug: tenson-txlite-blend-poloshirt-dark-navy
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 'Tenson TXlite Blend Poloshirt | Dark Navy '

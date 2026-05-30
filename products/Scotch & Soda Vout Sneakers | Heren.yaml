@@ -1,22 +1,22 @@
-_id: 6a1589a56459546c98ae4fd7
+_id: 6a195ccf5fe1f581190a0bf5
 appOnly: false
 brand: Scotch & Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch & Soda
 categories:
-  - ba14c61c-4cde-5276-b1ca-3fe06ab7e517
-classicId: '3235937'
-classicProductId: '695002'
+  - afc2499f-aaee-5235-b4ca-c5212838b81f
+classicId: '3245284'
+classicProductId: '695001'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: c4f7bb95-b582-4e8b-9863-d8780edc8128
+id: eec997c2-1df6-49e4-b013-5d7dacb488ba
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: scotch-and-soda-logo-0
   type: logo
-offerId: 19d4a816-49b3-4e15-842d-0287305a618d
+offerId: c995d88a-bf81-4477-9586-75fc5805e79c
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 89.95
 slug: scotch-soda-vout-sneakers-heren
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Scotch & Soda Vout Sneakers | Heren

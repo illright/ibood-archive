@@ -1,22 +1,22 @@
-_id: 6a158ba9c2e90de2ab5585bf
+_id: 6a1977f7a80a9f8d5f70dcbf
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - ef1bbb16-4842-5aaf-ab26-4d5e44483577
-classicId: '3237206'
-classicProductId: '647339'
+  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
+classicId: '3247457'
+classicProductId: '647338'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 70
-end: '2026-05-29T21:59:59.999Z'
+directCheckout: true
+discount: 81
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: e2e6240b-ff11-4cee-9b3d-e55b3d9aef89
+id: 6b95f6f2-c12f-451a-a73a-9f3b0aedff8e
 image:
   channels:
     - app
@@ -28,16 +28,16 @@ image:
   priority: 0
   slug: shortsz-png-product-1
   type: product
-offerId: dbe2102e-c322-46d8-b108-ad4821dd087b
+offerId: 0c8d2686-9d45-4c0f-8699-4331848b6385
 price:
-  cents: 1495
+  cents: 950
   currency: EUR
-  value: 14.95
+  value: 9.5
 referencePrice:
   cents: 4995
   currency: EUR
   value: 49.95
 slug: blend-cargo-shorts-heren
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: Blend Cargo Shorts | Heren

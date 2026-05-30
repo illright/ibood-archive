@@ -1,12 +1,12 @@
-_id: 6a1572c35769ae647fa8bb6b
+_id: 6a19318ac2e90de2ab558742
 appOnly: false
 brand: K-Swiss
 brands:
   - id: f4bb9134-1177-560b-b793-33dc6851eb47
     name: K-Swiss
 categories:
-  - b5707e00-094b-5284-bd0b-20d8a9478a51
-classicId: '3233013'
+  - 6e04f73b-10c3-5621-b562-042706be232b
+classicId: '3243767'
 classicProductId: '658732'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2026-05-29T21:59:59.999Z'
+end: '2026-06-02T21:59:59.999Z'
 freeDelivery: false
-id: 7c61e730-e477-45de-85fe-665f680a587e
+id: d53f8d7c-1678-42ca-870a-69279d529895
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: k-swiss-logo
   type: logo
-offerId: 57c6d164-43de-466f-be4d-ae31eece99ec
+offerId: d1b59f0c-7867-4faf-900e-9088c8c51d4c
 price:
   cents: 6300
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 119.99
 slug: k-swiss-tfw-express-light-3-clay-dames-trainer
-soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+soldOut: true
+start: '2026-05-29T22:00:00.000Z'
 title: K-Swiss Express Light 3 Clay Tennischoenen | Dames
