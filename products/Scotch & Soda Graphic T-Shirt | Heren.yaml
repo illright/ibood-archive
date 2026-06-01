@@ -1,4 +1,4 @@
-_id: 6a197a58d91f58b2e912a994
+_id: 6a197a46d91f58b2e912a991
 appOnly: false
 brand: Scotch & Soda
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Scotch & Soda
 categories:
   - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3248254'
-classicProductId: '687021'
+classicId: '3248218'
+classicProductId: '687017'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 50
+directCheckout: true
+discount: 60
 end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 41c519ed-f8d5-4c24-9c04-2bbfe99caf9c
+id: 8fdffe88-4aa6-4c67-ba36-6f90c84ebc64
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5ad6a36d-fd10-4a34-92be-b7784db42986
+  id: daa40178-46ce-4711-b3f1-6a1e8c7b6adb-tr
   priority: 0
-  slug: 1-png-product-1
+  slug: l-dark-obsidian-475-ssp26vmt-21463-graphic-tee-scotch-and-soda-product-1
   type: product
 logo:
   channels:
@@ -39,18 +39,17 @@ logo:
   priority: 0
   slug: scotch-and-soda-logo-0
   type: logo
-offerId: 1f56aa07-6031-4923-8562-67881ca18a44
+offerId: a7a658d6-7ed7-4bd6-930f-e9f321665005
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 3995
+  cents: 4995
   currency: EUR
-  value: 39.95
+  value: 49.95
 slug: scotch-soda-graphic-t-shirt-heren
-soldOut: false
+soldOut: true
 start: '2026-05-29T22:00:00.000Z'
 title: Scotch & Soda Graphic T-Shirt | Heren
-2:00:00.000Z'
-title: Scotch & Soda Graphic T-Shirt | Heren
+

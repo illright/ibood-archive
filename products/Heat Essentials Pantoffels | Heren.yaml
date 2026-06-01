@@ -1,22 +1,22 @@
-_id: 6a195cfde785a1ede7e1362c
+_id: 6a195da19c00061ef01f578a
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - afc2499f-aaee-5235-b4ca-c5212838b81f
-classicId: '3245302'
-classicProductId: '667982'
+  - 077f789b-5450-5c90-8b62-74eb90818b89
+classicId: '3245386'
+classicProductId: '667981'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 58
+directCheckout: true
+discount: 66
 end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 44b75b6c-084d-4184-807a-317fafa8f70a
+id: 2e9b5896-474d-43ea-8d78-df0fa610108b
 image:
   channels:
     - app
@@ -30,25 +30,26 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6e69363c-4713-43b0-bedf-e95b8aa77458
-  priority: 0
-  slug: heat-essentials-png-logo-0
+  extension: png
+  id: 1643389
+  priority: 100
+  slug: heat-essentials-logo
   type: logo
-offerId: 64dc5cc7-4802-48e7-905f-cc391296dd64
+offerId: fbdc7158-a388-4e48-8753-748ab84ba2b8
 price:
-  cents: 1695
+  cents: 1377
   currency: EUR
-  value: 16.95
+  value: 13.77
 referencePrice:
   cents: 3995
   currency: EUR
   value: 39.95
 slug: heat-essentials-hausschuhe-schwarz-herren
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-05-31T22:00:00.000Z'
+title: Heat Essentials Pantoffels | Heren
+0.000Z'
 title: Heat Essentials Pantoffels | Heren

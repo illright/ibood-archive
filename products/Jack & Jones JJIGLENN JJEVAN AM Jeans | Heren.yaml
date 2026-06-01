@@ -1,12 +1,12 @@
-_id: 6a162aff56f2e7ebed2d4823
+_id: 6a195dbda9c146cc47c0e9ae
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 6aa888fa-9343-55ba-911b-db91d6ba72a8
-classicId: '3239942'
+  - 077f789b-5450-5c90-8b62-74eb90818b89
+classicId: '3245414'
 classicProductId: '656856'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 83
-end: '2026-05-31T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 7f045e2c-695d-4db1-a324-b63529637a1e
+id: ec0c24d2-830c-4a05-af91-186a88693801
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 08a392e3-ba0d-47c6-ab89-127ab438e734
-  priority: 0
-  slug: jack-jones-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 0677c6da-5015-4653-9fdf-a4ff39a44ce2
+offerId: 481d1d77-d9a6-4b76-8d31-cc7bee9d4fa2
 price:
   cents: 1178
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 70
 slug: jack-jones-jjiglenn-jjevan-am-jeans
 soldOut: false
-start: '2026-05-26T22:00:00.000Z'
+start: '2026-05-31T22:00:00.000Z'
 title: Jack & Jones JJIGLENN JJEVAN AM Jeans | Heren

@@ -1,22 +1,22 @@
-_id: 6a162b68a8c76037ac65d812
+_id: 6a1977eccc9cd28ce0a39c61
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 6aa888fa-9343-55ba-911b-db91d6ba72a8
-classicId: '3240006'
-classicProductId: '680121'
+  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
+classicId: '3247442'
+classicProductId: '680122'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-05-31T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 008eb165-8a82-43b5-afb7-1f832360c597
+id: d8674e42-d171-47c9-9291-55d63f71f2a8
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
+    - all
+  extension: image/png
+  id: b631a17e-9a83-4583-ad54-c8bebc7fd335
+  priority: 0
+  slug: jack-and-jones-chino-shorts-herren-png-logo-0
   type: logo
-offerId: 8e39acee-1a73-425e-a80b-436143e7886c
+offerId: 08672313-3483-43cd-9a24-b2db31fe690f
 price:
   cents: 1995
   currency: EUR
@@ -51,7 +52,5 @@ referencePrice:
   value: 39.99
 slug: jack-jones-fred-chino-shorts-jack-jones-fred-chino-shorts-blue-mirage
 soldOut: true
-start: '2026-05-26T22:00:00.000Z'
-title: Jack & Jones Fred Chino Shorts | Blue Mirage
--05-29T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: Jack & Jones Fred Chino Shorts | Blue Mirage
