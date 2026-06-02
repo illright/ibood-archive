@@ -1,12 +1,12 @@
-_id: 6a194e708182b4d5f672ade5
+_id: 6a1d52ca4d434a2f15ec3fd6
 appOnly: false
 brand: Tiger
 brands:
   - id: f0765e68-96e4-5a85-9c99-070faa849fe6
     name: Tiger
 categories:
-  - 9d723f02-2cc5-528e-95a8-aeb67cea3bfc
-classicId: '3244687'
+  - 7a49b00b-f07f-52b8-b50a-64413792102f
+classicId: '3253109'
 classicProductId: '691073'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-06-01T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 09c1f645-2b82-404e-97b1-62bc2c4c738c
+id: aeb6e8a6-4144-4027-95a1-df409545b4f3
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: tiger-logo
   type: logo
-offerId: 506d6566-b93e-4fd6-ae5e-907b88addb8c
+offerId: 7ee94060-da13-438e-a606-cca7a11f9ee6
 price:
   cents: 1495
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 41.95
 slug: tiger-dock-zeepdispenser-135-ml-vrijstaand-rvs-geborsteld
-soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+soldOut: true
+start: '2026-06-01T22:00:00.000Z'
 title: Tiger Dock Zeepdispenser | 135 ml | Vrijstaand | RVS Geborsteld

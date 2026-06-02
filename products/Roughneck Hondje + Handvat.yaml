@@ -1,12 +1,12 @@
-_id: 6a194e1d65bdec58499a7edb
+_id: 6a1d52bad68e4912a4466f97
 appOnly: false
 brand: Roughneck
 brands:
   - id: 98bab236-d75c-5c10-8029-bdb28f266cc3
     name: Roughneck
 categories:
-  - 9d723f02-2cc5-528e-95a8-aeb67cea3bfc
-classicId: '3244540'
+  - 7a49b00b-f07f-52b8-b50a-64413792102f
+classicId: '3253065'
 classicProductId: '190369'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-06-01T21:59:59.999Z'
+end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: 0f8d6ab6-2308-47e8-b909-12453b9ee5e9
+id: 06daea57-93fc-418e-b957-e3dad4e2732a
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: roughneck-logo
   type: logo
-offerId: 0a655710-07d9-419b-b6f8-9df566bb9686
+offerId: aa06c26f-355b-4fa0-b206-674d0870b43a
 price:
   cents: 1995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: roughneck-hondje-handvat
-soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+soldOut: true
+start: '2026-06-01T22:00:00.000Z'
 title: Roughneck Hondje + Handvat
