@@ -1,12 +1,12 @@
-_id: 6a1931efb8add18f45cea348
+_id: 6a1d3032b4f8bf7aeeba7d62
 appOnly: false
 brand: AGU
 brands:
   - id: 3bc667aa-cf50-53cd-a2e7-2143117f3def
     name: AGU
 categories:
-  - eff0dceb-2de8-57a3-abfe-280b142a7877
-classicId: '3243977'
+  - d7f8a10b-219a-5ada-bb26-bbe9209fd027
+classicId: '3252003'
 classicProductId: '559043'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 25b3bcee-8a1e-498c-bb12-ebdcff1a1ef2
+id: 5e89398f-8e8e-4367-b2dc-2e133ae17fc2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1887280
+    - all
+  extension: image/png
+  id: 2983ba16-af65-493a-8240-341011f9d148-tr
   priority: 0
-  slug: agu-beam-fietsbril-fluo-yellow-405114
+  slug: agu-beam-fahrradbrille-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: agu-logo
   type: logo
-offerId: 48eced26-2344-4137-8bac-5ea08826b400
+offerId: 3cc30046-3818-4611-970e-342a7ca00095
 price:
   cents: 1695
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 44.95
 slug: agu-beam-fietsbril-fluo-yellow-405114
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: Agu Beam Fietsbril | Fluo Yellow | 405114

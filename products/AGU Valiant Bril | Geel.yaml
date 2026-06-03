@@ -1,12 +1,12 @@
-_id: 6a1931eda47bd32ddd04f829
+_id: 6a1d301f664b797c7eb12abc
 appOnly: false
 brand: AGU
 brands:
   - id: 3bc667aa-cf50-53cd-a2e7-2143117f3def
     name: AGU
 categories:
-  - eff0dceb-2de8-57a3-abfe-280b142a7877
-classicId: '3243974'
+  - d7f8a10b-219a-5ada-bb26-bbe9209fd027
+classicId: '3251981'
 classicProductId: '622592'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: d4d79002-785d-4b09-b392-109da635db31
+id: 5307e5a3-01ca-49c4-b910-c621ab64b71a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2184504
+    - all
+  extension: image/png
+  id: a88650cf-a380-4795-96c5-e2924740cfdb-tr
   priority: 0
-  slug: agu-valiant-bril-geel
+  slug: agu-valiant-fahrradbrille-1-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: agu-logo
   type: logo
-offerId: 6f3f47e5-5708-4377-a13d-e8f73a0aa809
+offerId: a6552144-d21b-4cf4-9f8b-795a78248aba
 price:
   cents: 1795
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 49.95
 slug: agu-valiant-bril-geel
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: AGU Valiant Bril | Geel

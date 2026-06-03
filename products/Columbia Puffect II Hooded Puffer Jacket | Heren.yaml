@@ -1,22 +1,22 @@
-_id: 6a193228384515407688c867
+_id: 6a104a8493c5c7be9d2282bc
 appOnly: false
 brand: Columbia
 brands:
   - id: 5f0ce9cd-63f2-5848-80c4-5da01f910498
     name: Columbia
 categories:
-  - a3922e1a-6f51-5b75-804f-c73c205eb9eb
-classicId: '3244069'
+  - 486e8496-e4ce-5912-aff0-36b50c4fbe59
+classicId: '3229984'
 classicProductId: '691455'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 69
-end: '2026-06-02T21:59:59.999Z'
+discount: 66
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: cd15c953-00a9-45ce-ad6a-3cd321f6b8d7
+id: dccd1fed-3d5c-4a7a-93ee-f2fc436d30b1
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1921819
-  priority: 100
-  slug: columbia-logo
+    - all
+  extension: image/png
+  id: d39a5840-5fbf-4c2e-b9a7-a3482e8c41b9
+  priority: 0
+  slug: columbia-png-logo-0
   type: logo
-offerId: 8d7e734c-6719-4210-88a7-88dd1c9d66f9
+offerId: ae1f8442-b654-4d23-987f-774eb2669a0d
 price:
-  cents: 5000
+  cents: 5500
   currency: EUR
-  value: 50
+  value: 55
 referencePrice:
   cents: 16000
   currency: EUR
   value: 160
 slug: columbia-puffect-ii-hooded-puffer-jacket-heren
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: Columbia Puffect II Hooded Puffer Jacket | Heren

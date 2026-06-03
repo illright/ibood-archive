@@ -1,12 +1,12 @@
-_id: 6a195f565769ae647fa8bf58
+_id: 6a1e9e5a49ab7fd28c0db08c
 appOnly: false
 brand: GreenPan
 brands:
   - id: 23b3d7af-a873-5386-8c95-20bb07ea82ad
     name: GreenPan
 categories:
-  - 7ee7bf3d-f062-5f86-8699-d4ce446f9c2f
-classicId: '3245870'
+  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
+classicId: '3254101'
 classicProductId: '640163'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 5e50d1e7-de62-476f-aa2e-434d95f585a7
+id: 2f4195eb-68b9-4d57-9336-9d5658734bfc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2270743
+    - all
+    - app
+    - website
+  extension: image/png
+  id: d11cad8c-2b42-4193-8022-d5a0f198dc87-tr-cr
   priority: 0
-  slug: greenpan-craft-bratpfanne-24-cm
+  slug: greenpan-craft-bratpfanne-24-cm-1-jpg-product-2
   type: product
 logo:
   channels:
@@ -38,7 +41,7 @@ logo:
   priority: 0
   slug: greenpan-logo-101
   type: logo
-offerId: f338179f-d1e6-4cb8-b1a5-6f662d1faefc
+offerId: 9bef0b15-5343-46f5-971a-865a0508b695
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +52,5 @@ referencePrice:
   value: 89.9
 slug: greenpan-craft-keramische-koekenpan-24-cm
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: Greenpan Craft Keramische Koekenpan | 24 cm | PFAS-vrij

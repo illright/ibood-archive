@@ -1,12 +1,12 @@
-_id: 6a1931f107f7517efd8148ae
+_id: 6a1d3035664b797c7eb12b13
 appOnly: false
 brand: AGU
 brands:
   - id: 3bc667aa-cf50-53cd-a2e7-2143117f3def
     name: AGU
 categories:
-  - eff0dceb-2de8-57a3-abfe-280b142a7877
-classicId: '3243984'
+  - d7f8a10b-219a-5ada-bb26-bbe9209fd027
+classicId: '3252012'
 classicProductId: '559050'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: ae6d9602-79eb-4206-be8b-29594e27a16c
+id: 8f8f8341-3c7e-4c36-958f-547d1e7a8f9e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1891054
+    - all
+  extension: image/png
+  id: bcc6f871-875d-498d-bbac-65e9a357d9c5-tr
   priority: 0
-  slug: agu-medina-hd-sportbril-met-uv400-anti-mist
+  slug: agu-medina-hd-fahrradbrille-uv400-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: agu-logo
   type: logo
-offerId: 9e1abcaf-c09b-4913-b384-fdeea4827615
+offerId: defff9f1-f05e-42ed-a5cd-ceb50b147535
 price:
   cents: 2295
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 74.95
 slug: agu-medina-hd-sportbril-met-uv400-anti-mist
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: AGU Medina HD Sportbril met UV400 & Anti-Mist

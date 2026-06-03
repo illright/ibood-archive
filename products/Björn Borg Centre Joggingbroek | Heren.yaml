@@ -1,32 +1,34 @@
-_id: 6a16bf59b26355346b4fd223
+_id: 6a1d4a8c16420ed29886b64b
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - e25bad16-a272-58f6-94f5-0e7a5c36f8ff
-classicId: '3240631'
-classicProductId: '702545'
+  - 13bb70b1-3c82-54e2-ab9c-84066877b66d
+classicId: '3252388'
+classicProductId: '702552'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 4800a5b7-1e7e-4215-86f2-4c9b8d63d846
+id: cc313d8f-b48c-4bf9-9f85-e9b5b10ba919
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 69b48dab-3c10-4aaa-8c94-e4fb684a2a6c
+  id: 6570d13b-fb36-4f1d-86b5-532cbd5df658-tr
   priority: 0
-  slug: sweatpants-png-product-1
+  slug: l-light-grey-melange-10004243-me005-centre-tapered-sweatpants-bjorn-borg-product-2
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: bjorn-borg-logo
   type: logo
-offerId: 595d1450-c93d-44d5-a3d1-60f5e642be94
+offerId: ea70a605-3818-4f21-a23b-5054f319eeb1
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 69.95
 slug: bjorn-borg-centre-joggingbroek-heren
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: Björn Borg Centre Joggingbroek | Heren

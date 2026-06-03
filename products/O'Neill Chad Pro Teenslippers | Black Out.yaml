@@ -1,12 +1,12 @@
-_id: 6a1931ab55c58ca33f1c6e6d
+_id: 6a195e9d55c58ca33f1c6f23
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 0dc48ac4-0519-504b-9fdc-8e5a1ba438c9
-classicId: '3243831'
+  - 046aca80-f2ce-5c65-8bd6-473174a8a0b8
+classicId: '3245590'
 classicProductId: '692671'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: ddf0293a-4c04-4cad-966d-4b0c9490b65b
+id: 98c5b378-29b1-4d2f-9c1b-23c5edf734fe
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 44-black-out-2400064-19010-chad-pro-sandals-mens-product-3
   type: product
-offerId: 6025733a-d30a-48c5-959c-533d07efa58a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
+  type: logo
+offerId: 6eaff61b-1c22-4b4f-bf19-5f14e1dbb312
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 44.99
 slug: oneill-chad-pro-teenslippers-black-out
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: O'Neill Chad Pro Teenslippers | Black Out

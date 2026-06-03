@@ -1,12 +1,12 @@
-_id: 6a1931e6b26355346b4fd2af
+_id: 6a1d301fb4f8bf7aeeba7d41
 appOnly: false
 brand: AGU
 brands:
   - id: 3bc667aa-cf50-53cd-a2e7-2143117f3def
     name: AGU
 categories:
-  - eff0dceb-2de8-57a3-abfe-280b142a7877
-classicId: '3243953'
+  - d7f8a10b-219a-5ada-bb26-bbe9209fd027
+classicId: '3251978'
 classicProductId: '622591'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: ff136442-3a01-4622-bf56-f69404466505
+id: 69d68770-89c1-4314-bdee-f3b6e441d07f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2184500
+    - all
+  extension: image/png
+  id: faa5b1d3-5adc-4f20-86d6-2cd72c907b41-tr
   priority: 0
-  slug: agu-valiant-bril-wit
+  slug: agu-valiant-fahrradbrille-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: agu-logo
   type: logo
-offerId: 954bc00f-759b-42d6-8c13-4d71f4449a58
+offerId: c370585a-4252-45d7-b6cb-1504d50f4f2e
 price:
   cents: 1795
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 49.95
 slug: agu-valiant-bril-wit
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: AGU Valiant Bril | Wit

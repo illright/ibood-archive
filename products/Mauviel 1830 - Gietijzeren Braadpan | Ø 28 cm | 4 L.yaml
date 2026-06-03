@@ -1,12 +1,12 @@
-_id: 6a195f6b41a26464183178b3
+_id: 6a1e9ec85b7af836dc214bcd
 appOnly: false
 brand: Mauviel 1830
 brands:
   - id: 02547635-0087-5f5f-b714-da42dbc0de7c
     name: Mauviel 1830
 categories:
-  - 7ee7bf3d-f062-5f86-8699-d4ce446f9c2f
-classicId: '3246038'
+  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
+classicId: '3254245'
 classicProductId: '461473'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 71
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 9c2b0bbd-e8a2-48fb-910c-fadefe5ac37b
+id: 6c949e3c-3bcc-454a-84f2-3d7c0cf09039
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2157550
+  extension: image/png
+  id: 6ea50ca9-62e1-4178-870e-e1c91e3db754-tr-cr
   priority: 0
-  slug: mauviel-1830-gietijzeren-braadpan-28-cm
+  slug: mauviel-1830-brater-aus-gusseisen-28-cm-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: mauviel-1830-logo
   type: logo
-offerId: a8d8867b-aaef-46f5-9671-af7ec05ed31e
+offerId: 6c58953b-723e-4fe9-8ae8-b2800f81185c
 price:
   cents: 6995
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 239.9
 slug: mauviel-1830-gietijzeren-braadpan-28-cm
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: Mauviel 1830 - Gietijzeren Braadpan | Ø 28 cm | 4 L

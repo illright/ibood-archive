@@ -1,12 +1,12 @@
-_id: 699473306974958ca1910857
+_id: 6a1e9ede5b7af836dc214bee
 appOnly: false
 brand: Solis
 brands:
   - id: 1abd1a6b-4fdf-59e5-aca3-9ac51bbb923c
     name: Solis
 categories:
-  - c56b5573-0010-5741-846e-c54694aa2b98
-classicId: '3012511'
+  - 875d00fe-409e-58fa-b839-7ea27f288c03
+classicId: '3254446'
 classicProductId: '216994'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 35
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 9a8d834c-2dcd-5439-8a65-2e9cd670d48c
+id: 569b9e8a-9237-4332-9032-0f6bbfa989a8
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: schermafbeelding-2026-05-29-131745-png-product-0
   type: product
-offerId: 450d7b57-f687-5e16-87f5-fc038346bafe
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1649227
+  priority: 100
+  slug: solis-logo
+  type: logo
+offerId: 7811e0a9-43de-485b-b067-84b2d200f893
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 19.99
 slug: solis-grind-infuse-compact-waterfilter
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: 'Solis Grind & Infuse Compact Waterfilter '

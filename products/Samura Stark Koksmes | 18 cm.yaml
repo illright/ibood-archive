@@ -1,12 +1,12 @@
-_id: 6a195f78e785a1ede7e1368c
+_id: 6a1e9ef9891607ec624fa9b9
 appOnly: false
 brand: Samura
 brands:
   - id: 3a5fdc44-5875-5e72-8076-0dcea8fa54a6
     name: Samura
 categories:
-  - ba117743-8e40-54e9-84e0-1b79a2580a7c
-classicId: '3246103'
+  - 2ffb5aaf-365f-5b55-bff7-fce8a6815062
+classicId: '3254501'
 classicProductId: '680369'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 81
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 552baf51-9910-4bac-b269-cb1456060a7b
+id: 47d5dfbc-3b95-4e53-ac95-6d0d9e766155
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: samura-logo
   type: logo
-offerId: 8122d08c-3db3-4fe9-bf64-03335f47f13a
+offerId: 643b5fc5-a9bc-466b-a2a7-f4561948af91
 price:
   cents: 1495
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 79.99
 slug: samura-stark-koksmes-18-cm
-soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+soldOut: true
+start: '2026-06-02T22:00:00.000Z'
 title: Samura Stark Koksmes | 18 cm

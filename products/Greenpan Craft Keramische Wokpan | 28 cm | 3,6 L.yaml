@@ -1,12 +1,12 @@
-_id: 6a195f6b37fe182ee7942293
+_id: 6a1e9ec8891607ec624fa955
 appOnly: false
 brand: GreenPan
 brands:
   - id: 23b3d7af-a873-5386-8c95-20bb07ea82ad
     name: GreenPan
 categories:
-  - 7ee7bf3d-f062-5f86-8699-d4ce446f9c2f
-classicId: '3246033'
+  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
+classicId: '3254233'
 classicProductId: '640164'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: eed24965-ac45-440b-a70c-7f36fa719d68
+id: 02d5495a-ebf7-4c17-a437-1a14f93e8bbc
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2270746
+  extension: image/png
+  id: cf909641-a753-4718-8107-41986eb34b24-cr
   priority: 0
-  slug: greenpan-craft-keramische-wokpan-28-cm
+  slug: greenpan-craft-wokpfanne-28-cm-1-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +41,7 @@ logo:
   priority: 0
   slug: greenpan-logo-101
   type: logo
-offerId: e64eeba1-24e8-4a68-84a6-c9761e3360f9
+offerId: 11a3a76d-d448-4a30-85f1-f90c6af0fad3
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +52,5 @@ referencePrice:
   value: 124.9
 slug: greenpan-craft-keramische-wokpan-28-cm
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: Greenpan Craft Keramische Wokpan | 28 cm | 3,6 L

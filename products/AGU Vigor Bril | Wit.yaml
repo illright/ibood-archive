@@ -1,12 +1,12 @@
-_id: 6a1931df65bdec58499a7e9d
+_id: 6a1d3023b4f8bf7aeeba7d47
 appOnly: false
 brand: AGU
 brands:
   - id: 3bc667aa-cf50-53cd-a2e7-2143117f3def
     name: AGU
 categories:
-  - eff0dceb-2de8-57a3-abfe-280b142a7877
-classicId: '3243938'
+  - d7f8a10b-219a-5ada-bb26-bbe9209fd027
+classicId: '3251985'
 classicProductId: '622594'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: eb88ee51-af50-43f5-9e7e-95871e2b9486
+id: 3b2aade3-6740-44f1-ada6-f2f84a6b0be9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2184511
-  priority: 100
-  slug: agu-vigor-bril-wit
+    - all
+  extension: image/png
+  id: 03b6fa9f-cb65-4264-975b-22533af3321a-tr
+  priority: 0
+  slug: agu-vigor-fahrradbrille-1-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: agu-logo
   type: logo
-offerId: 574c321c-bebc-4494-b297-7373487e6ceb
+offerId: bb91b061-5efa-4f34-8cad-15b21466bc93
 price:
   cents: 3495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 89.95
 slug: agu-vigor-bril-wit
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: AGU Vigor Bril | Wit

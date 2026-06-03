@@ -1,12 +1,12 @@
-_id: 6a195f4b96d305194670b0b7
+_id: 6a1e9e9bbf3136957b6338a6
 appOnly: false
 brand: KitchenAid
 brands:
   - id: 4c27a438-0010-5085-85c5-b664f78a8930
     name: KitchenAid
 categories:
-  - 7ee7bf3d-f062-5f86-8699-d4ce446f9c2f
-classicId: '3245781'
+  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
+classicId: '3254066'
 classicProductId: '706976'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-06-02T21:59:59.999Z'
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 5b78a93b-74f3-4812-93e2-0cc78a63f592
+id: 13486be9-abd5-4f25-a938-94eac0880091
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: f7c2e36f-a153-464a-bb44-206708b7bb56
+  id: f7c2e36f-a153-464a-bb44-206708b7bb56-tr-cr
   priority: 0
   slug: cc003573-001-kitchenaid-stainless-steel-koekenpannenset-20-28cm-pfas-vrij-product-2
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: kitchenaid-logo
   type: logo
-offerId: 6f44f3d9-9389-4d88-92d0-230e2b8e6fe6
+offerId: 5f93c3b7-f8ab-47f3-99ca-a9fcf571fe39
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 124.9
 slug: kitchenaid-koekenpannenset-rvs-20-28-cm
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: KitchenAid Koekenpannenset | RVS | 20 & 28 cm

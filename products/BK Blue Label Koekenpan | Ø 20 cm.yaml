@@ -1,30 +1,32 @@
-_id: 6a195f530ff77949c9ae1302
+_id: 6a1e9e9bbf3136957b6338a5
 appOnly: false
 brand: BK
 brands:
   - id: e5056490-ff9e-545f-98cd-4e160da1629d
     name: BK
 categories:
-  - 7ee7bf3d-f062-5f86-8699-d4ce446f9c2f
-classicId: '3245847'
+  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
+classicId: '3254078'
 classicProductId: '410853'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 52
-end: '2026-06-02T21:59:59.999Z'
+discount: 60
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: 4743b2e5-1a53-47b9-92cc-2f66f90384dc
+id: 73a44183-0e19-4da7-8b1d-321e64260f65
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: d09d3945-1de9-46f8-a8cb-fbf91c33b013
+    - website
+    - app
+  extension: image/png
+  id: d09d3945-1de9-46f8-a8cb-fbf91c33b013-tr
   priority: 0
   slug: bk-bratpfanne-blue-label-basics-20-cm-jpg-product-101
   type: product
@@ -39,16 +41,16 @@ logo:
   priority: 0
   slug: bk-logo-101
   type: logo
-offerId: 36f0be55-fe3d-4c2c-a7e7-6a296f28b8c1
+offerId: f4e8f608-8ebf-4380-b864-f3dfbf505e92
 price:
-  cents: 1195
+  cents: 995
   currency: EUR
-  value: 11.95
+  value: 9.95
 referencePrice:
   cents: 2490
   currency: EUR
   value: 24.9
 slug: bk-blue-label-koekenpan-20-cm
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-02T22:00:00.000Z'
 title: BK Blue Label Koekenpan | Ø 20 cm
