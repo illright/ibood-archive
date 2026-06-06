@@ -19,13 +19,16 @@ freeDelivery: false
 id: e0562738-a3f3-4ffc-a250-b5553a50fa37
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2020280
-  priority: 100
-  slug: combekk-sous-chef-braadpan-24-cm
+  extension: image/png
+  id: 87b13f15-ed93-43e9-be37-123c0c60da64-tr
+  priority: 0
+  slug: combekk-sous-chef-brater-38-l-24-cm-jpg-product-101
   type: product
 logo:
   channels:
@@ -48,7 +51,5 @@ referencePrice:
   value: 119
 slug: combekk-sous-chef-braadpan-24-cm
 soldOut: true
-start: '2026-06-02T22:00:00.000Z'
-title: Combekk Sous-Chef Braadpan | 24 cm
-6-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Combekk Sous-Chef Braadpan | 24 cm

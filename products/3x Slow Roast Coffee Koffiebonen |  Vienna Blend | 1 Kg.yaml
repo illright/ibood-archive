@@ -1,12 +1,12 @@
-_id: 6a1986a4e6c76dbb4cbbdc57
+_id: 6a2191c4706d53e8edfcd693
 appOnly: false
 brand: Slow Roast Coffee
 brands:
   - id: d8d6d021-9f66-5de4-be10-a96451eeeaa3
     name: Slow Roast Coffee
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3250611'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3259701'
 classicProductId: '703676'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: 8073090e-617f-457e-b5d1-4a5b8afb91a5
+id: ae81e032-31a8-4fd5-a25d-084090201f09
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: vienna-png-product-0
   type: product
-offerId: 4c3725be-4ba8-450f-a116-4fe0f7cc50e7
+offerId: c7403399-724f-4379-9938-ff48183d5198
 price:
   cents: 4795
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 75
 slug: 3x-slow-roast-coffee-koffiebonen-vienna-blend-1-kg
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-04T22:00:00.000Z'
 title: 3x Slow Roast Coffee Koffiebonen |  Vienna Blend | 1 Kg

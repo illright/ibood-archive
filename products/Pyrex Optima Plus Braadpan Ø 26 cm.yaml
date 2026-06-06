@@ -19,13 +19,16 @@ freeDelivery: false
 id: cf3b7664-f9ea-4ef9-b89b-f1da3fbf30c9
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2206871
+  extension: image/png
+  id: ee8825a5-e0c8-4755-8a54-4558847c7e57-tr
   priority: 0
-  slug: bratpfanne-26-cm
+  slug: bratpfanne-26-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -49,5 +52,5 @@ referencePrice:
   value: 26.9
 slug: pyrex-optima-plus-braadpan-26-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Pyrex Optima Plus Braadpan Ø 26 cm

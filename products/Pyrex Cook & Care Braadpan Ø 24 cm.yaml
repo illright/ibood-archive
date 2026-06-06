@@ -19,13 +19,16 @@ freeDelivery: false
 id: f8ca888a-b83c-43a9-91ed-bc2f34dddf25
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2212016
+  extension: image/png
+  id: fa12b75c-336f-4f25-9157-2995ab1f32a3-tr
   priority: 0
-  slug: pyrex-cook-care-bratpfanne-24-cm
+  slug: pyrex-cook-care-bratpfanne-24-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -49,5 +52,5 @@ referencePrice:
   value: 27.6
 slug: pyrex-cook-care-braadpan-24-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Pyrex Cook & Care Braadpan Ø 24 cm

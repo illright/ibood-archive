@@ -1,12 +1,12 @@
-_id: 6a195f2dd91f58b2e912a8bf
+_id: 6a1ff20e548ce35822b4b36e
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 108aba22-4715-5ee4-80ec-81f9a995b8c4
-classicId: '3245717'
+  - 78460bbf-6ab1-5518-84fa-ec595725e5d3
+classicId: '3256489'
 classicProductId: '711847'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-06-03T21:59:59.999Z'
+end: '2026-06-10T21:59:59.999Z'
 freeDelivery: false
-id: fd1f2271-b884-4d05-9c5e-f1e565baed7b
+id: fae78f97-d02f-4171-bea9-33b190bbf46d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4449d6f8-e1ae-4e2c-9bc6-6c4f33d41bb1
-  priority: 0
-  slug: trust-png-logo-0
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
   type: logo
-offerId: 90fd41c7-e01b-4c96-9955-085e73b905a7
+offerId: 7f4108ac-8e37-4fe4-9efb-705c4d2d82ff
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: trust-redoh-xxl-powerbank-50-000-mah
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Trust Redoh XXL Powerbank | 50.000 mAh

@@ -19,13 +19,16 @@ freeDelivery: false
 id: a17985b6-bff8-4aaf-ab06-e5e3a7cc02ac
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1921401
+  extension: image/png
+  id: b19fd143-8b89-4a2f-a948-bab11c605d7a-tr
   priority: 0
-  slug: rosmarino-hexapro-pannenkoekenpan-28-cm
+  slug: rosmarino-hexapro-pfannkuchenpfanne-28-cm-jpg-product-3
   type: product
 logo:
   channels:
@@ -48,5 +51,5 @@ referencePrice:
   value: 69.95
 slug: rosmarino-hexapro-pannenkoekenpan-28-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Rosmarino Hexapro Pannenkoekenpan | Ø 28 cm

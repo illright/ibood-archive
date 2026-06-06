@@ -1,12 +1,12 @@
-_id: 6a1984d9189733db22a01e5f
+_id: 6a218e9f7ea94e2d785f567c
 appOnly: false
 brand: Duracell
 brands:
   - id: c6b14b82-c554-5dd0-b8a1-a8a044452d36
     name: Duracell
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3249708'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3258346'
 classicProductId: '695945'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: 69976f9b-2200-4a00-82a2-0303e3793a4b
+id: b1d942d0-b850-4f39-84e9-379f8b66a013
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: duracell-logo
   type: logo
-offerId: dc68783f-3704-4e4b-b56e-1cc12ab489e6
+offerId: c49311ae-5224-4ab0-9d35-b6cf30de8e0d
 price:
   cents: 2295
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 98.28
 slug: 48x-duracell-plus-alkaline-batterijen-aaa
-soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+soldOut: true
+start: '2026-06-04T22:00:00.000Z'
 title: 48x Duracell Plus Alkaline Batterijen | AAA

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 8008204b-a5c3-4577-b656-b72ab6cc60e8
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1921421
+  extension: image/png
+  id: a39ed50a-c4fb-4dfd-b777-9245426be6e7-tr
   priority: 0
-  slug: rosmarino-hexapro-wokpfanne-28-cm
+  slug: rosmarino-hexapro-wokpfanne-28-cm-jpg-product-3
   type: product
 logo:
   channels:
@@ -48,5 +51,5 @@ referencePrice:
   value: 89.95
 slug: rosmarino-hexapro-wokpan-28-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Rosmarino Hexapro Wokpan | Ø 28 cm

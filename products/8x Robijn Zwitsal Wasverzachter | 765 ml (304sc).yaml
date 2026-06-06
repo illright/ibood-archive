@@ -1,12 +1,12 @@
-_id: 6a19868e0ff77949c9ae147d
+_id: 6a219130a2873e4ef6172928
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3250546'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3259471'
 classicProductId: '704682'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: e831e1f7-9382-4f8a-ade1-063d12c2d932
+id: 17449f7b-0b3b-4771-98cd-0e252d3b6f37
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: aaa4001e-9d17-4c34-a032-142e0457d141
-  priority: 0
-  slug: robijn-png-logo-0
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
   type: logo
-offerId: 4b8f340e-6afa-4d9c-b7f1-ea4b6e510f7e
+offerId: 35b14d3b-5df9-421d-bda3-e726a9206b78
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 49.52
 slug: 8x-robijn-zwitsal-wasverzachter-765-ml
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 8x Robijn Zwitsal Wasverzachter | 765 ml (304sc)

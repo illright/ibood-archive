@@ -19,13 +19,16 @@ freeDelivery: false
 id: 74e83603-5261-480f-8b0f-260ae8365a1f
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1921381
+  extension: image/png
+  id: 10c03205-a0b8-4efd-af8f-68c7eb5b2ddf-tr
   priority: 0
-  slug: rosamarino-hexapro-bratpfanne-20-cm
+  slug: rosamarino-hexapro-bratpfanne-20-cm-jpg-product-3
   type: product
 logo:
   channels:
@@ -48,5 +51,5 @@ referencePrice:
   value: 59.95
 slug: rosamarino-hexapro-koekenpan-20-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Rosamarino Hexapro Koekenpan | Ø 20 cm

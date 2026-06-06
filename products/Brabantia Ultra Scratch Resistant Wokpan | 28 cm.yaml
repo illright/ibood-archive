@@ -19,13 +19,16 @@ freeDelivery: false
 id: 82d55454-8d2f-4238-ba99-cf7b4a00dbbd
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2167135
+  extension: image/png
+  id: 417ecd13-8703-4d86-9fe2-192d1ad0b65b-tr-cr
   priority: 0
-  slug: brabantia-ultra-scratch-resistant-wokpan-28-cm
+  slug: brabantia-ultra-scratch-resistant-wok-28-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -48,5 +51,5 @@ referencePrice:
   value: 65
 slug: brabantia-ultra-scratch-resistant-wokpan-28-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Brabantia Ultra Scratch Resistant Wokpan | 28 cm

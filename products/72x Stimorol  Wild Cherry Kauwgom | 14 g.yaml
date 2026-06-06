@@ -1,12 +1,12 @@
-_id: 6a1986a9a80a9f8d5f70dda8
+_id: 6a2191ec63034795e7948056
 appOnly: false
 brand: Stimorol
 brands:
   - id: f2bf62d0-f4ff-5196-8d6f-0e97f59dc84f
     name: Stimorol
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3250629'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3259790'
 classicProductId: '709962'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: 8ee2433e-9462-46f5-b924-292950e94f6a
+id: c4667958-641d-4365-a485-f33a22160a3d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 12x-stimorol-wild-cherry-3-pack-product-0
   type: product
-offerId: 05062d66-fcad-4615-9f84-ff6f70881644
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 257af87a-201d-4278-8689-454a63f468ac
+  priority: 0
+  slug: stimorol-png-logo-0
+  type: logo
+offerId: 1ca6c58a-261f-4a39-91e7-11764820d47a
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 42.96
 slug: 72x-stimorol-wild-cherry-kauwgom-14-g
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 72x Stimorol  Wild Cherry Kauwgom | 14 g

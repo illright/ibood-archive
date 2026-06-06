@@ -19,13 +19,14 @@ freeDelivery: false
 id: c5710f38-0d85-4001-99f9-8e4205b48449
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1412541
+    - all
+  extension: image/png
+  id: b5fff156-a247-4abb-af3e-af114e548280-tr
   priority: 0
-  slug: tefal-virtuoso-koekenpan-28-cm
+  slug: tefal-virtuoso-bratpfanne-28-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -49,5 +50,5 @@ referencePrice:
   value: 51.99
 slug: tefal-virtuoso-koekenpan-28-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Tefal Virtuoso Koekenpan | Ø 28 cm

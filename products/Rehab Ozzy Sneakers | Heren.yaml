@@ -1,12 +1,12 @@
-_id: 6a1d2d23fcfc063efbe2acbc
+_id: 6a195c2041a2646418317850
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - b11a9b9f-3d3f-53bf-ab23-08af0ca8e267
-classicId: '3251919'
+  - afc2499f-aaee-5235-b4ca-c5212838b81f
+classicId: '3245197'
 classicProductId: '623150'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 41
 end: '2026-06-08T21:59:59.999Z'
 freeDelivery: false
-id: e414c157-b0c8-49a4-a3c9-d7eb32479233
+id: 6c545b37-ff23-4efb-8a0d-8f5ecd177e38
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: ba60760f-ce78-4506-aee2-14795da0851f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: a7de904f-3dd2-4a49-be67-2de7f1e4d830
 price:
   cents: 9995
   currency: EUR
@@ -36,12 +46,6 @@ price:
 referencePrice:
   cents: 16995
   currency: EUR
-  value: 169.95
-slug: rehab-ozzy-sneakers-heren
-soldOut: false
-start: '2026-05-31T22:00:00.000Z'
-title: Rehab Ozzy Sneakers | Heren
-: EUR
   value: 169.95
 slug: rehab-ozzy-sneakers-heren
 soldOut: false

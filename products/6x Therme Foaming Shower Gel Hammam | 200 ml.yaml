@@ -1,12 +1,12 @@
-_id: 6a1986b2f5b5a4a5340bc12b
+_id: 6a21921b706d53e8edfcd6f6
 appOnly: false
 brand: Therme
 brands:
   - id: 706586b0-a41d-58ee-b21d-271b967f5131
     name: Therme
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3250656'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3259895'
 classicProductId: '710139'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: 0d07613b-d999-493d-be05-03d83774b40e
+id: b3b8d29d-dc1a-4949-94e5-b73067eaecfe
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a6f2a774-3e49-485b-bcdc-3e5fccefe6e2
-  priority: 0
-  slug: therme-png-logo-0
+  extension: png
+  id: 1529796
+  priority: 100
+  slug: therme-logo
   type: logo
-offerId: 7722de6f-108f-4417-830a-6ee813543370
+offerId: dab93323-e724-4c52-a9da-7dee41ce9dd0
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 59.94
 slug: 6x-therme-foaming-shower-gel-hammam-200-ml
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 6x Therme Foaming Shower Gel Hammam | 200 ml

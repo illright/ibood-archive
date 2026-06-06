@@ -19,13 +19,16 @@ freeDelivery: false
 id: 470205e8-94a1-430b-a17d-b3ab9d8351b1
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1921381
+  extension: image/png
+  id: cd4baf9c-60d9-4d6e-b924-8a9ad093782e-tr
   priority: 0
-  slug: rosmarino-hexapro-koekenpan-28-cm
+  slug: rosmarino-hexapro-bratpfanne-28-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -48,5 +51,5 @@ referencePrice:
   value: 89.95
 slug: rosmarino-hexapro-koekenpan-28-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Rosmarino Hexapro Koekenpan | Ø 28 cm

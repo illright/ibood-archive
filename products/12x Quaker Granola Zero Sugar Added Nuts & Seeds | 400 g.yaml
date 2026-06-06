@@ -1,12 +1,12 @@
-_id: 6a1986862c01c063f6a89960
+_id: 6a21910ba2873e4ef617290f
 appOnly: false
 brand: Quaker
 brands:
   - id: ab15d467-facb-5075-a883-8ae82f69e7fb
     name: Quaker
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3250528'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3259418'
 classicProductId: '709199'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: b0aba1f2-820c-4e70-85f3-a9000a3c69fb
+id: 5eaa16d6-5e66-443d-9233-6a32b7453a00
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: bec80017-b37b-4862-ba65-eec79553c214
-  priority: 0
-  slug: quaker-04-png-product-1
+  id: 33f04301-d813-47a0-9a5c-06d422a3e9a1
+  priority: 1
+  slug: quaker-03-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: quaker-logo-0
   type: logo
-offerId: 7d81774b-c141-4adf-a1a8-ecc12934ab19
+offerId: df7c4c3f-4fa6-4d97-8edb-e89a4b6210b2
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 71.4
 slug: 12x-quaker-granola-zero-sugar-added-nuts-seeds-400-g
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 12x Quaker Granola Zero Sugar Added Nuts & Seeds | 400 g

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 7715c8ad-d847-4ffc-9b4f-0cc983c8bf5b
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2183848
-  priority: 100
-  slug: blue-diamond-triple-steel-koekenpannen-24-28-cm
+  extension: image/png
+  id: 73f6403d-0636-41b8-a164-1981118a6c3b-tr-cr
+  priority: 0
+  slug: cc003690-001-blue-diamond-3-ply-2-delige-set-koekenpan-26-28cm-product-6
   type: product
 logo:
   channels:
@@ -49,5 +52,5 @@ referencePrice:
   value: 119.9
 slug: blue-diamond-triple-steel-koekenpannen-24-28-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Blue Diamond (by Greenpan) Triple Steel RVS Keramische Koekenpannen | Set van 2 | 24 & 28 cm

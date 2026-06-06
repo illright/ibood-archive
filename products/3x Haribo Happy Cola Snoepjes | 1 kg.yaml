@@ -1,12 +1,12 @@
-_id: 6a1985228c93ce2b1f16482f
+_id: 6a218f162088585e4dcbe488
 appOnly: false
 brand: Haribo
 brands:
   - id: 274432d1-d2e6-593c-8d06-6d003bbd1e14
     name: Haribo
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3249819'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3258443'
 classicProductId: '711007'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: d6e527fb-faa9-4d10-bae3-1d8feb95ca9d
+id: cb8ad0e6-bfd3-47cc-b840-ce51bd5736d0
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c863fdc4-5387-4a25-a25a-65a2ff2a7648
-  priority: 0
-  slug: haribo-png-logo-0
+  extension: png
+  id: 1936479
+  priority: 100
+  slug: haribo-logo
   type: logo
-offerId: a5d606b1-832a-41d7-a8f3-5946be3f7b96
+offerId: b36d4a6f-9215-4828-a808-3c10ad6fee2a
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: 3x-haribo-happy-cola-snoepjes-1-kg
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 3x Haribo Happy Cola Snoepjes | 1 kg

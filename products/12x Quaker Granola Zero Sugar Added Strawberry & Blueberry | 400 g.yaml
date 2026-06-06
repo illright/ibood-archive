@@ -1,22 +1,22 @@
-_id: 6a198687e6c76dbb4cbbdc4a
+_id: 6a219117706d53e8edfcd631
 appOnly: false
 brand: Quaker
 brands:
   - id: ab15d467-facb-5075-a883-8ae82f69e7fb
     name: Quaker
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3250529'
-classicProductId: '692061'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3259435'
+classicProductId: '709203'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 58
-end: '2026-06-04T21:59:59.999Z'
+directCheckout: true
+discount: 65
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: 2b3dd55f-e3c3-4d2c-9fcb-841a8254d0b5
+id: 926bb7c2-cee9-4d51-a8a5-c6ec68f1b80f
 image:
   channels:
     - app
@@ -35,20 +35,20 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: b498fd60-0b39-452d-b95d-45b02a11937f
+  id: 2de9287c-9c1b-4eef-b9e3-7606d2366437
   priority: 0
-  slug: quaker-png-logo-0
+  slug: quaker-logo-0
   type: logo
-offerId: a37e5dc0-b109-412a-9a7a-f2a123a0ff4a
+offerId: d13805eb-0ce0-444b-8837-16c81eea8827
 price:
-  cents: 2995
+  cents: 2495
   currency: EUR
-  value: 29.95
+  value: 24.95
 referencePrice:
   cents: 7140
   currency: EUR
   value: 71.4
 slug: 12x-quaker-granola-zero-sugar-added-strawberry-blueberry-400-g
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 12x Quaker Granola Zero Sugar Added Strawberry & Blueberry | 400 g

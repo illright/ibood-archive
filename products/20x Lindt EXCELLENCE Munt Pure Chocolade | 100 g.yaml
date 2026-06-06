@@ -1,12 +1,12 @@
-_id: 6a198577384515407688ca60
+_id: 6a218f862088585e4dcbe5fa
 appOnly: false
 brand: Lindt
 brands:
   - id: e60bc2bc-24cb-519c-916c-96c8874f3a0a
     name: Lindt
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3249928'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3258644'
 classicProductId: '709671'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: e1fc7730-4794-4ee6-a9a9-bcb2c69894da
+id: 29a18613-edcf-440d-9514-17ecb298c317
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 20x-lindt-excellence-mint-100-gram-product-0
   type: product
-offerId: b6d48c2c-cd11-48fc-87f5-2829c8e939a0
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 68be7dff-3a91-4e68-a3a6-10d48f5ad5d5
+  priority: 0
+  slug: lindt-logo-0
+  type: logo
+offerId: 14699f68-fac4-431c-9c67-227f369f0b7e
 price:
   cents: 3295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 95.8
 slug: 20x-lindt-excellence-munt-pure-chocolade-100g
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 20x Lindt EXCELLENCE Munt Pure Chocolade | 100 g

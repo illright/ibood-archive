@@ -19,13 +19,16 @@ freeDelivery: false
 id: 032a46d2-7b5b-490a-9e5c-0804149aa692
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1921381
+  extension: image/png
+  id: 1b2b61ae-d550-48a9-911b-6c66a8a05d3b-tr
   priority: 0
-  slug: rosamarino-hexapro-koekenpan-24-cm
+  slug: rosmarino-hexapro-bratpfanne-24-cm-jpg-product-2
   type: product
 logo:
   channels:
@@ -48,5 +51,5 @@ referencePrice:
   value: 79.95
 slug: rosamarino-hexapro-koekenpan-24-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Rosamarino Hexapro Koekenpan | Ø 24 cm

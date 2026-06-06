@@ -1,22 +1,22 @@
-_id: 6a19869e5fe1f581190a0da3
+_id: 6a219183a2873e4ef617297d
 appOnly: false
 brand: Sensodyne
 brands:
   - id: 1c7bf088-1343-56fb-9b5d-0c1b15e9bd4e
     name: Sensodyne
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3250594'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3259620'
 classicProductId: '711053'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 63
-end: '2026-06-04T21:59:59.999Z'
+directCheckout: true
+discount: 76
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: a60d9568-fc0b-4cfc-943d-86850ac352a6
+id: 22786499-1d62-4208-a385-f75ed3493a46
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: sensodyne-mainz-3-png-product-1
   type: product
-offerId: 88e3d38b-6df7-47f4-9942-29a19faf4ecd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1773890
+  priority: 100
+  slug: sensodyne-logo
+  type: logo
+offerId: 5570a9d6-10b7-49af-ab89-5f014abe9a4b
 price:
-  cents: 2995
+  cents: 1995
   currency: EUR
-  value: 29.95
+  value: 19.95
 referencePrice:
   cents: 8200
   currency: EUR
   value: 82
 slug: 12x-sensodyne-extra-fresh-tandpasta-75-ml
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 12x Sensodyne Extra Fresh | Tandpasta 75 ml

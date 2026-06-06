@@ -1,53 +1,54 @@
-_id: 6a1e851d24e2111fa1a82e10
+_id: 6a197b4e55c58ca33f1c701b
 appOnly: false
 brand: LED's Light
 brands:
   - id: 5c86dcfb-7e8e-5bfb-b35e-3bc7870052d9
     name: LED's Light
 categories:
-  - 9b8e3760-9ef2-5b09-9b67-9a3e69a4baa6
-classicId: '3253939'
-classicProductId: '690737'
+  - 59fd5ed1-9df9-5305-ace2-bd24737d6165
+classicId: '3248399'
+classicProductId: '711133'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 55
-end: '2026-06-14T21:59:59.999Z'
+directCheckout: true
+discount: 59
+end: '2026-06-09T21:59:59.999Z'
 freeDelivery: false
-id: d7bf2abd-3098-4eee-89c9-100b7b49f731
+id: fef5b802-f1c3-4def-9a60-7624aebd4954
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1402624
+    - all
+  extension: image/png
+  id: 20f3a061-61f4-451b-94fb-c0fc4103212d
   priority: 0
-  slug: 2x-leds-light-outdoor-wandlamp-amarillo-led
+  slug: lamp-01-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1354856
-  priority: 100
-  slug: 2x-leds-light-outdoor-wandlamp-amarillo-led
+    - all
+  extension: image/png
+  id: 547886f4-6b9e-47a3-98c8-c6c7ad860456
+  priority: 101
+  slug: led-s-light-logo-101
   type: logo
-offerId: 9d27819c-a93a-4bdd-a9fe-9b5bafbab67b
+offerId: d9c9e053-93bc-4973-914d-ec106aac2b8e
 price:
-  cents: 3595
+  cents: 3295
   currency: EUR
-  value: 35.95
+  value: 32.95
 referencePrice:
   cents: 7998
   currency: EUR
   value: 79.98
 slug: 2x-leds-light-outdoor-wandlamp-amarillo-led
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: 2x LED’s Light Outdoor Wandlamp Amarillo | LED
-D’s Light Outdoor Wandlamp Amarillo | LED

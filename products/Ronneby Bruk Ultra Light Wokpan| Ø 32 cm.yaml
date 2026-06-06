@@ -19,13 +19,16 @@ freeDelivery: false
 id: b6245ae9-ddf4-4082-9395-333c821ecf1a
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2085813
+  extension: image/png
+  id: 42cfe56a-f9d4-4329-9351-e9f24d910d8b-tr
   priority: 0
-  slug: ronneby-bruk-ultra-light-wokpan-32-cm
+  slug: ronneby-bruk-ultra-light-wok-32-cm-jpg-product-1
   type: product
 offerId: c0c4b38d-b669-4191-94dd-99ea33806b9e
 price:
@@ -38,5 +41,5 @@ referencePrice:
   value: 175
 slug: ronneby-bruk-ultra-light-wokpan-32-cm
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Ronneby Bruk Ultra Light Wokpan| Ø 32 cm

@@ -19,13 +19,16 @@ freeDelivery: false
 id: 07f83f75-a07d-47ab-9d43-1f23644eecd8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 137723
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1a685b2e-2103-4027-87bd-19b93808f649-tr
   priority: 0
-  slug: pyrex-slowcook-schmortopf-20-cm
+  slug: pyrex-slowcook-schmortopf-20-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -48,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 110
 slug: pyrex-slowcook-kookpan-20-cm-22-l
-soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+soldOut: true
+start: '2026-06-03T22:00:00.000Z'
 title: Pyrex Slowcook Kookpan 20 cm | 2,2 Liter

@@ -19,13 +19,16 @@ freeDelivery: false
 id: a89cbb2f-bbac-4dba-a7ba-5e844efe4283
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 736399
+  extension: image/png
+  id: df6d8582-6e9f-4a8a-9f9e-1dd03e1512ce-tr
   priority: 0
-  slug: pyrex-slowcook-braadpan-29-cm-38-l
+  slug: pyrex-slowcook-schmortopf-38-l-jpg-product-1
   type: product
 logo:
   channels:
@@ -49,5 +52,5 @@ referencePrice:
   value: 105
 slug: pyrex-slowcook-braadpan-29-cm-38-l
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-03T22:00:00.000Z'
 title: Pyrex Slowcook Braadpan | 29 cm | 3,8 L

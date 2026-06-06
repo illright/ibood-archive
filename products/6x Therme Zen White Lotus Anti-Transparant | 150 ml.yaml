@@ -1,12 +1,12 @@
-_id: 6a1985286dcf8a301f1b0c2e
+_id: 6a218f2b706d53e8edfcd4c2
 appOnly: false
 brand: Head & Shoulders
 brands:
   - id: 93c0c375-0484-54bf-86e6-712b73798f88
     name: Head & Shoulders
 categories:
-  - fa73a1b3-38b6-5230-8af6-69632974fee6
-classicId: '3249830'
+  - 0c098cd4-456d-5349-a00b-0de696f9dac6
+classicId: '3258457'
 classicProductId: '710151'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-06-04T21:59:59.999Z'
+end: '2026-06-11T21:59:59.999Z'
 freeDelivery: false
-id: 6ac6598f-8bdc-45b8-a189-15aab8151bdb
+id: 90c02475-5619-4584-bc13-2f7921881ae8
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: th01-png-product-0
   type: product
-offerId: d1065741-8b3b-4c65-92fb-c7d04ca41b69
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1854470
+  priority: 100
+  slug: head-and-shoulders-logo
+  type: logo
+offerId: 3a224b45-43d7-46be-b824-ad48277d39f3
 price:
   cents: 1695
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 34.14
 slug: 6x-therme-zen-white-lotus-anti-transparant-150-ml
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-04T22:00:00.000Z'
 title: 6x Therme Zen White Lotus Anti-Transparant | 150 ml
