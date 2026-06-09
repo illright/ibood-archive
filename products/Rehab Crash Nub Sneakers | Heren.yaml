@@ -1,12 +1,12 @@
-_id: 6a1d2d3bfcfc063efbe2acf0
+_id: 6a195c2965bdec58499a7f20
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - b11a9b9f-3d3f-53bf-ab23-08af0ca8e267
-classicId: '3251932'
+  - afc2499f-aaee-5235-b4ca-c5212838b81f
+classicId: '3245205'
 classicProductId: '697961'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 41
-end: '2026-06-08T21:59:59.999Z'
+end: '2026-06-12T21:59:59.000Z'
 freeDelivery: false
-id: e92674d5-0cd9-4c8b-b192-8b8f3335552b
+id: 8113b702-a744-4299-b010-2e0ef0d01504
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: a3ad9473-7257-41c3-81db-7770721d8f53
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: 5dd9c48e-ef02-4819-9da9-a7f4552d4647
 price:
   cents: 9995
   currency: EUR
@@ -37,11 +47,6 @@ referencePrice:
   cents: 16995
   currency: EUR
   value: 169.95
-slug: rehab-crash-nub-sneakers-heren
-soldOut: false
-start: '2026-05-31T22:00:00.000Z'
-title: Rehab Crash Nub Sneakers | Heren
-lue: 169.95
 slug: rehab-crash-nub-sneakers-heren
 soldOut: false
 start: '2026-05-29T22:00:00.000Z'

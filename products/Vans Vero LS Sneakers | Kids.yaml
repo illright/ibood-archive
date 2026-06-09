@@ -1,12 +1,12 @@
-_id: 6a195c7ea47bd32ddd04f8ae
+_id: 6a2679991110e367416da17c
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - afc2499f-aaee-5235-b4ca-c5212838b81f
-classicId: '3245251'
+  - 1b325840-e460-507e-9db6-df8be9d51cf2
+classicId: '3261520'
 classicProductId: '692519'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 30
-end: '2026-06-08T21:59:59.999Z'
+end: '2026-06-15T21:59:59.999Z'
 freeDelivery: false
-id: 2b4b0735-cc4f-4087-aa14-1ac3ed7e3ad8
+id: ec1e4a7b-af92-496d-9731-a24ed1d3e371
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7d0450e6-f5e0-4f97-a723-a389562eb1c0
-  priority: 0
-  slug: vans-png-logo-0
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
   type: logo
-offerId: 90fd70f1-0ea3-46de-b2df-1f8672aa4053
+offerId: a88a6acd-73f1-40ee-8e0f-0ffcb7d8bb0d
 price:
   cents: 2795
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 40
 slug: vans-vero-ls-sneakers-kids
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-08T22:00:00.000Z'
+title: Vans Vero LS Sneakers | Kids
+:00:00.000Z'
 title: Vans Vero LS Sneakers | Kids

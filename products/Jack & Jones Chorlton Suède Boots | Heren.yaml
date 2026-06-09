@@ -1,22 +1,22 @@
-_id: 6a195d725769ae647fa8bf1a
+_id: 6a268a0f1110e367416da2bc
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 077f789b-5450-5c90-8b62-74eb90818b89
-classicId: '3245361'
+  - dfcfaac5-180b-5f4f-9556-c6f28754f801
+classicId: '3262171'
 classicProductId: '655998'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 84
-end: '2026-06-08T21:59:59.999Z'
+discount: 85
+end: '2026-06-15T21:59:59.999Z'
 freeDelivery: false
-id: 9debfd84-2589-4bba-80eb-9bc9f1f64a43
+id: 2c007a73-7660-41af-b70c-b3add6a41f85
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1829631
-  priority: 100
-  slug: jack-jones-logo
+    - all
+  extension: image/png
+  id: 8079d8db-ee68-4d12-8eb7-23410d707ca0
+  priority: 0
+  slug: jack-jones-png-logo-0
   type: logo
-offerId: aaa13c60-30b8-451f-b745-a3ea23d0455f
+offerId: cfcbc902-4512-4ed4-9c9a-4b04bc1d85e5
 price:
-  cents: 1615
+  cents: 1534
   currency: EUR
-  value: 16.15
+  value: 15.34
 referencePrice:
   cents: 9999
   currency: EUR
   value: 99.99
 slug: jack-jones-chorlton-suede-boots-heren
 soldOut: false
-start: '2026-05-31T22:00:00.000Z'
+start: '2026-06-08T22:00:00.000Z'
 title: Jack & Jones Chorlton Suède Boots | Heren

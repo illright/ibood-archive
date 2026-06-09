@@ -1,22 +1,22 @@
-_id: 6a197736189733db22a01db2
+_id: 6a2689831110e367416da27d
 appOnly: false
 brand: Scotch & Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch & Soda
 categories:
-  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
-classicId: '3247248'
+  - dfcfaac5-180b-5f4f-9556-c6f28754f801
+classicId: '3262081'
 classicProductId: '686910'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-06-08T21:59:59.999Z'
+discount: 53
+end: '2026-06-15T21:59:59.999Z'
 freeDelivery: false
-id: 7d861bdd-0d9d-4523-a3aa-2fb55c79cb93
+id: f1e09bd7-b686-4028-879d-c5d1b50acfb7
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: w36-l32-sand-273-ssp25vmb-15915-flat-front-chino-scotch-and-soda-product-0
   type: product
-offerId: ac4d70d1-9c7b-4400-88bf-546c339f78a6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 443c6724-db81-4b0c-81dc-36e2128be4dd
+  priority: 0
+  slug: scotch-and-soda-logo-0
+  type: logo
+offerId: 0d3665ec-4192-4f0b-958b-b0dd87175f5f
 price:
-  cents: 4995
+  cents: 4745
   currency: EUR
-  value: 49.95
+  value: 47.45
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: scotch-soda-flat-front-chino-sand
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-08T22:00:00.000Z'
 title: Scotch & Soda Flat Front Chino | Sand

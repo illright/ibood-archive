@@ -1,22 +1,22 @@
-_id: 6a19784b65bdec58499a801b
+_id: 6a268981ca46eee80d7aa24d
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3247545'
+  - dfcfaac5-180b-5f4f-9556-c6f28754f801
+classicId: '3262078'
 classicProductId: '690701'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 38
-end: '2026-06-08T21:59:59.999Z'
+discount: 41
+end: '2026-06-15T21:59:59.999Z'
 freeDelivery: false
-id: 480a02c0-c590-4520-9013-2cc1f9e4a4a4
+id: 10612c19-382d-424f-a67d-4306de98ded7
 image:
   channels:
     - app
@@ -28,25 +28,20 @@ image:
   priority: 0
   slug: m-z99-navy-ml416vog-pullover-hoodie-lyle-scott-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1695004
-  priority: 100
-  slug: lyle-scott-logo
-  type: logo
-offerId: bed3996e-e75a-4ede-b569-3972e7a86f62
+offerId: 66d09f8f-ba9e-451b-9ee1-f6595b2e4d4d
 price:
-  cents: 4995
+  cents: 4745
   currency: EUR
-  value: 49.95
+  value: 47.45
 referencePrice:
   cents: 8000
   currency: EUR
   value: 80
+slug: lyle-scott-pullover-hoodie-navy
+soldOut: false
+start: '2026-06-08T22:00:00.000Z'
+title: 'Lyle & Scott Pullover Hoodie | Navy '
+value: 80
 slug: lyle-scott-pullover-hoodie-navy
 soldOut: false
 start: '2026-05-29T22:00:00.000Z'

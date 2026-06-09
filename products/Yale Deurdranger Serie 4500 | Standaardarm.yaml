@@ -1,34 +1,32 @@
-_id: 6a1d515e0cf1a05a9634c87c
+_id: 6a269816e3bad5f01fec4fb8
 appOnly: false
 brand: Yale
 brands:
   - id: 9c6d965a-5791-52b9-925e-65f628b2b3e4
     name: Yale
 categories:
-  - 7a49b00b-f07f-52b8-b50a-64413792102f
-classicId: '3252747'
-classicProductId: '699763'
+  - 47d17194-d14c-533d-9be5-aa1599d40f77
+classicId: '3263448'
+classicProductId: '699765'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 87
-end: '2026-06-08T21:59:59.999Z'
+discount: 91
+end: '2026-06-15T21:59:59.999Z'
 freeDelivery: false
-id: 22f76e1a-39f4-45f6-b6ad-cd8d7c60ae1a
+id: 4a73702b-6e7a-4391-ae9c-29299803ed8f
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
-  extension: image/png
-  id: 68fe024a-f5f9-4b28-a844-7f6f7d804821-tr-tr
+  extension: image/avif
+  id: 9cbdb012-4a7b-4005-abc7-515e90dad511
   priority: 0
-  slug: yale-4500-series-doorcloser-en2-3-4-with-standard-arm-white-30-4500-0001-50-11-product-2
+  slug: yale-4500-series-doorcloser-en2-3-4-with-standard-arm-black-30-4500-0001-55-11-product-1
   type: product
 logo:
   channels:
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: yale-logo
   type: logo
-offerId: 42c8c830-1456-4828-bdfc-cafa4ed9378f
+offerId: 38996a3f-bc59-4c44-9a34-931db1b0f102
 price:
-  cents: 995
+  cents: 695
   currency: EUR
-  value: 9.95
+  value: 6.95
 referencePrice:
   cents: 7900
   currency: EUR
   value: 79
 slug: yale-deurdranger-serie-4500-standaardarm
-soldOut: true
-start: '2026-06-01T22:00:00.000Z'
+soldOut: false
+start: '2026-06-08T22:00:00.000Z'
 title: Yale Deurdranger Serie 4500 | Standaardarm

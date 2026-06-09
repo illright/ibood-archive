@@ -1,22 +1,22 @@
-_id: 6a1977a5870d5de586a6c209
+_id: 6a268a7f1110e367416da2e5
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
-classicId: '3247327'
+  - dfcfaac5-180b-5f4f-9556-c6f28754f801
+classicId: '3262261'
 classicProductId: '689642'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 67
-end: '2026-06-08T21:59:59.999Z'
+discount: 68
+end: '2026-06-15T21:59:59.999Z'
 freeDelivery: false
-id: 7c3e7877-be42-48e6-8e5a-dedabec79932
+id: 3b1c0dd2-0921-44f3-bd28-f3fa8726cea5
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 5cd645c1-caf6-4240-b7cb-dabda21810d6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: e98fe7a9-fd11-4fb3-bc46-a70c1a13cb91
 price:
-  cents: 3995
+  cents: 3795
   currency: EUR
-  value: 39.95
+  value: 37.95
 referencePrice:
   cents: 11995
   currency: EUR
   value: 119.95
 slug: mcgregor-slim-fit-jeans-heren
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-08T22:00:00.000Z'
 title: McGregor Slim Fit Jeans | Heren

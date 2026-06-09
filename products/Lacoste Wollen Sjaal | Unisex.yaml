@@ -1,32 +1,34 @@
-_id: 6a195e282ada694b120c192d
+_id: 6a2689e8fe3c6726eba48f11
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 077f789b-5450-5c90-8b62-74eb90818b89
-classicId: '3245531'
-classicProductId: '678375'
+  - dfcfaac5-180b-5f4f-9556-c6f28754f801
+classicId: '3262160'
+classicProductId: '678374'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 51
-end: '2026-06-08T21:59:59.999Z'
+discount: 58
+end: '2026-06-15T21:59:59.999Z'
 freeDelivery: false
-id: 6c17d881-faa2-4843-8a05-ba0d743eee82
+id: 36f7e2ac-3f0b-4104-bfa5-3aa75d955d21
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 0b64d279-3717-436f-9ace-da2fae07e8a9-tr
+  id: 9dcc6b68-3b3d-423b-a451-75ab2d982c57-tr
   priority: 0
-  slug: bitume-neps-re5992-53-2g3e-scarf-unisex-lacoste-product-2
+  slug: vert-neps-re5992-53-2g3e-scarf-unisex-lacoste-product-2
   type: product
 logo:
   channels:
@@ -38,17 +40,16 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 4d5e225a-cc99-4ae9-8f5d-170a2b501767
+offerId: a54be666-9eab-4727-8d7d-b781404d9bb0
 price:
-  cents: 4407
+  cents: 3795
   currency: EUR
-  value: 44.07
+  value: 37.95
 referencePrice:
   cents: 9000
   currency: EUR
   value: 90
 slug: lacoste-wollen-sjaal-unisex
-soldOut: true
-start: '2026-05-31T22:00:00.000Z'
+soldOut: false
+start: '2026-06-08T22:00:00.000Z'
 title: Lacoste Wollen Sjaal | Unisex
- Wollen Sjaal | Unisex
