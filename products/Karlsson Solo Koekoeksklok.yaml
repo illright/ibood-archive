@@ -1,0 +1,53 @@
+_id: 6a1eb0d224e2111fa1a8312d
+appOnly: false
+brand: Karlsson
+brands:
+  - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
+    name: Karlsson
+categories:
+  - 62a75f43-5f42-55dd-bfdd-2603b6631f60
+classicId: '3254810'
+classicProductId: '673250'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: false
+discount: 50
+end: '2026-06-10T21:59:59.999Z'
+freeDelivery: false
+id: 732790c4-d1bd-5186-a449-9a263f63026f
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 93845ced-8688-4698-9f9f-8546922ef8c0
+  priority: 0
+  slug: koekoek-main-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1566233
+  priority: 100
+  slug: karlsson-logo
+  type: logo
+offerId: 8cb0a02b-4da7-5b7e-a76d-6874db824e2f
+price:
+  cents: 3995
+  currency: EUR
+  value: 39.95
+referencePrice:
+  cents: 7995
+  currency: EUR
+  value: 79.95
+slug: karlsson-solo-cuckoo-wandklok
+soldOut: false
+start: '2026-06-09T22:00:00.000Z'
+title: Karlsson Solo Koekoeksklok

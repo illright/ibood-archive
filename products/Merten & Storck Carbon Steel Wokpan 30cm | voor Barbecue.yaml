@@ -1,12 +1,12 @@
-_id: 6a0f006e415063ee3f15b41f
+_id: 6a27f55cdc162bbeb5892f14
 appOnly: false
 brand: Merten & Storck
 brands:
   - id: 1f22db4d-07cd-52f3-a651-ec68c3d140aa
     name: Merten & Storck
 categories:
-  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
-classicId: '3227221'
+  - 2ab9a77c-3885-533a-9d14-11324ca16cd7
+classicId: '3265896'
 classicProductId: '711537'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 3d429da4-13d7-5e00-8468-c2bf281dcaaf
+id: da32d366-6afe-4668-9658-9074a0f04437
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: cc005817-001-merten-storck-bbq-wok-30cm-sidehandles-with-holes-product-2
   type: product
-offerId: 83e4093e-2476-5e35-a21e-7c53a84f1878
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8314efd0-10c7-44a7-ae46-2d1e51852bb7
+  priority: 0
+  slug: merten-storck-logo-0
+  type: logo
+offerId: 073b02ba-c8f0-4097-afdd-8ade648c41b3
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 54.9
 slug: merten-storck-carbon-steel-wokpan-30cm-voor-barbecue
 soldOut: false
-start: '2026-06-03T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Merten & Storck Carbon Steel Wokpan 30cm | voor Barbecue

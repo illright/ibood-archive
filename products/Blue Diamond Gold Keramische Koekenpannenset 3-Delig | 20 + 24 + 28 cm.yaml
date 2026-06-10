@@ -1,12 +1,12 @@
-_id: 6a0f001f415063ee3f15b3f0
+_id: 6a27f5834c0c10341c94aa41
 appOnly: false
 brand: Blue Diamond
 brands:
   - id: 6567f73b-aff5-5e2c-a06b-57eac8535431
     name: Blue Diamond
 categories:
-  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
-classicId: '3227206'
+  - 2ab9a77c-3885-533a-9d14-11324ca16cd7
+classicId: '3265973'
 classicProductId: '711945'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 4e50ec46-9bd1-5d7c-8187-00adc9344f1f
+id: 19eaca34-c5f8-4a3f-bbe5-cd94667c0a96
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 1q1-png-product-1
   type: product
-offerId: e691bd87-b683-533b-977e-eb7472ce6ac7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 858e585b-7582-496b-a39a-01bef91a7cc7
+  priority: 0
+  slug: blue-diamond-logo-0
+  type: logo
+offerId: b08a3c6d-76a0-47b1-bb13-30d40a1f5c16
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 128.7
 slug: blue-diamond-gold-keramische-koekenpannenset-3-delig
 soldOut: false
-start: '2026-06-03T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Blue Diamond Gold Keramische Koekenpannenset 3-Delig | 20 + 24 + 28 cm

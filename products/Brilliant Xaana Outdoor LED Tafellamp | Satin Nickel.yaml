@@ -1,12 +1,12 @@
-_id: 6a197b835fe1f581190a0cee
+_id: 6a280a9f6613eb8f94464b78
 appOnly: false
 brand: Brilliant
 brands:
   - id: 63d315dc-2444-51bb-b1c7-9333a1f6d8c3
     name: Brilliant
 categories:
-  - 59fd5ed1-9df9-5305-ace2-bd24737d6165
-classicId: '3248496'
+  - 87255993-121e-54f9-96e9-54ad74a446c3
+classicId: '3267217'
 classicProductId: '709649'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 71383677-8845-454f-8a57-0e0ec3dd4858
+id: 052d38af-44db-4aff-8f71-541a8d3b4402
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2153631
+    - all
+  extension: image/png
+  id: 2f90baf9-7a06-4c47-af95-65581349b4aa-tr
   priority: 0
-  slug: brilliant-xaana-outdoor-led-tafellamp
+  slug: brilliant-xaana-outdoor-led-tischlampe-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: brilliant-logo
   type: logo
-offerId: a615ae01-5ebe-4209-8ed6-74c089af67ee
+offerId: 9966b96b-60b9-4497-b6f0-f3a6b9fbf78d
 price:
   cents: 1214
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 44.99
 slug: brilliant-xaana-outdoor-led-tafellamp
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Brilliant Xaana Outdoor LED Tafellamp | Satin Nickel

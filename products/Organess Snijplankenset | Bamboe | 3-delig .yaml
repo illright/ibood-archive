@@ -1,22 +1,22 @@
-_id: 6a1e9e9d891607ec624fa90b
+_id: 6a27f538e10d41bb014a30cb
 appOnly: false
 brand: Organess
 brands:
   - id: 17997cee-809c-5786-be0a-f3462d55922e
     name: Organess
 categories:
-  - 1e197a9a-bf96-54a5-9627-79786eec0c81
-classicId: '3254091'
+  - 2175d637-1276-5257-ac0a-443e41687849
+classicId: '3265759'
 classicProductId: '697123'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2026-06-09T21:59:59.999Z'
+directCheckout: true
+discount: 60
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 052daaf7-529f-49ac-b7d3-1d7a1001ca04
+id: eddd1b27-5341-4a6d-9e7c-4b67d8ce68dc
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: bamboe-mainz-png-product-1
   type: product
-offerId: cc6d853f-435a-4b7c-acbf-46e4ae071af2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2dec6bbb-f10d-4b20-9403-9459176021f0
+  priority: 0
+  slug: organess-logo-0
+  type: logo
+offerId: dad6cdce-f64c-44fb-a54e-edb30f136a78
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 4995
   currency: EUR
   value: 49.95
 slug: organess-snijplankenset-bamboe-3-delig
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: 'Organess Snijplankenset | Bamboe | 3-delig '

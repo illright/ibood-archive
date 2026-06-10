@@ -1,12 +1,12 @@
-_id: 6a182c92424894b42df3cdfc
+_id: 6a26afa2fe3c6726eba492e8
 appOnly: false
 brand: Gardenzo
 brands:
   - id: 7777fc8e-34ab-54ec-ab97-ba5f45d69c5e
     name: Gardenzo
 categories:
-  - 0c6b54d0-f6e0-5e11-a3ad-a61029d9dfff
-classicId: '3242750'
+  - a03bcc80-cced-5248-859a-6630e6e35c60
+classicId: '3264413'
 classicProductId: '708476'
 deliveryPrice:
   cents: 0
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 0
 directCheckout: true
 discount: 60
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-14T21:59:59.999Z'
 freeDelivery: true
-id: fe15f2f5-78ac-5aa2-9be1-b7ce274f4401
+id: c87bc694-c492-5328-846a-3dc9a318a683
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: gardenzo-geranium-rozanne-x7-per-m2-237-1-product-6
   type: product
-offerId: 0241dd26-567c-58e8-8815-4c6d2cf71583
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 563ba8c0-3465-4310-91c6-84036dfcf676
+  priority: 0
+  slug: gardenzo-logo-0
+  type: logo
+offerId: 9bff2470-cba7-526d-b816-4f009f4f2ccb
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 99.95
 slug: geranium-rozanne-7-stuks-voor-ca-1-m2-tuin
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Geranium ‘Rozanne’ | 7 Stuks | Voor ca. 1 m² Tuin

@@ -1,12 +1,12 @@
-_id: 6984a3024b064076045cd159
+_id: 6a280a2febac77fcef107aeb
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - 50f204c8-2b4f-52e9-8c11-c4b12321d125
-classicId: '2989652'
+  - 87255993-121e-54f9-96e9-54ad74a446c3
+classicId: '3267018'
 classicProductId: '691598'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 47
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 394d5ebc-d497-5634-8fa0-fb4d8514ad47
+id: 3c7bb2bd-58e4-4f1c-a3a9-b380bf1b6dbc
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: ibd-es47ful-007-multifurn-duopack-eetkamerstoel-sten-microleder-antraciet-product-3
   type: product
-offerId: 566d08e9-e8ea-55b1-b88a-ab37f7d8c1d9
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1633646
+  priority: 100
+  slug: multifurn-logo
+  type: logo
+offerId: 463ac908-4cce-499c-bb37-1d4c92e4f9c3
 price:
   cents: 9995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 189.95
 slug: 2x-multifurn-sten-eetkamerstoel-microleder-antraciet
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: 2x Multifurn Sten Eetkamerstoel Microleder Antraciet

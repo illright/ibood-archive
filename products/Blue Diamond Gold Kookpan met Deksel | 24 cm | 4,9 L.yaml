@@ -1,12 +1,12 @@
-_id: 6a0f0020415063ee3f15b3f2
+_id: 6a27f5b94b9d2c9e197c927f
 appOnly: false
 brand: Blue Diamond
 brands:
   - id: 6567f73b-aff5-5e2c-a06b-57eac8535431
     name: Blue Diamond
 categories:
-  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
-classicId: '3227208'
+  - 2ab9a77c-3885-533a-9d14-11324ca16cd7
+classicId: '3266129'
 classicProductId: '711522'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 29c73c8c-d129-5906-b3a4-b87ea8048857
+id: 9a8dbfc6-9e5b-4218-881a-43f563e703c0
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: cc008135-001-blue-diamond-gold-casserole-with-lid-4-91l-product-4
   type: product
-offerId: e2739e98-c3aa-5b99-95ca-e0d5f4cafc5d
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 858e585b-7582-496b-a39a-01bef91a7cc7
+  priority: 0
+  slug: blue-diamond-logo-0
+  type: logo
+offerId: fc02d8ed-adaf-413b-81c8-46ab3a5a466a
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.9
 slug: blue-diamond-gold-kookpan-met-deksel-24-cm-4-9-l
 soldOut: false
-start: '2026-06-03T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Blue Diamond Gold Kookpan met Deksel | 24 cm | 4,9 L

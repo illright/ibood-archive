@@ -1,12 +1,12 @@
-_id: 6984a3024b064076045cd158
+_id: 6a280a29d0decba3eeed6f0c
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - 50f204c8-2b4f-52e9-8c11-c4b12321d125
-classicId: '2989651'
+  - 87255993-121e-54f9-96e9-54ad74a446c3
+classicId: '3267009'
 classicProductId: '691599'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 47
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: fc20ab7b-f3ad-5acb-b167-10cb5f53f3a2
+id: d72fb0b4-5bf7-4f64-9e6b-c844253a2a68
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: ibd-es47lb-616-12-multifurn-duopack-eetkamerstoel-sten-stof-taupe-product-5
   type: product
-offerId: 6ab80bd1-af09-5248-a232-bdff1daaf570
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1633646
+  priority: 100
+  slug: multifurn-logo
+  type: logo
+offerId: ff7c2277-bf4b-4235-bea5-dabb8f6d9197
 price:
   cents: 9995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 189.95
 slug: 2x-multifurn-sten-eetkamerstoel-stof-taupe
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: 2x Multifurn Sten Eetkamerstoel Stof Taupe

@@ -1,12 +1,12 @@
-_id: 6a1e9e77ae745c60b0a38351
+_id: 6a27f5944c0c10341c94aa72
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - 4dd192cc-c047-55f6-960f-93b22b61cf68
-classicId: '3254175'
+  - 4edf8f14-cd24-5b61-8d65-77f27aa456e4
+classicId: '3266036'
 classicProductId: '400855'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: bc235eb5-059d-4cea-86a4-8050941f8ade
+id: 5e73613e-635e-4dd3-88eb-c31d90f4569e
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: joseph-joseph-elevate-keukenset-6-delig
   type: product
-offerId: 034a7951-27ef-4ecb-8b72-07543e9ac65f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1898679
+  priority: 100
+  slug: joseph-joseph-logo
+  type: logo
+offerId: 21c99f3c-557d-4082-a901-19d609676019
 price:
   cents: 4995
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 94.99
 slug: joseph-joseph-elevate-keukenset-6-delig
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Joseph Joseph Elevate Carrousel Keukenhulpen | 6-delig

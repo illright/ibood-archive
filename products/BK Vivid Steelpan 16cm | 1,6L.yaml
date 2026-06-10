@@ -1,12 +1,12 @@
-_id: 6a0f006e415063ee3f15b41d
+_id: 6a27f5993b6bd2ced4b53ff1
 appOnly: false
 brand: BK
 brands:
   - id: e5056490-ff9e-545f-98cd-4e160da1629d
     name: BK
 categories:
-  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
-classicId: '3227222'
+  - 2ab9a77c-3885-533a-9d14-11324ca16cd7
+classicId: '3266052'
 classicProductId: '711536'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: b24d191f-9155-57b4-abcc-c54854a406a9
+id: bf875665-d18b-4761-848d-7a54e39df274
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: cc005659-001-bk-vivid-saucepan-16-cm-product-2
   type: product
-offerId: cd69a6cd-4023-5a23-97fa-7b725ce9fb62
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/jpeg
+  id: 20abb61b-5c19-429b-85c6-21e8da81c1c1
+  priority: 0
+  slug: bk-logo-101
+  type: logo
+offerId: 201f37ce-6599-450a-ba79-ea1490a1c072
 price:
   cents: 1295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 49.9
 slug: bk-vivid-steelpan-16cm-1-6l
 soldOut: false
-start: '2026-06-03T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: BK Vivid Steelpan 16cm | 1,6L

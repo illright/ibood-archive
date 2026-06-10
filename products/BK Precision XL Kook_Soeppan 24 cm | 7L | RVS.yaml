@@ -1,12 +1,12 @@
-_id: 6a0f0022415063ee3f15b3fd
+_id: 6a27f5ca4b9d2c9e197c928f
 appOnly: false
 brand: BK
 brands:
   - id: e5056490-ff9e-545f-98cd-4e160da1629d
     name: BK
 categories:
-  - 44e3b492-f2e5-58a2-87c6-e29387d8a686
-classicId: '3227212'
+  - 2ab9a77c-3885-533a-9d14-11324ca16cd7
+classicId: '3266160'
 classicProductId: '711527'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 50eec000-932d-5d86-a332-cfed24ce6e14
+id: 4fffa30f-080b-4929-ba24-5188c208ddb9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: b4527-324-bk-precision-stockpot-24-cm-7l-rvs-product-2
   type: product
-offerId: d22ae4f3-3b98-54b9-a9ce-d2d83b7d8be0
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/jpeg
+  id: 20abb61b-5c19-429b-85c6-21e8da81c1c1
+  priority: 0
+  slug: bk-logo-101
+  type: logo
+offerId: 36a5184f-dadc-4cda-af1d-3eee4fea61e8
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 59.9
 slug: bk-precision-xl-kook-soeppan-24-cm-7l-rvs
 soldOut: false
-start: '2026-06-03T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: BK Precision XL Kook/Soeppan 24 cm | 7L | RVS

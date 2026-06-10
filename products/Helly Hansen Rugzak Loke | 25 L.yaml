@@ -1,12 +1,12 @@
-_id: 6a1d3054fcfc063efbe2adb7
+_id: 6a27c2d6dbfebef9e1dc7222
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - ded0c2f5-68e4-5d9c-9511-d13c0db4a7ce
-classicId: '3252033'
+  - 76ffcfef-ef46-55a1-8af3-e317cee1c324
+classicId: '3265317'
 classicProductId: '207455'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: cd4538d0-8e44-418e-bab9-76f1ef5b8049
+id: 0b0e7187-bf88-4920-84ea-517062aa7f6d
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 63864689-53ef-49f9-932a-044216830b3a-tr
+  extension: jpg
+  id: 524825
   priority: 0
-  slug: hh-loke-rucksack-25-liter-jpg-product-5
+  slug: helly-hansen-rugzak-loke-25-l
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: bd579896-671e-4224-bbcf-d32db1b59b76
+offerId: af677762-1c16-4ec4-88b0-296ff419e630
 price:
   cents: 4495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 80
 slug: helly-hansen-rugzak-loke-25-l
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Helly Hansen Rugzak Loke | 25 L

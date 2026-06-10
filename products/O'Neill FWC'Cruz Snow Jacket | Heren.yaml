@@ -1,22 +1,22 @@
-_id: 6a195ea596d305194670b0a3
+_id: 6a27c331c506fbe734776cf2
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 046aca80-f2ce-5c65-8bd6-473174a8a0b8
-classicId: '3245601'
-classicProductId: '686487'
+  - ba29820b-f5dd-5290-a576-39be8b1bc3d2
+classicId: '3265445'
+classicProductId: '686473'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 65
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 64b0f950-9b69-4a5a-b072-b33faab41f9a
+id: 7bb20860-5582-4b34-b457-21e186902dd6
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: e8d5e7d4-8ad6-4520-b18d-0cd182c103df
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
+  type: logo
+offerId: 622f2dcc-04e6-4b32-8dc7-4bf93419a1e9
 price:
   cents: 7000
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 199.9
 slug: o-neill-fwc-cruz-snow-jacket-snow-jacket-heren
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: O'Neill FWC'Cruz Snow Jacket | Heren

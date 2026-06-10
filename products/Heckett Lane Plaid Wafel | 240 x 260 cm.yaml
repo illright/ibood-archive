@@ -1,22 +1,22 @@
-_id: 6a212308706d53e8edfcd1c2
+_id: 6a280b357b46ef318a5ef434
 appOnly: false
 brand: Heckett Lane
 brands:
   - id: e4aab67a-916d-5500-9121-6fb22731dc9a
     name: Heckett Lane
 categories:
-  - 59fd5ed1-9df9-5305-ace2-bd24737d6165
-classicId: '3257047'
+  - 87255993-121e-54f9-96e9-54ad74a446c3
+classicId: '3267530'
 classicProductId: '435138'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 58
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: f91d90f5-0077-4eac-b884-e4c20adb246f
+id: 4325bba2-679b-445a-836e-d5bf85eddba0
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: heckett-lane-plaid-wafel-240-x-260-cm
   type: product
-offerId: 2f788798-0f4a-44bd-88e0-7fcb2395dee4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1721723
+  priority: 100
+  slug: heckett-lane-logo
+  type: logo
+offerId: c6f4f4b1-a929-4695-97ed-c3146c579d82
 price:
   cents: 3795
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 89.95
 slug: heckett-lane-plaid-wafel-240-x-260-cm
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Heckett Lane Plaid Wafel | 240 x 260 cm

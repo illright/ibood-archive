@@ -1,12 +1,12 @@
-_id: 6a197b89d91f58b2e912a99e
+_id: 6a280abe7b46ef318a5ef366
 appOnly: false
 brand: Brilliant
 brands:
   - id: 63d315dc-2444-51bb-b1c7-9333a1f6d8c3
     name: Brilliant
 categories:
-  - 59fd5ed1-9df9-5305-ace2-bd24737d6165
-classicId: '3248512'
+  - 87255993-121e-54f9-96e9-54ad74a446c3
+classicId: '3267306'
 classicProductId: '709648'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: ef004468-4c6e-4318-9fbb-a70dba53b184
+id: 6294b7e6-fc79-4e90-9772-9fe34ad97362
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2153621
-  priority: 100
-  slug: brilliant-xaana-outdoor-led-tafellamp
+    - all
+  extension: image/png
+  id: 607b2ebb-5da6-4a63-bd8a-ab9a882a4f8e-tr
+  priority: 0
+  slug: brilliant-xaana-outdoor-led-tischlampe-3-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: brilliant-logo
   type: logo
-offerId: 7243934e-c23d-4d91-9c6d-4371413b735b
+offerId: 6aa24a06-8d8c-4662-9288-add362c7ab83
 price:
   cents: 1169
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 44.99
 slug: brilliant-xaana-outdoor-led-tafellamp
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Brilliant Xaana Outdoor LED Tafellamp | Bright Copper

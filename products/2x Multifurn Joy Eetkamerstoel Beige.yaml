@@ -1,12 +1,12 @@
-_id: 6984a286deb3dd8880dce3d7
+_id: 6a280a1b7b46ef318a5ef256
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - 50f204c8-2b4f-52e9-8c11-c4b12321d125
-classicId: '2989648'
+  - 87255993-121e-54f9-96e9-54ad74a446c3
+classicId: '3266972'
 classicProductId: '691595'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 46
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: c174828e-37e0-5bfd-9efc-37c777588606
+id: c4c90c9b-8e51-411d-b4f4-024117341880
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: ibd-es22joy-120-multifurn-duopack-eetkamerstoel-joy-beige-product-0
   type: product
-offerId: 03df0fc8-9011-5f73-b5fa-7cc5caf2c45d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1633646
+  priority: 100
+  slug: multifurn-logo
+  type: logo
+offerId: 8e73f2a9-d184-469e-a2af-28ffa32814c4
 price:
   cents: 12900
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 239.95
 slug: 2x-multifurn-joy-eetkamerstoel-beige
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: 2x Multifurn Joy Eetkamerstoel Beige

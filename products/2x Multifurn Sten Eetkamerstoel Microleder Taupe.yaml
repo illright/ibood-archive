@@ -1,12 +1,12 @@
-_id: 6984a3044b064076045cd15a
+_id: 6a280a2f7b46ef318a5ef290
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - 50f204c8-2b4f-52e9-8c11-c4b12321d125
-classicId: '2989653'
+  - 87255993-121e-54f9-96e9-54ad74a446c3
+classicId: '3267022'
 classicProductId: '691601'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 47
-end: '2026-06-09T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 3bab1644-6307-53d0-8150-db268fbbfd64
+id: 312f3117-ee5d-4a9f-8353-2e1054bf7eab
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: ibd-es47pk-970-08-multifurn-duopack-eetkamerstoel-sten-microleder-taupe-product-5
   type: product
-offerId: bb342d71-f62c-5a7e-b139-5bdbd2a4f995
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1633646
+  priority: 100
+  slug: multifurn-logo
+  type: logo
+offerId: 360d821f-6e8f-4311-b515-f63e0c57dcd8
 price:
   cents: 9995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 189.95
 slug: 2x-multifurn-sten-eetkamerstoel-microleder-taupe
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: 2x Multifurn Sten Eetkamerstoel Microleder Taupe

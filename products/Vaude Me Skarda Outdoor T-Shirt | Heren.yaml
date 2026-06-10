@@ -1,22 +1,22 @@
-_id: 6a1d234afcfc063efbe2abe6
+_id: 6a21623a706d53e8edfcd2b4
 appOnly: false
 brand: VAUDE
 brands:
   - id: 5bd79664-1a7d-5922-b8fe-f12f6f6be54e
     name: VAUDE
 categories:
-  - 622d8a18-2439-5211-9cfd-8f1b220802c4
-classicId: '3251874'
+  - a41f89bb-f8f7-5047-abf0-eefc4e2f81a3
+classicId: '3257513'
 classicProductId: '698258'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 33
-end: '2026-06-09T21:59:59.999Z'
+discount: 22
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 62388006-aba0-4d89-9b59-5393608bd0e4
+id: b1a33d42-6f02-4eef-8b37-051fe7f26a6d
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: b438b464-ee21-4092-be1d-b6e4c2d71912
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1735071
+  priority: 100
+  slug: vaude-logo
+  type: logo
+offerId: ec6365c8-4ac8-4fbb-a9ff-a5375b180222
 price:
-  cents: 2995
+  cents: 3495
   currency: EUR
-  value: 29.95
+  value: 34.95
 referencePrice:
   cents: 4500
   currency: EUR
   value: 45
 slug: vaude-me-skarda-outdoor-t-shirt-heren
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Vaude Me Skarda Outdoor T-Shirt | Heren
