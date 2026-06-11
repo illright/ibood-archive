@@ -1,12 +1,12 @@
-_id: 6a22eebe47d6895bb8c02ff0
+_id: 6a2930f718f974d28acc40f1
 appOnly: false
 brand: CHERRY
 brands:
   - id: 4530a1af-4544-5f88-94b4-091c5db74ac7
     name: CHERRY
 categories:
-  - 78460bbf-6ab1-5518-84fa-ec595725e5d3
-classicId: '3261343'
+  - 1b50ecb1-5c50-58df-84ea-ba45526911b7
+classicId: '3268792'
 classicProductId: '712805'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2026-06-10T21:59:59.999Z'
+end: '2026-06-17T21:59:59.999Z'
 freeDelivery: false
-id: 815f51c4-44fa-400c-87b4-90bae610da39
+id: 25bc1a18-c572-445d-bfd0-1438ecb5187f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: usb-mic-png-product-1
   type: product
-offerId: 8a2dc690-cf4f-4a59-a81a-f837143dc894
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: be91f44c-6d00-4a70-88cd-5e28e64435bf
+  priority: 0
+  slug: cherry-logo-0
+  type: logo
+offerId: 33857ed3-028e-4ce5-9954-2dc31bb43177
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 109.95
 slug: cherry-xtrfy-ngale-r-usb-microfoon
 soldOut: false
-start: '2026-06-03T22:00:00.000Z'
+start: '2026-06-10T22:00:00.000Z'
 title: Cherry Xtrfy Ngale R USB-Microfoon

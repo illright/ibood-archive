@@ -1,4 +1,4 @@
-_id: 6a1a8a238182b4d5f672b04e
+_id: 6a1a8a25cd60f436cd5670d5
 appOnly: false
 brand: DKNC
 brands:
@@ -6,17 +6,17 @@ brands:
     name: DKNC
 categories:
   - b6c3ba94-6913-5055-ab7b-bcf6682527bf
-classicId: '3251642'
-classicProductId: '681873'
+classicId: '3251646'
+classicProductId: '681874'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 75
+discount: 71
 end: '2026-06-23T21:59:59.000Z'
 freeDelivery: false
-id: 23571d22-f149-4b77-9423-7bda485238ec
+id: 7ec2e544-d65f-44ee-8a7f-93c19a6f8edf
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: a0971e74-a7b5-446f-89dc-82349cb7c00c
+  id: 030d2f51-f512-4bbe-97a8-82cd99a5b0aa
   priority: 0
-  slug: dknc-05-png-product-1
+  slug: dknc-06-png-product-1
   type: product
 logo:
   channels:
@@ -39,16 +39,17 @@ logo:
   priority: 0
   slug: dknc-logo-0
   type: logo
-offerId: d362e1a9-89a6-4434-9060-af7d8be29968
+offerId: 18ecea35-67d6-4b1a-b1e3-bb3d72c75995
 price:
-  cents: 2195
+  cents: 2495
   currency: EUR
-  value: 21.95
+  value: 24.95
 referencePrice:
   cents: 8750
   currency: EUR
   value: 87.5
 slug: dknc-wanddecoratie-linnen-117-x-3-x-147-cm
-soldOut: false
+soldOut: true
 start: '2026-05-29T22:00:00.000Z'
 title: DKNC Wanddecoratie | Linnen | 117 x 3 x 147 cm
+
