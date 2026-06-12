@@ -1,12 +1,12 @@
-_id: 6a1992a1ab411989a983dd1a
+_id: 6a2aa8c89d63951f04e16bf6
 appOnly: false
 brand: Lenor
 brands:
   - id: e07bbf59-7c5e-502f-acab-fa2bb6bdfa34
     name: Lenor
 categories:
-  - 0c098cd4-456d-5349-a00b-0de696f9dac6
-classicId: '3251119'
+  - 9488e95c-fd7b-5aff-a329-7cb425225451
+classicId: '3271714'
 classicProductId: '712952'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 56
-end: '2026-06-11T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 6ebf5c69-cd06-5a1c-8f10-1a1899143fa6
+id: d208d261-975b-4d65-a384-a6c2ff7dea47
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 691c5aaa-662b-4237-8062-bd3c4f91bf15
-  priority: 0
-  slug: lenor-png-logo-0
+  extension: png
+  id: 1526341
+  priority: 100
+  slug: lenor-logo
   type: logo
-offerId: fd438998-7403-5f6d-aad4-f7a6e8fe716e
+offerId: 2c300a1a-b8dd-45e4-ba37-d89806a4c7e8
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.92
 slug: 8x-lenor-vloeibare-wasverzachter-jasmin-flower-1150-ml-440-wb
 soldOut: false
-start: '2026-06-04T22:00:00.000Z'
+start: '2026-06-11T22:00:00.000Z'
 title: 8x Lenor Vloeibare Wasverzachter Jasmin Flower | 1150 ml (440 wb)

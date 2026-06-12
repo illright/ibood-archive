@@ -1,12 +1,12 @@
-_id: 6a19929c55c58ca33f1c70f7
+_id: 6a2aa7eb4033b0f916eae2b8
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 0c098cd4-456d-5349-a00b-0de696f9dac6
-classicId: '3251118'
+  - 9488e95c-fd7b-5aff-a329-7cb425225451
+classicId: '3271519'
 classicProductId: '712954'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-06-11T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 95201875-c489-53fe-ba74-d01576240f05
+id: 0f07bbe7-c84e-47ca-a4a3-e8c609198229
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 00659872-ecfb-4bdf-bc3e-e540847b5b47
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: 4e8a7db1-9540-53c3-baad-7fdcbda47e19
+offerId: d30509e3-99af-428f-af17-04f3865c659a
 price:
   cents: 2195
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 66.8
 slug: 84x-ariel-professional-original-wascapsules
 soldOut: false
-start: '2026-06-04T22:00:00.000Z'
+start: '2026-06-11T22:00:00.000Z'
 title: 84x Ariel Professional All in 1 Original Wascapsules

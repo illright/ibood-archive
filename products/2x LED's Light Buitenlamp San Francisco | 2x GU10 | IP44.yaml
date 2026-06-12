@@ -1,4 +1,4 @@
-_id: 6a1e852baf098e4eba355934
+_id: 6a2ab29ea2e5bb37b873735e
 appOnly: false
 brand: LED's Light
 brands:
@@ -6,8 +6,8 @@ brands:
     name: LED's Light
 categories:
   - 9b8e3760-9ef2-5b09-9b67-9a3e69a4baa6
-classicId: '3253957'
-classicProductId: '475539'
+classicId: '3273193'
+classicProductId: '711134'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 71
 end: '2026-06-14T21:59:59.999Z'
 freeDelivery: false
-id: b655fe99-a686-4304-ac0c-c223ff75d832
+id: f1d7dd2e-59b0-4613-8862-1e2b9718da01
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1433234
+  extension: image/png
+  id: 30689bd1-06a6-44e4-b5ab-3c5274b336e4-tr
   priority: 0
-  slug: 2x-leds-light-sf-auenleuchte
+  slug: 2x-leds-light-sf-auenleuchte-jpg-product-1
   type: product
 logo:
   channels:
@@ -34,21 +37,20 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 547886f4-6b9e-47a3-98c8-c6c7ad860456
-  priority: 101
-  slug: led-s-light-logo-101
+  id: cc75d93d-39ec-463d-a6c3-06c963da8898
+  priority: 0
+  slug: led-s-light-logo-101-png-logo-0
   type: logo
-offerId: 16d50901-05e6-44ad-912f-7bb1f0fddc5f
+offerId: 8059a89b-fd22-4c41-a601-997a7907b870
 price:
   cents: 2195
   currency: EUR
   value: 21.95
 referencePrice:
-  cents: 7495
+  cents: 7598
   currency: EUR
-  value: 74.95
+  value: 75.98
 slug: 2x-leds-light-buitenlamp-san-francisco-2x-gu10
 soldOut: false
 start: '2026-06-02T22:00:00.000Z'
 title: 2x LED's Light Buitenlamp San Francisco | 2x GU10 | IP44
-'s Light Buitenlamp San Francisco | 2x GU10 | IP44

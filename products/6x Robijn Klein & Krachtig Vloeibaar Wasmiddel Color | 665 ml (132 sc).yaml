@@ -1,12 +1,12 @@
-_id: 6a1ecf30d1a6cfe748082990
+_id: 6a2aa9bd22bd1ef7ed0c7da6
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 0c098cd4-456d-5349-a00b-0de696f9dac6
-classicId: '3254986'
+  - 9488e95c-fd7b-5aff-a329-7cb425225451
+classicId: '3272001'
 classicProductId: '713371'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-06-11T21:59:59.999Z'
+end: '2026-06-16T21:59:59.999Z'
 freeDelivery: false
-id: 79ba03a3-b3d3-5879-bc22-91ef5c2a46d3
+id: 8f35c553-bfca-44bb-b8c6-fe5d27eba124
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 98d4aa51-33cc-4a8e-b0d1-379cd1692f59
-  priority: 0
-  slug: robijn-png-logo-0
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
   type: logo
-offerId: dd5672d1-3f4e-590e-ae86-1c7aa36f0e0a
+offerId: e79fb2fd-d840-4c9b-a00c-110bad09cf09
 price:
   cents: 3295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 107.94
 slug: 6x-robijn-k-k-wasmiddel-color-665-ml-132-sc
 soldOut: false
-start: '2026-06-04T22:00:00.000Z'
+start: '2026-06-11T22:00:00.000Z'
 title: 6x Robijn Klein & Krachtig Vloeibaar Wasmiddel Color | 665 ml (132 sc)
