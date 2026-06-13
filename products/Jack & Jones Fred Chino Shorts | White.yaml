@@ -1,22 +1,22 @@
-_id: 6a1977b3b8add18f45cea4ac
+_id: 6a2bd5972d176fe89d9b5c6c
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
-classicId: '3247358'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274930'
 classicProductId: '680130'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 8bbe265f-74b3-4ba4-ac40-a580aed426ce
+id: e01e0707-78d3-4a46-9dac-a83777c9ef22
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 11da0628-a838-4ac3-b26c-ca6236cd8bd2
+offerId: 2f030cdf-0ec5-440d-8b9e-4ada0ad47954
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: jack-jones-fred-chino-shorts-white
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Jack & Jones Fred Chino Shorts | White

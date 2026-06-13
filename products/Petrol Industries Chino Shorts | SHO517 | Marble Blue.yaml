@@ -1,12 +1,12 @@
-_id: 6a16b1b6746d868fbf5a42a8
+_id: 6a2bd3c79d63951f04ebd388
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240400'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274501'
 classicProductId: '712352'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 5a24ec0a-9260-5ba0-a29d-9ed43cf9056a
+id: 39a6c724-0eb9-4c26-90b5-db0f36b50afb
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6e0a505d-ea3a-4157-b559-94c2e5bd17af
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 5c97a86b-1390-5b14-b459-7a32f8b38fdc
+offerId: c269d848-b856-4d71-8454-cf0e22722966
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,6 @@ referencePrice:
   value: 55.99
 slug: petrol-industries-chino-shorts-sho517-marble-blue
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Petrol Industries Chino Shorts | SHO517 | Marble Blue
+itle: Petrol Industries Chino Shorts | SHO517 | Marble Blue

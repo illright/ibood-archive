@@ -1,12 +1,12 @@
-_id: 6a19795ec2e90de2ab558908
+_id: 6a2bd84848113db539bee258
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3247890'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275963'
 classicProductId: '695992'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 48
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 48dbe685-2e3e-47c0-b0c8-8417ef1d6284
+id: c8485048-26e7-4b2e-87d5-c8eea1af4607
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1606350
-  priority: 100
-  slug: wrangler-logo
+    - all
+  extension: image/png
+  id: 63e4d749-4fa9-48ca-954c-ccdf028da794
+  priority: 0
+  slug: wrangler-logo-101-png-logo-0
   type: logo
-offerId: 905eef04-dc34-4512-ac0e-70bcdc063e76
+offerId: fad41dac-6d18-43a0-9627-d19d885585ff
 price:
   cents: 1295
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 24.95
 slug: wrangler-americana-t-shirt-navy
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Wrangler Americana T-Shirt | Navy

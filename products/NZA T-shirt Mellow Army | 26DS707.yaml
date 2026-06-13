@@ -1,22 +1,22 @@
-_id: 6a197a59b8521d5c95fdb461
+_id: 6a2bd8a87a9158a04d57ac32
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3248269'
-classicProductId: '707616'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3276103'
+classicProductId: '707618'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
 discount: 50
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 0df0e4e8-9dd4-498a-b6cc-4bcef3ad402c
+id: 5597a6cc-eac2-4f60-a1ec-53f5f09330ef
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1634994
-  priority: 100
-  slug: nza-logo
+    - all
+  extension: image/png
+  id: 9b362f44-242c-4cfb-923c-81983a3aeac5
+  priority: 0
+  slug: new-zealand-auckland-png-logo-0
   type: logo
-offerId: 9ef98ead-357c-42e5-a208-976d26fd8611
+offerId: bb0ccfe9-b860-40df-90b7-90ed8e8bfd42
 price:
   cents: 2495
   currency: EUR
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: nza-t-shirt-mellow-army-26ds707
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: NZA T-shirt Mellow Army | 26DS707

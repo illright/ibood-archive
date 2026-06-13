@@ -1,12 +1,12 @@
-_id: 6a16b1b396b8bf7d53f4b010
+_id: 6a2bd3b35952c81790cac7d2
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240398'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274495'
 classicProductId: '712346'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 14ea2ca2-c662-5d19-8ad9-1e6a33065eef
+id: a927484a-7674-4915-9015-384b99c4ecef
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c2faef36-813a-4334-8349-7d9cf53ef6fe
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: ecae5ed8-575b-52f2-a5ae-76035355be2a
+offerId: 3e3ec9e4-4c75-4d51-af2b-033f0e3ac902
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,7 @@ referencePrice:
   value: 55.99
 slug: petrol-industries-chino-shorts-sho517-navy-blue
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries Chino Shorts | SHO517 | Navy Blue
+
 title: Petrol Industries Chino Shorts | SHO517 | Navy Blue

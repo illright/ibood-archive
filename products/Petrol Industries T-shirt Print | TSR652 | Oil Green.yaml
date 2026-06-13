@@ -1,12 +1,12 @@
-_id: 6a16af62a81e70702f8c6e1d
+_id: 6a2bd6ae9903ff79346d496c
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240323'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275500'
 classicProductId: '712137'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 40
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 11aa8035-b8e9-56fa-a83f-aae1820ded44
+id: 9218acfb-7287-4d12-a966-c148daf38230
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4733e23b-7739-4d47-945b-c73485c48101
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 34a13b6f-2002-5f39-bfd7-b09b0ca48795
+offerId: 3e3896f6-6645-4297-9b9c-707abcc4e8f0
 price:
   cents: 1795
   currency: EUR
@@ -52,5 +51,6 @@ referencePrice:
   value: 29.99
 slug: petrol-industries-t-shirt-print-tsr652-navy-blue
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries T-shirt Print | TSR652 | Oil Green
 title: Petrol Industries T-shirt Print | TSR652 | Oil Green

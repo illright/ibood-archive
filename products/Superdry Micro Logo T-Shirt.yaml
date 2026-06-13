@@ -1,22 +1,22 @@
-_id: 6a197875215b55471e2818a5
+_id: 6a2bd6bd65e0050b61380bbf
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3247630'
-classicProductId: '706503'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275510'
+classicProductId: '706500'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 1bbb0211-a7a5-4b00-b6c6-9a1da05eb1bb
+id: d60fe1ab-0c78-435f-80ac-ffcf4846496e
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: sd016-png-product-3
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: a76315a6-693d-4b8a-b5c9-702fe9700846
-  priority: 1
-  slug: superdry-logo-1
-  type: logo
-offerId: 914fa0a0-e1b9-4426-a8d6-acd937ebb31d
+offerId: b9f7907e-70ab-4d3e-b507-c928b50189b2
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 39.99
 slug: superdry-micro-logo-t-shirt
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Superdry Micro Logo T-Shirt

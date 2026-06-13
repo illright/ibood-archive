@@ -1,12 +1,12 @@
-_id: 6a16b04c96d305194670af48
+_id: 6a2bd67e65e0050b61380b4c
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240359'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275411'
 classicProductId: '712221'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 38
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 7aa2c8e2-eefc-5976-bfa4-7e5751e17def
+id: eaedcbe1-8b4f-4eb0-a561-1e39c19ec4f9
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2ffa8fbc-7537-4715-8aac-069518af6349
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: efe27d3a-94ba-53b4-ac4d-9adf57dad2f2
+offerId: 8b8699e8-18bf-4e15-bd71-94ed4d068d14
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,6 @@ referencePrice:
   value: 39.99
 slug: petrol-industries-poloshirt-print-pol905-navy-blue
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Petrol Industries Poloshirt Print | POL905 | Cool Mint
+tle: Petrol Industries Poloshirt Print | POL905 | Cool Mint

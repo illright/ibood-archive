@@ -1,12 +1,12 @@
-_id: 6a16ae69e407d96446b152ca
+_id: 6a2bd52748113db539bed896
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240282'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3274731'
 classicProductId: '712041'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: dca8160c-3b2d-540c-aefe-1328089486ed
+id: 9f67a195-3d04-4001-b405-983a6751ee41
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0187e8da-dca4-4bfd-842d-b80d9133af79
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 82bc8613-028c-5f22-9a53-b8efee257fe0
+offerId: 67b04408-02dc-426d-a814-bfaa3a664e24
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,7 @@ referencePrice:
   value: 44.99
 slug: petrol-industries-poloshirt-pol265-navy-blue
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries Poloshirt | POL265 | Navy Blue
+0Z'
 title: Petrol Industries Poloshirt | POL265 | Navy Blue

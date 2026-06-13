@@ -1,12 +1,12 @@
-_id: 6a19779807f7517efd814a00
+_id: 6a2bd5697a9158a04d57a530
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
-classicId: '3247346'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274844'
 classicProductId: '707577'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: ffdd72d4-74b6-41c5-b8ae-a2db81f0d8d0
+id: 6e3f6e17-75f9-4f13-b7ce-d574499579c2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7e1b1b00-ff13-4ab4-ad5f-44b077b1b27e
-  priority: 0
-  slug: new-zealand-auckland-png-logo-0
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
   type: logo
-offerId: c3e78912-a2b6-4b62-8ff9-a6f7c44aafe1
+offerId: 33257c5e-3c4c-451f-90b8-b984d5bc9362
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 89.99
 slug: nza-chino-short-dusk-navy-26ds623
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: NZA Chino Short Dusk Navy | 26DS623

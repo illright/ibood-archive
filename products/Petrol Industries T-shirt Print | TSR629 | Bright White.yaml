@@ -1,12 +1,12 @@
-_id: 6a1996ab492244191e153c40
+_id: 6a2bd73e5952c81790cad328
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3251152'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275645'
 classicProductId: '712955'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 39
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: e066a1a1-c523-5e5d-b6df-45e89ff3f23e
+id: 100b8e7a-4cd8-4d27-9900-994bc4ecc9ff
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 372e35d8-9f1e-443f-9e59-5fe6b6e36c41
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 42a3469f-adc0-54d7-91b7-12b70ee4f81a
+offerId: 2514b462-72e5-4e4e-a238-7578cbffbe5c
 price:
   cents: 1695
   currency: EUR
@@ -52,5 +51,6 @@ referencePrice:
   value: 27.99
 slug: petrol-industries-t-shirt-print-tsr629-bright-white
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Petrol Industries T-shirt Print | TSR629 | Bright White
+le: Petrol Industries T-shirt Print | TSR629 | Bright White

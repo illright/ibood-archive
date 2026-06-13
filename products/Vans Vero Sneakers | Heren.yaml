@@ -1,22 +1,22 @@
-_id: 6a267940fe3c6726eba48e17
+_id: 6a2bd6637a9158a04d57a80e
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 1b325840-e460-507e-9db6-df8be9d51cf2
-classicId: '3261476'
-classicProductId: '692280'
+  - f8ba1faa-f6df-5e3b-b73c-7bd50a917359
+classicId: '3275313'
+classicProductId: '692252'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 27
-end: '2026-06-15T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: abeadabc-b956-4d64-9780-7851a26f222f
+id: 42c58cb6-0cd7-4436-b60d-1d7d6f30ae64
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 702a91c9-4ebe-4043-b494-3fb30a3ec496-tr
+  id: 9ba1bde8-ec57-450c-9fc3-797f0f63c772
   priority: 0
-  slug: 42-5-deep-twilight-vnemt-vn000y7hemt1-vero-ls-suede-canvas-deep-twilight-mens-vans-product-1
+  slug: vans-03-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 6c481e6b-ff12-4771-bb09-1f4d98015e0e
+offerId: 1b4dc220-f475-4c1c-9bc6-0ac962b425c8
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +49,8 @@ referencePrice:
   value: 55
 slug: vans-vero-sneakers-heren
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Vans Vero Sneakers | Heren
+ false
+start: '2026-06-12T22:00:00.000Z'
 title: Vans Vero Sneakers | Heren

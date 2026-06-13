@@ -1,12 +1,12 @@
-_id: 6a1996aca12b1aeecaddd062
+_id: 6a2bd70948113db539bede67
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3251153'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275618'
 classicProductId: '712961'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 39
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: b8d35b8f-b64a-5e2e-b6e1-b95bb5c85b78
+id: 9534c46e-ddf6-4bf7-af43-d6f629d070b1
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 33a938a4-d695-40cd-b437-4814fba7b754
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: c759a4d1-d11f-5755-97a5-291c5d475bf7
+offerId: c8bc4275-daab-4432-9679-89ae9653633b
 price:
   cents: 1695
   currency: EUR
@@ -52,5 +51,6 @@ referencePrice:
   value: 27.99
 slug: petrol-industries-t-shirt-print-tsr629-navy-blue
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries T-shirt Print | TSR629 | Navy Blue
 title: Petrol Industries T-shirt Print | TSR629 | Navy Blue

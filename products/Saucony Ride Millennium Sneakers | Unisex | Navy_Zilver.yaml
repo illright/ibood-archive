@@ -1,12 +1,12 @@
-_id: 6a195c31013f9a54609fbcd1
+_id: 6a2bd6048bab196fc5f9e468
 appOnly: false
 brand: Saucony
 brands:
   - id: 33b2f2e4-ad97-59ac-b5c4-ff72b943bed0
     name: Saucony
 categories:
-  - afc2499f-aaee-5235-b4ca-c5212838b81f
-classicId: '3245211'
+  - f8ba1faa-f6df-5e3b-b73c-7bd50a917359
+classicId: '3275122'
 classicProductId: '695400'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 9397c21c-d994-412f-9484-cb7bcd9d236e
+id: a7447e1d-0cbf-4c67-ad4a-662f3059ea21
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 42-5-navy-silver-410-s70812-51-ride-millennium-saucony-sneaker-unisex-product-0
   type: product
-offerId: de73f952-4523-410d-b1d0-36414c82dc55
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f94c3acf-818d-4b16-9bb5-088d250ef6ed
+  priority: 101
+  slug: saucony-logo-101
+  type: logo
+offerId: 282be927-b1a8-48c3-a7f2-c755e980dd21
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 120
 slug: saucony-ride-millennium-sneakers-unisex-navy-silber
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Saucony Ride Millennium Sneakers | Unisex | Navy/Zilver

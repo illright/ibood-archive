@@ -32,12 +32,14 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  id: 207676
-  priority: 100
-  slug: revo-logo
+    - all
+  extension: image/png
+  id: f9fe1c4b-7ca5-4b44-a452-87c28bfcf6f3
+  priority: 0
+  slug: revo-png-logo-0
   type: logo
 offerId: 0ae7404e-8d29-5a28-82bb-3a4d99366183
 price:

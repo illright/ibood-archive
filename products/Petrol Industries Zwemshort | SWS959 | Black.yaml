@@ -1,12 +1,12 @@
-_id: 6a16b243fe7379fe4b6f90ab
+_id: 6a2bd4cd7a9158a04d57a39c
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240421'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274592'
 classicProductId: '712400'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 39a85f4d-150a-5b34-992f-06f35b19c108
+id: 1eccbdc0-5e5e-45b9-b88d-833262224806
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 360de604-6ba7-4b0e-80ca-651ba8821080
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 5de022f6-0b4b-5847-be38-48131f9920cc
+offerId: 10190fd0-c80f-4d75-b09f-03e36d848f8f
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,7 @@ referencePrice:
   value: 35.99
 slug: petrol-industries-zwemshort-sws959-black
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries Zwemshort | SWS959 | Black
+0.000Z'
 title: Petrol Industries Zwemshort | SWS959 | Black

@@ -1,12 +1,12 @@
-_id: 6a195b84b8add18f45cea3a0
+_id: 6a2bd69065e0050b61380b67
 appOnly: false
 brand: Carrera
 brands:
   - id: 92d00cd9-feb5-5cb6-820f-ba8271c25191
     name: Carrera
 categories:
-  - f4c3c95a-193e-53d5-b956-5263504f5003
-classicId: '3244926'
+  - 7e60920e-45fb-5c52-9a9c-b37ac49125b8
+classicId: '3275368'
 classicProductId: '554924'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: bc151f63-27fb-4f87-95df-1a0a2efe29ec
+id: af08a963-37e4-41b0-834e-3cc26d9d5194
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: dd02ef1c-ce15-4e83-b1ba-3efc7ef04d78
+  extension: png
+  id: 1870488
   priority: 0
-  slug: carrera-carduc-002s-oit-68-16-125-sonnenbrille-png-product-1
+  slug: carrera-002s-oit-zonnebril-heren
   type: product
 logo:
   channels:
@@ -39,7 +38,7 @@ logo:
   priority: 101
   slug: carrera-logo-101
   type: logo
-offerId: 612630d3-a91b-42ff-aa69-2b5cd0ae2f31
+offerId: 9e4706a6-f5c3-4307-862f-0a090108938a
 price:
   cents: 4995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 139
 slug: carrera-002s-oit-zonnebril-heren
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Carrera Carduc 002/S OIT Zonnebril | Heren

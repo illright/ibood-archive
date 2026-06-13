@@ -1,22 +1,22 @@
-_id: 6a197a44c2e90de2ab55891b
+_id: 6a2bd85e8bab196fc5f9e8b9
 appOnly: false
 brand: Scotch & Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch & Soda
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3248215'
-classicProductId: '686997'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275993'
+classicProductId: '686996'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
 discount: 60
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 720f996b-f407-48eb-9234-1ecd6a9e2710
+id: 6f25bcee-c138-4498-87d4-ae14f4664384
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: scotch-and-soda-logo-0
   type: logo
-offerId: 6ffbcb2e-784f-4dca-83e7-0bb92823ffdb
+offerId: cbebc16b-87ef-4c2a-8221-4470124ac0bc
 price:
   cents: 1995
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: scotch-soda-jacquard-t-shirt-heren
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: Scotch & Soda Jacquard T-Shirt | Heren

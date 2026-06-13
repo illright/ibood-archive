@@ -1,12 +1,12 @@
-_id: 6a16b2360de9db37a1e9e3a6
+_id: 6a2bd4978bab196fc5f9e0b7
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240413'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274565'
 classicProductId: '712370'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: f6fd2c94-b7a1-5fa2-b2d4-f664ec052baf
+id: 60073709-e4bb-4e49-a7fa-6e32e4ee6d96
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bd321304-087f-4a25-b898-ba99f17a572e
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: b44a473a-428f-504e-8377-1da4ce98073d
+offerId: b6f7c0f1-4c59-44f4-ad6c-c5c462b4d185
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,7 @@ referencePrice:
   value: 35.99
 slug: petrol-industries-zwemshort-sws956-oil-green
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries Zwemshort | SWS956 | Oil Green
+0Z'
 title: Petrol Industries Zwemshort | SWS956 | Oil Green

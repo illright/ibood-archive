@@ -1,22 +1,22 @@
-_id: 6a197980ab411989a983dc5e
+_id: 6a2bd8c99d63951f04ebe525
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3247934'
-classicProductId: '698420'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3276141'
+classicProductId: '698421'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 47
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: c01d663b-3c34-4b53-bad9-1415d12f7220
+id: 70b12283-2de0-4db1-a59c-6f97b1d908f1
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 33514a99-3eda-478c-a702-fe4b68ddc646
+offerId: f4b24099-8b41-47a0-b15f-d3b0e7655c7b
 price:
   cents: 1595
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 29.99
 slug: petrol-industries-t-shirt-m-1060-tsr131-fiery-coral
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: Petrol Industries T-shirt | M-1060-TSR131 | Fiery Coral

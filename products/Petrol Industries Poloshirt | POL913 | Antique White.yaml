@@ -1,12 +1,12 @@
-_id: 6a16b0d2cc9cd28ce0a39a48
+_id: 6a2bd70748113db539bede5a
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240372'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275617'
 classicProductId: '712244'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 39
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 345bc484-c7f1-5d02-b6b4-dd6f5a45c6a4
+id: 6a091463-60c6-4d83-a75f-09b5a0bdbd2a
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9e8a6eb6-ae4e-46ec-8454-86b28eb93c3f
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 629550d1-0395-511d-8ad4-127f2c1e9b29
+offerId: 153566a6-2f08-4b11-a695-57d5d1b942fd
 price:
   cents: 2195
   currency: EUR
@@ -52,5 +51,6 @@ referencePrice:
   value: 35.99
 slug: petrol-industries-poloshirt-pol913-antique-white
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries Poloshirt | POL913 | Antique White
 title: Petrol Industries Poloshirt | POL913 | Antique White

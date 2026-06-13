@@ -1,22 +1,22 @@
-_id: 6a1979fc55c58ca33f1c700a
+_id: 6a2bd8a99d63951f04ebe4b3
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3248085'
-classicProductId: '707607'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3276102'
+classicProductId: '707608'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 2a7658fc-b060-4ca8-a46c-8c740406c69e
+id: 14a2f7d0-3f23-49d5-b36c-c8aa4143d9cc
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: ed7ed3fc-0622-4d96-80b1-05cd0f69a50a
+offerId: bf6cfbe8-f7fb-4d09-b6f0-79f64bd68fe7
 price:
   cents: 2495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: nza-t-shirt-dusk-navy-26ds707
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: NZA T-shirt Rhythm Blue | 26DS707

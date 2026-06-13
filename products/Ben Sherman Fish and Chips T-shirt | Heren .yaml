@@ -1,12 +1,12 @@
-_id: 6a1978e82c01c063f6a89888
+_id: 6a2bd7ae5952c81790cad442
 appOnly: false
 brand: Ben Sherman
 brands:
   - id: bffecce8-b77c-54d3-94b0-183f578722f8
     name: Ben Sherman
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3247765'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275739'
 classicProductId: '701243'
 deliveryPrice:
   cents: 395
@@ -14,19 +14,21 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 40
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 96590a3a-0ff9-4cb7-8634-3d13ee23436f
+id: bb1c79de-ae39-42d8-8ff0-fc2ea60dde90
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: a0bb2e14-9c0e-4adf-b20b-85ddae38e44d-tr
+  id: 92c6eea7-8c7e-44db-b5a7-294f11911eb8-tr-cr
   priority: 0
-  slug: l-561-raspberry-1013570-fish-and-chips-tee-ben-sherman-signature-product-0
+  slug: l-561-raspberry-1013570-fish-and-chips-tee-ben-sherman-signature-product-1
   type: product
 logo:
   channels:
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: ben-sherman-logo-0
   type: logo
-offerId: 0fc4b619-17cf-45ef-a879-1f6773aec92d
+offerId: 2fafdae8-c0ee-45b1-9a71-34315f0738b0
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 49.95
 slug: ben-sherman-fish-and-chips-t-shirt-heren-roze
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: 'Ben Sherman Fish and Chips T-shirt | Heren '

@@ -1,22 +1,22 @@
-_id: 6a1977bb6459546c98ae5340
+_id: 6a2bd59f8bab196fc5f9e337
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
-classicId: '3247388'
-classicProductId: '706537'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274961'
+classicProductId: '706534'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
+directCheckout: false
 discount: 54
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: d49cb507-d17e-490f-ac35-520898b040e6
+id: 3ed377a1-0e5b-4717-82a4-b56846d5d196
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd009-png-product-1
   type: product
-offerId: 911f8b52-c816-4af9-a9b5-df0d0cd1bc7d
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 16c61d95-de7f-4f5c-9b4e-147ecd1553c0
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 49.99
 slug: superdry-sportswear-logo-swim-short-relaxed-fit
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Superdry Sportswear Logo Swim Short | Relaxed Fit

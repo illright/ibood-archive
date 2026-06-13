@@ -1,22 +1,22 @@
-_id: 6a197a6acc9cd28ce0a39c95
+_id: 6a2bd8b88bab196fc5f9e94a
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3248280'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3276124'
 classicProductId: '694619'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 44
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: cfe529df-db9f-45cb-97d9-7d2993803701
+id: 86ad6bc5-d603-4b4a-a431-8cc71a7591d4
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e301d661-6ac6-444e-a653-304ae4230d91
-  priority: 0
-  slug: mcgregor-png-logo-0
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
   type: logo
-offerId: ff753eb9-6da4-44f1-abfb-5dbee0557a7b
+offerId: 194ff093-f6ec-4bb1-aa48-bf2561d63d44
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 44.95
 slug: mcgregor-graphic-t-shirt-heren-donkergroen
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: McGregor Graphic T-shirt | Heren | Donkergroen

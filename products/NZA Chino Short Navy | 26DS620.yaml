@@ -1,22 +1,22 @@
-_id: 6a1977e5c5ac23c798d632f0
+_id: 6a2bd58e9d63951f04ebdac5
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
-classicId: '3247431'
-classicProductId: '707563'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274912'
+classicProductId: '707560'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 56
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 0568e58d-a265-410b-8e54-379d3b62b4a0
+id: bf3b1f58-cd9d-4fb2-9ef5-2d52c02c0b65
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c2f4dd00-784c-418d-b09c-de7fe23dfcf2
-  priority: 0
-  slug: new-zealand-auckland-png-logo-0
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
   type: logo
-offerId: b9123e26-fe45-403c-a2f9-d2b341aa1b39
+offerId: c94b72fb-dcda-441c-98a7-621e7c4c7c05
 price:
   cents: 3995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 89.99
 slug: nza-chino-short-sand-26ds620
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: NZA Chino Short Navy | 26DS620

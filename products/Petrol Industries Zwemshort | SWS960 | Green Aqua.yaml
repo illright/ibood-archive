@@ -1,12 +1,12 @@
-_id: 6a16b2b744f9a1828222bca3
+_id: 6a2bd46965e0050b6138065e
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240428'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274547'
 classicProductId: '712412'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 5e021512-3a94-5b4e-98e5-6256e4bbe861
+id: 26a7471b-6d5f-4d11-8ff9-a49d3fd03928
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fa8e294f-932b-446a-902b-e40026e47258
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 89598236-881f-57d1-afa1-42b53fb81913
+offerId: 4fc4c91d-1e6b-40db-9013-03f5970f6d5b
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,7 @@ referencePrice:
   value: 35.99
 slug: petrol-industries-zwemshort-sws960-green-aqua
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries Zwemshort | SWS960 | Green Aqua
+Z'
 title: Petrol Industries Zwemshort | SWS960 | Green Aqua

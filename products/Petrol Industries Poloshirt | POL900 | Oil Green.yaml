@@ -1,12 +1,12 @@
-_id: 6a16b04520cee070af634ef3
+_id: 6a2bd5ba8bab196fc5f9e390
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240355'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275018'
 classicProductId: '712209'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 41
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: fd11ad51-6311-51c3-a3bf-ef8fbcf2c394
+id: 96fbbc9a-e81d-4b37-b7c2-a934d689993a
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8f57af7e-5643-42f5-a508-cac8da2a6ee3
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: f4e7d437-d563-59d9-9efa-4f27e9cd8e5f
+offerId: f10ce1cb-c7f8-4a09-bfc1-52435129a7c4
 price:
   cents: 2695
   currency: EUR
@@ -52,5 +51,7 @@ referencePrice:
   value: 45.99
 slug: petrol-industries-poloshirt-pol900-seashell
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries Poloshirt | POL900 | Oil Green
+0Z'
 title: Petrol Industries Poloshirt | POL900 | Oil Green

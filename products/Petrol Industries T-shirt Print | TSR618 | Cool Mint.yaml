@@ -1,22 +1,22 @@
-_id: 6a16aefb215b55471e281659
+_id: 6a2bd6127a9158a04d57a74a
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 3b841f86-39a9-53b1-ac56-8eeb70a89441
-classicId: '3240302'
-classicProductId: '712071'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275139'
+classicProductId: '712076'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 47
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 6c4f729c-8ae9-50a1-bce8-12406f629dd4
+id: 6fc1aaee-afd5-4b79-ad85-8c76ace1cd61
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4b9b15c6-fcb7-4be0-9f83-a56774a2edb4
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 5d5b4310-7b06-5720-aa99-3f9af635d33d
+offerId: 95ab6026-0762-4fa6-9b72-f3b817c4736a
 price:
   cents: 1595
   currency: EUR
@@ -52,5 +51,6 @@ referencePrice:
   value: 29.99
 slug: petrol-industries-t-shirt-print-tsr618-navy-blue
 soldOut: false
-start: '2026-06-07T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Petrol Industries T-shirt Print | TSR618 | Cool Mint
 title: Petrol Industries T-shirt Print | TSR618 | Cool Mint

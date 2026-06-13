@@ -1,22 +1,22 @@
-_id: 6a195bc8e672e2ce5cdef8a0
+_id: 6a2bd67448113db539bedcdc
 appOnly: false
 brand: FILA
 brands:
   - id: 59b12bc5-5346-59fe-8473-e788ad62b09c
     name: FILA
 categories:
-  - afc2499f-aaee-5235-b4ca-c5212838b81f
-classicId: '3245030'
-classicProductId: '706929'
+  - f8ba1faa-f6df-5e3b-b73c-7bd50a917359
+classicId: '3275330'
+classicProductId: '706932'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 46
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 6b5c4afe-9e84-49b2-a344-207997765aef
+id: 6d1eb49d-e3a0-4e63-acb3-ca8aa30a9fb6
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: schoen-18-png-product-1
   type: product
-offerId: 66d33b88-efff-46b6-a3d3-d095a015f31a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8c521bd7-d9ca-4796-91f3-72b37e977209
+  priority: 0
+  slug: fila-png-logo-0
+  type: logo
+offerId: df25e0eb-7ab2-4a32-bc47-550929662365
 price:
   cents: 2995
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 55
 slug: fila-spectris-sneakers-heren
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: Fila Spectris Sneakers | Heren

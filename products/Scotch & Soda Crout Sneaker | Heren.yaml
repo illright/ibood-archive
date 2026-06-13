@@ -1,22 +1,22 @@
-_id: 6a195c796459546c98ae524a
+_id: 6a2bd66f5952c81790cad0b6
 appOnly: false
 brand: Scotch & Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch & Soda
 categories:
-  - afc2499f-aaee-5235-b4ca-c5212838b81f
-classicId: '3245248'
-classicProductId: '695011'
+  - f8ba1faa-f6df-5e3b-b73c-7bd50a917359
+classicId: '3275300'
+classicProductId: '695012'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: aed59554-2d13-477b-90d8-2078e570a78f
+id: 8a1dd822-d263-4a81-bfda-50fdb407c7bc
 image:
   channels:
     - app
@@ -35,11 +35,11 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: 443c6724-db81-4b0c-81dc-36e2128be4dd
+  id: 568b1dee-89a4-4ff0-9710-9d0dedff4484
   priority: 0
-  slug: scotch-and-soda-logo-0
+  slug: scotch-and-soda-png-logo-0
   type: logo
-offerId: efdbec6a-0422-40aa-971b-ab7658bb8a57
+offerId: 22fd976b-f83f-4046-a929-75782b652aee
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 89.95
 slug: scotch-soda-crout-sneaker-heren
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Scotch & Soda Crout Sneaker | Heren

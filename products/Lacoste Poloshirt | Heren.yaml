@@ -1,22 +1,22 @@
-_id: 6a1979bc189733db22a01de2
+_id: 6a2bd81c8bab196fc5f9e84b
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3247999'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3275907'
 classicProductId: '704295'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 38
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: c2bd0200-aa65-43e7-ade8-c01ce86e943c
+id: 12184ca6-594b-46e6-981e-50349899bb1b
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 356a5b3f-b6da-4226-9cbb-5bdadfc036b1
+offerId: 3531b6aa-927d-4a43-aa0a-048210d88eeb
 price:
   cents: 7995
   currency: EUR
@@ -49,5 +49,6 @@ referencePrice:
   value: 130
 slug: lacoste-poloshirt-heren
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Lacoste Poloshirt | Heren
+

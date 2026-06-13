@@ -1,22 +1,22 @@
-_id: 6a195bbf8c93ce2b1f1646b2
+_id: 6a2bd64c65e0050b61380afa
 appOnly: false
 brand: Blackstone Footwear
 brands:
   - id: b98bd065-86a5-5a59-af62-4c454db56d9a
     name: Blackstone Footwear
 categories:
-  - afc2499f-aaee-5235-b4ca-c5212838b81f
-classicId: '3245010'
+  - f8ba1faa-f6df-5e3b-b73c-7bd50a917359
+classicId: '3275272'
 classicProductId: '708998'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 62
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: d0d37328-8ff0-4190-a213-a9cf2e8ea707
+id: d63c9112-fde7-4dd2-83b8-707df17a5b87
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: blackstone-footwear-logo-0
   type: logo
-offerId: 3e2180c1-c39a-4c71-8b8e-6e5cff983994
+offerId: f40d761a-8fda-4e2f-a172-200f8a7466c2
 price:
   cents: 4995
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 129.99
 slug: blackstone-espa-sonny-slip-ons-heren
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: Blackstone Espa Sonny Slip-Ons | Heren

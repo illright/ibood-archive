@@ -1,22 +1,22 @@
-_id: 6a197a205fe1f581190a0cda
+_id: 6a2bd86348113db539bee2b4
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3248142'
-classicProductId: '703182'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3276003'
+classicProductId: '703180'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 40
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 9e22f096-8d86-4235-90e2-4466bf4e89e8
+id: bb650a4f-62c4-4891-857e-6bb1f575a5a3
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: e3deed39-321d-439f-b626-969d3ae89fc0
+offerId: 4d93f94d-062b-4efc-8267-527b96767735
 price:
   cents: 5995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 100
 slug: lacoste-dh2050-41-golf-polo
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
 title: Lacoste DH2050-41 Golf Polo | Heren

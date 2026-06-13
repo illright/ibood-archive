@@ -1,22 +1,22 @@
-_id: 6a197a60870d5de586a6c23a
+_id: 6a2bd8b348113db539bee3eb
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 9e8cdcde-e53b-58ac-94c1-dc746a102f2a
-classicId: '3248273'
-classicProductId: '707652'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3276110'
+classicProductId: '707650'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: d2ad9e16-e3ae-4902-80ef-4c2e5fa549eb
+id: 4b529ce6-b548-49e5-84a9-2d5ab8d8ebe2
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1634994
-  priority: 100
-  slug: nza-logo
+    - all
+  extension: image/png
+  id: 0b702fe6-7f36-4079-9c40-763e6c9af3e9
+  priority: 0
+  slug: new-zealand-auckland-png-logo-0
   type: logo
-offerId: 1a98efcc-cbd4-463d-b0a5-0a6ece0df72f
+offerId: 7c8a15e6-f4f2-4a69-892f-83708c01461a
 price:
   cents: 2495
   currency: EUR
@@ -48,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: nza-t-shirt-cream-26ds721
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: NZA T-shirt Golden Orange | 26DS721

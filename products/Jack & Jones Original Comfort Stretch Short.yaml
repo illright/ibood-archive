@@ -1,22 +1,22 @@
-_id: 6a1976b4215b55471e28187c
+_id: 6a2bd3889d63951f04ebd1f8
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - a2d9462a-51da-5d51-9aae-28ef7b922ff4
-classicId: '3247137'
-classicProductId: '503220'
+  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
+classicId: '3274484'
+classicProductId: '503219'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-06-12T21:59:59.000Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: a46295eb-35a8-407a-a7b2-d9748b806a3f
+id: 07edc27d-efbb-4081-8c07-e77fd1576f30
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1829425
+  id: 1829631
   priority: 100
-  slug: jack-jones-original-short
+  slug: jack-jones-logo
   type: logo
-offerId: ba3e630b-dcc7-4967-a3ac-5ade4933bfba
+offerId: 004dc7b4-47be-4c17-ac8d-c5b2a815b510
 price:
   cents: 1995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: jack-jones-original-short
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
 title: Jack & Jones Original Comfort Stretch Short
