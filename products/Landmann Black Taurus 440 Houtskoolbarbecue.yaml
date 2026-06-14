@@ -1,12 +1,12 @@
-_id: 6a2697bae3bad5f01fec4f7b
+_id: 6a1e868924e2111fa1a82e5f
 appOnly: false
 brand: Landmann
 brands:
   - id: 7fbf895b-0b79-589d-9fb8-46d28f4182fc
     name: Landmann
 categories:
-  - 7c34decf-9fb6-57bc-883d-5838a8f1dec5
-classicId: '3263271'
+  - 4118e88a-c324-599d-b928-7719bfaca6bb
+classicId: '3254004'
 classicProductId: '710271'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 59
-end: '2026-06-15T21:59:59.999Z'
+end: '2026-06-14T21:59:59.999Z'
 freeDelivery: false
-id: 3d873dae-5145-4afd-b699-46762a5a5495
+id: 75a28e22-05b0-401e-bd24-82869bea53ce
 image:
   channels:
     - app
@@ -30,7 +30,7 @@ image:
   priority: 0
   slug: landmann-black-taurus-440-houtskoolbarbecue-product-10
   type: product
-offerId: 31116395-f7c1-4022-84ff-e44f1cfc8f9b
+offerId: f022d519-84db-4046-81a9-a462d8db6904
 price:
   cents: 8995
   currency: EUR
@@ -40,6 +40,7 @@ referencePrice:
   currency: EUR
   value: 219
 slug: landmann-black-taurus-440-houtskoolbarbecue
-soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+soldOut: true
+start: '2026-06-02T22:00:00.000Z'
 title: Landmann Black Taurus 440 Houtskoolbarbecue
+
