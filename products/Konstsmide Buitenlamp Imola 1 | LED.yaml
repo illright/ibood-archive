@@ -1,12 +1,12 @@
-_id: 6a1e853eb8efe1e98d2b6a2b
+_id: 6a280ae6dea8a15244d05495
 appOnly: false
 brand: Konstsmide
 brands:
   - id: 6a9cb158-e536-5cac-b976-6d1094ec0f0a
     name: Konstsmide
 categories:
-  - 9b8e3760-9ef2-5b09-9b67-9a3e69a4baa6
-classicId: '3253984'
+  - 87255993-121e-54f9-96e9-54ad74a446c3
+classicId: '3267369'
 classicProductId: '81649'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-06-14T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 37b7220c-dfb5-48ce-a4d4-35913105a67a
+id: 93b0c009-e6fb-4cfa-aa25-e4332ec2a449
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 150477
+    - all
+  extension: image/png
+  id: fd389eda-7663-4fef-925a-cb44ebc92d36-tr
   priority: 0
-  slug: konstsmide-imola-1-led
+  slug: konstsmide-imola-led-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: konstsmide-logo
   type: logo
-offerId: 45fcc987-e843-4171-85c9-924c0200cb90
+offerId: 60a7c80d-9e84-4b6a-b41b-ec6dc761e94a
 price:
   cents: 2995
   currency: EUR
@@ -48,7 +49,5 @@ referencePrice:
   value: 89.95
 slug: konstsmide-imola-1-led
 soldOut: false
-start: '2026-06-02T22:00:00.000Z'
-title: Konstsmide Buitenlamp Imola 1 | LED
-09T22:00:00.000Z'
+start: '2026-06-09T22:00:00.000Z'
 title: Konstsmide Buitenlamp Imola 1 | LED

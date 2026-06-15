@@ -1,22 +1,22 @@
-_id: 6a1a8a3e1b08ecfcb17c0739
+_id: 6a28207b6613eb8f94464c85
 appOnly: false
 brand: Jalla
 brands:
   - id: 6a48abde-96ed-5121-a2da-313075dfd939
     name: Jalla
 categories:
-  - b6c3ba94-6913-5055-ab7b-bcf6682527bf
-classicId: '3251695'
-classicProductId: '671579'
+  - 781c842e-af3b-54c6-970b-2aee78772864
+classicId: '3267996'
+classicProductId: '671580'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 87
+discount: 80
 end: '2026-06-23T21:59:59.000Z'
 freeDelivery: false
-id: 4f8fbbf9-f064-4a37-a5f8-57f80c69efc2
+id: f8e16dc7-3d42-4125-85b6-0c78c08a1cdb
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 00682e73-91f0-4139-a039-e4e1b2c378a4
+  id: 7189c9a2-cd1e-4424-9481-8f8ddc8e8401
   priority: 0
-  slug: jalla-03-png-product-1
+  slug: jalla-04-png-product-1
   type: product
 logo:
   channels:
@@ -39,11 +39,11 @@ logo:
   priority: 0
   slug: jalla-logo-0
   type: logo
-offerId: 03a5f20e-f8ed-42f4-98ff-d078d2fecd49
+offerId: abc845ae-af2f-42a4-9cd6-eceb37f5efbf
 price:
-  cents: 1995
+  cents: 2995
   currency: EUR
-  value: 19.95
+  value: 29.95
 referencePrice:
   cents: 15000
   currency: EUR
@@ -52,4 +52,3 @@ slug: 12x-jalla-handdoek-50-x-100-cm
 soldOut: true
 start: '2026-05-29T22:00:00.000Z'
 title: 12x Jalla Handdoek | 50 x 100 cm
-
