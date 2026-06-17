@@ -1,32 +1,31 @@
-_id: 6a26790b3b76d930c76c34f1
+_id: 6a314d93b20a7e8202da0aef
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 1b325840-e460-507e-9db6-df8be9d51cf2
-classicId: '3261446'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282293'
 classicProductId: '622833'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 77
-end: '2026-06-15T21:59:59.999Z'
+discount: 82
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 0f8355e4-740f-4930-a96d-eeb3ea51dc52
+id: efbb414a-0814-47c8-92d1-3571ef2a4ae7
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f9cb8557-9ee0-433c-b3cf-649e4e0eb9dc-tr
-  priority: 0
-  slug: vans-caldrone-citadel-sneakers-kinder-4-jpg-product-2
+  extension: jpg
+  id: 2219873
+  priority: 1
+  slug: vans-caldrone-sport-suede-sneakers-kids
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: d86858cd-2a32-4e71-8d99-8ebc14905be9
+offerId: 26237354-dfdd-4bae-91b6-653d4a9c04b5
 price:
-  cents: 1995
+  cents: 1495
   currency: EUR
-  value: 19.95
+  value: 14.95
 referencePrice:
   cents: 8500
   currency: EUR
   value: 85
 slug: vans-caldrone-sport-suede-sneakers-kids
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-15T22:00:00.000Z'
 title: Vans Caldrone Sport Suede Sneakers | Kids

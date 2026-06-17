@@ -1,12 +1,12 @@
-_id: 6a26988c1110e367416da73a
+_id: 6a2faaf87133b632d1ddba4f
 appOnly: false
 brand: Lifa Garden
 brands:
   - id: f72fddd6-187a-53f4-960a-80948a229bf8
     name: Lifa Garden
 categories:
-  - 7c34decf-9fb6-57bc-883d-5838a8f1dec5
-classicId: '3263600'
+  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
+classicId: '3277485'
 classicProductId: '162503'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-06-15T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 036b22e7-e77a-4f2e-836d-bbd290c32ef7
+id: 32163c44-10e8-417d-8ad4-4c3add0c984c
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: honden-en-kattenverjager
   type: product
-offerId: fe6d6eb9-06cf-4e67-b2b6-db71d89d269e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1800168
+  priority: 100
+  slug: lifa-garden-logo
+  type: logo
+offerId: f571fc4f-4c28-42ed-96c7-a903d3d25406
 price:
   cents: 1495
   currency: EUR
@@ -37,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 59.95
 slug: honden-en-kattenverjager
-soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+soldOut: true
+start: '2026-06-15T22:00:00.000Z'
 title: Honden- en Kattenverjager | Solar

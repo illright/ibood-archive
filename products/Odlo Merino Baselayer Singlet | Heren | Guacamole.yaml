@@ -1,22 +1,22 @@
-_id: 6a27c336d1dbdeb950d4941b
+_id: 6a310ad79d63951f04fc2c09
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - ba29820b-f5dd-5290-a576-39be8b1bc3d2
-classicId: '3265449'
-classicProductId: '693032'
+  - 87d77009-28c4-5a1b-86a3-6a6b8994591b
+classicId: '3279160'
+classicProductId: '693033'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2026-06-16T21:59:59.999Z'
+directCheckout: true
+discount: 60
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 722a77dc-0a98-40cc-a149-1fea00badedf
+id: 97776c6e-d7aa-4f6a-95b6-242e70a12f18
 image:
   channels:
     - app
@@ -40,16 +40,16 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 3ec48b53-7b79-4eba-adfb-5731a1c5744d
+offerId: 0cd74ce2-535b-42d1-8987-6c69e3f1ff1d
 price:
-  cents: 2500
+  cents: 2000
   currency: EUR
-  value: 25
+  value: 20
 referencePrice:
   cents: 5000
   currency: EUR
   value: 50
 slug: odlo-merino-baselayer-singlet-heren-guacamole
 soldOut: false
-start: '2026-06-09T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: Odlo Merino Baselayer Singlet | Heren | Guacamole

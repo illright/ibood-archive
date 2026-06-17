@@ -1,12 +1,12 @@
-_id: 6a268ffb1110e367416da42d
+_id: 6a293b519d63951f04d740da
 appOnly: false
 brand: Jean Paul Gaultier
 brands:
   - id: 2153b556-5827-5bb0-90db-82b22f2df840
     name: Jean Paul Gaultier
 categories:
-  - 71997aef-998f-521b-b59b-1fd63386f0fb
-classicId: '3262954'
+  - 118c5f2c-c49c-5755-85f4-9a3a0e842fd4
+classicId: '3268963'
 classicProductId: '710074'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 1db0ce6a-8c67-423b-9d05-fd03c7790c2a
+id: 15bce505-6f0c-5019-9a20-3ae1055b819f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 732x1200-jpg-product-1
   type: product
-offerId: dbf58be8-6127-434d-a559-f3b120b37e02
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 7f692936-5ff6-4732-94cd-e5c2ff292b10
+  priority: 0
+  slug: jean-paul-gaultier-png-logo-0
+  type: logo
+offerId: 12b147e9-122d-5a92-a960-6aa1c4849819
 price:
   cents: 6495
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 150
 slug: jean-paul-gaultier-le-male-eau-de-toilette-set-125-ml-20-ml-heren
-soldOut: true
-start: '2026-06-08T22:00:00.000Z'
+soldOut: false
+start: '2026-06-16T22:00:00.000Z'
 title: Jean Paul Gaultier Le Male Eau de Toilette Set | 125 ml + 20 ml | Heren

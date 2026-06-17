@@ -1,12 +1,12 @@
-_id: 6a215610706d53e8edfcd27b
+_id: 6a313b5da8befdeae430f7cc
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - e0c7c5ef-f018-5bba-98a4-a63084fed1fb
-classicId: '3257427'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280584'
 classicProductId: '713687'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: e8d79ff7-103e-5610-bdaa-64c00d718bb5
+id: 028d16b8-edfc-4191-9ea5-6263992a1cca
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3f248782-aa20-4d8a-98f3-4e1964b6202e
-  priority: 0
-  slug: axe-logo-png-logo-0
+  extension: png
+  id: 1692918
+  priority: 100
+  slug: axe-logo
   type: logo
-offerId: 43dc7f35-6b67-531f-bdcf-5ecdf8286714
+offerId: 7bb635c1-ec91-4bd9-9925-d6488d9f4f94
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 63.48
 slug: 12x-axe-douchegel-africa-250-ml
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 12x AXE Douchegel 3-in-1 Africa | 250 ml

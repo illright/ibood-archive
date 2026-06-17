@@ -1,22 +1,22 @@
-_id: 6a2679661110e367416da169
+_id: 6a314da69d63951f04fc3738
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 1b325840-e460-507e-9db6-df8be9d51cf2
-classicId: '3261512'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282302'
 classicProductId: '615636'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 69
-end: '2026-06-15T21:59:59.999Z'
+discount: 85
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 05a80a9a-03a4-42cf-b624-ee6dbd80287d
+id: d6f1b2e0-5b1f-4dbb-8bf6-73504b818dc8
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1cb3460a-19a4-4ce1-9daf-223bf62ee4f6
-  priority: 0
-  slug: vans-sk8-hi-trek-scarab-brown-vn000bw7prm1-logo-0
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
   type: logo
-offerId: 7c68e055-7925-4312-87a3-594930b49bc7
+offerId: 0300d087-504e-40c2-93a3-d6c8d596637d
 price:
-  cents: 3145
+  cents: 1495
   currency: EUR
-  value: 31.45
+  value: 14.95
 referencePrice:
   cents: 10000
   currency: EUR
   value: 100
 slug: vans-sk8-hi-trek-scarab
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-15T22:00:00.000Z'
 title: Vans SK8-Hi Trek Scarab Sneakers | Heren

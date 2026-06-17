@@ -1,12 +1,12 @@
-_id: 6a1eb30d24e2111fa1a83145
+_id: 6a314915b20a7e8202da0a8c
 appOnly: false
 brand: At Home by Beddinghouse
 brands:
   - id: 1d057a0a-d948-58ec-962d-e8ba82be6251
     name: At Home by Beddinghouse
 categories:
-  - 62a75f43-5f42-55dd-bfdd-2603b6631f60
-classicId: '3254828'
+  - 781c842e-af3b-54c6-970b-2aee78772864
+classicId: '3282112'
 classicProductId: '713339'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 72
-end: '2026-06-15T21:59:59.999Z'
+end: '2026-06-23T21:59:59.000Z'
 freeDelivery: false
-id: 2e9866cf-014a-5d3c-9f68-52d9102b1d18
+id: b13eb7de-d989-4cb4-a590-e22b119b242d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-handdoek-png-product-1
   type: product
-offerId: 28cce319-e370-58bf-8d7f-aee569de973e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2007941
+  priority: 100
+  slug: at-home-by-beddinghouse-logo
+  type: logo
+offerId: e12a2b43-965a-457c-bef1-e2e4595c9b33
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 71.94
 slug: at-home-by-beddinghouse-keukendoekset-12-delig
 soldOut: false
-start: '2026-06-14T22:00:00.000Z'
+start: '2026-05-29T22:00:00.000Z'
 title: At Home by Beddinghouse Keukendoekset | 12-delig

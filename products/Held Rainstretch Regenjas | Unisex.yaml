@@ -1,12 +1,12 @@
-_id: 6a27c328d1dbdeb950d49404
+_id: 6a310af45ee3623e5e6107f0
 appOnly: false
 brand: Held
 brands:
   - id: 5ed15a82-5633-500b-a1e4-b2256f161d78
     name: Held
 categories:
-  - ba29820b-f5dd-5290-a576-39be8b1bc3d2
-classicId: '3265435'
+  - 87d77009-28c4-5a1b-86a3-6a6b8994591b
+classicId: '3279115'
 classicProductId: '693197'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 10a5cad1-3908-488a-9699-1a21fb5d5134
+id: 0502ec8e-61c8-4dc0-bc7d-ccdc4f1a9498
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - website
-    - app
   extension: image/png
-  id: 55acb685-ea3d-41ee-bbeb-3b2e05175ec4-tr
-  priority: 1
-  slug: held-held-rainstretch-regenjas-webp-product-0
+  id: 1c269696-131e-4e0f-8b07-e341dbb1bd9b
+  priority: 0
+  slug: main-png-product-1
   type: product
 logo:
   channels:
@@ -41,7 +39,7 @@ logo:
   priority: 0
   slug: held-logo-0
   type: logo
-offerId: a5abd747-1df0-46e6-abf8-e72857f25935
+offerId: 99ed46d9-d900-44c2-af04-b07f928ff8ec
 price:
   cents: 5400
   currency: EUR
@@ -52,5 +50,5 @@ referencePrice:
   value: 89.95
 slug: held-rainstretch-regenjas-unisex
 soldOut: false
-start: '2026-06-09T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: Held Rainstretch Regenjas | Unisex

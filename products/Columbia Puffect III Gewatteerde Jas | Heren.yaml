@@ -1,22 +1,22 @@
-_id: 6a27c2f3d1dbdeb950d493c2
+_id: 6a3109db9d63951f04fc2b98
 appOnly: false
 brand: Columbia
 brands:
   - id: 5f0ce9cd-63f2-5848-80c4-5da01f910498
     name: Columbia
 categories:
-  - 3fcab71c-b807-5adc-ab74-7cb777eeb72d
-classicId: '3265390'
+  - 87d77009-28c4-5a1b-86a3-6a6b8994591b
+classicId: '3279117'
 classicProductId: '686591'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 66
-end: '2026-06-16T21:59:59.999Z'
+directCheckout: false
+discount: 68
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 9440e35c-df66-41ac-96ad-5a0498f2457a
+id: dd76baa5-d451-4210-8842-b7910611143a
 image:
   channels:
     - app
@@ -32,24 +32,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1921819
-  priority: 100
-  slug: columbia-logo
+    - all
+  extension: image/png
+  id: 63352ed1-be0e-4c8c-9bb5-244cba13b218
+  priority: 0
+  slug: columbia-png-logo-0
   type: logo
-offerId: d456d7a2-2eef-4872-bd9e-df6dce5d12eb
+offerId: 065a5209-4ec0-48b8-9025-d58ad829c8a6
 price:
-  cents: 4750
+  cents: 4500
   currency: EUR
-  value: 47.5
+  value: 45
 referencePrice:
   cents: 14000
   currency: EUR
   value: 140
 slug: columbia-puffect-iii-gewatteerde-jas-heren
 soldOut: false
-start: '2026-06-09T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: Columbia Puffect III Gewatteerde Jas | Heren

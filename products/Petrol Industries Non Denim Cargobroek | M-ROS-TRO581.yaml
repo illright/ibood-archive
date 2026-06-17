@@ -1,22 +1,22 @@
-_id: 6a2bd3f29d63951f04ebd44d
+_id: 6a314ed59d63951f04fc37df
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - ee1d1a6e-bd46-55c7-ad31-1f42fc3b914a
-classicId: '3274513'
-classicProductId: '619211'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282473'
+classicProductId: '619218'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
+directCheckout: true
+discount: 59
 end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 6906074c-87d1-468c-aed3-acb7147c0517
+id: de211b6f-c377-4dff-ac83-f9c4b4e11264
 image:
   channels:
     - newsletter
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: d614c6da-a606-406a-8548-d6eec39346b7
+offerId: b44b5721-4cdb-4f9f-981e-b9fc78e91a41
 price:
-  cents: 3495
+  cents: 2839
   currency: EUR
-  value: 34.95
+  value: 28.39
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: petrol-industries-non-denim-cargobroek-m-ros-tro581
 soldOut: false
-start: '2026-06-12T22:00:00.000Z'
+start: '2026-06-15T22:00:00.000Z'
 title: Petrol Industries Non Denim Cargobroek | M-ROS-TRO581
+

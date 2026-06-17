@@ -1,22 +1,22 @@
-_id: 6a268b6d1110e367416da349
+_id: 6a314dedf7aa5367b158d0aa
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - dfcfaac5-180b-5f4f-9556-c6f28754f801
-classicId: '3262408'
-classicProductId: '653367'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282347'
+classicProductId: '653369'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 70
-end: '2026-06-15T21:59:59.999Z'
+directCheckout: true
+discount: 75
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: da18f2a4-03f3-43aa-b5f9-fb3a3b1b17aa
+id: 46686b52-7f45-46c5-8383-95bb8450f847
 image:
   channels:
     - app
@@ -40,16 +40,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: b8707bd5-aba8-4426-8191-073607c8cf53
+offerId: 097c016c-facb-4e40-bf43-b5a6a2982c66
 price:
-  cents: 1772
+  cents: 1492
   currency: EUR
-  value: 17.72
+  value: 14.92
 referencePrice:
   cents: 6000
   currency: EUR
   value: 60
 slug: vans-caldrone-pop-mesh-sneakers-kids-blue-multi
-soldOut: true
-start: '2026-06-08T22:00:00.000Z'
+soldOut: false
+start: '2026-06-15T22:00:00.000Z'
 title: Vans Caldrone Pop Mesh Sneakers | Kids | Blue/Multi

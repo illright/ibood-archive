@@ -1,4 +1,4 @@
-_id: 6a2bd5169903ff79346d4576
+_id: 6a2ffdf3b20a7e8202d9fccd
 appOnly: false
 brand: Blackstone Footwear
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Blackstone Footwear
 categories:
   - f8ba1faa-f6df-5e3b-b73c-7bd50a917359
-classicId: '3274716'
-classicProductId: '704980'
+classicId: '3278581'
+classicProductId: '704982'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 69
 end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: fa8c10cc-7e67-4e85-9ab1-bd46b2fc4268
+id: b0b2e1bc-f535-48da-afd0-8d063c1bb55b
 image:
   channels:
     - app
@@ -28,23 +28,20 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 755c25e1-5648-463b-9e7a-0247bef9ed6b
-  priority: 0
-  slug: blackstone-footwear-logo-0
-  type: logo
-offerId: 99b7c9bb-3a8c-480d-ad2f-ccbb1ff0f691
+offerId: 9de8a14e-74b7-488c-8463-e3e54ad0031e
 price:
   cents: 3995
   currency: EUR
   value: 39.95
 referencePrice:
+  cents: 12990
+  currency: EUR
+  value: 129.9
+slug: blackstone-scoria-legend-sneakers-heren
+soldOut: false
+start: '2026-06-12T22:00:00.000Z'
+title: Blackstone Scoria Legend Sneakers | Heren
+ePrice:
   cents: 12990
   currency: EUR
   value: 129.9

@@ -1,29 +1,29 @@
-_id: 6a26982da2fc5145d7dba430
+_id: 6a2faadbb20a7e8202d95176
 appOnly: false
 brand: Perel
 brands:
   - id: 8bb774c9-f3c1-5bd5-aef0-cb7c91cf2a2f
     name: Perel
 categories:
-  - 7c34decf-9fb6-57bc-883d-5838a8f1dec5
-classicId: '3263477'
-classicProductId: '79682'
+  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
+classicId: '3277439'
+classicProductId: '137236'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
 discount: 25
-end: '2026-06-15T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 81f19c8d-d604-48c8-98b1-87c4409f428b
+id: 97f100d9-d9b4-489d-9c01-cfba58df8aee
 image:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 2202347
+  id: 2202386
   priority: 0
   slug: perel-vouwtafel-180-x-75-x-74-cm
   type: product
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: perel-logo
   type: logo
-offerId: 8dbbd884-50f8-4a5e-b0a5-19a907a21213
+offerId: f068c586-7c4b-4414-ac33-4127270de1f1
 price:
   cents: 5995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 79.95
 slug: perel-vouwtafel-180-x-75-x-74-cm
-soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+soldOut: true
+start: '2026-06-15T22:00:00.000Z'
 title: Perel Vouwtafel | 180 x 75 x 74 cm

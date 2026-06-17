@@ -1,31 +1,32 @@
-_id: 6a1a8a436dcf8a301f1b0cf6
+_id: 6a311d1231ea4d9680a1bf83
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - b6c3ba94-6913-5055-ab7b-bcf6682527bf
-classicId: '3251706'
+  - 4c490f7a-f25d-5324-8397-d531ef9229c9
+classicId: '3280208'
 classicProductId: '500839'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 64
-end: '2026-06-23T21:59:59.000Z'
+discount: 71
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: a18566af-ea5b-47b1-97d2-46838600582f
+id: 237b8874-463f-4e4c-a85d-fe6829260666
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1696160
+    - all
+  extension: image/png
+  id: 216f1014-c80d-4670-9143-6bf1f6873bff-tr
   priority: 0
-  slug: lifa-living-salontafel-dijon
+  slug: lifa-living-couchtisch-dijon-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,18 +38,16 @@ logo:
   priority: 100
   slug: lifa-living-logo
   type: logo
-offerId: 5e821410-0285-46db-bc4d-f08c575b6bf7
+offerId: 4a407228-4943-4b56-ab8f-62f33484d513
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 6995
   currency: EUR
   value: 69.95
 slug: lifa-living-salontafel-dijon
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
-title: Lifa Living Salontafel Dijon
-2026-06-09T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: Lifa Living Salontafel Dijon

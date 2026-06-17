@@ -1,12 +1,12 @@
-_id: 6a2aa8d422bd1ef7ed0c7863
+_id: 6a313c3b233af6ec0224cda1
 appOnly: false
 brand: Lenor
 brands:
   - id: e07bbf59-7c5e-502f-acab-fa2bb6bdfa34
     name: Lenor
 categories:
-  - 9488e95c-fd7b-5aff-a329-7cb425225451
-classicId: '3271722'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280858'
 classicProductId: '712953'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 56
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 0d85ae5d-ca7d-4f1d-ae73-203ab1e122f8
+id: 4a35f67a-0961-4a14-806d-9d0f98228810
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: b73a7cad-972c-4cfa-87f9-6d38d8b7cde4
+  id: 72c3f1c9-2878-4c64-8a31-5f31a1c042be
   priority: 0
-  slug: bulk-pin-8-3-png-product-1
+  slug: lenor-03-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 22b0412e-d32a-4f07-93c5-ba3f6143db36
-  priority: 0
-  slug: lenor-png-logo-0
+  extension: png
+  id: 1526341
+  priority: 100
+  slug: lenor-logo
   type: logo
-offerId: 23e3a74f-3d7f-464a-8f3a-900664606227
+offerId: 7d1bfc22-e6ae-404f-b92e-f5efb002f49d
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.92
 slug: 8x-lenor-vloeibare-wasverzachter-cotton-fresh-1155-ml-440sc
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 8x Lenor Vloeibare Wasverzachter Cotton Fresh | 1155 ml (440sc)

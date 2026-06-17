@@ -1,12 +1,12 @@
-_id: 6a27c2a7419e79db17a3398b
+_id: 6a310953ce0a01162d7d4e01
 appOnly: false
 brand: Shark Helmets
 brands:
   - id: e912c816-9382-50f2-a8aa-d9fcbdfebf56
     name: Shark Helmets
 categories:
-  - 3fcab71c-b807-5adc-ab74-7cb777eeb72d
-classicId: '3265235'
+  - 87d77009-28c4-5a1b-86a3-6a6b8994591b
+classicId: '3278949'
 classicProductId: '650365'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 52
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 9374f237-c138-4829-bec5-1b398daf6d75
+id: 90bc7b5c-b529-4201-971d-a4bd1a96d61b
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 548ad00f-d326-492e-a239-de000f3b9023
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a8bdf944-599a-4cd8-9d71-850332419ac8
+  priority: 0
+  slug: shark-helmets-logo-0
+  type: logo
+offerId: 44e9f6a0-fe82-488b-8678-f3be107e4a20
 price:
-  cents: 22000
+  cents: 21900
   currency: EUR
-  value: 220
+  value: 219
 referencePrice:
   cents: 45900
   currency: EUR
   value: 459
 slug: shark-oxo-rydger-flip-over-motorhelm
 soldOut: false
-start: '2026-06-09T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: Shark OXO Rydger Flip-Over Motorhelm

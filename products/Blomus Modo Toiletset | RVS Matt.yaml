@@ -1,12 +1,12 @@
-_id: 6a1a89cccd60f436cd5670ae
+_id: 6a311c54b20a7e8202da06ba
 appOnly: false
 brand: blomus
 brands:
   - id: a8b43515-70bc-5688-8036-e1b3bcb7a81a
     name: blomus
 categories:
-  - b6c3ba94-6913-5055-ab7b-bcf6682527bf
-classicId: '3251367'
+  - 4c490f7a-f25d-5324-8397-d531ef9229c9
+classicId: '3280004'
 classicProductId: '667487'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 65
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 7682fcef-3207-48b0-89ee-c1d35d349cd4
+id: 1835d445-1ec4-438e-b27a-bf93acbfe76a
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: blomus-logo
   type: logo
-offerId: 2413c23d-b200-4662-8d08-c011b6cd3c65
+offerId: 74f56ec9-892c-4029-9946-cda1d37c8ea5
 price:
   cents: 6995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 199
 slug: blomus-modo-toiletset-rvs-matt
-soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+soldOut: true
+start: '2026-06-16T22:00:00.000Z'
 title: Blomus Modo Toiletset | RVS Matt

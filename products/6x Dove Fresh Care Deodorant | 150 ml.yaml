@@ -1,12 +1,12 @@
-_id: 6a2aa86b22bd1ef7ed0c7617
+_id: 6a313ba7757fcec23acd0276
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - e0c7c5ef-f018-5bba-98a4-a63084fed1fb
-classicId: '3271608'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280670'
 classicProductId: '709851'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: f82aa2ba-1793-4c26-ba05-0c991464c16b
+id: 0b4f6ec8-663e-492a-b27d-03a03c8c76d5
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 89824aaa-ef67-47d0-98a3-111174282d92
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: 1139ebab-b770-4abe-8112-61fd2bcae991
+offerId: 79bcd52c-8ea6-4434-b9c3-e33a68610380
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 35
 slug: 6x-dove-fresh-care-deodorant-150-ml
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 6x Dove Fresh Care Deodorant | 150 ml

@@ -1,32 +1,31 @@
-_id: 6a267903fe3c6726eba48de3
+_id: 6a314d92f7aa5367b158d090
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 1b325840-e460-507e-9db6-df8be9d51cf2
-classicId: '3261444'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282294'
 classicProductId: '622810'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-06-15T21:59:59.999Z'
+discount: 75
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 50d68620-bf8d-4d7d-89dc-f703569353b2
+id: 02147bb0-b6bd-415a-9d9b-b10a31d89afd
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9bdf927a-3134-493f-9c93-fb821a04fead-tr
-  priority: 0
-  slug: vans-caldrone-gum-pop-sneakers-kids-jpg-product-101
+  extension: jpg
+  id: 2183354
+  priority: 100
+  slug: vans-caldrone-gum-pop-sneakers-kids
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 937fe254-f085-44b7-91ec-f78af7b3e987
+offerId: d6101f6b-d771-4e77-acc5-8bb8414fa8dd
 price:
-  cents: 2988
+  cents: 1495
   currency: EUR
-  value: 29.88
+  value: 14.95
 referencePrice:
   cents: 6000
   currency: EUR
   value: 60
 slug: vans-caldrone-gum-pop-sneakers-kids
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-15T22:00:00.000Z'
 title: Vans Caldrone Gum Pop Sneakers | Kids

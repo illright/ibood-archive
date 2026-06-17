@@ -1,22 +1,22 @@
-_id: 6a1a8973cd60f436cd5670a1
+_id: 6a3148e3ae85781504148170
 appOnly: false
 brand: Tempur
 brands:
   - id: 34fd4d6e-345f-513c-8c8a-1c69c668cfae
     name: Tempur
 categories:
-  - 1dbea746-4f96-5cde-b06c-91829b1bdfda
-classicId: '3251214'
-classicProductId: '581935'
+  - c6b5e034-2ad8-5413-a605-3a8a9daaf133
+classicId: '3282068'
+classicProductId: '581936'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: d328ac81-f756-42ef-999b-b9536b699dd6
+id: 693aee4d-c592-4864-940f-1b439afeb6db
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8ab218aa-2740-4ddd-bd1f-ad01baf590d8
+  id: 7a5b412d-317e-40c1-bee8-aeb9625f4c74
   priority: 0
-  slug: tempur-original-kussen-queen-medium-product-0
+  slug: tempur-original-kussen-queen-large-product-6
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: tempur-logo
   type: logo
-offerId: 9b0a1143-ca30-4244-bc90-cf311dcb11bc
+offerId: b41f473c-eeee-468e-a467-46e2e6adf163
 price:
   cents: 7995
   currency: EUR
@@ -47,8 +47,7 @@ referencePrice:
   cents: 13900
   currency: EUR
   value: 139
-slug: tempur-original-kussen-queen
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+slug: tempur-original-kussen-queen-large
+soldOut: false
+start: '2026-06-16T22:00:00.000Z'
 title: Tempur Original Kussen Queen
-Queen

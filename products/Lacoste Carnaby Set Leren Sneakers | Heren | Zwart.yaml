@@ -1,22 +1,22 @@
-_id: 6a268b9f3860d9f660c923fd
+_id: 6a314dfb9d63951f04fc3778
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - dfcfaac5-180b-5f4f-9556-c6f28754f801
-classicId: '3262458'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282323'
 classicProductId: '657544'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
-end: '2026-06-15T21:59:59.999Z'
+discount: 70
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 80433b1a-8c45-4781-aca5-fc551424c085
+id: 188843ec-5f3c-4374-8887-031bb55db146
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1612112
-  priority: 100
-  slug: lacoste-logo
+    - all
+  extension: image/png
+  id: c67e89d1-5e5a-454a-8332-e45dcfd21251
+  priority: 0
+  slug: lacoste-png-logo-0
   type: logo
-offerId: 1ca96c92-9c7b-4012-a3e8-a7c05f998258
+offerId: 98be8937-72ca-4ef4-af77-78aa07870058
 price:
-  cents: 4132
+  cents: 3306
   currency: EUR
-  value: 41.32
+  value: 33.06
 referencePrice:
   cents: 11000
   currency: EUR
   value: 110
 slug: lacoste-carnaby-set-leren-sneakers-heren-zwart
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-15T22:00:00.000Z'
 title: Lacoste Carnaby Set Leren Sneakers | Heren | Zwart

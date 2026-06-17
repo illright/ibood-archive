@@ -1,12 +1,12 @@
-_id: 6a28203ab3fef4a1d35693b6
+_id: 6a311c82b20a7e8202da06f8
 appOnly: false
 brand: De Witte Lietaer
 brands:
   - id: 24776e2a-456e-5f9e-aef4-fb5b4005be07
     name: De Witte Lietaer
 categories:
-  - 781c842e-af3b-54c6-970b-2aee78772864
-classicId: '3267978'
+  - 4c490f7a-f25d-5324-8397-d531ef9229c9
+classicId: '3280062'
 classicProductId: '212354'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 00076e00-40f7-4971-bd89-e0198473b4f1
+id: df6a015e-3028-47d5-b341-fc0d24f12e07
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 533308
+    - all
+  extension: image/jpeg
+  id: 72ee9321-175c-40b8-89f4-3dd592a22792
   priority: 0
-  slug: overtrek-zygo-135-155-x-200220-cm
+  slug: bettwasche-zygo-135155-x-200220-cm-jpg-product-7
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: de-witte-lietaer-logo
   type: logo
-offerId: c77171e9-5001-4596-95ac-c72a433ec9f3
+offerId: 30c628a1-aabe-4209-9f0b-918de18afb67
 price:
   cents: 4995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: overtrek-zygo-135-155-x-200220-cm
 soldOut: false
-start: '2026-05-29T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: De Witte Lietaer Dekbedovertrek Zygo | 135/140/155 x 200/220 cm

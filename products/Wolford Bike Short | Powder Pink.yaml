@@ -1,22 +1,22 @@
-_id: 6a268bcf3860d9f660c9241d
+_id: 6a314df3f7aa5367b158d0b9
 appOnly: false
 brand: Wolford
 brands:
   - id: 56e13584-93cb-5e64-bd4a-bed5b9e7fca3
     name: Wolford
 categories:
-  - dfcfaac5-180b-5f4f-9556-c6f28754f801
-classicId: '3262455'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282354'
 classicProductId: '680747'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 76
-end: '2026-06-15T21:59:59.999Z'
+discount: 78
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 19add121-529c-48b1-be0b-9026b6c4fffa
+id: 908e4a6d-7d5a-4114-a2b8-43f4d1a4e3c9
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: xl-powder-pink-bike-short-4w2202-534-xl-wolford-product-0
   type: product
-offerId: 5f82180f-808a-4f7b-b1f5-914498206ab1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a18077e3-697b-4372-adf8-322c54f474c3
+  priority: 0
+  slug: wolford-logo-0
+  type: logo
+offerId: 0c29dfe8-19b0-43a5-a576-ac122db11245
 price:
-  cents: 940
+  cents: 893
   currency: EUR
-  value: 9.4
+  value: 8.93
 referencePrice:
   cents: 4000
   currency: EUR
   value: 40
 slug: wolford-bike-short-powder-pink
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-15T22:00:00.000Z'
 title: Wolford Bike Short | Powder Pink

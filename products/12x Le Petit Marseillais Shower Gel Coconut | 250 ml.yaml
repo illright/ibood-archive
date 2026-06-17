@@ -1,12 +1,12 @@
-_id: 6a2156132088585e4dcbdfc3
+_id: 6a313c2f233af6ec0224cd69
 appOnly: false
 brand: Le Petit Marseillais
 brands:
   - id: c88a51c1-f17d-500b-9797-c50de6347ae0
     name: Le Petit Marseillais
 categories:
-  - e0c7c5ef-f018-5bba-98a4-a63084fed1fb
-classicId: '3257434'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280844'
 classicProductId: '713695'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: f5ff1ea0-eb6a-5ed5-9fa5-619c1ece2ac3
+id: 97df736b-7bee-40c4-8098-1f9e342eeb86
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5974f53f-3fe6-46b6-987c-b9eb407b63f7
-  priority: 0
-  slug: le-petit-marseillais-png-logo-0
+  extension: png
+  id: 1749426
+  priority: 100
+  slug: les-petit-marseillais-logo
   type: logo
-offerId: 7fd3b8fa-1139-5ccc-ad5d-769b47dfc916
+offerId: a3571099-f572-429b-8133-6f164ee132c9
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 35.88
 slug: 12x-le-petit-marseillais-shower-gel-coconut-250ml
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 12x Le Petit Marseillais Shower Gel Coconut | 250 ml

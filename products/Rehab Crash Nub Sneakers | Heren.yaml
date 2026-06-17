@@ -1,4 +1,4 @@
-_id: 6a2bd63d7a9158a04d57a7b6
+_id: 6a2ffde0b20a7e8202d9fc9b
 appOnly: false
 brand: Rehab
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Rehab
 categories:
   - f8ba1faa-f6df-5e3b-b73c-7bd50a917359
-classicId: '3275233'
-classicProductId: '697961'
+classicId: '3278570'
+classicProductId: '697967'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 41
 end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: a410dbcd-7429-45c9-b1e8-58d2e3384d25
+id: 493b4e61-6ca4-4cd1-9d5d-9ceac7cd4d9b
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 837253e6-c31b-42f3-964a-666c6af0025c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: 4671807a-0383-49f3-9b90-ba4152b41612
 price:
   cents: 9995
   currency: EUR

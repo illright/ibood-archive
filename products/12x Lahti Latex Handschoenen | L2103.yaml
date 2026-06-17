@@ -1,22 +1,22 @@
-_id: 6a269893fe3c6726eba49164
+_id: 6a2faae8a82256cc85aa121e
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - 7c34decf-9fb6-57bc-883d-5838a8f1dec5
-classicId: '3263598'
-classicProductId: '254777'
+  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
+classicId: '3277468'
+classicProductId: '420592'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-06-15T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 2a4024c3-f4b5-4ba8-96c8-a219f878f422
+id: 27b68319-3bc4-400c-ae8b-55469f0e7aa7
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1883064
+  id: 1591171
   priority: 100
-  slug: 12x-lahti-pro-handschoenen
+  slug: lahti-pro-logo
   type: logo
-offerId: 8439418b-41b3-45a6-a4e7-5502154c5bd3
+offerId: 847f7a5b-aa8a-40df-8ced-798994cb74b5
 price:
   cents: 995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 19.95
 slug: 12x-lahti-pro-handschoenen
-soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+soldOut: true
+start: '2026-06-15T22:00:00.000Z'
 title: 12x Lahti Latex Handschoenen | L2103

@@ -1,12 +1,12 @@
-_id: 6a27c302a76ee14a7f932465
+_id: 6a310aca9d63951f04fc2c01
 appOnly: false
 brand: Columbia
 brands:
   - id: 5f0ce9cd-63f2-5848-80c4-5da01f910498
     name: Columbia
 categories:
-  - 3fcab71c-b807-5adc-ab74-7cb777eeb72d
-classicId: '3265409'
+  - 87d77009-28c4-5a1b-86a3-6a6b8994591b
+classicId: '3279157'
 classicProductId: '686603'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 490d593c-fb46-4cce-8812-f9624602690d
+id: b6c63c9e-33ad-4ff3-a53d-fce08e3b069e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f5a50a9e-0dce-4358-8ba2-2f97cc23c9c0
-  priority: 0
-  slug: columbia-png-logo-0
+  extension: png
+  id: 1921819
+  priority: 100
+  slug: columbia-logo
   type: logo
-offerId: f89dad4e-7666-4933-802e-818831da8919
+offerId: 3759bfe0-e8f7-41ee-97ee-e90002fca6f6
 price:
   cents: 3250
   currency: EUR
@@ -51,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 100
 slug: columbia-ascender-softshelljack-heren
-soldOut: false
-start: '2026-06-09T22:00:00.000Z'
+soldOut: true
+start: '2026-06-16T22:00:00.000Z'
 title: Columbia Ascender Softshelljack | Heren

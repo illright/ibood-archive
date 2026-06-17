@@ -1,12 +1,12 @@
-_id: 6a2aa87622bd1ef7ed0c7661
+_id: 6a313bcc757fcec23acd02e6
 appOnly: false
 brand: Epson
 brands:
   - id: c3801ced-8807-52cd-9fb4-05d4ca6f2e09
     name: Epson
 categories:
-  - 9488e95c-fd7b-5aff-a329-7cb425225451
-classicId: '3271622'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280724'
 classicProductId: '61942'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: daa60d50-2547-47a2-b767-321365c45a15
+id: 7a17fbe3-0c57-471d-ba67-610a7c28b177
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 156090
-  priority: 100
-  slug: type-1-tm-15-voor-epson
+    - all
+  extension: image/png
+  id: 6ef78d75-ee78-4811-937c-9223288005c9-tr
+  priority: 0
+  slug: typ-1-bis-15-fur-epson-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: epson-logo
   type: logo
-offerId: 9ac90331-f264-450f-8145-d9a333421751
+offerId: b2620915-152c-4037-a30f-86f89edf6103
 price:
   cents: 2295
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: type-1-tm-15-voor-epson
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: Cartridges | Type 1 t/m 15 | Geschikt voor Epson

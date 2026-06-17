@@ -1,12 +1,12 @@
-_id: 6a26799667b3d38fdd959391
+_id: 6a2bd8cb48113db539bee44c
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 1b325840-e460-507e-9db6-df8be9d51cf2
-classicId: '3261511'
+  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
+classicId: '3276132'
 classicProductId: '692200'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 28
-end: '2026-06-15T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 648e30ee-cbda-4615-90ce-e4116116ca8d
+id: d789ae9c-fa5d-4aa5-bb0f-d1ca5e4a93ca
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9a2108ef-d04c-4ab3-a125-68cf6b28800d
-  priority: 0
-  slug: vans-png-logo-0
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
   type: logo
-offerId: ee758765-1179-4354-a72a-67eae0e7f37c
+offerId: 1fa1b71b-cf04-4070-8cb6-15c1a0ca3970
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 25
 slug: vans-left-chest-t-shirt-heren
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-12T22:00:00.000Z'
+title: Vans Left Chest T-Shirt | Heren
+:00.000Z'
 title: Vans Left Chest T-Shirt | Heren

@@ -1,12 +1,12 @@
-_id: 6a215610706d53e8edfcd285
+_id: 6a313b61757fcec23acd01a4
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - e0c7c5ef-f018-5bba-98a4-a63084fed1fb
-classicId: '3257429'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280590'
 classicProductId: '713691'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 72d83ce2-accc-53d6-ba65-aa58c43c0fd5
+id: 9cfbd110-c96a-4632-969c-8dd0986700fe
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f36574bb-f775-492a-924f-7c37e54ab791
-  priority: 0
-  slug: axe-logo-png-logo-0
+  extension: png
+  id: 1692918
+  priority: 100
+  slug: axe-logo
   type: logo
-offerId: b0a7ce07-2aef-553a-a00a-4e69f9660bee
+offerId: 69128c4c-7098-4549-a680-97e7859660de
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 63.48
 slug: 12x-axe-douchegel-sport-blast-250-ml
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 12x Axe Douchegel Sport Blast | 250 ml

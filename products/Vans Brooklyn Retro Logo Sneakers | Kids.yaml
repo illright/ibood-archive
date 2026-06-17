@@ -1,32 +1,31 @@
-_id: 6a267911fe3c6726eba48dfc
+_id: 6a314d9d9d63951f04fc3735
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 1b325840-e460-507e-9db6-df8be9d51cf2
-classicId: '3261445'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282299'
 classicProductId: '622887'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 58
-end: '2026-06-15T21:59:59.999Z'
+directCheckout: true
+discount: 73
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 95ac5836-0ad4-4130-a16d-e11a6e38d324
+id: 2583a140-ab07-488d-a762-544fe4395591
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b011ea88-d414-4536-931c-e3f5fffb7777-tr
+  extension: jpg
+  id: 2183619
   priority: 0
-  slug: vans-brooklyn-ls-v-sneakers-retro-logo-kinder-jpg-product-1
+  slug: vans-brooklyn-retro-logo-sneakers-kids
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 49f70624-3df1-4644-9229-1ce423effe2f
+offerId: 5c19357b-54e9-4c30-a513-d4fd4573c41d
 price:
-  cents: 2304
+  cents: 1495
   currency: EUR
-  value: 23.04
+  value: 14.95
 referencePrice:
   cents: 5500
   currency: EUR
   value: 55
 slug: vans-brooklyn-retro-logo-sneakers-kids
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-15T22:00:00.000Z'
 title: Vans Brooklyn Retro Logo Sneakers | Kids

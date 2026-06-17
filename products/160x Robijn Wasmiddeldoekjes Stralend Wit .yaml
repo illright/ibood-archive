@@ -1,12 +1,12 @@
-_id: 6a2aa9df3f14a3c9848b53c2
+_id: 6a313d7e233af6ec0224d080
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 9488e95c-fd7b-5aff-a329-7cb425225451
-classicId: '3272060'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3281434'
 classicProductId: '713370'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 6334f3b2-aafa-4069-b166-202657f6eebc
+id: 73490f7a-efe7-4225-9351-ba0b697f034b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1ab39c86-b437-430a-bad6-3618f796b253
-  priority: 0
-  slug: robijn-png-logo-0
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
   type: logo
-offerId: 065c9e49-8c34-46b9-ba7a-0adfd9e267e3
+offerId: 4ae0b440-5dd2-475b-b464-8a6dc2166850
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 107.9
 slug: 160x-robijn-wasmiddeldoekjes-stralend-wit
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: '160x Robijn Wasmiddeldoekjes Stralend Wit '

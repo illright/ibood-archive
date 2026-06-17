@@ -1,22 +1,22 @@
-_id: 6a27c2d27c8d8510f3c0d2a7
+_id: 6a310a0d9d63951f04fc2ba9
 appOnly: false
 brand: Teva
 brands:
   - id: 80dbbd54-bcc6-5a5d-9287-4de0be03652f
     name: Teva
 categories:
-  - 7a1e38e7-cea9-55dc-8cda-777a2cd48a01
-classicId: '3265328'
+  - 87d77009-28c4-5a1b-86a3-6a6b8994591b
+classicId: '3279120'
 classicProductId: '702973'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 30
-end: '2026-06-16T21:59:59.999Z'
+discount: 50
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: bd378f78-ad4b-49cc-80d6-6f879e1285ba
+id: ebd87725-097f-4918-9ea6-5bcbe8d2519c
 image:
   channels:
     - app
@@ -32,24 +32,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1790673
-  priority: 100
-  slug: teva-logo
+    - all
+  extension: image/png
+  id: 8b5d982e-cd6e-47cd-98e8-91bf22c45dc3
+  priority: 0
+  slug: teva-logo-png-logo-0
   type: logo
-offerId: e2b5f652-0a53-4eac-8317-06a7bb1cb70e
+offerId: f6d06f44-ca7c-497e-bfdd-9358bbbfec9e
 price:
-  cents: 2795
+  cents: 2000
   currency: EUR
-  value: 27.95
+  value: 20
 referencePrice:
   cents: 4000
   currency: EUR
   value: 40
 slug: teva-voya-flip-slippers-heren
 soldOut: false
-start: '2026-06-09T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: Teva Voya Flip Slippers | Heren

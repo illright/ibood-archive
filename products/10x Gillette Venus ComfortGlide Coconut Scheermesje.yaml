@@ -1,12 +1,12 @@
-_id: 6a2156132088585e4dcbdfc0
+_id: 6a313bdf757fcec23acd02fd
 appOnly: false
 brand: Gillette Venus
 brands:
   - id: 79e42ffc-cd02-5320-bf23-7f7ca2f910d6
     name: Gillette Venus
 categories:
-  - e0c7c5ef-f018-5bba-98a4-a63084fed1fb
-classicId: '3257431'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280746'
 classicProductId: '666691'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 73400717-12a9-5d06-8229-9617ea476457
+id: 8d19cabe-1dc4-4365-b083-384eb77170ed
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: 6x-gillette-venus-comfort-glide-coconut-10pcs-product-1
   type: product
-offerId: 001815a4-e1a7-5726-94b0-e0c3f870a031
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1692695
+  priority: 100
+  slug: gillette-venus-logo
+  type: logo
+offerId: edfd8920-0be9-400f-9632-2a6431742e38
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 68.29
 slug: 10x-gillette-venus-comfortglide-coconut-scheermesje
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 10x Gillette Venus ComfortGlide Coconut Scheermesje

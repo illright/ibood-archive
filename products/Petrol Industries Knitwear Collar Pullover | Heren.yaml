@@ -1,22 +1,22 @@
-_id: 6a268ac43860d9f660c923c2
+_id: 6a314e51ae85781504148253
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - dfcfaac5-180b-5f4f-9556-c6f28754f801
-classicId: '3262286'
-classicProductId: '673788'
+  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
+classicId: '3282390'
+classicProductId: '673610'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 83
-end: '2026-06-15T21:59:59.999Z'
+end: '2026-06-22T21:59:59.999Z'
 freeDelivery: false
-id: 1545dca0-6728-439c-86b4-844da0156930
+id: bfacee77-74cd-4061-b337-0fa52d114606
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 734d4999-093e-41ca-b05d-ed15b74da9d2
+  id: 8ea939e2-ecdc-49a1-8223-370222892a62
   priority: 0
-  slug: main-png-product-1
+  slug: amin-png-product-1
   type: product
 logo:
   channels:
@@ -38,17 +38,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 075f2d60-6c43-4077-8bae-6a83302fe021
+offerId: 919bd6bd-2e92-4693-bb3a-a9f14aa56e2e
 price:
-  cents: 1534
+  cents: 1349
   currency: EUR
-  value: 15.34
+  value: 13.49
 referencePrice:
-  cents: 8999
+  cents: 7999
   currency: EUR
-  value: 89.99
+  value: 79.99
 slug: petrol-industries-knitwear-collar-pullover
 soldOut: false
-start: '2026-06-08T22:00:00.000Z'
+start: '2026-06-15T22:00:00.000Z'
 title: Petrol Industries Knitwear Collar Pullover | Heren
-

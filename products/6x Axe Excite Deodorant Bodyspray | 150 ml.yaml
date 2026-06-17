@@ -1,12 +1,12 @@
-_id: 6a2aa83b9d63951f04e168cd
+_id: 6a313b56233af6ec0224caf2
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - e0c7c5ef-f018-5bba-98a4-a63084fed1fb
-classicId: '3271564'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280575'
 classicProductId: '583596'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 2ff5cfd3-f623-446a-b253-170669556f33
+id: 6c46c0d9-83e5-4a58-968f-349399ec025f
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2002350
+    - all
+  extension: image/png
+  id: 4ae9d8a9-1eef-4739-b03c-8809f9868e3e-tr
   priority: 0
-  slug: 6x-axe-excite-deospray-150-ml
+  slug: 6x-axe-excite-deospray-150-ml-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: axe-logo
   type: logo
-offerId: 73198607-19ac-4297-8a26-3b8609e02381
+offerId: ceedb02b-0371-48f4-b00f-9af52dd33c5e
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 41.7
 slug: 6x-axe-excite-deodorant-bodyspray-150-ml
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 6x Axe Excite Deodorant Bodyspray | 150 ml

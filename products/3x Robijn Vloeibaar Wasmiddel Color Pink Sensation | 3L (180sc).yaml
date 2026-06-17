@@ -1,12 +1,12 @@
-_id: 6a2aa9d44033b0f916eaeada
+_id: 6a313d80b20a7e8202da096e
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 9488e95c-fd7b-5aff-a329-7cb425225451
-classicId: '3272044'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3281458'
 classicProductId: '338668'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: e80a9bf1-d0bf-49c3-b367-9231cd76b478
+id: 9ebf6148-81f9-4952-9508-71e8b61f49d3
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1074255
+    - all
+  extension: image/png
+  id: 305f6831-9526-4db1-94f6-122fb2cdeaad-tr
   priority: 0
-  slug: 3x-robijn-strahlend-wei-waschmittel-3-l
+  slug: 3x-robijn-vloeib-wasmiddel-colorpink-sensation-3l-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: robijn-logo
   type: logo
-offerId: afe302f0-a798-4a12-b928-3f96ac931fbc
+offerId: 2e17a2a0-864f-4254-8bdc-0af07efbc3f1
 price:
   cents: 2795
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 59.94
 slug: 3x-robijn-vloeib-wasmiddel-colorpink-sensation-3l
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 3x Robijn Vloeibaar Wasmiddel Color Pink Sensation | 3L (180sc)

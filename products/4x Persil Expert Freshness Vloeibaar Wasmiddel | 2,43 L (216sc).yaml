@@ -1,12 +1,12 @@
-_id: 6a198fb9fe7379fe4b6f93d3
+_id: 6a313d33757fcec23acd0465
 appOnly: false
 brand: Persil
 brands:
   - id: 74e3ee44-49f0-58ea-a6f2-c8d8594e807b
     name: Persil
 categories:
-  - 9488e95c-fd7b-5aff-a329-7cb425225451
-classicId: '3251104'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3281345'
 classicProductId: '712949'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 56
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: f198d35b-228b-5a4e-828b-84eb7ff8b144
+id: a8b8a602-d263-4b92-9e65-45aa1f2f29b2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b1f684a3-2a70-4b05-b8be-377fc01aa203
-  priority: 0
-  slug: persil-png-logo-0
+  extension: png
+  id: 1956288
+  priority: 100
+  slug: persil-logo
   type: logo
-offerId: 1ffed31a-1fd4-537b-9ba8-25b4cf662d7e
+offerId: 415a34b2-078b-4a17-8bdc-b21059931e00
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 91.75
 slug: 4x-persil-expert-freshness-vloeibaar-wasmiddel-2-43-l-216sc
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 4x Persil Expert Freshness Vloeibaar Wasmiddel | 2,43 L (216sc)

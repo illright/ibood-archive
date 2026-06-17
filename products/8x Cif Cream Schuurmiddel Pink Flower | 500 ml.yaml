@@ -1,12 +1,12 @@
-_id: 6a198fb7a80a9f8d5f70ddb3
+_id: 6a313b86a8befdeae430f7f6
 appOnly: false
 brand: Cif
 brands:
   - id: 0e8078f7-f3c4-577f-a888-bb66181057ba
     name: Cif
 categories:
-  - 9488e95c-fd7b-5aff-a329-7cb425225451
-classicId: '3251099'
+  - f57aaaf4-9c94-54e4-89e8-73615034162a
+classicId: '3280633'
 classicProductId: '712945'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-06-16T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 164f9f93-a47f-5df1-9a33-3b487a8ebc63
+id: 832ae0da-4254-4478-bfa5-e5d4a0c28a8f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: aaf0c889-4c59-4bcd-9dc5-7531ce5738d4
-  priority: 0
-  slug: cif-png-logo-0
+  extension: png
+  id: 1640965
+  priority: 100
+  slug: cif-logo
   type: logo
-offerId: 88dc1e46-a7ce-51fe-ab23-26c49c8b6547
+offerId: a77e1b15-c725-41c6-85dc-fff28af71059
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 27.92
 slug: 8x-cif-cream-schuurmiddel-pink-flower-500-ml
 soldOut: false
-start: '2026-06-11T22:00:00.000Z'
+start: '2026-06-16T22:00:00.000Z'
 title: 8x Cif Cream Schuurmiddel Pink Flower | 500 ml
