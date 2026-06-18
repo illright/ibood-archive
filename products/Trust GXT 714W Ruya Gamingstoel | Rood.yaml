@@ -1,12 +1,12 @@
-_id: 6a2931579d63951f04d7162a
+_id: 6a3273ff5a3b57b56df30a73
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 1b50ecb1-5c50-58df-84ea-ba45526911b7
-classicId: '3268864'
+  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
+classicId: '3283590'
 classicProductId: '711841'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 35
-end: '2026-06-17T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: a06b4426-6033-4bea-bbfb-2f1e4a4b8db5
+id: e02cec2b-1baf-4137-98df-75bf4467c179
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3f4623a4-186e-4bee-a605-682829caf210
-  priority: 0
-  slug: trust-png-logo-0
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
   type: logo
-offerId: 177879fb-799b-42a8-b6b0-48dcf92c6d27
+offerId: aba3379a-08b6-46c2-82ac-05f8bb98be50
 price:
   cents: 12900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 199.99
 slug: trust-gxt-714w-ruya-gamingstoel
 soldOut: false
-start: '2026-06-10T22:00:00.000Z'
+start: '2026-06-17T22:00:00.000Z'
 title: Trust GXT 714W Ruya Gamingstoel | Rood

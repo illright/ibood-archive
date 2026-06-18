@@ -1,12 +1,12 @@
-_id: 6a29311c9d63951f04d71525
+_id: 6a3273e17da3873b1fef9e1b
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1b50ecb1-5c50-58df-84ea-ba45526911b7
-classicId: '3268816'
+  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
+classicId: '3283555'
 classicProductId: '712663'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-06-17T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: fe4e085c-ff3c-4994-b619-39fad13893a8
+id: e7fda9fb-4acb-458e-895f-a559017dfa51
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d6ba700d-5fe8-476b-a2ca-f6b454bb2206
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 1edcc518-776c-4ccb-8e26-8038c47b556f
+offerId: 8dcd6944-0245-4867-85fd-7927544b269b
 price:
   cents: 69900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 1099
 slug: apple-iphone-16e-512-gb-wit
 soldOut: false
-start: '2026-06-10T22:00:00.000Z'
+start: '2026-06-17T22:00:00.000Z'
 title: Apple iPhone 16e | 512 GB | Wit

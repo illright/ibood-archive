@@ -1,12 +1,12 @@
-_id: 6a2931229d63951f04d7153f
+_id: 6a3273ebb20a7e8202da0dc8
 appOnly: false
 brand: Tado°
 brands:
   - id: ec6cea3a-2254-5c77-81f9-e6d003275cef
     name: Tado°
 categories:
-  - 1b50ecb1-5c50-58df-84ea-ba45526911b7
-classicId: '3268819'
+  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
+classicId: '3283561'
 classicProductId: '397572'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2026-06-17T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: a3e35805-bdfc-4425-9af5-8c1e163155d5
+id: 77faf906-298d-42e3-bf65-6f753adb3fa0
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: taderoni-png-product-1
   type: product
-offerId: d0cff7db-63de-49d3-b53d-0c57b5fce277
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b830876c-ae30-4617-bd2a-864755c44492
+  priority: 0
+  slug: tado-png-logo-0
+  type: logo
+offerId: 1acd7061-1e72-42bd-8af9-5867dd448780
 price:
   cents: 6900
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 139.99
 slug: tado-slimme-radiatorknop-starterskit-v3
 soldOut: false
-start: '2026-06-10T22:00:00.000Z'
+start: '2026-06-17T22:00:00.000Z'
 title: tado° Slimme Radiatorknop Starterskit V3+

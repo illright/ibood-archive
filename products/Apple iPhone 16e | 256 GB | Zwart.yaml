@@ -1,12 +1,12 @@
-_id: 6a29312518f974d28acc4195
+_id: 6a3273f45a3b57b56df30a66
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 1b50ecb1-5c50-58df-84ea-ba45526911b7
-classicId: '3268821'
+  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
+classicId: '3283578'
 classicProductId: '713556'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 29
-end: '2026-06-17T21:59:59.999Z'
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: 16c6bf7b-44e6-456d-bfe2-f763e13bf8cf
+id: 08c0fd77-546e-40cb-8420-29d654987ad8
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fb9a8dd9-9d31-4b1f-99eb-e552defd3910
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 843da1b3-3167-410a-abf3-5e3386891df5
+offerId: a41467ac-2179-464a-9535-1497ac44a38a
 price:
   cents: 59900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 849
 slug: apple-iphone-16e-256-gb-zwart
 soldOut: false
-start: '2026-06-10T22:00:00.000Z'
+start: '2026-06-17T22:00:00.000Z'
 title: Apple iPhone 16e | 256 GB | Zwart
