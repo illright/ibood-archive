@@ -28,6 +28,17 @@ image:
   priority: 0
   slug: masterbuild-01-png-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3e0e1a37-c1ad-4f53-ae79-ac7fea5b9f9e
+  priority: 0
+  slug: masterbuilt-png-logo-0
+  type: logo
 offerId: 999d54df-8062-4cd6-8f02-5775899333e4
 price:
   cents: 14995

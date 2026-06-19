@@ -19,13 +19,16 @@ freeDelivery: false
 id: b8057f37-2566-5d4a-ab5b-639dd02f3738
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2202764
+  extension: image/png
+  id: d121520e-8603-425c-b039-af6df0bc4414-tr
   priority: 0
-  slug: 4x-villeroy-boch-boston-champagne-dessertglas
+  slug: 4x-villeroy-boch-dessertschussel-smoke-jpg-product-1
   type: product
 logo:
   channels:
