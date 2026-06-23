@@ -1,22 +1,22 @@
-_id: 6a314e22ae85781504148235
+_id: 6a392ddde6f209df0b336439
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282351'
-classicProductId: '679191'
+  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
+classicId: '3290018'
+classicProductId: '679192'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 70
-end: '2026-06-22T21:59:59.999Z'
+end: '2026-06-29T21:59:59.999Z'
 freeDelivery: false
-id: ff1f8b44-d96c-4477-835b-ef19ae5134b8
+id: 73c73a9f-2ef0-4dbf-b43b-2359eca75f8d
 image:
   channels:
     - app
@@ -30,7 +30,7 @@ image:
   priority: 0
   slug: s-crockery-20720266-900002457-s-ralah-shelby-car-s-s-tee-blend-product-4
   type: product
-offerId: 1b4a13e3-e9a3-4fe4-900f-8ca24322956d
+offerId: 8f9db64e-49b0-448d-adf3-c7afef487746
 price:
   cents: 893
   currency: EUR
@@ -40,6 +40,6 @@ referencePrice:
   currency: EUR
   value: 29.95
 slug: blend-ralah-shelby-car-t-shirt-crockery
-soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+soldOut: true
+start: '2026-06-22T22:00:00.000Z'
 title: Blend Ralah Shelby Car T-Shirt | Crockery

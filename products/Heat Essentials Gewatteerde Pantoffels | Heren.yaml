@@ -1,22 +1,22 @@
-_id: 6a314df0f7aa5367b158d0b1
+_id: 6a392ca294d1fa507c632a59
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282350'
+  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
+classicId: '3289736'
 classicProductId: '498041'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 75
-end: '2026-06-22T21:59:59.999Z'
+discount: 83
+end: '2026-06-29T21:59:59.999Z'
 freeDelivery: false
-id: facd5f7e-efdc-4a8b-a672-962035554825
+id: 4af2491b-2d56-44f9-bae1-28bb1a35faaa
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 0
   slug: heat-essentials-gewatteerde-pantoffels-heren
   type: product
-offerId: b4b20735-14ea-40ee-96c2-6273b45114a2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1643389
+  priority: 100
+  slug: heat-essentials-logo
+  type: logo
+offerId: 284cb9ab-8a14-4ae4-b74a-8c1ec3f1a4e5
 price:
-  cents: 884
+  cents: 595
   currency: EUR
-  value: 8.84
+  value: 5.95
 referencePrice:
   cents: 3495
   currency: EUR
   value: 34.95
 slug: heat-essentials-gewatteerde-pantoffels-heren
 soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+start: '2026-06-22T22:00:00.000Z'
 title: Heat Essentials Gewatteerde Pantoffels | Heren

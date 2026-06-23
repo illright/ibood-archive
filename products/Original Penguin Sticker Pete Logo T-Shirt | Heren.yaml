@@ -1,22 +1,22 @@
-_id: 6a2bd4dd7a9158a04d57a3ae
+_id: 6a3907f2ee5129e3347b0514
 appOnly: false
 brand: Original Penguin
 brands:
   - id: 18863ac5-1510-54f2-b877-ed28426ed60e
     name: Original Penguin
 categories:
-  - f5b6d1b3-c94c-5b8d-bae7-6900b4689d5a
-classicId: '3274599'
+  - b61d0534-338e-5971-861b-071edc476d50
+classicId: '3287404'
 classicProductId: '696881'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 43
-end: '2026-06-22T21:59:59.999Z'
+discount: 52
+end: '2026-06-23T21:59:59.999Z'
 freeDelivery: false
-id: f37761cf-b9fb-4ff5-bcad-0f770bf42d62
+id: a2ba64a1-ecb0-59e7-aee1-8b12bd50dc2f
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: db6161de-7054-4c76-acd9-a9f38d1852c5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 810fff84-8189-4ce6-8245-d3cb842f212f
+  priority: 0
+  slug: original-penguin-png-logo-0
+  type: logo
+offerId: f717c784-b062-57d7-b3b2-8d0154ca77a5
 price:
-  cents: 1995
+  cents: 1695
   currency: EUR
-  value: 19.95
+  value: 16.95
 referencePrice:
   cents: 3500
   currency: EUR
   value: 35
 slug: original-penguin-sticker-pete-logo-t-shirt-heren
 soldOut: false
-start: '2026-06-12T22:00:00.000Z'
+start: '2026-06-22T22:00:00.000Z'
 title: Original Penguin Sticker Pete Logo T-Shirt | Heren

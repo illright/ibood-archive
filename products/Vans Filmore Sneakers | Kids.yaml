@@ -1,31 +1,32 @@
-_id: 6a314d95f7aa5367b158d093
+_id: 6a2bd62b8bab196fc5f9e4dc
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282295'
-classicProductId: '622906'
+  - f8ba1faa-f6df-5e3b-b73c-7bd50a917359
+classicId: '3275210'
+classicProductId: '692418'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 75
-end: '2026-06-22T21:59:59.999Z'
+discount: 33
+end: '2026-06-23T21:59:59.000Z'
 freeDelivery: false
-id: c23f91c4-dd30-4f24-9fbd-f23392a1f5ae
+id: fa35b2b0-778a-4523-b7ad-acb94af5af7b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2219760
+    - all
+  extension: image/png
+  id: 0d5512f8-cddf-40e5-b7ff-9334ece67881-tr
   priority: 0
-  slug: vans-filmore-sneakers-kids
+  slug: 39-black-white-vnbzw-vn000dc8bzw1-filmore-black-white-junior-vans-product-0
   type: product
 logo:
   channels:
@@ -33,24 +34,21 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2219759
+  id: 1682080
   priority: 100
-  slug: vans-filmore-sneakers-kids
+  slug: vans-logo
   type: logo
-offerId: 64990f01-8f17-413b-b717-49c9dd193b45
+offerId: 2530734a-32a4-4e38-b5a0-b22d7f5aa293
 price:
-  cents: 1495
+  cents: 2995
   currency: EUR
-  value: 14.95
+  value: 29.95
 referencePrice:
-  cents: 6000
+  cents: 4500
   currency: EUR
-  value: 60
+  value: 45
 slug: vans-filmore-sneakers-kids
-soldOut: true
-start: '2026-06-15T22:00:00.000Z'
-title: Vans Filmore Sneakers | Kids
-Out: false
+soldOut: false
 start: '2026-06-12T22:00:00.000Z'
 title: Vans Filmore Sneakers | Kids
 akers | Kids

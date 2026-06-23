@@ -1,22 +1,22 @@
-_id: 6a314f09f7aa5367b158d25e
+_id: 6a392d6d1e42dfcad1ed7aed
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282545'
+  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
+classicId: '3289872'
 classicProductId: '671503'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
-end: '2026-06-22T21:59:59.999Z'
+discount: 67
+end: '2026-06-29T21:59:59.999Z'
 freeDelivery: false
-id: cc3776a0-fd8a-41cd-b9dc-02928a47ea30
+id: 0ea20803-dcd1-438b-beb7-50696fcd9199
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: re01-png-product-1
   type: product
-offerId: 9956669b-08c7-4c02-8be3-da4a2a1a73d4
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: c7aa803c-fd5a-4348-b2ab-ff170144e6b9
 price:
-  cents: 7278
+  cents: 6195
   currency: EUR
-  value: 72.78
+  value: 61.95
 referencePrice:
   cents: 18995
   currency: EUR
   value: 189.95
 slug: rehab-booster-mix-sneakers-heren
 soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+start: '2026-06-22T22:00:00.000Z'
 title: Rehab Booster Mix Sneakers | Heren

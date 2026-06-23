@@ -1,12 +1,12 @@
-_id: 6a314ddfb20a7e8202da0b40
+_id: 6a392d2a5f13c6a36ace1da6
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282328'
+  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
+classicId: '3289818'
 classicProductId: '659823'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 76
-end: '2026-06-22T21:59:59.999Z'
+end: '2026-06-29T21:59:59.999Z'
 freeDelivery: false
-id: 092cf064-27b2-4cb8-b9d0-5817a4cf2872
+id: a880e4fb-af81-4594-a147-f13dfa47895f
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: walker-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1912813
-  priority: 100
-  slug: greve-logo
-  type: logo
-offerId: d226bd1d-4eb5-4f62-89c6-2cea03141842
+offerId: 7a3ab3d7-8634-478e-a878-799e0275487d
 price:
   cents: 5568
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 230
 slug: greve-walker-sneaker-mannen
-soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+soldOut: true
+start: '2026-06-22T22:00:00.000Z'
 title: Greve Walker Sneakers | Heren

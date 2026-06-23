@@ -1,22 +1,22 @@
-_id: 6a314df7ae85781504148201
+_id: 6a392ded124df39c839ecfb9
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282358'
-classicProductId: '676188'
+  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
+classicId: '3290075'
+classicProductId: '676183'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2026-06-22T21:59:59.999Z'
+end: '2026-06-29T21:59:59.999Z'
 freeDelivery: false
-id: 2642e6ee-9b7c-4ed3-8841-72f058b304c9
+id: c39fcbdb-f48a-4182-9181-b8d8fa6b29f6
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: ede4aad2-0d8b-41cc-9f3b-d4c8258cbfa5
+offerId: b1feaec8-4e1c-4936-a361-5dc2ca40fd18
 price:
   cents: 989
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 29.99
 slug: jack-jones-stretch-shirt-l-s-noos
-soldOut: true
-start: '2026-06-15T22:00:00.000Z'
+soldOut: false
+start: '2026-06-22T22:00:00.000Z'
 title: Jack & Jones Premium Ajaxon Stretch Overhemd | Heren

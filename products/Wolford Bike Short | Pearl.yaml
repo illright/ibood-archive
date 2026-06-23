@@ -1,22 +1,22 @@
-_id: 6a314df7ae857815041481fd
+_id: 6a392dbb1e42dfcad1ed7bc6
 appOnly: false
 brand: Wolford
 brands:
   - id: 56e13584-93cb-5e64-bd4a-bed5b9e7fca3
     name: Wolford
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282355'
-classicProductId: '680752'
+  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
+classicId: '3289994'
+classicProductId: '680753'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 78
-end: '2026-06-22T21:59:59.999Z'
+directCheckout: true
+discount: 93
+end: '2026-06-29T21:59:59.999Z'
 freeDelivery: false
-id: 31363ce3-8284-4945-9263-e11f433ea45f
+id: 8b3e07f9-880c-4745-a197-25a211fe9270
 image:
   channels:
     - app
@@ -41,16 +41,16 @@ logo:
   priority: 0
   slug: wolford-logo-0
   type: logo
-offerId: d45de435-5bf1-4647-bdcf-15d82049e753
+offerId: 4efc0221-b877-4627-bc19-2db5e3ced543
 price:
-  cents: 893
+  cents: 295
   currency: EUR
-  value: 8.93
+  value: 2.95
 referencePrice:
   cents: 4000
   currency: EUR
   value: 40
 slug: wolford-bike-short-pearl
-soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+soldOut: true
+start: '2026-06-22T22:00:00.000Z'
 title: Wolford Bike Short | Pearl

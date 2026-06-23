@@ -1,12 +1,12 @@
-_id: 6a314e6dae8578150414827c
+_id: 6a392de65f13c6a36ace1de2
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282405'
+  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
+classicId: '3290042'
 classicProductId: '665602'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-06-22T21:59:59.999Z'
+end: '2026-06-29T21:59:59.999Z'
 freeDelivery: false
-id: fcdf38ef-b5b5-4d02-a837-785f8dfda37f
+id: 82db28e0-b533-4a27-b9a2-eb404b91f09b
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: a620f886-db16-4c4d-ac90-8c933d44ec85
+offerId: a2a55f13-58d1-47fc-9308-a0cea193e163
 price:
   cents: 1554
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: petrol-non-denim-chino-heren
-soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+soldOut: true
+start: '2026-06-22T22:00:00.000Z'
 title: Petrol Non Denim Chino | Heren

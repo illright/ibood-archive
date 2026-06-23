@@ -1,31 +1,32 @@
-_id: 6a314ed69d63951f04fc37e0
+_id: 6a392c92124df39c839ecf41
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 4771cb91-7385-5c3b-8cd1-8f99c10a013d
-classicId: '3282476'
-classicProductId: '588998'
+  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
+classicId: '3289713'
+classicProductId: '588997'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 72
-end: '2026-06-22T21:59:59.999Z'
+directCheckout: false
+discount: 73
+end: '2026-06-29T21:59:59.999Z'
 freeDelivery: false
-id: 7673dacf-02fc-4405-990a-ef5eaaee2680
+id: 53f98151-91ef-4469-a23e-e75daadc80b1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2032004
+    - all
+  extension: image/png
+  id: 59ae8766-369a-4a6e-bca1-e6ca9c264601
   priority: 0
-  slug: jack-jones-dexter-boots-heren
+  slug: jack-jones-dexter-boots-heren-product-13
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 54af4dc6-af9d-410f-9c1a-578664691918
+offerId: 48f97039-fea6-4f2b-a91b-b8f2e8203fd1
 price:
-  cents: 2845
+  cents: 2655
   currency: EUR
-  value: 28.45
+  value: 26.55
 referencePrice:
-  cents: 9999
+  cents: 10000
   currency: EUR
-  value: 99.99
+  value: 100
 slug: jack-jones-dexter-boots-heren
 soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+start: '2026-06-22T22:00:00.000Z'
 title: Jack & Jones Dexter Boots | Heren
