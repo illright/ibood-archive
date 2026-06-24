@@ -1,12 +1,12 @@
-_id: 6a313b68233af6ec0224cb07
+_id: 6a3a57ecd5d12ada2338ba8b
 appOnly: false
 brand: Bialetti
 brands:
   - id: 179f40d1-3597-5c86-b7e2-78f03338f988
     name: Bialetti
 categories:
-  - f57aaaf4-9c94-54e4-89e8-73615034162a
-classicId: '3280599'
+  - 99508ac8-4649-5613-93a4-4b9e75d6c638
+classicId: '3293624'
 classicProductId: '700964'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 17be38a0-ab98-4e9b-b8e7-04eabf89c902
+id: 8358f347-0cec-4ad1-af5d-b453c1d29405
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: bialetti-05-png-product-1
   type: product
-offerId: 666c7e66-68cb-4c24-b4cf-d4bed5e1dc5b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c25f68a6-fcdc-491b-828f-c3fab1a4f4c5
+  priority: 0
+  slug: bialetti-png-logo-0
+  type: logo
+offerId: cd93e330-8842-4782-9c6f-de39f66ace5b
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 99.8
 slug: 200x-bialetti-bridgerton-koffiecapsules
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 200x Bialetti Bridgerton Koffiecapsules | Nespresso Compatibel

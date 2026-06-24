@@ -1,31 +1,32 @@
-_id: 6a31088c9d63951f04fc2ad2
+_id: 6a34f36524b4ffff2d18ce19
 appOnly: false
 brand: Cruyff
 brands:
   - id: ac6dc579-3d41-563b-bc45-22b7dda072a3
     name: Cruyff
 categories:
-  - f31c7b72-21ec-5cd2-af0a-dece494c3035
-classicId: '3278893'
+  - 71607c10-27b9-5a07-91b5-13ae39631bb2
+classicId: '3286028'
 classicProductId: '584562'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 49
-end: '2026-06-23T21:59:59.999Z'
+discount: 56
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: b2f80fca-5515-4803-b2be-eb7aa9c3fcd9
+id: 89000445-0993-417f-b5ec-2ed3faa41a82
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2129512
+    - all
+  extension: image/png
+  id: 4e9cb131-de11-4192-a6da-49ee736434ea
   priority: 0
-  slug: cruyff-classic-poloshirt-heren
+  slug: main-png-product-2
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 100
   slug: cruyff-logo
   type: logo
-offerId: 9d901d03-75c0-44fc-a95e-c535280dfb54
+offerId: fdff9a2d-bd99-42be-94fb-4d30ecf622e6
 price:
-  cents: 2295
+  cents: 1995
   currency: EUR
-  value: 22.95
+  value: 19.95
 referencePrice:
   cents: 4495
   currency: EUR
   value: 44.95
 slug: cruyff-classic-poloshirt-heren
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Cruyff Classic Poloshirt | Heren

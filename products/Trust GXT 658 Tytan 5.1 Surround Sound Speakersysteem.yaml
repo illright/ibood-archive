@@ -1,12 +1,12 @@
-_id: 6a2ac8199d63951f04e2410e
+_id: 6a3a556eaee762c547eb720e
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
-classicId: '3273529'
+  - ca2220c8-5b6e-520e-be56-b7824218e9f6
+classicId: '3292786'
 classicProductId: '714894'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 56
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 04b61b44-3beb-5507-854b-8d1f86df7a0a
+id: 94a91493-c1ea-4ade-9c45-59216bac6016
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3aea8408-4a16-4697-837f-75d651c559a1
-  priority: 0
-  slug: logo-trust-png-logo-0
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
   type: logo
-offerId: c9c0250e-1e6a-5e0a-a705-256fc055312f
+offerId: ffed0793-596f-4cb2-8f4a-29fc2cfa8039
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 159.99
 slug: trust-gxt-658-tytan-5-1-surround-sound-speakersysteem
 soldOut: false
-start: '2026-06-17T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Trust GXT 658 Tytan 5.1 Surround Sound Speakersysteem

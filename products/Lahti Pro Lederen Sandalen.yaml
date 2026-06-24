@@ -1,12 +1,12 @@
-_id: 6a2fab199d63951f04fb7dbb
+_id: 6a3905047937f76ce696faef
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
-classicId: '3277507'
+  - 211a23cf-819f-5e90-83aa-601f47323bdb
+classicId: '3287376'
 classicProductId: '542983'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 31b50266-039c-4bd6-87ed-793b83ca139b
+id: 2ad55a1b-0658-4435-bca8-4eabf07f4713
 image:
   channels:
     - app
@@ -36,11 +36,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1821153
+  id: 1591171
   priority: 100
-  slug: lahti-pro-arbeitssandalen-herren
+  slug: lahti-pro-logo
   type: logo
-offerId: a0c09c06-d295-466a-9cad-3a643bbc3aa4
+offerId: 238334ce-89d6-4b8a-8868-1c154915d583
 price:
   cents: 2995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 69.9
 slug: lahti-pro-lederen-sandalen
-soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+soldOut: true
+start: '2026-06-23T22:00:00.000Z'
 title: Lahti Pro Lederen Sandalen

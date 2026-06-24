@@ -1,22 +1,22 @@
-_id: 6a310f111330996d83e08714
+_id: 6a3a47e30c6ac681f6218360
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - 63eeead0-2029-58ce-b2d1-4ec4b9e9a225
-classicId: '3279347'
+  - 8763b6c1-b514-514a-abe9-8cbb9e65f9c8
+classicId: '3291634'
 classicProductId: '689855'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 69
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: ee95e5ce-fed2-4307-b37a-0e9d21ff6a9a
+id: c74e2411-c14d-4812-ab7c-200cb56a53b2
 image:
   channels:
     - app
@@ -24,21 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: a4e41757-d6c6-4435-bc6b-805e027a4018-tr
-  priority: 2
-  slug: joseph-joseph-arc-30l-bin-carbon-black-product-7
+  id: 34a90eab-e26f-4d83-849b-6faca035d134
+  priority: 0
+  slug: arc-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1898679
-  priority: 100
-  slug: joseph-joseph-logo
-  type: logo
-offerId: 99f0b21d-3c45-4893-aa74-73e9f40ce489
+offerId: 1d28846e-96e3-4815-bb8e-afe7060c062c
 price:
   cents: 4995
   currency: EUR
@@ -49,6 +39,5 @@ referencePrice:
   value: 159.99
 slug: joseph-joseph-arc-easy-push-pedaalemmer-30-l
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Joseph Joseph Arc Easy-push Pedaalemmer | 30 L
- 30 L

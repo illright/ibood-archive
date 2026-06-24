@@ -1,12 +1,12 @@
-_id: 6a292a6cc296d21272ac27fa
+_id: 6a3a48f813a37e138d1e41f7
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 92335b60-0cd4-5c8d-bc2c-c82008dd5c71
-classicId: '3268382'
+  - 6b8ef5d7-ced8-56a0-8691-ce3ca7d0c8c9
+classicId: '3292223'
 classicProductId: '207459'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 8ae584ef-3d55-5a45-b270-b6fe41383b22
+id: 67dcdc16-a6ad-48f7-80cd-0c9c3e859eb0
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: villeroy-boch-logo
   type: logo
-offerId: a22fb6a7-73b1-5a26-96f4-c052f43d9406
+offerId: 4ce5830f-63be-4c02-9f2d-f04d653bc689
 price:
   cents: 7995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 209
 slug: vb-victor-bestekset-24-delig
-soldOut: true
-start: '2026-06-16T22:00:00.000Z'
+soldOut: false
+start: '2026-06-23T22:00:00.000Z'
 title: Villeroy & Boch Victor Bestekset | 24-delig

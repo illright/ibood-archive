@@ -1,32 +1,31 @@
-_id: 6a312683b20a7e8202da0842
+_id: 6a35145d0ea7683141179a65
 appOnly: false
 brand: Nike Swim
 brands:
   - id: cf1d460e-7ec0-5a30-96f7-013395e818f3
     name: Nike Swim
 categories:
-  - f31c7b72-21ec-5cd2-af0a-dece494c3035
-classicId: '3280471'
+  - 8d210776-5c84-5e1b-9659-65a2c6be4521
+classicId: '3286274'
 classicProductId: '628852'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 37
-end: '2026-06-23T21:59:59.999Z'
+discount: 50
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 29dae650-408e-419e-b0da-3142161cf5f4
+id: 7dc3f7cb-e32d-44c8-bd13-ceeac7b0600c
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8d8f1f1b-24f7-42df-a580-877408b9c5d3
+  extension: png
+  id: 2213416
   priority: 0
-  slug: outtlet-01-png-product-1
+  slug: nike-swim-essential-hydroguard-shirt
   type: product
 logo:
   channels:
@@ -39,16 +38,16 @@ logo:
   priority: 0
   slug: nike-swim-logo-0
   type: logo
-offerId: f5de561a-a183-46f8-bbc8-195d89918fe0
+offerId: 89868b4e-c128-4b6c-a144-6e991628bfc8
 price:
-  cents: 2500
+  cents: 2000
   currency: EUR
-  value: 25
+  value: 20
 referencePrice:
   cents: 3995
   currency: EUR
   value: 39.95
 slug: nike-swim-essential-hydroguard-shirt
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Nike Swim Essential Hydroguard Shirt

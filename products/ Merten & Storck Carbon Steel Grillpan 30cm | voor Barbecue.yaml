@@ -1,12 +1,12 @@
-_id: 6a310f375ee3623e5e6108c5
+_id: 6a3a482b30534665af82e13d
 appOnly: false
 brand: Merten & Storck
 brands:
   - id: 1f22db4d-07cd-52f3-a651-ec68c3d140aa
     name: Merten & Storck
 categories:
-  - 2e374156-ab9d-51b5-a2cb-2c4c57d13f66
-classicId: '3279416'
+  - 26ec26e0-5ae0-5769-a97c-a55e6396994b
+classicId: '3291807'
 classicProductId: '711541'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 2cf0544b-dabf-4986-93f0-6fc7d4e7fd9d
+id: 717b1504-df17-4b72-bfb9-401bd133630c
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: cc005821-001-merten-storck-bbq-open-frypan-30cmplate-sidehandles-holes-product-0
   type: product
-offerId: cb0f15ec-0d0f-4c98-a433-f498ff52e660
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8314efd0-10c7-44a7-ae46-2d1e51852bb7
+  priority: 0
+  slug: merten-storck-logo-0
+  type: logo
+offerId: 59b73ba5-2415-4dd9-b0e1-68fb8e8d28f7
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 44.9
 slug: merten-storck-carbon-steel-grillpan-30cm-voor-barbecue
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: ' Merten & Storck Carbon Steel Grillpan 30cm | voor Barbecue'

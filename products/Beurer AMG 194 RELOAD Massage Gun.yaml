@@ -1,12 +1,12 @@
-_id: 6a31081c9d63951f04fc2a41
+_id: 6a39332794d1fa507c632bd2
 appOnly: false
 brand: Beurer
 brands:
   - id: 31c1758a-7232-51e6-bc38-7634512caf25
     name: Beurer
 categories:
-  - 45b19899-fc85-5a0b-8c82-96bdbf3745f6
-classicId: '3278750'
+  - 4cfd9ceb-9221-5b2e-a02b-6e687d61be0b
+classicId: '3290258'
 classicProductId: '710589'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 199214e8-760f-434e-bf4f-7abae0f08356
+id: c2a44aec-aa9f-4480-9f38-eb163ba3a0ab
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: amg194-product-front-hot-cold-v01a-antelope-webp-product-0
   type: product
-offerId: b463eeca-0bfd-42a6-b1d1-5b2916b72387
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1695378
+  priority: 100
+  slug: beurer-logo
+  type: logo
+offerId: 200168a0-01ce-42b6-9075-cfae152233f8
 price:
   cents: 6995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 127.99
 slug: beurer-amg-194-reload-massage-gun
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Beurer AMG 194 RELOAD Massage Gun

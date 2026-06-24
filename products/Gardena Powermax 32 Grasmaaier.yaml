@@ -1,12 +1,12 @@
-_id: 6a3390cdc37c606720db818c
+_id: 6a39043382c87c6c6d70466a
 appOnly: false
 brand: Gardena
 brands:
   - id: 23c6ce55-14f8-56ff-810b-a52e70991652
     name: Gardena
 categories:
-  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
-classicId: '3284014'
+  - 211a23cf-819f-5e90-83aa-601f47323bdb
+classicId: '3286983'
 classicProductId: '65444'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 46
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 6bbef752-871a-4b24-858d-6f79b24973de
+id: 267eab6a-6ff6-48f2-8e87-ff4417fcf344
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: ga05-powermax-32-jpg-product-101
   type: product
-offerId: a6aac75b-2984-4eb1-bfdb-864975785c38
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4ee54816-1da7-4016-ac6e-e4653c6b9d3c
+  priority: 101
+  slug: gardena-logo-101
+  type: logo
+offerId: f3a53b78-8857-4161-9883-6c2534c0771e
 price:
   cents: 6995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 129.99
 slug: gardena-powermax-32-grasmaaier
 soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Gardena Powermax 32 Grasmaaier

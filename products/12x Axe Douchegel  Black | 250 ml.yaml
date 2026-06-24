@@ -1,12 +1,12 @@
-_id: 6a313b5d233af6ec0224cafa
+_id: 6a3a5518563603af59330eca
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - f57aaaf4-9c94-54e4-89e8-73615034162a
-classicId: '3280585'
+  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
+classicId: '3292584'
 classicProductId: '713689'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 20e121ca-0d56-4b47-a83e-4b7c7fd31f60
+id: fddfe824-9c58-4c15-bada-f06754419525
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 57253131-1a7c-4674-b93d-38db6f7042af
-  priority: 0
-  slug: axe-logo-png-logo-0
+  extension: png
+  id: 1692918
+  priority: 100
+  slug: axe-logo
   type: logo
-offerId: aacc7bce-ee56-41c4-88af-1778d0fc2756
+offerId: 3c4eedc2-10f7-4024-98ee-58c2eae2b7dc
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 63.48
 slug: 12x-axe-douchegel-black-250-ml
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 12x Axe Douchegel  Black | 250 ml

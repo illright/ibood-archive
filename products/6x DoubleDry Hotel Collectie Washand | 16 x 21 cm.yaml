@@ -1,30 +1,31 @@
-_id: 6a1a8a0f45487ba630ca9569
+_id: 6a3924a2f76c770d8098a49a
 appOnly: false
 brand: Double Dry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: Double Dry
 categories:
-  - 781c842e-af3b-54c6-970b-2aee78772864
-classicId: '3251608'
-classicProductId: '567686'
+  - 75be1f92-79a4-504f-be2b-4e0a86f24743
+classicId: '3288922'
+classicProductId: '577246'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 3a920c2d-9912-452d-9b84-5ed77d22bf13
+id: 1948c07e-ac34-484f-9634-f0cea7c2f24f
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 1971626
+    - app
+    - newsletter
+  extension: png
+  id: 1973142
   priority: 0
-  slug: 6x-doubledry-waschlappen-16-x-21-cm
+  slug: 6x-doubledry-hotel-washand-16-x-21-cm
   type: product
 logo:
   channels:
@@ -36,7 +37,7 @@ logo:
   priority: 100
   slug: doubledry-logo
   type: logo
-offerId: ea7c0918-03da-4485-bb8f-620b46089bef
+offerId: 3ad43635-00c1-4a83-8e6f-b4a0fd1f544f
 price:
   cents: 995
   currency: EUR
@@ -46,7 +47,6 @@ referencePrice:
   currency: EUR
   value: 19.95
 slug: 6x-doubledry-hotel-washand-16-x-21-cm
-soldOut: true
-start: '2026-05-29T22:00:00.000Z'
+soldOut: false
+start: '2026-06-23T22:00:00.000Z'
 title: 6x DoubleDry Hotel Collectie Washand | 16 x 21 cm
-eDry Hotel Collectie Washand | 16 x 21 cm

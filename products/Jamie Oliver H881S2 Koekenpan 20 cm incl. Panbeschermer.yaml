@@ -1,12 +1,12 @@
-_id: 6a22ccc547d6895bb8c02f71
+_id: 6a3a47d913a37e138d1e3fd3
 appOnly: false
 brand: Jamie Oliver
 brands:
   - id: 98b90002-e250-5fe5-b051-49d48ad147f6
     name: Jamie Oliver
 categories:
-  - 2e374156-ab9d-51b5-a2cb-2c4c57d13f66
-classicId: '3261049'
+  - 26ec26e0-5ae0-5769-a97c-a55e6396994b
+classicId: '3291618'
 classicProductId: '713967'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: eff6a6b7-2a1a-5b52-9291-159bed2f8561
+id: e709d54b-f393-4319-8fcc-496f9cb37c42
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: jamie-oliver-h881s2-koekenpan-20-cm-incl-panbeschermer-product-0
   type: product
-offerId: e981a7d1-1eba-585d-8506-014754d4f3e5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1839159
+  priority: 100
+  slug: jamie-oliver-logo
+  type: logo
+offerId: dce5f7f8-a381-4184-99d3-2da9a84e0aec
 price:
   cents: 1595
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 59.99
 slug: jamie-oliver-h881s2-koekenpan-20-cm-incl-panbeschermer
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Jamie Oliver H881S2 Koekenpan 20 cm incl. Panbeschermer

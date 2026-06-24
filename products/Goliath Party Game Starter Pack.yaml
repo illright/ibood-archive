@@ -1,22 +1,22 @@
-_id: 6a311cd79d63951f04fc2fca
+_id: 6a390c22ee5129e3347b05e8
 appOnly: false
 brand: Goliath
 brands:
   - id: b1ca99f2-2eff-58f1-9954-a1a8b973b808
     name: Goliath
 categories:
-  - 4c490f7a-f25d-5324-8397-d531ef9229c9
-classicId: '3280145'
+  - ba969ce3-685d-5b50-8cdd-23075da40b14
+classicId: '3287652'
 classicProductId: '684287'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 47
-end: '2026-06-23T21:59:59.999Z'
+discount: 60
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 22d8fcf6-902c-4610-92fb-7cfba9ddf5ba
+id: e4fb9a32-c16a-409d-a6b0-4e3ed0d62b09
 image:
   channels:
     - app
@@ -41,16 +41,16 @@ logo:
   priority: 0
   slug: goliath-logo-0
   type: logo
-offerId: 940743f1-1354-4d7c-9ede-b56d3d97b373
+offerId: 5c954cf1-3be2-47c4-88aa-b507d5e4f3b5
 price:
-  cents: 795
+  cents: 595
   currency: EUR
-  value: 7.95
+  value: 5.95
 referencePrice:
   cents: 1499
   currency: EUR
   value: 14.99
 slug: goliath-party-game-starter-pack
-soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+soldOut: true
+start: '2026-06-23T22:00:00.000Z'
 title: Goliath Party Game Starter Pack

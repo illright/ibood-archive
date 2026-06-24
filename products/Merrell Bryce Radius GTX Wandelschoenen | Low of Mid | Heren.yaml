@@ -1,22 +1,22 @@
-_id: 6a31096bce0a01162d7d4e2e
+_id: 6a390faff649a40cf3c1cadf
 appOnly: false
 brand: Merrell
 brands:
   - id: d199d883-246f-5414-be80-7a8501ca9f77
     name: Merrell
 categories:
-  - bf560727-e16d-5686-94e7-b47dd0d605ee
-classicId: '3279048'
-classicProductId: '493700'
+  - 4d7667ee-288e-5f3b-b180-2ada2b5afe8d
+classicId: '3287716'
+classicProductId: '493697'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 56
-end: '2026-06-23T21:59:59.999Z'
+directCheckout: false
+discount: 50
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 0f912efb-29f9-4541-8c03-857d214c40a8
+id: dbef977a-a10a-4946-bb4c-cc5f2938634a
 image:
   channels:
     - website
@@ -37,16 +37,16 @@ logo:
   priority: 100
   slug: merrell-logo
   type: logo
-offerId: 62eebf71-c2c5-4add-b532-ddf6194f7312
+offerId: f38d6ddf-1153-4d0c-a812-873f9a3f5e25
 price:
-  cents: 6995
+  cents: 7995
   currency: EUR
-  value: 69.95
+  value: 79.95
 referencePrice:
-  cents: 15995
+  cents: 16000
   currency: EUR
-  value: 159.95
+  value: 160
 slug: merrell-bryce-radius-gtx-wandelschoenen
-soldOut: true
-start: '2026-06-16T22:00:00.000Z'
+soldOut: false
+start: '2026-06-23T22:00:00.000Z'
 title: Merrell Bryce Radius GTX Wandelschoenen | Low of Mid | Heren

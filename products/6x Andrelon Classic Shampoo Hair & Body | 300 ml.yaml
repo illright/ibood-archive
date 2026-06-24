@@ -1,12 +1,12 @@
-_id: 6a27d284acd1fd88e734c284
+_id: 6a3a54c7d5d12ada2338b764
 appOnly: false
 brand: Andrélon
 brands:
   - id: 454bffdb-9fc6-5bcb-8380-0a032053956d
     name: Andrélon
 categories:
-  - f57aaaf4-9c94-54e4-89e8-73615034162a
-classicId: '3265546'
+  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
+classicId: '3292513'
 classicProductId: '184528'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: ab058b2b-9fd4-53f0-ad6e-0dae5d36e3f0
+id: bd3d93c6-bc01-4fd6-8c95-f7fd64da9400
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 6x-andrelon-classic-hair-body-300-ml-jpg-product-101
   type: product
-offerId: ac078dfe-5ec2-5da5-a27a-4e10957d2f44
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b24fed5d-c446-4f02-85cc-f898e090ab1a
+  priority: 0
+  slug: andrelon-logo-0
+  type: logo
+offerId: a964806d-cd13-48db-9f10-de6470e40461
 price:
   cents: 1295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 34.74
 slug: 6x-andrelon-classic-hair-body
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 6x Andrelon Classic Shampoo Hair & Body | 300 ml

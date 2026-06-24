@@ -1,22 +1,22 @@
-_id: 6a3249b2b20a7e8202da0ca8
+_id: 6a3a48ce06fd9b8507ade470
 appOnly: false
 brand: Philips
 brands:
   - id: ec36453d-811a-5d81-beac-cfcb22b98d4c
     name: Philips
 categories:
-  - 68cd9e5d-650c-550c-9d68-970245f06409
-classicId: '3282861'
+  - 8f8a7789-050f-539f-8e7e-25c160de23ad
+classicId: '3292153'
 classicProductId: '702663'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 64
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 633c78db-5ed9-4ccf-9ed8-e9fa03cb01db
+id: a476a43c-7712-4abd-abca-b6ad87bf578a
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: philips-deals-logo-0
   type: logo
-offerId: 4208440d-b736-4953-bffb-a044153404dd
+offerId: e5d264b0-4812-4d9f-82bb-8bb02df86920
 price:
   cents: 8995
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 249.99
 slug: philips-sonicare-diamondclean-9000-elektrisch-tandenborstel-hx9911-84
-soldOut: true
-start: '2026-06-16T22:00:00.000Z'
+soldOut: false
+start: '2026-06-23T22:00:00.000Z'
 title: Philips Sonicare DiamondClean 9000 Elektrisch Tandenborstel | HX9911/84

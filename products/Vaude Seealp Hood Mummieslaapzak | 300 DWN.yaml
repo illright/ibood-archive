@@ -1,12 +1,12 @@
-_id: 6a1962d8d91f58b2e912a924
+_id: 6a390f9b12387f001ef71ef7
 appOnly: false
 brand: VAUDE
 brands:
   - id: 5bd79664-1a7d-5922-b8fe-f12f6f6be54e
     name: VAUDE
 categories:
-  - 15ab24b7-5b5f-5915-a33b-d5e12bb8d834
-classicId: '3246611'
+  - 289be318-ae6b-56bd-b604-9652e52037bf
+classicId: '3287685'
 classicProductId: '698553'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: fec8ee03-f222-50ad-82bf-726f7fc19fb8
+id: e7b43727-b091-4bdd-b016-5c9e57f21414
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-png-product-101
   type: product
-offerId: 4466aff4-f44c-5cec-a8cc-189525dc76b3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1735071
+  priority: 100
+  slug: vaude-logo
+  type: logo
+offerId: ef258732-8e68-4b1e-83c5-d7c22cbc8832
 price:
   cents: 14995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 340
 slug: vaude-seealp-hood-300-dwn-mummieslaapzak
 soldOut: false
-start: '2026-06-18T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Vaude Seealp Hood Mummieslaapzak | 300 DWN

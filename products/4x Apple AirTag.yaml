@@ -1,12 +1,12 @@
-_id: 6a32740e3cafa6563fa7141b
+_id: 6a3a558f563603af59330fc1
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
-classicId: '3283604'
+  - ca2220c8-5b6e-520e-be56-b7824218e9f6
+classicId: '3292853'
 classicProductId: '595609'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 42
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: c22915e7-9f3c-43c9-8e78-6dbfda6aa5d6
+id: f7cde5d6-1cf1-4677-aa11-d0415a2a0069
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: 9e473e3e-3952-4e28-bfc0-08ca4be8504c
+offerId: f6b8607b-8e4f-40ae-9392-618ae8650552
 price:
   cents: 7495
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 129
 slug: 4x-apple-airtag
-soldOut: true
-start: '2026-06-17T22:00:00.000Z'
+soldOut: false
+start: '2026-06-23T22:00:00.000Z'
 title: 4x Apple AirTag

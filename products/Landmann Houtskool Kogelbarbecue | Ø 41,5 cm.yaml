@@ -1,22 +1,22 @@
-_id: 6a2fa97cb20a7e8202d94b54
+_id: 6a3904481975ccf9801e2b2e
 appOnly: false
 brand: Landmann
 brands:
   - id: 7fbf895b-0b79-589d-9fb8-46d28f4182fc
     name: Landmann
 categories:
-  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
-classicId: '3277087'
+  - 211a23cf-819f-5e90-83aa-601f47323bdb
+classicId: '3287025'
 classicProductId: '710273'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 64
-end: '2026-06-23T21:59:59.000Z'
+discount: 71
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 7591aaf9-1a57-4f5f-8e8d-9f5bfc3edf46
+id: 344ae49b-3f8d-4f9b-870a-f92a2efe0977
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: landmann-houtskool-kogelbarbecue-41-5-cm-product-0
   type: product
-offerId: 7de6faf4-ea96-46f0-8c55-0e3f41a57cf2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 24e533a9-6d5a-4f9e-8cf2-74487feab806-tr-cr
+  priority: 0
+  slug: landmann-logo-0
+  type: logo
+offerId: e8e70586-aaf0-46b5-abd4-b8852051dad2
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: landmann-houtskool-kogelbarbecue-41-5-cm
 soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Landmann Houtskool Kogelbarbecue | Ø 41,5 cm

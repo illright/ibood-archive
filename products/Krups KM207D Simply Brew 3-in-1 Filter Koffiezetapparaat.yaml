@@ -1,12 +1,12 @@
-_id: 6a22ccc647d6895bb8c02f77
+_id: 6a3a480d3daee19294e62de6
 appOnly: false
 brand: Krups
 brands:
   - id: bc6344df-3d12-536c-a2e6-f4f6a5b42312
     name: Krups
 categories:
-  - 68cd9e5d-650c-550c-9d68-970245f06409
-classicId: '3261050'
+  - 8f8a7789-050f-539f-8e7e-25c160de23ad
+classicId: '3291707'
 classicProductId: '713968'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 834f9ad8-990c-50aa-9013-a412d784f228
+id: 66a642d0-90f5-41e0-b73f-1d5f5e760e90
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: krups-km207d-koffiezetapparaat-filter-simply-brew-3in1-product-15
   type: product
-offerId: ebf63a0e-bb49-5087-b4ca-c268870217c6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1842523
+  priority: 100
+  slug: krups-logo
+  type: logo
+offerId: 1b228d37-4b40-4792-bf0a-00b87a96bbb4
 price:
   cents: 3995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 69.99
 slug: krups-km207d-simply-brew-3-in-1-filter-koffiezetapparaat
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Krups KM207D Simply Brew 3-in-1 Filter Koffiezetapparaat

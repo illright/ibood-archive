@@ -1,12 +1,12 @@
-_id: 6a280ac27b46ef318a5ef36a
+_id: 6a393b617e74d1919ebf4130
 appOnly: false
 brand: Trio
 brands:
   - id: c20640a1-47f7-50d6-8fb4-6f3a3ab283d1
     name: Trio
 categories:
-  - 87255993-121e-54f9-96e9-54ad74a446c3
-classicId: '3267303'
+  - ba44a95b-f54c-52b7-9335-7766831c8422
+classicId: '3290793'
 classicProductId: '668707'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 64
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 3efd7f61-bfe4-4374-afae-dc50fd6a3898
+id: a9bed29c-c639-4f51-9955-df2df99a01cc
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: trio-logo
   type: logo
-offerId: 5a1a8fa0-cdbe-4020-be9d-ede6ed27f087
+offerId: b639361f-70f2-4825-b5f7-1d38ff712ef6
 price:
   cents: 22900
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 634.99
 slug: trio-select-barret-hanglamp-6x-e14
-soldOut: false
-start: '2026-06-09T22:00:00.000Z'
+soldOut: true
+start: '2026-06-23T22:00:00.000Z'
 title: TRIO Select Barret Hanglamp | 6x E14

@@ -1,12 +1,12 @@
-_id: 6a310f7c5237b28bcd4967c8
+_id: 6a3a4861d5d12ada2338b53d
 appOnly: false
 brand: Hoto
 brands:
   - id: 9f1fa26f-30b8-53af-8bc8-eab294d60b38
     name: Hoto
 categories:
-  - 68cd9e5d-650c-550c-9d68-970245f06409
-classicId: '3279576'
+  - 8f8a7789-050f-539f-8e7e-25c160de23ad
+classicId: '3291946'
 classicProductId: '710665'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 23fd8dbd-8b87-43b2-ba80-65473cfe3df8
+id: de2aaa06-4410-4604-94de-9ad4a1678fb7
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: brush-png-product-1
   type: product
-offerId: 84a7c48f-6217-49b0-afc8-0a925c37fde9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d6fa1e6f-98b5-4f08-aef9-fc4c1c2730f9
+  priority: 0
+  slug: hoto-logo-0
+  type: logo
+offerId: 011e32bc-6cfc-4c38-afde-d61e5836ef12
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.99
 slug: hoto-elektrische-keuken-reinigingsborstel
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Hoto Elektrische Keuken-Reinigingsborstel

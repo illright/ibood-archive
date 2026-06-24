@@ -1,12 +1,12 @@
-_id: 6a27bf1ddbfebef9e1dc70a1
+_id: 6a3a56f73fd3737355bd73b1
 appOnly: false
 brand: Seepje
 brands:
   - id: 8e4589d7-a927-5109-814a-349cdfdcc53c
     name: Seepje
 categories:
-  - f57aaaf4-9c94-54e4-89e8-73615034162a
-classicId: '3265103'
+  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
+classicId: '3293425'
 classicProductId: '714141'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: d14a3996-46e8-5408-9e32-c2c9bc1cadbd
+id: 51aae1b7-4e3b-4fd7-be3e-69fe3d961401
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8637f3c7-c2f5-4eae-b80c-7d19b7a9d197
-  priority: 0
-  slug: seepje-png-logo-0
+  extension: png
+  id: 1919137
+  priority: 100
+  slug: seepje-logo
   type: logo
-offerId: 737593ba-ef78-53bc-9490-9714d508c9b7
+offerId: dca9b88e-8604-4889-91de-f4d397921fe4
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 31.92
 slug: 8x-seepje-handzeep-vers-geperste-sinaasappel-300-ml
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 8x Seepje Handzeep Vers Geperste Sinaasappel | 300 ml

@@ -1,30 +1,32 @@
-_id: 6a2fa9419d63951f04fb74fe
+_id: 6a3904301975ccf9801e2b1b
 appOnly: false
 brand: Bosch
 brands:
   - id: 169a5b37-c6f7-5ed0-83e7-162bb01acc79
     name: Bosch
 categories:
-  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
-classicId: '3277043'
+  - 211a23cf-819f-5e90-83aa-601f47323bdb
+classicId: '3286987'
 classicProductId: '705601'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 44
-end: '2026-06-23T21:59:59.000Z'
+discount: 49
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 55c3af5e-08a8-4d49-8e96-a2778ec5780a
+id: e5117d4b-a5ea-4e0e-9415-01d3ab779c09
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 6b959420-dc67-4d08-bbce-36037241f5ae
+    - app
+    - website
+  extension: image/png
+  id: 6b959420-dc67-4d08-bbce-36037241f5ae-tr-cr
   priority: 0
   slug: bosch-06019n3373-gsb18v-65-2-x-gba5-0ah-gal18v-40-lbox-product-0
   type: product
@@ -38,16 +40,16 @@ logo:
   priority: 100
   slug: bosch-logo
   type: logo
-offerId: a1bd66b9-e6ef-47ae-8694-3bbabd9e214c
+offerId: d08ea881-1e6a-4531-9c30-d0c356e06a98
 price:
-  cents: 24995
+  cents: 22900
   currency: EUR
-  value: 249.95
+  value: 229
 referencePrice:
   cents: 45012
   currency: EUR
   value: 450.12
 slug: bosch-professional-gsb-18v-65-klopboormachine-18v-2x-5-0ah-l-boxx
 soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Bosch Professional GSB 18V-65 Klopboormachine | 18V | 2x 5.0Ah | L-BOXX

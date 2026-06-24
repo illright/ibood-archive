@@ -1,12 +1,12 @@
-_id: 6a2947f89d63951f04d76f85
+_id: 6a390fe682c87c6c6d70491a
 appOnly: false
 brand: Brunotti
 brands:
   - id: 6a2e0d9a-ccf5-5842-bacc-0ea62bed2295
     name: Brunotti
 categories:
-  - 89e8758a-ce2e-5134-989a-711f562e286e
-classicId: '3269109'
+  - 9cccaf5f-dcb0-5d9f-84c2-4e0364b98502
+classicId: '3287760'
 classicProductId: '628991'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 74
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 94c23815-d982-4578-8a35-2abc7da2b1c4
+id: 5f43af32-b941-4a8c-a04c-d35f5e50b62a
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6d49d74c-c1be-4350-b4f3-9d01111138a3
-  priority: 0
-  slug: brunotti-manica-longsleevepolo-logo-0
+  extension: png
+  id: 1820705
+  priority: 100
+  slug: brunotti-logo
   type: logo
-offerId: ea8c76d6-62b4-43db-85be-beee06100044
+offerId: 79c5a5b1-77ad-4c72-be58-b8e62575711f
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: brunotti-manica-longsleevepolo
 soldOut: false
-start: '2026-06-17T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Brunotti Manica Longsleevepolo | Heren

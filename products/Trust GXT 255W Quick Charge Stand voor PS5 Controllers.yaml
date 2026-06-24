@@ -1,12 +1,12 @@
-_id: 6a2ac80b14889f1c2a7b6f66
+_id: 6a3a556a7d2917bb131bac66
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
-classicId: '3273527'
+  - ca2220c8-5b6e-520e-be56-b7824218e9f6
+classicId: '3292783'
 classicProductId: '714896'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 8a03268c-f560-561d-912c-bf24685dcb5d
+id: 5f851f53-4163-4b1a-b003-e137ad997d3a
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 454d6c13-07cc-4893-8c23-fed913b8c5ff
-  priority: 0
-  slug: logo-trust-png-logo-0
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
   type: logo
-offerId: b4ac9f6a-eace-5fc8-bc7e-e4fe22c06281
+offerId: 117c06c0-0763-4899-8d7f-de8f8cd1385f
 price:
   cents: 1495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 24.99
 slug: trust-gxt-255w-quick-charge-stand-ps5-controller
 soldOut: false
-start: '2026-06-17T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Trust GXT 255W Quick Charge Stand voor PS5 Controllers

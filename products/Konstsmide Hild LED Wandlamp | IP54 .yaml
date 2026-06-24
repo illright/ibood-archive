@@ -1,32 +1,34 @@
-_id: 6a3249957da3873b1fef9d9e
+_id: 6a393c5fe6f209df0b33667e
 appOnly: false
 brand: Konstsmide
 brands:
   - id: 6a9cb158-e536-5cac-b976-6d1094ec0f0a
     name: Konstsmide
 categories:
-  - 6a819605-0e7d-5adf-bd5f-3a6f8289bc03
-classicId: '3282832'
-classicProductId: '706759'
+  - 28d3e657-4f05-5a3a-93d3-726fbbda546e
+classicId: '3291090'
+classicProductId: '706758'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 57
-end: '2026-06-23T21:59:59.999Z'
+discount: 64
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: c2a8d9d7-d19b-4741-8c94-d4b36000b7dc
+id: ebbec128-bd53-437c-8cd7-1d99e7ade1cd
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 5a7cf014-555f-4c0c-ba98-24edf9e58d73
+    - website
+    - app
+  extension: image/png
+  id: 8958b4bb-50ac-4a23-8564-3cf8253dda35-tr
   priority: 0
-  slug: lamp-jpg-product-1
+  slug: 427-250-konstsmide-wandlamp-hild-led-wit-ip54-product-1
   type: product
 logo:
   channels:
@@ -38,18 +40,16 @@ logo:
   priority: 100
   slug: konstsmide-logo
   type: logo
-offerId: f2bcf7b5-e24a-4c32-b173-68b93e6baaf0
+offerId: 3905dadb-2edc-408a-9d80-a0f683339e92
 price:
-  cents: 11995
+  cents: 9995
   currency: EUR
-  value: 119.95
+  value: 99.95
 referencePrice:
   cents: 27900
   currency: EUR
   value: 279
 slug: konstsmide-hild-led-wandlamp-ip54
 soldOut: false
-start: '2026-06-14T22:00:00.000Z'
-title: 'Konstsmide Hild LED Wandlamp | IP54 '
-22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 'Konstsmide Hild LED Wandlamp | IP54 '

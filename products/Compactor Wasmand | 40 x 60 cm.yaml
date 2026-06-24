@@ -1,12 +1,12 @@
-_id: 6a310f575ee3623e5e610908
+_id: 6a3a484a961dc1375dc096b8
 appOnly: false
 brand: Compactor
 brands:
   - id: bafeacc5-92d5-5587-96da-f6509fc6881b
     name: Compactor
 categories:
-  - 8ec455d3-3462-5c15-8379-2e16547ab75a
-classicId: '3279489'
+  - 8763b6c1-b514-514a-abe9-8cbb9e65f9c8
+classicId: '3291873'
 classicProductId: '528722'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 18
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 9481dfed-935d-456e-954a-3aafb8206a21
+id: df8199ff-d9a9-46af-934e-a8ffe21b51e8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1783450
+    - all
+  extension: image/png
+  id: aa6a92c6-1b0c-4946-a375-d0b9966abafd-tr
   priority: 0
-  slug: compactor-wasmand-40-x-60-cm
+  slug: compactor-bambus-waschekorb-rund-40-x-60-cm-1-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: compactor-logo
   type: logo
-offerId: 10e69066-a0d2-439d-885f-36b3e8d1a590
+offerId: 26d4cad0-7dce-48e2-8fc4-b73ca1af5d0d
 price:
   cents: 2695
   currency: EUR
@@ -47,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 32.99
 slug: compactor-wasmand-40-x-60-cm
-soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+soldOut: true
+start: '2026-06-23T22:00:00.000Z'
 title: Compactor Wasmand | 40 x 60 cm

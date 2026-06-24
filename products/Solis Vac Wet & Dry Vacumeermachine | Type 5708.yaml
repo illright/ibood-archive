@@ -1,12 +1,12 @@
-_id: 6a310fa76dde7d3ef41fbd5d
+_id: 6a34f3fc2a50d1cf2fc66bc4
 appOnly: false
 brand: Solis
 brands:
   - id: 1abd1a6b-4fdf-59e5-aca3-9ac51bbb923c
     name: Solis
 categories:
-  - 68cd9e5d-650c-550c-9d68-970245f06409
-classicId: '3279665'
+  - 8f8a7789-050f-539f-8e7e-25c160de23ad
+classicId: '3286062'
 classicProductId: '604611'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 2b9d41c1-0b34-4fa8-ac72-e4ef7430912a
+id: e3727cc7-fa40-507c-9528-186e28b80344
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2097556
+  extension: image/png
+  id: 9a270081-d57f-41d1-b6f9-eb8e1eb5b7a5-tr
   priority: 0
-  slug: solis-vac-wet-dry-vacumeermachine-5708
+  slug: solis-vac-wet-dry-vakuumiermaschine-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: solis-logo
   type: logo
-offerId: 69b40ab3-6cc8-44a2-85d8-f3d0e6d25946
+offerId: 85ba304d-d268-5f5e-8c6b-035582b5dc97
 price:
   cents: 13900
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 249.9
 slug: solis-vac-wet-dry-vacumeermachine-5708
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Solis Vac Wet & Dry Vacumeermachine | Type 5708

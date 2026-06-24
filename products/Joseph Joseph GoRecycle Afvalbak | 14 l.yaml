@@ -1,12 +1,12 @@
-_id: 6a310fa1b20a7e8202da0562
+_id: 6a3a485530534665af82e18b
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - 63eeead0-2029-58ce-b2d1-4ec4b9e9a225
-classicId: '3279643'
+  - 8763b6c1-b514-514a-abe9-8cbb9e65f9c8
+classicId: '3291910'
 classicProductId: '400793'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 84
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 9cf77235-44ee-4208-b870-1d3870fae036
+id: 0568cfdb-acdc-4043-97dd-edb5ccca6497
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 4545815f-567a-4854-b36a-b514e13f2140
+  extension: image/png
+  id: 268a15d0-76ac-4d19-b038-bcacda076c92
   priority: 0
-  slug: kosz-joseph-joseph-gorecycle-14-l-jpg-product-101
+  slug: joseph-main-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: joseph-joseph-logo
   type: logo
-offerId: 5de0b80c-ef97-4415-907b-7d5b8adce57d
+offerId: daa3a93c-61c5-4329-b484-b37e71c6205c
 price:
   cents: 795
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: joseph-joseph-gorecycle-afvalbak-14-l
-soldOut: true
-start: '2026-06-16T22:00:00.000Z'
+soldOut: false
+start: '2026-06-23T22:00:00.000Z'
 title: Joseph Joseph GoRecycle Afvalbak | 14 l

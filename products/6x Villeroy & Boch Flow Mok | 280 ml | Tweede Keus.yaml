@@ -1,12 +1,12 @@
-_id: 6a292e425952c81790b6e14c
+_id: 6a3a487a30534665af82e1cd
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 92335b60-0cd4-5c8d-bc2c-c82008dd5c71
-classicId: '3268674'
+  - 6b8ef5d7-ced8-56a0-8691-ce3ca7d0c8c9
+classicId: '3291987'
 classicProductId: '714486'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 94a68e58-0676-53de-a0c9-cc9cef9a336e
+id: adbda22f-733a-4b39-8050-beaef5422518
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1ca76250-3e7b-4ef3-a9fb-2a945edbd833
-  priority: 0
-  slug: villeroy-boch-png-logo-0
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
   type: logo
-offerId: ef566c9b-6f9f-5d2e-a8d1-57f9b4965195
+offerId: db1be0ae-8031-42b8-bef4-6793d0342620
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 149.4
 slug: 6x-villeroy-boch-flow-mok-280ml-tweede-keus
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 6x Villeroy & Boch Flow Mok | 280 ml | Tweede Keus

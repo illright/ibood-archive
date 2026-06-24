@@ -1,12 +1,12 @@
-_id: 6a2fab2fb20a7e8202d95308
+_id: 6a39050982c87c6c6d7047ec
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
-classicId: '3277515'
+  - 211a23cf-819f-5e90-83aa-601f47323bdb
+classicId: '3287382'
 classicProductId: '709954'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 75387e8d-b4f1-4046-bd61-090b14949a73
+id: 5e5f47d2-0196-4287-91a0-e5c0f4611824
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: pants-combat-beige-stretch-2xl-ce-lahti-product-0
   type: product
-offerId: d72ec721-e35d-4a19-a3e7-a635adfeafce
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1591171
+  priority: 100
+  slug: lahti-pro-logo
+  type: logo
+offerId: c5107cc8-da18-4c8e-bc1d-7ae598f42b2b
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.9
 slug: lahti-pro-stretch-werkbroek-ce
 soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Lahti Pro Stretch Werkbroek | CE

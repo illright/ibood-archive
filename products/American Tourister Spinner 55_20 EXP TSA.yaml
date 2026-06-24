@@ -1,12 +1,12 @@
-_id: 6a2a66da5952c81790bf70f2
+_id: 6a3a7127e60aeac9db0a5039
 appOnly: false
 brand: American Tourister
 brands:
   - id: ec43ffbb-b05b-5ebf-84ed-77bb9d7a3078
     name: American Tourister
 categories:
-  - 79a577ca-1a6c-5527-8c79-56fefbc4d72b
-classicId: '3271071'
+  - 0ae6bf61-2c93-5fea-8332-6853edc2ae23
+classicId: '3294316'
 classicProductId: '649147'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 59
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 0140d934-9c18-5348-a2a3-5407a16bcba0
+id: c8bcf5ab-2b6f-44e3-a6f0-ede8e5ce4548
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: df56ef40-3bf0-4397-9103-f4ab527fbcb6
-  priority: 0
-  slug: samsonite-png-logo-0
+  extension: png
+  id: 1908456
+  priority: 100
+  slug: american-tourister-logo
   type: logo
-offerId: 4ca1f0e9-d775-549e-8aeb-abb05092aea4
+offerId: 368e9028-fee7-40c6-821b-085be72c2838
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 169
 slug: american-tourister-spinner-55-20-tsa-152515
 soldOut: false
-start: '2026-06-18T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: American Tourister Spinner 55/20 EXP TSA

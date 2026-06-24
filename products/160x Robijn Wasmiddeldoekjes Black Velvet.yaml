@@ -1,12 +1,12 @@
-_id: 6a313d80b20a7e8202da096a
+_id: 6a3a56ee9940114d0e45fa58
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - f57aaaf4-9c94-54e4-89e8-73615034162a
-classicId: '3281436'
+  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
+classicId: '3293407'
 classicProductId: '713369'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 30f6e290-c1d8-4144-a020-067301481aa7
+id: d68b5e9a-04bf-4534-8204-e7578b90a85f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 19302cf1-39c6-48a2-8a55-0f663c11c5c8
-  priority: 0
-  slug: robijn-png-logo-0
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
   type: logo
-offerId: 9e14ca22-4170-443b-9404-1ada962de74d
+offerId: 39e19a58-0f30-4868-b4d3-c02a1fde7629
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 107.9
 slug: 160x-robijn-wasmiddeldoekjes-black-velvet
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 160x Robijn Wasmiddeldoekjes Black Velvet

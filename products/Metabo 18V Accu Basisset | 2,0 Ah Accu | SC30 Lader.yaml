@@ -1,12 +1,12 @@
-_id: 6a2fab007133b632d1ddba69
+_id: 6a3904a5ee5129e3347b0431
 appOnly: false
 brand: Metabo
 brands:
   - id: c8ae0e76-63bc-560f-9a8d-4d31ce11681d
     name: Metabo
 categories:
-  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
-classicId: '3277494'
+  - 42c2817f-51c3-5c15-b808-b095b9d56512
+classicId: '3287245'
 classicProductId: '698509'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 2dd54e7d-e931-4172-a92d-4a394d8d79ed
+id: 195ac48a-eaaf-473d-b2e9-849bea272fa4
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: metabo-logo
   type: logo
-offerId: 332ec5e4-45a4-468e-94ff-69bf525ffb8d
+offerId: ad51f032-1a15-49c4-b9b6-0ed510010776
 price:
   cents: 2995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 107.69
 slug: metabo-18v-accu-basisset-2-0-ah-accu-sc30-lader
-soldOut: true
-start: '2026-06-15T22:00:00.000Z'
+soldOut: false
+start: '2026-06-23T22:00:00.000Z'
 title: Metabo 18V Accu Basisset | 2,0 Ah Accu | SC30 Lader

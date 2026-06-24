@@ -1,32 +1,31 @@
-_id: 6a2fa97fb20a7e8202d94b63
+_id: 6a390475ee5129e3347b03c0
 appOnly: false
 brand: LedLenser
 brands:
   - id: 2ec06e75-31b3-50d7-8a47-d22814e936ca
     name: LedLenser
 categories:
-  - dbd81ded-39a9-5d56-aeac-a80fedc2598f
-classicId: '3277090'
+  - 211a23cf-819f-5e90-83aa-601f47323bdb
+classicId: '3287130'
 classicProductId: '509297'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 68
-end: '2026-06-23T21:59:59.000Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: d3204185-f387-47db-8b11-049db02aa39e
+id: 8946273d-e66c-40b0-8ae5-ffce5dab9a93
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ec06d844-8190-4599-af45-2e1cf78c9e42
+  extension: png
+  id: 1721818
   priority: 0
-  slug: keuze1-png-product-1
+  slug: ledlenser-neo5r-hoofdlamp-ip54
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: ledlenser-logo
   type: logo
-offerId: 172a9f43-a818-4048-aa31-463db4818ce2
+offerId: 8dd5a734-3025-41f7-8c10-7e0c8dca1e13
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 62.9
 slug: ledlenser-neo5r-hoofdlamp-ip54
 soldOut: false
-start: '2026-06-15T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Ledlenser NEO5R Hoofdlamp | IP54 | Max. 600 Lumen

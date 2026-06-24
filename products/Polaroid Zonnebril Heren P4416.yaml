@@ -1,31 +1,32 @@
-_id: 6a2bd57748113db539bed9dd
+_id: 6a3a7110f0e567ffda76e0bc
 appOnly: false
 brand: Polaroid
 brands:
   - id: 351baa87-cfe4-5c7f-b2fa-ee27349e24d1
     name: Polaroid
 categories:
-  - 7e60920e-45fb-5c52-9a9c-b37ac49125b8
-classicId: '3274874'
+  - 0ae6bf61-2c93-5fea-8332-6853edc2ae23
+classicId: '3294275'
 classicProductId: '357817'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 56
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: cfd2c428-7230-4635-9f7b-49022940b258
+id: 3843e5fb-4cd2-4550-abf2-ae9ffb3c0bed
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1139284
-  priority: 100
-  slug: polaroid-zonnebril-heren-p4416
+    - all
+  extension: image/png
+  id: bfcf1ede-4ae5-4ebc-934b-618ca8347917
+  priority: 0
+  slug: polaroid-main-png-product-101
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: polaroid-logo
   type: logo
-offerId: aa0b4ca3-d99e-4b88-a568-3cd7284db43c
+offerId: 311037c9-d340-4aba-85f6-16d3ed4fd62c
 price:
   cents: 3995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 90
 slug: polaroid-zonnebril-heren-p4416
 soldOut: false
-start: '2026-06-12T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Polaroid Zonnebril Heren P4416

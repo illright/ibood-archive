@@ -1,12 +1,12 @@
-_id: 6a3273715a3b57b56df309f5
+_id: 6a3a54f0ade16374c64a85ac
 appOnly: false
 brand: 4smarts
 brands:
   - id: a7b108fd-e7bd-5edd-b25c-fb04abbbc3b4
     name: 4smarts
 categories:
-  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
-classicId: '3283436'
+  - ca2220c8-5b6e-520e-be56-b7824218e9f6
+classicId: '3292526'
 classicProductId: '711604'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 68
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: dd3c8d3d-7546-40d5-9baa-2e038e14ff9b
+id: 183f6002-8ed2-4f75-b0cf-f80f276134bd
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 4smarts-dual-port-30w-usb-c-and-usb-a-charger-product-0
   type: product
-offerId: 79dde01a-2ae5-4d56-8f61-f2b7cbf86f23
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 996328cc-105b-4ace-81b6-0e15c53153a1
+  priority: 0
+  slug: 4smarts-offres-promotions-ibood-logo-0
+  type: logo
+offerId: 5c0bb94d-7cdd-474f-9ad3-1700248647eb
 price:
   cents: 1295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 39.9
 slug: 4smarts-30w-dual-port-ladegeraet
 soldOut: false
-start: '2026-06-17T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 2x 4smarts PDPlug USB-C & USB-A oplader | 30 W

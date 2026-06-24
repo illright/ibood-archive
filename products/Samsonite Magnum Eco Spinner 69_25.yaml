@@ -1,12 +1,12 @@
-_id: 6a29748ae06b0078c3e4a62e
+_id: 6a3a710483d12560647b598f
 appOnly: false
 brand: Samsonite
 brands:
   - id: 76fdbcf4-cdc0-5321-9cad-2639a5d8bdf0
     name: Samsonite
 categories:
-  - 79a577ca-1a6c-5527-8c79-56fefbc4d72b
-classicId: '3270131'
+  - 0ae6bf61-2c93-5fea-8332-6853edc2ae23
+classicId: '3294258'
 classicProductId: '714607'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 48
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: e105686d-1c30-5c0e-b8c1-ad8c0e4de5e9
+id: 58fc93cf-7e2b-4933-9907-3f277a76126b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e815f02b-d300-4346-b481-e91e4c23cd04
-  priority: 0
-  slug: samsonite-png-logo-0
+  extension: png
+  id: 1744610
+  priority: 100
+  slug: samsonite-logo
   type: logo
-offerId: c1b3c392-b9e6-566c-9991-d3681334dfbb
+offerId: f0919a3a-ce5c-46c4-82fd-3db0eea62ace
 price:
   cents: 11995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 229
 slug: samsonite-magnum-eco-spinner-69-25
 soldOut: false
-start: '2026-06-18T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Samsonite Magnum Eco Spinner 69/25

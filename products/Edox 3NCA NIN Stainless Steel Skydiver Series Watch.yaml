@@ -1,12 +1,12 @@
-_id: 6a2bd5699903ff79346d4649
+_id: 6a3a7129f0e567ffda76e0f9
 appOnly: false
 brand: Edox
 brands:
   - id: b372bad5-1fa7-510c-9934-eb4e0dfd6cf6
     name: Edox
 categories:
-  - 7e60920e-45fb-5c52-9a9c-b37ac49125b8
-classicId: '3274847'
+  - 0ae6bf61-2c93-5fea-8332-6853edc2ae23
+classicId: '3294314'
 classicProductId: '706997'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 51
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: ea33f277-b5cd-4bdb-a367-39bf2b87cc0e
+id: adfcf037-37d8-4bb3-93ea-c7baf94fc41f
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 80120-3nca-nin-44-mm-skydiver-neptunian-automatic-3-hands-stainless-steel-turning-ceramic-be-product-0
   type: product
-offerId: d218577e-6574-41c4-944e-18d2e7dd7f72
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2020298
+  priority: 100
+  slug: edox-logo
+  type: logo
+offerId: f178796d-5d80-4687-baef-24e090ab963b
 price:
   cents: 69900
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 1425
 slug: edox-3nca-nin-skydiver-series-watch
 soldOut: false
-start: '2026-06-12T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Edox 3NCA NIN Stainless Steel Skydiver Series Watch

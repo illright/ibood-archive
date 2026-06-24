@@ -23,11 +23,24 @@ image:
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 65f3f12c-1f41-4fc3-8f7b-3878720b984b
+    - website
+    - app
+  extension: image/png
+  id: 65f3f12c-1f41-4fc3-8f7b-3878720b984b-tr-cr
   priority: 0
   slug: 18711948099764-khadis-09-aquanova-khana-soap-dispenser-small-black-product-1
   type: product
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d1c28918-c5f3-4786-9261-63f6b2d5eda3
+  priority: 0
+  slug: aquanova-badkamer-logo-0-png-logo-0
+  type: logo
 offerId: 8101ff0c-7a37-588b-a056-7d018816ef47
 price:
   cents: 1495

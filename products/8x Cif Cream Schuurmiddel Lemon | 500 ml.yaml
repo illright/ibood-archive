@@ -1,12 +1,12 @@
-_id: 6a313b86757fcec23acd01f7
+_id: 6a3a55337d2917bb131babf4
 appOnly: false
 brand: Cif
 brands:
   - id: 0e8078f7-f3c4-577f-a888-bb66181057ba
     name: Cif
 categories:
-  - f57aaaf4-9c94-54e4-89e8-73615034162a
-classicId: '3280634'
+  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
+classicId: '3292661'
 classicProductId: '712944'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 1bb40d2c-5faf-4973-8ae3-77af850d3d0a
+id: 984c806c-dc47-45cd-bd5e-d59723d90f80
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4918c607-d7a3-4080-88dc-49ef7f6c21ea
-  priority: 0
-  slug: cif-png-logo-0
+  extension: png
+  id: 1640965
+  priority: 100
+  slug: cif-logo
   type: logo
-offerId: db060511-f2ae-4bdb-aae8-3ed1f56b754e
+offerId: eae996eb-5b91-40e0-a0eb-417e4463065a
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 27.92
 slug: 8x-cif-cream-schuurmiddel-lemon-500-ml
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 8x Cif Cream Schuurmiddel Lemon | 500 ml

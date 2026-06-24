@@ -1,12 +1,12 @@
-_id: 6a292e435952c81790b6e15b
+_id: 6a3a48999f5508159174ba06
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 92335b60-0cd4-5c8d-bc2c-c82008dd5c71
-classicId: '3268677'
+  - 6b8ef5d7-ced8-56a0-8691-ce3ca7d0c8c9
+classicId: '3292060'
 classicProductId: '714489'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 20252a84-167b-5f84-b8df-0cd8ea7e6a85
+id: 7a39e37d-19e7-4352-b8d5-97b726005331
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e4c0bf24-fee0-4900-813f-806df9dd4df7
-  priority: 0
-  slug: villeroy-boch-png-logo-0
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
   type: logo
-offerId: fba27892-d988-51fd-b61c-8799fb9e7f5f
+offerId: ae1b5473-5f0d-4337-84a3-5a2215dbf70c
 price:
   cents: 5995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 155.4
 slug: 6x-villeroy-boch-artesano-pastaschaal-23-5cm-tweede-keus
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 6x Villeroy & Boch Artesano Pastaschaal | 23,5 cm | Tweede Keus

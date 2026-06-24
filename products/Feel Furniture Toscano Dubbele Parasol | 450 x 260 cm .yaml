@@ -1,12 +1,12 @@
-_id: 6a32493b5a3b57b56df308b1
+_id: 6a393bcc5827014137cd6071
 appOnly: false
 brand: Feel Furniture
 brands:
   - id: 3a39b666-76a8-5c73-aaf4-22a819a0fec9
     name: Feel Furniture
 categories:
-  - 6a819605-0e7d-5adf-bd5f-3a6f8289bc03
-classicId: '3282780'
+  - 28d3e657-4f05-5a3a-93d3-726fbbda546e
+classicId: '3290937'
 classicProductId: '670246'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 5941f8f6-6b40-4c1d-af9b-5d61cf378501
+id: 274ee878-e838-4420-9518-37b7d49e72e4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6787e7f8-bf33-497a-8144-0c21406c5d68
-  priority: 0
-  slug: feel-furniture-png-logo-0
+  extension: png
+  id: 1651347
+  priority: 100
+  slug: feel-furniture-logo
   type: logo
-offerId: 56758f82-5309-49ea-9629-1f87011c336f
+offerId: e5306dc0-5eca-474b-bdf8-f28b2581b974
 price:
   cents: 7495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 199.95
 slug: feel-furniture-toscano-dubbele-parasol-450-x-260-cm
 soldOut: false
-start: '2026-06-14T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 'Feel Furniture Toscano Dubbele Parasol | 450 x 260 cm '

@@ -1,12 +1,12 @@
-_id: 6a31103d5237b28bcd496898
+_id: 6a3a48d93daee19294e62f4c
 appOnly: false
 brand: Medisana
 brands:
   - id: 49e95cec-d8b1-5785-b84d-1cc0d54d350c
     name: Medisana
 categories:
-  - 68cd9e5d-650c-550c-9d68-970245f06409
-classicId: '3279820'
+  - 8f8a7789-050f-539f-8e7e-25c160de23ad
+classicId: '3292170'
 classicProductId: '50089'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 59
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 214ac306-a668-4b3b-ab4f-dee498a2dfd2
+id: 553a0fe6-525c-4d10-bad9-feb5e138d7a4
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: medisana-logo
   type: logo
-offerId: 45d6cc12-2477-4a06-8ef6-e3bcc945fdc6
+offerId: 7c1af66c-8b1c-4f14-bb5f-51fdafd115c7
 price:
   cents: 2495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 60.9
 slug: medisana-psd-schaal-analoog
-soldOut: true
-start: '2026-06-16T22:00:00.000Z'
+soldOut: false
+start: '2026-06-23T22:00:00.000Z'
 title: Medisana PSD Analoge Personenweegschaal

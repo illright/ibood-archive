@@ -1,12 +1,12 @@
-_id: 6a292e419d63951f04d7093d
+_id: 6a3a487c06fd9b8507ade3f8
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 92335b60-0cd4-5c8d-bc2c-c82008dd5c71
-classicId: '3268676'
+  - 6b8ef5d7-ced8-56a0-8691-ce3ca7d0c8c9
+classicId: '3291981'
 classicProductId: '714485'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 9b0c6b4a-9098-5237-ac7e-9707526db2fd
+id: d40f6ba4-e065-4d5d-8a56-707531b53012
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5e698e25-5c7a-4011-b175-6473aeba50ac
-  priority: 0
-  slug: villeroy-boch-png-logo-0
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
   type: logo
-offerId: 2440e29b-9b91-5542-aa31-9c2272cf5f6b
+offerId: 2d184cb0-72f2-49a2-8eb1-5460dd0b7f6b
 price:
   cents: 6995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 161.4
 slug: 4x-villeroy-boch-flow-speiseteller-27-cm-tweede-keus
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 6x Villeroy & Boch Flow dinerbord | 27 cm | Tweede Keus

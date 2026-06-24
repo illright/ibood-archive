@@ -1,22 +1,22 @@
-_id: 6a2ac59a6e1ccc751136dbc9
+_id: 6a3a5583d45caace83c9a5a7
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 94a54ff9-7517-5cae-85ff-26ccbd71bc10
-classicId: '3273437'
+  - ca2220c8-5b6e-520e-be56-b7824218e9f6
+classicId: '3292834'
 classicProductId: '711839'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 40
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 046f099f-080d-51f6-bae2-b7e0bdee1bea
+id: 20b4d557-b481-480a-ba47-a6865c7f1661
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: trust-gxt723-ruya-fabric-chair-grey-product-9
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1993260
-  priority: 100
-  slug: trust-logo
-  type: logo
-offerId: ec3b13d8-e950-5720-9199-6250842abdb1
+offerId: f64f71b7-43a8-4237-9073-9eac40b1c8b5
 price:
   cents: 14900
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 249.99
 slug: trust-gxt-723-ruya
 soldOut: false
-start: '2026-06-17T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Trust GXT 723 Ruya Gamingstoel met stoffen bekleding

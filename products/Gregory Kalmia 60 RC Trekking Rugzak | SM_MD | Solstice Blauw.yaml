@@ -1,12 +1,12 @@
-_id: 6a2934ee9d63951f04d72377
+_id: 6a390fa012387f001ef71f16
 appOnly: false
 brand: Gregory
 brands:
   - id: 130860bd-950e-5cea-bf5a-45765860cd93
     name: Gregory
 categories:
-  - f5c65db3-aed6-5604-a0c1-ec1091d7458d
-classicId: '3268931'
+  - 289be318-ae6b-56bd-b604-9652e52037bf
+classicId: '3287692'
 classicProductId: '714515'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: bab68db3-48a5-56f9-b17b-0db59fa0d5e5
+id: 02b54a1f-3681-4f28-a1eb-cc78a6c92bf8
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/avif
-  id: 215dee91-cf64-42bb-adab-d4878748e4fa
-  priority: 0
-  slug: 1740550-avif-logo-0
+  extension: png
+  id: 1740550
+  priority: 100
+  slug: gregory-logo
   type: logo
-offerId: 6dce64e8-65e5-5b70-982d-9dd13c8752dc
+offerId: a3f4df5b-9627-468a-9187-d59596b5dfd0
 price:
   cents: 14995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 325
 slug: gregory-kalmia-60-rc-trekking-rugzak-sm-md-solstice-blauw
 soldOut: false
-start: '2026-06-18T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Gregory Kalmia 60 RC Trekking Rugzak | SM/MD | Solstice Blauw

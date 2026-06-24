@@ -1,12 +1,12 @@
-_id: 6a292e3f9d63951f04d70930
+_id: 6a3a4881961dc1375dc09719
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 92335b60-0cd4-5c8d-bc2c-c82008dd5c71
-classicId: '3268670'
+  - 6b8ef5d7-ced8-56a0-8691-ce3ca7d0c8c9
+classicId: '3291996'
 classicProductId: '714480'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: df382fa0-9194-5488-b173-7850d066b167
+id: 56b2b414-a1b8-4382-a8ea-3aa7eb72e698
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 440b4a6d-b1b5-4a0d-9440-43086ccc3e34
-  priority: 0
-  slug: villeroy-boch-png-logo-0
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
   type: logo
-offerId: e35aa889-0988-5079-a1ab-b076c1ca2f9d
+offerId: dc3f83e5-c05d-4dce-bf58-10eaf2fe331b
 price:
   cents: 4995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 119.6
 slug: 4x-villeroy-boch-newwave-broodborden-18x15cm-tweede-keus
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: 4x Villeroy & Boch NewWave Broodborden | 18 x 15 cm | Tweede Keus

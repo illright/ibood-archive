@@ -1,12 +1,12 @@
-_id: 6a292e489d63951f04d70967
+_id: 6a3a485013a37e138d1e40e2
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 92335b60-0cd4-5c8d-bc2c-c82008dd5c71
-classicId: '3268681'
+  - 6b8ef5d7-ced8-56a0-8691-ce3ca7d0c8c9
+classicId: '3291893'
 classicProductId: '714492'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 25
-end: '2026-06-23T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: a00c1c21-65b6-506e-afaf-70d24e141c2b
+id: 86ae65dd-b3bf-4271-a740-5207968f46ee
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 97a62bde-2f0d-4073-8939-d90cea646424
-  priority: 0
-  slug: villeroy-boch-png-logo-0
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
   type: logo
-offerId: a98853ac-8afc-593f-9242-db6823d139af
+offerId: 52795c3c-f69d-43cc-b2eb-28603913c940
 price:
   cents: 5495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 72.9
 slug: villeroy-boch-artesano-saladeschaal-28cm-tweede-keus
 soldOut: false
-start: '2026-06-16T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Villeroy & Boch Artesano Saladeschaal | 28 cm | Tweede Keus
