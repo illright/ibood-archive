@@ -1,12 +1,12 @@
-_id: 6a2a86539d63951f04e07a1d
+_id: 6a3b9292d3e0c07b34936afb
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - e006ad1b-58c1-54a3-bfaa-b778298fface
-classicId: '3271269'
+  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
+classicId: '3295325'
 classicProductId: '714765'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-06-24T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: f9ebbd50-b31a-5963-acd6-5bc37ed26c00
+id: 29c0f6c6-5bf5-48a9-86bd-9aad73c33f90
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 531540da-165a-433e-afd8-b36df9a86eb6
-  priority: 0
-  slug: nubikk-logo-png-logo-0
+  extension: png
+  id: 1662615
+  priority: 100
+  slug: nubikk-logo
   type: logo
-offerId: 277e5613-6f1a-5eef-948b-c4aabc0401d4
+offerId: ded343c7-622a-4ac3-bc0e-f82a162965ea
 price:
   cents: 7995
   currency: EUR
@@ -51,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 200
 slug: nubikk-vick-ryan-suede-sneaker-mist
-soldOut: false
-start: '2026-06-17T22:00:00.000Z'
+soldOut: true
+start: '2026-06-23T22:00:00.000Z'
 title: Nubikk Vick Ryan Suede Sneaker | Mist

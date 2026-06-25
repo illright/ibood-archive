@@ -19,13 +19,16 @@ freeDelivery: false
 id: 3eff7f46-247c-5885-8397-8aa1e17edcb9
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1979685
+  extension: image/png
+  id: 50b86797-6c60-42cd-b22a-044b7829f5d3-tr
   priority: 0
-  slug: solis-vac-prestige-maxi-vacumeermachine-5706
+  slug: solis-vac-prestige-maxi-5706-vakuumiergerat-jpg-product-1
   type: product
 logo:
   channels:

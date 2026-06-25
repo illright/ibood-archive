@@ -1,22 +1,22 @@
-_id: 6a3933355827014137cd5e07
+_id: 6a34f3b524b4ffff2d18ce3f
 appOnly: false
 brand: Cruyff
 brands:
   - id: ac6dc579-3d41-563b-bc45-22b7dda072a3
     name: Cruyff
 categories:
-  - 4cfd9ceb-9221-5b2e-a02b-6e687d61be0b
-classicId: '3290273'
-classicProductId: '664478'
+  - 71607c10-27b9-5a07-91b5-13ae39631bb2
+classicId: '3286030'
+classicProductId: '664470'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 68
+discount: 79
 end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: cca68709-9818-4ecb-994b-59c78b314d74
+id: fb44a058-fed8-44d4-bc02-cda2eb768808
 image:
   channels:
     - app
@@ -24,31 +24,32 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 99e59771-982b-42a6-b4fd-883a0fbdd93e
+  id: 3c4ef608-2d8a-447d-8865-34de95d58668
   priority: 0
-  slug: cruyff-20-png-product-2
+  slug: cruyff-21-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5d2a7a85-0a33-435b-a238-bc19051a85f5
-  priority: 0
-  slug: cruyff-png-logo-0
+  extension: png
+  id: 1560940
+  priority: 100
+  slug: cruyff-logo
   type: logo
-offerId: b1e98292-6e5d-444a-b140-7527c8c7154d
+offerId: 52eabea7-b721-45c8-97e7-dfaaa1354cb1
 price:
-  cents: 2995
+  cents: 2000
   currency: EUR
-  value: 29.95
+  value: 20
 referencePrice:
   cents: 9495
   currency: EUR
   value: 94.95
 slug: cruyff-sports-benavent-schoenen-heren
-soldOut: false
+soldOut: true
 start: '2026-06-23T22:00:00.000Z'
+title: Cruyff Sports Benavent Schoenen | Heren
+000Z'
 title: Cruyff Sports Benavent Schoenen | Heren

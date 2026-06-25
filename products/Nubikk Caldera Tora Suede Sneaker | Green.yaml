@@ -1,12 +1,12 @@
-_id: 6a2a85d69d63951f04e0771a
+_id: 6a3b914c40284ade0075570b
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - e006ad1b-58c1-54a3-bfaa-b778298fface
-classicId: '3271240'
+  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
+classicId: '3295153'
 classicProductId: '714722'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 61
-end: '2026-06-24T21:59:59.999Z'
+end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
-id: 3944b4d3-dc65-5c55-8591-66b5106b5dbb
+id: 5e0733ad-41d2-43cd-8b06-c70eab4f5d36
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: cd344c5d-ee0d-4618-a98b-b2f77af5cf9b
-  priority: 0
-  slug: nubikk-logo-png-logo-0
+  extension: png
+  id: 1662615
+  priority: 100
+  slug: nubikk-logo
   type: logo
-offerId: 57db6623-a9de-5855-9b5f-8fe2e02ebed6
+offerId: a8b14090-79f8-4346-b17a-3af81db9f5ca
 price:
   cents: 8995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 230
 slug: nubikk-caldera-tora-suede-sneaker-green
 soldOut: false
-start: '2026-06-17T22:00:00.000Z'
+start: '2026-06-23T22:00:00.000Z'
 title: Nubikk Caldera Tora Suede Sneaker | Green
