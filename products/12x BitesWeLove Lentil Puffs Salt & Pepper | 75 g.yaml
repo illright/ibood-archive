@@ -21,12 +21,12 @@ image:
   channels:
     - newsletter
     - all
-    - app
     - website
+    - app
   extension: image/png
-  id: dc8efec7-d8e4-44bc-a119-7add59ec20e1
-  priority: 0
-  slug: biteswelove-01-png-product-1
+  id: cdafb85c-721c-44b1-ba0b-fe99f1b732dd
+  priority: 1
+  slug: chops-png-product-1
   type: product
 logo:
   channels:
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 27.48
 slug: 12x-biteswelove-lentil-puffs-salt-pepper-75-g
-soldOut: false
+soldOut: true
 start: '2026-06-23T22:00:00.000Z'
 title: 12x BitesWeLove Lentil Puffs Salt & Pepper | 75 g

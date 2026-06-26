@@ -13,22 +13,19 @@ deliveryPrice:
   currency: EUR
   value: 59.95
 directCheckout: true
-discount: 42
+discount: 43
 end: '2026-06-30T21:59:59.999Z'
 freeDelivery: false
 id: 71f08229-8a28-4dba-8d71-a783b0a0fda6
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: f65c2e48-e7f9-4981-9139-3ff90a645787-tr
+  extension: jpg
+  id: 2079698
   priority: 0
-  slug: 2079697-avif-product-1
+  slug: haier-sbs-plain-door-90-cm-615-l
   type: product
 logo:
   channels:
@@ -42,9 +39,9 @@ logo:
   type: logo
 offerId: 80c12d0b-a7b9-4135-90c1-43dc6d5e3708
 price:
-  cents: 69900
+  cents: 67900
   currency: EUR
-  value: 699
+  value: 679
 referencePrice:
   cents: 119900
   currency: EUR
