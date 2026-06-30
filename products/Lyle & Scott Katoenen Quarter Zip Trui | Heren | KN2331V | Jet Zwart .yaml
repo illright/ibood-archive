@@ -1,22 +1,22 @@
-_id: 6a392d4c94d1fa507c632ace
+_id: 6a422e5d459a6227c3cc4549
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
-classicId: '3289859'
+  - a9a1c707-7ffd-533b-8f8c-42cf811079c4
+classicId: '3299933'
 classicProductId: '669099'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 64
-end: '2026-06-29T21:59:59.999Z'
+discount: 66
+end: '2026-07-06T21:59:59.999Z'
 freeDelivery: false
-id: 32a2ed66-e2e4-4049-b424-a4eab6e54603
+id: 0f6ff4c1-45fd-41a3-b129-58a3dcfff415
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1695004
-  priority: 100
-  slug: lyle-scott-logo
+    - all
+  extension: image/png
+  id: 44f28a57-833c-486f-9bf3-7b598bc117ec
+  priority: 0
+  slug: lyle-scott-png-logo-0
   type: logo
-offerId: bbe3b20f-1966-4e15-a6a6-dcbb11c589e8
+offerId: 7b4889c5-8659-4cb1-b898-c58ee97cbd52
 price:
-  cents: 3196
+  cents: 3036
   currency: EUR
-  value: 31.96
+  value: 30.36
 referencePrice:
   cents: 9000
   currency: EUR
   value: 90
 slug: lyle-scott-katoenen-quarter-zip-trui-kn2331v
 soldOut: false
-start: '2026-06-22T22:00:00.000Z'
+start: '2026-06-29T22:00:00.000Z'
 title: 'Lyle & Scott Katoenen Quarter Zip Trui | Heren | KN2331V | Jet Zwart '

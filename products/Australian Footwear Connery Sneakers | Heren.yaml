@@ -1,22 +1,22 @@
-_id: 6a392d941e42dfcad1ed7b5a
+_id: 6a422ede463020812080658b
 appOnly: false
 brand: Australian Footwear
 brands:
   - id: a18b82b2-333c-5432-836f-b8e31865a729
     name: Australian Footwear
 categories:
-  - 815874e7-9eba-5c28-8578-9c2ec932c6f9
-classicId: '3289937'
+  - a9a1c707-7ffd-533b-8f8c-42cf811079c4
+classicId: '3300107'
 classicProductId: '692081'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 67
-end: '2026-06-29T21:59:59.999Z'
+discount: 68
+end: '2026-07-06T21:59:59.999Z'
 freeDelivery: false
-id: 0ac28c1c-bb8e-4d54-8f89-3bdef3870e79
+id: ef16ca57-8357-46fe-b456-b05bde688a64
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: 41-blue-grey-tan-15-1639-02-skd-connery-blue-leather-men-australian-footwear-product-0
   type: product
-offerId: 0b2b04c2-80db-4f2a-a4e7-6b379ecf9bdb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1998839
+  priority: 100
+  slug: australian-footwear-logo
+  type: logo
+offerId: 99dba896-6f30-409d-a9e6-897d639342af
 price:
-  cents: 5995
+  cents: 5695
   currency: EUR
-  value: 59.95
+  value: 56.95
 referencePrice:
   cents: 17999
   currency: EUR
   value: 179.99
 slug: australian-footwear-connery-sneakers-heren
 soldOut: false
-start: '2026-06-22T22:00:00.000Z'
+start: '2026-06-29T22:00:00.000Z'
 title: Australian Footwear Connery Sneakers | Heren

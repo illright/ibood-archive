@@ -19,13 +19,14 @@ freeDelivery: false
 id: 8d2b4bd1-31e5-4731-a808-e5401181d3dc
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2199973
+    - all
+  extension: image/png
+  id: 3c96a2cd-8e99-4789-b399-0edba6aa5427
   priority: 0
-  slug: 3x-nivea-sonnenspray-kids-spf-50
+  slug: coloured-png-product-1
   type: product
 logo:
   channels:
