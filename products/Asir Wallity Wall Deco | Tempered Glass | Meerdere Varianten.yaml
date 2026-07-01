@@ -1,31 +1,32 @@
-_id: 6a3925599394c009f174f05f
+_id: 6a43b6362ccd204250331161
 appOnly: false
 brand: Wallity Wall Deco
 brands:
   - id: 5e65505e-ec18-524c-aa6a-0a92c574e5a0
     name: Wallity Wall Deco
 categories:
-  - 4efeeb5f-57d7-5c8b-b6b0-99b82a5188c4
-classicId: '3289041'
+  - 0272cf91-100b-54fd-bf28-3e733b574fee
+classicId: '3307668'
 classicProductId: '520107'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 81
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 961433c7-05b0-49bb-ac50-c0a1670702e6
+id: be8ae43c-91ea-49a6-bf49-e297a476d57b
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1786185
+    - all
+  extension: image/png
+  id: ea368455-8f7e-48c6-b973-cc815f0ed3dd
   priority: 0
-  slug: asir-wallity-wall-deco-tempered-glass
+  slug: 3-png-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: wallity-wall-deco-logo
   type: logo
-offerId: 4204a7b4-7524-447c-ac1b-689445e5ec61
+offerId: d4953b6f-d375-4407-9408-6e562f252930
 price:
   cents: 3995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 204.99
 slug: asir-wallity-wall-deco-tempered-glass
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Asir Wallity Wall Deco | Tempered Glass | Meerdere Varianten

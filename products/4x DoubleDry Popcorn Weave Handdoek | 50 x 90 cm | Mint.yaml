@@ -1,12 +1,12 @@
-_id: 6a2bc69b5952c81790ca821f
+_id: 6a43b65b5210c36103a4ff1e
 appOnly: false
 brand: Double Dry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: Double Dry
 categories:
-  - 75be1f92-79a4-504f-be2b-4e0a86f24743
-classicId: '3274099'
+  - 61e4f891-190c-5292-926f-740f0014c7c2
+classicId: '3307788'
 classicProductId: '714927'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 887c24b5-6b82-52a1-8c2f-6bfd8f5e5e81
+id: 86fc8b8f-14b8-44cc-824e-2138a7653cf9
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7415e549-fcab-487b-8669-9a5474cd5bdc
-  priority: 0
-  slug: doubledry-logo-png-logo-0
+  extension: png
+  id: 1973103
+  priority: 100
+  slug: doubledry-logo
   type: logo
-offerId: 3b1fd13e-e405-59ca-a73a-5c6379e5ce18
+offerId: 59e68311-7102-4024-89f4-15a6007f8924
 price:
   cents: 995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 22.95
 slug: 4x-doubledry-popcorn-weave-handtuch-50-x-90-cm-mint
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 4x DoubleDry Popcorn Weave Handdoek | 50 x 90 cm | Mint

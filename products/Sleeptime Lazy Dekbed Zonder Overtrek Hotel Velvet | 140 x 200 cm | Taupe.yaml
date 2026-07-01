@@ -1,12 +1,12 @@
-_id: 6a39235894d1fa507c632562
+_id: 6a43cbb5461324c2a50c5405
 appOnly: false
 brand: Sleeptime
 brands:
   - id: b48dcf3f-fb67-5daf-920d-c12d444b560e
     name: Sleeptime
 categories:
-  - 69849504-b11b-527c-b771-4e5b6fa83abb
-classicId: '3288617'
+  - e72fbb6c-932b-5363-8d96-e61bd765f0ec
+classicId: '3310090'
 classicProductId: '713748'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: bbacf7de-b8e9-495a-aab9-b3cd7c16dc96
+id: 9028b67a-75aa-4d13-b21d-dedb7fee0f45
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1524027
-  priority: 100
-  slug: sleeptime-logo
+    - all
+  extension: image/png
+  id: be4c3607-7230-46c1-8f41-e9e93da65d1f
+  priority: 0
+  slug: sleeptime-logo-png-logo-0
   type: logo
-offerId: 4e685939-b3f9-4304-b1cf-4315b68397b3
+offerId: 5440901f-73a1-4d00-9ac5-a392159db20a
 price:
   cents: 2495
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 39.95
 slug: sleeptime-lazy-dekbed-zonder-overtrek-hotel-velvet-140-x-200-cm-anthracite
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Sleeptime Lazy Dekbed Zonder Overtrek Hotel Velvet | 140 x 200 cm | Taupe

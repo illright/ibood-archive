@@ -1,22 +1,22 @@
-_id: 6a34f37eada3799126a8a893
+_id: 6a425fce8d88896b0441f820
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 71607c10-27b9-5a07-91b5-13ae39631bb2
-classicId: '3286048'
-classicProductId: '664725'
+  - d5cf0207-e800-567b-b397-e25c14c096e7
+classicId: '3301251'
+classicProductId: '664726'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 75
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: d5702f45-5b1c-4c27-a8d4-48cfd4d115d3
+id: 48398346-0ec9-4647-b85a-b4cc0f511f9f
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: fd23513a-2da9-48c9-acc3-475db78204ae
+  id: c9e64c81-08d9-4f4b-8a6c-4ab85966afce
   priority: 0
-  slug: cruyff-34-png-product-1
+  slug: cruyff-36-png-product-1
   type: product
-offerId: b1f7961a-549f-47c1-a6fc-8d201dd03313
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: bf1534e5-bbbd-4dab-b664-0aac454bbf67
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: d8ae112a-b550-47da-8318-b0b645e0c2b4
 price:
   cents: 500
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 19.95
 slug: cruyff-sports-chest-beanie-heren
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Cruyff Sports Chest Beanie | Heren

@@ -1,12 +1,12 @@
-_id: 6a34ff9b706e690604ade29a
+_id: 6a425fbc3659771b6f5f9c2d
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - dc96b954-809b-5b75-b84a-628b7c7957a5
-classicId: '3286126'
+  - b63cf63a-4867-5b49-a36a-704a7db3177a
+classicId: '3301220'
 classicProductId: '704326'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 2dde267c-114a-4282-8563-6e32aa0ee852
+id: 78f03aea-1461-4f64-8f7d-e8cf2e9471e3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9bc74b11-a742-4e6f-9796-107926c7ade2
-  priority: 0
-  slug: lacoste-gh0138-61-sport-shorts-aphylla-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: a25f66ae-bf4e-41a4-b8f4-050df7f0dabb
+offerId: cd147c96-52a5-450c-9c45-a11580a0b2f0
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 60
 slug: lacoste-gh0138-61-sport-shorts-aphylla
 soldOut: true
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Lacoste GH0138-61 Sport Shorts | Aphylla

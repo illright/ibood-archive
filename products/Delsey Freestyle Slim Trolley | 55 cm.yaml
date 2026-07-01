@@ -1,22 +1,22 @@
-_id: 6a2ff1c69d63951f04fc1496
+_id: 6a43bb17f1997b46e1072b11
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - d08c3226-fdd5-53df-b957-6a24ff9e0d16
-classicId: '3278341'
-classicProductId: '715085'
+  - c929a51c-66ec-5002-b492-2feaf1fa4f57
+classicId: '3309352'
+classicProductId: '715086'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 53
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-06T21:59:59.999Z'
 freeDelivery: false
-id: 92bfa5b8-cf6e-5ad6-8fb4-f2fb8c677a02
+id: 4e489032-6b30-4572-a13e-b75990cecb3f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: faeb6b73-de9a-43c7-a506-43439ffa73be
-  priority: 0
-  slug: delsey-logo-png-logo-0
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
   type: logo
-offerId: 174679ac-ff0a-5b07-83c5-a0c9f0edd032
+offerId: e7aed3fd-bb98-4184-991c-3707e640a805
 price:
   cents: 7495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 159
 slug: delsey-freestyle-slim-trolley-55-cm
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Delsey Freestyle Slim Trolley | 55 cm

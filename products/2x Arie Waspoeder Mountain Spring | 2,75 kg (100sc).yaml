@@ -1,12 +1,12 @@
-_id: 6a3a550952b2635362e9ae62
+_id: 6a43b3ed4a80ca670d2db9f7
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3292548'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3306068'
 classicProductId: '714050'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 69
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 76c743b8-eca3-4a18-a043-8c9d1106133f
+id: 2e611274-e6c5-4f11-8f22-93a103fd4fd7
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b9d7f6a4-358f-49dd-8beb-0dc64195fb97
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: e72c78a2-4ac3-4c32-a210-a565bf2e35c6
+offerId: 9d5cbe1a-74ee-45d2-b33d-c44648060cb1
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 64.45
 slug: 2x-arie-waspoeder-mountain-spring-2-75-kg-100sc
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 2x Arie Waspoeder Mountain Spring | 2,75 kg (100sc)

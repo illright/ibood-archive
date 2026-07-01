@@ -1,12 +1,12 @@
-_id: 6a3b9926df085985b58b46ac
+_id: 6a43a0d61563a6238195cb18
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3296572'
+  - e78a655a-f189-563f-8605-7955f75a130b
+classicId: '3305447'
 classicProductId: '702403'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: c6aae2d7-b08f-4e06-9e8a-2ae35d5212f2
+id: f10b9651-1a57-495e-b5cf-0a3fc80234cc
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e1b04471-124f-4432-8d64-b70242bfe38b
-  priority: 0
-  slug: petrol-logo-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 7ba8dfcd-f0cc-4bbe-ab7b-769127766812
+offerId: bac9dd9d-6cd6-48d4-8d9c-d941456952be
 price:
   cents: 3495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 59.99
 slug: petrol-industries-zip-hoodie-swh319-6180-oil-green
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Petrol Industries Zip Hoodie | SWH319-6180 | Oil Green

@@ -1,12 +1,12 @@
-_id: 6a3a56fa9940114d0e45fa60
+_id: 6a43b7765210c36103a500cd
 appOnly: false
 brand: Seepje
 brands:
   - id: 8e4589d7-a927-5109-814a-349cdfdcc53c
     name: Seepje
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3293432'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3308769'
 classicProductId: '714144'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 9ff56c2f-7120-40a4-95a4-58ee355a4d7f
+id: b859435d-3544-4646-9b5f-be89a97aef28
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: dc9cbc48-3f3f-47a8-81ed-af9a0d7eeb6c
-  priority: 0
-  slug: seepje-png-logo-0
+  extension: png
+  id: 1919137
+  priority: 100
+  slug: seepje-logo
   type: logo
-offerId: 84596c4b-30fb-47a6-9abc-2e6e7d9ed8d4
+offerId: 51a32196-1734-492e-a967-fb3a5cd05f06
 price:
   cents: 1195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 29.9
 slug: 10x-seepje-handzeep-navulling-lavendel-met-tonka-300-ml
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 10x Seepje Handzeep Navulling Lavendel met Tonka | 300 ml

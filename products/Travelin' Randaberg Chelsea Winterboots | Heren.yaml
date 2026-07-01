@@ -1,22 +1,22 @@
-_id: 6a310ab2b20a7e8202da02d0
+_id: 6a425fac8a7f31a455550397
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 87d77009-28c4-5a1b-86a3-6a6b8994591b
-classicId: '3279137'
+  - d5cf0207-e800-567b-b397-e25c14c096e7
+classicId: '3301189'
 classicProductId: '685603'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 79
-end: '2026-06-30T21:59:59.000Z'
+directCheckout: true
+discount: 77
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 67204cc7-a826-42b0-8d04-752c80cffe49
+id: 275f99c0-521d-41e4-a652-5fabf1409b04
 image:
   channels:
     - app
@@ -40,16 +40,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: cda0072f-5c9b-49ba-afbc-a118c47908e7
+offerId: 011cf49d-5db2-4ba4-9196-19080c8eb29a
 price:
-  cents: 5000
+  cents: 5500
   currency: EUR
-  value: 50
+  value: 55
 referencePrice:
   cents: 23995
   currency: EUR
   value: 239.95
 slug: travelin-randaberg-chelsea-winterboots-heren
-soldOut: true
-start: '2026-06-16T22:00:00.000Z'
+soldOut: false
+start: '2026-06-30T22:00:00.000Z'
 title: Travelin' Randaberg Chelsea Winterboots | Heren

@@ -1,12 +1,12 @@
-_id: 6a3a555e13a37e138d1e43e7
+_id: 6a43b44c3a4e8336334ea0ab
 appOnly: false
 brand: Dove
 brands:
   - id: 1241bdda-5cdf-5f76-9f4d-74883d6cc67a
     name: Dove
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3292743'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3306240'
 classicProductId: '715157'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: b8dfd634-78f4-44ed-858b-2bfe2b2e4159
+id: b38d94ba-78ed-41e5-93a6-27a3f1c52987
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 92c7cab4-3f36-417c-b100-044319cd5765
-  priority: 0
-  slug: dove-logo-png-logo-0
+  extension: png
+  id: 1731695
+  priority: 100
+  slug: dove-logo
   type: logo
-offerId: 52915786-2da6-4278-93e5-37c1f867b089
+offerId: 3e609d3f-8454-4ce3-8864-8887c26b30dc
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 69.48
 slug: 12x-dove-advanced-care-deodorant-roller-coconut-scent-50-ml
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 12x Dove Advanced Care Deodorant Roller Coconut Scent | 50 ml

@@ -1,12 +1,12 @@
-_id: 6a39246694d1fa507c632657
+_id: 6a43b61d463020812080867c
 appOnly: false
 brand: Dreamhouse
 brands:
   - id: f603b8a3-86da-5c59-a6ca-bd52f50a1da6
     name: Dreamhouse
 categories:
-  - 75be1f92-79a4-504f-be2b-4e0a86f24743
-classicId: '3288856'
+  - 61e4f891-190c-5292-926f-740f0014c7c2
+classicId: '3307578'
 classicProductId: '709509'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 32
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: f0fff8e3-5170-4f90-93fd-fdf03f0d0b57
+id: 20fd7fa7-3d46-4537-bf13-6fa9ee30d00b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 017338e0-45d4-4505-92d5-a905f0d1d3e6
-  priority: 0
-  slug: dreamhouse-png-logo-0
+  extension: png
+  id: 1696825
+  priority: 100
+  slug: dreamhouse-logo
   type: logo
-offerId: edec4f09-21c5-4edc-b42b-77d023c4e58a
+offerId: d6b7ee43-0e74-45aa-b3d5-890643b28c0d
 price:
   cents: 1695
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 24.95
 slug: dbo-dh-furtails-sand-140x200-220
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Dreamhouse Furtails Sand Dekbedovertrek 140 x 200/220 cm

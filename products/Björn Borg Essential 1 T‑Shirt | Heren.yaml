@@ -1,12 +1,12 @@
-_id: 6a3932d6e6f209df0b336485
+_id: 6a425f5f4630208120806ab2
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 6e0fd3cf-4b5d-581b-82a9-c5c02dddac75
-classicId: '3290186'
+  - b63cf63a-4867-5b49-a36a-704a7db3177a
+classicId: '3301067'
 classicProductId: '694536'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 48
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: e77f2650-81c0-4253-9abd-b0c5d32d0cc1
+id: 4415bbd3-7183-4b02-9f2e-47c347ec7d32
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2030715
-  priority: 100
-  slug: bjorn-borg-logo
+    - all
+  extension: image/png
+  id: 38a58821-975b-43c8-974d-8038d42469e3
+  priority: 0
+  slug: bjorn-borg-png-logo-0
   type: logo
-offerId: 47d215ea-46c1-4ad1-b9b2-2f9f0e89d2b9
+offerId: e2217fcf-5edb-46bf-ba73-c0c8afa7f7e7
 price:
   cents: 1295
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 24.95
 slug: bjorn-borg-essential-1-t-shirt-heren
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Björn Borg Essential 1 T‑Shirt | Heren

@@ -1,22 +1,22 @@
-_id: 6a325c825a3b57b56df30985
+_id: 6a43bafcc96587e8bac18e8c
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - d08c3226-fdd5-53df-b957-6a24ff9e0d16
-classicId: '3283197'
+  - c929a51c-66ec-5002-b492-2feaf1fa4f57
+classicId: '3309338'
 classicProductId: '715092'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 65
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-06T21:59:59.999Z'
 freeDelivery: false
-id: b4e737af-d258-5bca-889d-dc2ba8418b1e
+id: 16ac5dbd-c747-4a76-ac46-e142880dcab0
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 80b81463-8748-44f0-9b8e-ffa23b8e2bf5
-  priority: 0
-  slug: delsey-logo-png-logo-0
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
   type: logo
-offerId: 568dd39e-5fa3-5027-b7ec-af06c017e277
+offerId: 11f523ed-4f0d-4943-ad86-8ca567682338
 price:
   cents: 24995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 719
 slug: delsey-rempart-trolley-set-55-80-cm
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Delsey Rempart Trolleyset | 55 & 80 cm

@@ -1,12 +1,12 @@
-_id: 6a392522183da89a654d2cb3
+_id: 6a426ffc4630208120806d42
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 4efeeb5f-57d7-5c8b-b6b0-99b82a5188c4
-classicId: '3288984'
+  - 8eb19f70-ec33-5a3a-80b7-a9e610e83045
+classicId: '3301592'
 classicProductId: '713335'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: e668777b-ce94-462a-a064-d1a021efe457
+id: b44f9e59-ddea-4048-81da-0c0ac56d540d
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: karlsson-wall-clock-open-gear-mouse-grey-w-bright-orange-ka6093gy-product-1
   type: product
-offerId: d22a0dc5-5406-4d86-b3f7-c5bac1d87d95
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1566233
+  priority: 100
+  slug: karlsson-logo
+  type: logo
+offerId: 28814993-e4fc-4274-b25f-263a38dae733
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 45.95
 slug: karlsson-open-gear-wandklok-jungle-green
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Karlsson Open Gear Wandklok | Mouse Grey

@@ -1,22 +1,22 @@
-_id: 6a2ff1c8b20a7e8202d9eab7
+_id: 6a43bb1ee17995708ed9e4ef
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - d08c3226-fdd5-53df-b957-6a24ff9e0d16
-classicId: '3278343'
-classicProductId: '715088'
+  - c929a51c-66ec-5002-b492-2feaf1fa4f57
+classicId: '3309354'
+classicProductId: '715089'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 53
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-06T21:59:59.999Z'
 freeDelivery: false
-id: 8f7488a2-0dc4-5985-84be-dfca92f23bea
+id: 51719140-0d55-4896-8c28-5beb91292ef4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4b146d0e-dc8c-466e-b5ee-75ebf55fb73c
-  priority: 0
-  slug: delsey-logo-png-logo-0
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
   type: logo
-offerId: c7e1ed7a-7386-5944-bda4-46c7dc6930f8
+offerId: a262516c-27d0-4f2d-9747-97b5480f9aa9
 price:
   cents: 8495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 179
 slug: delsey-freestyle-trolley-66-cm
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Delsey Freestyle Trolley | 66 cm

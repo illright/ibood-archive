@@ -1,12 +1,12 @@
-_id: 6a3b92057324b8e6e354f88b
+_id: 6a43bb8ab52733d26362c126
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3295226'
+  - 8e61367e-e1e2-5351-b10a-485cc18555b7
+classicId: '3309462'
 classicProductId: '695898'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 4a6d05bc-a64f-4c64-b21d-d2fd27495d1d
+id: 47100e2d-9eca-4832-ad0f-148e553eae49
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1734464
-  priority: 100
-  slug: clarks-logo
+    - all
+  extension: image/png
+  id: 254aa211-a85d-4f32-a4d3-b8255aa80c00
+  priority: 0
+  slug: clarks-png-logo-0
   type: logo
-offerId: 4d4c3002-8d43-47ed-8254-0907be0c766d
+offerId: 2d38213e-6990-4585-b664-52574e2d5fbb
 price:
   cents: 5995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 100
 slug: clarks-lockford-lace-sneakers-heren
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Clarks Lockford Lace Sneakers | Heren

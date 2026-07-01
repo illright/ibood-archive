@@ -1,12 +1,12 @@
-_id: 6a3a56c03fd3737355bd7380
+_id: 6a43b6aa5210c36103a4ffd8
 appOnly: false
 brand: Nivea Sun
 brands:
   - id: a2170227-a9c4-50d7-9452-5dc927159020
     name: Nivea Sun
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3293292'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3308276'
 classicProductId: '714532'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: c9263520-1a8d-4ddd-869b-1cd099be8f52
+id: 5f44bae8-45db-4546-bcf5-ca6ee80178d9
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0c976cd9-968c-4a49-a9f5-b81051831b33
-  priority: 101
-  slug: nivea-sun-logo-101
+  extension: png
+  id: 1779885
+  priority: 100
+  slug: 3x-nivea-bronze-after-sun-lotion-200-ml
   type: logo
-offerId: 27f81f56-3687-4e65-a8cc-313731f05c8e
+offerId: 61bb7645-6958-4aad-9dd9-252d95f45e85
 price:
   cents: 1795
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 52.47
 slug: 3x-protect-bronze-after-sun-200-ml
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 3x Nivea Sun Protect & Bronze After Sun Lotion | 200 ml

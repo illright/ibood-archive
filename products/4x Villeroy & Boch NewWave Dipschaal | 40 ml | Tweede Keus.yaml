@@ -1,12 +1,12 @@
-_id: 6a3a488c961dc1375dc0972e
+_id: 6a438d35463020812080764e
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 6b8ef5d7-ced8-56a0-8691-ce3ca7d0c8c9
-classicId: '3292018'
+  - 3d8a3803-bdff-5870-ad0a-9994b807972f
+classicId: '3303728'
 classicProductId: '714484'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: a1416187-09b6-430c-a893-652c2c3f0267
+id: 3f9672b7-be7d-42e7-ab9a-139bf5d3b95f
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5fd6ff11-dfc3-471e-8a5c-bb88ce396eb3
-  priority: 0
-  slug: villeroy-boch-png-logo-0
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
   type: logo
-offerId: 17e0ad81-59f6-493e-9aec-65306fcd17d8
+offerId: 5a812d59-c34f-4dfe-a7bd-fa32a79ed054
 price:
   cents: 2195
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 51.6
 slug: 4x-villeroy-boch-newwave-dipschale-40-ml-tweede-keus
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 4x Villeroy & Boch NewWave Dipschaal | 40 ml | Tweede Keus

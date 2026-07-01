@@ -1,12 +1,12 @@
-_id: 6a3932fa492eb59c4df1cc4c
+_id: 6a425ed41563a6238195c380
 appOnly: false
 brand: SmartRope
 brands:
   - id: 1927f12f-1b1e-5841-ac09-d7a5805cdaee
     name: SmartRope
 categories:
-  - 4cfd9ceb-9221-5b2e-a02b-6e687d61be0b
-classicId: '3290230'
+  - e8e97ac6-0b61-5767-bf9e-95353f45abf3
+classicId: '3300905'
 classicProductId: '257208'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 58
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 0d288a90-a044-4848-a4dc-2b2aec4784f6
+id: e906356a-2ad8-4065-ae71-d85bba3aec54
 image:
   channels:
     - website
@@ -25,9 +25,19 @@ image:
   extension: jpg
   id: 1157968
   priority: 0
-  slug: smartrope-rookie
+  slug: smartrope-rookie-springseil-app
   type: product
-offerId: 8b276553-776d-4540-9af4-92eff03c8da3
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 741354
+  priority: 100
+  slug: smartrope-rookie-springseil-app
+  type: logo
+offerId: 1c311578-aa0b-441f-a21f-f0623b46a07b
 price:
   cents: 2495
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 59.95
 slug: smartrope-rookie
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: SmartRope Rookie Slim Springtouw

@@ -1,12 +1,12 @@
-_id: 6a2bc6ea99d550126b979c4b
+_id: 6a43b6ea2ccd20425033120e
 appOnly: false
 brand: Double Dry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: Double Dry
 categories:
-  - 75be1f92-79a4-504f-be2b-4e0a86f24743
-classicId: '3274107'
+  - 61e4f891-190c-5292-926f-740f0014c7c2
+classicId: '3308351'
 classicProductId: '714935'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 8a6d3c03-0f2d-52a7-a428-7ae0c0d52c2a
+id: d108ff16-a5fa-4ef5-b47b-6b5f3138d28b
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4ad4e2b1-9ff2-41dd-9f67-1d23c630ed64
-  priority: 0
-  slug: doubledry-logo-png-logo-0
+  extension: png
+  id: 1973103
+  priority: 100
+  slug: doubledry-logo
   type: logo
-offerId: dcabf5cd-0651-5b6c-8f20-8e8547e4c51d
+offerId: 4f0d0631-58a3-4c74-b1bb-2b2554d1ab15
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 39.95
 slug: 4x-doubledry-popcorn-weave-handdoek-70-x-140-cm-grijs
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 4x DoubleDry Popcorn Weave Handdoek | 70 x 140 cm | Grijs

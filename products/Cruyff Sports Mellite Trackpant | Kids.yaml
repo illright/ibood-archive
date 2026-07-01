@@ -1,12 +1,12 @@
-_id: 6a34f35724b4ffff2d18ce15
+_id: 6a425fb1c446c04afbf3b8b0
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - 71607c10-27b9-5a07-91b5-13ae39631bb2
-classicId: '3286045'
+  - d5cf0207-e800-567b-b397-e25c14c096e7
+classicId: '3301214'
 classicProductId: '664696'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 65
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: a3ff0b4c-d45e-4e67-bde3-39fa7286d94e
+id: c883fb9d-69ff-4485-b200-a8bcffa67d2d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: cruyff-63-png-product-1
   type: product
-offerId: 50714f74-ddce-4ae0-92b2-7013984a3598
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 1fcb1116-fd7e-4cf0-9c80-4815c896b687
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: e4adc059-987a-4a80-a159-833f4a50ac14
 price:
   cents: 2000
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 57.95
 slug: cruyff-sports-mellite-trackpant-kids
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Cruyff Sports Mellite Trackpant | Kids

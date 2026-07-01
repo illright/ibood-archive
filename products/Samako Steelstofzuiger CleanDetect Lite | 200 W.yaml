@@ -1,12 +1,12 @@
-_id: 6a3a487a9f5508159174b9cb
+_id: 6a438da399041f4f1de5747a
 appOnly: false
 brand: Samako
 brands:
   - id: 9080f5fb-0d7a-5dee-8e07-fa0b2b592f84
     name: Samako
 categories:
-  - 8f8a7789-050f-539f-8e7e-25c160de23ad
-classicId: '3291989'
+  - d24320da-e09c-56a4-af17-5c1cfa43c3d0
+classicId: '3303986'
 classicProductId: '708579'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: c418e7c4-a210-4eab-9b7f-afca57d5f009
+id: 8feaa08c-2cc8-4845-91c4-02b6d2ed4cc8
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: samakojklj-png-product-1
   type: product
-offerId: 3663541d-3dac-49b7-aeb0-9ae353942ae3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c216ee43-283e-4ca5-b012-d1680dddecd1
+  priority: 0
+  slug: samako-logo-0
+  type: logo
+offerId: 9131e8ad-16b3-44b3-8b62-5314f99a4ee9
 price:
   cents: 7495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 258
 slug: samako-steelstofzuiger-cleandetect-lite-200-w
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Samako Steelstofzuiger CleanDetect Lite | 200 W

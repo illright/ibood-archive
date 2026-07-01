@@ -1,22 +1,22 @@
-_id: 6a3b993240284ade0075670a
+_id: 6a43a0d64630208120807e34
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3296587'
+  - e78a655a-f189-563f-8605-7955f75a130b
+classicId: '3305456'
 classicProductId: '702384'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 38
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 4e6c5b39-98e2-4f66-a863-4785fae6647e
+id: 92658bd6-2e4d-428f-9946-8a3ef93e0a96
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: a63f902f-f535-4b27-9ac1-3ca94426db1f
+offerId: 4a9589a3-969a-4082-82ba-e30faae43efd
 price:
   cents: 2495
   currency: EUR
@@ -51,5 +51,5 @@ referencePrice:
   value: 39.99
 slug: petrol-industries-polo-pol902-0112-seashell
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Petrol Industries Polo | POL902-0112 | Seashell

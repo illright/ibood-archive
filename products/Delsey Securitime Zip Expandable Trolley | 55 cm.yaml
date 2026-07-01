@@ -1,12 +1,12 @@
-_id: 6a2ff2519d63951f04fc157e
+_id: 6a43bb502ccd204250331422
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - d08c3226-fdd5-53df-b957-6a24ff9e0d16
-classicId: '3278355'
+  - c929a51c-66ec-5002-b492-2feaf1fa4f57
+classicId: '3309360'
 classicProductId: '715094'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 57
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-06T21:59:59.999Z'
 freeDelivery: false
-id: d0a7f9d3-bb9a-58e6-b1b7-051de590d685
+id: 49648a50-c787-44d0-88e9-015c1ac011d0
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 36183684-af83-4217-ba45-e30061cb142d
-  priority: 0
-  slug: delsey-logo-png-logo-0
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
   type: logo
-offerId: b13baee9-595d-5727-a1e5-2007a9df656b
+offerId: e2ef660e-e312-4a79-9a7f-943a1f8c3557
 price:
   cents: 12995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 299
 slug: delsey-securitime-zip-expandable-trolley-55-cm
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Delsey Securitime Zip Expandable Trolley | 55 cm

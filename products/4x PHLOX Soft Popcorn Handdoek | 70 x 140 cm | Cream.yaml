@@ -1,12 +1,12 @@
-_id: 6a2bbc9eb044568948dfc7de
+_id: 6a43b6815210c36103a4ff84
 appOnly: false
 brand: Phlox
 brands:
   - id: 1cbd5816-2f2d-52b8-95a2-7dda5c905c3d
     name: Phlox
 categories:
-  - 75be1f92-79a4-504f-be2b-4e0a86f24743
-classicId: '3274045'
+  - 61e4f891-190c-5292-926f-740f0014c7c2
+classicId: '3308087'
 classicProductId: '712655'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 908a5cf9-d655-50eb-ad7f-7351e6102945
+id: d71e6742-dc06-49e5-b309-55816f37da8e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 16a255fd-6426-4ed7-b755-6f4c209a171a
-  priority: 0
-  slug: sypialnia-azienka-i-kuchnia-png-logo-0
+  extension: png
+  id: 2015156
+  priority: 100
+  slug: phlox-logo
   type: logo
-offerId: a6f1c74d-4e77-5325-b9b8-d49ac7f46cc3
+offerId: dc21501a-1c7b-4d7b-9531-8f9cfba2f370
 price:
   cents: 2195
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 39.95
 slug: 4x-phlox-soft-popcorn-handdoek-70-x-140-cm-white
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 4x PHLOX Soft Popcorn Handdoek | 70 x 140 cm | Cream

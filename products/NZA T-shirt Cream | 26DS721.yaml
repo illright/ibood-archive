@@ -1,12 +1,12 @@
-_id: 6a3b97af40284ade00756438
+_id: 6a43a023610e28c8ebd8645b
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3296219'
+  - e78a655a-f189-563f-8605-7955f75a130b
+classicId: '3305265'
 classicProductId: '707646'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 3470091f-c0c1-4399-8fd2-f63dd2c9184b
+id: f80348f0-714c-4e12-82bd-fdc06ace3d25
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1634994
-  priority: 100
-  slug: nza-logo
+    - all
+  extension: image/png
+  id: ce62303d-eb96-48ad-8415-38c1feb26392
+  priority: 0
+  slug: new-zealand-auckland-png-logo-0
   type: logo
-offerId: eb2242cd-5c8b-4439-b0b4-a113c64d7c83
+offerId: ce726ed5-c17b-42e2-acd8-618d45a0d64c
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 49.99
 slug: nza-t-shirt-cream-26ds721
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: NZA T-shirt Cream | 26DS721

@@ -1,12 +1,12 @@
-_id: 6a3b8d95b30102a760039673
+_id: 6a43b4cd5eae52d8cdcb5eb8
 appOnly: false
 brand: Head & Shoulders
 brands:
   - id: 93c0c375-0484-54bf-86e6-712b73798f88
     name: Head & Shoulders
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3295094'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3306506'
 classicProductId: '714055'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 30ebd141-ef2a-4ab6-81e5-3419d3e7e42f
+id: 73ef926d-27a8-4130-ade0-5f9f30bece99
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 72ed9d21-5169-4d0e-8bfa-534ecbadc8df
-  priority: 0
-  slug: head-shoulders-png-logo-0
+  extension: png
+  id: 1854470
+  priority: 100
+  slug: head-and-shoulders-logo
   type: logo
-offerId: 99c5659a-ac8a-4c9a-be82-ac0ba44d2442
+offerId: 368551e0-ecbd-49a0-a5b4-ad0b0f09d8fb
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 41.94
 slug: 6x-head-shoulders-2-in-1-smooth-silky-shampoo-330-ml
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 6x Head & Shoulders 2-in-1 Smooth & Silky Shampoo | 330 ml

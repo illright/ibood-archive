@@ -1,22 +1,22 @@
-_id: 6a3b9940df085985b58b4705
+_id: 6a43a0e54630208120807e53
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3296603'
+  - e78a655a-f189-563f-8605-7955f75a130b
+classicId: '3305470'
 classicProductId: '702370'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 33
-end: '2026-06-30T21:59:59.999Z'
+discount: 50
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 562bb8ee-6e9f-46ef-a272-5ac767e86f90
+id: 757097c5-5e8c-47b4-ae38-8b183394f704
 image:
   channels:
     - app
@@ -32,25 +32,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e7f1cd2f-d0f8-4959-b748-3b19d8c3d822
-  priority: 0
-  slug: petrol-logo-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 6c2179ce-b85a-4eff-8d94-c67add51913e
+offerId: aebe756b-36b8-457a-8e77-b3afecf769b2
 price:
-  cents: 1995
+  cents: 1495
   currency: EUR
-  value: 19.95
+  value: 14.95
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: petrol-industries-classic-t-shirt-tsr603-6108-oil-green
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Petrol Industries Classic T-shirt | TSR603-6108 | Oil Green

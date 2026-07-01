@@ -1,0 +1,53 @@
+_id: 6a3940035827014137cd6172
+appOnly: false
+brand: Pringles
+brands:
+  - id: 5f9015ca-9864-5db7-98f4-1a5b9303da0f
+    name: Pringles
+categories:
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3291326'
+classicProductId: '716835'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 25
+end: '2026-07-07T21:59:59.999Z'
+freeDelivery: false
+id: d9e590fb-a759-5d14-9f74-973bb2f12875
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 36f8eeda-cf29-454f-bd25-d08f078d4a97
+  priority: 0
+  slug: main-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1867807
+  priority: 100
+  slug: pringles-logo
+  type: logo
+offerId: 7c441fe4-2f71-503e-80fd-e4c1ceedac37
+price:
+  cents: 1795
+  currency: EUR
+  value: 17.95
+referencePrice:
+  cents: 2400
+  currency: EUR
+  value: 24
+slug: 24x-pringles-chips-paprika-40-g
+soldOut: false
+start: '2026-06-30T22:00:00.000Z'
+title: 24x Pringles Chips Paprika | 40 g

@@ -1,12 +1,12 @@
-_id: 6a3a56fc4b84448ca67e1a05
+_id: 6a43b77546302081208088b4
 appOnly: false
 brand: Seepje
 brands:
   - id: 8e4589d7-a927-5109-814a-349cdfdcc53c
     name: Seepje
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3293419'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3308775'
 classicProductId: '714146'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 50
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 2b3d455e-d8e9-4e88-992b-031638552c7e
+id: 4b8366b6-6910-47ec-ad1d-d84ae0c5c499
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a05430b4-d3f8-41f9-b214-c30598e1c0d6
-  priority: 0
-  slug: seepje-png-logo-0
+  extension: png
+  id: 1919137
+  priority: 100
+  slug: seepje-logo
   type: logo
-offerId: 44a7db21-0422-4b0e-b102-65285aaad45b
+offerId: 5857ac15-68b6-420f-b55f-40a06cf3103d
 price:
   cents: 1195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 23.97
 slug: 3x-seepje-shampoo-bar-eikenmos-oranjebloesem-80-g
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 3x Seepje Shampoo Bar Eikenmos & Oranjebloesem | 80 g

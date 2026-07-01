@@ -1,12 +1,12 @@
-_id: 6a3b93ebdf085985b58b437a
+_id: 6a439db3fbcd5b967831438f
 appOnly: false
 brand: Casual Friday
 brands:
   - id: 0f78377e-f41b-5a94-8052-f189d92c3786
     name: Casual Friday
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3295453'
+  - 8bb37ffc-6d81-5be3-9a5a-6824817ea5c5
+classicId: '3304434'
 classicProductId: '702748'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 61
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: cac5c983-7538-4dc4-bf96-954143c9bf15
+id: 3e49a7f2-2c1c-4f5c-ba5c-102ee332cebe
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: w33-l34-denim-bleach-blue-20504344-200433-cfkarup-5-pocket-regular-jeans-casual-friday-product-7
   type: product
-offerId: 2ab1edd2-1c6f-4ad7-8c24-28824f2d86f8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a478c4ab-cb05-434d-8e02-d3b84ac7be2b
+  priority: 0
+  slug: casual-friday-logo-0
+  type: logo
+offerId: b61dea6c-a8ac-411b-ac31-acc00defaf3f
 price:
   cents: 3495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 89.95
 slug: casual-friday-karup-jeans-denim-bleach-blue
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Casual Friday Karup Jeans | Denim Bleach Blue | Heren

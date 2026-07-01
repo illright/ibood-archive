@@ -1,22 +1,22 @@
-_id: 6a3a55cfd45caace83c9a605
+_id: 6a43b4e85210c36103a4f999
 appOnly: false
 brand: Kleenex
 brands:
   - id: f7eb8da5-89bc-5340-b741-33e6fac24671
     name: Kleenex
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3292952'
-classicProductId: '698257'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3306626'
+classicProductId: '443546'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 57
-end: '2026-06-30T21:59:59.999Z'
+discount: 50
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: d26829b3-b33f-4907-8f1e-310a471d7217
+id: d8ce1390-8737-4ce3-95b4-a3fe027850d2
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8eef8ebc-7c17-464f-8110-a41507c5b6da
+  id: 737d57f4-ba3e-4681-b4b6-ede2b3b732f0
   priority: 0
-  slug: kleenex-01-png-product-1
+  slug: kleenex-02-png-product-2
   type: product
 logo:
   channels:
@@ -38,17 +38,16 @@ logo:
   priority: 100
   slug: kleenex-logo
   type: logo
-offerId: 050eb6f8-398b-40b6-a36b-9c1e20d9ab7c
+offerId: 7e8dd0b3-e69a-4f6e-af22-8ee8f8e0cd10
 price:
-  cents: 1195
+  cents: 1395
   currency: EUR
-  value: 11.95
+  value: 13.95
 referencePrice:
   cents: 2789
   currency: EUR
   value: 27.89
 slug: 12x-72-kleenex-tissues-original-864-stuks
-soldOut: true
-start: '2026-06-23T22:00:00.000Z'
+soldOut: false
+start: '2026-06-30T22:00:00.000Z'
 title: 12x 72 Kleenex Tissues Original | 864 stuks
-

@@ -1,12 +1,12 @@
-_id: 6a3a56fd7d2917bb131bad95
+_id: 6a43b7722ccd2042503312d0
 appOnly: false
 brand: Seepje
 brands:
   - id: 8e4589d7-a927-5109-814a-349cdfdcc53c
     name: Seepje
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3293429'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3308763'
 classicProductId: '714148'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: f8a8c21f-cfd7-4e28-840e-4c12198a4371
+id: f62781d8-b69c-4cba-8511-b5d166e171c2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fa320fd3-47c6-4a3e-a5fb-721afd124c63
-  priority: 0
-  slug: seepje-png-logo-0
+  extension: png
+  id: 1919137
+  priority: 100
+  slug: seepje-logo
   type: logo
-offerId: eec45d15-3854-4d41-baef-d30305d5aa40
+offerId: 0578202c-ddae-4199-9fcf-0c6cad68aeed
 price:
   cents: 1695
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 26.94
 slug: 6x-seepje-wasverzachter-sandelhout-perzik-750-ml
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 6x Seepje Wasverzachter Sandelhout & Perzik | 750 ml (180sc)

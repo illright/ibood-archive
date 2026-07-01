@@ -1,12 +1,12 @@
-_id: 6a33f4537344415725bf8e19
+_id: 6a43b52d5210c36103a4fa1b
 appOnly: false
 brand: Lenor
 brands:
   - id: e07bbf59-7c5e-502f-acab-fa2bb6bdfa34
     name: Lenor
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3284863'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3306780'
 classicProductId: '715854'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: ccf4b7af-c14d-5125-94c2-bef0377d3bea
+id: 0cd7be10-d9db-4aaa-9028-65dc1744cc92
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9d3970f4-5ace-4ec3-9dc3-76aea2201b01
-  priority: 0
-  slug: lenor-png-logo-0
+  extension: png
+  id: 1526341
+  priority: 100
+  slug: lenor-logo
   type: logo
-offerId: fb6e92c1-11a2-5ac8-b909-91f8b7f89062
+offerId: 6545898b-d1e2-41e1-826a-3098650f0ad9
 price:
   cents: 5495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 149.7
 slug: 6x-lenor-unstoppables-spring-awakening-495-g
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 6x Lenor Unstoppables Spring Awakening | 495 g

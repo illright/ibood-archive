@@ -1,12 +1,12 @@
-_id: 6a3a56f713a37e138d1e472c
+_id: 6a43b75b1563a6238195cfd6
 appOnly: false
 brand: Rexona
 brands:
   - id: 16a06a68-db15-5296-b4b7-399f250490ac
     name: Rexona
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3293413'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3308649'
 classicProductId: '465124'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: a8467c78-fe79-4a3f-967c-4f8b0419dc6b
+id: c2abbdc9-14f9-449c-82fd-1d7605aebe24
 image:
   channels:
     - website
@@ -29,16 +29,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0bb1dc2e-1cc5-4310-ae82-f4a4efa70e31
-  priority: 0
-  slug: rexona-png-logo-1
+  extension: png
+  id: 1897086
+  priority: 100
+  slug: rexona-logo
   type: logo
-offerId: 4a5cb183-b8a4-461b-a9e1-cce4ec1d2312
+offerId: 9384c00a-8477-45dd-b2fa-eebda24a295f
 price:
   cents: 1495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 29.94
 slug: 6x-rexona-m-deodorant-invisible-ice-150-ml
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 6x Rexona M Deodorant Invisible Ice | 150 ml

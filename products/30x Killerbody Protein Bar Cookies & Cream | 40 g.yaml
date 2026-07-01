@@ -1,22 +1,22 @@
-_id: 6a3a582a4b84448ca67e1ad2
+_id: 6a3cddbcd8517802ce4c7ecc
 appOnly: false
 brand: Killerbody
 brands:
   - id: bbd10e76-3533-5624-acb0-ed15b331c103
     name: Killerbody
 categories:
-  - 99508ac8-4649-5613-93a4-4b9e75d6c638
-classicId: '3293730'
-classicProductId: '714037'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3298042'
+classicProductId: '717462'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 73692036-b754-48b8-a678-6afff24b7f00
+id: fa3c7c6b-a236-5a71-a147-45a3f862ace9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: killerbody-01-png-product-1
   type: product
-offerId: d90b5838-9556-4394-b0f1-019c6d0651c9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d6c07971-3345-4d40-95a1-ea70f0acb970
+  priority: 0
+  slug: killerbody-png-logo-0
+  type: logo
+offerId: e0801891-025f-52c2-b517-0b3f1018c26a
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 68.7
 slug: 30x-killerbody-protein-bar-cookies-cream-40-g
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 30x Killerbody Protein Bar Cookies & Cream | 40 g

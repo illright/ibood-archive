@@ -1,12 +1,12 @@
-_id: 6a33f452b845b0d74173e609
+_id: 6a43b5294a80ca670d2dbb46
 appOnly: false
 brand: Lenor
 brands:
   - id: e07bbf59-7c5e-502f-acab-fa2bb6bdfa34
     name: Lenor
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3284862'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3306760'
 classicProductId: '715853'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: a06661c6-49e4-5e7e-8376-e946a468537d
+id: 5de85fce-5466-4daf-ae21-4cc2ec8376ec
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 92ec4440-acb7-4353-a787-b4451d0ab43e
-  priority: 0
-  slug: lenor-png-logo-0
+  extension: png
+  id: 1526341
+  priority: 100
+  slug: lenor-logo
   type: logo
-offerId: b2989c21-8359-5045-91d7-1e2baa399853
+offerId: 59278308-83d3-441e-9659-78d067c6ed8c
 price:
   cents: 5495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 149.7
 slug: 6x-lenor-unstoppables-gold-orchid-495-g
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 6x Lenor Unstoppables Gold Orchid | 495 g

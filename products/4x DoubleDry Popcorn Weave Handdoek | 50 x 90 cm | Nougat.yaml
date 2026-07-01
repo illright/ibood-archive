@@ -1,12 +1,12 @@
-_id: 6a2bc69a9d63951f04eb8d1d
+_id: 6a43b6625210c36103a4ff49
 appOnly: false
 brand: Double Dry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: Double Dry
 categories:
-  - 75be1f92-79a4-504f-be2b-4e0a86f24743
-classicId: '3274102'
+  - 61e4f891-190c-5292-926f-740f0014c7c2
+classicId: '3307799'
 classicProductId: '714929'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 1c8819ee-f795-5c16-bf98-fa670cd24dbe
+id: 9e0619da-71a1-4fda-86db-f2008f79912e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 72ca9020-8ee7-43f7-82ae-b89392f0ef4c
-  priority: 0
-  slug: doubledry-logo-png-logo-0
+  extension: png
+  id: 1973103
+  priority: 100
+  slug: doubledry-logo
   type: logo
-offerId: 22cda41b-f869-5914-9b00-6b31f5c96eda
+offerId: 189c4f47-31a1-4bcc-a03d-273e2b03f97c
 price:
   cents: 995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 22.95
 slug: 4x-doubledry-popcorn-weave-handtuch-50-x-90-cm-nougat
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 4x DoubleDry Popcorn Weave Handdoek | 50 x 90 cm | Nougat

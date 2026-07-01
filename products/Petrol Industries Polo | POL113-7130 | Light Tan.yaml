@@ -1,22 +1,22 @@
-_id: 6a3b993f40284ade00756746
+_id: 6a43a0e40fe28488cb5494d4
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3296601'
-classicProductId: '702305'
+  - e78a655a-f189-563f-8605-7955f75a130b
+classicId: '3305468'
+classicProductId: '702301'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
-end: '2026-06-30T21:59:59.999Z'
+discount: 63
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 7a897625-ce42-489b-b521-9b4050f7534e
+id: 26554b32-47be-43c1-add7-53a8e6057088
 image:
   channels:
     - app
@@ -40,16 +40,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 9fb5b555-a518-4073-9c91-dc39f1391a52
+offerId: 28c6ca79-3449-4492-a966-6c7639a4194c
 price:
-  cents: 1995
+  cents: 1495
   currency: EUR
-  value: 19.95
+  value: 14.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: petrol-industries-polo-pol113-7130-light-tan
-soldOut: true
-start: '2026-06-23T22:00:00.000Z'
+soldOut: false
+start: '2026-06-30T22:00:00.000Z'
 title: Petrol Industries Polo | POL113-7130 | Light Tan

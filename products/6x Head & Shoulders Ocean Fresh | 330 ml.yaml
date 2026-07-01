@@ -1,12 +1,12 @@
-_id: 6a33f44eb845b0d74173e606
+_id: 6a43b4e01563a6238195ce90
 appOnly: false
 brand: Head & Shoulders
 brands:
   - id: 93c0c375-0484-54bf-86e6-712b73798f88
     name: Head & Shoulders
 categories:
-  - 33f3dd53-3ecf-5014-b805-f5af380b9aae
-classicId: '3284860'
+  - 237fa092-6283-5636-8047-fc5e69c05139
+classicId: '3306569'
 classicProductId: '715850'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 65fd2b83-38f1-52d8-aa5c-a29773e654b4
+id: 5a819f7d-e438-4d0a-b772-4cbae4a9d7eb
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 91e87b81-7565-4478-b619-7a23abaa5f98
-  priority: 0
-  slug: head-shoulders-png-logo-0
+  extension: png
+  id: 1854470
+  priority: 100
+  slug: head-and-shoulders-logo
   type: logo
-offerId: bfd9efff-64eb-53cc-81e2-19670ac875f2
+offerId: a548bc6d-c084-4670-bfb1-9c0a805392c3
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 41.94
 slug: 6x-head-shoulders-ocean-fresh-330-ml
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: 6x Head & Shoulders Ocean Fresh | 330 ml

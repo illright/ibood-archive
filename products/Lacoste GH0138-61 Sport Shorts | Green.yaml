@@ -1,30 +1,32 @@
-_id: 6a34ff6c706e690604ade28e
+_id: 6a425f971563a6238195c3fc
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - dc96b954-809b-5b75-b84a-628b7c7957a5
-classicId: '3286127'
-classicProductId: '704328'
+  - b63cf63a-4867-5b49-a36a-704a7db3177a
+classicId: '3301161'
+classicProductId: '704332'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 9392819f-5bb9-45d5-804a-d1e53ff468e5
+id: 43a37d3a-a014-44be-ade5-d937b773ad77
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: 043db02b-08e8-4716-a1e3-abb0fb4fb2c1-tr-cr
+  id: 043db02b-08e8-4716-a1e3-abb0fb4fb2c1-tr
   priority: 0
   slug: 3-green-gh0138-61-132-1hg1-men-s-shorts-lacoste-product-0
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 240978fa-e355-445a-87a7-ff108a095535
+offerId: 90f8f3da-580c-4b49-8245-94cc11ec0cf5
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 60
 slug: lacoste-gh0138-61-sport-shorts-green
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Lacoste GH0138-61 Sport Shorts | Green

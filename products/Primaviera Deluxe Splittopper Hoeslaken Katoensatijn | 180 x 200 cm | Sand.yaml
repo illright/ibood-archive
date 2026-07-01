@@ -1,12 +1,12 @@
-_id: 6a3923b6e2407affa531a93e
+_id: 6a43b635e17995708ed9e494
 appOnly: false
 brand: Primaviera
 brands:
   - id: a44ba2dc-3e81-5f0d-a66f-57414926d223
     name: Primaviera
 categories:
-  - 75be1f92-79a4-504f-be2b-4e0a86f24743
-classicId: '3288705'
+  - 61e4f891-190c-5292-926f-740f0014c7c2
+classicId: '3307675'
 classicProductId: '452022'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 39
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 110805f4-8c41-46e7-88af-74c91c72f182
+id: fea17837-78c2-4a41-af0a-185638eddabd
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 2x-splittopperlaken-satin-180-x-200-cm-jpg-product-38
   type: product
-offerId: 0f42bdba-64cf-43be-af4f-d9a95e80d5c8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2663f617-1c2f-4dae-b26d-76a6e42572e8
+  priority: 0
+  slug: primaviera-logo-0
+  type: logo
+offerId: 46fa195d-5217-4ffa-9764-27ef005869d4
 price:
   cents: 2295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 37.5
 slug: primaviera-deluxe-splittopper-hoeslaken-katoensatijn-180-x-200-cm-sand
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Primaviera Deluxe Splittopper Hoeslaken Katoensatijn | 180 x 200 cm | Sand

@@ -1,12 +1,12 @@
-_id: 6a3a49123daee19294e62f8b
+_id: 6a438dc499041f4f1de574b9
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 6b8ef5d7-ced8-56a0-8691-ce3ca7d0c8c9
-classicId: '3292235'
+  - 3d8a3803-bdff-5870-ad0a-9994b807972f
+classicId: '3304066'
 classicProductId: '682903'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: d93ccc9b-578e-4892-a809-dde86fb529f9
+id: 65aca7c1-29dc-4992-b2b9-07a77b0b20b6
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: villeroy-boch-logo
   type: logo
-offerId: b4ad8fd2-032f-46b7-bf72-51ea507d2aeb
+offerId: db3ce794-90e9-432f-9f77-67d11742a8b5
 price:
   cents: 2195
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 41.9
 slug: 4x-villeroy-boch-ovid-waterglas
-soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+soldOut: true
+start: '2026-06-30T22:00:00.000Z'
 title: 4x Villeroy & Boch Ovid Waterglas

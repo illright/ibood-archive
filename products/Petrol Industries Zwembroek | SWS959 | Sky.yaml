@@ -1,12 +1,12 @@
-_id: 6a3b947e0a7c705db0f7d866
+_id: 6a439ed9b03a6306dede77d6
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3295574'
+  - 8bb37ffc-6d81-5be3-9a5a-6824817ea5c5
+classicId: '3304865'
 classicProductId: '712388'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: ebf480d0-bb76-4397-9bef-20582f0ca8c1
+id: 40f20015-75ca-4b1b-a766-5fc376068bf4
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 7dac09e1-8748-42fd-a921-d06e4c19a121
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: 7ee5f496-1b2a-4d28-a72b-c32a63ccfdaf
+offerId: 6d144ec2-9c63-4edf-aee9-60d237019f2f
 price:
   cents: 1995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 35.99
 slug: petrol-industries-zwembroek-sws959-sky
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Petrol Industries Zwembroek | SWS959 | Sky

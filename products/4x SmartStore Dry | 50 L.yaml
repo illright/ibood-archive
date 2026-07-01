@@ -1,32 +1,31 @@
-_id: 6a393b7752603e8ba2026f68
+_id: 6a438dd199041f4f1de574cb
 appOnly: false
 brand: Orthex
 brands:
   - id: f8f70a3f-6780-5fd6-bf9b-d1d2e1c3174b
     name: Orthex
 categories:
-  - ba44a95b-f54c-52b7-9335-7766831c8422
-classicId: '3290828'
-classicProductId: '621431'
+  - 4aced4b8-c1e8-56f2-8354-5d950fdd3a67
+classicId: '3304095'
+classicProductId: '537618'
 deliveryPrice:
-  cents: 1995
+  cents: 895
   currency: EUR
-  value: 19.95
+  value: 8.95
 directCheckout: true
 discount: 39
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: c3643851-043f-4659-b95c-0e82339d84fd
+id: 00e53571-6d87-4f2e-abd4-d050d53f3e77
 image:
   channels:
+    - newsletter
     - app
     - website
-    - newsletter
-    - all
-  extension: image/png
-  id: f0e0c588-320d-45d1-a487-4dfa7f3b38ea-tr
+  extension: png
+  id: 1801935
   priority: 0
-  slug: 4x-smartstore-dry-50-l-jpg-product-1
+  slug: 4x-orthex-smartstore-dry-aufbewahrungsbox-50-l
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: orthex-logo
   type: logo
-offerId: bf0ec13d-9878-44a7-bcb1-eebd408330a3
+offerId: bd344c06-ea4a-4338-9486-58af4449d591
 price:
   cents: 7995
   currency: EUR
@@ -48,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 131.8
 slug: 4x-smartstore-dry-50-l
-soldOut: true
-start: '2026-06-23T22:00:00.000Z'
+soldOut: false
+start: '2026-06-30T22:00:00.000Z'
 title: 4x SmartStore Dry | 50 L

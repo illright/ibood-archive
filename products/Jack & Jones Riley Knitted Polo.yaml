@@ -1,22 +1,22 @@
-_id: 6a3b9937df085985b58b46e7
+_id: 6a43a0db610e28c8ebd864b9
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3296590'
-classicProductId: '711441'
+  - e78a655a-f189-563f-8605-7955f75a130b
+classicId: '3305458'
+classicProductId: '711451'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 50
-end: '2026-06-30T21:59:59.999Z'
+discount: 55
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: b3dd42e3-dd41-4ede-8481-94ef14496a61
+id: ca7ef695-9058-469b-9b22-65a25b7862d3
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: jj01-main-png-product-1
   type: product
-offerId: 53f0a3c0-5786-43c6-b0b3-ebbd231c209f
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 5a06a129-9aa7-4b9f-a7fb-1f62eec06251
 price:
-  cents: 1995
+  cents: 1795
   currency: EUR
-  value: 19.95
+  value: 17.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: jack-jones-riley-knitted-polo
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Jack & Jones Riley Knitted Polo

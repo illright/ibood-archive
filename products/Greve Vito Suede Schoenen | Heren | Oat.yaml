@@ -1,12 +1,12 @@
-_id: 6a3b928040284ade00755d59
+_id: 6a43bbe33a4e8336334ea1f5
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 16611ea9-9e8e-5c4d-b44a-d66da2ad0fc0
-classicId: '3295307'
+  - 8e61367e-e1e2-5351-b10a-485cc18555b7
+classicId: '3309637'
 classicProductId: '688374'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 47
-end: '2026-06-30T21:59:59.999Z'
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 26a09ced-c23a-4636-8764-6f41dad2ee8f
+id: 70e389ea-ec76-43ee-b5f4-b2fafb612c68
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b0b3bc2e-0207-4d11-a050-9f020df06177
-  priority: 0
-  slug: greve-png-logo-0-png-logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: 49adf543-56a9-4161-93b9-e05d37504bd6
+offerId: f12fd4f3-047a-4619-923b-6b9b8f662a68
 price:
   cents: 9995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 190
 slug: greve-vito-suede-schoenen-heren-oat
 soldOut: false
-start: '2026-06-23T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Greve Vito Suede Schoenen | Heren | Oat
