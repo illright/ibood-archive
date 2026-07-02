@@ -1,4 +1,4 @@
-_id: 6a43bbc5b52733d26362c162
+_id: 6a43badc46302081208089cf
 appOnly: false
 brand: Lacoste
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Lacoste
 categories:
   - 8e61367e-e1e2-5351-b10a-485cc18555b7
-classicId: '3309520'
-classicProductId: '695693'
+classicId: '3309305'
+classicProductId: '623252'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 40
+directCheckout: false
+discount: 50
 end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 3ffa00e4-bb99-410f-9501-9b7c4853659e
+id: 9050fc4e-567b-4170-846b-2e32ccfeffcf
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 20604fc2-0999-4ca4-bf7e-0ac6ef5c3c97
+  id: b50d6e4c-b748-479b-b8b4-e15ee4ee40f0
   priority: 0
-  slug: lacost5-png-product-1
+  slug: main-png-product-2
   type: product
 logo:
   channels:
@@ -34,15 +34,15 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2205528
+  id: 1612112
   priority: 100
-  slug: lacoste-powercourt-125-2-sma-sneakers
+  slug: lacoste-logo
   type: logo
-offerId: 6b55bbe2-451b-4f69-8568-d6a29495d235
+offerId: 90b031a8-3c8f-44a8-a17a-a8f198956f27
 price:
-  cents: 5995
+  cents: 4995
   currency: EUR
-  value: 59.95
+  value: 49.95
 referencePrice:
   cents: 10000
   currency: EUR
@@ -51,3 +51,4 @@ slug: lacoste-powercourt-125-2-sma-sneakers-heren
 soldOut: false
 start: '2026-06-30T22:00:00.000Z'
 title: Lacoste Powercourt 125 2 SMA Sneakers | Heren
+125 2 SMA Sneakers | Heren

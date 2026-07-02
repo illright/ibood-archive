@@ -1,4 +1,4 @@
-_id: 6a425fd24630208120806b66
+_id: 6a44cd425f0712d756b6471f
 appOnly: false
 brand: Nike Swim
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Nike Swim
 categories:
   - d5cf0207-e800-567b-b397-e25c14c096e7
-classicId: '3301263'
-classicProductId: '628869'
+classicId: '3310276'
+classicProductId: '628866'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 37
+directCheckout: false
+discount: 25
 end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 007f471a-aa90-412c-b9ec-f96aa2d7d8db
+id: 0a9878a0-f1ea-45db-8a65-fcd1367c98cc
 image:
   channels:
     - website
@@ -29,19 +29,20 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2283332
-  priority: 100
-  slug: nike-swim-heather-hydroguard-shirt
+    - all
+  extension: image/png
+  id: 829de38a-746b-47e9-8820-7b35d7e29611
+  priority: 0
+  slug: nike-swim-logo-0
   type: logo
-offerId: 20b97c90-b832-40ee-b398-eb388ceeae34
+offerId: f731d2a7-fedc-4f17-8842-1048e719731e
 price:
-  cents: 2500
+  cents: 3000
   currency: EUR
-  value: 25
+  value: 30
 referencePrice:
   cents: 3995
   currency: EUR

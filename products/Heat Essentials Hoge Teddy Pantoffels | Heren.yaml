@@ -1,22 +1,22 @@
-_id: 6a422d19afcae23b6e7f6b38
+_id: 6a43baab0eb3762e909ae4d1
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - a9a1c707-7ffd-533b-8f8c-42cf811079c4
-classicId: '3299760'
+  - 8e61367e-e1e2-5351-b10a-485cc18555b7
+classicId: '3309243'
 classicProductId: '498084'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 72
-end: '2026-07-06T21:59:59.999Z'
+discount: 71
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 6d8c6ec1-ac3f-45af-8cd8-eb5238e66c6f
+id: da82251e-1efd-4906-b477-b22db04543d3
 image:
   channels:
     - website
@@ -27,20 +27,26 @@ image:
   priority: 0
   slug: heat-essentials-hoge-teddy-pantoffels-heren
   type: product
-offerId: 25dc4cf5-ef43-4a50-8706-3884deb046a7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1643389
+  priority: 100
+  slug: heat-essentials-logo
+  type: logo
+offerId: 6010e83f-e803-4b4d-938f-9e6a5fa8343c
 price:
-  cents: 1119
+  cents: 1178
   currency: EUR
-  value: 11.19
+  value: 11.78
 referencePrice:
   cents: 3995
   currency: EUR
   value: 39.95
 slug: heat-essentials-hoge-teddy-pantoffels-heren
-soldOut: false
-start: '2026-06-29T22:00:00.000Z'
-title: Heat Essentials Hoge Teddy Pantoffels | Heren
-: heat-essentials-hoge-teddy-pantoffels-heren
 soldOut: false
 start: '2026-06-30T22:00:00.000Z'
 title: Heat Essentials Hoge Teddy Pantoffels | Heren
