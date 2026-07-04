@@ -19,13 +19,16 @@ freeDelivery: false
 id: 655cb9db-8d00-409f-bf6a-aafecba768d9
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 2215044
+  extension: image/png
+  id: 45827ce6-4cc4-4c88-a283-22fa1f671b3b-tr
   priority: 0
-  slug: opviq-kure-236-deckenleuchte
+  slug: opviq-kure-236-deckenleuchte-1-jpg-product-1
   type: product
 logo:
   channels:
