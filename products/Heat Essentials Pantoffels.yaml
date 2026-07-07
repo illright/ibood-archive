@@ -1,32 +1,31 @@
-_id: 6a422ead463020812080653c
+_id: 6a43ba635210c36103a5015a
 appOnly: false
 brand: Heat Essentials
 brands:
   - id: 51ae4511-7762-5ca1-906d-9690faf3e6f3
     name: Heat Essentials
 categories:
-  - a9a1c707-7ffd-533b-8f8c-42cf811079c4
-classicId: '3300037'
-classicProductId: '588352'
+  - 8e61367e-e1e2-5351-b10a-485cc18555b7
+classicId: '3309220'
+classicProductId: '487360'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 79
-end: '2026-07-06T21:59:59.999Z'
+directCheckout: false
+discount: 74
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: ccb84abe-b1d0-40f5-a35f-5339923de5d6
+id: b619bf08-8456-41a2-b8ff-7234533338ce
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2f580a41-35cc-408d-8400-ba04e454ec08
+  extension: png
+  id: 1643491
   priority: 0
-  slug: heat-essentials-02-png-product-9
+  slug: heat-essentials-pantoffels
   type: product
 logo:
   channels:
@@ -34,20 +33,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1643394
+  id: 1643389
   priority: 100
-  slug: heat-essentials-pantoffels
+  slug: heat-essentials-logo
   type: logo
-offerId: 08ce69e9-b40f-42b7-beb1-bd4662df9aac
+offerId: 94aea763-94fd-4c25-9326-0f35684a7b77
 price:
-  cents: 1040
+  cents: 1320
   currency: EUR
-  value: 10.4
+  value: 13.2
 referencePrice:
   cents: 4995
   currency: EUR
   value: 49.95
 slug: heat-essentials-pantoffels
 soldOut: false
-start: '2026-06-29T22:00:00.000Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Heat Essentials Pantoffels

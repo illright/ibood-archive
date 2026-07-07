@@ -1,31 +1,32 @@
-_id: 6a422df94630208120806423
+_id: 6a43ba6d5210c36103a50166
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - a9a1c707-7ffd-533b-8f8c-42cf811079c4
-classicId: '3299867'
-classicProductId: '203050'
+  - 8e61367e-e1e2-5351-b10a-485cc18555b7
+classicId: '3309237'
+classicProductId: '357884'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 46
-end: '2026-07-06T21:59:59.999Z'
+directCheckout: false
+discount: 39
+end: '2026-07-07T21:59:59.999Z'
 freeDelivery: false
-id: 40ceb78f-16b2-4df7-8971-3896060ce1eb
+id: cf214098-c0d2-4ac2-bb9a-dfaa5c8a2f9d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 522270
+    - all
+  extension: image/png
+  id: a4da0ffc-6796-4d7f-995a-cf3657802657
   priority: 0
-  slug: vans-filmore-sneakers-heren
+  slug: vans-06-png-product-1
   type: product
 logo:
   channels:
@@ -37,18 +38,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 786f412e-a50f-461c-afee-04df7dfe33b7
+offerId: 82c37ce3-8218-446f-88f0-6ac6433d2ae8
 price:
-  cents: 3478
+  cents: 3995
   currency: EUR
-  value: 34.78
+  value: 39.95
 referencePrice:
   cents: 6500
   currency: EUR
   value: 65
 slug: vans-filmore-sneakers-heren
 soldOut: false
-start: '2026-06-29T22:00:00.000Z'
-title: Vans Filmore Sneakers | Heren
-0Z'
+start: '2026-06-30T22:00:00.000Z'
 title: Vans Filmore Sneakers | Heren

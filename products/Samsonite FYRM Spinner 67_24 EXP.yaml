@@ -1,22 +1,22 @@
-_id: 6a43ba9c5210c36103a501a0
+_id: 6a4b8334f5a1921dac917341
 appOnly: false
 brand: Samsonite
 brands:
   - id: 76fdbcf4-cdc0-5321-9cad-2639a5d8bdf0
     name: Samsonite
 categories:
-  - c929a51c-66ec-5002-b492-2feaf1fa4f57
-classicId: '3309276'
+  - a8a09819-231c-5fe7-89fb-dcd154e379ef
+classicId: '3313664'
 classicProductId: '714601'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: false
-discount: 50
-end: '2026-07-06T21:59:59.999Z'
+discount: 46
+end: '2026-07-13T21:59:59.999Z'
 freeDelivery: false
-id: 283ab0cd-c6e0-41b2-90f1-82d31fe585f9
+id: d258936b-4f34-46ea-a86b-0bb24c2d5838
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 568eb68c-22c9-4e42-849d-728c5a39131f
-  priority: 0
-  slug: samsonite-png-logo-0
+  extension: png
+  id: 1744610
+  priority: 100
+  slug: samsonite-logo
   type: logo
-offerId: a620a99f-0ac7-48ab-8127-964795446a7d
+offerId: 50c55b91-05df-42a0-9672-15abc5e30a01
 price:
-  cents: 13995
+  cents: 14995
   currency: EUR
-  value: 139.95
+  value: 149.95
 referencePrice:
   cents: 27900
   currency: EUR
   value: 279
 slug: samsonite-fyrm-spinner-67-24-exp
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-06T22:00:00.000Z'
 title: Samsonite FYRM Spinner 67/24 EXP

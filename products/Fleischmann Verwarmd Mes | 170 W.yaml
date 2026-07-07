@@ -1,12 +1,12 @@
-_id: 6a4380f00e270d4fe08d9478
+_id: 6a4b577bfc94b3f1c3d261eb
 appOnly: false
 brand: Fleischmann's
 brands:
   - id: 52639958-878e-5606-9145-40e5d7076d73
     name: Fleischmann's
 categories:
-  - ad627ab7-52ad-5f0b-92f2-b08286d23bd7
-classicId: '3303328'
+  - d914e6db-f79b-5c92-8eb1-3143d25a373a
+classicId: '3313109'
 classicProductId: '621549'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-07-06T21:59:59.999Z'
+end: '2026-07-13T21:59:59.999Z'
 freeDelivery: false
-id: 4a848194-438d-4257-8211-bef5f67947b3
+id: 96bd943d-9605-48cd-92d0-f65e3709c385
 image:
   channels:
     - website
@@ -38,7 +38,7 @@ logo:
   priority: 0
   slug: fleischmann-logo-0
   type: logo
-offerId: 5c75835c-debf-4d34-b206-f1c3bff1250f
+offerId: 526b4dfa-f754-43b8-9261-89d33c45b5da
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 69.99
 slug: fleischmann-verwarmd-mes-170-w
-soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+soldOut: true
+start: '2026-07-06T22:00:00.000Z'
 title: Fleischmann Verwarmd Mes | 170 W
