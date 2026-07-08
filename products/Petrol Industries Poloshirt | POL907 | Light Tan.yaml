@@ -1,12 +1,12 @@
-_id: 6a439f39610e28c8ebd8632f
+_id: 6a4d00f397e1d5238f6fb0d5
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - e78a655a-f189-563f-8605-7955f75a130b
-classicId: '3305059'
+  - acc96e87-e407-5f34-ab87-2aa3cacbdba1
+classicId: '3321158'
 classicProductId: '712233'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 41
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 13377dc7-b068-487c-b7b4-16623011a23b
+id: 82342a2c-16e0-4849-aca8-39b6be8e7449
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1db4143f-aed0-4173-916d-59cef77c219d
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: c6ca26dd-e0e5-47ee-90e8-2c3395f8d281
+offerId: ebf0813a-ac5f-4144-bc8e-c9563c8d5482
 price:
   cents: 2695
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 45.99
 slug: petrol-industries-poloshirt-pol907-cool-mint
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Petrol Industries Poloshirt | POL907 | Light Tan

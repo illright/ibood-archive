@@ -1,12 +1,12 @@
-_id: 6a425ff48d88896b0441f840
+_id: 6a4ceca877cf0f56cbc20aab
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - d5cf0207-e800-567b-b397-e25c14c096e7
-classicId: '3301293'
+  - ca40d267-8dc0-59dc-b9ee-80562aa5f01c
+classicId: '3319828'
 classicProductId: '688927'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 09fae1f5-85e7-4d37-9944-7e1e306df998
+id: 37a942ea-7bbb-4012-96db-099f8f22eb9e
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: travelin-main-png-product-1
   type: product
-offerId: 76774b6e-2cf1-4630-9b63-2a549e8015d1
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
+  type: logo
+offerId: caa91a3e-518f-496b-8a5b-7e3673b30b6c
 price:
   cents: 6000
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 199.95
 slug: travelin-skodborg-hornborg-wandelschoenen-heren-dames
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Travelin' Skodborg / Hornborg Wandelschoenen | Heren / Dames

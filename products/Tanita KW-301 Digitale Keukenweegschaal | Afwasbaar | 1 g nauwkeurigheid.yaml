@@ -1,22 +1,22 @@
-_id: 6a228a76e04a6df349ea8f67
+_id: 6a4cc26483ae7a1e9f34f386
 appOnly: false
 brand: Tanita
 brands:
   - id: 0a1a11bb-926c-5ee7-9666-f5c7a27ad954
     name: Tanita
 categories:
-  - b58cc1fd-2763-5198-805e-aee1f6eba487
-classicId: '3260747'
+  - 9abb090c-7d29-5751-949c-0631dcf1c651
+classicId: '3315650'
 classicProductId: '713924'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 38
-end: '2026-07-07T21:59:59.999Z'
+discount: 43
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 3701d14d-7eb9-553a-becc-5b20469f6166
+id: 766dcc06-e317-4070-bada-664cc6d86172
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: kw301wh-tanita-teu-kw-301-wh-3kg-washable-digital-kitchen-scale-product-4
   type: product
-offerId: 9a45980f-a294-5a2b-9f6f-0509a48ef439
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2019358
+  priority: 100
+  slug: tanita-logo
+  type: logo
+offerId: 260758b4-40d2-4010-b1c9-9465d9a91b19
 price:
-  cents: 2495
+  cents: 2295
   currency: EUR
-  value: 24.95
+  value: 22.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: tanita-kw-301-digitale-keukenweegschaal-afwasbaar-1-g-nauwkeurigheid
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Tanita KW-301 Digitale Keukenweegschaal | Afwasbaar | 1 g nauwkeurigheid

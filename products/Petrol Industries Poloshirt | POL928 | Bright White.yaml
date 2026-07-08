@@ -1,12 +1,12 @@
-_id: 6a439ed1610e28c8ebd8628c
+_id: 6a4d008597e1d5238f6fb000
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - e78a655a-f189-563f-8605-7955f75a130b
-classicId: '3304835'
+  - acc96e87-e407-5f34-ab87-2aa3cacbdba1
+classicId: '3321008'
 classicProductId: '712979'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 38
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 6a7c6508-fcb8-43b5-a521-564d0470bb49
+id: 4fffd14a-ca01-4582-9fc1-b52d98e7133b
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: bec6b708-c6db-4741-ac20-ec83169d3fb7
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: 1942be28-b0da-426d-8df9-bc21ccbec9ae
+offerId: 8e47aa34-7407-40fd-9095-4a219d5cfb3c
 price:
   cents: 2495
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 39.99
 slug: petrol-industries-poloshirt-pol928-bright-white
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Petrol Industries Poloshirt | POL928 | Bright White

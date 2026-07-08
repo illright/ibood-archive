@@ -1,12 +1,12 @@
-_id: 6a3aa2490bcff882e21370b8
+_id: 6a4cb92a49990a07ebc18ebc
 appOnly: false
 brand: elho
 brands:
   - id: 56c3bac3-6ef0-521c-9a6b-862d4cf47201
     name: elho
 categories:
-  - 13f7f7ed-f9cb-5d3c-9258-3dcd88ed5ca2
-classicId: '3295023'
+  - 2e9eed13-7f24-5a67-a66b-163d943ae33c
+classicId: '3314883'
 classicProductId: '716988'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 5f654e89-0328-5e9d-867f-01ef7680f9ca
+id: 07e82abd-0666-5b1b-b582-f5db7a39b0cf
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ffbccbb3-3642-417c-8de0-d78cff96cb4f
-  priority: 0
-  slug: elho-logo-png-logo-0
+  extension: png
+  id: 1891681
+  priority: 100
+  slug: elho-logo
   type: logo
-offerId: 7a1c2816-74f4-5339-aeaa-5dceb9c0fddd
+offerId: 2436af6d-33f7-5320-bd6e-ea6bf5bc51cb
 price:
   cents: 2795
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 47.49
 slug: elho-vibes-fold-bloempot-met-wieltjes-35-cm-blue
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Elho Vibes Fold Bloempot met Wieltjes | Ø 35 cm | Blue

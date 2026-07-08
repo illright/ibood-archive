@@ -1,22 +1,22 @@
-_id: 6a44c2edaf223d4fe1ef3451
+_id: 6a4ceccb82f63461233f5683
 appOnly: false
 brand: Apex
 brands:
   - id: 38f3aaee-8490-53b2-ac3e-17df3e1c827c
     name: Apex
 categories:
-  - 9113ea10-d272-5358-a0b7-9bb362364728
-classicId: '3310214'
-classicProductId: '660787'
+  - 1b01747f-8f8c-5b9c-aee6-3888478f4c3b
+classicId: '3319889'
+classicProductId: '660783'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
-end: '2026-07-07T21:59:59.999Z'
+discount: 46
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: a5d0797c-d20a-4323-9696-a850841cd9fd
+id: 9542a160-dde8-4290-b6f3-6cfabdda9e35
 image:
   channels:
     - app
@@ -28,22 +28,28 @@ image:
   priority: 0
   slug: helm-main-png-product-1
   type: product
-offerId: 6632239b-22da-4222-9b6d-396c5c9716ab
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2c35909c-2c95-479d-930d-2555ec05e96c
+  priority: 0
+  slug: apex-logo-0
+  type: logo
+offerId: 5cbf7884-03e2-4c23-9d9f-672857c0441d
 price:
-  cents: 14900
+  cents: 16000
   currency: EUR
-  value: 149
+  value: 160
 referencePrice:
   cents: 29900
   currency: EUR
   value: 299
 slug: apex-mi200-flip-over-motor-helm-incl-pinlock-vizier
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Apex MI200 Flip-Over motorhelm Incl. Pinlock Vizier
-EUR
-  value: 299
-slug: apex-mi200-flip-over-motor-helm-incl-pinlock-vizier
-soldOut: false
-start: '2026-06-30T22:00:00.000Z'
-title: Apex MI200 Flip-Over motorhelm Incl. Pinlock Vizier
+

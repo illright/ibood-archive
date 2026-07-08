@@ -1,22 +1,22 @@
-_id: 6a439eb0de6e68f0b7051d37
+_id: 6a4d013c97e1d5238f6fb14c
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 8bb37ffc-6d81-5be3-9a5a-6824817ea5c5
-classicId: '3304733'
-classicProductId: '704381'
+  - 1fc394d6-36cd-539c-a1da-b492daf64523
+classicId: '3321283'
+classicProductId: '704378'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 36
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: a9a107bf-dd15-48dc-a2f7-ade7b705c750
+id: feb5c95f-8e96-481b-83b4-8129d6172cc3
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: fb019aa2-9ec4-44f8-87ad-99ee023c456e
+offerId: 1be4a513-5267-469d-a868-f38cfae2d070
 price:
   cents: 4495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 70
 slug: lacoste-swimming-trunk
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Lacoste Swimming Trunk | Heren

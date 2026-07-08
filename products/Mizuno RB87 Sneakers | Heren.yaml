@@ -1,12 +1,12 @@
-_id: 6a43bb71e3a7212613358ae5
+_id: 6a4cec13e77032d7e2eca98e
 appOnly: false
 brand: Mizuno
 brands:
   - id: 4fec73e8-8c86-58da-9eab-cfab3a20a37b
     name: Mizuno
 categories:
-  - 8e61367e-e1e2-5351-b10a-485cc18555b7
-classicId: '3309427'
+  - 7f5d7004-df2d-5ff8-9061-0736b55d68a0
+classicId: '3319574'
 classicProductId: '706813'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 64
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 20d81820-43da-4433-a252-d5644fbb9a69
+id: c7f05704-ae00-41ae-9f15-109aef3167f8
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: main-mizuno-png-product-1
   type: product
-offerId: e33704ab-4c1a-4cd6-970f-726612a64f30
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1807305
+  priority: 100
+  slug: mizuno-logo
+  type: logo
+offerId: cce97451-164c-47d9-9070-861e8111c2c2
 price:
   cents: 3995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 110
 slug: mizuno-rb87-sneakers-heren
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Mizuno RB87 Sneakers | Heren

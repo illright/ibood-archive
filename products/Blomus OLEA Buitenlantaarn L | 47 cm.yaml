@@ -1,12 +1,12 @@
-_id: 6a425f434630208120806a5d
+_id: 6a4bb7ffae5574f720fa8d5f
 appOnly: false
 brand: blomus
 brands:
   - id: a8b43515-70bc-5688-8036-e1b3bcb7a81a
     name: blomus
 categories:
-  - 37cfae45-f938-57d5-9263-3b925ccc1474
-classicId: '3301030'
+  - 2e9eed13-7f24-5a67-a66b-163d943ae33c
+classicId: '3314258'
 classicProductId: '715226'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 67513efd-92d6-4f0a-b7bd-afc32b85b142
+id: 4916183a-6f99-413f-9a12-fbe3ce3f6cf3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fa1f7986-3b6d-4438-9159-9907e84a55b7
-  priority: 0
-  slug: blomus-png-logo-0
+  extension: png
+  id: 1772219
+  priority: 100
+  slug: blomus-logo
   type: logo
-offerId: 0393f569-cd58-46d1-9dd1-e15cd3462153
+offerId: dec432cb-5eab-48a9-b3dc-ef45dff499e9
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 169
 slug: blomus-olea-buitenlantaarn-l-47-cm
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Blomus OLEA Buitenlantaarn L | 47 cm

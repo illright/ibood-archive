@@ -1,22 +1,22 @@
-_id: 6a425fc18d88896b0441f80d
+_id: 6a4cec9617ec80046d33f19d
 appOnly: false
 brand: Quick Q1905
 brands:
   - id: 9a8b2dab-5e72-5299-9942-d5f486db6a22
     name: Quick Q1905
 categories:
-  - b63cf63a-4867-5b49-a36a-704a7db3177a
-classicId: '3301233'
-classicProductId: '710609'
+  - cd5bfa81-0600-5a58-8aaf-cef695b95b2d
+classicId: '3319789'
+classicProductId: '710605'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 69
-end: '2026-07-07T21:59:59.999Z'
+discount: 63
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: ad18faba-f4e2-49ac-8db0-613b02262d99
+id: ab012832-b56a-4eef-9ab2-103f2a8c132d
 image:
   channels:
     - app
@@ -28,27 +28,16 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: c8b9c9f6-5cbf-4987-a11d-00010346f689
-  priority: 0
-  slug: quick-q1905-logo-0
-  type: logo
-offerId: d5dccfe1-9282-4b88-bbe5-1fee1e3d6c89
+offerId: b01e8622-ca85-4ff1-8833-26ffe650a37e
 price:
-  cents: 2500
+  cents: 2995
   currency: EUR
-  value: 25
+  value: 29.95
 referencePrice:
   cents: 7995
   currency: EUR
   value: 79.95
 slug: q1905-hessum-poloshirt-heren
-soldOut: true
-start: '2026-06-30T22:00:00.000Z'
+soldOut: false
+start: '2026-07-07T22:00:00.000Z'
 title: Q1905 Hessum Poloshirt | Heren

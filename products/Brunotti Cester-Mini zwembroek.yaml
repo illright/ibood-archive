@@ -1,12 +1,12 @@
-_id: 6a425fdb4630208120806b8b
+_id: 6a4cecfa82f63461233f56b4
 appOnly: false
 brand: Brunotti
 brands:
   - id: 6a2e0d9a-ccf5-5842-bacc-0ea62bed2295
     name: Brunotti
 categories:
-  - d5cf0207-e800-567b-b397-e25c14c096e7
-classicId: '3301276'
+  - 2a07e4b2-57d1-5458-a1e9-87eb20288f92
+classicId: '3319971'
 classicProductId: '711850'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: e7c37ed4-1629-43ef-863b-6047b04c70fc
+id: 47eff86d-e1b8-4489-b625-92ffa1e338c4
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: brunotti-main-png-product-1
   type: product
-offerId: 069b43ca-2f9c-44d7-82d8-37dad5573abd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1820705
+  priority: 100
+  slug: brunotti-logo
+  type: logo
+offerId: f04a9e3f-9aa7-46f4-ba95-61fd73736794
 price:
   cents: 1000
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: brunotti-cester-mini-zwembroek
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Brunotti Cester-Mini zwembroek

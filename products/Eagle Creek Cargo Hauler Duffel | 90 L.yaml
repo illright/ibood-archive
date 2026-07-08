@@ -1,12 +1,12 @@
-_id: 6a425efb2dc2e0463f32e46b
+_id: 6a4cec4d82f63461233f55c5
 appOnly: false
 brand: Eagle Creek
 brands:
   - id: ef7f1938-b585-5c4e-94b1-689d0d45e4d7
     name: Eagle Creek
 categories:
-  - bd6f8912-2ef3-52a5-8b2d-983ec1815d3e
-classicId: '3300943'
+  - 07d361b6-298b-5587-a2f9-acf50c099345
+classicId: '3319662'
 classicProductId: '709607'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 47
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 3d51ae63-dc0a-4600-840b-48bbebf1b298
+id: e382f91a-1a5b-4676-ad26-99a28afe48d4
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ae859029-6221-402e-bee5-e7942b2ec11d
-  priority: 0
-  slug: eagle-creek-png-logo-1
+  extension: png
+  id: 1558275
+  priority: 100
+  slug: eagle-creek-logo
   type: logo
-offerId: da7bac6b-4431-4567-b902-38e41607f811
+offerId: 500ad95f-0dac-4459-87a4-19e69a829b55
 price:
-  cents: 9995
+  cents: 9994
   currency: EUR
-  value: 99.95
+  value: 99.94
 referencePrice:
   cents: 19000
   currency: EUR
   value: 190
 slug: eagle-creek-cargo-hauler-duffel-90-l
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Eagle Creek Cargo Hauler Duffel | 90 L

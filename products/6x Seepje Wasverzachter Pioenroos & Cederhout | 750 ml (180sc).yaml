@@ -1,12 +1,12 @@
-_id: 6a43b77046302081208088a5
+_id: 6a4ce31d9fdbe1f275227848
 appOnly: false
 brand: Seepje
 brands:
   - id: 8e4589d7-a927-5109-814a-349cdfdcc53c
     name: Seepje
 categories:
-  - 237fa092-6283-5636-8047-fc5e69c05139
-classicId: '3308756'
+  - 7619e986-64f8-5660-b960-b048a56cb69b
+classicId: '3318345'
 classicProductId: '714147'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 08f0bfc6-9fff-4974-b3f7-9441729d25a7
+id: 41fb9e81-89df-4f1d-a7bb-d3060a504cb1
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4735912e-197f-41b7-a373-227584774aeb
-  priority: 0
-  slug: seepje-png-logo-0
+  extension: png
+  id: 1919137
+  priority: 100
+  slug: seepje-logo
   type: logo
-offerId: 34091500-a7ca-4c4e-a55a-1c4c0364e697
+offerId: 59596745-36fd-4fad-9e93-d9f0b03753fc
 price:
   cents: 1695
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 26.94
 slug: 6x-seepje-wasverzachter-pioenroos-cederhout-750-ml
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: 6x Seepje Wasverzachter Pioenroos & Cederhout | 750 ml (180sc)

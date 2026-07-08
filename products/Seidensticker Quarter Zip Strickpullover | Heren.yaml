@@ -1,22 +1,22 @@
-_id: 6a43a0c8610e28c8ebd8648a
+_id: 6a4d00637b24b2499b301336
 appOnly: false
 brand: Seidensticker
 brands:
   - id: 1d526062-f5ca-5b64-aa47-092abced1dba
     name: Seidensticker
 categories:
-  - e78a655a-f189-563f-8605-7955f75a130b
-classicId: '3305440'
-classicProductId: '661351'
+  - 00cf95e2-56c8-5f40-8db9-c816acda79a7
+classicId: '3320973'
+classicProductId: '661352'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 68
-end: '2026-07-07T21:59:59.999Z'
+directCheckout: false
+discount: 75
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 7ae22c7e-0e9c-4afc-bf7b-97205b49baf9
+id: b182a551-1f63-4e2e-b18b-804f51f86561
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 3a4c9f1c-2b26-4cf6-ac5f-fec7b6d6b65c
+  id: b5cbf723-478d-4c17-88d2-3171942004a7
   priority: 0
-  slug: main-png-product-2
+  slug: main-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: seidensticker-logo
   type: logo
-offerId: de0a446a-0640-47a2-9d97-1c18f98e9759
+offerId: 1e637083-e331-4e79-8928-c48b262c05eb
 price:
-  cents: 3495
+  cents: 2750
   currency: EUR
-  value: 34.95
+  value: 27.5
 referencePrice:
-  cents: 10995
+  cents: 10999
   currency: EUR
-  value: 109.95
+  value: 109.99
 slug: seidensticker-quarter-zip-strickpullover
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Seidensticker Quarter Zip Strickpullover | Heren

@@ -1,12 +1,12 @@
-_id: 6a425f6dde12bbd00d4db4de
+_id: 6a4bb844bad330a2ea9548cc
 appOnly: false
 brand: Trio
 brands:
   - id: c20640a1-47f7-50d6-8fb4-6f3a3ab283d1
     name: Trio
 categories:
-  - 37cfae45-f938-57d5-9263-3b925ccc1474
-classicId: '3301101'
+  - 2e9eed13-7f24-5a67-a66b-163d943ae33c
+classicId: '3314343'
 classicProductId: '714567'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 44
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: ff7ba958-4b3c-479f-8e0d-8fda8eb6313e
+id: b983a2a2-6b60-418e-85f7-f84888e553c9
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7c3546c1-152e-4f11-91bd-7b0af809739a
-  priority: 0
-  slug: trio-logo-png-logo-0
+  extension: png
+  id: 1741315
+  priority: 100
+  slug: trio-logo
   type: logo
-offerId: 363e8c15-f7c9-4378-ac21-b8afbfd4dadc
+offerId: 63b42db7-60f0-4d1b-b123-6572871297cc
 price:
   cents: 21400
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 379.99
 slug: trio-buitenlamp-ravi-100-cm-dip-switch
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Trio Buitenlamp Ravi | 100 cm | DIP-Switch

@@ -1,12 +1,12 @@
-_id: 6a425fd42dc2e0463f32e586
+_id: 6a4cecc779ab49fae0e530d7
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - b63cf63a-4867-5b49-a36a-704a7db3177a
-classicId: '3301269'
+  - cd5bfa81-0600-5a58-8aaf-cef695b95b2d
+classicId: '3319883'
 classicProductId: '374670'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 47
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 7362080a-6b13-45ba-9bbc-325de8941630
+id: 3b66b187-a5e0-48ed-bba6-d594c6837c4a
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1724931
+  id: 1956488
   priority: 100
-  slug: gorilla-wear-classic-tank-top-heren
+  slug: gorilla-wear-logo
   type: logo
-offerId: e04d8f72-10f2-4605-b5d9-a7d464e3ea8c
+offerId: f4ddd3d1-16e0-46cd-b464-c5b46be0e392
 price:
   cents: 1595
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 29.95
 slug: gorilla-wear-classic-tank-top-heren
-soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+soldOut: true
+start: '2026-07-07T22:00:00.000Z'
 title: Gorilla Wear Classic Tank Top | Heren

@@ -1,12 +1,12 @@
-_id: 6a425efa2dc2e0463f32e469
+_id: 6a4cec7817ec80046d33f147
 appOnly: false
 brand: Gregory
 brands:
   - id: 130860bd-950e-5cea-bf5a-45765860cd93
     name: Gregory
 categories:
-  - db7aa480-b636-5245-8fb3-4b10a9933e01
-classicId: '3300945'
+  - 07d361b6-298b-5587-a2f9-acf50c099345
+classicId: '3319734'
 classicProductId: '714513'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: d52a9a50-1aca-455b-9fd6-89a15fe985e5
+id: a3348581-977f-48c2-9f6c-5364082d2124
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/avif
-  id: 3ea3aef2-bda8-4939-ab5b-d59bf280e855
-  priority: 0
-  slug: 1740550-avif-logo-0
+  extension: png
+  id: 1740550
+  priority: 100
+  slug: gregory-logo
   type: logo
-offerId: e0d62d96-67be-4232-bf8c-f1ef408fa209
+offerId: 06523f2d-c7e6-46d2-8253-e66aa0ff4bda
 price:
   cents: 14995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 325
 slug: gregory-katmai-65-rc-rugzak-md-lg-oxide-groen
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Gregory Katmai 65 RC Rugzak | MD/LG | Oxide Groen

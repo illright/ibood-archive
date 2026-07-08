@@ -1,12 +1,12 @@
-_id: 6a425efd1a94c97d3783753e
+_id: 6a4cec7082f63461233f55fe
 appOnly: false
 brand: Gregory
 brands:
   - id: 130860bd-950e-5cea-bf5a-45765860cd93
     name: Gregory
 categories:
-  - db7aa480-b636-5245-8fb3-4b10a9933e01
-classicId: '3300954'
+  - 07d361b6-298b-5587-a2f9-acf50c099345
+classicId: '3319721'
 classicProductId: '714516'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: faf75168-216f-4b3c-9c9c-711c69a32a19
+id: a880703a-3d1f-4897-92a1-7bbc3e7dbb38
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/avif
-  id: 6d814bc9-8b04-4bc2-979b-9b51ca7aed7c
-  priority: 0
-  slug: 1740550-avif-logo-0
+  extension: png
+  id: 1740550
+  priority: 100
+  slug: gregory-logo
   type: logo
-offerId: b92beffb-0f03-4c4f-b19c-e9446c14d815
+offerId: f75ac5a5-1f12-4474-86b9-08d396df8359
 price:
   cents: 16995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 380
 slug: gregory-deva-80-pro-rc-lava-grijs
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Gregory Deva 80 Pro RC | Lavagrijs

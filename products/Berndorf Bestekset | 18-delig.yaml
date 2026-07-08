@@ -1,22 +1,22 @@
-_id: 6a3cf81ce13f18296b9be222
+_id: 6a4cc1c46affe563e2a50c28
 appOnly: false
 brand: Berndorf
 brands:
   - id: 5e8ec430-c966-58b9-b93c-1a3e55678e2b
     name: Berndorf
 categories:
-  - 3d8a3803-bdff-5870-ad0a-9994b807972f
-classicId: '3298745'
+  - a49e6ebe-59a4-5009-879e-5a5f354a8bdb
+classicId: '3315395'
 classicProductId: '717560'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 83
-end: '2026-07-07T21:59:59.999Z'
+discount: 87
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 7913f23a-3f4b-54ac-a220-e179afef6af0
+id: c7bb1e63-8157-47aa-a509-9c6ed323b665
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: bestekk-png-product-1
   type: product
-offerId: a12e5e8e-1c50-56c9-aa6f-fcfc2635af7c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1710046
+  priority: 100
+  slug: berndorf-logo
+  type: logo
+offerId: 53204173-5035-4b8b-863d-1c1f1de30e44
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 14994
   currency: EUR
   value: 149.94
 slug: berndorf-18-delige-bestekset
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Berndorf Bestekset | 18-delig

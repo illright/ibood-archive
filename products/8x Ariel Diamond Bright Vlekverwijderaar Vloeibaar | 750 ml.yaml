@@ -1,12 +1,12 @@
-_id: 6a3bdd5057e7abb2223cd11d
+_id: 6a4cdf989fdbe1f2752270a7
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 237fa092-6283-5636-8047-fc5e69c05139
-classicId: '3297880'
+  - 7619e986-64f8-5660-b960-b048a56cb69b
+classicId: '3316584'
 classicProductId: '717398'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 7af69dde-b0d8-5a78-8af6-222a15997f8c
+id: 9a3646dc-d0ed-4166-b9af-369741686dbf
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1bdbf5fb-5b19-49a5-9898-0abedd7fb465
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: a9c901c5-1f7d-5328-aa38-14d59d1e6b2d
+offerId: 1d7ae408-2174-451f-aa28-676be7d5dcf2
 price:
   cents: 2795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.92
 slug: 8x-ariel-diamond-bright-vlekverwijderaar-750-ml
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: 8x Ariel Diamond Bright Vlekverwijderaar Vloeibaar | 750 ml

@@ -1,22 +1,22 @@
-_id: 6a439df20fe28488cb54927a
+_id: 6a4d020f4b11d0484bc3624b
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - 349c54aa-d906-5aae-92e1-5a4d25ea4af9
-classicId: '3304504'
+  - 8791eedb-8358-586e-8e07-70008db4e9b4
+classicId: '3321901'
 classicProductId: '682608'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 81
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 3f4a4bdc-2a95-40a0-b0c8-b119dc674906
+id: b80feebc-9f9f-44e3-af0b-9f5082498a3e
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: ba0ff259-9d4c-4254-901d-e892fbe20419
+  id: 8b09a14e-34cc-4691-978f-489386a4b7db
   priority: 0
-  slug: dick-moby-helsinki-hel-brown-yellow-product-2
+  slug: bril-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: dick-moby-logo
   type: logo
-offerId: d1ec374d-b989-4f5b-b2d1-55709acb9811
+offerId: fe137dcc-5d71-4e38-83ed-ba4b95ea672f
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 210
 slug: dick-moby-helsinki-zonnebril-unisex-brown-yellow
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Dick Moby Helsinki Zonnebril | Unisex | Brown Yellow

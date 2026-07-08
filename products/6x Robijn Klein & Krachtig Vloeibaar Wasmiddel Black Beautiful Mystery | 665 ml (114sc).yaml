@@ -1,12 +1,12 @@
-_id: 6a39459194d1fa507c632e39
+_id: 6a4ce2fa17ec80046d33ee4f
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 237fa092-6283-5636-8047-fc5e69c05139
-classicId: '3291505'
+  - 7619e986-64f8-5660-b960-b048a56cb69b
+classicId: '3318295'
 classicProductId: '716831'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 66325bb0-5a31-5bfe-927e-1b772a4bf763
+id: de0359de-ad97-4962-9325-d71fda400b49
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 98d4aa51-33cc-4a8e-b0d1-379cd1692f59
-  priority: 0
-  slug: robijn-png-logo-0
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
   type: logo
-offerId: fd7cba3e-afbe-51fe-b6ec-55f3dc06c8f8
+offerId: a7509712-a503-4d51-a5d6-d5b58dd26a2d
 price:
   cents: 2995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 107.94
 slug: 6x-robijn-klein-krachtig-wasmiddel-black-beautiful-mystery-665-ml-114sc
-soldOut: true
-start: '2026-06-30T22:00:00.000Z'
+soldOut: false
+start: '2026-07-07T22:00:00.000Z'
 title: 6x Robijn Klein & Krachtig Vloeibaar Wasmiddel Black Beautiful Mystery | 665 ml (114sc)

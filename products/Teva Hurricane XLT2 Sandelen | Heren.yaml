@@ -1,22 +1,22 @@
-_id: 6a44cd4d5f0712d756b6472a
+_id: 6a4ceca979ab49fae0e53096
 appOnly: false
 brand: Teva
 brands:
   - id: 80dbbd54-bcc6-5a5d-9287-4de0be03652f
     name: Teva
 categories:
-  - d5cf0207-e800-567b-b397-e25c14c096e7
-classicId: '3310284'
-classicProductId: '702975'
+  - ca40d267-8dc0-59dc-b9ee-80562aa5f01c
+classicId: '3319833'
+classicProductId: '702976'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 47
-end: '2026-07-07T21:59:59.999Z'
+directCheckout: true
+discount: 41
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 62108efb-387a-41c5-b22a-5abf6e6f459f
+id: 6658040c-e180-4829-89a1-bbd98f4b6334
 image:
   channels:
     - app
@@ -32,25 +32,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d18fb3e4-8698-4200-86bd-cb36c192c7ba
-  priority: 0
-  slug: teva-logo-png-logo-0
+  extension: png
+  id: 1790673
+  priority: 100
+  slug: teva-logo
   type: logo
-offerId: 386b66f5-d793-4e83-b2e5-ddbe2a0efbeb
+offerId: de3ded9d-a1d5-4bf7-a466-e8bb1a7884e3
 price:
-  cents: 4500
+  cents: 4995
   currency: EUR
-  value: 45
+  value: 49.95
 referencePrice:
   cents: 8500
   currency: EUR
   value: 85
 slug: teva-hurricane-xlt2-sandelen-heren
-soldOut: true
-start: '2026-06-30T22:00:00.000Z'
+soldOut: false
+start: '2026-07-07T22:00:00.000Z'
 title: Teva Hurricane XLT2 Sandelen | Heren

@@ -1,22 +1,22 @@
-_id: 6a43bb3cb52733d26362c0f8
+_id: 6a4ceb7f7a0279f5bc32b504
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 8e61367e-e1e2-5351-b10a-485cc18555b7
-classicId: '3309355'
+  - a895e9c2-ad72-506a-8ccd-4f1fd372c1dd
+classicId: '3319494'
 classicProductId: '688437'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 33
-end: '2026-07-07T21:59:59.999Z'
+discount: 44
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 19f7bba6-8998-4d27-a72c-4d9e27ea539e
+id: 9e614f5f-f9a3-45c5-974b-872dde1465ca
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 7351e8db-63e3-440b-b6b8-e492c52178f3
-  priority: 0
-  slug: greve-png-logo-0-png-logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: 3e2d469c-8eb1-4718-b0ca-4b5827019f25
+offerId: 8842d62a-453a-4b6d-a40a-5724299aa337
 price:
-  cents: 11995
+  cents: 9995
   currency: EUR
-  value: 119.95
+  value: 99.95
 referencePrice:
   cents: 18000
   currency: EUR
   value: 180
 slug: greve-cannes-suede-loafers-heren-aviatore
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Greve Cannes Suede Loafers | Heren | Aviatore

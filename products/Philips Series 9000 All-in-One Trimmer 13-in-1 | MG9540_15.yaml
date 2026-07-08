@@ -1,12 +1,12 @@
-_id: 6a438d6f99041f4f1de57406
+_id: 6a4cc251d1878262473ea56a
 appOnly: false
 brand: Philips
 brands:
   - id: ec36453d-811a-5d81-beac-cfcb22b98d4c
     name: Philips
 categories:
-  - b58cc1fd-2763-5198-805e-aee1f6eba487
-classicId: '3303851'
+  - 9abb090c-7d29-5751-949c-0631dcf1c651
+classicId: '3315603'
 classicProductId: '715551'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 78f03fba-5355-413d-a913-731de3a5f659
+id: a978de6f-d28a-4064-8d41-5a8c83bc6990
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: philips-mg9540-15-all-in-one-series-9000-multigroom-trimmer-product-1
   type: product
-offerId: 158ee947-45b8-467b-ba8d-ae1f26ef03ef
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8839768c-b3ef-4041-8701-8fde1a9736f3
+  priority: 0
+  slug: philips-deals-logo-0
+  type: logo
+offerId: a2ea26c8-ed04-400f-981a-cea330ed681a
 price:
   cents: 5495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 99.99
 slug: philips-series-9000-all-in-one-trimmer-mg9540-15
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Philips Series 9000 All-in-One Trimmer 13-in-1 | MG9540/15

@@ -1,12 +1,12 @@
-_id: 6a43a0bffbcd5b967831443d
+_id: 6a4d016223314ddfcb04a400
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - e78a655a-f189-563f-8605-7955f75a130b
-classicId: '3305421'
+  - acc96e87-e407-5f34-ab87-2aa3cacbdba1
+classicId: '3321406'
 classicProductId: '695969'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 48
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 42f11433-9157-4b22-b44b-97428a3b554e
+id: 19298d55-3841-4e25-864d-e9c9da517b38
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9e0a5625-a079-4e3f-8374-8bb43fe55502
-  priority: 0
-  slug: wrangler-logo-101-png-logo-0
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
   type: logo
-offerId: 409650cf-cdbf-41f2-af02-72ea03a92ebc
+offerId: 82c1b334-5506-4838-91f6-2e9e6d3ce267
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 24.95
 slug: wrangler-americana-t-shirt-ermine
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Wrangler Americana T-Shirt | Ermine

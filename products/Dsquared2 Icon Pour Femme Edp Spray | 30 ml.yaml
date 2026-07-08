@@ -1,12 +1,12 @@
-_id: 6a3cd318e13f18296b9bdae3
+_id: 6a4ce02de77032d7e2eca611
 appOnly: false
 brand: Dsquared2
 brands:
   - id: eb141a22-8982-5ca2-9bc2-8b16b24ffd15
     name: Dsquared2
 categories:
-  - 0f03baac-6424-5b29-9603-8abe4792d2f4
-classicId: '3298015'
+  - a1420578-667c-590b-b312-c17421243cd2
+classicId: '3316761'
 classicProductId: '717417'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: a637bab6-ec62-5ae2-b005-267f891619c1
+id: 8b444487-7489-4407-aaf8-70178280eed7
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: dsquared2-icon-pour-femme-edp-30ml-product-0
   type: product
-offerId: 5c9043ca-d715-54e0-a729-519e4b031d8d
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 42cb0a84-e43e-4a6b-a16f-32fe7263d769
+  priority: 0
+  slug: dsquared2-logo-0
+  type: logo
+offerId: e636d459-d085-459b-af8f-909dbe0109f6
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 50
 slug: dsquared2-icon-pour-femme-edp-spray-30-ml
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Dsquared2 Icon Pour Femme Edp Spray | 30 ml

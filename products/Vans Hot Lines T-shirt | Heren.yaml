@@ -1,12 +1,12 @@
-_id: 6a43a0a34630208120807df8
+_id: 6a4d01bd2aa61f44c2878bd8
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - e78a655a-f189-563f-8605-7955f75a130b
-classicId: '3305371'
+  - 6ca51fe2-f661-5ee5-87d7-f69877fde2b2
+classicId: '3321600'
 classicProductId: '692215'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 29
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 59168caa-8cda-4da1-984d-6acd8dcdfe3f
+id: c29b7f68-64d0-447d-9e86-3c1084a69137
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 66102488-ed56-4153-9672-821deec95fdc
-  priority: 0
-  slug: vans-png-logo-0
+  extension: png
+  id: 1682080
+  priority: 100
+  slug: vans-logo
   type: logo
-offerId: 1a9a5537-9703-4270-a4c5-e163d34cc7b4
+offerId: bf60fd19-8a79-4317-9e90-2c44048efd2f
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 35
 slug: vans-hot-lines-t-shirt-heren
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Vans Hot Lines T-shirt | Heren

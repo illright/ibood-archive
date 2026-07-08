@@ -1,12 +1,12 @@
-_id: 6a44cd4f0e72f6562fd49e40
+_id: 6a4cecd517ec80046d33f20f
 appOnly: false
 brand: Claw
 brands:
   - id: cbb95331-e606-53ec-bf32-fbdaa4c937b3
     name: Claw
 categories:
-  - d5cf0207-e800-567b-b397-e25c14c096e7
-classicId: '3310288'
+  - 1b01747f-8f8c-5b9c-aee6-3888478f4c3b
+classicId: '3319900'
 classicProductId: '692885'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 31
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 5afb7fa4-ecf6-4475-9aae-c5f7872c1e10
+id: 1cba5583-8d98-4f47-a177-21f928548e6f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 37-black-082457-00-001-37-held-torrance-sneaker-product-1
   type: product
-offerId: 9d35f5e0-902f-43e8-95d9-4b4906ec2371
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c2f5ecc5-3c1a-427c-bd1b-0446d4e9ee88
+  priority: 0
+  slug: claw-logo-0
+  type: logo
+offerId: 49545d04-b88b-47f4-ad81-e191c7a4f1d9
 price:
   cents: 12500
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 179.95
 slug: held-torrance-motorschoenen-heren
-soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+soldOut: true
+start: '2026-07-07T22:00:00.000Z'
 title: Held Torrance Motorschoenen | Heren

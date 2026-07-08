@@ -1,12 +1,12 @@
-_id: 6a3e4ebec2c7fd007442999f
+_id: 6a4cf88550ace4b3c532cbf8
 appOnly: false
 brand: Saucony
 brands:
   - id: 33b2f2e4-ad97-59ac-b5c4-ff72b943bed0
     name: Saucony
 categories:
-  - 6dbfb6aa-f2ee-578a-9836-51ba534be9a8
-classicId: '3299494'
+  - 1edeaf9f-1159-5a22-88d0-c74f9d91b5cf
+classicId: '3320234'
 classicProductId: '717036'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-07-12T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 0d94b0d8-0072-5cd3-815c-35f7c466a7e3
+id: d2376249-ce99-408f-9905-137b0a010f15
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 46-black-henna-001-s70812-66-ride-millennium-saucony-sneaker-product-0
   type: product
-offerId: 752b2934-213a-559a-97de-f61975c84a35
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f94c3acf-818d-4b16-9bb5-088d250ef6ed
+  priority: 101
+  slug: saucony-logo-101
+  type: logo
+offerId: 5dc69960-dc08-4920-8df4-00f6c20860d7
 price:
   cents: 7995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 120
 slug: saucony-ride-millennium-disrupt-sneakers-unisex-zwart-henna
 soldOut: false
-start: '2026-07-05T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Saucony Ride Millennium Disrupt Sneakers | Unisex

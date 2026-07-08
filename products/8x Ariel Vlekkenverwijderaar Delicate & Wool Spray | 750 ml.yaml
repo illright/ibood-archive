@@ -1,12 +1,12 @@
-_id: 6a3bdd4f57e7abb2223cd11b
+_id: 6a4cdf969e2b34cbb5c5a6ad
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 237fa092-6283-5636-8047-fc5e69c05139
-classicId: '3297878'
+  - 7619e986-64f8-5660-b960-b048a56cb69b
+classicId: '3316583'
 classicProductId: '717400'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 196b71f4-27d7-590f-937a-d31901da68e3
+id: bdb3d088-e793-48d2-805b-e3b029f40d02
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 69c69daf-9113-461a-8b9f-cb0978993280
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: fe43da7d-28df-57b3-b9b8-d590d9041f0d
+offerId: 2f171b76-32e7-49bf-a1c1-b3bd736344b7
 price:
   cents: 2795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.92
 slug: 8x-ariel-vlekkenverwijderaar-delicate-wool-spray-750-ml
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: 8x Ariel Vlekkenverwijderaar Delicate & Wool Spray | 750 ml

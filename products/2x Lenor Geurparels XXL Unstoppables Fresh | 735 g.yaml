@@ -1,12 +1,12 @@
-_id: 6a43b5388432a1679f565e5f
+_id: 6a4ce13a9fdbe1f27522735a
 appOnly: false
 brand: Lenor
 brands:
   - id: e07bbf59-7c5e-502f-acab-fa2bb6bdfa34
     name: Lenor
 categories:
-  - 237fa092-6283-5636-8047-fc5e69c05139
-classicId: '3306810'
+  - 7619e986-64f8-5660-b960-b048a56cb69b
+classicId: '3317199'
 classicProductId: '708209'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: cb19cb19-140f-4a3e-ac98-833eb889a10d
+id: c672f798-fcac-4f38-b9c3-c0513744a562
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1526341
-  priority: 100
-  slug: lenor-logo
+    - all
+  extension: image/png
+  id: c63928bf-24e5-42b7-9b4c-d10d31e2d720
+  priority: 0
+  slug: lenor-png-logo-0
   type: logo
-offerId: 4e24607f-ce4d-4cc6-b97f-75d539404af3
+offerId: 1de8dd0c-83b1-431a-8cfa-c686a7d8949e
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 79.98
 slug: 2x-lenor-geurparels-xxl-unstoppables-fresh-735-g
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: 2x Lenor Geurparels XXL Unstoppables Fresh | 735 g

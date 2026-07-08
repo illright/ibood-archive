@@ -1,12 +1,12 @@
-_id: 6a3aa24a924bf2954e421cf2
+_id: 6a4cb93b89a4bb2c11038faa
 appOnly: false
 brand: elho
 brands:
   - id: 56c3bac3-6ef0-521c-9a6b-862d4cf47201
     name: elho
 categories:
-  - 13f7f7ed-f9cb-5d3c-9258-3dcd88ed5ca2
-classicId: '3295025'
+  - 2e9eed13-7f24-5a67-a66b-163d943ae33c
+classicId: '3314899'
 classicProductId: '716994'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 1b3e03ed-2fbc-550d-a0d7-7765efb4e5e2
+id: 1c0f5481-515f-5e81-a808-217d57549c03
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e620714c-4ad5-4400-b8ef-2c56a1641961
-  priority: 0
-  slug: elho-logo-png-logo-0
+  extension: png
+  id: 1891681
+  priority: 100
+  slug: elho-logo
   type: logo
-offerId: 67027177-5aed-57c1-a1f9-e60330bee186
+offerId: aa66d371-f971-5b4a-88f6-3721e84fc044
 price:
   cents: 995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 19.99
 slug: elho-noa-balkonbak-m-met-waterreservoir-52-cm-black
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Elho Noa Balkonbak M met Waterreservoir | 52 cm | Black

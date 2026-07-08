@@ -1,22 +1,22 @@
-_id: 6a439f784630208120807bf7
+_id: 6a4d00d59b788ce6b26fb971
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - e78a655a-f189-563f-8605-7955f75a130b
-classicId: '3305117'
-classicProductId: '707539'
+  - 00cf95e2-56c8-5f40-8db9-c816acda79a7
+classicId: '3321100'
+classicProductId: '707537'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: acd0d6d0-748f-4c22-b324-f6a64dc0b995
+id: 07a32e6c-933a-4c72-b70e-3a7d29aecec1
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0a65a32b-1cff-45b9-8625-95586e67df84
-  priority: 0
-  slug: new-zealand-auckland-png-logo-0
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
   type: logo
-offerId: 75ce4972-4b1b-464f-895b-0dc926f4b2cb
+offerId: 8055ef45-5b1b-4a3e-823a-6ac68462fc7d
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119.99
 slug: nza-cardigan-katoen-26ds409
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: NZA Cardigan Katoen | 26DS409

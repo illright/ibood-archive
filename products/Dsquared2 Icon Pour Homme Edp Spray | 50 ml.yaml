@@ -1,12 +1,12 @@
-_id: 6a3cd319e13f18296b9bdae5
+_id: 6a4ce0287f5ba91a6101fd7b
 appOnly: false
 brand: Dsquared2
 brands:
   - id: eb141a22-8982-5ca2-9bc2-8b16b24ffd15
     name: Dsquared2
 categories:
-  - 0f03baac-6424-5b29-9603-8abe4792d2f4
-classicId: '3298016'
+  - a1420578-667c-590b-b312-c17421243cd2
+classicId: '3316759'
 classicProductId: '717418'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: adda379d-e280-5e11-84a6-b7dbcd271c24
+id: d837a434-6b26-47b5-baef-2358fae2b4e4
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: dsquared2-icon-pour-homme-edp-50ml-product-0
   type: product
-offerId: 4caa8903-8a74-56cb-beb6-74a8e9ff7866
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 42cb0a84-e43e-4a6b-a16f-32fe7263d769
+  priority: 0
+  slug: dsquared2-logo-0
+  type: logo
+offerId: 1618e245-cb1f-4ddc-bd29-2a8bcf8e9692
 price:
   cents: 3295
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 75
 slug: dsquared2-icon-pour-homme-edp-spray-50-ml
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Dsquared2 Icon Pour Homme Edp Spray | 50 ml

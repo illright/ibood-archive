@@ -1,22 +1,22 @@
-_id: 6a425f93afa29bddd83a804d
+_id: 6a4cec4679ab49fae0e52f99
 appOnly: false
 brand: Comfort Essentials
 brands:
   - id: e2b67ca2-60a4-5739-a727-e907dd3eadf6
     name: Comfort Essentials
 categories:
-  - d5cf0207-e800-567b-b397-e25c14c096e7
-classicId: '3301158'
+  - cd5bfa81-0600-5a58-8aaf-cef695b95b2d
+classicId: '3319642'
 classicProductId: '680953'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 79
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 9ba3081c-e8a1-4e58-8090-302efbe0607d
+id: bf07299d-edb2-421a-acd7-663e2cf606b5
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: 6-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1948295
-  priority: 100
-  slug: comfort-essentials-logo
-  type: logo
-offerId: ce0167f6-59d4-4f7a-9d9d-fec85a546a73
+offerId: 5eed41a0-9fab-43b1-b376-93948b7e5366
 price:
   cents: 1250
   currency: EUR
@@ -49,5 +39,5 @@ referencePrice:
   value: 59.9
 slug: 6-paar-comfort-essentials-merinowollen-kniekousen
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: 6x Comfort Essentials Merinowollen Kniekousen

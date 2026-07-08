@@ -1,22 +1,22 @@
-_id: 6a43baec2ccd204250331408
+_id: 6a4cebbe027811c8f666b640
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 8e61367e-e1e2-5351-b10a-485cc18555b7
-classicId: '3309327'
-classicProductId: '689911'
+  - 76a3fc08-0a95-5d59-a38a-c69d8fc1e464
+classicId: '3319519'
+classicProductId: '658969'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 56
-end: '2026-07-07T21:59:59.999Z'
+directCheckout: false
+discount: 58
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: ac336c4d-2272-4760-aa41-b32d56c77bd1
+id: dbcba88e-8db0-45d1-97d8-7752f2f495c1
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8e1ec07f-62b7-413e-9cd7-12643664ca86
+  id: 298423f8-0321-40d0-afd3-78aafef88612
   priority: 0
-  slug: main-png-product-2
+  slug: main-png-product-0
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: bjorn-borg-logo
   type: logo
-offerId: 7009460d-dba7-4e51-ad61-a99940b753a0
+offerId: 5766a180-b0c2-49f2-8244-ec04e944dc75
 price:
-  cents: 3495
+  cents: 3320
   currency: EUR
-  value: 34.95
+  value: 33.2
 referencePrice:
   cents: 7995
   currency: EUR
   value: 79.95
 slug: bjorn-borg-line-t2020-sneakers-heren
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Björn Borg Line T2020 Sneakers | Heren

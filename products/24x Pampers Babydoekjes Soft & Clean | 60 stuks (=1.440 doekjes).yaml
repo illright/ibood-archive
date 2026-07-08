@@ -1,12 +1,12 @@
-_id: 6a43b71e5210c36103a5005f
+_id: 6a4ce2aee77032d7e2eca79b
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 237fa092-6283-5636-8047-fc5e69c05139
-classicId: '3308415'
+  - 7619e986-64f8-5660-b960-b048a56cb69b
+classicId: '3318069'
 classicProductId: '714059'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: f05e7b7c-5170-4356-8d13-b30cb98362cd
+id: 9dacedd2-a5ea-46ff-9859-eb42e3aa82be
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3dd8efa0-803b-49ea-8b09-2347635b5535
-  priority: 0
-  slug: pampers-png-logo-0
+  extension: png
+  id: 1919243
+  priority: 100
+  slug: pampers-logo
   type: logo
-offerId: 7761b8c9-f036-4978-9ed4-2a5413b51ab4
+offerId: 2cfbafd1-4173-4922-a171-384497e9543e
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 69.2
 slug: 24x-pampers-babydoekjes-soft-clean-60-stuks
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: 24x Pampers Babydoekjes Soft & Clean | 60 stuks (=1.440 doekjes)

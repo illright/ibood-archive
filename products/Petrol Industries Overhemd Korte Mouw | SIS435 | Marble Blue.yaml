@@ -1,12 +1,12 @@
-_id: 6a439ee14630208120807b35
+_id: 6a4d01017b24b2499b3013cd
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - e78a655a-f189-563f-8605-7955f75a130b
-classicId: '3304901'
+  - b386c6c8-85d5-5e14-8bc3-639084a6dfa9
+classicId: '3321175'
 classicProductId: '712292'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 4a8f5390-2b2a-40fc-8cde-853e39ce2d7f
+id: 6b57a66a-fbb8-4d09-90c3-6cde655aa33e
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 41e2d8e7-88af-4915-af42-257906792a21
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: 2015b334-e07f-4d4a-900f-3d794c0bf93f
+offerId: 5e138929-c668-4b81-bf3d-9fb764261495
 price:
   cents: 3495
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 59.99
 slug: petrol-industries-overhemd-korte-mouw-sis435-marble-blue
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Petrol Industries Overhemd Korte Mouw | SIS435 | Marble Blue

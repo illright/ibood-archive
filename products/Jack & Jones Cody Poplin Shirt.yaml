@@ -1,0 +1,53 @@
+_id: 6a4d020130d6d788edc74a62
+appOnly: false
+brand: Jack & Jones
+brands:
+  - id: 39b25177-ad63-5409-b26f-12f28f1d2104
+    name: Jack & Jones
+categories:
+  - b386c6c8-85d5-5e14-8bc3-639084a6dfa9
+classicId: '3321850'
+classicProductId: '669934'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: false
+discount: 79
+end: '2026-07-14T21:59:59.999Z'
+freeDelivery: false
+id: 2ccc3dd9-da54-4a52-9da0-e3458458e0d7
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b57533e5-cdd2-4c5c-9427-1a0a16e4d7ad
+  priority: 0
+  slug: 1-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 514701b5-faee-4038-b6fe-190336a2fb63
+price:
+  cents: 850
+  currency: EUR
+  value: 8.5
+referencePrice:
+  cents: 3999
+  currency: EUR
+  value: 39.99
+slug: jack-jones-cody-poplin-shirt
+soldOut: false
+start: '2026-07-07T22:00:00.000Z'
+title: Jack & Jones Cody Poplin Shirt

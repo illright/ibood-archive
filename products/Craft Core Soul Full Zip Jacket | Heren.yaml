@@ -1,31 +1,32 @@
-_id: 6a425fb2afa29bddd83a8067
+_id: 6a4cec20027811c8f666b65e
 appOnly: false
 brand: Craft
 brands:
   - id: 09b7114d-4fc0-558a-b80e-d591eac9cb8f
     name: Craft
 categories:
-  - b63cf63a-4867-5b49-a36a-704a7db3177a
-classicId: '3301212'
-classicProductId: '618182'
+  - cd5bfa81-0600-5a58-8aaf-cef695b95b2d
+classicId: '3319595'
+classicProductId: '691615'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 61
-end: '2026-07-07T21:59:59.999Z'
+discount: 67
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 88e41f27-cb68-42a0-969a-8449f5d81ea1
+id: 2ebeb230-d68c-4982-8245-1829f3baedf4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2173705
+    - all
+  extension: image/png
+  id: e6e8b7e8-a3c3-4e24-bdc4-ad71df35eac6-tr
   priority: 0
-  slug: craft-core-soul-full-zip-jacket
+  slug: xl-black-1910621-999000-core-soul-full-zip-jkt-m-craft-product-0
   type: product
 logo:
   channels:
@@ -33,22 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2173702
+  id: 1667968
   priority: 100
-  slug: craft-core-soul-full-zip-jacket
+  slug: craft-logo
   type: logo
-offerId: 4ff70164-d148-45bf-a349-15fbbf8bf5f6
+offerId: f04d7f99-992e-4fc5-ada2-8d9b1e121a84
 price:
-  cents: 3495
+  cents: 3000
   currency: EUR
-  value: 34.95
+  value: 30
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: craft-core-soul-full-zip-jacket
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
-title: Craft Core Soul Full Zip Jacket | Heren
-:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Craft Core Soul Full Zip Jacket | Heren

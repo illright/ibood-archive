@@ -1,22 +1,22 @@
-_id: 6a439dab0fe28488cb549258
+_id: 6a4d01969b788ce6b26fba89
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - e78a655a-f189-563f-8605-7955f75a130b
-classicId: '3304418'
-classicProductId: '694727'
+  - 41813cfb-88fc-5209-a164-fadd59739375
+classicId: '3321529'
+classicProductId: '689824'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 65
-end: '2026-07-07T21:59:59.999Z'
+directCheckout: true
+discount: 78
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 772fb6b6-82b5-4685-9d5c-7d174522f57a
+id: 1c07b168-a54d-4c14-8120-6032df9f88fb
 image:
   channels:
     - app
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 496cf3ee-95a9-4dc9-b0a6-a389d7fa61d9
+offerId: 0a1f8f79-c2c0-4e5f-abbb-bd91e3aa6777
 price:
-  cents: 3495
+  cents: 2180
   currency: EUR
-  value: 34.95
+  value: 21.8
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: mcgregor-pullover-met-merinowol
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: McGregor Pullover met Merinowol | Heren
+n

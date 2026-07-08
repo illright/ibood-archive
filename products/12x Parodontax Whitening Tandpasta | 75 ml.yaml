@@ -1,12 +1,12 @@
-_id: 6a43b722b52733d26362c02f
+_id: 6a4ce2b19fdbe1f275227758
 appOnly: false
 brand: Parodontax
 brands:
   - id: bf8b202c-74fe-5b42-b1c6-544e4e9b82d5
     name: Parodontax
 categories:
-  - 237fa092-6283-5636-8047-fc5e69c05139
-classicId: '3308419'
+  - 7619e986-64f8-5660-b960-b048a56cb69b
+classicId: '3318092'
 classicProductId: '711057'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 5d55d601-b814-4e69-bedf-c22852ac6b24
+id: 1f0b5f28-54f7-4b64-be4e-4a8c24a2f949
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 1e3e71f4-4ced-4afa-bc98-f467f6a5a717
-  priority: 0
-  slug: paradontax-03-png-product-1
+  id: 02c9dbd7-29e7-4f80-be6b-ddf5a63dbdde
+  priority: 1
+  slug: paradontax-02-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: parodontax-logo
   type: logo
-offerId: eca7fb0a-c3c1-47b7-bd63-898bf88f5e8c
+offerId: babace32-978e-497a-b35d-c6b935c2c679
 price:
   cents: 3495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 74.98
 slug: 12x-parodontax-whitening-tandpasta-75-ml
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: 12x Parodontax Whitening Tandpasta | 75 ml

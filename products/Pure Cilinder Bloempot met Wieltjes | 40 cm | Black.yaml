@@ -1,12 +1,12 @@
-_id: 6a3a9ff757866835ee9db055
+_id: 6a4bb880bad330a2ea95491f
 appOnly: false
 brand: elho
 brands:
   - id: 56c3bac3-6ef0-521c-9a6b-862d4cf47201
     name: elho
 categories:
-  - 13f7f7ed-f9cb-5d3c-9258-3dcd88ed5ca2
-classicId: '3294960'
+  - 2e9eed13-7f24-5a67-a66b-163d943ae33c
+classicId: '3314394'
 classicProductId: '713228'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 30
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: e2285134-b907-545a-a774-4124f5da2358
+id: 3b6d935f-4196-4a14-9110-1a15be5adeb6
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3f9efe1f-542d-4668-8068-ded959fb2b56
-  priority: 0
-  slug: elho-logo-png-logo-0
+  extension: png
+  id: 1891681
+  priority: 100
+  slug: elho-logo
   type: logo
-offerId: edba6d56-9272-5dd9-9358-af97e09c4b2e
+offerId: d2bd1987-7cff-41be-8c95-89149887a7ca
 price:
   cents: 5495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79
 slug: pure-cilinder-bloempot-met-wieltjes-40-cm-black
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Pure Cilinder Bloempot met Wieltjes | 40 cm | Black

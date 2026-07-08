@@ -1,12 +1,12 @@
-_id: 6a3cd30cd8517802ce4c7e1d
+_id: 6a4ce05e027811c8f666b151
 appOnly: false
 brand: Kenzo
 brands:
   - id: 49f019c9-3cef-55d6-953a-682b365fe06a
     name: Kenzo
 categories:
-  - 0f03baac-6424-5b29-9603-8abe4792d2f4
-classicId: '3298013'
+  - a1420578-667c-590b-b312-c17421243cd2
+classicId: '3316835'
 classicProductId: '717415'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 72
-end: '2026-07-07T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 33855581-835a-5208-b89a-1756755399b6
+id: 1ccaaff5-da4d-46b9-9e77-a9a72178108d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: kenzo-flower-by-kenzo-wmn-edt-50ml-product-0
   type: product
-offerId: c0dea9cc-ad73-56d9-bf95-0f97ee3c4549
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2000556
+  priority: 100
+  slug: kenzo-logo
+  type: logo
+offerId: 7752385e-417f-4a51-9701-343472950a35
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 108.33
 slug: kenzo-flower-by-kenzo-edt-spray-50-ml
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-07T22:00:00.000Z'
 title: Kenzo Flower By Kenzo Edt Spray | 50 ml
