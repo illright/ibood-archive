@@ -1,12 +1,12 @@
-_id: 6a4d01bf4b11d0484bc361b5
+_id: 6a4cfe42d3a7668749eae4ad
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 99a25141-3c75-5149-87db-3f8201635b33
-classicId: '3321610'
+  - b2bb6009-033b-5a4b-b968-03151e2c91ba
+classicId: '3320398'
 classicProductId: '704351'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 33
 end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 001823ee-6060-4662-9dea-10e8361a3ab4
+id: 92d0856b-d851-4325-93d0-dd8cd71f8ec7
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9a26c514-b736-463d-9d78-a50775dd29bc
-  priority: 0
-  slug: lacoste-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: 6200d669-c0a5-47b6-a449-3964416e2aea
+offerId: f5ea4747-e261-4d17-b897-d03361e04489
 price:
   cents: 5995
   currency: EUR
@@ -51,4 +50,6 @@ referencePrice:
 slug: lacoste-shorts-heren
 soldOut: false
 start: '2026-07-07T22:00:00.000Z'
+title: Lacoste Shorts | Heren
+-07T22:00:00.000Z'
 title: Lacoste Shorts | Heren

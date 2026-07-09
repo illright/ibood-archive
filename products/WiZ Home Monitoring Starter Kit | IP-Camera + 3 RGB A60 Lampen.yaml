@@ -1,12 +1,12 @@
-_id: 6a438cc9e1f80aebc6c5c2d1
+_id: 6a4e068e97e1d5238f6fb420
 appOnly: false
 brand: WiZ
 brands:
   - id: c4f39e01-9a4a-5645-aeb2-f8ece5152015
     name: WiZ
 categories:
-  - a37c4bef-88ef-5150-a4a5-2b617ef54513
-classicId: '3303529'
+  - 93973cb7-128b-5f81-8634-893c5a05bb29
+classicId: '3322490'
 classicProductId: '696699'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 88
-end: '2026-07-08T21:59:59.999Z'
+end: '2026-07-15T21:59:59.999Z'
 freeDelivery: false
-id: 65e1a4af-e96f-4a13-9f24-8442f504ecc2
+id: 5b01105e-8465-4096-a012-09b36a72c950
 image:
   channels:
     - app
@@ -30,7 +30,7 @@ image:
   priority: 0
   slug: wiz-home-monitoring-starter-kit-wiz-eu-product-5
   type: product
-offerId: cbefee78-e25b-4b6e-a99f-ead9b312a42a
+offerId: 7a634686-3bda-4977-b64a-c82ac2f6be40
 price:
   cents: 1995
   currency: EUR
@@ -40,6 +40,6 @@ referencePrice:
   currency: EUR
   value: 159.99
 slug: wiz-home-monitoring-starterkit
-soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+soldOut: true
+start: '2026-07-08T22:00:00.000Z'
 title: WiZ Home Monitoring Starter Kit | IP-Camera + 3 RGB A60 Lampen

@@ -1,12 +1,12 @@
-_id: 6a4d01027b24b2499b3013d0
+_id: 6a4cfd9597e1d5238f6faab1
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 1fc394d6-36cd-539c-a1da-b492daf64523
-classicId: '3321182'
+  - daad95b8-47f0-554c-a4b1-bb4efcf77acb
+classicId: '3320278'
 classicProductId: '413060'
 deliveryPrice:
   cents: 395
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 40
 end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: dc820203-3c66-4dbb-8490-7b79235e0d54
+id: 53499fe8-578f-46cf-9905-d02e3aa2d64a
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: e9ac5740-711c-4a40-85ef-5992d5b5bc0c
+offerId: e5df6037-8afb-4c40-8f40-68d3a0e44fbd
 price:
   cents: 1495
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 24.99
 slug: jack-jones-studio-zwemshort
-soldOut: false
+soldOut: true
 start: '2026-07-07T22:00:00.000Z'
 title: Jack & Jones Studio Zwemshort

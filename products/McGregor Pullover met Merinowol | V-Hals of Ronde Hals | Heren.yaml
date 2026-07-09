@@ -1,22 +1,22 @@
-_id: 6a4d008697e1d5238f6fb003
+_id: 6a4d0075397e3867d1ebf0b2
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 41813cfb-88fc-5209-a164-fadd59739375
-classicId: '3321005'
-classicProductId: '669656'
+  - 00cf95e2-56c8-5f40-8db9-c816acda79a7
+classicId: '3320992'
+classicProductId: '668643'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 78
+directCheckout: true
+discount: 82
 end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 7fe4f807-3b3e-4891-8e41-951b9f2e4379
+id: fd3bb94e-42c1-4ae3-9d72-36ef36ad72bf
 image:
   channels:
     - app
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 3c99d568-f175-4a79-9fd8-ae25d2bc755c
+offerId: d8f27e19-4ed7-414d-bf8c-13f23cabdace
 price:
-  cents: 2180
+  cents: 1800
   currency: EUR
-  value: 21.8
+  value: 18
 referencePrice:
   cents: 9995
   currency: EUR
@@ -51,3 +51,4 @@ slug: mcgregor-pullover-met-merinowol
 soldOut: false
 start: '2026-07-07T22:00:00.000Z'
 title: McGregor Pullover met Merinowol | V-Hals of Ronde Hals | Heren
+en

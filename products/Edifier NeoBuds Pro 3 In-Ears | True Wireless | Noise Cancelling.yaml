@@ -1,32 +1,32 @@
-_id: 6a438c9d1563a6238195c7d1
+_id: 6a4e06659b7667eaae2c2859
 appOnly: false
 brand: Edifier
 brands:
   - id: 62530728-060f-56ac-a132-b6fd4934502d
     name: Edifier
 categories:
-  - a37c4bef-88ef-5150-a4a5-2b617ef54513
-classicId: '3303433'
+  - 93973cb7-128b-5f81-8634-893c5a05bb29
+classicId: '3322398'
 classicProductId: '674394'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 65
-end: '2026-07-08T21:59:59.999Z'
+directCheckout: false
+discount: 64
+end: '2026-07-15T21:59:59.999Z'
 freeDelivery: false
-id: c558ce39-cbf4-497a-9d69-a49d895ab2bc
+id: 2f55dcea-1ce3-429e-a8a1-dd08f83f2fce
 image:
   channels:
+    - app
+    - website
     - newsletter
     - all
-    - website
-    - app
-  extension: image/webp
-  id: cdc39b45-587c-4233-8ea8-35a1e0eb9caf-cr
+  extension: image/png
+  id: 949e42ce-f689-4b16-acb9-5a07b4db875d
   priority: 0
-  slug: edifier-neobuds-pro-3-black-product-5
+  slug: ears3-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: edifier-logo
   type: logo
-offerId: 4b12dbb7-6034-4299-a578-cb3234b2017b
+offerId: f35e5fc4-370e-4f6f-8d98-d9c7fbde7d04
 price:
-  cents: 4500
+  cents: 4695
   currency: EUR
-  value: 45
+  value: 46.95
 referencePrice:
   cents: 12995
   currency: EUR
   value: 129.95
 slug: edifier-neobuds-pro-3-in-ears-true-wireless-noise-cancelling
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-08T22:00:00.000Z'
 title: Edifier NeoBuds Pro 3 In-Ears | True Wireless | Noise Cancelling
