@@ -1,4 +1,4 @@
-_id: 6a4e06a9959cb9e0db0f7947
+_id: 6a4e069f9b788ce6b26fbc79
 appOnly: false
 brand: Apple
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Apple
 categories:
   - 72966a11-63cc-550e-ac7d-23980b6e9b7f
-classicId: '3322536'
-classicProductId: '711095'
+classicId: '3322517'
+classicProductId: '711097'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 43
 end: '2026-07-15T21:59:59.999Z'
 freeDelivery: false
-id: 91cbd74f-6dea-44c4-b2ff-91925cff78b3
+id: c9b2f1bb-3b83-4cf7-bfdc-3d97bdba3b91
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 080adc07-e55f-4e1f-8e47-f79629b60a22
-  priority: 0
-  slug: apple-png-logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: e5408ba1-fef1-4b2c-8ddf-e00f1703d20c
+offerId: 5ac577dd-bfae-4af5-9f28-0e95708c795e
 price:
   cents: 64900
   currency: EUR
@@ -52,3 +51,4 @@ slug: apple-ipad-air-13-2024-m2-wifi-cellular-128-gb-blauw
 soldOut: false
 start: '2026-07-08T22:00:00.000Z'
 title: Apple iPad Air 13" | 2024 | M2 | Wifi + Cellular | 128 GB
+d Air 13" | 2024 | M2 | Wifi + Cellular | 128 GB
