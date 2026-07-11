@@ -1,12 +1,12 @@
-_id: 6a4d020a4b11d0484bc36242
+_id: 6a4cff387c093333320199e7
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 37e19fdb-0689-52c4-91cb-f422f12d1e4a
-classicId: '3321895'
+  - 88113d8f-8a13-5328-b7ae-8e3779157edf
+classicId: '3320666'
 classicProductId: '627784'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 87
 end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: d286664c-27e6-4144-a0d4-1c647e01ef56
+id: 9a08e180-98e1-4b62-817e-83f94cd297e1
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 7102d3ff-7e68-48f6-b39f-9b5676d94acf
+offerId: ea2b30a1-f016-4574-8194-428485d47012
 price:
   cents: 1615
   currency: EUR
@@ -47,6 +47,7 @@ referencePrice:
   currency: EUR
   value: 119.95
 slug: mcgregor-chino-modern-fit-medium-blue
-soldOut: false
+soldOut: true
 start: '2026-07-07T22:00:00.000Z'
 title: McGregor Chino | Modern Fit | Medium Blue
+

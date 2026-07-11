@@ -1,4 +1,4 @@
-_id: 6a22b4ae47d6895bb8c02ec8
+_id: 6a22b4ae47d6895bb8c02ec6
 appOnly: false
 brand: Apple
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Apple
 categories:
   - 72966a11-63cc-550e-ac7d-23980b6e9b7f
-classicId: '3260954'
-classicProductId: '713945'
+classicId: '3260953'
+classicProductId: '713944'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 45
+discount: 46
 end: '2026-07-15T21:59:59.999Z'
 freeDelivery: false
-id: 753862bd-5411-56fe-9dd2-7dd169b89012
+id: e24e08f0-5fe1-5e04-9e58-dd6e94da2954
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: dc8dc10b-9981-44f6-9517-b1fbfcaac41a
+  id: 3f2cfc66-2dd4-44f3-bbc5-7adc955b0048
   priority: 0
-  slug: qaqsq-png-product-2
+  slug: qaws-png-product-1
   type: product
 logo:
   channels:
@@ -38,17 +38,16 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: fd73066a-0504-54a5-9cf1-13bcec1acddb
+offerId: b694b29f-6dd5-5726-a2d4-b95a3875f9fd
 price:
-  cents: 152900
+  cents: 149900
   currency: EUR
-  value: 1529
+  value: 1499
 referencePrice:
   cents: 277900
   currency: EUR
   value: 2779
-slug: ipad-pro-13-m4-wifi-2tb-zilver
-soldOut: false
+slug: apple-ipad-pro-m4-2024-13-wifi-2-tb
+soldOut: true
 start: '2026-07-08T22:00:00.000Z'
 title: Apple iPad Pro M4 (2024) 13" | WiFi | 2 TB
- TB
