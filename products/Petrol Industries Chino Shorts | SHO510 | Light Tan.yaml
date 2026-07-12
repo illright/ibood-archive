@@ -1,12 +1,12 @@
-_id: 6a4d01c47b24b2499b301484
+_id: 6a4cff409b788ce6b26fb76d
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 99a25141-3c75-5149-87db-3f8201635b33
-classicId: '3321631'
+  - 99cfcbb1-481c-5536-ac4a-7fecbbb0f26a
+classicId: '3320707'
 classicProductId: '712335'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 40
 end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: b71139b3-354a-4796-b826-b983d41bff33
+id: edcfc81d-57c7-4f6a-a038-b9f0ad442b2a
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 08b5b175-aa83-4840-9fb9-63864cd988a7
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: c75d786e-baf7-4565-bc00-75f724c54147
+offerId: 02d79452-a114-408c-b94a-ed7fb61a327a
 price:
   cents: 2995
   currency: EUR
@@ -50,8 +51,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: petrol-industries-chino-shorts-sho510-light-tan
-soldOut: false
+soldOut: true
 start: '2026-07-07T22:00:00.000Z'
-title: Petrol Industries Chino Shorts | SHO510 | Light Tan
-
 title: Petrol Industries Chino Shorts | SHO510 | Light Tan
