@@ -1,12 +1,12 @@
-_id: 6a4b8358f5a1921dac9173e2
+_id: 6a54d0f8e1628cff6fbd34d5
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - a8a09819-231c-5fe7-89fb-dcd154e379ef
-classicId: '3313727'
+  - 8a31969d-54d6-52df-a285-d7c3067e3eec
+classicId: '3330170'
 classicProductId: '716053'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 59
-end: '2026-07-13T21:59:59.999Z'
+end: '2026-07-20T21:59:59.999Z'
 freeDelivery: false
-id: 4e37b740-2b5f-4eda-8417-95850f0ed414
+id: dfca06a7-89c2-4d10-b017-d1ee593aa1ea
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 18fdeb1a-613c-497d-9a7b-d148f9531bbd
-  priority: 0
-  slug: delsey-logo-png-logo-0
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
   type: logo
-offerId: feccabe9-999a-4a2a-95a2-abf942eddfd7
+offerId: 1ece1ab2-5ab1-4cfd-988b-ea47e55427bb
 price:
   cents: 12995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 319
 slug: delsey-shadow-5-0-trolley-80-cm
 soldOut: false
-start: '2026-07-06T22:00:00.000Z'
+start: '2026-07-13T22:00:00.000Z'
 title: Delsey Shadow 5.0 Trolley | 80 cm

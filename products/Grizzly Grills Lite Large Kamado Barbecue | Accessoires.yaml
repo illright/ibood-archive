@@ -1,22 +1,22 @@
-_id: 6a4f5682ac82de7b0c2c7c1d
+_id: 6a5497b52fe1c59f4eabcc8d
 appOnly: false
 brand: Grizzly Grills
 brands:
   - id: 0ac0e1f8-2788-5444-af30-48e7cc5f5a7e
     name: Grizzly Grills
 categories:
-  - d914e6db-f79b-5c92-8eb1-3143d25a373a
-classicId: '3324241'
+  - 624a0363-c00a-5272-911b-af6e8937ad84
+classicId: '3328270'
 classicProductId: '712598'
 deliveryPrice:
-  cents: 0
+  cents: 5995
   currency: EUR
-  value: 0
+  value: 59.95
 directCheckout: true
 discount: 37
-end: '2026-07-13T21:59:59.999Z'
-freeDelivery: true
-id: 9ab9d43f-d764-4001-ad6a-bb0e3ccb33b6
+end: '2026-07-21T21:59:59.999Z'
+freeDelivery: false
+id: a992d4e8-bb53-417a-9e2d-37091c845b19
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: kamadeau-png-product-1
   type: product
-offerId: da4a1231-207f-450c-89f6-5d488b0e0018
+offerId: 00badd65-5c33-43f0-a093-aa3817d6f8d9
 price:
   cents: 62900
   currency: EUR
@@ -39,5 +39,5 @@ referencePrice:
   value: 999
 slug: grizzly-grills-lite-large-kamado-barbecue
 soldOut: false
-start: '2026-07-06T22:00:00.000Z'
+start: '2026-07-13T22:00:00.000Z'
 title: Grizzly Grills Lite Large Kamado Barbecue | Accessoires

@@ -1,12 +1,12 @@
-_id: 6a4d002c97e1d5238f6faf71
+_id: 6a4cff409b788ce6b26fb770
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - acc96e87-e407-5f34-ab87-2aa3cacbdba1
-classicId: '3320931'
+  - 1355f5b4-b926-53ac-89e8-fc36d63e842a
+classicId: '3320704'
 classicProductId: '707435'
 deliveryPrice:
   cents: 395
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 687e4bba-1bdc-4003-9748-96f7c69b3062
+id: 3b41bab8-6176-4511-ab0b-82db742e0f7b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e30ca68f-72a4-497e-a700-d61e9dd75504
-  priority: 0
-  slug: new-zealand-auckland-png-logo-0
+  extension: png
+  id: 1634994
+  priority: 100
+  slug: nza-logo
   type: logo
-offerId: 343d3196-b68f-4748-9045-a1f279b0a5c5
+offerId: fc0b2361-a19d-4f21-a95b-604bc3fb5c9a
 price:
   cents: 3995
   currency: EUR
@@ -51,4 +50,6 @@ referencePrice:
 slug: nza-poloshirt-katoen-26ds108
 soldOut: false
 start: '2026-07-07T22:00:00.000Z'
+title: NZA Poloshirt Katoen | 26DS108
+ '2026-07-07T22:00:00.000Z'
 title: NZA Poloshirt Katoen | 26DS108

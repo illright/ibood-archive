@@ -1,22 +1,22 @@
-_id: 6a4b8361f5a1921dac917405
+_id: 6a54d10ae1628cff6fbd34da
 appOnly: false
 brand: Jeep
 brands:
   - id: 36c8c9f2-6e90-5081-a4b4-79c7905fd6a0
     name: Jeep
 categories:
-  - a8a09819-231c-5fe7-89fb-dcd154e379ef
-classicId: '3313744'
+  - 8a31969d-54d6-52df-a285-d7c3067e3eec
+classicId: '3330186'
 classicProductId: '715033'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2026-07-13T21:59:59.999Z'
+end: '2026-07-20T21:59:59.999Z'
 freeDelivery: false
-id: f921248d-465a-476a-a4e2-7b000f873a26
+id: 60f6b350-3600-4b2a-be78-eb26c404819e
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: jeep-logo-0
   type: logo
-offerId: f983e25f-0e6d-4856-827b-c68ed8e6e2eb
+offerId: c2fffbe4-b8bf-43d9-94b9-6f55e310f5d8
 price:
   cents: 9995
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 249
 slug: jeep-expandable-xl-trunk-80-cm
 soldOut: false
-start: '2026-07-06T22:00:00.000Z'
+start: '2026-07-13T22:00:00.000Z'
 title: Jeep Expandable XL Trunk | 80 cm

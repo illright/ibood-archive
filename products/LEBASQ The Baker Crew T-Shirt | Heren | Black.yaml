@@ -1,31 +1,32 @@
-_id: 6a4ceb1de77032d7e2eca849
+_id: 6a54f065e1628cff6fbd395e
 appOnly: false
 brand: Lebasq
 brands:
   - id: 5ed8958f-d2d0-504c-ab26-192636419f50
     name: Lebasq
 categories:
-  - af96a9de-33ae-5d67-9ed1-c942d6b4e5fe
-classicId: '3319432'
-classicProductId: '631458'
+  - dd015a97-a011-5fb9-9bc1-03db99fb05cd
+classicId: '3331094'
+classicProductId: '631459'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 38
-end: '2026-07-13T21:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2026-07-20T21:59:59.999Z'
 freeDelivery: false
-id: ab9a10e8-05bb-424a-b087-761b851d48e6
+id: 10df91b3-fff6-45d7-9d16-cc4b8b87db28
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2211608
-  priority: 100
-  slug: lebasq-the-baker-crew-t-shirt-black
+    - all
+  extension: image/png
+  id: b153e861-b176-4477-9702-0568ddea2797-tr
+  priority: 0
+  slug: lebasq-the-baker-crew-t-shirt-black-jpg-product-101
   type: product
 logo:
   channels:
@@ -37,16 +38,16 @@ logo:
   priority: 1
   slug: lebasq-logo
   type: logo
-offerId: fff3c245-830b-4a23-997b-3be21e040eea
+offerId: eba9c0d0-6e94-44e8-a4cf-7fec4b1b20b1
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 3995
   currency: EUR
   value: 39.95
 slug: lebasq-the-baker-crew-t-shirt-black
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-13T22:00:00.000Z'
 title: LEBASQ The Baker Crew T-Shirt | Heren | Black

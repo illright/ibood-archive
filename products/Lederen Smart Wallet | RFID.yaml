@@ -1,12 +1,12 @@
-_id: 6a4b83b888645bfca85d8a83
+_id: 6a54d10a7c5cc8a440ce6099
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - c4ef6825-1ff3-50f7-a545-9c0e34fbbcdd
-classicId: '3313856'
+  - 8a31969d-54d6-52df-a285-d7c3067e3eec
+classicId: '3330189'
 classicProductId: '222483'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-07-13T21:59:59.999Z'
+end: '2026-07-20T21:59:59.999Z'
 freeDelivery: false
-id: c0851541-1b55-411b-baa6-afeaa5f67509
+id: 3feaac42-cb93-41f3-8e96-985aa8d8b1ae
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: smart-wallet-rfid
   type: product
-offerId: b8718f13-afd5-4cfd-a032-1ff952bcc3b2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1772501
+  priority: 100
+  slug: lifa-living-logo
+  type: logo
+offerId: fccfb8a4-cf5c-4a83-94bf-e8e12d2f28f6
 price:
   cents: 1295
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 49.95
 slug: smart-wallet-rfid
 soldOut: false
-start: '2026-07-06T22:00:00.000Z'
+start: '2026-07-13T22:00:00.000Z'
 title: Lederen Smart Wallet | RFID

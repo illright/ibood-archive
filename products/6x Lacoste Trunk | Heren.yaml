@@ -1,22 +1,22 @@
-_id: 6a4ceb8217ec80046d33f00e
+_id: 6a4cfe58d3a7668749eae4f5
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - af96a9de-33ae-5d67-9ed1-c942d6b4e5fe
-classicId: '3319490'
-classicProductId: '563734'
+  - b2bb6009-033b-5a4b-b968-03151e2c91ba
+classicId: '3320425'
+classicProductId: '563741'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 77
-end: '2026-07-13T21:59:59.999Z'
+end: '2026-07-14T21:59:59.999Z'
 freeDelivery: false
-id: 9e712efa-345b-445c-87fa-e7fb8222943a
+id: 2bc26cd0-8936-4f58-9d0a-3fb4003ebece
 image:
   channels:
     - website
@@ -33,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1910835
+  id: 1612112
   priority: 100
-  slug: 6x-lacoste-trunk
+  slug: lacoste-logo
   type: logo
-offerId: 20959b08-1f36-4d04-8bf1-7bd385040e18
+offerId: a22b0250-498b-4ecb-98af-1c158c451a50
 price:
   cents: 2180
   currency: EUR
