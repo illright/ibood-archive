@@ -1,12 +1,12 @@
-_id: 6a43ce754630208120808bcb
+_id: 6a5618c9006141d6b96bd81f
 appOnly: false
 brand: Gillette
 brands:
   - id: 85186b05-f23e-5e60-950f-314518378d5a
     name: Gillette
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3310147'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3334294'
 classicProductId: '718192'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 65
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 2efd0cc0-e2b7-55d4-9a13-e5eac0702fb4
+id: 2e101c81-f98b-4fe2-bde5-2b073abc7269
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: aec0e489-3266-481b-9509-9497e9d48158
-  priority: 0
-  slug: gillette-png-logo-0
+  extension: png
+  id: 1689446
+  priority: 100
+  slug: gillette-logo
   type: logo
-offerId: 5fa1825e-6e47-5a36-9aa3-06c115c198a4
+offerId: 88cf7126-429d-49db-8e3c-1ae3b5892433
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 62.99
 slug: 9x-gillette-intimate-navulmesje
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 9x Gillette Intimate Navulmesje

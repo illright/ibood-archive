@@ -1,12 +1,12 @@
-_id: 6a43b6cf1563a6238195cf85
+_id: 6a563f0e5ba535e5f21f7b99
 appOnly: false
 brand: Phlox
 brands:
   - id: 1cbd5816-2f2d-52b8-95a2-7dda5c905c3d
     name: Phlox
 categories:
-  - 61e4f891-190c-5292-926f-740f0014c7c2
-classicId: '3308316'
+  - c68f7ea9-109e-55f3-a2aa-5211330182e2
+classicId: '3337056'
 classicProductId: '712643'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 4eab25b6-9d96-4053-b2db-bfd72447d7db
+id: f6b34cf9-ea40-4681-8c87-05b30363a824
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 52a49c17-9cdd-4d09-a97d-ed90a53a11b6
-  priority: 0
-  slug: sypialnia-azienka-i-kuchnia-png-logo-0
+  extension: png
+  id: 2015156
+  priority: 100
+  slug: phlox-logo
   type: logo
-offerId: 272db37e-db1c-4cd9-9af1-0ea6128e1a97
+offerId: 346086e5-76c4-4a13-9c5f-81ffeae2e42e
 price:
   cents: 995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 19.95
 slug: 6x-phlox-soft-popcorn-gastendoek-pink
 soldOut: false
-start: '2026-07-01T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 6x PHLOX Soft Popcorn Gastendoek | 30 x 50 cm | Cream

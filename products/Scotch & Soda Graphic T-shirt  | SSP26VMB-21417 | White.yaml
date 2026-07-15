@@ -1,22 +1,22 @@
-_id: 6a4cff56397e3867d1ebef7b
+_id: 6a5617e02d9fcc88f512c7eb
 appOnly: false
 brand: Scotch & Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch & Soda
 categories:
-  - d9c58755-d186-5dc2-950c-07614e9dbcbf
-classicId: '3320743'
-classicProductId: '687086'
+  - a8390958-aa94-5501-8c83-ac4bb452ae0f
+classicId: '3333767'
+classicProductId: '687088'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 60
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 6e3c2622-68af-4384-be51-bcfc6f0b85cf
+id: 3eb8c613-61cd-41d3-af97-a4c0587102a2
 image:
   channels:
     - app
@@ -41,7 +41,7 @@ logo:
   priority: 0
   slug: scotch-and-soda-logo-0
   type: logo
-offerId: 40afb0c9-b859-444e-9f1f-bd2cbdbbc872
+offerId: 8c2160f5-e990-4b02-850f-08998944214f
 price:
   cents: 1995
   currency: EUR
@@ -51,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: scotch-soda-graphic-t-shirt-ssp26vmb-21417-white
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: Scotch & Soda Graphic T-shirt  | SSP26VMB-21417 | White

@@ -1,12 +1,12 @@
-_id: 6a3a7cf613a37e138d1e4a66
+_id: 6a54ae4063373f6359925e76
 appOnly: false
 brand: Goliath
 brands:
   - id: b1ca99f2-2eff-58f1-9954-a1a8b973b808
     name: Goliath
 categories:
-  - 1821082a-00e3-5349-9142-7d83f0e96142
-classicId: '3294759'
+  - 27141d2d-bc23-5913-8a79-4d52c0bb5b7a
+classicId: '3329370'
 classicProductId: '716910'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 9e897bd4-b2a6-5aa6-8a77-0e5dee2a3a7b
+id: 832f4b27-d602-4af9-8746-02456e59c434
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: goliath-tic-tac-go-933033-006-product-10
   type: product
-offerId: 817640f4-bf85-5191-89e6-53570cc885fa
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 1616ff72-7458-4ced-8672-02840b060912
+  priority: 0
+  slug: goliath-logo-0
+  type: logo
+offerId: 817fd461-dc8c-4cf1-ac25-724d13bfa4e9
 price:
   cents: 995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 19.99
 slug: goliath-tic-tac-go-gezelschapsspel
 soldOut: false
-start: '2026-07-06T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Goliath Tic Tac Go

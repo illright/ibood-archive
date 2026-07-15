@@ -1,12 +1,12 @@
-_id: 6a3cf6a7d8517802ce4c8501
+_id: 6a54d22721f23140f16129a7
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 645f15da-9cab-5865-9c04-25e49fe88edb
-classicId: '3298743'
+  - 1389f836-af17-5ffc-ae61-2405bef96f8d
+classicId: '3330478'
 classicProductId: '717558'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 56
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 7f799090-0c36-5375-bd53-7e61f8a9c625
+id: 6799a5ef-59d0-4cba-9893-7511ce7784b8
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fb6241cb-8048-482e-af65-8b754c0531b3
-  priority: 0
-  slug: bjorn-borg-png-logo-0
+  extension: png
+  id: 2030715
+  priority: 100
+  slug: bjorn-borg-logo
   type: logo
-offerId: 40a54cfc-7ef0-509e-98ab-be67465fbd8f
+offerId: fb4225e7-3a19-4376-ae4d-1f5194206a79
 price:
   cents: 7995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 179.95
 slug: bjorn-borg-travel-trolley-80-l-black
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Björn Borg Travel Trolley | 80 l | Black

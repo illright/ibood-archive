@@ -1,12 +1,12 @@
-_id: 6a4cdfb69fdbe1f2752270ca
+_id: 6a5617de2d9fcc88f512c7e8
 appOnly: false
 brand: Bialetti
 brands:
   - id: 179f40d1-3597-5c86-b7e2-78f03338f988
     name: Bialetti
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3316624'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3333759'
 classicProductId: '703663'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: f076d2e3-01e7-486f-98d9-54b15d9d1d9c
+id: f63f2231-728e-4030-9747-cfdc0ca15b8b
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: bialetti-03-png-product-2
   type: product
-offerId: bc6d11e5-89b5-442e-aa9a-23fb1fde1823
+offerId: f85535db-2870-48b6-abde-6541d6cfbbba
 price:
   cents: 3795
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 79.74
 slug: 6x-bialetti-classico-koffiebonen-500-g
-soldOut: true
-start: '2026-07-07T22:00:00.000Z'
+soldOut: false
+start: '2026-07-14T22:00:00.000Z'
 title: 6x Bialetti Classico Koffiebonen | 500 g

@@ -1,12 +1,12 @@
-_id: 6a4ce3269fdbe1f27522785d
+_id: 6a5619e75ba535e5f21f7891
 appOnly: false
 brand: Sensodyne
 brands:
   - id: 1c7bf088-1343-56fb-9b5d-0c1b15e9bd4e
     name: Sensodyne
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3318366'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3335020'
 classicProductId: '711055'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: d95ec59c-12f5-41b5-ba87-ed2e418689a8
+id: 9e46534d-80c7-41d6-8a3a-781543adb0a5
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: se01-png-product-2
   type: product
-offerId: 8e9f0803-a61f-4a35-838a-8e14fde5f446
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1773890
+  priority: 100
+  slug: sensodyne-logo
+  type: logo
+offerId: 45b63528-390c-454b-9d62-bc06442b8191
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 82
 slug: 12x-sensodyne-sensitive-tandpasta-75-ml
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 12x Sensodyne Sensitive Tandpasta | 75 ml

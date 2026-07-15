@@ -1,12 +1,12 @@
-_id: 6a4f81f2ac82de7b0c2c7ead
+_id: 6a54ce392fe1c59f4eabcfcb
 appOnly: false
 brand: Schaffenburg
 brands:
   - id: 08f13020-162b-54cb-b010-5a1264e7f4db
     name: Schaffenburg
 categories:
-  - ac31a11c-6f2b-5506-9cc1-51f17f6c9a95
-classicId: '3325033'
+  - bba08705-d582-59ba-ba0e-3df5a16aad7e
+classicId: '3329630'
 classicProductId: '712753'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 41
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 07fb3f80-bc1f-4df5-ae1c-53338c9d0c7d
+id: 287f369a-d721-4c8e-93a0-6f4ceee6bfcc
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9d7bdbcc-b4e8-4c85-a4f4-c3d20676462a
-  priority: 0
-  slug: template-main-deal-hersteld-hersteld-png-logo-0
+  extension: png
+  id: 2052900
+  priority: 100
+  slug: schaffenburg-logo
   type: logo
-offerId: 83313eb8-28bb-4125-b553-755da484e0de
+offerId: ad5aa36f-17e4-44fb-8879-00c84ddc617a
 price:
   cents: 37900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 644
 slug: schaffenburg-bureaustoel-npr-1813-zwart
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Schaffenburg NPR 1813 Bureaustoel | Zwart

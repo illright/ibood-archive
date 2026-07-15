@@ -1,12 +1,12 @@
-_id: 6a4cdfcb9fdbe1f275227114
+_id: 6a5618102fe1c59f4eabd8de
 appOnly: false
 brand: Chupa Chups
 brands:
   - id: ab2cd6e0-5b68-5ca8-b457-5b7e086afd36
     name: Chupa Chups
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3316642'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3333871'
 classicProductId: '302150'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 28
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: a3a5b563-9c97-4e63-8a92-147ce49f08c1
+id: a0a7b642-2bd8-49f2-b6e6-a9b3a42397c1
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: chupa-chups-logo
   type: logo
-offerId: a2821cca-749c-48ef-bdf4-2a86d2ee0f44
+offerId: 1426a0bd-16b8-4535-8349-92dcc1759c1b
 price:
   cents: 1795
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 24.99
 slug: 100x-chupa-chups-fruit-lolly
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: 100x Chupa Chups Fruit Lolly

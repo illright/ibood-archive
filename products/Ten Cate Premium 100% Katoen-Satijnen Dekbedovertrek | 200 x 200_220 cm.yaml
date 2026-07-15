@@ -1,32 +1,31 @@
-_id: 6a43b5e75210c36103a4fd72
+_id: 6a563e8c2d9fcc88f512cbea
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 61e4f891-190c-5292-926f-740f0014c7c2
-classicId: '3307382'
-classicProductId: '399432'
+  - c68f7ea9-109e-55f3-a2aa-5211330182e2
+classicId: '3336793'
+classicProductId: '399429'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: a50c5b1e-4569-4e79-833d-0058fe81195e
+id: b2526c5e-cdbd-42b8-b823-34d98b9834e3
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9501c294-37e1-4f58-ac6d-539273a3b6f2-tr
+  extension: png
+  id: 1708969
   priority: 0
-  slug: ten-cate-bettwasche-satin-200-x-200220-cm-2-jpg-product-1
+  slug: ten-cate-katoensatijn-overtrek-200-x-200220
   type: product
 logo:
   channels:
@@ -39,7 +38,7 @@ logo:
   priority: 0
   slug: ten-cate-by-twentse-damast-logo-0
   type: logo
-offerId: 07171b08-728d-4796-97b1-6d14be897b9a
+offerId: 94aac770-0b45-4f80-a237-da92bf12d6b5
 price:
   cents: 4995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 119.95
 slug: ten-cate-katoensatijn-overtrek-200-x-200220
-soldOut: true
-start: '2026-07-01T22:00:00.000Z'
+soldOut: false
+start: '2026-07-14T22:00:00.000Z'
 title: Ten Cate Premium 100% Katoen-Satijnen Dekbedovertrek | 200 x 200/220 cm

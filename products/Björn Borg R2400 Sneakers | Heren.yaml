@@ -1,32 +1,31 @@
-_id: 6a4cebbae77032d7e2eca92d
+_id: 6a56343e63f0a52db447eb4f
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 76a3fc08-0a95-5d59-a38a-c69d8fc1e464
-classicId: '3319520'
-classicProductId: '614480'
+  - 90b31631-df3c-586f-b79a-f3eb31598004
+classicId: '3335933'
+classicProductId: '614470'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 65
-end: '2026-07-14T21:59:59.999Z'
+discount: 40
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: df2c8a46-cb2b-4789-b4c4-2378c6d42b84
+id: fd17d2ba-4a51-471d-a767-e062638deb1f
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8d218eb4-a756-4152-921b-7f191cfe07a1
+  extension: png
+  id: 2166710
   priority: 0
-  slug: sneakerrs-bjorn-png-product-1
+  slug: bjorn-borg-r2400-sneakers-heren
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: bjorn-borg-logo
   type: logo
-offerId: 079ed0a2-1b5a-4f99-9a31-5c64ff0954b9
+offerId: 24ff99c0-5faf-47a3-96dc-b83ea55e7996
 price:
-  cents: 3495
+  cents: 5995
   currency: EUR
-  value: 34.95
+  value: 59.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: bjorn-borg-r2400-sneakers-heren
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Björn Borg R2400 Sneakers | Heren

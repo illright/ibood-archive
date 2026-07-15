@@ -1,12 +1,12 @@
-_id: 6a4cec9782f63461233f563b
+_id: 6a54edea0e88f9d7c82e24c3
 appOnly: false
 brand: 6D Helmets
 brands:
   - id: 317df2f4-362a-5f82-9c63-73f8b1f8054f
     name: 6D Helmets
 categories:
-  - 07d361b6-298b-5587-a2f9-acf50c099345
-classicId: '3319794'
+  - 44654bdf-1dd8-52c9-aab4-4629a335818c
+classicId: '3330850'
 classicProductId: '702013'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 74
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 42652fee-5966-45e4-9115-c61a0f510a4c
+id: f461ff1a-20c7-442d-9d45-a126f8b1edc2
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: helm-19-png-product-0
   type: product
-offerId: 953dc3f7-7119-4aa9-a6b1-d1df6f4181b3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8b9f997d-151b-40e9-a60d-7ace0e427997
+  priority: 0
+  slug: 6d-helmets-png-logo-0
+  type: logo
+offerId: 3992f925-b87a-4d70-871c-64ca549405a6
 price:
   cents: 14900
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 579
 slug: 6d-ats-1r-motorhelm-patriot
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: 6D ATS-1R Motorhelm | Patriot

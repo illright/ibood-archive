@@ -1,22 +1,22 @@
-_id: 6a4d02017c09333332019b98
+_id: 6a56110863f0a52db447ea00
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 99a25141-3c75-5149-87db-3f8201635b33
-classicId: '3321875'
-classicProductId: '707571'
+  - 08469127-281a-5701-b250-cb4373508898
+classicId: '3333092'
+classicProductId: '707572'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 56
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 39f825aa-fc18-4a00-bf3f-6f2dc65f12cf
+id: 428dfe13-c5fe-42b1-9305-c2a506036ef8
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: f2ec6afb-5dd2-4074-8a03-a5c9ec7b3db7
+offerId: 9647e207-cfcc-4bf1-aaf8-04b45832e195
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 89.99
 slug: nza-chino-short-army-26ds620
-soldOut: true
-start: '2026-07-07T22:00:00.000Z'
+soldOut: false
+start: '2026-07-14T22:00:00.000Z'
 title: NZA Chino Short Army | 26DS620

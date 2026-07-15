@@ -1,22 +1,22 @@
-_id: 6a4cecdd79ab49fae0e530f5
+_id: 6a54ee5328ec43f3518ae185
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 1b01747f-8f8c-5b9c-aee6-3888478f4c3b
-classicId: '3319916'
-classicProductId: '667656'
+  - 44654bdf-1dd8-52c9-aab4-4629a335818c
+classicId: '3330927'
+classicProductId: '667655'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 77
-end: '2026-07-14T21:59:59.999Z'
+directCheckout: true
+discount: 58
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: cbb5f95e-9841-4761-8def-53f34f9f27a3
+id: 29cc6279-b7ed-448b-95da-d52905ff04ab
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: 69a1fe8d-28e0-442d-9c4e-b1045ded88f8
+offerId: 0c1c6917-a814-436a-a3d2-21a6d37765ac
 price:
-  cents: 6000
+  cents: 10995
   currency: EUR
-  value: 60
+  value: 109.95
 referencePrice:
   cents: 25995
   currency: EUR
   value: 259.95
 slug: travelin-langdets-boots-heren
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: Travelin' Langdets Boots | Heren

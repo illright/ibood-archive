@@ -1,12 +1,12 @@
-_id: 6a54f08328ec43f3518ae217
+_id: 6a56188c5ba535e5f21f758f
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - dd015a97-a011-5fb9-9bc1-03db99fb05cd
-classicId: '3331117'
+  - e694572d-9891-5b8a-b455-49e9e0dc7100
+classicId: '3334155'
 classicProductId: '698069'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-07-20T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 46807720-631b-4887-973e-d5c985ed28c9
+id: 62f7fbc1-ae46-4ffa-b7dc-582e30d8a9bc
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 91bc919b-26c5-4418-8a0a-81cb00c8543b
+offerId: 79c9d7ed-b1f2-4483-bba7-29ba6f76d217
 price:
   cents: 1195
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 40
 slug: 5x-jack-jones-jacblack-friday-trunks
-soldOut: false
-start: '2026-07-13T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: 5x Jack & Jones Jacblack Friday Trunks

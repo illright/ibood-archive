@@ -1,12 +1,12 @@
-_id: 6a4cff26d3a7668749eae63a
+_id: 6a560e6ee1628cff6fbd4015
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 88113d8f-8a13-5328-b7ae-8e3779157edf
-classicId: '3320624'
+  - 10adec5d-daeb-5eac-81c9-beacb54efb5d
+classicId: '3333017'
 classicProductId: '694711'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: d94a5f7d-cbe7-475a-a73f-d121a86ae908
+id: 9f1a1035-8ad3-42e2-84cc-4f92241f8b7f
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6fa64fac-564a-4032-bb8f-9ec31570dd90
-  priority: 0
-  slug: mcgregor-png-logo-0
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
   type: logo
-offerId: fc0601b0-ac00-4143-b51a-a1f7db80d5bf
+offerId: e289c7cc-adeb-478c-90ab-9414740df27f
 price:
   cents: 3995
   currency: EUR
@@ -51,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 89.95
 slug: mcgregor-poloshirt-gestreept-heren-medium-blauw
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: McGregor Poloshirt | Gestreept | Heren | Medium Blauw

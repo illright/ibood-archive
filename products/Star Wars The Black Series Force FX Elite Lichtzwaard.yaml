@@ -1,22 +1,22 @@
-_id: 6a4271dd1563a6238195c58a
+_id: 6a54ae0b2fe1c59f4eabcee5
 appOnly: false
 brand: Star Wars
 brands:
   - id: 5670a27e-c66a-5275-ae0c-493ac6d419b1
     name: Star Wars
 categories:
-  - 1821082a-00e3-5349-9142-7d83f0e96142
-classicId: '3301726'
+  - 27141d2d-bc23-5913-8a79-4d52c0bb5b7a
+classicId: '3329318'
 classicProductId: '713972'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 65
-end: '2026-07-14T21:59:59.999Z'
+discount: 67
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: a7442c5e-7e9f-4fc0-8623-8d3e155c0a8b
+id: 41f620bc-b485-489e-b95d-b2a8feaec863
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: star-wars-f91775l00-force-fx-elite-light-product-0
   type: product
-offerId: 01efe823-4223-438b-8da4-48a4e7dcf229
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 0859fca1-5691-455e-b125-c9a57b629eff
+  priority: 0
+  slug: star-wars-logo-0
+  type: logo
+offerId: aa11d056-32b6-4706-ad3b-0e885decf275
 price:
-  cents: 8995
+  cents: 8495
   currency: EUR
-  value: 89.95
+  value: 84.95
 referencePrice:
   cents: 25995
   currency: EUR
   value: 259.95
 slug: star-wars-the-black-series-force-fx-elite-lichtzwaard
 soldOut: false
-start: '2026-07-06T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Star Wars The Black Series Force FX Elite Lichtzwaard

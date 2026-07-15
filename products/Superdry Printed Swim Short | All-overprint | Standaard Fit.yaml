@@ -1,12 +1,12 @@
-_id: 6a4d013e7b24b2499b301409
+_id: 6a5610e8e1628cff6fbd4067
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 1fc394d6-36cd-539c-a1da-b492daf64523
-classicId: '3321252'
+  - 65d2eeb1-05db-5c21-ac4a-89ce83b825e9
+classicId: '3333051'
 classicProductId: '706530'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 54
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 7ff1127a-23f1-4a91-a017-bcf02f081733
+id: 8d2da692-267e-4367-a5c9-61387e411773
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd013-png-product-1
   type: product
-offerId: cdf54e47-831a-4c49-a7f5-28703fa4b5ef
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 527616c6-e8af-4016-b73d-7648b9c444cc
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 64.99
 slug: superdry-printed-swim-short-all-overprint-standaard-fit
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Superdry Printed Swim Short | All-overprint | Standaard Fit

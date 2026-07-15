@@ -1,12 +1,12 @@
-_id: 6a54a398561cceeb26add687
+_id: 6a561921e1628cff6fbd44bb
 appOnly: false
 brand: Lactacyd
 brands:
   - id: 7e980eca-325b-5062-8641-12fa2adf8ae1
     name: Lactacyd
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3328717'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3334544'
 classicProductId: '716923'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: f039d2d5-315c-4018-9cb2-f79b6a5656c4
+id: 83c3a008-051a-4de1-a0b5-dfc2f06ac1d7
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: lactacyd-01-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 8f43eeef-37fc-4ca8-8f9e-661d83e7df6a
-  priority: 0
-  slug: lactacyd-png-logo-0
-  type: logo
-offerId: 2e4f1540-7eb2-4201-98d1-4fff39ebc10b
+offerId: accc7540-660d-42d6-b538-5429e8c8a67f
 price:
   cents: 1095
   currency: EUR
@@ -49,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 24.87
 slug: 3x-lactacyd-oxygen-fresh-200-ml
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: 3x Lactacyd Oxygen Fresh | 200 ml

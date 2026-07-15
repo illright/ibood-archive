@@ -1,12 +1,12 @@
-_id: 6a4f81edac82de7b0c2c7eaa
+_id: 6a54ce6b21f23140f161285a
 appOnly: false
 brand: Zuiver
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: Zuiver
 categories:
-  - ac31a11c-6f2b-5506-9cc1-51f17f6c9a95
-classicId: '3325060'
+  - bba08705-d582-59ba-ba0e-3df5a16aad7e
+classicId: '3329678'
 classicProductId: '703679'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 58
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 1229f5c9-d24e-4ee2-a8a0-1c40a61e56b5
+id: a24c60e0-234e-4afa-ad24-5b09ddd3b5c0
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fbb4a8cf-cf35-4563-828f-60b9ddc22e1b
-  priority: 0
-  slug: zuiver-png-logo-0
+  extension: png
+  id: 2026182
+  priority: 100
+  slug: zuiver-logo
   type: logo
-offerId: 55fb1121-d59d-4f13-b56a-2f446203fad0
+offerId: 514c1909-c9ee-4fad-84df-b51016055c2d
 price:
   cents: 16900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 398
 slug: 2x-zuiver-benson-eetkamerstoel
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 2x Zuiver Benson Eetkamerstoel

@@ -1,12 +1,12 @@
-_id: 6a3cf6b1d8517802ce4c850d
+_id: 6a54d232c1fad5071051b4cc
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 645f15da-9cab-5865-9c04-25e49fe88edb
-classicId: '3298738'
+  - 1389f836-af17-5ffc-ae61-2405bef96f8d
+classicId: '3330504'
 classicProductId: '717556'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: f4144349-d376-5d6c-99db-d1fafb6805fd
+id: d1be22f6-5dbd-4839-8e09-819053030616
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5e30d01d-b365-45b9-b36e-03e66a289adb
-  priority: 0
-  slug: bjorn-borg-png-logo-0
+  extension: png
+  id: 2030715
+  priority: 100
+  slug: bjorn-borg-logo
   type: logo
-offerId: d530ce01-8bd7-5693-9e69-0c3f6b981493
+offerId: 244e2f97-9095-4d6c-a8d6-87921da7dcd8
 price:
   cents: 2995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 84.95
 slug: bjorn-borg-duffle-bag-35-l-night-sky
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Björn Borg Duffle Bag | 35 l | Night Sky

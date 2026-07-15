@@ -1,12 +1,12 @@
-_id: 6a54a394561cceeb26add676
+_id: 6a54f64b0e88f9d7c82e2612
 appOnly: false
 brand: Myprotein
 brands:
   - id: 5d1e6318-10d4-5152-842b-30593b51fa02
     name: Myprotein
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3328712'
+  - cafc691d-bb7d-5f4e-9f6b-a8eecf805408
+classicId: '3331205'
 classicProductId: '640453'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: db278aae-a1d8-4a8d-8e26-6cdc837b19dc
+id: 6fcb1de3-71e7-4cd4-a83f-c2e835972f8a
 image:
   channels:
     - newsletter
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: myprotein-logo
   type: logo
-offerId: b919284a-c955-498f-8bcf-5fba3f41a77a
+offerId: ee1b837f-3d20-46d7-943c-ec71a38a19c0
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 44.99
 slug: myprotein-soy-protein-isolate-vanilla-v2-25-kg
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: MyProtein Soy Protein Isolate Vanilla V2 | 2,5 kg

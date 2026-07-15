@@ -1,12 +1,12 @@
-_id: 6a3a8f85924bf2954e421c5c
+_id: 6a54b126897fdd0ff7fe4ea7
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 8eb19f70-ec33-5a3a-80b7-a9e610e83045
-classicId: '3294888'
+  - 629f8039-17c2-52d0-a0fc-837e0a02ff16
+classicId: '3329500'
 classicProductId: '716951'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 08c2661e-2f86-5501-b1dc-f37275e987f9
+id: 3fc897c5-c47c-4a7c-8ffd-96119af5f60d
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2219a942-6680-41b2-9f68-2bf95544df91
-  priority: 0
-  slug: karlsson-logo-png-logo-0
+  extension: png
+  id: 1566233
+  priority: 100
+  slug: karlsson-logo
   type: logo
-offerId: 6ef456f3-b706-5cf0-bbee-69f925ed5fa5
+offerId: 0f4a760a-022e-466b-b7c5-5c247ebb379b
 price:
   cents: 2959
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 82.5
 slug: karlsson-pendule-longue-wandklok-25-cm-white
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Karlsson Pendule Longue Wandklok | Ø 25 cm | White

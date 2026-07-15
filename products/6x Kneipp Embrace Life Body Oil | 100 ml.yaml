@@ -1,12 +1,12 @@
-_id: 6a42839046302081208071b8
+_id: 6a561905e90bd346e59be660
 appOnly: false
 brand: Kneipp
 brands:
   - id: 245a04d2-57d4-57cb-9862-42e7828e14d7
     name: Kneipp
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3302869'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3334483'
 classicProductId: '718010'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: bc2c205c-4a07-5814-a5cf-87fa4b24dc8d
+id: df1c1679-1c60-45da-bd4a-ddd6ba0c181e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0fd5c15c-4bb6-488b-8057-b21419e6b7e8
-  priority: 0
-  slug: kneipp-logo-png-logo-0
+  extension: png
+  id: 1912761
+  priority: 100
+  slug: kneipp-logo
   type: logo
-offerId: e835279c-be7b-565d-9385-fa9ff5f90ad1
+offerId: f75c179f-f2ab-40b4-88a0-04d75c9346cb
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 71.94
 slug: 6x-kneipp-embrace-life-body-oil-100-ml
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 6x Kneipp Embrace Life Body Oil | 100 ml

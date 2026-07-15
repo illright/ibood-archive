@@ -1,0 +1,53 @@
+_id: 6a560e0b5ba535e5f21f722a
+appOnly: false
+brand: Jack & Jones
+brands:
+  - id: 39b25177-ad63-5409-b26f-12f28f1d2104
+    name: Jack & Jones
+categories:
+  - 14c7032d-af7e-5267-ab0e-6b3e81d4841c
+classicId: '3332965'
+classicProductId: '711470'
+deliveryPrice:
+  cents: 395
+  currency: EUR
+  value: 3.95
+directCheckout: false
+discount: 48
+end: '2026-07-21T21:59:59.999Z'
+freeDelivery: false
+id: 6e98cefe-ffa6-46ce-a9fa-288dfe559855
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 047389ad-bd4c-4ea5-83c0-ac27e0b5fcf8
+  priority: 0
+  slug: jj-main-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: da90dea7-7363-4b8b-991c-509df7b849b7
+price:
+  cents: 1295
+  currency: EUR
+  value: 12.95
+referencePrice:
+  cents: 2499
+  currency: EUR
+  value: 24.99
+slug: jack-jones-daytona-t-shirt
+soldOut: false
+start: '2026-07-14T22:00:00.000Z'
+title: Jack & Jones Daytona T-shirt

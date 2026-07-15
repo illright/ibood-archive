@@ -1,22 +1,22 @@
-_id: 6a4cebc2e77032d7e2eca942
+_id: 6a5636d15ba535e5f21f7a0e
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 76a3fc08-0a95-5d59-a38a-c69d8fc1e464
-classicId: '3319523'
+  - 90b31631-df3c-586f-b79a-f3eb31598004
+classicId: '3336453'
 classicProductId: '690172'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 43
-end: '2026-07-14T21:59:59.999Z'
+discount: 60
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: a82ec76f-77b7-4a4d-adfe-d190ee3990e3
+id: 4b60fe60-6944-47c0-a40a-80735fde970c
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: main-png-product-2
   type: product
-offerId: 84f88a7c-d4d9-472f-a9d1-5b1b3bf3d82b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2030715
+  priority: 100
+  slug: bjorn-borg-logo
+  type: logo
+offerId: 3ac3c066-da18-43b0-b329-2cfeec06bd5d
 price:
-  cents: 5695
+  cents: 3995
   currency: EUR
-  value: 56.95
+  value: 39.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: bjorn-borg-ace-knit-sneakers-heren
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Björn Borg Ace Knit Sneakers | Heren

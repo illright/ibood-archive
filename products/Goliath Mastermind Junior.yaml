@@ -1,12 +1,12 @@
-_id: 6a3a7cf713a37e138d1e4a68
+_id: 6a54ae45faab82f7fe7afb63
 appOnly: false
 brand: Goliath
 brands:
   - id: b1ca99f2-2eff-58f1-9954-a1a8b973b808
     name: Goliath
 categories:
-  - 1821082a-00e3-5349-9142-7d83f0e96142
-classicId: '3294760'
+  - 27141d2d-bc23-5913-8a79-4d52c0bb5b7a
+classicId: '3329375'
 classicProductId: '716911'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 6d802d87-6c48-5af2-ad10-d797d4cdb604
+id: 07c3c81f-e9f4-4c7a-8456-da3963f4de3d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: goliath-mastermind-junior-en-nl-fr-935691-006-product-15
   type: product
-offerId: e0246024-a417-5c0a-92c5-7299471129e5
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 1616ff72-7458-4ced-8672-02840b060912
+  priority: 0
+  slug: goliath-logo-0
+  type: logo
+offerId: e9c5e941-7ade-4ddb-825a-761cbac5a2c4
 price:
   cents: 995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 19.99
 slug: goliath-mastermind-junior
 soldOut: false
-start: '2026-07-06T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Goliath Mastermind Junior

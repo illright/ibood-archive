@@ -1,12 +1,12 @@
-_id: 6a54a390561cceeb26add670
+_id: 6a561a50e1628cff6fbd46a1
 appOnly: false
 brand: Ymea
 brands:
   - id: c75cfcd5-4e48-51e3-ae1c-94bf55c96a8d
     name: Ymea
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3328710'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3335336'
 classicProductId: '716925'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: a46ab9cd-bb84-42d5-af2a-51fb256698cc
+id: 455b551f-e277-4cb9-bec0-54ab260761ec
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: ymea-01-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 6f7d9627-5bf0-4dbf-9c76-87c4a46e0f4c
-  priority: 0
-  slug: ymea-png-logo-0
-  type: logo
-offerId: 97ba55af-c483-421b-b0ad-2c27df5f66c3
+offerId: f8068779-4b0a-4b34-bcb3-54b78ac80416
 price:
   cents: 1995
   currency: EUR
@@ -49,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 79.47
 slug: 3x-64-ymea-overgang-silhouet-capsules
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: 3x 64 Ymea Overgang Silhouet Capsules

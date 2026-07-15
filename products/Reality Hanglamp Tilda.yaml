@@ -1,32 +1,34 @@
-_id: 6a42755f61b44675c6ad3345
+_id: 6a54cf37c1fad5071051b1be
 appOnly: false
 brand: Reality
 brands:
   - id: 68f08060-5567-5269-a037-e62decf8511d
     name: Reality
 categories:
-  - ac31a11c-6f2b-5506-9cc1-51f17f6c9a95
-classicId: '3302089'
-classicProductId: '486882'
+  - bba08705-d582-59ba-ba0e-3df5a16aad7e
+classicId: '3329897'
+classicProductId: '486880'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 77
-end: '2026-07-14T21:59:59.999Z'
+discount: 78
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: d97c245e-45a7-4249-ba2f-406aae4ad197
+id: b221a5f7-a8cf-4d6c-a386-9dd867a34641
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: e0d50f93-6114-4eb2-8e33-c44e1a83d551-tr
+  id: 1da69a25-2e69-419f-bf49-d5b11206708a-tr
   priority: 0
-  slug: reality-hanglamp-tilda-1-jpg-product-101
+  slug: reality-hanglamp-tilda-1-jpg-product-1
   type: product
 logo:
   channels:
@@ -39,17 +41,16 @@ logo:
   priority: 0
   slug: logo-0
   type: logo
-offerId: c7712c9f-3dab-4e82-bbb5-a08c8d267f1c
+offerId: b6a7a429-8808-4bae-b9d5-e89c1e8959a5
 price:
   cents: 2495
   currency: EUR
   value: 24.95
 referencePrice:
-  cents: 10899
+  cents: 11299
   currency: EUR
-  value: 108.99
+  value: 112.99
 slug: reality-hanglamp-tilda
-soldOut: true
-start: '2026-06-30T22:00:00.000Z'
+soldOut: false
+start: '2026-07-14T22:00:00.000Z'
 title: Reality Hanglamp Tilda
-Reality Hanglamp Tilda

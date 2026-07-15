@@ -1,12 +1,12 @@
-_id: 6a43b70c8432a1679f56601b
+_id: 6a563f325ba535e5f21f7bf4
 appOnly: false
 brand: Double Dry
 brands:
   - id: 10a2ed4b-5c4e-562e-8efa-47e63398ea68
     name: Double Dry
 categories:
-  - 61e4f891-190c-5292-926f-740f0014c7c2
-classicId: '3308398'
+  - c68f7ea9-109e-55f3-a2aa-5211330182e2
+classicId: '3337129'
 classicProductId: '714924'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: b3677b72-41c4-487e-a15e-4f2c5bbcdb6b
+id: db4e9a62-9071-4116-9fd0-12ff3d46ceba
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6b80579c-539d-468b-a6c0-1da22cf0bd94
-  priority: 0
-  slug: doubledry-logo-png-logo-0
+  extension: png
+  id: 1973103
+  priority: 100
+  slug: doubledry-logo
   type: logo
-offerId: d51fb550-2313-4804-8878-23e2caf4d978
+offerId: a2bcf851-0896-4e92-adcd-6060a0953373
 price:
   cents: 995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 18.95
 slug: 8x-doubledry-gastendoekjes-30x50cm-nougat
 soldOut: false
-start: '2026-07-01T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 8x DoubleDry Gastendoekjes | 30 x 50 cm | Nougat

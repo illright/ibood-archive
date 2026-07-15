@@ -1,12 +1,12 @@
-_id: 6a4cfeeb97e1d5238f6fad5b
+_id: 6a560d896fc81fc92b3d32ec
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 99cfcbb1-481c-5536-ac4a-7fecbbb0f26a
-classicId: '3320539'
+  - 14c7032d-af7e-5267-ab0e-6b3e81d4841c
+classicId: '3332861'
 classicProductId: '712159'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 39
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: a069082c-6165-4379-804f-190e99f72a0f
+id: 24370689-3c40-42fb-a963-dc3103ff35a7
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: m-seashell-m-1060-tsr688-0112-men-t-shirt-ss-petrol-product-0
   type: product
-offerId: d83930d0-7824-41c6-9dcd-eec758709da8
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
+  type: logo
+offerId: 0e9e5742-bb13-4478-a941-a397f3ba96e4
 price:
   cents: 2195
   currency: EUR
@@ -41,9 +51,5 @@ referencePrice:
   value: 35.99
 slug: petrol-industries-t-shirt-print-tsr688-seashell
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
-title: Petrol Industries T-shirt Print | TSR688 | Seashell
--t-shirt-print-tsr688-seashell
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Petrol Industries T-shirt Print | TSR688 | Seashell

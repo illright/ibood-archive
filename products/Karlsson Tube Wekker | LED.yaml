@@ -1,12 +1,12 @@
-_id: 6a42701ebed9d0018e60464d
+_id: 6a54b109faab82f7fe7afc26
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 8eb19f70-ec33-5a3a-80b7-a9e610e83045
-classicId: '3301627'
+  - 629f8039-17c2-52d0-a0fc-837e0a02ff16
+classicId: '3329471'
 classicProductId: '707747'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 2490776f-fe06-42b3-acc3-d15e52ad2f7b
+id: 72c27dc3-6a27-4d17-ab07-85934e703a25
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 33e38be0-b57d-41f2-ba56-3935f7903e1e
+offerId: 7efaab7c-d13a-462a-aa1a-83c66de52a77
 price:
   cents: 2495
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 66.95
 slug: karlsson-tube-wecker-ka5654bk
-soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: Karlsson Tube Wekker | LED

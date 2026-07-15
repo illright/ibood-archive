@@ -1,12 +1,12 @@
-_id: 6a4ceb2282f63461233f54c4
+_id: 6a5634ad5ba535e5f21f7961
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - 11587b89-5061-5f96-9edd-e2d32ecda132
-classicId: '3319439'
+  - 90b31631-df3c-586f-b79a-f3eb31598004
+classicId: '3335977'
 classicProductId: '714753'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 2e581845-99bd-4432-9a9c-7cea598adf01
+id: c69b745d-04c9-4754-9689-28dcd2d46014
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1662615
-  priority: 100
-  slug: nubikk-logo
+    - all
+  extension: image/png
+  id: 401958c2-9f7f-438a-a798-54b114f39016
+  priority: 0
+  slug: nubikk-logo-png-logo-0
   type: logo
-offerId: 8b5a09f4-065d-4fe0-a29c-a42e9f89e12d
+offerId: 76183c01-7b9b-45a7-a585-dc18ecd0de03
 price:
   cents: 10995
   currency: EUR
@@ -50,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 250
 slug: nubikk-basket-cole-leren-sneaker-grey
-soldOut: true
-start: '2026-07-07T22:00:00.000Z'
+soldOut: false
+start: '2026-07-14T22:00:00.000Z'
 title: Nubikk Basket Cole Leren Sneaker | Grey

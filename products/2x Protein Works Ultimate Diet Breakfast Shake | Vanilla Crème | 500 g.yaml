@@ -1,12 +1,12 @@
-_id: 6a4ce2d9027811c8f666b47f
+_id: 6a54f65e28ec43f3518ae2b4
 appOnly: false
 brand: Protein Works
 brands:
   - id: 9729d8c4-10e7-50ca-b489-73f2a0f67c19
     name: Protein Works
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3318198'
+  - cafc691d-bb7d-5f4e-9f6b-a8eecf805408
+classicId: '3331225'
 classicProductId: '687432'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 77
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 5be48bec-eb0a-4c02-b4ae-9f1e40a85f90
+id: db8fb152-9fa9-4613-9b66-dea7ab84422f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a1ee9018-1b26-43ea-bc10-f33051ee8ffb
-  priority: 0
-  slug: protein-works-png-logo-0
+  extension: png
+  id: 1863011
+  priority: 100
+  slug: protein-works-logo
   type: logo
-offerId: ebfb3cab-9f4f-4760-a8d3-e83968b5d4a7
+offerId: fcaa7338-6a85-4061-9cdb-30d7e864ed2d
 price:
   cents: 995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 43.06
 slug: 2x-protein-works-ultimate-diet-breakfast-shake-vanilla-creme-500-g
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 2x Protein Works Ultimate Diet Breakfast Shake | Vanilla Crème | 500 g

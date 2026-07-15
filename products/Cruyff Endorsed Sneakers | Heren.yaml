@@ -1,12 +1,12 @@
-_id: 6a4cec397a0279f5bc32b542
+_id: 6a50f1f78d9a3697d2a3f65c
 appOnly: false
 brand: Cruyff
 brands:
   - id: ac6dc579-3d41-563b-bc45-22b7dda072a3
     name: Cruyff
 categories:
-  - ede4bdfc-319a-51fb-974d-0fe0dcfafbd0
-classicId: '3319624'
+  - fdb841aa-e544-52b9-87ae-9d3b17c71a68
+classicId: '3328075'
 classicProductId: '687872'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 70
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: b60700ee-38ba-4b4e-87ed-921366fffecf
+id: 70172465-6e0c-4389-812b-49011ebf1ff3
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 4-png-product-1
   type: product
-offerId: c4c42061-5eea-4e6b-80b9-ba666bb87994
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1560940
+  priority: 100
+  slug: cruyff-logo
+  type: logo
+offerId: 31a8e9c6-1a35-413a-b9ab-0d4b654de314
 price:
   cents: 2995
   currency: EUR
@@ -39,14 +49,7 @@ referencePrice:
   value: 99.95
 slug: cruyff-endorsed-sneakers-heren
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Cruyff Endorsed Sneakers | Heren
-95
-referencePrice:
-  cents: 9995
-  currency: EUR
-  value: 99.95
-slug: cruyff-endorsed-sneakers-heren
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+0:00.000Z'
 title: Cruyff Endorsed Sneakers | Heren

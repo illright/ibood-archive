@@ -1,22 +1,22 @@
-_id: 6a4ceb4782f63461233f54ee
+_id: 6a5636cc2fe1c59f4eabdba0
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 071a7a5e-3cf9-57ea-8c5c-50f79fd78bb5
-classicId: '3319455'
+  - 90b31631-df3c-586f-b79a-f3eb31598004
+classicId: '3336447'
 classicProductId: '696759'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 40
-end: '2026-07-14T21:59:59.999Z'
+discount: 50
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: e7a8adc9-5ad8-4585-a496-fe466ad4029d
+id: ddf39b99-bd0c-44d1-95dc-d5723e640678
 image:
   channels:
     - app
@@ -28,20 +28,26 @@ image:
   priority: 0
   slug: 42-white-blue-152-kaleb007-ss26-callum-lyle-scott-sneaker-product-0
   type: product
-offerId: 4cce9dda-d34a-426f-abb3-9b2e8f3c5de7
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1695004
+  priority: 100
+  slug: lyle-scott-logo
+  type: logo
+offerId: 9cf470c2-0937-48e8-bc01-f8661a122688
 price:
-  cents: 5995
+  cents: 4995
   currency: EUR
-  value: 59.95
+  value: 49.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: lyle-scott-kaleb-callum-sneakers-heren
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
-title: Lyle & Scott Kaleb Callum Sneakers | Heren
-lug: lyle-scott-kaleb-callum-sneakers-heren
-soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Lyle & Scott Kaleb Callum Sneakers | Heren

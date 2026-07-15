@@ -1,12 +1,12 @@
-_id: 6a4ceca379ab49fae0e5308b
+_id: 6a5636382fe1c59f4eabdb85
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 6c239616-571a-52c8-9de1-a9bad01bf9cc
-classicId: '3319814'
+  - 90b31631-df3c-586f-b79a-f3eb31598004
+classicId: '3336383'
 classicProductId: '692302'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: cf28971f-dc4d-4cb5-90eb-7892ca19f3a5
+id: 8d739235-78e4-4e1f-814e-2db1293c5b25
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1682080
-  priority: 100
-  slug: vans-logo
+    - all
+  extension: image/png
+  id: f05760de-1413-4ca2-923c-18e190583c44
+  priority: 0
+  slug: vans-png-logo-0
   type: logo
-offerId: 1907fcb4-5a8b-42d5-b244-1574ab4e70bc
+offerId: f307510d-9834-4071-b147-a227a928a6ee
 price:
   cents: 4995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 85
 slug: vans-caldrone-sneakers-heren
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Vans Caldrone Sneakers | Heren

@@ -1,44 +1,43 @@
-_id: 6a4cc286262c38dab239e81c
+_id: 6a55f8710432af0b0753e778
 appOnly: false
 brand: Butler
 brands:
   - id: c33d26f8-31ef-5b0d-826e-b687797f329d
     name: Butler
 categories:
-  - d57d308e-9630-5ea0-97ec-adf4691f857c
-classicId: '3315720'
-classicProductId: '602298'
+  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
+classicId: '3331894'
+classicProductId: '602297'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 42
-end: '2026-07-14T21:59:59.999Z'
+discount: 38
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 4ea00883-6863-4759-8762-559fd2a8f533
+id: 79f99142-75ec-41f0-9211-04bb80ffb111
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2257990
+    - all
+  extension: image/png
+  id: 63746cbd-6951-439f-8d20-3aa889a8785f-tr
   priority: 0
-  slug: butler-schneidebrett-eschenholz-40-x-30-cm
+  slug: butler-snijplank-40-x-30-cm-jpg-product-101
   type: product
-offerId: dda61546-a736-46ea-a968-6300d344bfa1
+offerId: 55c71d93-6a26-493e-803f-7ab047fc1ada
 price:
-  cents: 3495
+  cents: 2495
   currency: EUR
-  value: 34.95
+  value: 24.95
 referencePrice:
-  cents: 5995
+  cents: 3995
   currency: EUR
-  value: 59.95
+  value: 39.95
 slug: butler-snijplank-40-x-30-cm
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
-title: Butler Snijplank | 40 x 30 cm
-00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Butler Snijplank | 40 x 30 cm

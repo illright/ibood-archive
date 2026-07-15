@@ -1,12 +1,12 @@
-_id: 6a4274de1563a6238195c620
+_id: 6a54ceb4e0a8d019a5579a9e
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - ac31a11c-6f2b-5506-9cc1-51f17f6c9a95
-classicId: '3301891'
+  - bba08705-d582-59ba-ba0e-3df5a16aad7e
+classicId: '3329753'
 classicProductId: '617130'
 deliveryPrice:
   cents: 2995
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 29.95
 directCheckout: true
 discount: 64
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 4b6c5330-dafc-4a6f-809a-fc1713b78ade
+id: 2d691f72-cfff-4f0b-860b-707027b404db
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: b34b279a-736a-4597-be37-1345f41636cb
+  extension: image/png
+  id: bc3a565c-c52e-4905-913f-f61ce0d104ff
   priority: 0
-  slug: hoekbank-jackson-product-7
+  slug: hoekbank-jackson-product-8
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: f3033820-3cfd-4773-9620-5aa3ba36e2e2
+offerId: 01cc7228-0dc5-4a97-bc69-34c463de2bd9
 price:
   cents: 46900
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 1299
 slug: hoekbank-jackson
 soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Multifurn Hoekbank Jackson

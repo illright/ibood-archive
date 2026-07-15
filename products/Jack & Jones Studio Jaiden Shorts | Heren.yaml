@@ -1,22 +1,22 @@
-_id: 6a4d020a30d6d788edc74a6f
+_id: 6a56187bd1d0c06091fb4584
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 99a25141-3c75-5149-87db-3f8201635b33
-classicId: '3321883'
-classicProductId: '680161'
+  - e694572d-9891-5b8a-b455-49e9e0dc7100
+classicId: '3334100'
+classicProductId: '680155'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 63
-end: '2026-07-14T21:59:59.999Z'
+directCheckout: false
+discount: 50
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 92d1dc77-2054-45aa-ad4e-1e6a775706b3
+id: 96437bc4-be11-4987-a43a-37535ba8ee29
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 3faea8b0-d507-4dca-8291-b86680b5ab4a
+  id: 2d6f8bb0-2242-4232-b167-bb6d36c7ce86
   priority: 0
-  slug: xxl-faded-denim-12254135-jwhjaiden-summer-linen-blendshort-srt-sn-jack-and-jones-pants-studio-product-0
+  slug: l-navy-blazer-12254135-jwhjaiden-summer-linen-blendshort-srt-sn-jack-and-jones-pants-studio-product-0
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 264b75a0-bf53-415f-a105-2db75ca14381
+offerId: 561b8e11-a94e-4572-9b96-8ef8aea4f295
 price:
-  cents: 1495
+  cents: 1995
   currency: EUR
-  value: 14.95
+  value: 19.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: jack-jones-studio-jaiden-shorts-heren
-soldOut: true
-start: '2026-07-07T22:00:00.000Z'
+soldOut: false
+start: '2026-07-14T22:00:00.000Z'
 title: Jack & Jones Studio Jaiden Shorts | Heren

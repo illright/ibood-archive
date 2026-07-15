@@ -1,12 +1,12 @@
-_id: 6a54a379e1628cff6fbd2eb2
+_id: 6a56199f2fe1c59f4eabd939
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3328685'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3334773'
 classicProductId: '702119'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 5acf3680-1544-40af-a15e-6744d8ad1c6b
+id: 172ab9d1-808f-4d13-af7c-933a78b9b850
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 88cc9e62-c318-46ae-ab11-5b78aefa997f
-  priority: 0
-  slug: oral-b-02-png-product-1
+  id: f3e3d623-7d94-4a7e-abe0-9074d34d69e1
+  priority: 1
+  slug: oral-b-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: oral-b-logo
   type: logo
-offerId: 5c36521c-7df9-4263-b165-84b4e96147b3
+offerId: 1f6f5d9b-6cd7-470d-b696-63cb513f06b7
 price:
   cents: 1795
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 65.88
 slug: 12x-oral-b-pro-expert-advanced-deep-clean-tandpasta-75-ml
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 12x Oral-B Pro-Expert Advanced Deep Clean Tandpasta | 75 ml

@@ -1,12 +1,12 @@
-_id: 6a4789b896632baa7662e1fa
+_id: 6a56176b2fe1c59f4eabd7e3
 appOnly: false
 brand: Axe
 brands:
   - id: 8480e2c1-a310-5fd2-91af-01da5cfc1038
     name: Axe
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3312050'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3333602'
 classicProductId: '205408'
 deliveryPrice:
   cents: 595
@@ -14,30 +14,31 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 978c4918-60e1-579f-bd79-152f84d28ae5
+id: 4c6e2b1f-ada9-427c-b864-8c0b1cdc031e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1313266
+    - all
+  extension: image/png
+  id: 5e281d5a-2987-4a8f-9816-dcc61424590f-tr
   priority: 0
-  slug: 6x-axe-showergel-apollo
+  slug: 6x-axe-duschgel-apollo-250-ml-jpg-product-1
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 1396729
+  extension: png
+  id: 1692918
   priority: 100
-  slug: 6x-axe-showergel-apollo
+  slug: axe-logo
   type: logo
-offerId: 3d568e03-fb41-57af-afd4-9b4afd437677
+offerId: 425a0a8a-cfe0-4643-bc4e-507b48400e71
 price:
   cents: 1595
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 35.94
 slug: 6x-axe-showergel-apollo
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 6x Axe Showergel Apollo | 250 ml

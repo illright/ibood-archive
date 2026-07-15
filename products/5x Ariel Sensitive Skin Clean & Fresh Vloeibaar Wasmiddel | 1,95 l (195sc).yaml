@@ -1,12 +1,12 @@
-_id: 6a43a8db4630208120807ef3
+_id: 6a56173e006141d6b96bd6cf
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 7619e986-64f8-5660-b960-b048a56cb69b
-classicId: '3305853'
+  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
+classicId: '3333570'
 classicProductId: '718075'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: bd8b28f0-98f8-51d6-a06a-ba204cf4cdc0
+id: b2a80a5c-f8e4-4a62-b971-5916271a304e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3d0dac92-0db5-429d-aad3-3491e3b3bbe0
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: 7f699b03-bb5d-5558-b14e-d19e3150286a
+offerId: 6b9ef6de-f40e-473e-8bc5-869c50e1f4a6
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 104.52
 slug: 5x-ariel-sensitive-skin-clean-fresh-vloeibaar-wasmiddel-1-95-l-195sc
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: 5x Ariel Sensitive Skin Clean & Fresh Vloeibaar Wasmiddel | 1,95 l (195sc)

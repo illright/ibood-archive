@@ -1,12 +1,12 @@
-_id: 6a4d0161397e3867d1ebf25d
+_id: 6a560da32fe1c59f4eabd6ad
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - acc96e87-e407-5f34-ab87-2aa3cacbdba1
-classicId: '3321402'
+  - 10adec5d-daeb-5eac-81c9-beacb54efb5d
+classicId: '3332887'
 classicProductId: '702294'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 9d7cc6fe-bdcb-4a62-8dac-f7a5885e4435
+id: 23ca392a-a645-4678-96a6-db46c66f2fc2
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 73a1c229-89f6-4d15-a983-b14d3d3efe9e
+  priority: 0
+  slug: petrol-logo-png-logo-0
   type: logo
-offerId: 94a2d54d-66b2-4d58-8678-7a840fbc8614
+offerId: 5d29914d-c6c5-48ac-bf62-47f051413956
 price:
   cents: 1995
   currency: EUR
@@ -51,6 +52,5 @@ referencePrice:
   value: 39.99
 slug: petrol-industries-polo-pol113-6180-oil-green
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Petrol Industries Polo | POL113-6180 | Oil Green
-tle: Petrol Industries Polo | POL113-6180 | Oil Green

@@ -1,22 +1,22 @@
-_id: 6a4f8254d231537eea457b02
+_id: 6a54cfd9e0a8d019a5579c3c
 appOnly: false
 brand: Larson
 brands:
   - id: 353b1a3e-8087-56d1-9af8-e8ff1499e7c0
     name: Larson
 categories:
-  - ac31a11c-6f2b-5506-9cc1-51f17f6c9a95
-classicId: '3325119'
+  - bba08705-d582-59ba-ba0e-3df5a16aad7e
+classicId: '3330097'
 classicProductId: '404262'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 80
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 8a61b1b8-136e-4d52-8474-ddcd8e6866b2
+id: 735fb3b7-6c59-4d5f-a885-4cb8e5fd1a6d
 image:
   channels:
     - app
@@ -33,12 +33,12 @@ logo:
     - website
     - app
     - newsletter
-  extension: png
-  id: 2080102
+  extension: jpg
+  id: 856090
   priority: 100
-  slug: larson-verdunkelungsvorhang-150-x-250-cm
+  slug: larson-logo
   type: logo
-offerId: a465cd06-c14f-4efc-ab24-d1835def4b1f
+offerId: 22039621-bff9-41c7-b664-837b54fce05a
 price:
   cents: 995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: larson-blackout-gordijn-150-x-250-cm
-soldOut: false
-start: '2026-06-30T22:00:00.000Z'
+soldOut: true
+start: '2026-07-14T22:00:00.000Z'
 title: Larson Blackout Gordijn | Haakbevestiging | 150 x 250 cm

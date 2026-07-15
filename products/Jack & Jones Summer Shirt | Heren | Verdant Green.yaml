@@ -1,22 +1,22 @@
-_id: 6a4d017c75e75a601e89c40f
+_id: 6a560d4d1376626a9bf716f4
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - b386c6c8-85d5-5e14-8bc3-639084a6dfa9
-classicId: '3321475'
+  - 3255857f-daf2-5012-96fb-c4b0554ab4ac
+classicId: '3332784'
 classicProductId: '679491'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 48
-end: '2026-07-14T21:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 779875e0-62a0-4020-a09b-e516b3100949
+id: a695e12d-f819-49f1-aa9c-9372ccd781e9
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: db52094f-35a9-4566-911b-2495bf9abf38
+offerId: 0084e89b-0545-44ff-975e-04ff52062320
 price:
-  cents: 2085
+  cents: 1995
   currency: EUR
-  value: 20.85
+  value: 19.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: jack-jones-summer-shirt-verdant-green
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Jack & Jones Summer Shirt | Heren | Verdant Green

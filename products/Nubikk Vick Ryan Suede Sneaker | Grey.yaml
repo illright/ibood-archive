@@ -1,12 +1,12 @@
-_id: 6a4ceb2182f63461233f54c0
+_id: 6a56349f05cc403b60a11365
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - 11587b89-5061-5f96-9edd-e2d32ecda132
-classicId: '3319435'
+  - 90b31631-df3c-586f-b79a-f3eb31598004
+classicId: '3335973'
 classicProductId: '714759'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 32a778e5-36ad-4d16-b396-f04a8f69d18a
+id: 52a7b067-8e3d-44d3-bb8d-b06d84858d8f
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1662615
-  priority: 100
-  slug: nubikk-logo
+    - all
+  extension: image/png
+  id: 16a4107b-40fd-43bd-afd3-bbdf34bffaa6
+  priority: 0
+  slug: nubikk-logo-png-logo-0
   type: logo
-offerId: d0e2c2c6-3d66-427d-a5e4-45762b0518ad
+offerId: 04d1fa74-934d-4f8e-97b6-0492dc3abe0e
 price:
   cents: 7995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 200
 slug: nubikk-vick-ryan-suede-sneaker-grey
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Nubikk Vick Ryan Suede Sneaker | Grey

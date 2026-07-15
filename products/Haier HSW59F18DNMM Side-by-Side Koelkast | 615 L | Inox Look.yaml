@@ -1,12 +1,12 @@
-_id: 6a4cc2e749990a07ebc191d1
+_id: 6a55f8faaf617ab313f23fa9
 appOnly: false
 brand: Haier
 brands:
   - id: d8b29d56-0e08-5322-8de8-dd842df130ae
     name: Haier
 categories:
-  - 9abb090c-7d29-5751-949c-0631dcf1c651
-classicId: '3315894'
+  - 6ef93b0a-5907-524e-bcc3-33b4335d371e
+classicId: '3332127'
 classicProductId: '600334'
 deliveryPrice:
   cents: 5995
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 59.95
 directCheckout: true
 discount: 42
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: b36f3c1b-f2a6-4468-9114-9e1accc2014b
+id: a18af41e-d37f-4e87-9f1b-0b9ed40cce2c
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2079698
+    - all
+    - app
+    - website
+  extension: image/png
+  id: f65c2e48-e7f9-4981-9139-3ff90a645787-tr
   priority: 0
-  slug: haier-sbs-plain-door-90-cm-615-l
+  slug: 2079697-avif-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: haier-logo
   type: logo
-offerId: 72b669c2-361b-466f-9854-3d72634639f9
+offerId: b4aae362-1b31-49de-af20-64f86a4e8a8d
 price:
   cents: 69900
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 1199
 slug: haier-hsw59f18dnmm-side-by-side-koelkast-615l-inox-look
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: Haier HSW59F18DNMM Side-by-Side Koelkast | 615 L | Inox Look

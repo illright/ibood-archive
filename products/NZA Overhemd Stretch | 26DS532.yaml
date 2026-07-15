@@ -1,22 +1,22 @@
-_id: 6a4d00b5dd89d758b63b4772
+_id: 6a56179b2d9fcc88f512c792
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - b386c6c8-85d5-5e14-8bc3-639084a6dfa9
-classicId: '3321060'
-classicProductId: '707541'
+  - 76cb8a90-b421-5d24-a2c4-a59e03bc66bc
+classicId: '3333634'
+classicProductId: '707546'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: a4d5ada1-721c-4eae-ba3e-cc09028cd140
+id: e5c7c65c-250c-4b5d-9328-c7c1c06362b5
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1634994
-  priority: 100
-  slug: nza-logo
+    - all
+  extension: image/png
+  id: 3004f717-9b05-44b5-bec6-0727c4138172
+  priority: 0
+  slug: new-zealand-auckland-png-logo-0
   type: logo
-offerId: 53b98a00-fe5b-4ffd-999a-e94b9a2529be
+offerId: ce8a16de-96ca-41c7-bd02-0076d53a95db
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 89.99
 slug: nza-overhemd-stretch-26ds532
 soldOut: false
-start: '2026-07-07T22:00:00.000Z'
+start: '2026-07-14T22:00:00.000Z'
 title: NZA Overhemd Stretch | 26DS532

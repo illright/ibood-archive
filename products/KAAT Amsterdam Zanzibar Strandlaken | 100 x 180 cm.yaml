@@ -1,12 +1,12 @@
-_id: 6a43b6243a4e8336334ea0f6
+_id: 6a4e517470a42b2d084d5328
 appOnly: false
 brand: Kaat
 brands:
   - id: 03f0f997-cea0-5043-87c7-687499a93e62
     name: Kaat
 categories:
-  - 61e4f891-190c-5292-926f-740f0014c7c2
-classicId: '3307613'
+  - 817e1ce3-a9be-5ea0-a5f4-f137facd979b
+classicId: '3323729'
 classicProductId: '655006'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-07-14T21:59:59.999Z'
+end: '2026-07-16T21:59:59.999Z'
 freeDelivery: false
-id: e01ef350-4515-4a7a-84c9-065b557f565f
+id: 0372816a-9a47-5294-b5d9-7869654784bc
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 170600f7-a328-4556-93b0-37c6d327c98e
+    - website
+    - app
+  extension: image/png
+  id: 170600f7-a328-4556-93b0-37c6d327c98e-tr
   priority: 0
   slug: 330034-ka-zanzibar-multi-100x180-product-2
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: kaat-logo
   type: logo
-offerId: 61a66758-3bf5-4d9b-87d6-554c4032b50d
+offerId: dfc3b8eb-a548-5a34-9467-aadbe8fef684
 price:
   cents: 1495
   currency: EUR
@@ -48,7 +50,6 @@ referencePrice:
   currency: EUR
   value: 39.95
 slug: kaat-amsterdam-zanzibar-strandlaken-100-x-180-cm
-soldOut: true
-start: '2026-07-01T22:00:00.000Z'
+soldOut: false
+start: '2026-07-12T22:00:00.000Z'
 title: KAAT Amsterdam Zanzibar Strandlaken | 100 x 180 cm
-Strandlaken | 100 x 180 cm
