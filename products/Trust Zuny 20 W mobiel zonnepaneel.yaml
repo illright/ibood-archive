@@ -1,12 +1,12 @@
-_id: 6a4b6f122664ccce68b33143
+_id: 6a574d9aad16c783f4ccc836
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 72966a11-63cc-550e-ac7d-23980b6e9b7f
-classicId: '3313408'
+  - 8340f883-4c87-56b5-9b7b-10281ba3ace6
+classicId: '3338103'
 classicProductId: '716964'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-07-15T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 40c1b35b-56fb-53ee-93f1-5fa15d92b4d7
+id: 86704146-2eca-46a8-8921-de92c94f4cf0
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: trust-zuny-solar-panel-20w-5y-warranty-product-0
   type: product
-offerId: 1705a236-9343-58f5-af99-e779e0360a4a
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
+  type: logo
+offerId: e3c4e72b-7384-4230-86e8-7b09a02c9f78
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 59.99
 slug: trust-zuny-20w-solar-panel
 soldOut: false
-start: '2026-07-08T22:00:00.000Z'
+start: '2026-07-15T22:00:00.000Z'
 title: Trust Zuny 20 W mobiel zonnepaneel

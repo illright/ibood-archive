@@ -1,32 +1,32 @@
-_id: 6a22b4ad47d6895bb8c02ec4
+_id: 6a574da6df8aa90ed34a9f44
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 72966a11-63cc-550e-ac7d-23980b6e9b7f
-classicId: '3260950'
-classicProductId: '713940'
+  - 8340f883-4c87-56b5-9b7b-10281ba3ace6
+classicId: '3338117'
+classicProductId: '713939'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 28
-end: '2026-07-15T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: d0694cd1-3301-5157-9024-b03e730835e4
+id: 11633cfe-a3fc-4ac2-a0b4-d70f0ea554d6
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 56fd97c6-3584-4357-825b-bc68678b30bb
+  extension: image/png
+  id: 951c73ae-6a15-40d9-82f7-df3179619fa9
   priority: 0
-  slug: apple-ipad-pro-m4-2024-13-wifi-256gb-silver-product-1
+  slug: qaws-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: d1286eb5-b181-52ae-9a60-571bfc7ed65d
+offerId: e289332f-766d-4c58-a43d-a9ce3e53f693
 price:
   cents: 112900
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 1569
 slug: ipad-pro-13-m4-256gb-wifi
-soldOut: true
-start: '2026-07-08T22:00:00.000Z'
+soldOut: false
+start: '2026-07-15T22:00:00.000Z'
 title: Apple iPad Pro M4 (2024) 13" | WiFi | 256 GB

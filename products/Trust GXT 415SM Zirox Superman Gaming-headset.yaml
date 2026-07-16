@@ -1,12 +1,12 @@
-_id: 6a4b6f2f2664ccce68b33145
+_id: 6a574d33854c830569180d1f
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 72966a11-63cc-550e-ac7d-23980b6e9b7f
-classicId: '3313411'
+  - 8340f883-4c87-56b5-9b7b-10281ba3ace6
+classicId: '3338006'
 classicProductId: '716963'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-07-15T21:59:59.999Z'
+end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: b136f833-5ef7-5ab7-88a6-1aec93c70966
+id: 88d26849-f609-4c70-a528-1280fc174497
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: trust-gxt415sm-zirox-headset-superman-product-0
   type: product
-offerId: e94ad733-63b2-52a4-88c8-9b3ff71506a2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
+  type: logo
+offerId: c2650d50-6586-4301-8afd-68885c30255f
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 24.99
 slug: trust-gxt415sm-zirox-headset-superman
 soldOut: false
-start: '2026-07-08T22:00:00.000Z'
+start: '2026-07-15T22:00:00.000Z'
 title: Trust GXT 415SM Zirox Superman Gaming-headset
