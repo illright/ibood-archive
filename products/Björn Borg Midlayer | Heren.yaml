@@ -1,12 +1,12 @@
-_id: 6a54d223c1fad5071051b460
+_id: 6a58986d0ae90733494142f0
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 404b696f-df36-565b-ab63-9d461294308e
-classicId: '3330468'
+  - c3a64289-d206-5100-a65b-42caf4c6b242
+classicId: '3339479'
 classicProductId: '323558'
 deliveryPrice:
   cents: 595
@@ -16,16 +16,17 @@ directCheckout: false
 discount: 75
 end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 3aba78d6-cfd5-498a-93e2-6b75435e4b95
+id: 2ab98cf9-f5e3-4da9-8a75-2fc36d277752
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1365267
+    - all
+  extension: image/png
+  id: e108fce4-900d-4d68-bc1a-35e949188882-tr
   priority: 0
-  slug: bjorn-borg-midlayer-heren
+  slug: bjorn-borg-midlayer-sweatshirt-herren-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: bjorn-borg-logo
   type: logo
-offerId: 6ca6855a-866e-4412-9708-6ec0416b62ac
+offerId: 2d581549-318c-4466-bf18-1b4502611997
 price:
   cents: 1500
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 59.95
 slug: bjorn-borg-midlayer-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-15T22:00:00.000Z'
 title: Björn Borg Midlayer | Heren
