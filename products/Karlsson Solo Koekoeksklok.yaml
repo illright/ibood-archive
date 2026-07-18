@@ -1,4 +1,4 @@
-_id: 6a54b0d3e1628cff6fbd322d
+_id: 6a59dd4c2fe1c59f4eabe5ae
 appOnly: false
 brand: Karlsson
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Karlsson
 categories:
   - 629f8039-17c2-52d0-a0fc-837e0a02ff16
-classicId: '3329418'
-classicProductId: '673249'
+classicId: '3340962'
+classicProductId: '673252'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
 end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 45404fe7-545e-43ad-955f-ca1e82f7a2fa
+id: 9e3d2b81-6ba3-4e35-b586-7bbae9341865
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: fbbd3756-d515-4aa2-aead-ef05c824d3ae-tr
+  id: 6d924453-0c2e-45b3-9eec-89cde99f5fb4-tr
   priority: 0
-  slug: ka6080bk-karlsson-wall-clock-solo-color-cuckoo-black-product-3
+  slug: ka6080lg-karlsson-wall-clock-solo-color-cuckoo-grayed-jade-product-0
   type: product
-offerId: d9731c16-10b0-477b-95f5-5da92a043756
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1566233
+  priority: 100
+  slug: karlsson-logo
+  type: logo
+offerId: 1e6fe53d-ce86-4f81-aba5-81fd76c8bf02
 price:
   cents: 3995
   currency: EUR

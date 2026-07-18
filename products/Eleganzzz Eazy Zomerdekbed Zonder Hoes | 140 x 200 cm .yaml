@@ -1,4 +1,4 @@
-_id: 6a563e765ba535e5f21f7a8e
+_id: 6a563e8f2fe1c59f4eabdc63
 appOnly: false
 brand: Eleganzzz
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Eleganzzz
 categories:
   - aae34a57-b58d-5294-bb24-e768485ecb0e
-classicId: '3336754'
-classicProductId: '714697'
+classicId: '3336806'
+classicProductId: '714698'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 63
 end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: ef048448-1111-44a3-9d63-e8a847734b4e
+id: dc80d9cc-3a14-4fb9-8cc5-51249b8461e7
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: eleganzzz-06-png-product-1
   type: product
-offerId: d1763a09-dc2b-4f24-a414-359ec0b707ae
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3967721b-6f57-46b0-9c1b-fae7352bcc93
+  priority: 0
+  slug: eleganzzz-png-logo-0
+  type: logo
+offerId: f189e8a4-3fe3-48be-ba5c-ee29d8cc4807
 price:
   cents: 1495
   currency: EUR
@@ -38,12 +49,6 @@ referencePrice:
   currency: EUR
   value: 39.95
 slug: eleganzzz-eazy-zomerdekbed-zonder-hoes-140-x-200-cm
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
-title: 'Eleganzzz Eazy Zomerdekbed Zonder Hoes | 140 x 200 cm '
- EUR
-  value: 39.95
-slug: eleganzzz-eazy-zomerdekbed-zonder-hoes-140-x-200-cm
-soldOut: false
+soldOut: true
 start: '2026-07-14T22:00:00.000Z'
 title: 'Eleganzzz Eazy Zomerdekbed Zonder Hoes | 140 x 200 cm '
