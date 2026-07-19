@@ -1,12 +1,12 @@
-_id: 6a56111e9e7b9286abedcec5
+_id: 6a5617e1e1628cff6fbd42fe
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9c94f622-b635-5d6d-a5c1-eb5b3c2115e9
-classicId: '3333117'
+  - e694572d-9891-5b8a-b455-49e9e0dc7100
+classicId: '3333775'
 classicProductId: '652541'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 70
 end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: 769f5921-92ea-4e27-8a14-63118bc179ec
+id: 3bcf5e6a-0c04-4d06-b828-f124aaa3c8a5
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 318767f0-e5e8-4fe6-a5ab-6fe6e278dee0
+offerId: 5d70ce8b-eb4a-497c-ae4b-e16027519e51
 price:
   cents: 1495
   currency: EUR
@@ -47,6 +47,7 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: jack-jones-intelligence-clark-original-jeans
-soldOut: false
+soldOut: true
 start: '2026-07-14T22:00:00.000Z'
 title: Jack & Jones Intelligence Clark Original Jeans | Heren
+

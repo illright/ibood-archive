@@ -1,22 +1,22 @@
-_id: 6a56112fe1628cff6fbd4091
+_id: 6a5618685ba535e5f21f74e8
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 4bd20799-afec-5c60-bb41-a3ce3e82c448
-classicId: '3333131'
-classicProductId: '679795'
+  - e694572d-9891-5b8a-b455-49e9e0dc7100
+classicId: '3334053'
+classicProductId: '679801'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 63
 end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: c875da9e-840d-44b1-981c-7cda9f4349a6
+id: 01ba6e7c-f2ed-4291-b606-955db422e457
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 86f50a77-a2e5-4461-ac5f-7936b233be2f-tr
+  id: 94bcc4f5-6c61-4bbd-9ea3-681c46c28642-tr
   priority: 0
-  slug: s-black-12297350-jwhdover-print-sweat-crew-neck-sn-jack-and-jones-essentials-product-0
+  slug: l-antique-white-12297350-jwhdover-print-sweat-crew-neck-sn-jack-and-jones-essentials-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: cf55c75f-1320-434a-bcb2-dcbec004c1c4
+offerId: 660c5b9f-a258-4cd3-a749-19e769f7729f
 price:
   cents: 1495
   currency: EUR
@@ -51,4 +51,3 @@ slug: jack-jones-essentials-dover-sweatshirt-heren
 soldOut: false
 start: '2026-07-14T22:00:00.000Z'
 title: Jack & Jones Essentials Dover Sweatshirt | Heren
- Heren
