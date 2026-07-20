@@ -1,4 +1,4 @@
-_id: 6a4e4359125a2135fbe50b4d
+_id: 6a4e435b125a2135fbe50b4f
 appOnly: false
 brand: Tunturi
 brands:
@@ -6,26 +6,29 @@ brands:
     name: Tunturi
 categories:
   - db46bbdb-5b5c-59fa-b446-11cad176ebd7
-classicId: '3323448'
-classicProductId: '566128'
+classicId: '3323454'
+classicProductId: '575046'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 43
+discount: 36
 end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: c9f8766f-77ae-5017-8374-c80359370fe5
+id: 669096f9-4213-5613-8c47-96979becdfe9
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: png
-  id: 1933143
+  extension: image/png
+  id: 0e2327e8-22b1-4e65-ac34-0e52ab672b2c-tr
   priority: 0
-  slug: tunturi-ply-box-hout
+  slug: tunturi-ply-box-hout-50-x-60-x-75-cm-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,20 +40,16 @@ logo:
   priority: 100
   slug: tunturi-logo
   type: logo
-offerId: 4c3723dc-7e4f-5092-bbb5-6cfe43c0babf
+offerId: 2404d737-0dbc-579a-850b-37ccf25de134
 price:
-  cents: 9995
+  cents: 17995
   currency: EUR
-  value: 99.95
+  value: 179.95
 referencePrice:
-  cents: 17499
+  cents: 27999
   currency: EUR
-  value: 174.99
-slug: tunturi-ply-box-hout
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
-title: Tunturi Ply Box Hout | 50 x 60 x 75 cm
-box-hout-50-x-60-x-75-cm
+  value: 279.99
+slug: tunturi-ply-box-hout-50-x-60-x-75-cm
 soldOut: false
 start: '2026-07-14T22:00:00.000Z'
 title: Tunturi Ply Box Hout | 50 x 60 x 75 cm

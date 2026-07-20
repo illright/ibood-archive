@@ -1,12 +1,12 @@
-_id: 6a560dd1006141d6b96bd40c
+_id: 6a5618f0e1628cff6fbd4457
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 14c7032d-af7e-5267-ab0e-6b3e81d4841c
-classicId: '3332922'
+  - 85b22eef-bce8-51eb-99e7-2f8c6b0b59a9
+classicId: '3334412'
 classicProductId: '712113'
 deliveryPrice:
   cents: 395
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 47
 end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: d60ac4a7-87ab-4ae8-a4e6-0d20451775b5
+id: 64770631-8dbc-4292-8142-cb3460f6e5e5
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: a980d4fc-b299-4655-960d-dde162750446
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: 7eed01b3-72db-48c3-90d8-ce8b8f92faa7
+offerId: aaad5ed0-078c-48e6-94ca-72c002b5217c
 price:
   cents: 1595
   currency: EUR
@@ -52,6 +53,4 @@ referencePrice:
 slug: petrol-industries-t-shirt-tsr637-marble-blue
 soldOut: false
 start: '2026-07-14T22:00:00.000Z'
-title: Petrol Industries T-shirt | TSR637 | Oil Green
-000Z'
 title: Petrol Industries T-shirt | TSR637 | Oil Green
