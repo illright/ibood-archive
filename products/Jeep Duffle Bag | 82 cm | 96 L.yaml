@@ -1,22 +1,22 @@
-_id: 6a54d0eee0a8d019a5579c6a
+_id: 6a5df231cd1468dd03ad56e4
 appOnly: false
 brand: Jeep
 brands:
   - id: 36c8c9f2-6e90-5081-a4b4-79c7905fd6a0
     name: Jeep
 categories:
-  - 8a31969d-54d6-52df-a285-d7c3067e3eec
-classicId: '3330163'
-classicProductId: '690568'
+  - 73d17398-5ce7-56a4-82dc-387260d1705b
+classicId: '3342792'
+classicProductId: '690571'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 55
-end: '2026-07-20T21:59:59.999Z'
+end: '2026-07-27T21:59:59.999Z'
 freeDelivery: false
-id: b83b5955-b5c7-4844-b310-fec1a19e3db6
+id: 6974bfd5-1493-4786-8bb4-5478c26ed79b
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: jeep-logo-0
   type: logo
-offerId: 8d282900-6766-45f8-bfe6-e2c2265592a2
+offerId: 93674a26-ec6a-486e-b838-a1c8d4baaf72
 price:
   cents: 8995
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 199
 slug: delsey-paris-jeep-duffle-bag-82-cm-96-l
 soldOut: false
-start: '2026-07-13T22:00:00.000Z'
+start: '2026-07-20T22:00:00.000Z'
 title: Jeep Duffle Bag | 82 cm | 96 L

@@ -1,12 +1,12 @@
-_id: 6a563f2f5ba535e5f21f7bec
+_id: 6a54cfa1e0a8d019a5579bf1
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - c9eb543c-551d-5e50-96b7-609e544c637e
-classicId: '3337124'
+  - bba08705-d582-59ba-ba0e-3df5a16aad7e
+classicId: '3329983'
 classicProductId: '695832'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 84
 end: '2026-07-21T21:59:59.999Z'
 freeDelivery: false
-id: a9ad1d5e-ea08-4acd-acc9-1d87b8a42c8a
+id: c31d315b-39a6-46b6-b40c-7953e1c8ad96
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1680420
-  priority: 100
-  slug: lucide-logo
+    - all
+  extension: image/png
+  id: 66335640-41d7-4c83-a86a-fe73e5ab2a72
+  priority: 0
+  slug: lucide-png-logo-0
   type: logo
-offerId: 8455aaef-0862-4451-9e27-34cad75fa68b
+offerId: a4b6bbec-4909-42ec-ba0a-cfb834e3a41b
 price:
   cents: 2995
   currency: EUR
@@ -52,6 +53,4 @@ referencePrice:
 slug: lucide-sensas-vloerlamp-2x-gu10-12w
 soldOut: false
 start: '2026-07-14T22:00:00.000Z'
-title: Lucide Sensas Vloerlamp | 2x GU10 | 12W
-'
 title: Lucide Sensas Vloerlamp | 2x GU10 | 12W
