@@ -1,22 +1,22 @@
-_id: 6a5618c8e1628cff6fbd43c7
+_id: 6a5f646f64e0c602f87d1e1d
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e694572d-9891-5b8a-b455-49e9e0dc7100
-classicId: '3334298'
-classicProductId: '711335'
+  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
+classicId: '3351438'
+classicProductId: '711334'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 52
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: ae838781-460f-4da3-86ac-20b6fc1482ce
+id: f938bb0f-c2cc-4c36-9c0c-367f886df711
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: bb2fd933-3f84-4e6e-a40e-d2d714d1b80b
+offerId: 0517c7f3-f44d-4ff6-8f96-cb5bc83f93a5
 price:
   cents: 1695
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 34.99
 slug: jack-jones-bradley-sweat-zip-hoodie
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Jack & Jones Bradley Sweat Zip Hoodie

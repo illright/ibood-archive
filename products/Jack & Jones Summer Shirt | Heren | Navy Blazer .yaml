@@ -1,22 +1,22 @@
-_id: 6a56182a5a0df0ab8e6bb50a
+_id: 6a5f3fc22e7d1c39f0112453
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e694572d-9891-5b8a-b455-49e9e0dc7100
-classicId: '3333922'
-classicProductId: '679498'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350236'
+classicProductId: '679496'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2026-07-21T21:59:59.999Z'
+directCheckout: true
+discount: 55
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 42dd6388-d488-40b0-8ae3-f7526b3e6889
+id: 1260bfbd-8e77-4d67-8e50-5b6be3cc3a81
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 32149b5a-8287-4a60-a8f5-85594fddf40d
+offerId: ac40d748-e503-4c2d-b980-7c37f014658d
 price:
-  cents: 1995
+  cents: 1795
   currency: EUR
-  value: 19.95
+  value: 17.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: jack-jones-summer-shirt-navy-blazer
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 'Jack & Jones Summer Shirt | Heren | Navy Blazer '

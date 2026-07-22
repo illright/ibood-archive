@@ -1,22 +1,22 @@
-_id: 6a563ea92d9fcc88f512cc0b
+_id: 6a5f2166b3503c4aae636e42
 appOnly: false
 brand: Criks Design
 brands:
   - id: 4c7735c3-d9e7-52c5-9a21-d0155dad8a6e
     name: Criks Design
 categories:
-  - c9eb543c-551d-5e50-96b7-609e544c637e
-classicId: '3336837'
-classicProductId: '690069'
+  - 64b91352-129a-5c89-854e-3883e56db003
+classicId: '3345001'
+classicProductId: '679013'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 73
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: ad6de972-92de-4432-beef-c9c12d72971f
+id: 79bb7077-a965-4502-a578-d7aafc848505
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: f47a7d32-6d32-4a9d-b98e-04fc9ab87edd
+  id: abc90e32-2baf-42d6-b904-7e9d5357fb8a
   priority: 0
-  slug: criks-04-png-product-1
+  slug: beige1-png-product-4
   type: product
 logo:
   channels:
@@ -34,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2103267
+  id: 1919117
   priority: 100
-  slug: 2x-monza-bjorn-barstuhl-dreh-hohenverstellbar
+  slug: criks-design-logo
   type: logo
-offerId: a092610e-96d7-43bc-9bb5-23693a07efb0
+offerId: 76820b70-ee9d-4260-a63a-9396f0aca724
 price:
   cents: 11900
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 448
 slug: 2x-criks-design-monza-barkruk
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 2x Criks Design Monza Barkruk

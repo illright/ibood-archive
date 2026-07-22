@@ -1,12 +1,12 @@
-_id: 6a5611565ba535e5f21f72a2
+_id: 6a5f3ffc64e0c602f87d1a00
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - 9c94f622-b635-5d6d-a5c1-eb5b3c2115e9
-classicId: '3333173'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350276'
 classicProductId: '700102'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 3d356ea8-0bfe-4903-b220-d831dbea9fd6
+id: b8a78e8c-052a-442a-8470-756e1270b489
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: w33-l32-crockery-20716659-bhlangford-chino-pants-blend-product-4
   type: product
-offerId: 1b3d07f1-68c2-4925-a62d-2ee47a73d327
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: dcb515a6-a303-4a6b-858b-f7e8f11ff2d7
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: d5f9d74b-3083-457f-ae38-34c8e90e8ac2
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 49.95
 slug: blend-langford-chinobroek-crockery
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Blend Langford Chinobroek | Crockery

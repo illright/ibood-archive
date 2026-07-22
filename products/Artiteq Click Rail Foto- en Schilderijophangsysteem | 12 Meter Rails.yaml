@@ -1,12 +1,12 @@
-_id: 6a5497e1e1628cff6fbd2e1a
+_id: 6a5f2b0941a96ebd60aa8e95
 appOnly: false
 brand: Artiteq
 brands:
   - id: 9dec3d75-3963-527a-908e-fc9813db0fa3
     name: Artiteq
 categories:
-  - 624a0363-c00a-5272-911b-af6e8937ad84
-classicId: '3328337'
+  - 960fdfe1-502f-5e78-aa39-ae1404fc7526
+classicId: '3345397'
 classicProductId: '421983'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 44
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: b8ec5a88-840f-4aa8-9b41-1ff27908e7f1
+id: 947d622a-8aa9-4749-bab6-db5cf69943aa
 image:
   channels:
     - website
@@ -29,15 +29,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1484410
-  priority: 100
-  slug: artiteq-click-rail-ophangsysteem-12-m
+    - all
+  extension: image/png
+  id: d430766e-0118-464e-b019-bcaa1a247745
+  priority: 101
+  slug: artiteq-logo-101
   type: logo
-offerId: c148430c-c31d-48e3-9017-a63ecae853b1
+offerId: c38964e7-e3ad-42d8-b771-a6617535c99b
 price:
   cents: 6995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 125.75
 slug: artiteq-click-rail-ophangsysteem-12-m
 soldOut: false
-start: '2026-07-13T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Artiteq Click Rail Foto- en Schilderijophangsysteem | 12 Meter Rails

@@ -1,12 +1,12 @@
-_id: 6a54b0c963373f6359925eaf
+_id: 6a5f24d005831d3e1e0bddd6
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 629f8039-17c2-52d0-a0fc-837e0a02ff16
-classicId: '3329410'
+  - 5b36ec05-8b08-5d3e-8848-513caee613fe
+classicId: '3345150'
 classicProductId: '707750'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 76bcda35-3fe4-47b2-b521-0ddc9614db7e
+id: 6f7ad3b2-2780-4538-92ef-b07c0513c8d6
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: karlsson-logo
   type: logo
-offerId: 6fa8d33a-4f7a-44dd-86e0-d91f18c353bf
+offerId: bda95920-0eaf-4aa0-8053-616e3bffbc22
 price:
   cents: 1995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 49.95
 slug: karlsson-ka5879wd
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+soldOut: true
+start: '2026-07-21T22:00:00.000Z'
 title: Karlsson Silver Mirror LED Wekker

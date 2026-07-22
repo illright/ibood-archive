@@ -1,12 +1,12 @@
-_id: 6a563efb2d9fcc88f512cc70
+_id: 6a5f197d64e0c602f87d03e5
 appOnly: false
 brand: Trio
 brands:
   - id: c20640a1-47f7-50d6-8fb4-6f3a3ab283d1
     name: Trio
 categories:
-  - c9eb543c-551d-5e50-96b7-609e544c637e
-classicId: '3336995'
+  - 2de6c394-d8de-5aa5-9474-b60ebb1a1d90
+classicId: '3344413'
 classicProductId: '127660'
 deliveryPrice:
   cents: 895
@@ -14,31 +14,30 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 81
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 47193402-d91a-46c1-9c48-5b4ba0979aa3
+id: d9853f76-4bb5-4b98-a168-b25855b04368
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/jpeg
-  id: 3a440aff-f4e1-4679-a49a-0e5fad5b086f-cr
-  priority: 0
-  slug: trio-hangeleuchte-baron-jpg-product-101
+  extension: jpg
+  id: 239480
+  priority: 100
+  slug: trio-hanglamp-baron
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1741315
+  extension: jpg
+  id: 239479
   priority: 100
-  slug: trio-logo
+  slug: trio-hanglamp-baron
   type: logo
-offerId: 5470c05c-79db-4c13-948d-1271add7ec6d
+offerId: a4d907c4-cb4d-4080-b941-b4c0f3261930
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 211.99
 slug: trio-hanglamp-baron
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Trio Hanglamp Baron

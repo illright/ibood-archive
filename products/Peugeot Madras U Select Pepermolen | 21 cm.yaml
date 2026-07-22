@@ -1,12 +1,12 @@
-_id: 6a55f8d4e1628cff6fbd3c86
+_id: 6a5f39df64e0c602f87d0f92
 appOnly: false
 brand: Peugeot
 brands:
   - id: 6d41a9d0-9815-5453-a6fc-b4079687bcb0
     name: Peugeot
 categories:
-  - ff3673d6-2533-5d19-9a2f-8bc814532265
-classicId: '3332080'
+  - 9b6e4fde-ab46-553a-be3d-8be956c0dc53
+classicId: '3346830'
 classicProductId: '684040'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 4069961a-f497-49cf-92c4-48aa11171afd
+id: 2a81f58d-8022-4b9d-a7bd-ba8c65c3abed
 image:
   channels:
     - app
@@ -41,7 +41,7 @@ logo:
   priority: 0
   slug: peugeot-logo-0
   type: logo
-offerId: a784851a-1827-4b59-8b94-e833f5034a50
+offerId: 0394b9df-10c4-4cfb-8ad4-6073ce067aed
 price:
   cents: 2995
   currency: EUR
@@ -51,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 77.9
 slug: peugeot-madras-u-select-pepermolen-21-cm
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+soldOut: true
+start: '2026-07-21T22:00:00.000Z'
 title: Peugeot Madras U Select Pepermolen | 21 cm

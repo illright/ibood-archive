@@ -1,12 +1,12 @@
-_id: 6a56371ea24c5e0b2c6fe572
+_id: 6a5f3f8b2e7d1c39f011242f
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 90b31631-df3c-586f-b79a-f3eb31598004
-classicId: '3336542'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350206'
 classicProductId: '666453'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 80
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 6b2caa9f-20ea-4d7c-b5c7-ae853ebb48d1
+id: 3e376af4-c754-4b43-aa76-24894cb4ea9e
 image:
   channels:
     - app
@@ -28,17 +28,7 @@ image:
   priority: 0
   slug: giorgio-01-png-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1681527
-  priority: 100
-  slug: giorgio-logo
-  type: logo
-offerId: 62944b8e-5b41-434f-a5d7-422ab8a60ddb
+offerId: 06f0f615-be93-4823-9aa9-4ce5c2a57afc
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 199.95
 slug: giorgio-79418-veterschoen-heren
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+soldOut: true
+start: '2026-07-21T22:00:00.000Z'
 title: Giorgio 79418 Veterschoenen | Heren

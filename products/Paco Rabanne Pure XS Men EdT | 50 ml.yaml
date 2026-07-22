@@ -1,12 +1,12 @@
-_id: 6a560d0a006141d6b96bd388
+_id: 6a5606c5bbbe0587fe5dfb60
 appOnly: false
 brand: Paco Rabanne
 brands:
   - id: f7fe4022-0755-5c75-a33d-49190b093726
     name: Paco Rabanne
 categories:
-  - 1146f1b5-6096-5e45-af46-3e7a56d63024
-classicId: '3332691'
+  - c793546c-6d19-5f37-b534-f9cfe541d91f
+classicId: '3332513'
 classicProductId: '554350'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 419e67a6-9ec8-45f1-abfe-6e45652da479
+id: e83f3aa8-0bab-5313-ae14-7e0594a12f0a
 image:
   channels:
-    - app
     - website
-  extension: png
-  id: 1871443
-  priority: 0
-  slug: paco-rabanne-pure-xs-edt-50-ml
+    - app
+    - newsletter
+  extension: jpg
+  id: 1867794
+  priority: 100
+  slug: paco-rabanne-pure-xs-men-edt-50-ml
   type: product
 logo:
   channels:
@@ -36,7 +37,7 @@ logo:
   priority: 100
   slug: paco-rabanne-logo
   type: logo
-offerId: 02f3f344-fbe4-41f5-91f4-87bab7d0159b
+offerId: c82dd010-5093-5f09-9d1d-2d9d74c1eeac
 price:
   cents: 3995
   currency: EUR
@@ -47,5 +48,5 @@ referencePrice:
   value: 85
 slug: paco-rabanne-pure-xs-men-edt-50-ml
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Paco Rabanne Pure XS Men EdT | 50 ml

@@ -1,12 +1,12 @@
-_id: 6a465d49af223d4fe1ef3781
+_id: 6a5f3a9ada20339e42654797
 appOnly: false
 brand: Amacx
 brands:
   - id: 3d88b718-6e78-5d35-bd6e-1ffadeeaa033
     name: Amacx
 categories:
-  - cafc691d-bb7d-5f4e-9f6b-a8eecf805408
-classicId: '3311429'
+  - 1325eac6-8b46-522e-b444-ecfab09bba39
+classicId: '3347187'
 classicProductId: '718702'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 3e1a3240-091b-557d-a7c9-6c4af3d3b1ac
+id: 8abfee38-7093-42de-8d65-589af7c82b44
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 04b42a44-e3da-43f9-b689-e2cf1b7fd187
-  priority: 0
-  slug: amacx-png-logo-0
+  extension: png
+  id: 1631527
+  priority: 100
+  slug: amacx-logo
   type: logo
-offerId: d825d9f3-2beb-5fc7-bf04-090e0908b12c
+offerId: 04d9998d-0c81-4f5e-8fde-1e8fe85432bf
 price:
   cents: 2495
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.9
 slug: 24x-amacx-drink-gel-raspberry-60-ml
-soldOut: true
-start: '2026-07-14T22:00:00.000Z'
+soldOut: false
+start: '2026-07-21T22:00:00.000Z'
 title: 24x Amacx Drink Gel Raspberry | 60 ml

@@ -1,22 +1,22 @@
-_id: 6a563579a24c5e0b2c6fe4bb
+_id: 6a5f6d2264e0c602f87d2246
 appOnly: false
 brand: Rehab
 brands:
   - id: b3f5eef7-890d-5443-9386-29c241e94ef9
     name: Rehab
 categories:
-  - 90b31631-df3c-586f-b79a-f3eb31598004
-classicId: '3336237'
+  - 124f41a5-a41a-5be2-93d1-f03bd0c50e18
+classicId: '3352433'
 classicProductId: '698025'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-07-21T21:59:59.999Z'
+discount: 56
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 7e5bbcf4-9455-4d05-aa8b-7cc37da6d4df
+id: 8298d48e-1594-4640-a442-a642e394d0e2
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: 11-png-product-1
   type: product
-offerId: fc0e73f7-b756-461d-acb6-edc5e325ba4e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1784872
+  priority: 100
+  slug: rehab-logo
+  type: logo
+offerId: 1cde56e8-cd16-4c1f-80d3-5639f1e95c59
 price:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 referencePrice:
   cents: 17995
   currency: EUR
   value: 179.95
 slug: rehab-oliver-sue-taupe
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Rehab Oliver Sue Sneakers | Heren

@@ -1,12 +1,12 @@
-_id: 6a560e2ee1628cff6fbd3fce
+_id: 6a5f65d0acf144c958c280cb
 appOnly: false
 brand: FILA
 brands:
   - id: 59b12bc5-5346-59fe-8473-e788ad62b09c
     name: FILA
 categories:
-  - 10adec5d-daeb-5eac-81c9-beacb54efb5d
-classicId: '3332974'
+  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
+classicId: '3351629'
 classicProductId: '715348'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: cdff256d-588d-4560-9e13-2e43a3eed5c0
+id: 8d40402e-1dd4-457f-b77f-18b92255ec46
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: xl-egret-black-iris-fam1192-13436-casoli-regular-blocked-polo-shirt-fila-product-2
   type: product
-offerId: e2c7f452-550a-40cb-821c-24a87b357bbf
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2131ed8d-ac0f-4faf-89c6-664ff64a97a0
+  priority: 0
+  slug: fila-png-logo-0
+  type: logo
+offerId: 941c1e5f-27b5-4d57-b7fb-0830cefa711a
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 75
 slug: fila-casoli-poloshirt-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Fila Casoli Poloshirt | Heren

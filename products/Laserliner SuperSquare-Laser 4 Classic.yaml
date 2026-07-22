@@ -1,12 +1,12 @@
-_id: 6a54980b30d26057c593601e
+_id: 6a5f2b5d41a96ebd60aa8eb6
 appOnly: false
 brand: Laserliner
 brands:
   - id: e36e638a-b772-529b-9518-e3a18d2c56d2
     name: Laserliner
 categories:
-  - 624a0363-c00a-5272-911b-af6e8937ad84
-classicId: '3328408'
+  - 960fdfe1-502f-5e78-aa39-ae1404fc7526
+classicId: '3345496'
 classicProductId: '261736'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 7ce9855e-b0b8-4e80-8af9-a9f7caa6c466
+id: 11aba459-e77d-4edb-b4ef-fad42d1d8294
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: cube-2-png-product-1
   type: product
-offerId: 9b0f8db4-7346-4f52-9592-ca64f855e995
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1547080
+  priority: 100
+  slug: laserliner-logo
+  type: logo
+offerId: de73ab84-bf62-4603-98b5-ebdae093fa3d
 price:
   cents: 1095
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 23.96
 slug: laserliner-supersquare-laser-4-classic
 soldOut: false
-start: '2026-07-13T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Laserliner SuperSquare-Laser 4 Classic

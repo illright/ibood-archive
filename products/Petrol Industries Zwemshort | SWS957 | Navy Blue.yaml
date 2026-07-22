@@ -1,22 +1,22 @@
-_id: 6a5618fb2d9fcc88f512c919
+_id: 6a5f64453425da4fda7f2c4b
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 85b22eef-bce8-51eb-99e7-2f8c6b0b59a9
-classicId: '3334449'
-classicProductId: '712376'
+  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
+classicId: '3351402'
+classicProductId: '712377'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: dcbec49d-27eb-49ac-a8e0-b85040f204e6
+id: d12f4c64-2fa9-4238-b197-3f2107f27cab
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1594720
-  priority: 100
-  slug: petrol-logo
+    - all
+  extension: image/png
+  id: 27b3226f-01be-4749-9309-58a42eef08f8
+  priority: 0
+  slug: petrol-industries-png-logo-0
   type: logo
-offerId: 9bd1f707-f4b5-487c-b390-ffaef6e036af
+offerId: ee0c5936-1e87-4bf0-9b54-a0a652b01e5c
 price:
   cents: 1995
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 39.99
 slug: petrol-industries-zwemshort-sws957-navy-blue
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Petrol Industries Zwemshort | SWS957 | Navy Blue

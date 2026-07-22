@@ -1,22 +1,22 @@
-_id: 6a56119c2d9fcc88f512c569
+_id: 6a5f3ff8fb32eea1ca6c6c96
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 4bd20799-afec-5c60-bb41-a3ce3e82c448
-classicId: '3333280'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350260'
 classicProductId: '692176'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 40
-end: '2026-07-21T21:59:59.999Z'
+discount: 47
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 9cd5db52-b0d8-4fb7-9b3b-d68aee7757d9
+id: 9d148521-ec63-4acd-8bca-4d7076365f62
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1682080
-  priority: 100
-  slug: vans-logo
+    - all
+  extension: image/png
+  id: 8c12c2df-4a0c-4d96-93f8-a2a5d096c7e2
+  priority: 0
+  slug: vans-png-logo-0
   type: logo
-offerId: e5324afd-9740-4b88-b9b8-ccbe8967e856
+offerId: 854d1788-8267-44ff-99ad-755e5f904f40
 price:
-  cents: 4495
+  cents: 3995
   currency: EUR
-  value: 44.95
+  value: 39.95
 referencePrice:
   cents: 7500
   currency: EUR
   value: 75
 slug: vans-left-chest-zip-hoodie-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Vans Left Chest Zip-Hoodie | Heren

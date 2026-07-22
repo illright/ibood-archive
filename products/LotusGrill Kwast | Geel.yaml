@@ -1,12 +1,12 @@
-_id: 6a55f8ec85c486867da9b54e
+_id: 6a5f3917d70a4841adc9d5fe
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3332108'
+  - 4da008e0-1966-581d-9dee-993e88ad55e3
+classicId: '3346368'
 classicProductId: '719072'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 30
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: b5e38945-db5b-4b87-958c-7698815da361
+id: 29812eff-64c3-4052-a796-7f291d162fb9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: lotusgrill-kwast-geel-product-0
   type: product
-offerId: bfade4cf-f306-4142-ae83-d5ee628698a3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 664ca8e2-32c9-4285-a33f-f4692860e534
+  priority: 0
+  slug: lotusgrill-png-logo-0
+  type: logo
+offerId: 4ee7b1bd-c8a2-4c51-94e5-0c0148b736be
 price:
   cents: 595
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 8.45
 slug: lotusgrill-kwast-geel
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: LotusGrill Kwast | Geel

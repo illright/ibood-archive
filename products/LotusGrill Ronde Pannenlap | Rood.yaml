@@ -1,12 +1,12 @@
-_id: 6a55f92fe1628cff6fbd3d45
+_id: 6a5f392c3425da4fda7f20e0
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3332203'
+  - 4da008e0-1966-581d-9dee-993e88ad55e3
+classicId: '3346409'
 classicProductId: '719067'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 34
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 2dcbbb9e-49f6-45ad-9a71-9959eb07520f
+id: 2da2ac68-ddcd-4149-8dc0-0e50aab3aebc
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: f225cb9c-0f54-4f4f-a370-a18f71c05ee5-tr
+  id: f225cb9c-0f54-4f4f-a370-a18f71c05ee5-tr-cr
   priority: 0
   slug: lotusgrill-pannenlap-rond-rood-product-0
   type: product
-offerId: f78b0625-bbd2-4c12-a1b4-683320e522df
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: adc8aee5-4ce2-4ae0-a924-bfe50050d735
+  priority: 0
+  slug: lotusgrill-png-logo-0
+  type: logo
+offerId: 8391a200-4f36-42fd-ae26-6ea0120637a0
 price:
   cents: 595
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 8.95
 slug: lotusgrill-rond-pannenlap-rood
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: LotusGrill Ronde Pannenlap | Rood

@@ -1,12 +1,12 @@
-_id: 6a560db9e1628cff6fbd3f2b
+_id: 6a5f66953425da4fda7f2e5a
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 14c7032d-af7e-5267-ab0e-6b3e81d4841c
-classicId: '3332909'
+  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
+classicId: '3351787'
 classicProductId: '716527'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 50
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: ff2cc029-ac83-4503-8556-46d60191674f
+id: b47d720d-1e28-44b6-80d4-8530902ff80f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd020-png-product-1
   type: product
-offerId: 0b17ab89-fa87-4c3c-9e29-697178480721
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 0e6095cf-e8bc-48bf-baec-5daed3fdb480
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.99
 slug: superdry-vintage-klassiek-t-shirt
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Superdry Vintage Classic T-shirt

@@ -1,12 +1,12 @@
-_id: 6a59ecd31d52dc15e28a64cd
+_id: 6a5f3e159520c163331eb3ba
 appOnly: false
 brand: Vanish
 brands:
   - id: f691a1cc-f37f-5999-93f1-dbfc4faa1849
     name: Vanish
 categories:
-  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
-classicId: '3341098'
+  - 1325eac6-8b46-522e-b444-ecfab09bba39
+classicId: '3349763'
 classicProductId: '717889'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 112e530a-0a24-4e02-b04f-81c27a063778
+id: d37cfc5e-b4cf-4fd6-a8fd-99a361444e0c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9f9210e3-03c0-40a8-840b-6791ea2e37ff
-  priority: 0
-  slug: vanish-png-logo-0
+  extension: png
+  id: 1968899
+  priority: 100
+  slug: vanish-logo
   type: logo
-offerId: b58f6dcc-cf73-41c1-b6fb-7177f497668a
+offerId: 68e2fbd5-4650-4c8a-a407-9d62852abe1e
 price:
   cents: 1395
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 53.94
 slug: 6x-vanish-oxi-action-white-vlekverwijderaar-white-470-g
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 6x Vanish Oxi Action White Vlekverwijderaar voor Wit Was | 470 g

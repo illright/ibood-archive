@@ -1,12 +1,12 @@
-_id: 6a5634acbeed4ae362a40c57
+_id: 6a5f6d42e0a74d21bcb3b55c
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - 90b31631-df3c-586f-b79a-f3eb31598004
-classicId: '3335976'
+  - 124f41a5-a41a-5be2-93d1-f03bd0c50e18
+classicId: '3352464'
 classicProductId: '714747'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 58
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 402f97b4-2147-4108-93ce-2b7653aff056
+id: 7de237e8-c24d-4a96-89cc-ba04ec9c799f
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d325ff15-66e6-4bd1-83bb-8aedfe9a229a
-  priority: 0
-  slug: nubikk-logo-png-logo-0
+  extension: png
+  id: 1662615
+  priority: 100
+  slug: nubikk-logo
   type: logo
-offerId: 4354340d-4d75-46f7-b099-ee6f679d772a
+offerId: f364d85c-23ca-42f5-b4a9-245f3ba5073f
 price:
   cents: 10995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 260
 slug: nubikk-luca-noa-leren-sneaker-multi
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Nubikk Luca Noa Leren Sneaker | Multi

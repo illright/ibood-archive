@@ -1,12 +1,12 @@
-_id: 6a563e6c2fe1c59f4eabdc2d
+_id: 6a5f2efe41a96ebd60aa91a9
 appOnly: false
 brand: Yellow
 brands:
   - id: e97b3863-595d-5f30-8cfe-81f988cfb3b2
     name: Yellow
 categories:
-  - c68f7ea9-109e-55f3-a2aa-5211330182e2
-classicId: '3336704'
+  - 64de82b4-37ff-5e24-bc10-6ca64e0b9762
+classicId: '3345920'
 classicProductId: '482035'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 79
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: cf84e9c5-a138-40d5-a01b-907ed8d3beec
+id: 005222ed-3156-495c-90eb-2dd9c0d8be46
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1632403
+    - all
+  extension: image/png
+  id: d2098e9c-7068-4da4-a0aa-d4eeb4d6640c
   priority: 0
-  slug: yellow-by-heckett-lane-bamboo-140-x-220-cm
+  slug: dekbed-02-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: yellow-logo
   type: logo
-offerId: 386a5dcd-8421-48f7-892c-e0bfdfe69aa2
+offerId: 9d434032-8f30-4a5d-9f78-6509a3ccf9c1
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 119.95
 slug: yellow-by-heckett-lane-bamboo-140-x-220-cm
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Yellow by Heckett Lane Bamboo Dekbedovertrek | 140 x 220 cm

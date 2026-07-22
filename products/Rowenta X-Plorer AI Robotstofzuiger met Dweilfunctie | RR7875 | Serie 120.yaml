@@ -1,12 +1,12 @@
-_id: 6a4b5f267d2aac75dc763579
+_id: 6a5f39e1d70a4841adc9d7c5
 appOnly: false
 brand: Rowenta
 brands:
   - id: 07482617-a58b-5318-8715-c397f7ecb27e
     name: Rowenta
 categories:
-  - 31978ffc-e151-5cf6-a2d4-013115aa73c6
-classicId: '3313175'
+  - 886f9f88-2ad4-5cb4-9e1b-85cc5a5c2d96
+classicId: '3346846'
 classicProductId: '718899'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 31070606-8d61-5b2d-af6b-6cedc7eadc1a
+id: eef5524e-f9bc-4329-a3ab-5862c7b7f186
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 03e69ad2-2c7b-4ebb-b495-ebeace4150cf
-  priority: 0
-  slug: rowenta-png-logo-0
+  extension: png
+  id: 1576795
+  priority: 100
+  slug: rowenta-logo
   type: logo
-offerId: aaddef61-1db5-5e9b-b3a5-e130675e6811
+offerId: 51274792-4e8d-46e7-b7d2-f9ce77190e32
 price:
   cents: 29900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 650
 slug: rowenta-x-plorer-ai-robotstofzuiger-met-dweilfunctie-rr7875-serie-120
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Rowenta X-Plorer AI Robotstofzuiger met Dweilfunctie | RR7875 | Serie 120

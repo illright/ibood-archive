@@ -1,12 +1,12 @@
-_id: 6a55f927a33abb486d875549
+_id: 6a5f392864e0c602f87d0e47
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3332190'
+  - 4da008e0-1966-581d-9dee-993e88ad55e3
+classicId: '3346402'
 classicProductId: '719065'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 34
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 5de1aa99-d8ee-4223-bc77-b33247719bd9
+id: 6580a3ce-5cdb-4970-964d-d027ef3df1c3
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 6389b2cb-6122-4dde-948f-936008304279-tr
+  id: 6389b2cb-6122-4dde-948f-936008304279-tr-cr
   priority: 0
   slug: lotusgrill-pannenlap-rond-groen-product-0
   type: product
-offerId: f41f66bb-f8c0-45dd-8a6d-d9ce83a0b2b7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e33cb653-2ddc-485c-9267-4110e32eeb7b
+  priority: 0
+  slug: lotusgrill-png-logo-0
+  type: logo
+offerId: 3fdd3df5-1557-4b12-bd8d-3c8c277226ff
 price:
   cents: 595
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 8.95
 slug: lotusgrill-ronde-pannenlap-groen
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: LotusGrill Ronde Pannenlap | Groen

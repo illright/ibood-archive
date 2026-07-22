@@ -1,12 +1,12 @@
-_id: 6a55f8aae3687b76f1ee7726
+_id: 6a5f39bfda20339e42654606
 appOnly: false
 brand: Solis
 brands:
   - id: 1abd1a6b-4fdf-59e5-aca3-9ac51bbb923c
     name: Solis
 categories:
-  - ff3673d6-2533-5d19-9a2f-8bc814532265
-classicId: '3332001'
+  - 9b6e4fde-ab46-553a-be3d-8be956c0dc53
+classicId: '3346770'
 classicProductId: '69892'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 4d564bf8-0e3c-476a-8112-8664889710b9
+id: f7d9190c-efdd-4a9d-a7a3-188e3bf49476
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: solis-logo
   type: logo
-offerId: f30d5b37-18dc-4a21-951f-00e5eccf95fe
+offerId: f87c95fd-91bd-4e4f-81dc-5270ffd65d48
 price:
   cents: 2995
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 99.95
 slug: solis-vac-quick-vacumeermachine-type-576
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+soldOut: true
+start: '2026-07-21T22:00:00.000Z'
 title: Solis Vac Quick Vacumeermachine | Type 576

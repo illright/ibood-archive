@@ -1,22 +1,22 @@
-_id: 6a560df8006141d6b96bd433
+_id: 6a5f67d9e2dad336a46ed791
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 14c7032d-af7e-5267-ab0e-6b3e81d4841c
-classicId: '3332945'
-classicProductId: '706587'
+  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
+classicId: '3352140'
+classicProductId: '706588'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 01be5a75-234b-4823-8615-7eca703850bc
+id: 0eb1fe88-a0a0-4d17-9122-df973f074c01
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd029-png-product-1
   type: product
-offerId: 404f4afa-e186-4db5-aeef-15ff03812392
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 4bacc325-3d12-4b62-83f0-e75fab76067f
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 39.99
 slug: superdry-utility-sport-t-shirt-losse-fit-grafische-print
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Superdry Utility Sport T-shirt | Losse Fit | Grafische Print

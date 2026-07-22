@@ -1,12 +1,12 @@
-_id: 6a54cf702fe1c59f4eabd0f9
+_id: 6a5f1d2529822ec519b7cc6b
 appOnly: false
 brand: Lifa Living
 brands:
   - id: 79b428da-d227-5b7c-9c70-17b2bab5d9ef
     name: Lifa Living
 categories:
-  - bba08705-d582-59ba-ba0e-3df5a16aad7e
-classicId: '3329945'
+  - 1eb9e890-ba72-531b-8762-ebd4e2123e3c
+classicId: '3344665'
 classicProductId: '194394'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 80
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 323fd156-1f7b-4af4-9ead-2b189f68ee32
+id: e00527fb-18da-4d36-9be3-ea5df5c483c7
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 480848
+    - all
+  extension: image/png
+  id: 89d16f1f-a02c-4e59-88e2-c1043682c5b0-tr
   priority: 0
-  slug: lifa-living-geweven-gordijn-150-x-260-cm
+  slug: lifa-living-vorhang-ring-oder-haken-jpg-product-3
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: lifa-living-logo
   type: logo
-offerId: a013cd38-5090-4481-ac93-9ab2f0c58edb
+offerId: bfd548ca-c7e1-4f5d-8452-3313c2bcc844
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 99.13
 slug: lifa-living-geweven-gordijn-150-x-260-cm
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Lifa Living Geweven Gordijn | 150 x 260 cm | Ring of Haak

@@ -1,32 +1,31 @@
-_id: 6a563f095ba535e5f21f7b89
+_id: 6a5f2f8b41a96ebd60aa92c7
 appOnly: false
 brand: Phlox
 brands:
   - id: 1cbd5816-2f2d-52b8-95a2-7dda5c905c3d
     name: Phlox
 categories:
-  - c68f7ea9-109e-55f3-a2aa-5211330182e2
-classicId: '3337042'
-classicProductId: '576334'
+  - 64de82b4-37ff-5e24-bc10-6ca64e0b9762
+classicId: '3346109'
+classicProductId: '582045'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 71
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 9f9b467e-b612-4b7b-b804-a4dc880996c6
+id: d39d0ef8-11ba-4942-9f24-39e340a87085
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 96f818be-9bb3-49f3-9dd2-2d6d81b8c22d-tr
+  extension: png
+  id: 1793056
   priority: 0
-  slug: 4x-phlox-supreme-handdoek-70-x-140-cm-2-jpg-product-5
+  slug: 4x-phlox-supreme-handdoek-70-x-140-cm
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: phlox-logo
   type: logo
-offerId: 581076e8-f690-4b9b-911b-aa3657e9dbf9
+offerId: 94b67b0e-fe48-4f70-9e3c-59f262a68c32
 price:
   cents: 2895
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 99.95
 slug: 4x-phlox-supreme-handdoek-70-x-140-cm
 soldOut: true
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 4x PHLOX Supreme Handdoek | 600 g/m² | 70 x 140 cm

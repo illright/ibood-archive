@@ -1,22 +1,22 @@
-_id: 6a563ea82fe1c59f4eabdc89
+_id: 6a5f2d7341a96ebd60aa90fa
 appOnly: false
 brand: HappyBed
 brands:
   - id: 6d506659-1354-5a4b-ac2e-6c144f239276
     name: HappyBed
 categories:
-  - aae34a57-b58d-5294-bb24-e768485ecb0e
-classicId: '3336836'
-classicProductId: '711079'
+  - 1e14d16c-53a9-5a79-bd6b-258ec27919e2
+classicId: '3345809'
+classicProductId: '715394'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 80
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: aa6933b5-b712-4545-b1d8-192320c110ae
+id: 5c6bf3c6-4aec-4e6e-a105-d5cfe88a00eb
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: happybed-04-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: e585b9b4-5706-4bce-ba3c-e9e754b5c49c
-  priority: 0
-  slug: happybed-png-logo-0
-  type: logo
-offerId: 382b7f8b-b1a3-4576-b6a9-17e3a8f18161
+offerId: 0dfe49f1-be3a-47c6-a787-62f0fb522776
 price:
   cents: 3995
   currency: EUR
@@ -49,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 199.9
 slug: happybed-verkoelend-dekbed-zonder-overtrek-wasbaar-incl-sloop-240-x-220-cm
-soldOut: true
-start: '2026-07-14T22:00:00.000Z'
+soldOut: false
+start: '2026-07-21T22:00:00.000Z'
 title: HappyBed Verkoelend Dekbed zonder Overtrek | Wasbaar |  Incl. Sloop | 240 x 220 cm

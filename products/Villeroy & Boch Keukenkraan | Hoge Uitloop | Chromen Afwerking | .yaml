@@ -1,12 +1,12 @@
-_id: 6a55df61e1628cff6fbd3a02
+_id: 6a5f2b0329822ec519b7d13a
 appOnly: false
 brand: Villeroy & Boch
 brands:
   - id: 101d0293-3aa7-598b-a5c8-3304d2423162
     name: Villeroy & Boch
 categories:
-  - 624a0363-c00a-5272-911b-af6e8937ad84
-classicId: '3331327'
+  - 960fdfe1-502f-5e78-aa39-ae1404fc7526
+classicId: '3345387'
 classicProductId: '712835'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 1868a241-a827-4a6a-a623-43f8aa6e98bc
+id: bad86498-ee12-4350-92ed-2764c2b34dd0
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: villeroy-boch-keukenkraan-vb-100-chroom-product-0
   type: product
-offerId: 40746d62-1368-4ff1-aabf-6fff9e271d7e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1994998
+  priority: 100
+  slug: villeroy-boch-logo
+  type: logo
+offerId: 8f0ad557-95fb-4c15-9970-aa05bcc8ed76
 price:
   cents: 7995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 299
 slug: villeroy-boch-keukenkraan-hoge-uitloop-chromen-afwerking-vb-100
 soldOut: false
-start: '2026-07-13T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 'Villeroy & Boch Keukenkraan | Hoge Uitloop | Chromen Afwerking | '

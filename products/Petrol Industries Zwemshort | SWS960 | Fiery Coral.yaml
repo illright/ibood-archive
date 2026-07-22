@@ -1,12 +1,12 @@
-_id: 6a5618c6e1628cff6fbd43b9
+_id: 6a5f640664e0c602f87d1d8d
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 85b22eef-bce8-51eb-99e7-2f8c6b0b59a9
-classicId: '3334293'
+  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
+classicId: '3351372'
 classicProductId: '712406'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 45
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: b628ec41-ccf0-407b-bb46-ca29e875aa73
+id: c680fcf5-bffa-4273-a904-c740da1b2f0d
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5e8c8450-04a3-4a45-9413-6b3418cd68ae
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: c0891d9c-e546-4fa4-82ff-84cca7139f53
+offerId: 349458c1-172b-4dd2-8051-5ec1fa51dfb7
 price:
   cents: 1995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 35.99
 slug: petrol-industries-zwemshort-sws960-fiery-coral
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Petrol Industries Zwemshort | SWS960 | Fiery Coral

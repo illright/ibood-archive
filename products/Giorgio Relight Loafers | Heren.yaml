@@ -1,22 +1,22 @@
-_id: 6a5635ae2d9fcc88f512cb33
+_id: 6a5f6d4464e0c602f87d229d
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 90b31631-df3c-586f-b79a-f3eb31598004
-classicId: '3336289'
+  - 124f41a5-a41a-5be2-93d1-f03bd0c50e18
+classicId: '3352459'
 classicProductId: '702866'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 53
-end: '2026-07-21T21:59:59.999Z'
+discount: 58
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: f80ecc16-c9bc-4b7f-9eab-6b0747a20fe2
+id: acb87bd8-69de-4fec-850a-87326c96cbc9
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1681527
-  priority: 100
-  slug: giorgio-logo
+    - all
+  extension: image/png
+  id: b1836368-460a-4d11-99cb-f002303b12e4
+  priority: 0
+  slug: giorgio-png-logo-0
   type: logo
-offerId: e992faf2-a1dd-4899-9a0b-a5857f1ef78b
+offerId: 5663f64a-1fe0-4fa0-a1b2-faab9f0bfa1c
 price:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 referencePrice:
   cents: 18995
   currency: EUR
   value: 189.95
 slug: giorgio-relight-loafers-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Giorgio Relight Loafers | Heren

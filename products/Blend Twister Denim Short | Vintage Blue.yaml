@@ -1,12 +1,12 @@
-_id: 6a56110d2d9fcc88f512c505
+_id: 6a5f646d3425da4fda7f2c61
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - 08469127-281a-5701-b250-cb4373508898
-classicId: '3333103'
+  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
+classicId: '3351434'
 classicProductId: '708279'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: a7b2e190-0185-45f5-a551-df09168a7669
+id: 13939c93-a654-4f6d-8e4d-b3e73f4884c2
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: l-201733-denim-vintage-blue-20720801-900001842-l-bh-twister-shorts-blend-product-3
   type: product
-offerId: a5bb75c3-3538-4b82-b04b-4780e1bac75a
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 1e0c45a0-7e67-4291-bac2-326e8954a5b3
+  priority: 0
+  slug: blend-shorts-regular-fit-herren-png-logo-0
+  type: logo
+offerId: 64fcc224-3ad1-445b-b5aa-072669d7ee2e
 price:
   cents: 1995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 39.95
 slug: blend-twister-denim-short-vintage-blue
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Blend Twister Denim Short | Vintage Blue

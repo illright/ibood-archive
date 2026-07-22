@@ -1,22 +1,22 @@
-_id: 6a560d75e1628cff6fbd3ee9
+_id: 6a5f3ff264e0c602f87d19f4
 appOnly: false
 brand: Seidensticker
 brands:
   - id: 1d526062-f5ca-5b64-aa47-092abced1dba
     name: Seidensticker
 categories:
-  - 3255857f-daf2-5012-96fb-c4b0554ab4ac
-classicId: '3332831'
-classicProductId: '699378'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350265'
+classicProductId: '699381'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 55
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: a5a366c1-4f78-41ce-960d-1f5c9756e183
+id: ca17f611-9953-4a25-a5f8-b413ccf91f46
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: seidensticker-logo
   type: logo
-offerId: 9a9fbf0a-fa9f-44a1-8f63-f8667b023104
+offerId: 8a66b8aa-efc7-4192-ad3e-bd207df506b5
 price:
   cents: 4995
   currency: EUR
@@ -51,5 +51,5 @@ referencePrice:
   value: 109.99
 slug: seidensticker-knitted-hemd-beige
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Seidensticker Knitted Hemd | Beige

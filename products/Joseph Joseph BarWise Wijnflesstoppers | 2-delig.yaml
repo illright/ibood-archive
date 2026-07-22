@@ -1,12 +1,12 @@
-_id: 6a55f894aa25c1dd264047a0
+_id: 6a5f3a30ff4e798e4620ef73
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3331970'
+  - 91f70c97-cf75-52c8-98f3-f09b1a0dcc9e
+classicId: '3347054'
 classicProductId: '717612'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 31
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: be285031-da76-4896-bb67-21e661c162ef
+id: ec472561-1e40-420f-91dd-50140544a7ad
 image:
   channels:
     - app
@@ -30,18 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: 1bc266a7-b4b1-4525-9516-aed7b86fb232-tr
-  priority: 0
-  slug: joseph-logo-avif-logo-0
+  extension: png
+  id: 1898679
+  priority: 100
+  slug: joseph-joseph-logo
   type: logo
-offerId: e9c80afd-e215-4ad2-a962-aa92a73a1f09
+offerId: 89426d3d-2d28-4399-8d36-d3f8e973a744
 price:
   cents: 895
   currency: EUR
@@ -51,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 12.99
 slug: joseph-joseph-barwise-wijnflesstoppers-2-delig
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+soldOut: true
+start: '2026-07-21T22:00:00.000Z'
 title: Joseph Joseph BarWise Wijnflesstoppers | 2-delig

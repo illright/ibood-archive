@@ -1,22 +1,22 @@
-_id: 6a56117a1376626a9bf7176f
+_id: 6a5f3f5446388a054eddcb49
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 9c94f622-b635-5d6d-a5c1-eb5b3c2115e9
-classicId: '3333232'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350138'
 classicProductId: '689552'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 71
-end: '2026-07-21T21:59:59.999Z'
+discount: 75
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: fe22f37e-07e7-4be3-831d-e8c1098bf9f4
+id: 8b61d183-e1ab-4c28-b273-6e762d5b0746
 image:
   channels:
     - app
@@ -28,21 +28,26 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: ac989375-5857-4307-8432-00b5670c34e5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: fe3ea076-d2dd-4a22-824c-1b3bf15b7adf
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 11995
   currency: EUR
   value: 119.95
 slug: mcgregor-light-wash-denim-jeans-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
-title: McGregor Light Wash Denim Jeans | Heren
-
-slug: mcgregor-light-wash-denim-jeans-heren
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: McGregor Light Wash Denim Jeans | Heren

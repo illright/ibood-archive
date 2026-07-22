@@ -1,22 +1,22 @@
-_id: 6a54ee6f0e88f9d7c82e2521
+_id: 6a5e0e49a1808fff0e0d3698
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 44654bdf-1dd8-52c9-aab4-4629a335818c
-classicId: '3330948'
+  - 0ecec1f1-ee91-5bed-b36c-a807219eec99
+classicId: '3343006'
 classicProductId: '703722'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 72
-end: '2026-07-21T21:59:59.999Z'
+directCheckout: false
+discount: 78
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: def7317c-4deb-4bce-8838-24e709928742
+id: efb3e902-6d2a-4d5c-adbc-6721f7421d8c
 image:
   channels:
     - app
@@ -38,17 +38,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: 57b4841f-d83f-4044-b82c-097ce8efe8fc
+offerId: f3baee55-6d4c-4ca7-b47a-462400ea2a6d
 price:
-  cents: 2500
+  cents: 2000
   currency: EUR
-  value: 25
+  value: 20
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: travelin-bergnas-wandelsandalen-heren
-soldOut: true
-start: '2026-07-14T22:00:00.000Z'
+soldOut: false
+start: '2026-07-21T22:00:00.000Z'
 title: Travelin' Bergnas Wandelsandalen | Heren
-n

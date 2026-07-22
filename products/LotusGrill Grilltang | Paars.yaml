@@ -1,12 +1,12 @@
-_id: 6a55f91aaa25c1dd2640489a
+_id: 6a5f392564e0c602f87d0e38
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3332169'
+  - 4da008e0-1966-581d-9dee-993e88ad55e3
+classicId: '3346394'
 classicProductId: '719078'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 7a5f9a45-b943-43dd-97b2-acc1dca4aeac
+id: 5bb5e184-8774-4047-a483-7c653e84bd31
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: cc9a1126-500f-4685-b0e3-99f0857fa084-tr
+  id: cc9a1126-500f-4685-b0e3-99f0857fa084-tr-cr
   priority: 0
   slug: lotusgrill-bbq-tang-lila-product-0
   type: product
-offerId: 20499c88-c782-4bde-b841-31ad7597f0de
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 51ae6c9e-8e72-4938-869e-3ffa1b5dc217
+  priority: 0
+  slug: lotusgrill-png-logo-0
+  type: logo
+offerId: 1212af48-8c07-4ceb-bbda-f7302fc2660b
 price:
   cents: 1195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 18.95
 slug: lotusgrill-grilltang-paars
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: LotusGrill Grilltang | Paars

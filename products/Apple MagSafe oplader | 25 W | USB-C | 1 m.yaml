@@ -1,12 +1,12 @@
-_id: 6a5de27a93ea251e0b04252d
+_id: 6a5f391a7dbb7ff5c7eb0b32
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 8340f883-4c87-56b5-9b7b-10281ba3ace6
-classicId: '3341960'
+  - f98489c2-1f04-57d8-b8cf-58be2012a23c
+classicId: '3346370'
 classicProductId: '718222'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 39
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 48464ba8-71d4-4d66-9998-80ecae1e610c
+id: cc988e07-adf7-4d51-9174-c0853b9757f6
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: apple-25w-magsafe-wireless-charging-pad-1m-usb-c-mx6x3ze-a-product-0
   type: product
-offerId: 53511d71-5b0f-4a0b-83c7-c3040dc1c8e9
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: 8cfb9bd5-4712-43dd-bc94-519f2a1c4e16
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 49
 slug: apple-magsafe-ladegeraet-25w-1m
 soldOut: false
-start: '2026-07-15T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Apple MagSafe oplader | 25 W | USB-C | 1 m

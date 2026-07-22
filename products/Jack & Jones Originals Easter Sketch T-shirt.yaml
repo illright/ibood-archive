@@ -1,22 +1,22 @@
-_id: 6a56185f5ba535e5f21f74d0
+_id: 6a5f4054fb32eea1ca6c6cfd
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e694572d-9891-5b8a-b455-49e9e0dc7100
-classicId: '3334027'
-classicProductId: '679776'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350370'
+classicProductId: '679780'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 55
-end: '2026-07-21T21:59:59.999Z'
+directCheckout: true
+discount: 62
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 96a4c7c0-d4f1-40b1-aecd-b773b4681916
+id: eeec561c-cfd0-454f-89a9-f8cfd024bd7c
 image:
   channels:
     - app
@@ -26,9 +26,9 @@ image:
     - app
     - website
   extension: image/png
-  id: d4c46ca2-caf9-4773-80f8-df94c05c73b1-tr
+  id: a15a12ea-b830-46cf-aba0-af9b27edc0ae-tr
   priority: 0
-  slug: l-ocean-cavern-12297331-jwhparos-easter-sketch-tee-ss-crew-sn-jack-and-jones-originals-product-1
+  slug: l-bright-white-12297331-jwhparos-easter-sketch-tee-ss-crew-sn-jack-and-jones-originals-product-0
   type: product
 logo:
   channels:
@@ -40,16 +40,17 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: f7cf908f-8a39-4b1d-9a5e-dbdd0105f054
+offerId: d696dc04-293b-4bfb-82f2-5383aff3fc37
 price:
-  cents: 895
+  cents: 755
   currency: EUR
-  value: 8.95
+  value: 7.55
 referencePrice:
   cents: 1999
   currency: EUR
   value: 19.99
 slug: jack-jones-originals-easter-sketch-t-shirt
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Jack & Jones Originals Easter Sketch T-shirt
+

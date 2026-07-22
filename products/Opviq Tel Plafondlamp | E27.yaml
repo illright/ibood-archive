@@ -1,12 +1,12 @@
-_id: 6a54cfd1c1fad5071051b2fe
+_id: 6a5f1d053425da4fda7f1cc1
 appOnly: false
 brand: Opviq
 brands:
   - id: f5dca205-0d16-5e78-8c4c-60e5a9b6243d
     name: Opviq
 categories:
-  - bba08705-d582-59ba-ba0e-3df5a16aad7e
-classicId: '3330081'
+  - 1eb9e890-ba72-531b-8762-ebd4e2123e3c
+classicId: '3344628'
 classicProductId: '520189'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 72
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: ae934b08-1069-4ed6-adec-30cc2d04dc43
+id: 240eacad-24e5-48ed-b6b0-8debdfcfcf6f
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 374024e2-5918-45d9-835d-f287e0963a84
-  priority: 0
-  slug: lamp-04-png-product-2
+  id: d3f5902a-2875-48b9-b802-1a6f68ac68d1-tr
+  priority: 1
+  slug: opviq-tel-deckenleuchte-e27-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: opviq-logo
   type: logo
-offerId: 378b79b1-9bff-4d3f-a23c-1f99ffae3e9e
+offerId: a4b1795d-0744-418f-8ff4-1220a284bf7d
 price:
   cents: 1695
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: opviq-tel-plafondlamp-e27
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+soldOut: true
+start: '2026-07-21T22:00:00.000Z'
 title: Opviq Tel Plafondlamp | E27

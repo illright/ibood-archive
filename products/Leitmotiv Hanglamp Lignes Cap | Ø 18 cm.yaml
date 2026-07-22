@@ -1,12 +1,12 @@
-_id: 6a54cf3ec1fad5071051b1e5
+_id: 6a5f1c8ab10aaf7c97f8c445
 appOnly: false
 brand: Leitmotiv
 brands:
   - id: 5f4bfafc-bbe9-578c-869c-1f62ae7cdfad
     name: Leitmotiv
 categories:
-  - bba08705-d582-59ba-ba0e-3df5a16aad7e
-classicId: '3329907'
+  - 1eb9e890-ba72-531b-8762-ebd4e2123e3c
+classicId: '3344557'
 classicProductId: '595246'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 1a95c5d7-6b50-48fb-8160-e8777ca12484
+id: 08173996-3a85-4faa-b6c2-a8b951182bb2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2037779
+    - all
+  extension: image/png
+  id: 9e4f5230-8a37-4721-a1c1-3975836f1297-tr
   priority: 0
-  slug: leitmotiv-hanglamp-lignes-cap-18-cm
+  slug: leitmotiv-lignes-cap-hangeleuchte-jpg-product-1
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 0
   slug: leitmotiv-logo-0
   type: logo
-offerId: 9bbff1f9-8021-4cf4-bdd0-ab089b5970bb
+offerId: 76b2d67f-c145-4cf9-9185-67e3da47a0fd
 price:
   cents: 2295
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.95
 slug: leitmotiv-hanglamp-lignes-cap-18-cm
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Leitmotiv Hanglamp Lignes Cap | Ø 18 cm

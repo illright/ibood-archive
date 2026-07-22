@@ -1,22 +1,22 @@
-_id: 6a56113be1628cff6fbd40a6
+_id: 6a5f40133425da4fda7f2942
 appOnly: false
 brand: Wrangler
 brands:
   - id: 9650c8da-7edf-5963-b58a-6436eed69ec2
     name: Wrangler
 categories:
-  - 9c94f622-b635-5d6d-a5c1-eb5b3c2115e9
-classicId: '3333143'
-classicProductId: '696083'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350283'
+classicProductId: '696094'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 56
-end: '2026-07-21T21:59:59.999Z'
+directCheckout: true
+discount: 61
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: c513af76-c427-42b4-898c-97f1b4af9d98
+id: 40044a2a-01c6-441d-8995-ef07adb71b2b
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ed425f97-8428-4bd3-995d-4aa5a3f5fa21
-  priority: 0
-  slug: wrangler-logo-101-png-logo-0
+  extension: png
+  id: 1606350
+  priority: 100
+  slug: wrangler-logo
   type: logo
-offerId: ecc15903-51f0-4c01-8b47-64bfcf14e619
+offerId: b66e6892-4238-4b62-a5ab-bb0a8ba80c79
 price:
-  cents: 3995
+  cents: 3495
   currency: EUR
-  value: 39.95
+  value: 34.95
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: wrangler-frontier-casual-straight-denim-broek
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Wrangler Frontier Casual Straight Denim Broek

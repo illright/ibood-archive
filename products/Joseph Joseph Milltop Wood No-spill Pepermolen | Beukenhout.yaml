@@ -1,12 +1,12 @@
-_id: 6a55f876a33abb486d87548a
+_id: 6a5f3a0c7dbb7ff5c7eb0d48
 appOnly: false
 brand: Joseph Joseph
 brands:
   - id: db585b6a-9cb7-54b7-be06-de81d609721b
     name: Joseph Joseph
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3331907'
+  - 91f70c97-cf75-52c8-98f3-f09b1a0dcc9e
+classicId: '3346949'
 classicProductId: '555738'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 4b57f6fe-d2be-4028-85e1-27ed450418fc
+id: 50b73ad2-78a0-4e9e-bd31-de5c464336ed
 image:
   channels:
+    - app
+    - website
+    - newsletter
+    - all
     - website
     - app
-    - newsletter
-  extension: jpg
-  id: 1874188
+  extension: image/png
+  id: 488bc714-55c8-4884-8594-253344e19a2e-tr-cr
   priority: 0
-  slug: joseph-joseph-milltop-wood-no-spill-pepermolen
+  slug: joseph-joseph-milltop-krumelfreie-pfeffermuhle-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: joseph-joseph-logo
   type: logo
-offerId: 14f65e66-09db-454f-806e-40349d4ede82
+offerId: 5e9623e0-96b6-4e4d-95f0-14ca07793883
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 39.99
 slug: joseph-joseph-milltop-wood-no-spill-pepermolen
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Joseph Joseph Milltop Wood No-spill Pepermolen | Beukenhout

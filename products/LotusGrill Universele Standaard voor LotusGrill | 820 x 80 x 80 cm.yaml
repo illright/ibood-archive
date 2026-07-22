@@ -1,12 +1,12 @@
-_id: 6a55f913aa25c1dd2640488a
+_id: 6a5f3920d70a4841adc9d617
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3332158'
+  - 4da008e0-1966-581d-9dee-993e88ad55e3
+classicId: '3346389'
 classicProductId: '719069'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 036525db-672a-4541-ad1b-6ed3f3ad4283
+id: b2313924-da39-4530-be04-029c25fa0bc4
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d50ea676-8598-4fd3-895d-1846a0a5be73-tr
+  id: 20a48a98-ba89-4bf6-bff5-d0412be6bb6d
   priority: 0
-  slug: lotusgrill-standaard-universeel-80x80x820mm-product-3
+  slug: grill-01-png-product-1
   type: product
-offerId: 4bc0941b-0f5c-40c5-958e-367164f8650b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: daa4996b-39d0-47df-8fe5-4d3c00aa829b
+  priority: 0
+  slug: lotusgrill-png-logo-0
+  type: logo
+offerId: 73de1207-a5d4-48d3-ab1d-9f148f4908cb
 price:
   cents: 4995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 91.25
 slug: lotusgrill-universele-standaard-voor-lotusgrill-820-x-80-x-80-cm
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: LotusGrill Universele Standaard voor LotusGrill | 820 x 80 x 80 cm

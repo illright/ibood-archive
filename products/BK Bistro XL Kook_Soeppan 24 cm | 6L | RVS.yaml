@@ -1,12 +1,12 @@
-_id: 6a55f843e1628cff6fbd3bcf
+_id: 6a5f394c46388a054eddc9f5
 appOnly: false
 brand: BK
 brands:
   - id: e5056490-ff9e-545f-98cd-4e160da1629d
     name: BK
 categories:
-  - 56118ae9-8088-5c9d-8d6f-b7019a4d9b4e
-classicId: '3331782'
+  - 262debf9-8860-5fe0-a050-f3d4a7023b31
+classicId: '3346495'
 classicProductId: '711525'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 78
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: fc1e1ac7-bacf-45c0-97a5-213a1ba78828
+id: 9116bef1-878e-4195-943c-0399e024deb1
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: 9021c4da-ca21-4587-9e32-c4d633fb0a3e
+  id: fbb35593-574f-41c0-a340-d1ca473e8f24-cr
   priority: 0
-  slug: x4810-324-bk-bistro-soeppan-24-cm-6l-rvs-product-3
+  slug: x4810-324-bk-bistro-soeppan-24-cm-6l-rvs-product-3-png-product-2
   type: product
 logo:
   channels:
@@ -39,7 +41,7 @@ logo:
   priority: 0
   slug: bk-logo-101
   type: logo
-offerId: dade98a2-08b2-4148-8e24-0716e4a9e577
+offerId: 839296b9-e028-4d21-aef1-33a4b4608f3c
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +52,5 @@ referencePrice:
   value: 89.9
 slug: bk-bistro-xl-kook-soeppan-24-cm-6l-rvs
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: BK Bistro XL Kook/Soeppan 24 cm | 6L | RVS

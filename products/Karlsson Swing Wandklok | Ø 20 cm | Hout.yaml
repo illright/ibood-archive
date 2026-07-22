@@ -1,22 +1,22 @@
-_id: 6a54b1235473640fa5c8c2d5
+_id: 6a5f247b3425da4fda7f1d51
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 629f8039-17c2-52d0-a0fc-837e0a02ff16
-classicId: '3329497'
+  - 5b36ec05-8b08-5d3e-8848-513caee613fe
+classicId: '3345042'
 classicProductId: '716953'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 62
-end: '2026-07-21T21:59:59.999Z'
+discount: 67
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 50f63e3a-fde9-4870-ad04-fa741298c4dc
+id: cd0449c7-31b6-4aa4-8d25-ee44ed96d9f5
 image:
   channels:
     - app
@@ -32,25 +32,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a1aaf87c-57a5-4cdc-af78-dd5c4355e265
-  priority: 0
-  slug: karlsson-logo-png-logo-0
+  extension: png
+  id: 1566233
+  priority: 100
+  slug: karlsson-logo
   type: logo
-offerId: 483217b0-6f59-4260-b71f-fd8a49212a1f
+offerId: 20ffb162-79c0-4833-8aad-9ed34191756f
 price:
-  cents: 3995
+  cents: 3495
   currency: EUR
-  value: 39.95
+  value: 34.95
 referencePrice:
   cents: 10500
   currency: EUR
   value: 105
 slug: karlsson-swing-wandklok-20-cm-hout
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Karlsson Swing Wandklok | Ø 20 cm | Hout

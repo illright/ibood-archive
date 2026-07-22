@@ -1,12 +1,12 @@
-_id: 6a4b5f267d2aac75dc76357c
+_id: 6a5f39d81c58e75733786101
 appOnly: false
 brand: Rowenta
 brands:
   - id: 07482617-a58b-5318-8715-c397f7ecb27e
     name: Rowenta
 categories:
-  - 31978ffc-e151-5cf6-a2d4-013115aa73c6
-classicId: '3313176'
+  - 886f9f88-2ad4-5cb4-9e1b-85cc5a5c2d96
+classicId: '3346821'
 classicProductId: '718900'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 88639618-9d86-5c31-8111-5c4612314c97
+id: 88747123-1cd5-4639-b78c-b32f3b929d2e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b47cdf60-b0b0-44e6-8eeb-7e78888a1b41
-  priority: 0
-  slug: rowenta-png-logo-0
+  extension: png
+  id: 1576795
+  priority: 100
+  slug: rowenta-logo
   type: logo
-offerId: a00ce377-c7da-5567-b614-89960b318831
+offerId: 95b90972-db5e-42b2-9b57-267bafaa903a
 price:
   cents: 14900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 259
 slug: rowenta-x-plorer-robotstofzuiger-met-dweilfunctie-aquapower-rr7437-serie-60
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Rowenta X-Plorer Robotstofzuiger met Dweilfunctie | Aquapower | RR7437 | Serie 60

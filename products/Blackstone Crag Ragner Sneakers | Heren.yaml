@@ -1,22 +1,22 @@
-_id: 6a56351fb3a77b01e60b7f60
+_id: 6a5f6cd464e0c602f87d21e4
 appOnly: false
 brand: Blackstone Footwear
 brands:
   - id: b98bd065-86a5-5a59-af62-4c454db56d9a
     name: Blackstone Footwear
 categories:
-  - 90b31631-df3c-586f-b79a-f3eb31598004
-classicId: '3335995'
+  - 124f41a5-a41a-5be2-93d1-f03bd0c50e18
+classicId: '3352381'
 classicProductId: '704967'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 67
-end: '2026-07-21T21:59:59.999Z'
+discount: 72
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 138c799f-0767-4b8f-bf6c-0e6fde2ec3a4
+id: 01fc8c35-48bf-4072-8262-ad186e66909b
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: b5593903-fd79-4306-8885-d53ca643cf01
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 755c25e1-5648-463b-9e7a-0247bef9ed6b
+  priority: 0
+  slug: blackstone-footwear-logo-0
+  type: logo
+offerId: 28f20272-a675-4aef-8867-88aa8b21edf9
 price:
-  cents: 5995
+  cents: 4995
   currency: EUR
-  value: 59.95
+  value: 49.95
 referencePrice:
   cents: 17990
   currency: EUR
   value: 179.9
 slug: blackstone-crag-ragner-sneakers-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Blackstone Crag Ragner Sneakers | Heren

@@ -1,22 +1,22 @@
-_id: 6a5634a32fe1c59f4eabdb10
+_id: 6a5f6d4d3425da4fda7f2ff0
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - 90b31631-df3c-586f-b79a-f3eb31598004
-classicId: '3335974'
+  - 124f41a5-a41a-5be2-93d1-f03bd0c50e18
+classicId: '3352470'
 classicProductId: '714710'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 61
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: a6ab5227-5e32-480d-a4f8-64489c5b2ba3
+id: f09f0594-9487-4fb3-8514-ba36d3b62ed8
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 23360930-ffdd-475c-bced-53d5bda9d1e9
-  priority: 0
-  slug: nubikk-logo-png-logo-0
+  extension: png
+  id: 1662615
+  priority: 100
+  slug: nubikk-logo
   type: logo
-offerId: 9a567bef-de33-4373-b3f2-230f3938d3c5
+offerId: 6ca5fa2a-3189-40dc-8bdb-27ebd48340b8
 price:
   cents: 8995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 230
 slug: nubikk-caldera-tora-suede-sneaker-beige
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Nubikk Caldera Tora Suede Sneaker | Beige

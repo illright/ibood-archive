@@ -1,12 +1,12 @@
-_id: 6a54f6206a5aa317b61a2751
+_id: 6a5f3b2b64e0c602f87d1244
 appOnly: false
 brand: Davitamon
 brands:
   - id: 6e65412a-0700-5dc8-ac7a-8f0062ffdb37
     name: Davitamon
 categories:
-  - cafc691d-bb7d-5f4e-9f6b-a8eecf805408
-classicId: '3331150'
+  - 1325eac6-8b46-522e-b444-ecfab09bba39
+classicId: '3347403'
 classicProductId: '716912'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 83
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 8b92d6a8-ee4a-4ac6-8bcc-4d53b7871d4a
+id: d1c36f7b-fede-4b62-a7c2-f9184796ac56
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1620921
-  priority: 100
-  slug: davitamon-logo
+    - all
+  extension: image/png
+  id: ac141d0e-5648-4297-9956-0ace4fdae5ef
+  priority: 0
+  slug: davitamon-png-logo-0
   type: logo
-offerId: 55726bd1-faf7-4e51-9182-8c921ce696a3
+offerId: 6625612e-bdd3-4bd5-a750-7c277a31afc8
 price:
   cents: 1195
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 70.47
 slug: 3x-120-davitamon-junior-3-12-kauwtabletten-bananensmaak
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 3x 120 Davitamon Junior 3-12 Kauwtabletten Bananensmaak

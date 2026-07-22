@@ -1,22 +1,22 @@
-_id: 6a54cf7c53166580f72e8068
+_id: 6a5f197b64e0c602f87d03dd
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - bba08705-d582-59ba-ba0e-3df5a16aad7e
-classicId: '3329950'
-classicProductId: '665935'
+  - 2de6c394-d8de-5aa5-9474-b60ebb1a1d90
+classicId: '3344415'
+classicProductId: '675021'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
 discount: 68
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 54d765df-13f5-4672-9b43-fedc60b61733
+id: 623c5336-a637-4605-ba3c-2e1f17469200
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 2b20adcb-32d1-4124-a199-e2deaef369a0
+  id: 05b16f28-b451-40f5-938b-a33b2e03bc77
   priority: 0
-  slug: lucide-39-png-product-1
+  slug: lucide-40-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lucide-logo
   type: logo
-offerId: a469efd2-9869-48e8-8dc1-5160cc75cdc9
+offerId: 3c003d46-3aca-4b23-bff3-1270fe36c167
 price:
   cents: 2995
   currency: EUR
@@ -48,7 +48,6 @@ referencePrice:
   currency: EUR
   value: 93.95
 slug: lucide-mesh-plafondlamp-45-cm-e27
-soldOut: true
-start: '2026-07-14T22:00:00.000Z'
+soldOut: false
+start: '2026-07-21T22:00:00.000Z'
 title: 'Lucide Mesh Plafondlamp | Ø 45 cm | E27 '
-

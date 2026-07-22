@@ -1,32 +1,31 @@
-_id: 6a54d251c1fad5071051b4f7
+_id: 6a5e1da193ea251e0b042986
 appOnly: false
 brand: Odlo
 brands:
   - id: 0818df4b-7b3e-5a62-9e31-558cf4452571
     name: Odlo
 categories:
-  - 404b696f-df36-565b-ab63-9d461294308e
-classicId: '3330569'
-classicProductId: '692975'
+  - beda7e73-e259-55f2-a17e-d65fe5d3ef2b
+classicId: '3343510'
+classicProductId: '458692'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 56
-end: '2026-07-21T21:59:59.999Z'
+discount: 62
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 4784e5b2-b0d8-4f0c-8c1e-2a36c7d3bd40
+id: 102fb2f4-8e7b-493a-ba76-73555c883ded
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 808884e6-1e69-49fc-9146-9181b9231c3b
+  extension: png
+  id: 1530620
   priority: 0
-  slug: odlo1-png-product-1
+  slug: odlo-essential-hardloopshirt
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: odlo-logo
   type: logo
-offerId: 9e7dd47b-4a24-4617-8f0d-54f0ddfa4491
+offerId: d7490fea-6e00-435b-8002-1bfcaed7d647
 price:
-  cents: 1750
+  cents: 1500
   currency: EUR
-  value: 17.5
+  value: 15
 referencePrice:
   cents: 4000
   currency: EUR
   value: 40
 slug: odlo-essential-hardloopshirt
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Odlo Essential Hardloopshirt | Heren

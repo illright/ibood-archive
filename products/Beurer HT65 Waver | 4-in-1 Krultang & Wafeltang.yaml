@@ -1,12 +1,12 @@
-_id: 6a55f91a85c486867da9b574
+_id: 6a57497c854c830569180cb3
 appOnly: false
 brand: Beurer
 brands:
   - id: 31c1758a-7232-51e6-bc38-7634512caf25
     name: Beurer
 categories:
-  - 6ef93b0a-5907-524e-bcc3-33b4335d371e
-classicId: '3332171'
+  - 886f9f88-2ad4-5cb4-9e1b-85cc5a5c2d96
+classicId: '3337771'
 classicProductId: '648615'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: c0415437-85f7-434d-966c-4423c41d4c16
+id: 680c1127-e0f0-519f-9ff4-76235d6f404e
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: af08dff3-5e31-4275-9b4a-34a3dcaa03ec
+    - website
+    - app
+  extension: image/png
+  id: af08dff3-5e31-4275-9b4a-34a3dcaa03ec-tr
   priority: 0
   slug: 59423-beurer-ht-65-krultang-golvenkrultang-wafeltang-waver-4-in-1-golven-product-0
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: beurer-logo
   type: logo
-offerId: f4c3b9d1-ca1e-4627-a72c-20c8a1e38235
+offerId: 968644af-dfd7-52f7-a568-fd9a9d739e81
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 59.99
 slug: beurer-ht65-waver-4-in-1-krultang-wafeltang
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Beurer HT65 Waver | 4-in-1 Krultang & Wafeltang

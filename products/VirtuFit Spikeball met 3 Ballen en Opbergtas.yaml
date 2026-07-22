@@ -1,12 +1,12 @@
-_id: 6a50a8b76c0d4ec94c94e726
+_id: 6a5e1dd051224c700f787862
 appOnly: false
 brand: VirtuFit
 brands:
   - id: ec5b8d91-051a-5ffc-a578-2eee4cae9488
     name: VirtuFit
 categories:
-  - ae3fd887-fd3b-5ddb-91f9-85425d9aa863
-classicId: '3327014'
+  - 58272182-5314-5563-af07-a6f077fad4f7
+classicId: '3343512'
 classicProductId: '456611'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: d58b504b-ccaf-5adf-a3da-b26835e25a22
+id: 2d2523b5-fc52-43d4-87ca-f9d244d8c442
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1523343
+    - all
+  extension: image/png
+  id: 7e0ca294-c703-4912-9c95-c30785e626fe
   priority: 0
-  slug: virtufit-spikeball-met-3-ballen-en-opbergtas
+  slug: virtufit-spikeball-mit-3-ballen-kopie-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 0
   slug: virtufit-logo
   type: logo
-offerId: 98c32b00-d125-549a-9e13-fbb04b99895a
+offerId: 92d3fd57-8134-41c9-8b99-451ba68f6b07
 price:
   cents: 4995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 74.9
 slug: virtufit-spikeball-met-3-ballen-en-opbergtas
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: VirtuFit Spikeball met 3 Ballen en Opbergtas

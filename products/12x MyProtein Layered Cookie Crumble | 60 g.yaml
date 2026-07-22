@@ -1,32 +1,31 @@
-_id: 6a54f6440e88f9d7c82e25fe
+_id: 6a5f3d13da20339e4265498b
 appOnly: false
 brand: Myprotein
 brands:
   - id: 5d1e6318-10d4-5152-842b-30593b51fa02
     name: Myprotein
 categories:
-  - cafc691d-bb7d-5f4e-9f6b-a8eecf805408
-classicId: '3331192'
+  - 1325eac6-8b46-522e-b444-ecfab09bba39
+classicId: '3348414'
 classicProductId: '444450'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 47
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: a8ffaec9-89b4-41bc-b3cb-9ab4cf70abe9
+id: 142aaf3a-9031-45e1-9d4f-3632420af5f2
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c1ed9006-c17d-4651-aa7a-7d63e20037d0
+  extension: png
+  id: 1499883
   priority: 0
-  slug: myprotein-01-png-product-1
+  slug: 12x-myprotein-proteinriegel-crispies-kekssahne
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: myprotein-logo
   type: logo
-offerId: 0a8be659-3066-43db-8dc4-7a33b2832324
+offerId: db0ef046-07f2-41e3-ab5d-65d99ceb2bf1
 price:
   cents: 1795
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 33.98
 slug: 12x-myprotein-layered-cookie-crumble-60-g
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 12x MyProtein Layered Cookie Crumble | 60 g

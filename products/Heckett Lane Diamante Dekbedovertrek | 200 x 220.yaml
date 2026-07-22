@@ -1,12 +1,12 @@
-_id: 6a563e7be1628cff6fbd4876
+_id: 6a5f2ef341a96ebd60aa9199
 appOnly: false
 brand: Heckett Lane
 brands:
   - id: e4aab67a-916d-5500-9121-6fb22731dc9a
     name: Heckett Lane
 categories:
-  - c68f7ea9-109e-55f3-a2aa-5211330182e2
-classicId: '3336747'
+  - 64de82b4-37ff-5e24-bc10-6ca64e0b9762
+classicId: '3345905'
 classicProductId: '294276'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 81
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: bceceaa0-087e-45f8-949c-46c05671628d
+id: b5351ba8-440e-41ce-a765-14aa45832956
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1362104
+    - all
+  extension: image/png
+  id: 25ae4128-40fa-4709-a6ef-43cf20042549
   priority: 0
-  slug: heckett-lane-overtrek-satijn-200-x-220-cm
+  slug: dekbed-01-png-product-32
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: heckett-lane-logo
   type: logo
-offerId: a937bc66-fbee-473b-9ec8-80bb85469874
+offerId: a91d5b4c-a06e-4214-aaaf-50682b1a81d2
 price:
   cents: 2495
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 129.95
 slug: heckett-lane-overtrek-satijn-200-x-220-cm
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Heckett Lane Diamante Dekbedovertrek | 200 x 220

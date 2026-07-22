@@ -1,22 +1,22 @@
-_id: 6a54ed6d2fe1c59f4eabd2c1
+_id: 6a5e0e1293ea251e0b042776
 appOnly: false
 brand: Sevylor
 brands:
   - id: d12e726f-8707-5181-a6e5-f5427851a524
     name: Sevylor
 categories:
-  - 44654bdf-1dd8-52c9-aab4-4629a335818c
-classicId: '3330741'
+  - 7234bfe5-00eb-5568-bafd-bad67dd6d172
+classicId: '3342937'
 classicProductId: '715837'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 50
-end: '2026-07-21T21:59:59.999Z'
+discount: 56
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 4bb884fe-6602-495c-a139-2fab116f194d
+id: 51bd8148-5e65-4733-b628-96e64b78bcde
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1778216
-  priority: 100
-  slug: sevylor-logo
+    - all
+  extension: image/png
+  id: 9644ff11-24a4-4a94-a62f-192797ba0a0a
+  priority: 0
+  slug: sevylor-png-logo-0
   type: logo
-offerId: 5a6d606f-de70-462d-a197-47fa58ec8223
+offerId: 9182d251-22d9-468f-b4bf-e3128907034b
 price:
-  cents: 12500
+  cents: 11000
   currency: EUR
-  value: 125
+  value: 110
 referencePrice:
   cents: 24999
   currency: EUR
   value: 249.99
 slug: sevylor-opblaasbare-3-zits-kajak
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Sevylor Opblaasbare 3-Zits Kajak

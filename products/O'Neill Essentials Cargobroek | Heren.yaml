@@ -1,22 +1,22 @@
-_id: 6a54ee58e1628cff6fbd3829
+_id: 6a5e0e90a02c4ed8692e2032
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 44654bdf-1dd8-52c9-aab4-4629a335818c
-classicId: '3330922'
-classicProductId: '711796'
+  - 7234bfe5-00eb-5568-bafd-bad67dd6d172
+classicId: '3343117'
+classicProductId: '711800'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 60
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: b3461aa9-98b2-4924-a335-2c742603f8ca
+id: 1b385a3e-a335-489e-a3fa-025ea05c09e5
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: a8e2818a-a78a-4206-814d-e1818eafdc30
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
+  type: logo
+offerId: 3fe9072f-1a5c-4d66-ae05-01efc05e068b
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 74.99
 slug: o-neill-essentials-cargobroek-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: O'Neill Essentials Cargobroek | Heren

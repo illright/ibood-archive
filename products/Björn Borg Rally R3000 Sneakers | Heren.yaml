@@ -1,12 +1,12 @@
-_id: 6a563432e1628cff6fbd473e
+_id: 6a5f6cb73425da4fda7f2f35
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 90b31631-df3c-586f-b79a-f3eb31598004
-classicId: '3335929'
+  - 124f41a5-a41a-5be2-93d1-f03bd0c50e18
+classicId: '3352371'
 classicProductId: '611731'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 69
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 47c2573b-0d59-4c85-80a5-389264c5553d
+id: a931f70d-2ebb-410a-b6b0-52b36eb063ee
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 21c1a95c-2e2c-44f0-be11-0cdb41abedc0
-  priority: 0
-  slug: bjorn-borg-rally-r3000-sneakers-logo-0
+  extension: png
+  id: 2030715
+  priority: 100
+  slug: bjorn-borg-logo
   type: logo
-offerId: fb240d61-56c8-4437-93af-678eccd84eed
+offerId: 709ae9d1-088d-432a-8547-ed44c092c43d
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: bjorn-borg-rally-r3000-sneakers
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Björn Borg Rally R3000 Sneakers | Heren

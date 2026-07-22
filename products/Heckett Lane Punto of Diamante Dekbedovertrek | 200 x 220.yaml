@@ -1,12 +1,12 @@
-_id: 6a563e79006141d6b96bddfd
+_id: 6a5f2ee922dd8e41385d26ec
 appOnly: false
 brand: Heckett Lane
 brands:
   - id: e4aab67a-916d-5500-9121-6fb22731dc9a
     name: Heckett Lane
 categories:
-  - c68f7ea9-109e-55f3-a2aa-5211330182e2
-classicId: '3336744'
+  - 64de82b4-37ff-5e24-bc10-6ca64e0b9762
+classicId: '3345894'
 classicProductId: '294227'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: f5ac30ff-c3bf-41b0-bb45-43022bf0664a
+id: 1fb6a036-5b1b-43ce-9eb5-94103ec9640d
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1278291
+    - all
+  extension: image/png
+  id: 4bca6203-0ea4-4db5-bd5e-44c1835cc57f-tr
   priority: 0
-  slug: heckett-lane-overtrek-200-x-220-cm
+  slug: proxy-webp-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: heckett-lane-logo
   type: logo
-offerId: ac7c8dd5-1dd1-46f9-b4d7-351cae80f7f3
+offerId: 4c908092-d09c-417b-a329-74bf8676cbf0
 price:
   cents: 5995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 149.95
 slug: heckett-lane-overtrek-200-x-220-cm
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Heckett Lane Punto of Diamante Dekbedovertrek | 200 x 220

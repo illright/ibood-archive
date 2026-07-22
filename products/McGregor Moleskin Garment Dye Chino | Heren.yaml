@@ -1,22 +1,22 @@
-_id: 6a5611802d9fcc88f512c53e
+_id: 6a5f677f64e0c602f87d2153
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 9c94f622-b635-5d6d-a5c1-eb5b3c2115e9
-classicId: '3333242'
+  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
+classicId: '3352086'
 classicProductId: '689596'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 73
-end: '2026-07-21T21:59:59.999Z'
+discount: 77
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: ed1cc8fd-232a-4923-9e90-f204c5c9ec6b
+id: 33c37bd4-9a9a-4e84-94b3-ddec49e566c3
 image:
   channels:
     - app
@@ -28,20 +28,26 @@ image:
   priority: 0
   slug: main1-png-product-1
   type: product
-offerId: a799ca12-5a93-4ec9-805e-404df01c60dd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: b2dc04d0-7eb9-4fa2-bf84-fea550110997
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 12995
   currency: EUR
   value: 129.95
 slug: mcgregor-moleskin-garment-dye-chino-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
-title: McGregor Moleskin Garment Dye Chino | Heren
-cgregor-moleskin-garment-dye-chino-heren
-soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: McGregor Moleskin Garment Dye Chino | Heren

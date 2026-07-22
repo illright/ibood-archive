@@ -1,22 +1,22 @@
-_id: 6a54d24253166580f72e813a
+_id: 6a5e1deaf0f5bca759de1213
 appOnly: false
 brand: K-Swiss
 brands:
   - id: f4bb9134-1177-560b-b793-33dc6851eb47
     name: K-Swiss
 categories:
-  - 1f53f2dc-d1be-58ce-b049-6e434209beca
-classicId: '3330546'
-classicProductId: '658749'
+  - beda7e73-e259-55f2-a17e-d65fe5d3ef2b
+classicId: '3343570'
+classicProductId: '658751'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 49
-end: '2026-07-21T21:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 5f13d5eb-ba30-4595-aa9a-488be417f734
+id: 0d32664e-d0ed-4f24-a136-5e5f64f2eb77
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: k-swiss-logo
   type: logo
-offerId: d4ed4bd1-d0b3-4c15-b721-0efc19dc17c5
+offerId: 510c2c92-4430-4375-9eba-8ab7017eb0cb
 price:
-  cents: 7200
+  cents: 7000
   currency: EUR
-  value: 72
+  value: 70
 referencePrice:
   cents: 13999
   currency: EUR
   value: 139.99
 slug: k-swiss-vrouwen-ultra-court-padel
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: K-Swiss Ultra Court Padel Padel Schoenen | Dames

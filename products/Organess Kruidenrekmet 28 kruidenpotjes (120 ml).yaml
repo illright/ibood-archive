@@ -1,12 +1,12 @@
-_id: 6a4cfab097e1d5238f6faaa4
+_id: 6a5f38fd2e7d1c39f0111da9
 appOnly: false
 brand: Organess
 brands:
   - id: 17997cee-809c-5786-be0a-f3462d55922e
     name: Organess
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3320247'
+  - 91f70c97-cf75-52c8-98f3-f09b1a0dcc9e
+classicId: '3346308'
 classicProductId: '719059'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 56c73f0f-3c57-5f66-8894-e02a5934f199
+id: 91f98b03-7b96-4fd9-a9fb-73a76fae3ee0
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: organess-kruidenrek-acryl-black-product-2
   type: product
-offerId: dec191d7-a304-5aff-83ce-c15a898b9596
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2dec6bbb-f10d-4b20-9403-9459176021f0
+  priority: 0
+  slug: organess-logo-0
+  type: logo
+offerId: 47f7e325-1b72-4ab4-b0a0-6160d56234c1
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 49.95
 slug: organess-kruidenrek-met-28-kruidenpotjes-120-ml
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Organess Kruidenrekmet 28 kruidenpotjes (120 ml)

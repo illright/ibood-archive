@@ -1,22 +1,22 @@
-_id: 6a54b122897fdd0ff7fe4e9f
+_id: 6a5f247a64e0c602f87d0827
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 629f8039-17c2-52d0-a0fc-837e0a02ff16
-classicId: '3329496'
+  - 5b36ec05-8b08-5d3e-8848-513caee613fe
+classicId: '3345040'
 classicProductId: '716952'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 52
-end: '2026-07-21T21:59:59.999Z'
+discount: 58
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: efbd9096-6a4f-43f8-a21f-333709beee38
+id: 900fbd5d-eb51-401e-9cb1-facb1a465f7f
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 71335f7c-e777-40a5-bf4e-f2493f5eb580
-  priority: 0
-  slug: karlsson-logo-png-logo-0
+  extension: png
+  id: 1566233
+  priority: 100
+  slug: karlsson-logo
   type: logo
-offerId: 0aabb430-01b9-4976-ad14-b39cb91822f5
+offerId: 8134889a-00fc-4480-b3b3-e7e5d6a06597
 price:
-  cents: 3995
+  cents: 3495
   currency: EUR
-  value: 39.95
+  value: 34.95
 referencePrice:
   cents: 8250
   currency: EUR
   value: 82.5
 slug: karlsson-world-map-wandklok-39-cm-jade-green
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Karlsson World Map Wandklok | Ø 39 cm | Jade Green

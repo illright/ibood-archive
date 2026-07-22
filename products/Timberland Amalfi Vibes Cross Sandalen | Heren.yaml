@@ -1,22 +1,22 @@
-_id: 6a5635342d9fcc88f512cb06
+_id: 6a5f3f172e7d1c39f01123f1
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - 90b31631-df3c-586f-b79a-f3eb31598004
-classicId: '3336000'
-classicProductId: '688243'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350109'
+classicProductId: '688240'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 57
-end: '2026-07-21T21:59:59.999Z'
+directCheckout: true
+discount: 61
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 049f3a3f-0445-4282-b484-8ceb81883825
+id: 4130a62d-4a00-479e-ae18-6bea6fe548dd
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 146bb553-130a-4d25-8084-d838f4f406fc
-  priority: 0
-  slug: timberland-png-logo-0
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
   type: logo
-offerId: 742349f2-531f-4e1a-9d4b-1b23f2f1da96
+offerId: 3b9f27cd-0c81-4cc2-9154-b32ca5c9467a
 price:
-  cents: 4995
+  cents: 4495
   currency: EUR
-  value: 49.95
+  value: 44.95
 referencePrice:
   cents: 11500
   currency: EUR
   value: 115
 slug: timberland-amalfi-vibes-cross-sandalen-heren
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Timberland Amalfi Vibes Cross Sandalen | Heren

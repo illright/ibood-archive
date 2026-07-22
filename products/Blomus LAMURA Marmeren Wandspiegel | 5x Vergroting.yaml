@@ -1,22 +1,22 @@
-_id: 6a54b117897fdd0ff7fe4e84
+_id: 6a5f247164e0c602f87d080b
 appOnly: false
 brand: blomus
 brands:
   - id: a8b43515-70bc-5688-8036-e1b3bcb7a81a
     name: blomus
 categories:
-  - 629f8039-17c2-52d0-a0fc-837e0a02ff16
-classicId: '3329483'
+  - 5b36ec05-8b08-5d3e-8848-513caee613fe
+classicId: '3345032'
 classicProductId: '715224'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 61
-end: '2026-07-21T21:59:59.999Z'
+discount: 65
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 6beab2d5-f513-47b8-abaa-73e4ad90419c
+id: d557e655-b6a1-4304-a4fe-d4753c6bee6e
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 89e148db-5e38-4ebc-b3c6-2a29b4d522b8
-  priority: 0
-  slug: blomus-png-logo-0
+  extension: png
+  id: 1772219
+  priority: 100
+  slug: blomus-logo
   type: logo
-offerId: 3fc4e48d-60c3-4ada-adbe-1b59b47d83ec
+offerId: 064e63e5-5776-4fd9-8c29-4d2aa60201b5
 price:
-  cents: 4995
+  cents: 4495
   currency: EUR
-  value: 49.95
+  value: 44.95
 referencePrice:
   cents: 12900
   currency: EUR
   value: 129
 slug: blomus-lamura-marmeren-wandspiegel
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Blomus LAMURA Marmeren Wandspiegel | 5x Vergroting

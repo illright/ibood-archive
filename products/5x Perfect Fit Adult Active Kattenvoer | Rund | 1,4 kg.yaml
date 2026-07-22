@@ -1,12 +1,12 @@
-_id: 6a4e4469125a2135fbe50b8e
+_id: 6a5f3d6764e0c602f87d1766
 appOnly: false
 brand: Perfect Fit
 brands:
   - id: 7c671d7b-2ee6-5bf1-af7c-46803bf8c4a8
     name: Perfect Fit
 categories:
-  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
-classicId: '3323645'
+  - 1325eac6-8b46-522e-b444-ecfab09bba39
+classicId: '3348834'
 classicProductId: '719283'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 36
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 1d9d68ed-d0c7-552c-a762-2247c32b69e5
+id: 838a9616-7637-4336-b9f1-bbdc0982469b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9c9d79eb-0941-46db-8ab8-3be0f8a8dea2
-  priority: 0
-  slug: perfect-fit-png-logo-0
+  extension: png
+  id: 1762130
+  priority: 100
+  slug: perfect-fit-logo
   type: logo
-offerId: 3e6c1d94-1582-577f-a6dd-85cd70486285
+offerId: e5d2d65d-d6bc-4082-9a22-05206376b2e5
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 55
 slug: 5x-perfect-fit-adult-active-kattenvoer-rund-1-4-kg
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 5x Perfect Fit Adult Active Kattenvoer | Rund | 1,4 kg

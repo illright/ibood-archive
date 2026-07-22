@@ -1,12 +1,12 @@
-_id: 6a55f92ee1628cff6fbd3d40
+_id: 6a5f3930d70a4841adc9d63f
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 8eb2f967-5921-5985-bfb0-23f7a48e44e3
-classicId: '3332202'
+  - 4da008e0-1966-581d-9dee-993e88ad55e3
+classicId: '3346425'
 classicProductId: '719068'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 29
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 0ef76fc7-9087-4170-bef6-d17e46d7aab6
+id: 7abb168a-9b19-48b3-a126-7017268cea7d
 image:
   channels:
     - app
@@ -24,11 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: cc1478f5-bf5e-48f6-9ed2-6093fed4bbb2-tr
+  id: cc1478f5-bf5e-48f6-9ed2-6093fed4bbb2-tr-cr
   priority: 0
   slug: lotusgrill-pannenlap-vierkant-groen-product-0
   type: product
-offerId: bbb4e807-0b88-4178-8b86-9e98e46a8872
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 1212c579-6fe2-41a5-aa3e-e0df971e0cb5
+  priority: 0
+  slug: lotusgrill-png-logo-0
+  type: logo
+offerId: f7b3ec85-46b2-4605-a84a-6f59fbafd18b
 price:
   cents: 695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 9.75
 slug: lotusgrill-vierkante-pannenlap-groen
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: LotusGrill Vierkante Pannenlap | Groen

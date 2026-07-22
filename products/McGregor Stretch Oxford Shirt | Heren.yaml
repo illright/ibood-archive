@@ -1,22 +1,22 @@
-_id: 6a560d7de1628cff6fbd3eed
+_id: 6a5f66e7d1724a7c3bd59b4e
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - 3255857f-daf2-5012-96fb-c4b0554ab4ac
-classicId: '3332842'
-classicProductId: '669674'
+  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
+classicId: '3351881'
+classicProductId: '669673'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 79
-end: '2026-07-21T21:59:59.999Z'
+directCheckout: false
+discount: 69
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 0c240ed4-8866-42be-9e74-63a1ad417c22
+id: 064c7f3c-3bbc-4a88-aed0-0d1f9a98df5f
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d9fc2324-becf-4f9c-b34f-edf33a560b65
+  id: b2f18a97-26d2-403f-9f9b-2a8ab28a02fc
   priority: 0
-  slug: 1-png-product-1
+  slug: main-png-product-1
   type: product
 logo:
   channels:
@@ -38,17 +38,16 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 8b5bb552-3989-4154-afe4-4c3250517782
+offerId: ad02e85e-53e9-407d-b2d6-7c25bb998603
 price:
-  cents: 1925
+  cents: 2495
   currency: EUR
-  value: 19.25
+  value: 24.95
 referencePrice:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 slug: mcgregor-stretch-oxford-shirt-heren
-soldOut: true
-start: '2026-07-14T22:00:00.000Z'
+soldOut: false
+start: '2026-07-21T22:00:00.000Z'
 title: McGregor Stretch Oxford Shirt | Heren
-eren

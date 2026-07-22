@@ -1,12 +1,12 @@
-_id: 6a54b1215473640fa5c8c2d1
+_id: 6a5f247464e0c602f87d0818
 appOnly: false
 brand: blomus
 brands:
   - id: a8b43515-70bc-5688-8036-e1b3bcb7a81a
     name: blomus
 categories:
-  - 629f8039-17c2-52d0-a0fc-837e0a02ff16
-classicId: '3329495'
+  - 5b36ec05-8b08-5d3e-8848-513caee613fe
+classicId: '3345036'
 classicProductId: '715222'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: bdade730-c4fc-4ae7-87e3-e3e03018fcb5
+id: 8fbcd2cd-83af-4ee3-942c-d04c35bb82b5
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a5f25090-bd0f-42e0-852d-a6539997df8f
-  priority: 0
-  slug: blomus-png-logo-0
+  extension: png
+  id: 1772219
+  priority: 100
+  slug: blomus-logo
   type: logo
-offerId: c7123fee-a59a-414e-bf31-4b1110977a3c
+offerId: e752a687-ea57-4e95-be12-bdacebdba3b7
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 94.95
 slug: blomus-finca-wandkandelaar-s-38-cm
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Blomus FINCA Wandkandelaar S | 38 cm

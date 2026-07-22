@@ -1,22 +1,22 @@
-_id: 6a5610fae1628cff6fbd407d
+_id: 6a5f644864e0c602f87d1def
 appOnly: false
 brand: Blend
 brands:
   - id: fa46e15d-0540-513e-829f-f6304c696799
     name: Blend
 categories:
-  - 9c94f622-b635-5d6d-a5c1-eb5b3c2115e9
-classicId: '3333071'
+  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
+classicId: '3351403'
 classicProductId: '699254'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 66
-end: '2026-07-21T21:59:59.999Z'
+discount: 70
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 00634034-0d7c-43ed-be04-b9a390f2afc6
+id: 50f33321-d0e2-4d84-ae75-d246e1880504
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: w31-l32-denim-black-20715000-200297-bhtwister-slm-reg-5000-noos-denim-jeans-men-blend-product-5
   type: product
-offerId: 8bfa2506-1fed-4e75-962f-28b337acf2c6
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d5f65a97-3337-4eb7-bea5-1a2d79de3a02
+  priority: 0
+  slug: blend-herenkleding-png-logo-0
+  type: logo
+offerId: daa8abb6-87c2-44ad-9a95-4d996845a109
 price:
-  cents: 1695
+  cents: 1495
   currency: EUR
-  value: 16.95
+  value: 14.95
 referencePrice:
   cents: 4995
   currency: EUR
   value: 49.95
 slug: blend-denim-jeans-twister-black
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Blend Denim Jeans Twister | Black

@@ -1,12 +1,12 @@
-_id: 6a5618dbe90bd346e59be5f6
+_id: 6a5f3babda20339e426548b2
 appOnly: false
 brand: Haribo
 brands:
   - id: 274432d1-d2e6-593c-8d06-6d003bbd1e14
     name: Haribo
 categories:
-  - 0f3cc5ed-27c4-58bf-a0ee-0847cc20a77f
-classicId: '3334354'
+  - 1325eac6-8b46-522e-b444-ecfab09bba39
+classicId: '3347610'
 classicProductId: '716826'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 48341be3-480e-4bff-b718-fbcaad017b8b
+id: ad88f006-a0f0-4c75-8984-8fc96d9d41ca
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1936479
-  priority: 100
-  slug: haribo-logo
+    - all
+  extension: image/png
+  id: 330cd147-eecd-4160-8f53-9773f4b87485
+  priority: 0
+  slug: haribo-png-logo-0
   type: logo
-offerId: cbd4d22b-3d0c-4af6-b199-d4c780d18d95
+offerId: 221e9420-9d69-41a5-b138-f78496651a27
 price:
   cents: 1495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 34.5
 slug: 3x-haribo-happy-cherries-snoep-1-kg
 soldOut: false
-start: '2026-07-14T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: 3x Haribo Happy Cherries Snoep | 1 kg

@@ -1,12 +1,12 @@
-_id: 6a574cf6df8aa90ed34a9e6d
+_id: 6a5f390846388a054eddc9c4
 appOnly: false
 brand: National Geographic
 brands:
   - id: 1a0e500a-4ec3-56d6-8957-f7e9382ebc78
     name: National Geographic
 categories:
-  - 8340f883-4c87-56b5-9b7b-10281ba3ace6
-classicId: '3337936'
+  - f98489c2-1f04-57d8-b8cf-58be2012a23c
+classicId: '3346339'
 classicProductId: '716742'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 57f66132-27a8-400f-aa63-0e4db633caec
+id: 878211ed-788b-4e7b-b9e8-9edbcd986386
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1965362
-  priority: 100
-  slug: national-geographic-logo
+    - all
+  extension: image/png
+  id: fa091430-c38f-49a8-ba3a-69d59ec3b8d4
+  priority: 0
+  slug: national-geographic-png-logo-0
   type: logo
-offerId: 53452346-de75-4532-a834-9fef44d385e5
+offerId: eee704bb-291f-4d5d-9485-96c356e214dd
 price:
   cents: 9995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 199
 slug: bresser-national-geographic-explorer-7-4k-action-cam-60-fps-wifi
 soldOut: false
-start: '2026-07-15T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Bresser National Geographic Explorer 7 4K Action Cam | 60 fps | Wifi

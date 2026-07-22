@@ -1,12 +1,12 @@
-_id: 6a54ec4728ec43f3518ae11f
+_id: 6a5f3d622e7d1c39f01122d2
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 3948681d-b0ab-508f-9cb5-abfcf6bb3506
-classicId: '3330717'
+  - 1325eac6-8b46-522e-b444-ecfab09bba39
+classicId: '3348790'
 classicProductId: '705462'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 5e3d5b1d-89c5-4d03-8c3c-716a4dc93a94
+id: c2fe8949-c341-4a3c-8fa0-e3b4ff5cece7
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: be0a7d6c-57c4-4225-a01e-72cb9a6a80a7
-  priority: 0
-  slug: pampers-08-png-product-1
+  id: 9e9bda78-bf08-4834-bcc8-da03c6ca24f6
+  priority: 1
+  slug: pampers-01-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: pampers-logo
   type: logo
-offerId: f27b2c0d-7569-454b-a3be-ee0c825fead0
+offerId: dce9f643-3c3c-4ed8-b792-64d6722ce738
 price:
   cents: 1995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 51.99
 slug: 80x-pampers-premium-protection-luier-maat-5
-soldOut: true
-start: '2026-07-14T22:00:00.000Z'
+soldOut: false
+start: '2026-07-21T22:00:00.000Z'
 title: 80x Pampers Premium Protection Luier | Maat 5 | 11-16 kg

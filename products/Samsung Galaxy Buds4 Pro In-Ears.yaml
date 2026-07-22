@@ -1,32 +1,32 @@
-_id: 6a574d142fe1c59f4eabe013
+_id: 6a5f38e02e7d1c39f0111d6d
 appOnly: false
 brand: Samsung
 brands:
   - id: d925541a-b4c5-57e6-9497-016344a9a7ac
     name: Samsung
 categories:
-  - f78a3bc2-c4aa-530b-8503-39c7a10ac1cc
-classicId: '3337954'
-classicProductId: '705534'
+  - 722efd74-9d39-57fe-b213-e0b483a67485
+classicId: '3346250'
+classicProductId: '705533'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 32
-end: '2026-07-21T21:59:59.999Z'
+end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 810d98d9-126a-456d-b845-b679151c00af
+id: b45bd738-bbf4-4c13-8862-c07c8b2b6db1
 image:
   channels:
+    - app
+    - website
     - newsletter
     - all
-    - website
-    - app
   extension: image/png
-  id: f334d0ae-0d8d-4c2e-b50a-62011215592d-tr
+  id: e48fe536-001c-4a9d-8f97-d70c953d1e1f
   priority: 0
-  slug: 51hg2oo0nhl-ac-sl1500-jpg-product-1
+  slug: black-main-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: samsung-logo
   type: logo
-offerId: 89de2989-38ea-4fb9-81fb-88da2c17cb20
+offerId: ab7870da-b209-4fb6-af47-276e2be94f36
 price:
-  cents: 16995
+  cents: 16900
   currency: EUR
-  value: 169.95
+  value: 169
 referencePrice:
   cents: 24900
   currency: EUR
   value: 249
 slug: samsung-galaxy-buds4-pro-in-ears
 soldOut: true
-start: '2026-07-15T22:00:00.000Z'
+start: '2026-07-21T22:00:00.000Z'
 title: Samsung Galaxy Buds4 Pro In-Ears
