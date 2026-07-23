@@ -1,22 +1,22 @@
-_id: 6a5e1e09f0f5bca759de121e
+_id: 6a5e1dcbe7ec3a4cba758c83
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - beda7e73-e259-55f2-a17e-d65fe5d3ef2b
-classicId: '3343612'
-classicProductId: '639167'
+  - 58272182-5314-5563-af07-a6f077fad4f7
+classicId: '3343528'
+classicProductId: '639151'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 65
+directCheckout: true
+discount: 50
 end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 7ef472bc-8f59-4de1-9228-90807569c67a
+id: 937710d3-3062-4f1c-b279-0140274999bc
 image:
   channels:
     - website
@@ -37,16 +37,17 @@ logo:
   priority: 100
   slug: gorilla-wear-logo
   type: logo
-offerId: 2cd73136-7aa6-4610-8118-d4c6231e8349
+offerId: 859da98e-a2b0-4b84-b056-2eeec5cb64ee
 price:
-  cents: 1750
+  cents: 2495
   currency: EUR
-  value: 17.5
+  value: 24.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: gorilla-wear-lopez-shorts
-soldOut: false
+soldOut: true
 start: '2026-07-21T22:00:00.000Z'
 title: Gorilla Wear Lopez Shorts
+

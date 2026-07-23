@@ -1,22 +1,22 @@
-_id: 6a5f6761acf144c958c28204
+_id: 6a5f4033da20339e42654b8b
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
-classicId: '3352051'
-classicProductId: '694503'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350330'
+classicProductId: '702437'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
 end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 476d5a33-5ccf-4d2e-9bae-0753f93b53c9
+id: ca9de62d-3701-4ebd-8742-0318c108807f
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 18b006e3-4942-4ec6-8f78-3ecf27a33d2f
+offerId: 287ea263-b3c7-4100-8559-08e0613bf651
 price:
   cents: 2995
   currency: EUR
@@ -48,6 +48,7 @@ referencePrice:
   currency: EUR
   value: 59.99
 slug: petrol-cargo-shorts-heren
-soldOut: false
+soldOut: true
 start: '2026-07-21T22:00:00.000Z'
 title: Petrol Cargo Shorts | Heren
+n

@@ -1,22 +1,22 @@
-_id: 6a5f74a664e0c602f87d232c
+_id: 6a5f676be82abb7a17ad442f
 appOnly: false
 brand: Adidas
 brands:
   - id: bb74918f-af4d-5098-a84a-ff1e04a7f4e6
     name: Adidas
 categories:
-  - 1bb5fdf1-cc8e-588e-bec5-fb60a3f8520c
-classicId: '3352604'
-classicProductId: '717944'
+  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
+classicId: '3352059'
+classicProductId: '687167'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 53
+directCheckout: true
+discount: 44
 end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 2228c132-8c3c-4d2b-899e-5eb9357aac80
+id: c3dd759f-bcd7-4e9e-a004-33935d54b1ac
 image:
   channels:
     - app
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: adidas-logo
   type: logo
-offerId: 1bf2a0a8-8ccb-45e1-99da-857efbcecaae
+offerId: ffd610e7-6525-4cc6-8721-bc7ab04065bc
 price:
-  cents: 3770
+  cents: 4495
   currency: EUR
-  value: 37.7
+  value: 44.95
 referencePrice:
   cents: 7990
   currency: EUR
