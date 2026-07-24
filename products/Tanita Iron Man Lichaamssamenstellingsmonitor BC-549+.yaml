@@ -19,13 +19,14 @@ freeDelivery: false
 id: 883e6403-badd-4393-a05f-73d499f0df60
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 795508
-  priority: 100
-  slug: tanita-iron-man-weegschaal
+    - all
+  extension: image/png
+  id: c1605355-e9eb-4f72-b8c5-45d7f9a3f6ba
+  priority: 0
+  slug: main-png-product-0
   type: product
 logo:
   channels:

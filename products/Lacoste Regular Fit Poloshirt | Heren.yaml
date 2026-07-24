@@ -1,22 +1,22 @@
-_id: 6a5f64a264e0c602f87d1e28
+_id: 6a5f3ff9fb32eea1ca6c6c97
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
-classicId: '3351442'
-classicProductId: '640359'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350269'
+classicProductId: '640388'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 44
+directCheckout: true
+discount: 33
 end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 8ef86fbe-a37d-48c0-9ef8-e60a6d46ab65
+id: 4352ee2c-b4ee-40a4-bcb5-e4c82baef9c5
 image:
   channels:
     - app
@@ -34,15 +34,15 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 2252758
+  id: 1612112
   priority: 100
-  slug: lacoste-dh5522-51-t-shirt-herren
+  slug: lacoste-logo
   type: logo
-offerId: 9a29bb66-eca9-4164-b674-45f715079631
+offerId: 0469193e-ef57-4305-83ea-7410037a1bfa
 price:
-  cents: 4995
+  cents: 5995
   currency: EUR
-  value: 49.95
+  value: 59.95
 referencePrice:
   cents: 9000
   currency: EUR
@@ -51,3 +51,4 @@ slug: lacoste-dh5522-51-polo
 soldOut: false
 start: '2026-07-21T22:00:00.000Z'
 title: Lacoste Regular Fit Poloshirt | Heren
+it Poloshirt | Heren

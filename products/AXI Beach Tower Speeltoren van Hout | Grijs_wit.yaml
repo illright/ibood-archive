@@ -29,13 +29,14 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1968939
-  priority: 100
-  slug: pragma-logo
+    - all
+  extension: image/png
+  id: 772a1c38-18fa-4437-8298-af9cbbd64cce
+  priority: 0
+  slug: axi-logo-2-png-logo-1
   type: logo
 offerId: 3b30a6b8-b55d-5a49-ad3d-ab2291d9a14d
 price:

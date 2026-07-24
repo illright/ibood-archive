@@ -1,4 +1,4 @@
-_id: 6a5f1cbc64e0c602f87d052f
+_id: 6a61dcd264e0c602f87d27c4
 appOnly: false
 brand: Trio
 brands:
@@ -6,7 +6,7 @@ brands:
     name: Trio
 categories:
   - 1eb9e890-ba72-531b-8762-ebd4e2123e3c
-classicId: '3344576'
+classicId: '3354187'
 classicProductId: '690893'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 45
 end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 5c87f7e6-7af5-469d-914e-cb7c8f78af4d
+id: 5e8eb7bc-c204-4df4-9a27-9a1cd1092a51
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4e36c6cb-c575-4d51-a05c-6e8f3a61a5de-tr
+  id: 6ddc39f2-6b84-42fa-ba52-714b53d091df
   priority: 0
-  slug: trio-lightning-17-jpg-product-2
+  slug: trio-lightning-20-png-product-2
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1741315
-  priority: 100
-  slug: trio-logo
+    - all
+  extension: image/png
+  id: ccafe99a-2463-496f-b1e9-a70aea28ab86
+  priority: 0
+  slug: trio-png-logo-0
   type: logo
-offerId: 8fb15620-3d2f-4629-97b3-a9501cf60501
+offerId: 80c1adb1-337e-48cd-bba3-06d09cf4d945
 price:
   cents: 14900
   currency: EUR
