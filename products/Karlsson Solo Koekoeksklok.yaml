@@ -1,4 +1,4 @@
-_id: 6a5f24713425da4fda7f1d39
+_id: 6a5f246f3425da4fda7f1d37
 appOnly: false
 brand: Karlsson
 brands:
@@ -6,17 +6,17 @@ brands:
     name: Karlsson
 categories:
   - 5b36ec05-8b08-5d3e-8848-513caee613fe
-classicId: '3345031'
-classicProductId: '673252'
+classicId: '3345030'
+classicProductId: '673253'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
 end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 82defc8a-aebf-4a1a-9118-cd07719979b1
+id: 6650f950-31e3-4ad6-a83b-f7b53631346b
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 6d924453-0c2e-45b3-9eec-89cde99f5fb4-tr
+  id: cf3598c3-408d-49ec-88f7-2e93d067468c-tr
   priority: 0
-  slug: ka6080lg-karlsson-wall-clock-solo-color-cuckoo-grayed-jade-product-0
+  slug: ka6080rd-karlsson-wall-clock-solo-color-cuckoo-burgundy-red-product-3
   type: product
-offerId: 77c1d772-6978-4e74-995f-0da82eb15782
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1566233
+  priority: 100
+  slug: karlsson-logo
+  type: logo
+offerId: 60596de4-a1b4-4a35-83fa-fe19076069a7
 price:
   cents: 3995
   currency: EUR
@@ -36,12 +46,6 @@ price:
 referencePrice:
   cents: 7995
   currency: EUR
-  value: 79.95
-slug: karlsson-solo-cuckoo-wandklok
-soldOut: false
-start: '2026-07-21T22:00:00.000Z'
-title: Karlsson Solo Koekoeksklok
-y: EUR
   value: 79.95
 slug: karlsson-solo-cuckoo-wandklok
 soldOut: false
