@@ -1,22 +1,22 @@
-_id: 6a5f6829562cddeb6e81dd01
+_id: 6a5f40052e7d1c39f0112474
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
-classicId: '3352264'
-classicProductId: '673744'
+  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
+classicId: '3350290'
+classicProductId: '673804'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 79
+directCheckout: true
+discount: 81
 end: '2026-07-28T21:59:59.999Z'
 freeDelivery: false
-id: 821bc2bd-632e-4b4f-8436-4957f2d583b9
+id: e57f4f2e-c013-458c-a574-21f20d914adc
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 536ece16-72d6-4b21-8599-cfc03d6a45c0
+  id: a5e023e9-3699-4248-a2c4-681b08a38b62
   priority: 0
-  slug: petrol-94-png-product-1
+  slug: petrol-02-png-product-1
   type: product
 logo:
   channels:
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 2f1545e2-af23-4697-899f-36bfadec5508
+offerId: 2c11690f-2005-47af-8a23-2ce2d79e67bb
 price:
-  cents: 1695
+  cents: 1539
   currency: EUR
-  value: 16.95
+  value: 15.39
 referencePrice:
   cents: 7999
   currency: EUR
@@ -51,3 +51,4 @@ slug: petrol-gebreide-trui-met-ronde-hals-heren
 soldOut: false
 start: '2026-07-21T22:00:00.000Z'
 title: Petrol Gebreide Trui met Ronde Hals | Heren
+
