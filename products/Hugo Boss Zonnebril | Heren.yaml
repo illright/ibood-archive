@@ -1,34 +1,31 @@
-_id: 6a5f44e12e7d1c39f011253e
+_id: 6a688d7a907f06bbad42bc08
 appOnly: false
 brand: Hugo Boss
 brands:
   - id: ea8978ea-f226-5c2a-bb5f-4458ac381560
     name: Hugo Boss
 categories:
-  - 742f9729-408b-5a4b-9072-33342de6d12e
-classicId: '3350483'
-classicProductId: '536981'
+  - cf39d4ea-ff1c-5132-b980-59ecfb03a224
+classicId: '3362450'
+classicProductId: '466237'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 61
-end: '2026-07-28T21:59:59.999Z'
+discount: 65
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: c8276269-05da-4d29-ac4c-41fa57665044
+id: f4514152-e078-44ee-9824-a634a8db2827
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - app
-    - website
-  extension: image/png
-  id: ad2b06d6-bd5e-4780-a5d4-f2286ea5c474-tr
+  extension: png
+  id: 1571137
   priority: 0
-  slug: hugo-boss-1246s-sonnenbrille-herren-jpg-product-1
+  slug: hugo-boss-zonnebril-heren
   type: product
 logo:
   channels:
@@ -40,16 +37,16 @@ logo:
   priority: 100
   slug: hugo-boss-logo
   type: logo
-offerId: 4ddb6c82-9b7b-4c34-bac6-38f903b99543
+offerId: 65593dfe-50ea-4b15-9c3b-1d2876e9b830
 price:
-  cents: 7995
+  cents: 5995
   currency: EUR
-  value: 79.95
+  value: 59.95
 referencePrice:
-  cents: 20500
+  cents: 17000
   currency: EUR
-  value: 205
-slug: hugo-boss-zonnebril
-soldOut: true
-start: '2026-07-21T22:00:00.000Z'
+  value: 170
+slug: hugo-boss-zonnebril-heren
+soldOut: false
+start: '2026-07-28T22:00:00.000Z'
 title: Hugo Boss Zonnebril | Heren

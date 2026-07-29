@@ -1,22 +1,22 @@
-_id: 6a5e1d9e71781916b596a008
+_id: 6a633607588d29328d851fe0
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 58272182-5314-5563-af07-a6f077fad4f7
-classicId: '3343498'
-classicProductId: '717546'
+  - aef1ec79-dba1-516f-a5db-741a25f2d078
+classicId: '3355254'
+classicProductId: '717548'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 37
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 43d201ba-5066-46da-a418-0012443eafb0
+id: c3b26610-0cb9-44ca-8127-1eb55e6da082
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: bjorn-borg-logo
   type: logo
-offerId: 5a45f4e9-f725-4ac5-809f-0f067cd1f62d
+offerId: 253020e8-178f-43d8-acb7-d965cf09d61b
 price:
   cents: 1250
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 19.9
 slug: 6-paar-bjorn-borg-essential-sokken-unisex-white
-soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+soldOut: true
+start: '2026-07-28T22:00:00.000Z'
 title: 6 Paar Björn Borg Essential Sokken | Unisex | White

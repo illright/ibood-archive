@@ -1,12 +1,12 @@
-_id: 6a5f3f04da20339e42654ae3
+_id: 6a68949a07f7b430293d1947
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
-classicId: '3350110'
+  - 4a2aa7a4-ac54-5c4a-80c7-a5185c69d562
+classicId: '3364531'
 classicProductId: '696169'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 035cc377-22ae-4dfa-9564-53c735e5d4d7
+id: c5ae322f-9061-403b-88e7-a034b2202ecb
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 353e5fe4-b044-49af-8827-2e7fd4f2f964
+  id: 29e95bf2-7979-4e7c-9dc6-b1ce46a64bfa
   priority: 0
-  slug: boxer-png-product-1
+  slug: bjorn-borg-02-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1d9b4201-a021-47b6-83f0-67a80b9a7b47
-  priority: 0
-  slug: bjorn-borg-png-logo-0
+  extension: png
+  id: 2030715
+  priority: 100
+  slug: bjorn-borg-logo
   type: logo
-offerId: 5a7d0c39-9d4f-4a5c-8287-1fe026910737
+offerId: 0497d9dc-bc14-4f68-a367-12288d9aef81
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 69.95
 slug: 5x-bjorn-borg-boxershort-cotton-stretch-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: '5x Björn Borg Boxershort Cotton Stretch | Heren '

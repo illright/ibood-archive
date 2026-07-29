@@ -1,22 +1,22 @@
-_id: 6a5f401064e0c602f87d1a1c
+_id: 6a68aa53bf2f0943eb2d1627
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
-classicId: '3350303'
+  - d586978f-a217-5555-adc0-9fa9eac46feb
+classicId: '3365621'
 classicProductId: '648042'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
-discount: 50
-end: '2026-07-28T21:59:59.999Z'
+discount: 57
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: bd9ee62a-b159-4bac-afa2-500f4e910dd0
+id: dd4b979b-1f08-479a-bf07-30c27de14917
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a2b5416c-a7dc-4928-bc83-de4dc75b572c
-  priority: 0
-  slug: 2252842-png-logo-0
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
   type: logo
-offerId: 2c9d3b07-1238-40d6-9c78-f3c5c276a026
+offerId: e24cd373-e882-4c2e-ac67-2b063d444f8e
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 7000
   currency: EUR
   value: 70
 slug: lacoste-t03-flamingo-th2739-51-1ht1-tee-shirt
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Lacoste Jersey T-Shirt | Flamingo

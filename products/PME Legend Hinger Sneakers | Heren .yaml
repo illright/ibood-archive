@@ -1,12 +1,12 @@
-_id: 6a5f3efd6b4242b14738ab15
+_id: 6a631b1af6eb6414c12ea8e5
 appOnly: false
 brand: PME Legend
 brands:
   - id: 9c38479a-ce20-5e2e-bcab-88b0a1bd612b
     name: PME Legend
 categories:
-  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
-classicId: '3350108'
+  - 58eea00b-f5ee-5c58-b57d-37b60168100a
+classicId: '3354825'
 classicProductId: '658803'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 71
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: d9f93fa6-daf2-40d0-b7bd-2b2272c89ca3
+id: 9eb1b04f-9f67-47c7-a4a0-de743493fb77
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 704c1e9f-97cd-41e1-908c-6ce35a29299a
+  id: a7530c13-21ac-4b26-89ba-505e2ce69c11
   priority: 0
-  slug: pme-legend-03-png-product-1
+  slug: pme01-png-product-2
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: pme-legend-logo
   type: logo
-offerId: dd789f27-8827-4cb0-a93a-e4636ac0b48a
+offerId: 69657030-d327-4d5e-bc5c-e5681265e4cc
 price:
   cents: 3500
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 119.99
 slug: pme-legend-hinger-sneakers-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 'PME Legend Hinger Sneakers | Heren '

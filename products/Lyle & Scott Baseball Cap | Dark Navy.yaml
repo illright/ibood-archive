@@ -1,12 +1,12 @@
-_id: 6a5df24ea050ea3548d0bb0a
+_id: 6a6891a9907f06bbad42bdea
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 73d17398-5ce7-56a4-82dc-387260d1705b
-classicId: '3342830'
+  - 99cce8c8-5d5f-5b5c-847c-2d46ff6f68cb
+classicId: '3362982'
 classicProductId: '690710'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 32
-end: '2026-07-28T21:59:59.000Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 04dc0291-45d7-4352-b079-1bcb2efd56fc
+id: 4b6c611e-fa22-4cd5-95d9-fbeff661d89c
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lyle-scott-logo
   type: logo
-offerId: e24a990f-8977-411e-9338-12bf33933336
+offerId: 8a0ac492-9b36-4ae2-9475-ffac8c5ae922
 price:
   cents: 1695
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 25
 slug: lyle-scott-baseball-cap-gunmetal
-soldOut: false
-start: '2026-07-20T22:00:00.000Z'
+soldOut: true
+start: '2026-07-28T22:00:00.000Z'
 title: Lyle & Scott Baseball Cap | Dark Navy

@@ -1,22 +1,22 @@
-_id: 6a5f248364e0c602f87d084d
+_id: 6a6874e0137845439bb8807f
 appOnly: false
 brand: Karlsson
 brands:
   - id: 2a245bc8-3c61-5ab4-bfec-d4e2e10018f3
     name: Karlsson
 categories:
-  - 5b36ec05-8b08-5d3e-8848-513caee613fe
-classicId: '3345053'
+  - f6043c57-1563-58b4-9921-f8dbfdb5ad2d
+classicId: '3360088'
 classicProductId: '654223'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 66
-end: '2026-07-28T21:59:59.999Z'
+discount: 69
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: a5685a54-6a57-4dbe-bbb9-aff5cdb77cf3
+id: 6ba3e1b0-fbed-4332-80d1-c16c7ad15201
 image:
   channels:
     - app
@@ -32,25 +32,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8690fd52-26a5-434a-90f2-1583d1f07874
-  priority: 0
-  slug: karlsson-boxed-flip-tischuhr-png-logo-0
+  extension: png
+  id: 1566233
+  priority: 100
+  slug: karlsson-logo
   type: logo
-offerId: 75638a17-846c-41f2-86ff-54ff794efe6c
+offerId: 6696fcf4-1f59-46c5-ae38-28a6eb292899
 price:
-  cents: 5495
+  cents: 4995
   currency: EUR
-  value: 54.95
+  value: 49.95
 referencePrice:
   cents: 16050
   currency: EUR
   value: 160.5
 slug: karlsson-box-flip-tafelklok-neon-yellow
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Karlsson Box Flip Tafelklok | Neon Yellow

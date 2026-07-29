@@ -1,12 +1,12 @@
-_id: 6a61c116b25dba6ca02164e9
+_id: 6a6874e7c1ded6fa2826f833
 appOnly: false
 brand: Playmobil
 brands:
   - id: 34463654-9a0b-5c50-9623-0408ec8cb929
     name: Playmobil
 categories:
-  - 5475dfb5-a609-5b62-9db1-d6388066a7de
-classicId: '3353689'
+  - 70bb8a4d-0f8a-5a9e-a790-70a2b7d93bae
+classicId: '3360116'
 classicProductId: '718954'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: d8de65a9-b7ad-5f5b-ad14-cf7ae4b27063
+id: b7ac8882-3dcf-472a-936f-c5ab940f176b
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: playmobil-knight-s-birthday-gift-set-product-0
   type: product
-offerId: 8d647d27-1bd8-5859-8f55-ec283e470159
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1761749
+  priority: 100
+  slug: playmobil-logo
+  type: logo
+offerId: fb43669f-1d8b-45ad-9213-d1ca6d34f649
 price:
   cents: 795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 14.99
 slug: playmobil-ridderverjaardag-cadeauset-43-delig
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Playmobil Ridderverjaardag Cadeauset | 43-delig

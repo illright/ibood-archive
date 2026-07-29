@@ -1,12 +1,12 @@
-_id: 6a58cbd30ae9073349414518
+_id: 6a6899d2b0cf3e41e37766fa
 appOnly: false
 brand: Samsung
 brands:
   - id: d925541a-b4c5-57e6-9497-016344a9a7ac
     name: Samsung
 categories:
-  - f98489c2-1f04-57d8-b8cf-58be2012a23c
-classicId: '3340126'
+  - 13a6a1fe-19b6-5f75-bc32-655860b6610f
+classicId: '3365027'
 classicProductId: '716908'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 52
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-05T21:59:59.999Z'
 freeDelivery: false
-id: 61c21d66-56a7-5bc2-b7ba-13597e8fed2a
+id: b27009fe-4530-4122-8f87-f77eb86b8a91
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: bb6c1ce6-b49e-45b3-bad1-b5f93936cc8c
-  priority: 0
-  slug: samsung-png-logo-0
+  extension: png
+  id: 1685320
+  priority: 100
+  slug: samsung-logo
   type: logo
-offerId: 63a1017a-e008-53f9-9b2d-07645ac0c427
+offerId: 084eb1ef-ebec-40c7-b706-89f62d8dafd3
 price:
   cents: 27900
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 579
 slug: samsung-37-viewfinity-s7-4k-uhd-monitor
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Samsung 37" ViewFinity S7 4K UHD Monitor

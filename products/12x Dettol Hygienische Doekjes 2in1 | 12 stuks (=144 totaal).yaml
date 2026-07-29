@@ -1,12 +1,12 @@
-_id: 6a561d7ce1628cff6fbd46bc
+_id: 6a687c2b6c3ec283f6fcb534
 appOnly: false
 brand: Dettol
 brands:
   - id: 01d29168-09cd-54d2-85a1-4c1204fe4f2d
     name: Dettol
 categories:
-  - 1325eac6-8b46-522e-b444-ecfab09bba39
-classicId: '3335554'
+  - 5700cf0c-98c8-5205-9b3a-807229294f4c
+classicId: '3361085'
 classicProductId: '719993'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 74375494-87ec-5b30-aecb-3c2dc65c1c1c
+id: 17a36a7d-d809-44b7-90c0-ea76739e4437
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 15e0a400-30ee-4162-a3a8-12d32f39396d
-  priority: 0
-  slug: dettol-png-logo-0
+  extension: png
+  id: 1754153
+  priority: 100
+  slug: dettol-logo
   type: logo
-offerId: b5295eaa-473b-5a95-ba64-553d092dc7fb
+offerId: 3bfe27e9-87da-4657-b22f-9a9afba8331e
 price:
   cents: 1695
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 43.79
 slug: 12x-dettol-hygienische-doekjes-2in1-12-stuks
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 12x Dettol Hygienische Doekjes 2in1 | 12 stuks (=144 totaal)

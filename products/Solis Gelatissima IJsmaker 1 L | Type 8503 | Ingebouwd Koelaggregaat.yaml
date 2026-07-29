@@ -1,12 +1,12 @@
-_id: 6a5f39be1c58e757337860ba
+_id: 6a686f0de8beb8794ddda78e
 appOnly: false
 brand: Solis
 brands:
   - id: 1abd1a6b-4fdf-59e5-aca3-9ac51bbb923c
     name: Solis
 categories:
-  - 886f9f88-2ad4-5cb4-9e1b-85cc5a5c2d96
-classicId: '3346767'
+  - 5cc7addb-8ba8-540d-a443-4659cdf7d9db
+classicId: '3359544'
 classicProductId: '604612'
 deliveryPrice:
   cents: 895
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 52
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: b230941d-fb3a-4a9e-804e-87b3ce63fa73
+id: 0062365d-bc3b-4de7-a0c3-63ec024d9c27
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2097559
+    - all
+  extension: image/png
+  id: 4e844a7c-8aba-4cd5-b8f6-5bd6fa8897e0
   priority: 0
-  slug: solis-gelatissima-eismaschine
+  slug: ijserino-2-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: solis-logo
   type: logo
-offerId: 6b8b43fa-5a4d-4614-a8f3-4ca0263dc1b6
+offerId: 4baf9be3-60ef-4ba2-9ff4-275ef8628e6d
 price:
   cents: 11900
   currency: EUR
@@ -46,7 +47,7 @@ referencePrice:
   cents: 24990
   currency: EUR
   value: 249.9
-slug: solis-gelatissima-ijsmaker-1-l-type-8503
+slug: solis-gelatissima-ijsmaker-1-l-type-8503-ingebouwd-koelaggregaat
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Solis Gelatissima IJsmaker 1 L | Type 8503 | Ingebouwd Koelaggregaat

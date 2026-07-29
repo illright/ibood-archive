@@ -1,12 +1,12 @@
-_id: 6a63163b588d29328d851ece
+_id: 6a67604f6f99a7759f4457ba
 appOnly: false
 brand: Capi Europe
 brands:
   - id: 1f53b45a-5800-5665-a069-72714ca8a89b
     name: Capi Europe
 categories:
-  - 950bf527-a7b5-5570-9af1-41459cebe483
-classicId: '3354711'
+  - 5bb39958-edd2-5c6f-b838-8873fe108329
+classicId: '3357831'
 classicProductId: '712732'
 deliveryPrice:
   cents: 895
@@ -14,23 +14,32 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 0c7ecbd6-c4c3-4cd0-93c6-b1c63ff73e64
+id: fdc50c68-874c-44db-8810-93dc2b96c910
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - website
-    - app
   extension: image/png
   id: 3790aa33-feeb-4918-8bc2-2f4fc39004e9-tr
   priority: 0
   slug: capi-europe-vase-elegant-deluxe-clay-nl-50x72-ivory-kivc1138-product-0
   type: product
-offerId: 65825cc0-c1c0-4046-80f0-8c97e264cd9c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e1b244eb-d9e4-4c99-b06f-32f37ea9df18
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: 838524dc-e1e9-47a3-90fa-0d8ef0055ebb
 price:
   cents: 8295
   currency: EUR
@@ -41,5 +50,5 @@ referencePrice:
   value: 175
 slug: capi-europe-nature-clay-nl-bloempot-50-x-72-cm-black
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Capi Europe Nature Clay NL Bloempot | 50 x 72 cm | Ivory

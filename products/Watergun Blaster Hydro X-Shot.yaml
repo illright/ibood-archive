@@ -1,22 +1,22 @@
-_id: 6a5f26c164e0c602f87d08fe
+_id: 6a675dd1e1b8f5ebc5e76f2f
 appOnly: false
 brand: Zuru
 brands:
   - id: ed610127-29d8-5b28-8a9c-f4ff97e922ce
     name: Zuru
 categories:
-  - 3b1887b8-b77a-53a6-afe2-16344938d200
-classicId: '3345161'
+  - 4b2f9e8b-5525-5126-88cd-810596bc2bc5
+classicId: '3357770'
 classicProductId: '700356'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 64
-end: '2026-07-28T21:59:59.999Z'
+discount: 68
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: e85861db-68df-45a5-a06e-5c9a13cffd16
+id: 6790830c-7a6e-464c-a4c2-d5869299fc7d
 image:
   channels:
     - app
@@ -24,20 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 0591ace3-bed3-4cae-a5d5-8d680ffaf260-tr
+  id: 0591ace3-bed3-4cae-a5d5-8d680ffaf260-tr-cr
   priority: 0
   slug: zuru-watergun-blaster-hydro-x-shot-product-0
   type: product
-offerId: 828f5732-a282-42cb-a96f-a5b416ce3efa
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3d6839cc-a593-4981-8b68-8a1322c69d8a
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: 2103fee2-68fd-4834-9e0d-7cb366b1d467
 price:
-  cents: 895
+  cents: 795
   currency: EUR
-  value: 8.95
+  value: 7.95
 referencePrice:
   cents: 2495
   currency: EUR
   value: 24.95
 slug: watergun-blaster-hydro-x-shot
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Watergun Blaster Hydro X-Shot

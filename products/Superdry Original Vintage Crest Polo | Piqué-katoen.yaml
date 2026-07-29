@@ -1,12 +1,12 @@
-_id: 6a5f65ae64e0c602f87d1f52
+_id: 6a6892ea2e8f7f54255163df
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
-classicId: '3351602'
+  - 665b734e-0da2-5acf-8249-103f2a05e970
+classicId: '3363786'
 classicProductId: '716569'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 51
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 7e1d0e7d-ecf3-40f2-b7fa-1a57a12868d0
+id: 34451de5-3b99-4dfe-867b-37a858bbae56
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd021-png-product-1
   type: product
-offerId: c9c58cd2-ef19-4aa7-bc24-f17bcbeddc6e
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 28c5cb5a-f2de-44c1-99b9-a77136a29787
 price:
   cents: 2695
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 54.99
 slug: superdry-original-vintage-crest-polo-pique-katoen
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Superdry Original Vintage Crest Polo | Piqué-katoen

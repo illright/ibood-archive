@@ -1,22 +1,22 @@
-_id: 6a5f3fb52e7d1c39f0112450
+_id: 6a68aa16bf2f0943eb2d15cf
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
-classicId: '3350234'
+  - d586978f-a217-5555-adc0-9fa9eac46feb
+classicId: '3365565'
 classicProductId: '661097'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 58
-end: '2026-07-28T21:59:59.999Z'
+discount: 63
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: ce76151f-784d-432b-8ca3-39dea6b1de84
+id: 697d8462-a465-4402-ad6b-b156257e5a6c
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: pace-sneaker-png-product-1
   type: product
-offerId: 8307984b-824e-447d-9d8e-37f8d473448e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1734464
+  priority: 100
+  slug: clarks-logo
+  type: logo
+offerId: 979fdbde-f263-4a70-b743-c486873d5d76
 price:
-  cents: 4995
+  cents: 4495
   currency: EUR
-  value: 49.95
+  value: 44.95
 referencePrice:
   cents: 12000
   currency: EUR
   value: 120
 slug: clarks-craft-pace-sneakers-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Clarks Craft Pace Sneakers | Heren

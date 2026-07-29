@@ -1,22 +1,22 @@
-_id: 6a5f68690dca59a2ec564164
+_id: 6a6894282e8f7f54255164b8
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
-classicId: '3352315'
+  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
+classicId: '3364380'
 classicProductId: '679718'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 64
-end: '2026-07-28T21:59:59.999Z'
+discount: 68
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 4f1f07b9-8723-4f4e-9754-8baaf2116a4a
+id: dd939f44-965e-447a-b1bd-633d66473270
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6542abee-b84f-4775-b29b-0d89647e05b7
-  priority: 0
-  slug: jack-and-jones-chino-shorts-herren-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 9dfa5bfc-966e-46be-bd08-6160ad44cddb
+offerId: ebfe1227-b999-4424-b6db-b963b26ff72c
 price:
-  cents: 1795
+  cents: 1595
   currency: EUR
-  value: 17.95
+  value: 15.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: jack-jones-nico-jogger-black
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Jack & Jones Nico Jogger | Black

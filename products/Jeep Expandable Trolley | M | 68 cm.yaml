@@ -1,22 +1,22 @@
-_id: 6a5df24693ea251e0b042747
+_id: 6a6891973ed86c1b9756fa57
 appOnly: false
 brand: Jeep
 brands:
   - id: 36c8c9f2-6e90-5081-a4b4-79c7905fd6a0
     name: Jeep
 categories:
-  - 73d17398-5ce7-56a4-82dc-387260d1705b
-classicId: '3342817'
+  - 99cce8c8-5d5f-5b5c-847c-2d46ff6f68cb
+classicId: '3362908'
 classicProductId: '690626'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 62
-end: '2026-07-28T21:59:59.000Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 1633aab1-1b36-4fe5-9b77-c90c92d3fb2f
+id: 828c367b-48f1-42af-9771-ad7d09af87b9
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: jeep-by-delsey-02-png-product-1
   type: product
-offerId: 6faf6a89-49fe-4e99-8120-76b6a790ccb2
+offerId: 0c9a9f1b-5b5b-414a-823e-837ad0150cbd
 price:
   cents: 5995
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 159
 slug: jeep-expandable-trolley-m-68-cm
-soldOut: false
-start: '2026-07-20T22:00:00.000Z'
+soldOut: true
+start: '2026-07-28T22:00:00.000Z'
 title: Jeep Expandable Trolley | M | 68 cm

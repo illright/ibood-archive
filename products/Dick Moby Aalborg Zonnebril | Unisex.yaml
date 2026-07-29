@@ -1,22 +1,22 @@
-_id: 6a5f447546388a054eddcb87
+_id: 6a6890cb3ed86c1b9756f908
 appOnly: false
 brand: Dick Moby
 brands:
   - id: 4b372d49-1e46-5997-9747-531920cd1629
     name: Dick Moby
 categories:
-  - 361d4536-1b35-5a09-b9cd-1ae91423653e
-classicId: '3350428'
+  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
+classicId: '3362608'
 classicProductId: '682582'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 83
-end: '2026-07-28T21:59:59.999Z'
+discount: 90
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: e8266ac0-e94a-4659-934d-1fd5a60873f5
+id: c7d749f3-6a57-4865-9709-fa78dc2a185e
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a7a8e4be-4422-4332-96e8-8aba3de3ee2e
-  priority: 0
-  slug: dick-moby-logo-png-logo-0
+  extension: png
+  id: 1902325
+  priority: 100
+  slug: dick-moby-logo
   type: logo
-offerId: f9888a44-bdc0-49fc-a4cf-2bc6abfa6d09
+offerId: 6e2fe52d-eda7-46e4-b9d4-7fc8126096e2
 price:
-  cents: 3495
+  cents: 1995
   currency: EUR
-  value: 34.95
+  value: 19.95
 referencePrice:
   cents: 21000
   currency: EUR
   value: 210
 slug: dick-moby-aalborg-zonnebril-unisex
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Dick Moby Aalborg Zonnebril | Unisex

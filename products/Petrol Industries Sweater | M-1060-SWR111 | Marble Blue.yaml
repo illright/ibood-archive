@@ -1,22 +1,22 @@
-_id: 6a5f681c3425da4fda7f2f0a
+_id: 6a6894122e8f7f542551648a
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
-classicId: '3352231'
+  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
+classicId: '3364281'
 classicProductId: '698334'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 60
-end: '2026-07-28T21:59:59.999Z'
+discount: 64
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: bf67a3ec-2eec-4c17-af32-0e837e970708
+id: 420afc3a-20a2-4686-bc5e-6a1df594264b
 image:
   channels:
     - app
@@ -32,25 +32,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 24a1ad68-d89c-4559-862a-1eea1c0bb58f
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: a797d55a-f5cc-427b-bdfc-bccd53992953
+offerId: e4250050-a297-4197-8e86-6b9d213891e6
 price:
-  cents: 1995
+  cents: 1795
   currency: EUR
-  value: 19.95
+  value: 17.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: petrol-industries-sweater-m-1060-swr111-navy-blue
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Petrol Industries Sweater | M-1060-SWR111 | Marble Blue

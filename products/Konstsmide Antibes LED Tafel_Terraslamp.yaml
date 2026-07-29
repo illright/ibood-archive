@@ -1,12 +1,12 @@
-_id: 6a5f20df29822ec519b7cda6
+_id: 6a675c8119c9d2db0b16f0b0
 appOnly: false
 brand: Konstsmide
 brands:
   - id: 6a9cb158-e536-5cac-b976-6d1094ec0f0a
     name: Konstsmide
 categories:
-  - 950bf527-a7b5-5570-9af1-41459cebe483
-classicId: '3344826'
+  - 85c247f6-51eb-5cdd-86d8-b59ffbfd19b1
+classicId: '3357698'
 classicProductId: '529193'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: d638112d-974e-4988-b51f-23fa3e7c23d9
+id: dc959f9b-c35f-471f-9182-effa0a23ede8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1794319
+    - all
+  extension: image/png
+  id: 07581783-f9b0-4cd3-a2a8-6fdb1f9a0152-tr
   priority: 0
-  slug: konstsmide-antibes-led-tafelterraslamp
+  slug: product-11
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: konstsmide-logo
   type: logo
-offerId: f3cb64f1-b5d7-46c8-baa6-a1ea019c89ee
+offerId: 82b58473-e7ac-4d8d-9992-74251bfd7d39
 price:
   cents: 3995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 109
 slug: konstsmide-antibes-led-tafelterraslamp
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Konstsmide Antibes LED Tafel/Terraslamp

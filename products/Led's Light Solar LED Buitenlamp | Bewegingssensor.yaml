@@ -1,12 +1,12 @@
-_id: 6a5f20c964e0c602f87d06c1
+_id: 6a675c74e1b8f5ebc5e76ecb
 appOnly: false
 brand: LED's Light
 brands:
   - id: 5c86dcfb-7e8e-5bfb-b35e-3bc7870052d9
     name: LED's Light
 categories:
-  - 950bf527-a7b5-5570-9af1-41459cebe483
-classicId: '3344794'
+  - 85c247f6-51eb-5cdd-86d8-b59ffbfd19b1
+classicId: '3357684'
 classicProductId: '146077'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: fba1d374-913e-401e-a20c-998fb53b7762
+id: 44484282-7fc8-4820-a811-970b078e4d52
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 397001
-  priority: 1
-  slug: leds-light-solar-buitenlamp
+    - all
+  extension: image/png
+  id: 8764c893-7217-48d7-8644-bea412549c34-cr-tr
+  priority: 0
+  slug: product-5
   type: product
 logo:
   channels:
@@ -38,7 +39,7 @@ logo:
   priority: 101
   slug: led-s-light-logo-101
   type: logo
-offerId: 98902bd4-2e60-4b91-8f24-03e6e7ab477f
+offerId: 54762cc6-e304-4458-84da-0684d06498b6
 price:
   cents: 4495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 79.98
 slug: leds-light-solar-buitenlamp
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Led's Light Solar LED Buitenlamp | Bewegingssensor

@@ -1,53 +1,54 @@
-_id: 6a5f2f6d29822ec519b7d5f0
+_id: 6a68750d1cdc4c1bc74bc832
 appOnly: false
 brand: Ten Cate by Twentse Damast
 brands:
   - id: ae153c32-914b-5b3a-bf92-9fac2a91ee99
     name: Ten Cate by Twentse Damast
 categories:
-  - 64de82b4-37ff-5e24-bc10-6ca64e0b9762
-classicId: '3346072'
-classicProductId: '511110'
+  - 6fd093f9-f422-58dc-a011-6fa436aee92d
+classicId: '3360217'
+classicProductId: '511104'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 60
-end: '2026-07-28T21:59:59.999Z'
+discount: 54
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: fa380732-43a6-498f-aecb-603fa6ecf92f
+id: dba03b4d-f417-48ab-81a9-c7adf7433ab6
 image:
   channels:
-    - app
     - website
-  extension: jpg
-  id: 1733394
+    - app
+    - newsletter
+  extension: png
+  id: 2003686
   priority: 0
   slug: twentse-damast-badjas-unisex
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c66f8898-9d31-4121-be82-336ef38cfef3
-  priority: 0
-  slug: ten-cate-by-twentse-damast-logo-0
+  extension: png
+  id: 1725141
+  priority: 100
+  slug: twentse-damast-badjas-unisex
   type: logo
-offerId: 0be894ef-6a03-4828-90c9-5638bb377f65
+offerId: 6e4045ac-8ec3-4cd9-8fb3-3a2701844836
 price:
-  cents: 1995
+  cents: 2295
   currency: EUR
-  value: 19.95
+  value: 22.95
 referencePrice:
   cents: 4995
   currency: EUR
   value: 49.95
 slug: twentse-damast-badjas-unisex
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Twentse Damast Badjas | Unisex
-Badjas | Unisex
+00.000Z'
+title: Twentse Damast Badjas | Unisex

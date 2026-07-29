@@ -1,12 +1,12 @@
-_id: 6a5f6d0364e0c602f87d220f
+_id: 6a6890d686ade99544d91fc7
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - 124f41a5-a41a-5be2-93d1-f03bd0c50e18
-classicId: '3352411'
+  - c70f7ba2-7546-5bbe-99c3-6516b8880aa8
+classicId: '3362629'
 classicProductId: '714739'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 55
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: bcf0b0f9-0c5c-4781-bfc9-07f9dd9e167a
+id: de1c6e38-cc5c-4bc1-8111-1abfbcaad6a5
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c2a27493-837d-4de2-8ee6-eaef586b72b3
-  priority: 0
-  slug: nubikk-logo-png-logo-0
+  extension: png
+  id: 1662615
+  priority: 100
+  slug: nubikk-logo
   type: logo
-offerId: b1fc53a8-ef86-4697-baec-791c714bdceb
+offerId: c8606583-7226-43ce-909e-405ddfe5562c
 price:
   cents: 8995
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 200
 slug: nubikk-jagger-roman-leren-sneaker-white
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Nubikk Jagger Roman Leren Sneaker | White

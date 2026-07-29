@@ -1,22 +1,22 @@
-_id: 6a61e349106052a697fb92eb
+_id: 6a676109e1b8f5ebc5e77064
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 950bf527-a7b5-5570-9af1-41459cebe483
-classicId: '3354531'
-classicProductId: '719536'
+  - 8a549d14-7ca8-5df3-b002-481cf5610c8a
+classicId: '3357937'
+classicProductId: '719539'
 deliveryPrice:
   cents: 2995
   currency: EUR
   value: 29.95
 directCheckout: true
-discount: 48
-end: '2026-07-28T21:59:59.999Z'
+discount: 61
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 87dcca6a-57bd-409f-af10-8676484ebc4c
+id: 1c4c6706-94e0-4390-887e-a854db1391ce
 image:
   channels:
     - app
@@ -30,26 +30,26 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 19c406ff-378b-4bcd-98f4-3fa0df40405b
-  priority: 0
-  slug: hartman-png-logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: 31325162-ef2e-4727-a405-0241061b9869
+offerId: 47fc443c-8ede-400b-99c0-d6f9c3ce9375
 price:
-  cents: 27900
+  cents: 20900
   currency: EUR
-  value: 279
+  value: 209
 referencePrice:
   cents: 53970
   currency: EUR
   value: 539.7
 slug: 6x-hartman-jill-rondo-tuinstoel
-soldOut: true
-start: '2026-07-21T22:00:00.000Z'
+soldOut: false
+start: '2026-07-28T22:00:00.000Z'
 title: 6x Hartman Jill Rondo Tuinstoel
-
+:00.000Z'
+title: 6x Hartman Jill Rondo Tuinstoel

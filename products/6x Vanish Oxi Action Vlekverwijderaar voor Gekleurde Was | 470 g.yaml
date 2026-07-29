@@ -1,12 +1,12 @@
-_id: 6a5f3e109520c163331eb3b7
+_id: 6a687ce3907f06bbad42b930
 appOnly: false
 brand: Vanish
 brands:
   - id: f691a1cc-f37f-5999-93f1-dbfc4faa1849
     name: Vanish
 categories:
-  - 1325eac6-8b46-522e-b444-ecfab09bba39
-classicId: '3349760'
+  - 5700cf0c-98c8-5205-9b3a-807229294f4c
+classicId: '3361539'
 classicProductId: '717888'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: b7c5b40c-0368-4381-99c1-51f9030226d8
+id: 744b7307-4387-46c8-a624-a1f970ba3f4d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5a5ec6eb-10aa-4c68-beaf-6fb08e8b9280
-  priority: 0
-  slug: vanish-png-logo-0
+  extension: png
+  id: 1968899
+  priority: 100
+  slug: vanish-logo
   type: logo
-offerId: e987372c-b48f-4bc1-8046-9e53422f2391
+offerId: 664223e0-683f-49d9-9420-8f5cb1dc0ad3
 price:
   cents: 1395
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 53.94
 slug: 6x-vanish-oxi-action-vlekverwijderaar-pink-470-g
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 6x Vanish Oxi Action Vlekverwijderaar voor Gekleurde Was | 470 g

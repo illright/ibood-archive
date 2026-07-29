@@ -1,22 +1,22 @@
-_id: 6a5f66d73425da4fda7f2e85
+_id: 6a68aac979de187d4d054992
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
-classicId: '3351858'
-classicProductId: '694396'
+  - d586978f-a217-5555-adc0-9fa9eac46feb
+classicId: '3365723'
+classicProductId: '694407'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 58
-end: '2026-07-28T21:59:59.999Z'
+directCheckout: true
+discount: 50
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: e8733e78-c1c5-408a-804a-a39b8b9d476f
+id: 4b69354a-db3d-4a01-9500-a07be0bce1d8
 image:
   channels:
     - app
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 75c43dda-7950-4dc7-8e8d-a5ebeacff154
+offerId: 5eaa8902-206d-44eb-831d-d9887b63521a
 price:
-  cents: 2495
+  cents: 2995
   currency: EUR
-  value: 24.95
+  value: 29.95
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: petrol-industries-vest-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Petrol Industries Vest | Heren
+

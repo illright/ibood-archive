@@ -1,22 +1,22 @@
-_id: 6a5f6d0f64e0c602f87d221c
+_id: 6a689193907f06bbad42bda5
 appOnly: false
 brand: Mizuno
 brands:
   - id: 4fec73e8-8c86-58da-9eab-cfab3a20a37b
     name: Mizuno
 categories:
-  - 124f41a5-a41a-5be2-93d1-f03bd0c50e18
-classicId: '3352420'
+  - c70f7ba2-7546-5bbe-99c3-6516b8880aa8
+classicId: '3362897'
 classicProductId: '706823'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 56
-end: '2026-07-28T21:59:59.999Z'
+discount: 63
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 34eac226-bf42-40ef-9640-8ebbe1391933
+id: 08322d41-4b5c-435b-b5aa-87a16bc6fb30
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2d62ed81-061e-460b-9ee9-74b8004218ca
-  priority: 0
-  slug: mizuno-png-logo-0
+  extension: png
+  id: 1807305
+  priority: 100
+  slug: mizuno-logo
   type: logo
-offerId: 6cbb8cd6-70f5-4ca1-bbf7-2cefb57a98a3
+offerId: 324206c3-d60c-447b-b8eb-9cc3fae1af80
 price:
-  cents: 6995
+  cents: 5995
   currency: EUR
-  value: 69.95
+  value: 59.95
 referencePrice:
   cents: 16000
   currency: EUR
   value: 160
 slug: mizuno-wave-rider-sneakers-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 'Mizuno Wave Rider Sneakers | Heren '

@@ -1,22 +1,22 @@
-_id: 6a5f3f98da20339e42654b2f
+_id: 6a68a9f379de187d4d05487c
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
-classicId: '3350190'
+  - d586978f-a217-5555-adc0-9fa9eac46feb
+classicId: '3365535'
 classicProductId: '703504'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
-discount: 53
-end: '2026-07-28T21:59:59.999Z'
+discount: 60
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 0ec5451d-5e74-433a-84fb-2d838e3c0a0e
+id: e3a74a03-c4a2-47eb-a438-32768976cd5c
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: green-main-png-product-1
   type: product
-offerId: 2dadd24d-9787-4c2d-afb6-b99c3c233ff0
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612112
+  priority: 100
+  slug: lacoste-logo
+  type: logo
+offerId: fd533c2f-2a36-42a1-8472-2610c1076386
 price:
-  cents: 3495
+  cents: 2995
   currency: EUR
-  value: 34.95
+  value: 29.95
 referencePrice:
   cents: 7500
   currency: EUR
   value: 75
 slug: lacoste-th9894-51-heren-t-shirt
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Lacoste TH9894-51 T-shirt | Heren

@@ -1,22 +1,22 @@
-_id: 6a5df1f993ea251e0b04268c
+_id: 6a6890c9ed458b9db34b5a6f
 appOnly: false
 brand: Samsonite
 brands:
   - id: 76fdbcf4-cdc0-5321-9cad-2639a5d8bdf0
     name: Samsonite
 categories:
-  - 73d17398-5ce7-56a4-82dc-387260d1705b
-classicId: '3342738'
+  - 99cce8c8-5d5f-5b5c-847c-2d46ff6f68cb
+classicId: '3362605'
 classicProductId: '714614'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 44
-end: '2026-07-28T21:59:59.000Z'
+directCheckout: true
+discount: 48
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 4ab49037-0c1c-4870-b900-61239687dfdc
+id: 8e7a9e38-21a3-4d90-a83e-746f56f28657
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 648da1cf-eb65-4d40-89f9-1f57a309cad9
-  priority: 0
-  slug: samsonite-png-logo-0
+  extension: png
+  id: 1744610
+  priority: 100
+  slug: samsonite-logo
   type: logo
-offerId: 95d5b1ee-931e-4d69-ad2a-2e57942ca3bf
+offerId: c559ea0d-e37a-4387-a40b-9565669c3839
 price:
-  cents: 14995
+  cents: 13995
   currency: EUR
-  value: 149.95
+  value: 139.95
 referencePrice:
   cents: 26900
   currency: EUR
   value: 269
 slug: samsonite-magnum-eco-spinner-trolley-81-cm
 soldOut: false
-start: '2026-07-20T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Samsonite Magnum Eco Spinner Trolley | 81 cm

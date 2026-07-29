@@ -1,12 +1,12 @@
-_id: 6a5f2d5564e0c602f87d0cac
+_id: 6a687535c1ded6fa2826f8cf
 appOnly: false
 brand: Vitapur
 brands:
   - id: f2bb1029-752b-5ecd-ac20-e147b580e5e5
     name: Vitapur
 categories:
-  - 1e14d16c-53a9-5a79-bd6b-258ec27919e2
-classicId: '3345767'
+  - 26faea7f-f08a-5bbd-a3d2-ddfeb9c749bc
+classicId: '3360322'
 classicProductId: '655364'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 4b03087d-42c3-46d6-82b0-192333c5c377
+id: 6fa36e12-c891-4005-b162-8a2c0d6d14a6
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3b237b24-ba2c-4440-8f4c-78a4d2c8bb98
-  priority: 0
-  slug: vitapur-aloevera-kopfkissen-50-x-70-cm-png-logo-0
+  extension: png
+  id: 1959233
+  priority: 100
+  slug: vitapur-logo
   type: logo
-offerId: f075231e-0d92-4736-a587-7f6f19dcaa91
+offerId: 3229588f-92d4-44bb-99a7-fcdee6d2ed50
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: vitapur-neo-cooling-hoofdkussen-50-x-70-cm
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Vitapur NEO Cooling Hoofdkussen | 50 x 70 cm

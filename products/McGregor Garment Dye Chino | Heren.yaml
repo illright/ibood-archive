@@ -1,22 +1,22 @@
-_id: 6a5f67cb8a8b079009d8fdc6
+_id: 6a6892d70a8f2eafd44b0a57
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - d4d9403b-89fe-5f2c-8cf3-9fe2849b8b4e
-classicId: '3352129'
-classicProductId: '689514'
+  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
+classicId: '3363741'
+classicProductId: '689556'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 79
-end: '2026-07-28T21:59:59.999Z'
+discount: 83
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: f0783bb1-0030-4167-b22c-a0c750cbc73e
+id: 0d5353c7-fee9-4962-bd40-1a6d2add644f
 image:
   channels:
     - app
@@ -24,26 +24,31 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 26c3dd44-e8d1-446e-b867-344995c6554a
+  id: 1659dd1a-c91e-4e3b-8665-cf7fd820f64d
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: b94d2351-c006-4115-a1a6-ed725a11f898
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1765373
+  priority: 100
+  slug: mcgregor-logo
+  type: logo
+offerId: df76628f-2022-4a68-81ca-848c4bcf13bf
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 11995
   currency: EUR
   value: 119.95
 slug: mcgregor-garment-dye-chino-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: McGregor Garment Dye Chino | Heren
-ue: 119.95
-slug: mcgregor-garment-dye-chino-heren
-soldOut: false
-start: '2026-07-21T22:00:00.000Z'
-title: McGregor Garment Dye Chino | Heren
-en
+n

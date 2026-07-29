@@ -1,12 +1,12 @@
-_id: 6a54c4f1e1628cff6fbd3291
+_id: 6a686f23d7275f734076d324
 appOnly: false
 brand: Medisana
 brands:
   - id: 49e95cec-d8b1-5785-b84d-1cc0d54d350c
     name: Medisana
 categories:
-  - 886f9f88-2ad4-5cb4-9e1b-85cc5a5c2d96
-classicId: '3329588'
+  - 5cc7addb-8ba8-540d-a443-4659cdf7d9db
+classicId: '3359604'
 classicProductId: '719772'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: c8f3b259-8091-5bca-bdfb-348768fc36af
+id: a6349780-9225-470d-acc4-65b41af332db
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a1e16b6d-008b-4d45-b20c-36a3f696b8c4
-  priority: 0
-  slug: medisana-logo-png-logo-0
+  extension: png
+  id: 1979769
+  priority: 100
+  slug: medisana-logo
   type: logo
-offerId: 90819e82-4afe-5e41-bcd0-90fba77975e3
+offerId: 774b550f-0efd-4995-a212-1266da8bbcf3
 price:
   cents: 2495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 39.95
 slug: medisana-draadloos-vibrerend-knie-massageapparaat-km-100
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Medisana Draadloos Vibrerend Knie-massageapparaat KM 100

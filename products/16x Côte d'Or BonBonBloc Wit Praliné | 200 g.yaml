@@ -1,32 +1,32 @@
-_id: 6a573b913110a3c6d2fb64d9
+_id: 6a6880530a8f2eafd44b06ec
 appOnly: false
 brand: Côte d'Or
 brands:
   - id: ab7dfc56-c94d-5442-81e0-77b7e9d942c3
     name: Côte d'Or
 categories:
-  - 1325eac6-8b46-522e-b444-ecfab09bba39
-classicId: '3337580'
-classicProductId: '720161'
+  - c31adbc0-0f26-59e8-ac88-1f5080cfd7d9
+classicId: '3361982'
+classicProductId: '720772'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 57
-end: '2026-07-28T21:59:59.999Z'
+directCheckout: false
+discount: 50
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 28834c9f-94f5-528b-aa87-b61a2b9d1004
+id: 89c7f078-b11d-424a-ad3d-192b506c315e
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: e3a8e7e1-7767-4479-b729-0de6d414d616
-  priority: 1
-  slug: cote-d-or-03-png-product-1
+  id: c6094f7a-8386-4de2-9611-45c0724fec0b
+  priority: 0
+  slug: cote-d-or-04-png-product-1
   type: product
 logo:
   channels:
@@ -39,16 +39,16 @@ logo:
   priority: 0
   slug: cote-d-or-png-logo-0
   type: logo
-offerId: ede7af9f-b69c-57b7-b988-da3cd86403ed
+offerId: 82f33b5f-5c75-44cd-8ec6-f57ea0b13fd5
 price:
-  cents: 2995
+  cents: 3495
   currency: EUR
-  value: 29.95
+  value: 34.95
 referencePrice:
   cents: 6948
   currency: EUR
   value: 69.48
 slug: 16x-cote-d-or-bonbonbloc-wit-praline-200-g
-soldOut: true
-start: '2026-07-21T22:00:00.000Z'
+soldOut: false
+start: '2026-07-28T22:00:00.000Z'
 title: 16x Côte d'Or BonBonBloc Wit Praliné | 200 g

@@ -1,22 +1,22 @@
-_id: 6a5f39336b4242b14738aa34
+_id: 6a686f8ec1ded6fa2826f6f3
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 4da008e0-1966-581d-9dee-993e88ad55e3
-classicId: '3346436'
+  - 5cc7addb-8ba8-540d-a443-4659cdf7d9db
+classicId: '3359701'
 classicProductId: '641103'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 60
-end: '2026-07-28T21:59:59.999Z'
+directCheckout: false
+discount: 50
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 5c8a9fac-bd90-4b65-969b-a937df6adac3
+id: ce6f63b0-8414-4e0a-9d45-0490d098f463
 image:
   channels:
     - app
@@ -24,31 +24,30 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: a395afcf-46b9-4bdc-8faf-d01ca475d658-tr-cr
+  id: 07b7a4e2-2ee0-4791-a27f-0e412fa4a6c9
   priority: 0
-  slug: lotusgrill-classic-tafelbarbecue-350mm-antraciet-product-1
+  slug: grillssss-png-product-1
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 08cf7dd2-023f-45fe-917c-11f8be247d02
-  priority: 0
-  slug: lotusgrill-png-logo-0
+  extension: png
+  id: 2259236
+  priority: 100
+  slug: lotusgrill-classic-tischgrill-lila
   type: logo
-offerId: c1431bc1-62fe-48ba-9570-c0176211586d
+offerId: 2ad32c96-8a28-4199-934c-d7be951151a1
 price:
-  cents: 7995
+  cents: 9995
   currency: EUR
-  value: 79.95
+  value: 99.95
 referencePrice:
   cents: 19900
   currency: EUR
   value: 199
 slug: lotusgrill-classic-tafelbarbecue-35-cm
-soldOut: true
-start: '2026-07-21T22:00:00.000Z'
+soldOut: false
+start: '2026-07-28T22:00:00.000Z'
 title: LotusGrill Classic Tafelbarbecue | 35 cm

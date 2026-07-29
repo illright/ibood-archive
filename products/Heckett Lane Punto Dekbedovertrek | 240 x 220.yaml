@@ -1,12 +1,12 @@
-_id: 6a5f2f0f22dd8e41385d2748
+_id: 6a6874e10a8f2eafd44b00d7
 appOnly: false
 brand: Heckett Lane
 brands:
   - id: e4aab67a-916d-5500-9121-6fb22731dc9a
     name: Heckett Lane
 categories:
-  - 64de82b4-37ff-5e24-bc10-6ca64e0b9762
-classicId: '3345947'
+  - 6fd093f9-f422-58dc-a011-6fa436aee92d
+classicId: '3360091'
 classicProductId: '294246'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 904c4fdd-6529-43be-b956-9afa1910e68a
+id: 983ad962-45e1-4cf5-9a9e-652d74207f69
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: punto-dbo-240-x-220-cm
   type: product
-offerId: b2b6df33-5ac0-4553-a74e-a9f8abfe312b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1721723
+  priority: 100
+  slug: heckett-lane-logo
+  type: logo
+offerId: d9595146-52b2-4450-aa9f-b3f33fd26dde
 price:
   cents: 4495
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 99.95
 slug: punto-dbo-240-x-220-cm
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Heckett Lane Punto Dekbedovertrek | 240 x 220

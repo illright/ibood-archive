@@ -1,12 +1,12 @@
-_id: 6a5f65ce64e0c602f87d1f7e
+_id: 6a68934ded458b9db34b5b6e
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
-classicId: '3351627'
+  - 665b734e-0da2-5acf-8249-103f2a05e970
+classicId: '3363905'
 classicProductId: '712256'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 42
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 3d9cba5b-70e1-4618-8fa6-d7d35376fbc3
+id: 699aa43f-17cd-4155-92cb-a4da0553badc
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fb11fffa-3fd1-4e9d-b8ba-065baae66bbb
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: bf040d2c-5191-4047-bcdd-d42042639fd2
+offerId: 481e5c5a-8cf0-4e46-9bbb-3b3de00ea031
 price:
   cents: 3495
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 59.99
 slug: petrol-industries-overhemd-korte-mouw-sis417-navy-blue
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Petrol Industries Overhemd Korte Mouw | SIS417 | Navy Blue

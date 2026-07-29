@@ -1,0 +1,53 @@
+_id: 6a6899e82e8f7f542551651d
+appOnly: false
+brand: Apple
+brands:
+  - id: fdd49684-29ac-59d6-adef-6536bdeecf47
+    name: Apple
+categories:
+  - 58ab9996-4257-5e83-b93f-2a12511cdce2
+classicId: '3365065'
+classicProductId: '647775'
+deliveryPrice:
+  cents: 595
+  currency: EUR
+  value: 5.95
+directCheckout: true
+discount: 18
+end: '2026-08-05T21:59:59.999Z'
+freeDelivery: false
+id: 370abbad-da1e-4f0e-bc6c-01bf7399eef7
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d5d4b9e8-0625-4804-be87-6a3300914468
+  priority: 0
+  slug: aptv-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
+  type: logo
+offerId: 9af1ec20-87c6-42c2-9f84-2b1c8a43d25d
+price:
+  cents: 13900
+  currency: EUR
+  value: 139
+referencePrice:
+  cents: 16900
+  currency: EUR
+  value: 169
+slug: apple-tv-4k-64-gb-wifi
+soldOut: false
+start: '2026-07-28T22:00:00.000Z'
+title: Apple TV 4K | 64 GB | Wifi

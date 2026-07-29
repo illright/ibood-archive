@@ -1,12 +1,12 @@
-_id: 6a5f1c413425da4fda7f1c2b
+_id: 6a68752a783c1f07e603de94
 appOnly: false
 brand: blomus
 brands:
   - id: a8b43515-70bc-5688-8036-e1b3bcb7a81a
     name: blomus
 categories:
-  - 1eb9e890-ba72-531b-8762-ebd4e2123e3c
-classicId: '3344465'
+  - 0421f917-ea7c-5a82-9d8a-330e39933e4a
+classicId: '3360281'
 classicProductId: '715228'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: e99905ac-5b32-4218-a5bd-afc544dc1325
+id: 017cd8fa-a2e7-4c1d-a67e-5d731a54fea2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a2b9aa8d-36ca-472a-8569-d440fcc77f72
-  priority: 0
-  slug: blomus-png-logo-0
+  extension: png
+  id: 1772219
+  priority: 100
+  slug: blomus-logo
   type: logo
-offerId: 4831879d-849f-436a-9bd1-1a766b83b321
+offerId: f5aaaa5c-a9e0-42c8-9832-3f93df9a7ce2
 price:
   cents: 5995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 139
 slug: blomus-lito-laterne-rusty-look-l
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Blomus Lito Lantaarn | Maat L

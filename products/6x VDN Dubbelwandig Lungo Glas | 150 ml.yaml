@@ -1,12 +1,12 @@
-_id: 6a5e2cdb51224c700f787922
+_id: 6a686e8563b5c50a1a073a36
 appOnly: false
 brand: VDN
 brands:
   - id: f9fc7e91-151f-53b4-8956-47ed556113c2
     name: VDN
 categories:
-  - 400c2c4c-172c-5b54-b037-a56414296a8a
-classicId: '3343723'
+  - 7659e25a-3318-5b4c-b0c2-844323672bfc
+classicId: '3359169'
 classicProductId: '720699'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 34
-end: '2026-08-02T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 4fc0576a-2a14-5022-ac8e-c592c9cd04b4
+id: cbb934cf-7bc0-47d4-93e5-0f642f4eecaf
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f4aaab04-e58d-4b5e-8f57-8520a46388fc
-  priority: 0
-  slug: vdn-logo-png-logo-0
+  extension: png
+  id: 1482953
+  priority: 100
+  slug: vdn-logo
   type: logo
-offerId: cf52dc5c-0148-5a65-9226-77d6038bd33b
+offerId: 77d32eb5-46da-4b4e-88c7-dab17b511769
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 34.99
 slug: 6x-vdn-dubbelwandig-lungo-glas-150-ml
 soldOut: false
-start: '2026-07-26T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
+title: 6x VDN Dubbelwandig Lungo Glas | 150 ml
+.000Z'
 title: 6x VDN Dubbelwandig Lungo Glas | 150 ml

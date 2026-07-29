@@ -1,12 +1,12 @@
-_id: 6a574190df8aa90ed34a9d16
+_id: 6a687cc112e7e9de9224f995
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 1325eac6-8b46-522e-b444-ecfab09bba39
-classicId: '3337718'
+  - 5700cf0c-98c8-5205-9b3a-807229294f4c
+classicId: '3361466'
 classicProductId: '720160'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 94012f10-2152-5e18-b383-60b6d00f295b
+id: bc146ad1-3544-412a-87a7-b08e40b5f26e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: dbf6cc5f-e4f0-49ea-9684-fe4926e5a641
-  priority: 0
-  slug: robijn-png-logo-0
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
   type: logo
-offerId: 39457f57-e899-5aa8-b9f9-3176afdb89c5
+offerId: 2771d7f2-7f80-483a-9107-fd5e3fc78ab1
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 38.34
 slug: 6x-robijn-stralend-wit-wasmiddel-700-ml
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 6x Robijn Stralend Wit Wasmiddel | 700 ml (84sc)

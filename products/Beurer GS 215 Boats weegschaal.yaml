@@ -1,12 +1,12 @@
-_id: 6a574c4fdf8aa90ed34a9d38
+_id: 6a686e6dd4140a8dd8cc9026
 appOnly: false
 brand: Beurer
 brands:
   - id: 31c1758a-7232-51e6-bc38-7634512caf25
     name: Beurer
 categories:
-  - 886f9f88-2ad4-5cb4-9e1b-85cc5a5c2d96
-classicId: '3337838'
+  - 5cc7addb-8ba8-540d-a443-4659cdf7d9db
+classicId: '3359097'
 classicProductId: '720182'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 7b980e69-31c1-54b4-a7ce-dac4e049588a
+id: 4321a584-06be-4b71-860e-8d94bef90b8b
 image:
   channels:
     - app
@@ -30,18 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: c7124836-2568-4760-aef1-c48faa038509-tr
-  priority: 0
-  slug: beurer-logo-avif-logo-0
+  extension: png
+  id: 1695378
+  priority: 100
+  slug: beurer-logo
   type: logo
-offerId: fa7e46b1-308d-5f0e-93ec-7b7f7fa8a005
+offerId: 51fa0388-1ccf-4131-9849-22fc4bf1b299
 price:
   cents: 995
   currency: EUR
@@ -52,5 +49,5 @@ referencePrice:
   value: 29.95
 slug: beurer-gs-215-weegschaal
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Beurer GS 215 Boats weegschaal

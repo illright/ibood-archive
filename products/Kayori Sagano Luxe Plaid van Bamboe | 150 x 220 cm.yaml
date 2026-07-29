@@ -1,22 +1,22 @@
-_id: 6a5e0f1470f21c5660c59c9f
+_id: 6a6875f5c1ded6fa2826fa1e
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - 2de6c394-d8de-5aa5-9474-b60ebb1a1d90
-classicId: '3343209'
-classicProductId: '684647'
+  - 0421f917-ea7c-5a82-9d8a-330e39933e4a
+classicId: '3360718'
+classicProductId: '684650'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
-end: '2026-07-28T21:59:59.999Z'
+directCheckout: true
+discount: 70
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: ab47b198-98f6-406a-bf92-df0f2ab01a78
+id: a9e12839-51c6-4794-b661-71a2fde4213f
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1712377
-  priority: 100
-  slug: kayori-logo
+    - all
+  extension: image/png
+  id: a3039499-81f9-4e9f-8f54-665129b3bc96
+  priority: 0
+  slug: kayori-png-logo-0
   type: logo
-offerId: 73f7b463-021e-461b-a762-427e1b7a7d96
+offerId: b1bf8806-0c77-4bf2-8a2b-4125927a7348
 price:
-  cents: 3995
+  cents: 2995
   currency: EUR
-  value: 39.95
+  value: 29.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: kayori-sagano-luxe-plaid-van-bamboe-150-x-220-cm
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Kayori Sagano Luxe Plaid van Bamboe | 150 x 220 cm

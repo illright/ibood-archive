@@ -1,12 +1,12 @@
-_id: 6a5e2cdb93ea251e0b042aef
+_id: 6a686f00d7275f734076d29f
 appOnly: false
 brand: VDN
 brands:
   - id: f9fc7e91-151f-53b4-8956-47ed556113c2
     name: VDN
 categories:
-  - 400c2c4c-172c-5b54-b037-a56414296a8a
-classicId: '3343725'
+  - d35361ed-7825-52ad-8856-cb4aaa9a41c3
+classicId: '3359509'
 classicProductId: '720701'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 23
-end: '2026-08-02T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 5a063a3f-684b-5f38-bc61-3138c4226a6b
+id: 0d2eabad-9820-4e5a-9c83-4525c3269daf
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8f25e226-75c9-4431-b06e-0ea953b0d5ce
-  priority: 0
-  slug: vdn-logo-png-logo-0
+  extension: png
+  id: 1482953
+  priority: 100
+  slug: vdn-logo
   type: logo
-offerId: 97b2fe6b-a430-59a0-b94c-0b0c01962191
+offerId: d859bb5e-c7fe-483b-8348-77634aa231f9
 price:
   cents: 4995
   currency: EUR
@@ -50,5 +49,7 @@ referencePrice:
   value: 64.99
 slug: vdn-snijplank-walnoothout-26-x-38-x-3-5-cm
 soldOut: false
-start: '2026-07-26T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
+title: VDN Snijplank Walnoothout | 26 x 38 x 3,5 cm
+'
 title: VDN Snijplank Walnoothout | 26 x 38 x 3,5 cm

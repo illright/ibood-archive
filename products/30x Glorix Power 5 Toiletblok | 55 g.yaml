@@ -1,12 +1,12 @@
-_id: 6a573b5c2fe1c59f4eabdeac
+_id: 6a687c67c1ded6fa2826fbdc
 appOnly: false
 brand: Glorix
 brands:
   - id: abdce96a-9a2e-5296-b175-41278afc8d4a
     name: Glorix
 categories:
-  - 1325eac6-8b46-522e-b444-ecfab09bba39
-classicId: '3337513'
+  - 5700cf0c-98c8-5205-9b3a-807229294f4c
+classicId: '3361233'
 classicProductId: '628673'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: cc2f2023-eea2-551d-89fa-d871a9914cd2
+id: d6273a90-feb9-4152-933c-c9785e1b49d0
 image:
   channels:
-    - newsletter
     - app
     - website
-  extension: jpg
-  id: 2207444
-  priority: 1
-  slug: 30x-glorix-power-5-wc-stein-ocean
+    - newsletter
+    - all
+  extension: image/png
+  id: b684b315-3702-4c96-a8bc-5b9c888c6c3c
+  priority: 0
+  slug: glorix-03-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: glorix-logo
   type: logo
-offerId: 1218f3e5-74fb-5ea2-b1ee-8e74376466f4
+offerId: f973072d-5fca-4bfe-bff6-31465c8f4727
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 89.94
 slug: 30x-glorix-power-5-ocean-toiletblok-55-g
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 30x Glorix Power 5 Toiletblok | 55 g

@@ -1,12 +1,12 @@
-_id: 6a5f2a7f41a96ebd60aa8e3a
+_id: 6a68752c783c1f07e603de96
 appOnly: false
 brand: Barbo Toys
 brands:
   - id: 6ffbbf65-9373-550f-8239-223d99ab4640
     name: Barbo Toys
 categories:
-  - 5475dfb5-a609-5b62-9db1-d6388066a7de
-classicId: '3345281'
+  - 70bb8a4d-0f8a-5a9e-a790-70a2b7d93bae
+classicId: '3360286'
 classicProductId: '701973'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 83
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 12de2aff-f716-4895-99c8-95e871ff0660
+id: 0509cb8e-a092-4c69-8a89-c8c111937f0a
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: barbo-toys-peppa-pig-george-tool-set-28009004-product-0
   type: product
-offerId: c2d8b404-6077-4002-a78e-c8ad1d31a052
+offerId: b6817ae5-cb5c-4442-8adf-9bcfc6a77d05
 price:
   cents: 595
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 34.99
 slug: barbo-peppa-pig-toolbox-george
-soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+soldOut: true
+start: '2026-07-28T22:00:00.000Z'
 title: Barbo Peppa Pig Toolbox George

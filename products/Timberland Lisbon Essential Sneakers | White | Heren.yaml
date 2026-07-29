@@ -1,22 +1,22 @@
-_id: 6a5f3fb93425da4fda7f290f
+_id: 6a68a99b0ba53f51e51d69b6
 appOnly: false
 brand: Timberland
 brands:
   - id: 05f8dabb-b13a-59f8-b449-27770e4620b5
     name: Timberland
 categories:
-  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
-classicId: '3350233'
+  - d586978f-a217-5555-adc0-9fa9eac46feb
+classicId: '3365456'
 classicProductId: '688148'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-07-28T21:59:59.999Z'
+discount: 57
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: b0b97591-a134-4a0f-a1b5-5b97bf0fccd1
+id: f4e5da26-0c35-4d01-b0ee-c4004b0259ad
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: 42-white-full-grain-w-navy-tb0a2pe5afv1037-lbes-low-lace-sneaker-white-8-5-medium-timberland-product-12
   type: product
-offerId: f6caa749-8d2b-4a09-8d13-8eaf5b333944
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2008165
+  priority: 100
+  slug: timberland-logo
+  type: logo
+offerId: 436be6da-a1f6-4d24-89aa-2e512803a067
 price:
-  cents: 6995
+  cents: 5995
   currency: EUR
-  value: 69.95
+  value: 59.95
 referencePrice:
   cents: 14000
   currency: EUR
   value: 140
 slug: timberland-lisbon-essential-sneakers-white-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Timberland Lisbon Essential Sneakers | White | Heren

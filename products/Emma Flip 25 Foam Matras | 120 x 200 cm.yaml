@@ -1,12 +1,12 @@
-_id: 6a5f2d5741a96ebd60aa9087
+_id: 6a687501c1ded6fa2826f864
 appOnly: false
 brand: Emma Sleep
 brands:
   - id: 858c5e2a-cc67-5bb7-9658-9e59ca3ca2d2
     name: Emma Sleep
 categories:
-  - 1e14d16c-53a9-5a79-bd6b-258ec27919e2
-classicId: '3345776'
+  - 26faea7f-f08a-5bbd-a3d2-ddfeb9c749bc
+classicId: '3360175'
 classicProductId: '677715'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 54
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: b0a5f1e3-f565-445e-bc94-b9dbb2fc58ef
+id: 9ebb95f5-568f-4e27-937b-beaf7da66232
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: em02-png-product-2
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: aa4d81ee-0df9-4092-9cfa-c833665cbb73
-  priority: 0
-  slug: emma-sleep-logo-0
-  type: logo
-offerId: bdd76c7e-a513-4e38-8f4f-7c9ed4d4d5b4
+offerId: 71e118f0-4c19-40b0-b7c0-2574699364e8
 price:
   cents: 34900
   currency: EUR
@@ -49,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 759
 slug: emma-flip-25-foam-matras-120-x-200-cm
-soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+soldOut: true
+start: '2026-07-28T22:00:00.000Z'
 title: Emma Flip 25 Foam Matras | 120 x 200 cm

@@ -1,12 +1,12 @@
-_id: 6a5f212164e0c602f87d0726
+_id: 6a676069b835374a2f86b79d
 appOnly: false
 brand: Capi Europe
 brands:
   - id: 1f53b45a-5800-5665-a069-72714ca8a89b
     name: Capi Europe
 categories:
-  - 950bf527-a7b5-5570-9af1-41459cebe483
-classicId: '3344896'
+  - 5bb39958-edd2-5c6f-b838-8873fe108329
+classicId: '3357861'
 classicProductId: '712709'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 670b117b-17cf-4908-a997-4c7e814cc062
+id: d7e2dc8f-cc6b-48c3-9e98-dc67937fbc55
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: capi-europe-plantcover-large-150x250-green-acgn003-product-0
   type: product
-offerId: 9fd5f46d-e94c-44a3-b7f9-9c6ed47846a3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b16dbea9-03b5-4119-85bc-95bd3373f3a8
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: 8274f846-e624-4209-b9fb-a6bb79bf638d
 price:
   cents: 1695
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 38.99
 slug: capi-europe-plantencover-150-x-250-cm-green
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Capi Europe Plantencover | 150 x 250 cm | Green

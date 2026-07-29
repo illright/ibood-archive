@@ -1,22 +1,22 @@
-_id: 6a5f653d64e0c602f87d1eef
+_id: 6a689221907f06bbad42beae
 appOnly: false
 brand: Boston Brothers
 brands:
   - id: c11e6b3a-e661-58fa-b501-ad6642e5efd8
     name: Boston Brothers
 categories:
-  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
-classicId: '3351516'
-classicProductId: '700671'
+  - 665b734e-0da2-5acf-8249-103f2a05e970
+classicId: '3363326'
+classicProductId: '700672'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 71
-end: '2026-07-28T21:59:59.999Z'
+directCheckout: true
+discount: 74
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 1cacd645-6cac-4d2b-98cb-127246fe98ba
+id: 320c6f53-d0f8-4065-8c69-659ce7568a9e
 image:
   channels:
     - app
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: boston-brothers-logo
   type: logo
-offerId: 975a144d-7761-49b9-bd68-3db531c03224
+offerId: c15293e0-43f7-4355-a2d4-2ba4d0530a26
 price:
-  cents: 1995
+  cents: 1795
   currency: EUR
-  value: 19.95
+  value: 17.95
 referencePrice:
   cents: 6995
   currency: EUR
   value: 69.95
 slug: boston-brothers-print-shirt-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Boston Brothers Print Shirt | Heren
+

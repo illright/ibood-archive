@@ -1,12 +1,12 @@
-_id: 6a54dbbde1628cff6fbd3668
+_id: 6a6880ce907f06bbad42bb46
 appOnly: false
 brand: Skittles
 brands:
   - id: cb7574c2-53a9-50c4-9284-59c9f1f78580
     name: Skittles
 categories:
-  - 1325eac6-8b46-522e-b444-ecfab09bba39
-classicId: '3330660'
+  - c31adbc0-0f26-59e8-ac88-1f5080cfd7d9
+classicId: '3362147'
 classicProductId: '719801'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 61
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: ebf96689-8542-54f0-97da-8bd1c242acee
+id: 9ebc42b1-c736-40c5-9c3a-7c309e36c583
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 79253c68-e369-4365-9bcf-13d62493471b
-  priority: 0
-  slug: skittles-png-logo-0
+  extension: png
+  id: 1637212
+  priority: 100
+  slug: skittles-logo
   type: logo
-offerId: 0db43e93-e9c2-58a3-ad48-4cf5e9af315d
+offerId: 21cb5687-cac8-4578-bc7d-5b8f6293a7e1
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 56.92
 slug: 36x-skittles-fruits-kauwsnoepjes-45-g
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 36x Skittles Fruits Kauwsnoepjes | 45 g

@@ -1,12 +1,12 @@
-_id: 6a5e2cd951224c700f78791b
+_id: 6a686e83907f06bbad42b0d0
 appOnly: false
 brand: VDN
 brands:
   - id: f9fc7e91-151f-53b4-8956-47ed556113c2
     name: VDN
 categories:
-  - 400c2c4c-172c-5b54-b037-a56414296a8a
-classicId: '3343721'
+  - 7659e25a-3318-5b4c-b0c2-844323672bfc
+classicId: '3359162'
 classicProductId: '720698'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 36
-end: '2026-08-02T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: ebf1fc19-a41f-5c61-95b3-18b9727ba84f
+id: 6fba5c23-4179-4075-b214-56d9439121bb
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 870e872b-e718-4f59-a7cb-122e921ca16e
-  priority: 0
-  slug: vdn-logo-png-logo-0
+  extension: png
+  id: 1482953
+  priority: 100
+  slug: vdn-logo
   type: logo
-offerId: 6dc7ef67-d664-53c1-bb04-c0dfa93bcae7
+offerId: 4c925321-ffa4-452a-aa92-09e65b73d7ed
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 35.99
 slug: 6x-vdn-dubbelwandig-lungo-glas-met-oor-150-ml
 soldOut: false
-start: '2026-07-26T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 6x VDN Dubbelwandig Lungo Glas met Oor | 150 ml
+itle: 6x VDN Dubbelwandig Lungo Glas met Oor | 150 ml

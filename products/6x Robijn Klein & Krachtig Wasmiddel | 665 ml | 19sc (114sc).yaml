@@ -1,12 +1,12 @@
-_id: 6a5741822fe1c59f4eabdf04
+_id: 6a687cc2c1ded6fa2826fcba
 appOnly: false
 brand: Robijn
 brands:
   - id: d06bef70-20a4-5484-9158-28decf711f3d
     name: Robijn
 categories:
-  - 1325eac6-8b46-522e-b444-ecfab09bba39
-classicId: '3337713'
+  - 5700cf0c-98c8-5205-9b3a-807229294f4c
+classicId: '3361464'
 classicProductId: '720156'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 66
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: cf0ad157-bd28-5863-9373-291587047ca2
+id: 34c5e923-2989-4eeb-9032-66dede9ebebf
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b05b9c42-5ee6-4b36-8a8a-c0eacd8d2118
-  priority: 0
-  slug: robijn-png-logo-0
+  extension: png
+  id: 1536012
+  priority: 100
+  slug: robijn-logo
   type: logo
-offerId: 37542aeb-f564-5169-9b55-9cd5097102c7
+offerId: 581c6876-a8f7-48dd-9e5d-68b0c4250e2e
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 87.54
 slug: 6x-robijn-klein-krachtig-wasmiddel-665-ml-19sc-114sc
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 6x Robijn Klein & Krachtig Wasmiddel | 665 ml | 19sc (114sc)

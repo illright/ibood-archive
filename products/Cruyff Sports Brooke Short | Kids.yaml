@@ -1,12 +1,12 @@
-_id: 6a5e1e2b93ea251e0b042a7e
+_id: 6a6759a92d6d9d3b5de78214
 appOnly: false
 brand: Cruyff Sports
 brands:
   - id: 37167158-12b8-5664-990c-69e70f538f2c
     name: Cruyff Sports
 categories:
-  - beda7e73-e259-55f2-a17e-d65fe5d3ef2b
-classicId: '3343613'
+  - e6174112-993c-5230-a070-5317fc39939c
+classicId: '3357630'
 classicProductId: '664717'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 6cdc9dc0-d911-47ed-a40a-08a920c73fa2
+id: 556b4b15-9244-441d-a9ec-b52716cabb25
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: cruyff-40-png-product-1
   type: product
-offerId: 5f65f5c3-aa19-4ac2-81a2-9fd9c90a95f1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e2a9d738-b80d-4906-a847-fa8187e0cdc4
+  priority: 0
+  slug: cruyff-png-logo-0
+  type: logo
+offerId: dbc522e0-21b5-4059-a4e6-3e059bdfbb76
 price:
   cents: 1000
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 37.95
 slug: cruyff-sports-brooke-short-kids
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Cruyff Sports Brooke Short | Kids

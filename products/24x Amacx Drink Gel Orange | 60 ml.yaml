@@ -1,12 +1,12 @@
-_id: 6a5f3a953425da4fda7f2266
+_id: 6a688030907f06bbad42ba79
 appOnly: false
 brand: Amacx
 brands:
   - id: 3d88b718-6e78-5d35-bd6e-1ffadeeaa033
     name: Amacx
 categories:
-  - 1325eac6-8b46-522e-b444-ecfab09bba39
-classicId: '3347180'
+  - c31adbc0-0f26-59e8-ac88-1f5080cfd7d9
+classicId: '3361944'
 classicProductId: '640820'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 94a2f72b-e42f-438b-953b-dfa9aa795d2c
+id: 3a25bc3d-413b-4537-835e-88b8fdf27fcf
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2235369
+    - all
+  extension: image/png
+  id: 6580715d-e72f-4691-9cc0-f2c4b29b1373
   priority: 0
-  slug: 24x-amacx-sport-trinkgel-orange-60-ml
+  slug: amacx-03-png-product-1
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: amacx-logo
   type: logo
-offerId: a3f88a3c-9c45-405a-9e44-6dc2ded200e1
+offerId: 646b94d6-e151-4796-b113-ed1067eebe10
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 69.9
 slug: 24x-amacx-drink-gel-orange-60-ml
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 24x Amacx Drink Gel Orange | 60 ml

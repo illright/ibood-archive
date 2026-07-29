@@ -1,12 +1,12 @@
-_id: 6a5f3f2264e0c602f87d193c
+_id: 6a68a9ad6109ca98c0e66ef3
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - dcfa4f85-bca0-5a9c-bb01-c427e2234e31
-classicId: '3350113'
+  - d586978f-a217-5555-adc0-9fa9eac46feb
+classicId: '3365475'
 classicProductId: '603147'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 67
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 44586671-4738-4445-b6e7-52854459e157
+id: 3f811d30-555f-4886-a428-0bb413c385a2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 67a3a7fe-1fe7-42be-85a5-08617a3fe7f3
-  priority: 0
-  slug: jack-and-jones-jwhclassic-jacket-black-moonbeam-assortiment-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 5c293ba2-03ca-492c-9151-707ba0ddbe3c
+offerId: bafa27a5-a108-47d5-9d2e-cea836436998
 price:
   cents: 2275
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 69.99
 slug: jack-and-jones-core-classic-jacket
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 'Jack & Jones Core Classic Jacket | Heren '
+e Classic Jacket | Heren '

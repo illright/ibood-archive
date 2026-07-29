@@ -1,22 +1,22 @@
-_id: 6a5f6561acf144c958c28042
+_id: 6a6892730a8f2eafd44b0959
 appOnly: false
 brand: Original Penguin
 brands:
   - id: 18863ac5-1510-54f2-b877-ed28426ed60e
     name: Original Penguin
 categories:
-  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
-classicId: '3351542'
+  - 665b734e-0da2-5acf-8249-103f2a05e970
+classicId: '3363483'
 classicProductId: '696916'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 40
-end: '2026-07-28T21:59:59.999Z'
+discount: 47
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 79aa6ada-a77f-4f0f-b862-7510ab2f36c9
+id: a041b7e8-d2b8-4976-a5d9-43b58a90349d
 image:
   channels:
     - app
@@ -30,16 +30,27 @@ image:
   priority: 0
   slug: l-sargasso-sea-p485-opks2600-cttn-spc-dye-honeyco-polo-original-pinguin-product-2
   type: product
-offerId: 97b5aa52-5c95-4ce9-aed7-30b0df5beb9c
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3f93ef28-c5dd-4e96-a8d5-aec7a0b100fb
+  priority: 0
+  slug: original-penguin-png-logo-0
+  type: logo
+offerId: 065d550e-9745-4a6e-bd95-78f54f661d98
 price:
-  cents: 4495
+  cents: 3995
   currency: EUR
-  value: 44.95
+  value: 39.95
 referencePrice:
   cents: 7500
   currency: EUR
   value: 75
 slug: original-penguin-opks2600-polo-met-wafelstructuur-heren-sargasso-sea
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Original Penguin OPKS2600 Polo met Wafelstructuur | Heren | Sargasso Sea

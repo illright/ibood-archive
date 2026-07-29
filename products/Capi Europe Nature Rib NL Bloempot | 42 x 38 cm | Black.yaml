@@ -1,12 +1,12 @@
-_id: 6a631638f6eb6414c12ea88b
+_id: 6a6760496f99a7759f44579f
 appOnly: false
 brand: Capi Europe
 brands:
   - id: 1f53b45a-5800-5665-a069-72714ca8a89b
     name: Capi Europe
 categories:
-  - 950bf527-a7b5-5570-9af1-41459cebe483
-classicId: '3354709'
+  - 5bb39958-edd2-5c6f-b838-8873fe108329
+classicId: '3357823'
 classicProductId: '712722'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 41
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 853fec26-134b-4ed6-9d4c-828b1fc82e74
+id: f3734fdd-036a-4cf5-9ee4-31cc2e9c937d
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: capi-europe-vase-taper-round-rib-nl-42x38-black-kblr362-product-1
   type: product
-offerId: 33fa0bc0-4a10-4ef5-b8d3-1bcc755744b8
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f29b4e62-d219-4bd9-a367-e7480f61623f
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: 8001eb15-e1e5-4528-8d05-030379d38905
 price:
   cents: 3995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 67.99
 slug: capi-europe-nature-rib-nl-bloempot-42-x-38-cm-black
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Capi Europe Nature Rib NL Bloempot | 42 x 38 cm | Black

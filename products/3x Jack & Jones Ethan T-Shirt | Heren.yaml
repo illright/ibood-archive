@@ -1,12 +1,12 @@
-_id: 6a5f64ef64e0c602f87d1e7a
+_id: 6a6891953ed86c1b9756fa4e
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - a1cbd2b0-6800-52d0-87a5-fb6c52aee71c
-classicId: '3351462'
+  - 665b734e-0da2-5acf-8249-103f2a05e970
+classicId: '3362901'
 classicProductId: '643456'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 57
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 2f1166f5-c25a-4dfe-af82-402232a24074
+id: f32c8e51-dc44-4fd9-8c09-8073127e577e
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2266373
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1490167d-6d76-479a-a243-ad33cf94c2bb-tr
   priority: 0
-  slug: 3x-jack-jones-ethan-t-shirt-heren
+  slug: 3x-jackjones-jjeethan-t-shirt-herren-jpg-product-1
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: de864fc3-2e70-48c9-b726-1ce4981d82e3
+offerId: 550526b1-7125-49ed-8193-51327cc868bd
 price:
   cents: 1495
   currency: EUR
@@ -48,5 +51,5 @@ referencePrice:
   value: 34.99
 slug: 3x-jack-jones-ethan-t-shirt-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: 3x Jack & Jones Ethan T-Shirt | Heren

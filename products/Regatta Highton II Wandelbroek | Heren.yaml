@@ -1,22 +1,22 @@
-_id: 6a5e0ea0be56b1145e552a84
+_id: 6a6757c2934017cd46155f0f
 appOnly: false
 brand: Regatta
 brands:
   - id: febd98de-cedc-5333-a234-06b0e44c9b32
     name: Regatta
 categories:
-  - 7234bfe5-00eb-5568-bafd-bad67dd6d172
-classicId: '3343148'
-classicProductId: '713566'
+  - 2426cf10-95b2-5bf1-8ba3-3fde8bcbe0e0
+classicId: '3357505'
+classicProductId: '713576'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 69
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 478eca88-ceb8-476b-a818-1fc07e4cfefe
+id: ba3b79ef-403a-40fe-8df0-215ea4d2646b
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 1-png-product-1
   type: product
-offerId: 61521efc-a674-4d94-a4fb-4913af5bb486
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1638661
+  priority: 100
+  slug: regatta-logo
+  type: logo
+offerId: c5af7185-cc8c-461e-b741-e02bf2a1a26a
 price:
   cents: 2495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 80
 slug: regatta-highton-ii-wandelbroek-heren
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Regatta Highton II Wandelbroek | Heren

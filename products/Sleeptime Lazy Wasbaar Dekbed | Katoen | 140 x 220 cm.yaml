@@ -1,12 +1,12 @@
-_id: 6a5f2d6f41a96ebd60aa90dd
+_id: 6a6875531cdc4c1bc74bc8f3
 appOnly: false
 brand: Sleeptime
 brands:
   - id: b48dcf3f-fb67-5daf-920d-c12d444b560e
     name: Sleeptime
 categories:
-  - 1e14d16c-53a9-5a79-bd6b-258ec27919e2
-classicId: '3345803'
+  - 26faea7f-f08a-5bbd-a3d2-ddfeb9c749bc
+classicId: '3360415'
 classicProductId: '692020'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 96a70481-0f84-4608-a208-aee2d529befe
+id: 5b3e8e6a-7716-4bc7-a6aa-0d4e688f4026
 image:
   channels:
     - app
@@ -24,21 +24,22 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: eb4657a2-ffb6-4d05-997c-53eff7cfc653
+  id: 79b78b6c-df5d-46e5-9cc1-580469ebfe3c
   priority: 0
-  slug: sleeptime-181-png-product-18
+  slug: sleeptime-182-png-product-1
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1524027
-  priority: 100
-  slug: sleeptime-logo
+    - all
+  extension: image/png
+  id: 604d81ef-e065-42cf-8136-cd1dbcef7d27
+  priority: 0
+  slug: sleeptime-png-logo-0
   type: logo
-offerId: 4b45c1f3-86c5-4696-8cac-3dae8d45f998
+offerId: e346ccf9-5229-4b7b-ad4c-6183cb9b4a10
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 59.95
 slug: sleeptime-lazy-wasbaar-dekbed-katoen-140-x-220-cm
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Sleeptime Lazy Wasbaar Dekbed | Katoen | 140 x 220 cm

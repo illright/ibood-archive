@@ -1,12 +1,12 @@
-_id: 6a63163f588d29328d851ed8
+_id: 6a676066e1b8f5ebc5e76ff9
 appOnly: false
 brand: Capi Europe
 brands:
   - id: 1f53b45a-5800-5665-a069-72714ca8a89b
     name: Capi Europe
 categories:
-  - 950bf527-a7b5-5570-9af1-41459cebe483
-classicId: '3354715'
+  - 5bb39958-edd2-5c6f-b838-8873fe108329
+classicId: '3357851'
 classicProductId: '712731'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-07-28T21:59:59.999Z'
+end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 63124bf6-9fb9-41b4-af8c-620a2bcd3d87
+id: b3322eb8-5616-4707-9029-984d5f0cde9b
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: capi-europe-planter-ball-clay-nl-35x34-ivory-kivc932-product-0
   type: product
-offerId: acabb8dc-0f00-481e-aa6b-038e87a30ba1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 60044a98-48dd-478e-9332-30d25c59af19
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: 51d77d0e-a19f-477f-853f-ee482f372a55
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 52.99
 slug: capi-europe-nature-clay-nl-bloempot-35-x-34-cm-ivory
 soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+start: '2026-07-28T22:00:00.000Z'
 title: Capi Europe Nature Clay NL Bloempot | 35 x 34 cm | Ivory
