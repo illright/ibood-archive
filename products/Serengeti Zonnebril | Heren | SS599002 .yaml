@@ -1,12 +1,12 @@
-_id: 6a6890582e2f34592726d626
+_id: 6a688d0c907f06bbad42bba1
 appOnly: false
 brand: Serengeti
 brands:
   - id: 0e4c40b9-e0be-54f3-bfb3-6aa0d86762dc
     name: Serengeti
 categories:
-  - 99cce8c8-5d5f-5b5c-847c-2d46ff6f68cb
-classicId: '3362495'
+  - cf39d4ea-ff1c-5132-b980-59ecfb03a224
+classicId: '3362294'
 classicProductId: '716928'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 75
 end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 16d59a44-b22c-4de4-9a75-0fb4d1521e88
+id: f27800f0-05c9-4ae4-80f2-795928fa03aa
 image:
   channels:
     - app
@@ -30,20 +30,23 @@ image:
   priority: 0
   slug: gun-metal-ss599002-serengeti-sunglasses-men-product-0
   type: product
-offerId: 33a83068-72d6-406e-a8fc-2536d6cc8c10
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d205e569-8cea-4673-864a-c8b60be8dfa1
+  priority: 0
+  slug: serengeti-logo-0
+  type: logo
+offerId: 7350de61-62a3-4a87-9d62-23df02f98ffb
 price:
   cents: 6995
   currency: EUR
   value: 69.95
 referencePrice:
-  cents: 27500
-  currency: EUR
-  value: 275
-slug: serengeti-ss599002-zonnebril-heren
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
-title: 'Serengeti Zonnebril | Heren | SS599002 '
-ce:
   cents: 27500
   currency: EUR
   value: 275

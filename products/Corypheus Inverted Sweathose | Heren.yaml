@@ -1,13 +1,13 @@
-_id: 6a68aa9379de187d4d054976
+_id: 6a68916b3ed86c1b9756fa16
 appOnly: false
 brand: Corypheus
 brands:
   - id: b584cb30-6526-5948-933c-e34bef9b3abe
     name: Corypheus
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365685'
-classicProductId: '717719'
+  - ef819d25-b8ca-5f8f-96ef-0ad4502d9e19
+classicId: '3362844'
+classicProductId: '717723'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 68
 end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 553ad4a6-a4c3-4eb0-82e5-3ac55d12874e
+id: cc6ae31a-828f-49e6-ac1e-539e75f183ec
 image:
   channels:
     - app
@@ -24,27 +24,24 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 60128449-efb4-48b5-957f-2e098de338bf-tr
+  id: e27944f3-9f1b-40ee-b96a-983a279ad1e6-tr
   priority: 0
-  slug: l-navy-321-inverted-cuff-pants-40-6001-22-l-321-corypheus-men-product-3
+  slug: xl-grey-melange-820-inverted-cuff-pants-40-6001-22-xl-820-corypheus-men-product-0
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: b56cf1c2-981b-44d6-8747-c778ab90c1c6
-  priority: 0
-  slug: corypheus-png-logo-0
-  type: logo
-offerId: 0a437923-b790-476f-aa7f-188cbc909ed9
+offerId: 830ca80e-0cdd-4ebd-937a-c58ffab27a9e
 price:
   cents: 1295
   currency: EUR
   value: 12.95
 referencePrice:
+  cents: 3995
+  currency: EUR
+  value: 39.95
+slug: corypheus-inverted-sweathose-heren
+soldOut: false
+start: '2026-07-28T22:00:00.000Z'
+title: Corypheus Inverted Sweathose | Heren
+:
   cents: 3995
   currency: EUR
   value: 39.95

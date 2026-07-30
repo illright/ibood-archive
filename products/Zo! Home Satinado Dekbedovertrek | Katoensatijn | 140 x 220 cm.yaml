@@ -17,6 +17,17 @@ discount: 57
 end: '2026-07-30T21:59:59.999Z'
 freeDelivery: false
 id: 24dcd780-a9f5-52ae-8020-210e33b95cc4
+image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6e74ca64-1793-45ec-95a2-8db0e211bd7a
+  priority: 0
+  slug: 6-png-product-0
+  type: product
 logo:
   channels:
     - website
@@ -40,9 +51,4 @@ slug: zo-home-satinado-dekbedovertrek-katoensatijn-140-x-220-cm
 soldOut: false
 start: '2026-07-26T22:00:00.000Z'
 title: Zo! Home Satinado Dekbedovertrek | Katoensatijn | 140 x 220 cm
-
-  value: 59.95
-slug: zo-home-satinado-dekbedovertrek-katoensatijn-140-x-220-cm
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
-title: Zo! Home Satinado Dekbedovertrek | Katoensatijn | 140 x 220 cm
+x 220 cm
