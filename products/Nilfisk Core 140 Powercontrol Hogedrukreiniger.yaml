@@ -1,12 +1,12 @@
-_id: 6a6861a587b5eb3fc84bfe1c
+_id: 6a705e0398528d8371cecedc
 appOnly: false
 brand: Nilfisk
 brands:
   - id: bb6c7f37-7128-56ec-bc5a-df41221c69ba
     name: Nilfisk
 categories:
-  - df59f261-97a5-5e5d-b77b-2ea0965b35f5
-classicId: '3358518'
+  - 5719f4d5-2f92-5f04-9b0f-8d1456419459
+classicId: '3367656'
 classicProductId: '715037'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 58
-end: '2026-08-03T21:59:59.999Z'
+end: '2026-08-10T21:59:59.999Z'
 freeDelivery: false
-id: bb0a3373-c9fd-4040-87e3-04012b6968e5
+id: b667630c-f3ad-443b-bc10-00f29ec3f8f7
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: nilfisk-logo
   type: logo
-offerId: 26df9460-1762-4883-8fae-d968b75e8257
+offerId: 8ece633f-b4d6-41c8-a6a7-733afcc553b1
 price:
   cents: 14995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 357
 slug: nilfisk-core-140-hogedrukreiniger
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+soldOut: true
+start: '2026-08-03T22:00:00.000Z'
 title: Nilfisk Core 140 Powercontrol Hogedrukreiniger

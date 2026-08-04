@@ -1,22 +1,22 @@
-_id: 6a6874e9c1ded6fa2826f838
+_id: 6a68748597845d5b4487842c
 appOnly: false
 brand: Ledvance
 brands:
   - id: 02300cab-6b75-57f0-9f76-7b59e4bb992a
     name: Ledvance
 categories:
-  - 0421f917-ea7c-5a82-9d8a-330e39933e4a
-classicId: '3360120'
-classicProductId: '692708'
+  - b22df725-fbfd-5eba-bac5-1f56cdd6566a
+classicId: '3359902'
+classicProductId: '692709'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 81
+discount: 78
 end: '2026-08-04T21:59:59.999Z'
 freeDelivery: false
-id: 857b4e4b-d026-4f1c-9626-e60fca05995f
+id: 7bf25300-b542-4663-9a2b-9042d61d16d6
 image:
   channels:
     - app
@@ -24,24 +24,30 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 8e10b02e-2882-442f-ac72-b94b6d07463d
+  id: f31e91bf-e8fd-4b8c-ad4d-82f5360306e1
   priority: 0
-  slug: ledvance-bureaulamp-png-product-1
+  slug: ledvance-bureaulamp-2-png-product-1
   type: product
-offerId: 74ef3620-9808-44fb-bfaa-83f29f8f97fb
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1965522
+  priority: 100
+  slug: ledvance-logo
+  type: logo
+offerId: de66e213-d172-4b07-bcf0-c46f0726b7a2
 price:
-  cents: 2695
+  cents: 2995
   currency: EUR
-  value: 26.95
+  value: 29.95
 referencePrice:
   cents: 13900
   currency: EUR
   value: 139
 slug: ledvance-sun-home-wifi-clip-bureau-tafellamp-cri-95
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
-title: Ledvance Sun@Home Wifi Clip Bureau/Tafellamp | CRI 95
-ifi-clip-bureau-tafellamp-cri-95
 soldOut: false
 start: '2026-07-28T22:00:00.000Z'
 title: Ledvance Sun@Home Wifi Clip Bureau/Tafellamp | CRI 95
