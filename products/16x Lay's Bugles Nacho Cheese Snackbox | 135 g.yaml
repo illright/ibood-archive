@@ -1,12 +1,12 @@
-_id: 6a68808ce3a310e48b570d23
+_id: 6a71cdda1c768f716d16f918
 appOnly: false
 brand: Lay's
 brands:
   - id: c2dac7c1-a364-5a06-8d6a-13a54dd40d89
     name: Lay's
 categories:
-  - c31adbc0-0f26-59e8-ac88-1f5080cfd7d9
-classicId: '3362061'
+  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
+classicId: '3371230'
 classicProductId: '720241'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 5b9b0faf-f541-4424-98a0-1acee854de56
+id: d8e65d54-c457-4fea-a21c-20bba71a2400
 image:
   channels:
     - app
@@ -28,7 +28,7 @@ image:
   priority: 0
   slug: 8x-lays-bugles-nacho-cheese-snackbox-135g-be-product-0
   type: product
-offerId: e48256b7-556e-4ec7-a8ab-24fe91a24be4
+offerId: caefb095-7d22-461e-92e5-6ee17a0f626a
 price:
   cents: 1995
   currency: EUR
@@ -38,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 38.78
 slug: 16x-lay-s-bugles-nacho-cheese-snackbox-135-g
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+soldOut: true
+start: '2026-08-04T22:00:00.000Z'
 title: 16x Lay's Bugles Nacho Cheese Snackbox | 135 g

@@ -1,12 +1,12 @@
-_id: 6a6094cd88052486d7edd713
+_id: 6a71cf0705f10f2c70fd0473
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 96eaac6b-305c-5fe3-a767-d3be0de0b234
-classicId: '3353136'
+  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
+classicId: '3371945'
 classicProductId: '721129'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: c3b6add4-c957-51da-9e5c-d26d8f75cdd1
+id: 7d7f58ab-04f7-43b0-ad6a-202875990b3e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4ad22795-8a9c-4c6e-82dc-c4d52140a79f
-  priority: 0
-  slug: pampers-png-logo-0
+  extension: png
+  id: 1919243
+  priority: 100
+  slug: pampers-logo
   type: logo
-offerId: 052ec050-3364-5f9c-b347-d3eedc4a0b6b
+offerId: 2a00e400-bb76-4b8c-8a85-1173411bc132
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 51.6
 slug: 124x-pampers-baby-dry-luiers-maat-3-6-10-kg
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: 124x Pampers Baby-Dry Luiers | Maat 3 | 6–10 kg

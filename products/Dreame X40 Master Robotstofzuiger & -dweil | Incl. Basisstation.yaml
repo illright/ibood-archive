@@ -1,12 +1,12 @@
-_id: 6a686e96907f06bbad42b123
+_id: 6a71ad186a91d5c77bce463e
 appOnly: false
 brand: Dreame
 brands:
   - id: cabfaa29-3b9a-55d0-be33-b1a2473a40fc
     name: Dreame
 categories:
-  - 4f2332d5-89b1-54d0-9afe-9702fe3f1e85
-classicId: '3359223'
+  - 7ddb3550-8c4f-545f-bfed-6a30d8e37c87
+classicId: '3369376'
 classicProductId: '719923'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 67
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 88f64a96-40f6-4ab6-af6a-38fa042ed73f
+id: c2b16f09-325a-4491-b152-76e3faafae37
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f05617a0-1159-4daf-b62f-b0c9f1cec5c0
-  priority: 0
-  slug: dreame-png-logo-0
+  extension: png
+  id: 1862775
+  priority: 100
+  slug: dreame-logo
   type: logo
-offerId: 7d3fe458-5826-47e1-981d-fff2863d1228
+offerId: 4b48fd6d-34c5-4e6d-b15a-04eebf9d20ef
 price:
   cents: 39900
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 1199
 slug: dreame-x40-master-robotstofzuiger-dweil-incl-basisstation
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-04T22:00:00.000Z'
 title: Dreame X40 Master Robotstofzuiger & -dweil | Incl. Basisstation

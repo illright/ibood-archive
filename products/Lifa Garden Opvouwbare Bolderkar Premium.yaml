@@ -1,31 +1,32 @@
-_id: 6a676039e1b8f5ebc5e76f8c
+_id: 6a7190846a91d5c77bce439e
 appOnly: false
 brand: Lifa Garden
 brands:
   - id: f72fddd6-187a-53f4-960a-80948a229bf8
     name: Lifa Garden
 categories:
-  - 5bb39958-edd2-5c6f-b838-8873fe108329
-classicId: '3357806'
-classicProductId: '550347'
+  - 38e9f07f-5f81-505e-8832-c9fae8d296e6
+classicId: '3368896'
+classicProductId: '550348'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 69
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 9bdfea90-c2ae-4eb4-aa3b-cb4913ce93aa
+id: 0b7b177d-1d24-43df-bfdb-d5288826e24d
 image:
   channels:
-    - newsletter
     - app
     - website
-  extension: png
-  id: 1855235
-  priority: 1
-  slug: lifa-garden-opvouwbare-bolderkar-premium
+    - newsletter
+    - all
+  extension: image/png
+  id: fd28c7b4-48ef-4d7d-8762-ae7d55e62a8d
+  priority: 0
+  slug: lifa-garden-opvouwbare-bolderkar-premium-product-31
   type: product
 logo:
   channels:
@@ -37,7 +38,7 @@ logo:
   priority: 100
   slug: lifa-garden-logo
   type: logo
-offerId: e13c2308-8ea6-4018-bb44-33a40eca5fd3
+offerId: 245dcc5e-f84f-4ade-ad83-e189ce3384d5
 price:
   cents: 4295
   currency: EUR
@@ -47,7 +48,7 @@ referencePrice:
   currency: EUR
   value: 139.95
 slug: lifa-garden-opvouwbare-bolderkar-premium
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-04T22:00:00.000Z'
 title: Lifa Garden Opvouwbare Bolderkar Premium
-
+wbare Bolderkar Premium

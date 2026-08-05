@@ -1,31 +1,32 @@
-_id: 6a6741622d6d9d3b5de77fdb
+_id: 6a71c0a6a826cbfca295a510
 appOnly: false
 brand: VirtuFit
 brands:
   - id: ec5b8d91-051a-5ffc-a578-2eee4cae9488
     name: VirtuFit
 categories:
-  - d33e8c53-e6ee-5e03-b483-6c0ab571b93b
-classicId: '3357263'
+  - 54e42d45-7475-5b41-8074-8f79ad6c3eb0
+classicId: '3370207'
 classicProductId: '384065'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 56
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 7ec97ff5-d864-444e-a80a-5aafdfbea041
+id: 0e7c4e98-ad43-42b7-aa7d-b46038b4eed1
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1825455
+    - all
+  extension: image/png
+  id: ce19b1c5-eb8e-43a8-bcec-adaf44ab69eb
   priority: 0
-  slug: virtufit-supboard-cruiser-305-compleet-met-zitje
+  slug: 1-png-product-1
   type: product
 logo:
   channels:
@@ -33,11 +34,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1552891
-  priority: 100
-  slug: virtufit-supboard-cruiser-305-compleet-met-zitje
+  id: 1717108
+  priority: 0
+  slug: virtufit-logo
   type: logo
-offerId: b0172d1a-713f-4228-93ea-a35200cc5aee
+offerId: d83b017f-12aa-4c99-974f-1bcb0dc70669
 price:
   cents: 21995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 499
 slug: virtufit-supboard-cruiser-305-compleet-met-zitje
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: VirtuFit Supboard Cruiser 305 | Complete Set met Kajakzitje

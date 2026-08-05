@@ -1,34 +1,34 @@
-_id: 6a687d41907f06bbad42b9af
+_id: 6a71cf04d93e037534cce6a2
 appOnly: false
 brand: Oral-B
 brands:
   - id: a893c583-12bb-5eca-b4a4-b9b753d3d447
     name: Oral-B
 categories:
-  - 96eaac6b-305c-5fe3-a767-d3be0de0b234
-classicId: '3361739'
-classicProductId: '660844'
+  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
+classicId: '3371926'
+classicProductId: '660845'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 061c8f2f-1dc8-4b40-a86e-049f75685836
+id: 1cd84e44-c3d7-4e0b-b90f-343981da6044
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
     - website
+    - app
   extension: image/png
-  id: fc89b29d-ff60-4659-a176-a3060b20dae7-tr
+  id: 419be4c2-7cd4-40c8-851b-ba4500726ee9-tr
   priority: 0
-  slug: oral-b-io-gentle-care-white-6-ct-xxl-pack-product-0
+  slug: oral-b-io-gentle-care-black-6-ct-xxl-pack-product-0
   type: product
 logo:
   channels:
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: oral-b-logo
   type: logo
-offerId: 36789520-af8c-4d24-8710-6d4e483b3b26
+offerId: 7fcd2d97-ae4c-4cd6-8b8a-8e712c9a2531
 price:
   cents: 2495
   currency: EUR
@@ -50,6 +50,7 @@ referencePrice:
   currency: EUR
   value: 70.99
 slug: 6x-oral-b-io-gentle-care-opzetborstel
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+soldOut: true
+start: '2026-08-04T22:00:00.000Z'
 title: 6x Oral-B iO Gentle Care Opzetborstel
+

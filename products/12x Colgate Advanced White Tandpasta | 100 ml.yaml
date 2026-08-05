@@ -1,22 +1,22 @@
-_id: 6a687bf50a8f2eafd44b03cd
+_id: 6a71cca2f0e98956ffd89767
 appOnly: false
 brand: Colgate
 brands:
   - id: 0230ce7e-c394-5702-91b3-5384008d29dd
     name: Colgate
 categories:
-  - 96eaac6b-305c-5fe3-a767-d3be0de0b234
-classicId: '3360979'
-classicProductId: '697743'
+  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
+classicId: '3370645'
+classicProductId: '669731'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 57
-end: '2026-08-04T21:59:59.999Z'
+discount: 52
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 4bc2bf8a-14b4-4496-9f2b-4b5cf05f3e0d
+id: b2b61419-ef29-4c78-8f92-3c33f96fc191
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 80b4e333-cc6d-405e-ad90-8d5ddeb6c1b4
+  id: e97e00b4-e8fd-47fa-85c7-30ca7cadeab6
   priority: 0
-  slug: colgate-01-png-product-1
+  slug: 12x-colgate-png-product-1
   type: product
 logo:
   channels:
@@ -39,16 +39,16 @@ logo:
   priority: 0
   slug: colgate-logo-0
   type: logo
-offerId: e266b54e-cb91-4acb-ad70-2e59d8093a2a
+offerId: a585d227-82e4-47e3-80e0-a1350a3a26fa
 price:
-  cents: 1495
+  cents: 1695
   currency: EUR
-  value: 14.95
+  value: 16.95
 referencePrice:
   cents: 3499
   currency: EUR
   value: 34.99
 slug: 12x-colgate-advanced-white-tandpasta-100-ml
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-04T22:00:00.000Z'
 title: 12x Colgate Advanced White Tandpasta | 100 ml

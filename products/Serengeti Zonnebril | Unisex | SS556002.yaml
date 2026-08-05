@@ -1,12 +1,12 @@
-_id: 6a688d16907f06bbad42bbbb
+_id: 6a6890653ed86c1b9756f83f
 appOnly: false
 brand: Serengeti
 brands:
   - id: 0e4c40b9-e0be-54f3-bfb3-6aa0d86762dc
     name: Serengeti
 categories:
-  - cf39d4ea-ff1c-5132-b980-59ecfb03a224
-classicId: '3362304'
+  - 99cce8c8-5d5f-5b5c-847c-2d46ff6f68cb
+classicId: '3362516'
 classicProductId: '716940'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.000Z'
 freeDelivery: false
-id: 9008abd3-a489-40d7-8dba-2d6d323de3d7
+id: cd767411-abe2-47ef-9306-3c0962ba4277
 image:
   channels:
     - app
@@ -28,20 +28,23 @@ image:
   priority: 0
   slug: black-ss556002-serengeti-sunglasses-unisex-product-0
   type: product
-offerId: e2cda41a-db9a-4a41-ac6e-18d97191b7d0
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d205e569-8cea-4673-864a-c8b60be8dfa1
+  priority: 0
+  slug: serengeti-logo-0
+  type: logo
+offerId: 71c74dbe-c89d-4f1a-8e7b-bea5d4b210fd
 price:
   cents: 5995
   currency: EUR
   value: 59.95
 referencePrice:
-  cents: 19900
-  currency: EUR
-  value: 199
-slug: serengeti-ss556002-zonnebril-unisex
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
-title: Serengeti Zonnebril | Unisex | SS556002
-rice:
   cents: 19900
   currency: EUR
   value: 199

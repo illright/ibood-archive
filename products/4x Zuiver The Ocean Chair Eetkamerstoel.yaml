@@ -1,22 +1,22 @@
-_id: 6a685daeaf9396670531a4db
+_id: 6a709e59164f3011359dd369
 appOnly: false
 brand: Zuiver
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: Zuiver
 categories:
-  - b22df725-fbfd-5eba-bac5-1f56cdd6566a
-classicId: '3358319'
+  - efa583b5-308e-5e42-bce5-0cf79ecfe4b7
+classicId: '3368335'
 classicProductId: '701310'
 deliveryPrice:
   cents: 1995
   currency: EUR
   value: 19.95
 directCheckout: true
-discount: 77
-end: '2026-08-04T21:59:59.999Z'
+discount: 80
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 15440b1c-efad-4753-9be5-e17a797fa984
+id: a95f5ad4-5751-44e1-928d-d2d4f896a5ca
 image:
   channels:
     - app
@@ -30,24 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2026182
-  priority: 100
-  slug: zuiver-logo
+    - all
+  extension: image/png
+  id: 30018a35-ec1f-40e7-9d3c-3838ce13f0a8
+  priority: 0
+  slug: zuiver-png-logo-0
   type: logo
-offerId: 1a5e1a2f-6e19-4805-bd68-c65d9bed02b0
+offerId: 415b4fdf-4a2e-4777-9c45-74bb88d78d6a
 price:
-  cents: 13900
+  cents: 11900
   currency: EUR
-  value: 139
+  value: 119
 referencePrice:
   cents: 59600
   currency: EUR
   value: 596
 slug: 4x-zuiver-the-ocean-chair-eetkamerstoel
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: 4x Zuiver The Ocean Chair Eetkamerstoel

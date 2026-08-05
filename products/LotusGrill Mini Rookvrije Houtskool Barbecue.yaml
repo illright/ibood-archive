@@ -1,22 +1,22 @@
-_id: 6a686ee7e8beb8794ddda758
+_id: 6a71adf79eabf6403342da33
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 5cc7addb-8ba8-540d-a443-4659cdf7d9db
-classicId: '3359435'
-classicProductId: '274653'
+  - df960104-57e2-589d-948e-2caf5eeeccd2
+classicId: '3369816'
+classicProductId: '274656'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 46
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: cfdaa9bf-d9a2-4fe6-b07e-88979b5a37db
+id: 55eeb634-1a40-48e8-9fea-7b604a929f14
 image:
   channels:
     - app
@@ -24,11 +24,11 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 565c53f9-c027-49e4-a02b-846eaa9e8a34
+  id: 6f2705dd-2846-4bd7-af9f-5fb400cece2f-tr-cr
   priority: 0
-  slug: grillssss-2-png-product-3
+  slug: lotusgrill-mini-holzkohle-tischgrill-jpg-product-1
   type: product
-offerId: db808039-6718-4f3e-9b73-096a916f8ce0
+offerId: 6e813215-6fac-4c4b-8ffe-799a637b506c
 price:
   cents: 6995
   currency: EUR
@@ -39,5 +39,5 @@ referencePrice:
   value: 129
 slug: lotusgrill-mini-houtskool-bbq
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: LotusGrill Mini Rookvrije Houtskool Barbecue

@@ -1,12 +1,12 @@
-_id: 6a5a2b1a0ae90733494147f4
+_id: 6a71d02e05f10f2c70fd04b7
 appOnly: false
 brand: Wilkinson
 brands:
   - id: e6fe9437-a1da-5e04-87d5-4823467c53fc
     name: Wilkinson
 categories:
-  - 96eaac6b-305c-5fe3-a767-d3be0de0b234
-classicId: '3341674'
+  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
+classicId: '3372770'
 classicProductId: '720618'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 62
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 8b7b061c-f5d9-5960-a619-5bcaa14df61e
+id: 0bd2bb7d-7331-4d7e-997e-a04705e0d8e8
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4eb60708-5519-4a11-884e-4f9bd0defd3c
-  priority: 0
-  slug: wilkinson-sword-png-logo-0
+  extension: png
+  id: 2008144
+  priority: 100
+  slug: wilkinson-logo
   type: logo
-offerId: ef82e290-488e-51d5-afa8-574abdfa38bf
+offerId: f59fee63-5b5e-4ac0-ab64-d68916e1523a
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 38.98
 slug: 2x-wilkinson-sword-intuition-complete-scheersysteem-5-mesjes
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: 2x Wilkinson Sword Intuition Complete Scheersysteem | 5 Mesjes

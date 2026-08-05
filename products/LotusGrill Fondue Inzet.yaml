@@ -1,12 +1,12 @@
-_id: 6a686ed0d7275f734076d1c7
+_id: 6a71adcf3cd407b19f0cce24
 appOnly: false
 brand: LotusGrill
 brands:
   - id: 2afb7ee4-1ecf-5345-8dbe-aa74f86ed379
     name: LotusGrill
 categories:
-  - 5cc7addb-8ba8-540d-a443-4659cdf7d9db
-classicId: '3359392'
+  - df960104-57e2-589d-948e-2caf5eeeccd2
+classicId: '3369714'
 classicProductId: '641109'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 41
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 40fb3505-d20f-477f-9552-0f08ac2b8433
+id: bc1d72a7-ec2e-446f-bf08-5cf2d591e63b
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: lotusgrill-fondue-einsatz-jpg-product-101
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 72117e8a-dd5f-496f-be21-6b3ec452b7a1
-  priority: 0
-  slug: lotusgrill-png-logo-0
-  type: logo
-offerId: 7c53612f-3e7f-4dda-a80a-a64ecbd014cf
+offerId: 6cd77afe-228c-4690-851e-a5890053683f
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 119
 slug: lotusgrill-fondue-inzet
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: LotusGrill Fondue Inzet

@@ -1,12 +1,12 @@
-_id: 6a6b6294e26515926a646e1b
+_id: 6a71cbbd2edfd40ea6b4d42a
 appOnly: false
 brand: Calvin Klein
 brands:
   - id: 5e1f05ec-46df-5b7d-b02f-a93783163a82
     name: Calvin Klein
 categories:
-  - c28dc1e4-9c52-5162-854c-58ea49bb3f27
-classicId: '3367089'
+  - 43c48f42-353c-5c2a-890a-00b928fb2ec6
+classicId: '3370343'
 classicProductId: '370199'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 4b2e7d2e-d38e-407e-8e4c-36630eac20ae
+id: ee935889-0fd6-4199-aab7-d951712c7ed0
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 100
   slug: calvin-klein-in2u-her-edt-50-ml
   type: product
-offerId: f0089f38-456e-4e18-a845-5e93f9231b2d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1790666
+  priority: 100
+  slug: calvin-klein-logo
+  type: logo
+offerId: b550e3e1-3806-4e46-8030-49525c5e8944
 price:
   cents: 1695
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 34.95
 slug: calvin-klein-in2u-her-edt-50-ml
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: Calvin Klein In2U Her | EdT 50 ml

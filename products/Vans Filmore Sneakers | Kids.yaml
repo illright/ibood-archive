@@ -1,31 +1,32 @@
-_id: 6a675818c159c75033e78aaa
+_id: 6a68aa0b0ba53f51e51d6a54
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - e6174112-993c-5230-a070-5317fc39939c
-classicId: '3357614'
-classicProductId: '394543'
+  - d586978f-a217-5555-adc0-9fa9eac46feb
+classicId: '3365554'
+classicProductId: '692423'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 60
-end: '2026-08-04T21:59:59.999Z'
+directCheckout: false
+discount: 56
+end: '2026-08-11T21:59:59.000Z'
 freeDelivery: false
-id: 5976c1b9-607b-4af6-9a08-2513719b4613
+id: 94e07f9a-c76d-4014-ad1b-0c41f9152b16
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1399235
+    - all
+  extension: image/png
+  id: 9f157d5f-3f3f-486d-818f-b967d6bb4d41-tr
   priority: 0
-  slug: vans-filmore-sneakers-kids
+  slug: 36-pine-forest-vnen6-vn000dc8en61-filmore-suede-canvas-pine-forest-junior-vans-product-1
   type: product
 logo:
   channels:
@@ -37,20 +38,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 0762a05c-51f7-442e-b18c-0bc4c45e359e
+offerId: 6e73ebd8-cf61-47e2-8768-003bda889576
 price:
-  cents: 2000
+  cents: 1995
   currency: EUR
-  value: 20
+  value: 19.95
 referencePrice:
-  cents: 4995
+  cents: 4500
   currency: EUR
-  value: 49.95
+  value: 45
 slug: vans-filmore-sneakers-kids
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
-title: Vans Filmore Sneakers | Kids
-ans-filmore-sneakers-kids
 soldOut: false
 start: '2026-07-28T22:00:00.000Z'
 title: Vans Filmore Sneakers | Kids

@@ -1,12 +1,12 @@
-_id: 6a68750cc34936d1048cccfd
+_id: 6a718f58e94d88cde77aea08
 appOnly: false
 brand: Label51
 brands:
   - id: 27c0a8fc-2f89-574d-b9bc-bf6b7bd1469f
     name: Label51
 categories:
-  - 0421f917-ea7c-5a82-9d8a-330e39933e4a
-classicId: '3360225'
+  - aeae52f2-a13f-5ab4-99ab-3dc128e44e46
+classicId: '3368538'
 classicProductId: '650120'
 deliveryPrice:
   cents: 1995
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 19.95
 directCheckout: false
 discount: 62
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 91349b65-4801-4590-a7fa-6b690abaef14
+id: e5847e00-f3a8-4f00-9b89-2b5c0f7c7dcf
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1684394
-  priority: 100
-  slug: label51-logo
+    - all
+  extension: image/png
+  id: d08fd7d5-eaed-46f8-b3c7-36aea717e190
+  priority: 0
+  slug: label-51-copy-png-logo-0
   type: logo
-offerId: 76fbceb6-19e7-408b-b8fa-5221f51cb064
+offerId: dd0b3454-0063-4a04-b4ad-7df703193ec1
 price:
   cents: 26900
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 699
 slug: label51-elektrische-fauteuil-stockholm-77x87x112-cm
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: Label51 Stockholm Elektrische Fauteuil | 77x87x112 cm

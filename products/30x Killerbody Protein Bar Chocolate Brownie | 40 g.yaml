@@ -1,12 +1,12 @@
-_id: 6a6880890a8f2eafd44b0706
+_id: 6a71cdb2d416a7abef6b6f66
 appOnly: false
 brand: Killerbody
 brands:
   - id: bbd10e76-3533-5624-acb0-ed15b331c103
     name: Killerbody
 categories:
-  - c31adbc0-0f26-59e8-ac88-1f5080cfd7d9
-classicId: '3362052'
+  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
+classicId: '3371110'
 classicProductId: '717464'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,21 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 22604d49-c7e8-405f-8478-96463037e517
+id: 5f208913-e401-48d7-b034-fd0e5fa651b9
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: b32d4614-1c62-4c2d-af5e-503b0a4a590e
-  priority: 0
-  slug: killerbody-04-png-product-1
+  id: 0a9c257a-e719-46fe-9e15-8c47bfe72900
+  priority: 1
+  slug: killerbody-03-png-product-1
   type: product
-offerId: e7084d97-6307-44c3-962f-ca8388d105b6
+offerId: 6705359a-324b-4e67-8199-498fbb373515
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +39,5 @@ referencePrice:
   value: 68.7
 slug: 30x-killerbody-protein-bar-chocolate-brownie-40-g
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: 30x Killerbody Protein Bar Chocolate Brownie | 40 g

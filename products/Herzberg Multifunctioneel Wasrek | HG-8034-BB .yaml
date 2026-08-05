@@ -1,12 +1,12 @@
-_id: 6a686e70d4140a8dd8cc902f
+_id: 6a71ad693cd407b19f0ccd89
 appOnly: false
 brand: Herzberg
 brands:
   - id: 851eeb96-840c-5a7b-add1-53815d83e7ba
     name: Herzberg
 categories:
-  - aa70150c-f13d-5018-a6ae-97713da4d0fa
-classicId: '3359103'
+  - b8824d00-e458-5c76-81b8-b88ef3f010bf
+classicId: '3369544'
 classicProductId: '703004'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 3191f0d4-42f1-4c36-8019-08737e76828f
+id: bdc1ae46-bd07-4323-b63c-fd67a4934859
 image:
   channels:
     - app
@@ -28,7 +28,16 @@ image:
   priority: 0
   slug: herzberg-hg-8034bb-moving-clothes-rack-black-product-4
   type: product
-offerId: 45ad171d-96a7-4158-aa7e-2442935fd11e
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  id: 186293
+  priority: 100
+  slug: herzberg-logo
+  type: logo
+offerId: 8301eb67-e367-496d-a4a3-04fd90752641
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +48,5 @@ referencePrice:
   value: 49.9
 slug: herzberg-multifunctioneel-wasrek-hg-8034-bb
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: 'Herzberg Multifunctioneel Wasrek | HG-8034-BB '

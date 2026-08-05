@@ -1,12 +1,12 @@
-_id: 6a686edf0b0ca7f10aa15328
+_id: 6a71addad690fc3626c3e47c
 appOnly: false
 brand: VDN
 brands:
   - id: f9fc7e91-151f-53b4-8956-47ed556113c2
     name: VDN
 categories:
-  - d35361ed-7825-52ad-8856-cb4aaa9a41c3
-classicId: '3359422'
+  - 960a6c04-8541-55e6-8c36-ab5d8c7136af
+classicId: '3369746'
 classicProductId: '720702'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 28
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 43a534df-450a-46b7-b82b-3f6437959af5
+id: ff399422-1bd5-4182-8af9-813f2e7e0070
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b12b7b6e-31cd-44d2-8531-1a24cac7b529
-  priority: 0
-  slug: vdn-logo-png-logo-0
+  extension: png
+  id: 1482953
+  priority: 100
+  slug: vdn-logo
   type: logo
-offerId: 9e688f9c-c58b-4cdd-b941-9cf434c184f1
+offerId: 6155da76-38c2-42ff-8ba6-9b20b3ad22ec
 price:
   cents: 2895
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 39.95
 slug: 5x-vdn-glazen-vershoudbakje-druk
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: 5x VDN Glazen Vershoudbakje | Druk

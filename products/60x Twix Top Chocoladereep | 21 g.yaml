@@ -1,12 +1,12 @@
-_id: 6a6880dd907f06bbad42bb77
+_id: 6a71cfd0d416a7abef6b71a9
 appOnly: false
 brand: Twix
 brands:
   - id: 2cc2c4d6-477a-511d-b5b0-172b3a5d0088
     name: Twix
 categories:
-  - c31adbc0-0f26-59e8-ac88-1f5080cfd7d9
-classicId: '3362166'
+  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
+classicId: '3372430'
 classicProductId: '719804'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 75
-end: '2026-08-04T21:59:59.999Z'
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 7b96d0b9-268e-42a3-a3ee-dd0644c55717
+id: e0b66c36-1a80-4767-a4e7-a072832ee7a3
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 28681f56-b8e9-4475-9466-d0b22d63a5a9
-  priority: 0
-  slug: twix-png-logo-0
+  extension: png
+  id: 1788746
+  priority: 100
+  slug: twix-logo
   type: logo
-offerId: f4c402ef-c8fa-4787-80b0-3b1af7ce0ec2
+offerId: 4dfcae89-b4a4-4ee9-882c-726b8f33bc73
 price:
   cents: 995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 40.2
 slug: 60x-twix-top-chocoladereep-21-g
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-04T22:00:00.000Z'
 title: 60x Twix Top Chocoladereep | 21 g

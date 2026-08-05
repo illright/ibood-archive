@@ -1,31 +1,32 @@
-_id: 6a68a9abbf2f0943eb2d1542
+_id: 6a7192929eabf6403342d74e
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365472'
-classicProductId: '457390'
+  - ef819d25-b8ca-5f8f-96ef-0ad4502d9e19
+classicId: '3369098'
+classicProductId: '556958'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 68
+directCheckout: true
+discount: 50
 end: '2026-08-11T21:59:59.000Z'
 freeDelivery: false
-id: ea1dfcb1-98b1-422f-acf2-805e097e7533
+id: 089431dc-e35f-4bec-aaac-7e18bfc524d6
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1645634
+    - all
+  extension: image/png
+  id: fd691274-2ed2-403e-bc59-1723f349f7ae
   priority: 0
-  slug: jack-jones-glenn-jj-original-jeans
+  slug: jack-jones-144-png-product-2
   type: product
 logo:
   channels:
@@ -37,11 +38,11 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 1980163f-f9eb-47fa-87f3-744f332d0e5e
+offerId: 353d58ab-0ec0-45cc-b9ec-76a0ddbf4303
 price:
-  cents: 1595
+  cents: 2495
   currency: EUR
-  value: 15.95
+  value: 24.95
 referencePrice:
   cents: 4999
   currency: EUR
@@ -50,4 +51,3 @@ slug: jack-jones-glenn-jj-original-jeans
 soldOut: false
 start: '2026-07-28T22:00:00.000Z'
 title: Jack & Jones Intelligence Glenn JJ Original Jeans | Heren
-nn JJ Original Jeans | Heren
