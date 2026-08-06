@@ -1,12 +1,12 @@
-_id: 6a689a0d3ed86c1b9756ffa1
+_id: 6a730c9b31af582032a6961e
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 13a6a1fe-19b6-5f75-bc32-655860b6610f
-classicId: '3365120'
+  - fb98d748-edf1-59fa-9b01-064acf65f306
+classicId: '3373946'
 classicProductId: '720203'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-08-05T21:59:59.999Z'
+end: '2026-08-12T21:59:59.999Z'
 freeDelivery: false
-id: 38ab6b20-5063-44d8-adaf-b2a9a40f0173
+id: 6cdfe146-ce3e-4d21-9307-32b4d770a67e
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f9f4d6c9-18f3-480d-bac0-d653d3f777b6
-  priority: 0
-  slug: logo-trust-png-logo-0
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
   type: logo
-offerId: b08c10b1-fc20-46ee-a53e-bf380d6cf0fc
+offerId: 8af80372-88b0-4c71-9fb4-ad309e96f3e6
 price:
   cents: 2295
   currency: EUR
@@ -51,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 49.99
 slug: trust-bayo-plus-multidevice-ergonomische-draadloze-muis-zwart
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-05T22:00:00.000Z'
 title: Trust Bayo+ Multidevice Ergonomische Draadloze Muis | Zwart

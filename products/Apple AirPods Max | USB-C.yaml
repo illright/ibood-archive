@@ -1,12 +1,12 @@
-_id: 6a6899f92e8f7f5425516524
+_id: 6a730c6bb8fc3345d67341e0
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 58ab9996-4257-5e83-b93f-2a12511cdce2
-classicId: '3365092'
+  - dd2d8cd7-6f38-5914-9fc3-7552227cb1f8
+classicId: '3373891'
 classicProductId: '616444'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 17
-end: '2026-08-05T21:59:59.999Z'
+end: '2026-08-12T21:59:59.999Z'
 freeDelivery: false
-id: 048f564e-af04-4a1e-9b28-ccf38b0b06f8
+id: b81564d2-7590-4f45-820f-77c843238bd5
 image:
   channels:
     - website
@@ -36,7 +36,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: cc0ef33f-6be5-4a2a-93af-fa9e0983b82e
+offerId: 1ea44aec-5d78-40d0-8873-a3de8ac2f0fa
 price:
   cents: 49900
   currency: EUR
@@ -46,6 +46,6 @@ referencePrice:
   currency: EUR
   value: 599
 slug: apple-airpods-max-usb-c
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-05T22:00:00.000Z'
 title: Apple AirPods Max | USB-C

@@ -1,12 +1,12 @@
-_id: 6a689a4e0a8f2eafd44b0c47
+_id: 6a730c7c22a649e71255d9ec
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 13a6a1fe-19b6-5f75-bc32-655860b6610f
-classicId: '3365169'
+  - fb98d748-edf1-59fa-9b01-064acf65f306
+classicId: '3373910'
 classicProductId: '720204'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-08-05T21:59:59.999Z'
+end: '2026-08-12T21:59:59.999Z'
 freeDelivery: false
-id: a5073d9f-e056-46f8-9918-b8fa433c4591
+id: 5af4264a-7a16-4e81-8076-f5a2f3da4636
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4388df7f-d7e9-41d9-9ea7-ba09096d641d
-  priority: 0
-  slug: logo-trust-png-logo-0
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
   type: logo
-offerId: fe2eddfd-3add-4885-865f-6d9b23698e91
+offerId: 66e3a5f5-533b-4487-9866-75c4db1815da
 price:
   cents: 1995
   currency: EUR
@@ -51,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 39.99
 slug: trust-zeff-metalen-laptopstandaard
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-05T22:00:00.000Z'
 title: Trust Zeff Metalen Laptopstandaard

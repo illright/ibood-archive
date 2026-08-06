@@ -1,12 +1,12 @@
-_id: 6a69ee3d5df128e31e6682a3
+_id: 6a730cb922a649e71255da83
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - 13a6a1fe-19b6-5f75-bc32-655860b6610f
-classicId: '3366044'
+  - fb98d748-edf1-59fa-9b01-064acf65f306
+classicId: '3373988'
 classicProductId: '721183'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 88
-end: '2026-08-05T21:59:59.999Z'
+end: '2026-08-12T21:59:59.999Z'
 freeDelivery: false
-id: c0702b3e-e385-5969-b7b3-29e5b47c2c7f
+id: feebd254-62d5-406a-b562-db76a142b4e5
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1ff3a31f-d62c-4395-b5d0-87ec7a1b1c76
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1789994
+  priority: 100
+  slug: apple-logo
   type: logo
-offerId: 2fe82043-8750-5689-a869-4d31e3da2302
+offerId: f4ef4750-8141-4159-aac8-c5fd11972bc1
 price:
   cents: 67900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 5499
 slug: apple-imac-pro-27-retina-5k
 soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-05T22:00:00.000Z'
 title: Apple iMac Pro | 27" Retina 5K | Xeon W | 32 GB | 1 TB SSD

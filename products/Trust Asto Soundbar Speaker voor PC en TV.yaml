@@ -1,12 +1,12 @@
-_id: 6a689a1c6d4a7b82f193c2af
+_id: 6a730ca222a649e71255da45
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - 13a6a1fe-19b6-5f75-bc32-655860b6610f
-classicId: '3365143'
+  - fb98d748-edf1-59fa-9b01-064acf65f306
+classicId: '3373955'
 classicProductId: '720205'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-08-05T21:59:59.999Z'
+end: '2026-08-12T21:59:59.999Z'
 freeDelivery: false
-id: 4628150c-4df0-4ec3-b877-b6b7f2d4927e
+id: 3e4d9077-0513-4c4a-82aa-99bcbd9bb8e1
 image:
   channels:
     - app
@@ -31,16 +31,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b358e59c-b7bc-433f-8510-66c3627d83b2
-  priority: 0
-  slug: logo-trust-png-logo-0
+  extension: png
+  id: 1993260
+  priority: 100
+  slug: trust-logo
   type: logo
-offerId: fe7cc7f7-907a-4622-bfc5-595c81006807
+offerId: b3613500-ced8-4583-af59-ebdd4bae29d4
 price:
   cents: 1795
   currency: EUR
@@ -51,5 +50,5 @@ referencePrice:
   value: 39.99
 slug: trust-asto-soundbar-speaker-voor-pc-en-tv
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-05T22:00:00.000Z'
 title: Trust Asto Soundbar Speaker voor PC en TV
