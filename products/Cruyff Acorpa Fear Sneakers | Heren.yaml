@@ -1,22 +1,22 @@
-_id: 6a72ef611b61c3f8746d06b5
+_id: 6a75ad0a0077ea54e9e9bd27
 appOnly: false
 brand: Cruyff
 brands:
   - id: ac6dc579-3d41-563b-bc45-22b7dda072a3
     name: Cruyff
 categories:
-  - d2ace465-ced7-4b76-8772-19b1fef31329
-classicId: '3373659'
-classicProductId: '698779'
+  - eff3a805-c188-5067-a4aa-2a7b87ab1822
+classicId: '3375424'
+classicProductId: '698787'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 68
-end: '2026-08-11T21:59:59.999Z'
+directCheckout: true
+discount: 63
+end: '2026-08-18T21:59:59.000Z'
 freeDelivery: false
-id: b09a5d02-e0de-4d59-a2d9-7823cfba2295
+id: b5b8dd1b-3433-4640-b4f7-7354a08a04be
 image:
   channels:
     - app
@@ -24,29 +24,24 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 844f25ed-1cf8-4283-bf8a-7212bc7db70b-tr
+  id: cac61ffd-21c4-4dac-8feb-000ff7b61027-tr
   priority: 0
-  slug: 42-white-cs261020-100-men-acorpa-fear-cruyff-product-1
+  slug: 45-black-cs261020-998-men-acorpa-fear-cruyff-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1560940
-  priority: 100
-  slug: cruyff-logo
-  type: logo
-offerId: a8a439ee-ff71-490a-8c71-f595ac9e488e
+offerId: 5bf9a71f-02c7-4909-b2c3-90e4e6c59bf0
 price:
-  cents: 3000
+  cents: 3500
   currency: EUR
-  value: 30
+  value: 35
 referencePrice:
   cents: 9495
   currency: EUR
   value: 94.95
+slug: cruyff-acorpa-fear-sneakers-heren
+soldOut: false
+start: '2026-07-21T22:00:00.000Z'
+title: Cruyff Acorpa Fear Sneakers | Heren
+: 94.95
 slug: cruyff-acorpa-fear-sneakers-heren
 soldOut: false
 start: '2026-08-04T22:00:00.000Z'
