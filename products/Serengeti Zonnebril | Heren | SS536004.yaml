@@ -1,12 +1,12 @@
-_id: 6a68905a3ed86c1b9756f818
+_id: 6a7597bb129c836ee39ecc57
 appOnly: false
 brand: Serengeti
 brands:
   - id: 0e4c40b9-e0be-54f3-bfb3-6aa0d86762dc
     name: Serengeti
 categories:
-  - 99cce8c8-5d5f-5b5c-847c-2d46ff6f68cb
-classicId: '3362499'
+  - d9e7d222-2754-432c-b5c8-167bb05739fe
+classicId: '3374982'
 classicProductId: '716932'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 70
-end: '2026-08-11T21:59:59.000Z'
+end: '2026-08-16T21:59:59.999Z'
 freeDelivery: false
-id: ae48fba9-5996-4c37-918e-1e4d1515cf8a
+id: 6b0d86ce-9e15-4cd2-8e69-88637ac31084
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: havana-ss536004-serengeti-sunglasses-men-product-0
   type: product
-offerId: 019984b3-cd06-4dd9-bb35-3918ab2d90b4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d205e569-8cea-4673-864a-c8b60be8dfa1
+  priority: 0
+  slug: serengeti-logo-0
+  type: logo
+offerId: 58645925-5984-426e-bde7-8d5b75395766
 price:
   cents: 5995
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 199
 slug: serengeti-ss536004-zonnebril-heren
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-09T22:00:00.000Z'
 title: Serengeti Zonnebril | Heren | SS536004

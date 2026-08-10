@@ -1,22 +1,22 @@
-_id: 6a75adde0077ea54e9e9bd37
+_id: 6a71c09f52e5de37ff1e87db
 appOnly: false
 brand: Regatta
 brands:
   - id: febd98de-cedc-5333-a234-06b0e44c9b32
     name: Regatta
 categories:
-  - b8e9cec8-8bdf-4998-8561-82e3b1b1876a
-classicId: '3375428'
-classicProductId: '718108'
+  - 203b3c30-4d5e-58f6-b262-7c56548345ec
+classicId: '3370183'
+classicProductId: '718110'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 56
-end: '2026-08-09T21:59:59.999Z'
+directCheckout: false
+discount: 58
+end: '2026-08-11T21:59:59.999Z'
 freeDelivery: false
-id: 25258ca0-1142-40af-8bf7-e4e1af4b03a5
+id: b7ba44a6-f868-424b-93be-aa06ae119182
 image:
   channels:
     - app
@@ -30,19 +30,20 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1638661
-  priority: 100
-  slug: regatta-logo
+    - all
+  extension: image/png
+  id: 21b81c93-1dd1-4df3-b905-6b2839a6fdb5
+  priority: 0
+  slug: regatta-png-logo-0
   type: logo
-offerId: 4f872144-1c27-40c3-914c-b3d9c517da26
+offerId: 7f8aa840-1977-43e3-917d-b65a1aa6f96b
 price:
-  cents: 3995
+  cents: 3795
   currency: EUR
-  value: 39.95
+  value: 37.95
 referencePrice:
   cents: 9000
   currency: EUR
@@ -50,6 +51,4 @@ referencePrice:
 slug: regatta-lito-sandalen-heren
 soldOut: false
 start: '2026-08-04T22:00:00.000Z'
-title: Regatta Lito Sandalen | Heren
-:00:00.000Z'
 title: Regatta Lito Sandalen | Heren

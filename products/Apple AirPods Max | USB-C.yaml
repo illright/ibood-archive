@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 17
+discount: 33
 end: '2026-08-12T21:59:59.999Z'
 freeDelivery: false
 id: b81564d2-7590-4f45-820f-77c843238bd5
@@ -38,14 +38,14 @@ logo:
   type: logo
 offerId: 1ea44aec-5d78-40d0-8873-a3de8ac2f0fa
 price:
-  cents: 49900
+  cents: 39900
   currency: EUR
-  value: 499
+  value: 399
 referencePrice:
   cents: 59900
   currency: EUR
   value: 599
 slug: apple-airpods-max-usb-c
-soldOut: false
+soldOut: true
 start: '2026-08-05T22:00:00.000Z'
 title: Apple AirPods Max | USB-C
