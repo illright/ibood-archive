@@ -1,12 +1,12 @@
-_id: 6a68aa04bf2f0943eb2d15bf
+_id: 6a79ad30d8e8d1117a7ec7a9
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365549'
+  - dfab83fa-8a82-4f6b-a977-acabd3545de0
+classicId: '3375736'
 classicProductId: '300974'
 deliveryPrice:
   cents: 595
@@ -14,18 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 54
-end: '2026-08-11T21:59:59.000Z'
+end: '2026-08-16T21:59:59.999Z'
 freeDelivery: false
-id: b8431ccc-9ac7-4a49-9523-6b283029c01d
+id: 85f41a29-a5cf-4409-820a-4f9916370ef0
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1478100
+    - all
+  extension: image/png
+  id: 31416893-113e-4096-a8d4-539039e88bba-tr-cr
   priority: 0
-  slug: vans-atwood-sneakers
+  slug: 41-canvas-black-white-vn187-vn000tuy1871-atwood-canvas-black-white-mens-vans-product-0
   type: product
 logo:
   channels:
@@ -35,9 +36,9 @@ logo:
   extension: jpg
   id: 1263533
   priority: 100
-  slug: vans-atwood-sneakers
+  slug: sneakersy-vans-atwood-meskie
   type: logo
-offerId: 3d3c3bd6-9af8-466b-ad05-51b687ddc06b
+offerId: 44904dc8-cb99-46c6-8d56-e225c4d4b01c
 price:
   cents: 2995
   currency: EUR
@@ -48,5 +49,5 @@ referencePrice:
   value: 65
 slug: vans-atwood-sneakers
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-10T22:00:00.000Z'
 title: Vans Atwood Sneakers | Heren
