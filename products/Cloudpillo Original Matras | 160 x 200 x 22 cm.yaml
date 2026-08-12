@@ -1,12 +1,12 @@
-_id: 6a71d7fcd416a7abef6b7267
+_id: 6a7b062a6846cc0017da0c43
 appOnly: false
 brand: CloudPillo
 brands:
   - id: f65811ef-cc17-58f6-aa29-c85b64613402
     name: CloudPillo
 categories:
-  - ce13b6ab-3523-5817-a380-08b8587dc4e3
-classicId: '3372845'
+  - 494883f6-68b4-5eaf-ac80-ae897ff16817
+classicId: '3377669'
 classicProductId: '683741'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 2d466d39-a105-490f-bea3-06bbdeb01ff9
+id: 5be7b3f9-638d-42ad-910e-41e1ac1ea6c0
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: cf1c97ba-1872-4f09-9049-815cd0662078
-  priority: 0
-  slug: cp01-png-product-1
+  id: a82ed862-ba57-4329-b53e-56a1f68e5ea7
+  priority: 1
+  slug: cloudpillo-32-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: cloudpillo-logo-0
   type: logo
-offerId: 169d9f49-fdd5-46af-ab55-4394f811918b
+offerId: f596496c-d4e7-4607-8b98-60b453d1744f
 price:
   cents: 30900
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 775
 slug: cloudpillo-original-matras-160-x-200-x-22-cm
 soldOut: true
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Cloudpillo Original Matras | 160 x 200 x 22 cm

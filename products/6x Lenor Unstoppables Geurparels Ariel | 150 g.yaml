@@ -1,12 +1,12 @@
-_id: 6a71cdeb1c768f716d16f92a
+_id: 6a7b1483af3d97a374953676
 appOnly: false
 brand: Lenor
 brands:
   - id: e07bbf59-7c5e-502f-acab-fa2bb6bdfa34
     name: Lenor
 categories:
-  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
-classicId: '3371272'
+  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
+classicId: '3379834'
 classicProductId: '718082'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 5a00d084-fd0a-4b9d-b3e5-c14fa4a80615
+id: 0c457aee-ffea-4839-aa2c-06e1484a2502
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 54b3ed15-feb7-45b2-b524-723baa4449d6
-  priority: 0
-  slug: lenor-png-logo-0
+  extension: png
+  id: 1526341
+  priority: 100
+  slug: lenor-logo
   type: logo
-offerId: b0df0652-cf45-4833-8595-e4237609f66c
+offerId: 612bc2e9-bd33-4820-9da5-6acf11e2167e
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 45.43
 slug: 6x-lenor-unstoppables-geurparels-ariel-150-g
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: 6x Lenor Unstoppables Geurparels Ariel | 150 g

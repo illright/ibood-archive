@@ -1,22 +1,22 @@
-_id: 6a72ef662451f4333aea890c
+_id: 6a79d645ab3297fac3c02282
 appOnly: false
 brand: Cruyff
 brands:
   - id: ac6dc579-3d41-563b-bc45-22b7dda072a3
     name: Cruyff
 categories:
-  - d2ace465-ced7-4b76-8772-19b1fef31329
-classicId: '3373666'
-classicProductId: '698817'
+  - 42cb1c65-a264-443a-a7f9-60e18b3b8c3c
+classicId: '3375957'
+classicProductId: '698822'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 69
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 618e0c66-3123-4ce6-8b2f-f69dfccd9332
+id: c3e12fa3-c7b8-4873-8d75-797ec84c366a
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 598949ee-fd1f-43ec-8d31-c5f4dc8f279e-tr
+  id: f73b6360-4a70-406d-aba8-265a8e7b85e2-tr
   priority: 0
-  slug: xxl-alaskan-blue-csa261015-612-men-hydrogen-tee-cruyff-product-0
+  slug: m-navy-csa261015-601-men-hydrogen-tee-cruyff-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: cruyff-logo
   type: logo
-offerId: 4d8a65f3-8e16-4c3d-8726-2be32964d12c
+offerId: 1a055ae4-6708-49a0-80d1-99e4e9c6433c
 price:
   cents: 1250
   currency: EUR
@@ -48,6 +48,7 @@ referencePrice:
   currency: EUR
   value: 39.95
 slug: cruyff-onyx-t-shirt-heren
-soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+soldOut: true
+start: '2026-08-11T22:00:00.000Z'
 title: Cruyff  Hydrogen T-Shirt | Heren
+irt | Heren

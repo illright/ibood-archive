@@ -1,12 +1,12 @@
-_id: 6a71cd3005f10f2c70fd01e7
+_id: 6a7b139c0ebafe8640b69590
 appOnly: false
 brand: Fairy
 brands:
   - id: 9b17ac23-8210-5492-b4df-a7456fdff12a
     name: Fairy
 categories:
-  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
-classicId: '3370808'
+  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
+classicId: '3379594'
 classicProductId: '720614'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 68
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: fa0292cf-0694-4333-9e34-6cb58ea55596
+id: 450a6333-11d6-4fed-8e72-5c9e372dc65f
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2bfe9fed-fa71-4cfb-86c1-49ca7182850e
-  priority: 0
-  slug: fairy-png-logo-0
+  extension: png
+  id: 1912430
+  priority: 100
+  slug: fairy-logo
   type: logo
-offerId: 0549896e-7363-45f2-9eb0-8dd9b15e9473
+offerId: ebf31a13-b741-4c71-9273-14bd7bed249f
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 78.8
 slug: 8-fairy-afwasmiddel-pommegranate-900-ml
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: 8× Fairy Afwasmiddel Pommegranate | 900 ml

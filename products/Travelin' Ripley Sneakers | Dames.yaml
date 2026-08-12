@@ -1,22 +1,22 @@
-_id: 6a71c0b67a851d9b0fb45032
+_id: 6a79d5daab3297fac3c021a8
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 203b3c30-4d5e-58f6-b262-7c56548345ec
-classicId: '3370222'
-classicProductId: '719363'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375885'
+classicProductId: '719366'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: fc1d9c6e-6197-4c1a-88ca-3633a0694a5c
+id: 04ed55eb-bc18-4d79-8442-ed9e0c96a9d8
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: ripley-png-product-1
   type: product
-offerId: 22950e06-9c07-4833-89e7-35498ee38d91
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
+  type: logo
+offerId: 144262d5-af27-4057-91b7-fed62f7bba5b
 price:
   cents: 4995
   currency: EUR
@@ -38,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 189.95
 slug: travelin-ripley-sneakers-dames
-soldOut: true
-start: '2026-08-04T22:00:00.000Z'
+soldOut: false
+start: '2026-08-11T22:00:00.000Z'
 title: Travelin' Ripley Sneakers | Dames

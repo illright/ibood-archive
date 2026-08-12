@@ -1,12 +1,12 @@
-_id: 6a71cc33d2145a27a6956227
+_id: 6a7b1216b7db5daee1453933
 appOnly: false
 brand: Ariel
 brands:
   - id: a6417b7d-11b0-5d3e-9d70-7fb742b40af2
     name: Ariel
 categories:
-  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
-classicId: '3370480'
+  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
+classicId: '3379359'
 classicProductId: '721126'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 55
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 509d0252-ca70-4818-aabf-39c1f95d4bf7
+id: 965332a8-e50f-4dac-8832-b851959789cf
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 956dd6b2-59d7-4c8b-88d7-75e8d76c6b80
-  priority: 0
-  slug: ariel-png-logo-0
+  extension: png
+  id: 1521924
+  priority: 100
+  slug: ariel-logo
   type: logo
-offerId: fb97a206-aebd-4939-8c76-7aaa868f4d37
+offerId: 1f6f3af8-2e82-4bba-8577-e03137ca7f04
 price:
   cents: 4795
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 107.2
 slug: 3x-ariel-mountain-spring-vloeibaar-wasmiddel-3-87-l
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: 3x Ariel Mountain Spring Vloeibaar Wasmiddel | 3,87 L (258sc)

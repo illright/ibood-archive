@@ -1,12 +1,12 @@
-_id: 6a564125006141d6b96be05f
+_id: 6a7b07ca6f0a14c6d9b3a19c
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - b34bb255-0174-5313-a859-68e389e21667
-classicId: '3337354'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378512'
 classicProductId: '720003'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 44
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 8a18461f-3b0a-509d-b950-60fefb129350
+id: 07186961-2328-4055-a6d6-485dbf46194c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 45c0c039-3537-4f0c-8855-682a54ebc221
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: 84daac1c-a7a4-5517-8136-b6b0379808be
+offerId: 477c26e5-b893-421a-892c-4272a0526820
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 125.95
 slug: lucide-alec-staande-lamp-zwart
 soldOut: false
-start: '2026-08-05T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: 'Lucide Alec LED Vloerlamp | 3 StepDim '

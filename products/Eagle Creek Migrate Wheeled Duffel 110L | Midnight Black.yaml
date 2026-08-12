@@ -1,12 +1,12 @@
-_id: 6a61f3f7588d29328d851e57
+_id: 6a79d5a9638a9928226e3132
 appOnly: false
 brand: Eagle Creek
 brands:
   - id: ef7f1938-b585-5c4e-94b1-689d0d45e4d7
     name: Eagle Creek
 categories:
-  - d98eada7-944d-55f3-a922-30de4809cf80
-classicId: '3354620'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375814'
 classicProductId: '721511'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 70dca006-389a-5df8-adf6-17cd937c55db
+id: 0b8ed184-de2f-4af7-bda8-5e1b7c32e23c
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 110l-midnight-black-ec0a5ekk001-migrate-wheeled-duffel-eagle-creek-product-1
   type: product
-offerId: ca1c9e6b-3c4d-520c-bd08-c662eaae525b
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1558275
+  priority: 100
+  slug: eagle-creek-logo
+  type: logo
+offerId: 6a190090-cb07-4749-863d-dcccd2a39fc5
 price:
   cents: 11995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 200
 slug: eagle-creek-migrate-wheeled-duffel-110l-midnight-black
 soldOut: false
-start: '2026-08-06T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Eagle Creek Migrate Wheeled Duffel 110L | Midnight Black

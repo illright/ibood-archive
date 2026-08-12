@@ -1,52 +1,53 @@
-_id: 6a709dfc9028b6c5476098a6
+_id: 6a7b091eebdd33b2bc06cbc6
 appOnly: false
 brand: Heckett Lane
 brands:
   - id: e4aab67a-916d-5500-9121-6fb22731dc9a
     name: Heckett Lane
 categories:
-  - efa583b5-308e-5e42-bce5-0cf79ecfe4b7
-classicId: '3368305'
-classicProductId: '294297'
+  - cf6f0710-f407-5281-9c0c-03b3bfce7aa5
+classicId: '3378994'
+classicProductId: '294299'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 67
-end: '2026-08-11T21:59:59.999Z'
+directCheckout: true
+discount: 59
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: e85d0ca1-a5cb-46a8-9077-203a8bf1fa70
+id: 9b19b791-28ff-4f51-8023-4efed48481d8
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1362104
+    - all
+  extension: image/png
+  id: e8cf989b-2691-4a4b-9276-a9bda442bf03-tr
   priority: 0
-  slug: heckett-lane-overtrek-satijn-260-x-220-cm
+  slug: heckett-lane-bettwasche-diamante-260-x-220-cm-jpg-product-39
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 1484894
+  extension: png
+  id: 1721723
   priority: 100
-  slug: heckett-lane-overtrek-satijn-260-x-220-cm
+  slug: heckett-lane-logo
   type: logo
-offerId: 5cd19c4c-85f3-43a2-b0f2-cfebd5b39ed0
+offerId: 90fe13c6-f3c2-4618-ab00-c6d0afa165c4
 price:
-  cents: 4995
+  cents: 6995
   currency: EUR
-  value: 49.95
+  value: 69.95
 referencePrice:
-  cents: 14995
+  cents: 16995
   currency: EUR
-  value: 149.95
+  value: 169.95
 slug: heckett-lane-overtrek-satijn-260-x-220-cm
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Heckett Lane Diamante Dekbedovertrek | 260 x 220

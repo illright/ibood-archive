@@ -1,32 +1,32 @@
-_id: 6a71ae12d690fc3626c3e50d
+_id: 6a7ad443baf23198c8cafe25
 appOnly: false
 brand: Solis
 brands:
   - id: 1abd1a6b-4fdf-59e5-aca3-9ac51bbb923c
     name: Solis
 categories:
-  - df960104-57e2-589d-948e-2caf5eeeccd2
-classicId: '3369873'
+  - 6e7b05b2-5c56-5ac1-aba9-7892a078a73f
+classicId: '3376189'
 classicProductId: '693843'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 50
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-12T21:59:59.999Z'
 freeDelivery: false
-id: 932a9270-43be-4fca-9569-5746fd829aa4
+id: 370b76fc-5f88-5cdd-b377-78590afe3680
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 71686f9b-57d7-458f-8276-38156f941c74
+  id: b8d2290c-baa9-4b36-923f-b9a81922607f
   priority: 0
-  slug: ijserino-png-product-1
+  slug: product-6
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: solis-logo
   type: logo
-offerId: 7d14720d-13f5-453c-a8cd-1aa93a34f2d2
+offerId: 63b9f250-a940-5822-98b7-c5c0ecf5f6b6
 price:
   cents: 9995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 199.9
 slug: solis-ice-cube-express-ijsblokjesmachine
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Solis Ice Cube Express IJsblokjesmachine

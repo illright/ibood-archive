@@ -1,12 +1,12 @@
-_id: 6a5641e85ba535e5f21f7cdf
+_id: 6a7b07ce6f0a14c6d9b3a1ae
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - b34bb255-0174-5313-a859-68e389e21667
-classicId: '3337377'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378518'
 classicProductId: '720035'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 76
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 841d25cb-bfc9-5776-a88e-b89c0de9df08
+id: 45322504-da28-4298-b9bc-c55eb3f6c9d8
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1a831208-3f18-4315-9a09-1b238ab0c2d7
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: 716e8286-79d0-5c98-b73d-b92c985a9db3
+offerId: 6332ccda-c049-435b-b8d1-72cc1004e169
 price:
   cents: 4995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 209.95
 slug: lucide-jessica-hanglamp-3x-e27
 soldOut: false
-start: '2026-08-05T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Lucide Jessica Hanglamp | 3x E27

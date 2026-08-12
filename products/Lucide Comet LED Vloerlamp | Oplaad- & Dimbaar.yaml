@@ -1,12 +1,12 @@
-_id: 6a564124006141d6b96be05b
+_id: 6a7b08686f0a14c6d9b3a2a2
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - b34bb255-0174-5313-a859-68e389e21667
-classicId: '3337355'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378774'
 classicProductId: '720005'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 69
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: f0fa6207-b62b-555f-83a2-15bbaa96bb72
+id: cff6a79d-2a50-4586-9a55-98e30df0767a
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 36721-03-31-lucide-comet-oplaadbare-vloerlamp-led-3-stepdim-1x3w-2700k-wit-product-1
   type: product
-offerId: 43b44b5e-0fb6-55bf-8f17-7e1d3812ee50
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
+  type: logo
+offerId: 1aa98c8f-4541-4925-b2f7-965fbde4d1f0
 price:
   cents: 3295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 104.95
 slug: lucide-comet-led-vloerlamp-oplaad-dimbaar
 soldOut: false
-start: '2026-08-05T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Lucide Comet LED Vloerlamp | Oplaad- & Dimbaar

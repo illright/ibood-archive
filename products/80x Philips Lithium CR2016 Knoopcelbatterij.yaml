@@ -1,12 +1,12 @@
-_id: 6a71cf19d416a7abef6b70c1
+_id: 6a7b15ebebdd33b2bc06d0fc
 appOnly: false
 brand: Philips
 brands:
   - id: ec36453d-811a-5d81-beac-cfcb22b98d4c
     name: Philips
 categories:
-  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
-classicId: '3371989'
+  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
+classicId: '3380448'
 classicProductId: '702266'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 90
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: d672c1a8-36fe-4d21-b53f-3bd19acf3a1e
+id: 82d62aad-dac2-42ab-ac15-5c8da0fb9d11
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: philips-deals-logo-0
   type: logo
-offerId: e495a47e-772b-4257-a4fc-ad26de73dc72
+offerId: d3c247af-f3e8-4e57-a382-e776ed0c0359
 price:
   cents: 795
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 79.99
 slug: 80x-philips-lithium-cr2016-knoopcelbatterij
-soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+soldOut: true
+start: '2026-08-11T22:00:00.000Z'
 title: 80x Philips Lithium CR2016 Knoopcelbatterij

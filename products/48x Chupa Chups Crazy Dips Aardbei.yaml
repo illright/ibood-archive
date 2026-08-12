@@ -1,12 +1,12 @@
-_id: 6a71cc96f0e98956ffd8972f
+_id: 6a7b1252ebdd33b2bc06cd87
 appOnly: false
 brand: Chupa Chups
 brands:
   - id: ab2cd6e0-5b68-5ca8-b457-5b7e086afd36
     name: Chupa Chups
 categories:
-  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
-classicId: '3370627'
+  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
+classicId: '3379431'
 classicProductId: '721100'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 185b71ce-bfbf-49c2-85e4-f2b600c4d2fe
+id: f12e7cf2-e6c1-47c9-a822-f283be09b3b2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6c25ce1f-babc-41d6-96ae-ab44ae7622ce
-  priority: 0
-  slug: chupa-chups-logo-png-logo-0
+  extension: png
+  id: 1650759
+  priority: 100
+  slug: chupa-chups-logo
   type: logo
-offerId: 5a1bb7d2-9359-4617-90ef-e9d72892d612
+offerId: db7ccfee-ba02-4892-8a62-70087d37aec3
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 33.12
 slug: 48x-chupa-chups-crazy-dips-aardbei
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: 48x Chupa Chups Crazy Dips Aardbei

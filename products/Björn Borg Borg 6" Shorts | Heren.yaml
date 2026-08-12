@@ -1,22 +1,22 @@
-_id: 6a72ef181b61c3f8746d0605
+_id: 6a79d5c7638a9928226e319a
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - 4eddf7ea-632d-44cf-a184-b5fafebb71bc
-classicId: '3373607'
-classicProductId: '717485'
+  - e5049cf3-8754-45d3-bb0e-0a169c0b7084
+classicId: '3375850'
+classicProductId: '717486'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 44
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: b8170481-ef3a-412c-a087-9b1be74c79ff
+id: f10f4c87-efc3-4f03-b07a-c943319fb042
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 2030715
-  priority: 100
-  slug: bjorn-borg-logo
+    - all
+  extension: image/png
+  id: fad380aa-c40c-4610-9d50-efad881e1e26
+  priority: 0
+  slug: bjorn-borg-png-logo-0
   type: logo
-offerId: 971e9d56-56e4-490b-a42e-42a143ab904e
+offerId: 042450d2-63be-46d5-aae1-1fba13e956b6
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 44.95
 slug: bjorn-borg-6-shorts-heren
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Björn Borg Borg 6" Shorts | Heren

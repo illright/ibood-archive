@@ -1,12 +1,12 @@
-_id: 6a5641e75ba535e5f21f7cdc
+_id: 6a7b07ba6f0a14c6d9b3a16e
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - b34bb255-0174-5313-a859-68e389e21667
-classicId: '3337376'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378492'
 classicProductId: '720037'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 680b43cb-3649-5396-beeb-cd3a67ef1d61
+id: 9557b2da-1fd5-4f36-b3ff-f79ae02e4b63
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a0b329e1-6ac5-414b-815b-f863fcf2d835
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: f2a3fcaf-ff46-5506-8e1e-1f7278de139f
+offerId: b4606264-27ab-4ab8-acec-0d76773c9e51
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 62.95
 slug: lucide-lavale-led-bureaulamp-black
 soldOut: false
-start: '2026-08-05T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Lucide Lavale LED Bureaulamp | Black

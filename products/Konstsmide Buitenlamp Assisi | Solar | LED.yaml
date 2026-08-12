@@ -1,12 +1,12 @@
-_id: 6a719012debc23968a6e5177
+_id: 6a7b08666f0a14c6d9b3a29d
 appOnly: false
 brand: Konstsmide
 brands:
   - id: 6a9cb158-e536-5cac-b976-6d1094ec0f0a
     name: Konstsmide
 categories:
-  - aeae52f2-a13f-5ab4-99ab-3dc128e44e46
-classicId: '3368767'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378766'
 classicProductId: '81655'
 deliveryPrice:
   cents: 595
@@ -14,31 +14,30 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 127852eb-735e-4e02-b179-fd4f5a68665d
+id: c4e97019-3017-4e78-a291-b261ed3a6cdf
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8dfd7fdf-dae9-4bf8-a55f-9f852443c9dd-tr
+  extension: jpg
+  id: 150499
   priority: 0
-  slug: konstsmide-assisi-led-solar-jpg-product-2
+  slug: konstsmide-assisi-solar-led
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1673752
+  extension: jpg
+  id: 150509
   priority: 100
-  slug: konstsmide-logo
+  slug: konstsmide-assisi-solar-led
   type: logo
-offerId: 4a14b6b0-f143-4008-93b4-d4aac44619bd
+offerId: c628284a-58f3-4226-9bed-4e55d792f1c5
 price:
   cents: 2595
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 44.95
 slug: konstsmide-assisi-solar-led
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Konstsmide Buitenlamp Assisi | Solar | LED

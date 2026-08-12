@@ -1,22 +1,22 @@
-_id: 6a6749382d6d9d3b5de7802e
+_id: 6a7b15caaf3d97a374953945
 appOnly: false
 brand: Page
 brands:
   - id: 78573945-7b76-556e-a494-594c26062da6
     name: Page
 categories:
-  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
-classicId: '3357329'
+  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
+classicId: '3380396'
 classicProductId: '722027'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 43
-end: '2026-08-11T21:59:59.999Z'
+discount: 48
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 8f6576aa-e31b-5092-a0f4-1c70ba44f19f
+id: 28d3c5f0-80ec-45a7-ba4e-a2f9041360a0
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 86c47b57-0af6-499b-976d-cb8c0c0340d4
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1535053
+  priority: 100
+  slug: page-logo
   type: logo
-offerId: fa901942-4fb7-5d3d-a5f3-1c82c188c990
+offerId: 45265ee0-54a9-40ad-8527-90f07e739953
 price:
-  cents: 2495
+  cents: 2295
   currency: EUR
-  value: 24.95
+  value: 22.95
 referencePrice:
   cents: 4398
   currency: EUR
   value: 43.98
 slug: 48x-page-toiletpapierrol-puur
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: 48x Page Toiletpapierrol Puur

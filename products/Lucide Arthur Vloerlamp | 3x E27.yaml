@@ -1,12 +1,12 @@
-_id: 6a5641245ba535e5f21f7cc3
+_id: 6a7b07a36846cc0017da0faa
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - b34bb255-0174-5313-a859-68e389e21667
-classicId: '3337352'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378464'
 classicProductId: '720004'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 46
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 2a98f963-3507-5d3f-bd0d-cb3f6c86f5d6
+id: d89b5f44-ab3c-4156-8606-33f5c62970e0
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 450fd077-63b1-4181-bd75-04e1d4d5c7cf
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: d83a80bc-0558-57c2-8563-128bffcb3129
+offerId: 8613c2e2-ca4b-4474-9c04-b28d3420869f
 price:
   cents: 9995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 183.95
 slug: lucide-arthur-vloerlamp-3x-e27
 soldOut: false
-start: '2026-08-05T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Lucide Arthur Vloerlamp | 3x E27

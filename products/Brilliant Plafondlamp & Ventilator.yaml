@@ -1,22 +1,22 @@
-_id: 6a719e8679942cbc45917732
+_id: 6a7adeecde4cae68972354e8
 appOnly: false
 brand: Brilliant
 brands:
   - id: 63d315dc-2444-51bb-b1c7-9333a1f6d8c3
     name: Brilliant
 categories:
-  - 5719f4d5-2f92-5f04-9b0f-8d1456419459
-classicId: '3369324'
+  - b9a52938-b8a9-529a-95ac-86469a619f5f
+classicId: '3376608'
 classicProductId: '472498'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 65
-end: '2026-08-11T21:59:59.000Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 0c34826f-0544-4726-964d-afc1710a52e1
+id: 88c84b87-cbde-4d6b-a76a-319225f2f6e8
 image:
   channels:
     - newsletter
@@ -35,9 +35,9 @@ logo:
   extension: png
   id: 1614591
   priority: 100
-  slug: brilliant-led-deckenleuchte-mit-rgb-ventilator
+  slug: brilliant-logo
   type: logo
-offerId: 2adca0f6-292e-44a2-bd83-1f0b1d0be02c
+offerId: 4c6da67c-2768-4c5e-a140-adc709118fa4
 price:
   cents: 5995
   currency: EUR
@@ -48,5 +48,5 @@ referencePrice:
   value: 169.95
 slug: brilliant-palmero-plafondlamp-ventilator
 soldOut: true
-start: '2026-08-03T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Brilliant Plafondlamp & Ventilator

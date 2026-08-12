@@ -1,22 +1,22 @@
-_id: 6a71c0b27a851d9b0fb45029
+_id: 6a79d5d5ab3297fac3c02197
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 203b3c30-4d5e-58f6-b262-7c56548345ec
-classicId: '3370215'
-classicProductId: '716184'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375881'
+classicProductId: '716187'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 56
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: e918dd52-1bdc-4c46-95ce-a076959ee616
+id: 243ce7a7-37a6-473a-afcd-ccdb42e404fd
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: 67ff1086-ab9c-4033-8520-9e240ec828db
+offerId: dae2a5ed-dd30-4e34-b996-af8fd3ca63f0
 price:
   cents: 5295
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 119.95
 slug: travelin-harvik-women-sandalen
-soldOut: true
-start: '2026-08-04T22:00:00.000Z'
+soldOut: false
+start: '2026-08-11T22:00:00.000Z'
 title: Travelin' Harvik | Dames Sandalen | Black & Sand

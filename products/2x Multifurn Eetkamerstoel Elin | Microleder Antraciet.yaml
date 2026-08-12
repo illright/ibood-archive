@@ -1,12 +1,12 @@
-_id: 6a718f699eabf6403342d642
+_id: 6a7b0747f1ab2d942a24b992
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - aeae52f2-a13f-5ab4-99ab-3dc128e44e46
-classicId: '3368553'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378301'
 classicProductId: '691606'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: false
 discount: 54
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 0e5cdba2-1bb6-4128-b88b-06e4c9df8c7f
+id: af0b2452-b4e8-4dfd-87b3-86e8bd8474ea
 image:
   channels:
-    - app
-    - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 4c236714-09e3-41f4-8eda-bb179f7c0b9e
-  priority: 0
-  slug: multifurn-07-png-product-1
+  id: eef6fe2f-7d65-461b-99a3-ce6d3e5f0cf5
+  priority: 1
+  slug: multifurn-03-png-product-1
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: multifurn-png-logo-0
   type: logo
-offerId: b54e155d-2f1c-4f29-98cd-b52201a82ba9
+offerId: 6623ce50-5e15-4674-978c-2e7c062acfb3
 price:
   cents: 12900
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 279.95
 slug: 2x-multifurn-eetkamerstoel-elin
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: 2x Multifurn Eetkamerstoel Elin | Microleder Antraciet

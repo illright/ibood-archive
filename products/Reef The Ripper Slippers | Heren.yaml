@@ -1,12 +1,12 @@
-_id: 6a71c0a2e28653075b13a230
+_id: 6a79d5c7638a9928226e319e
 appOnly: false
 brand: Reef
 brands:
   - id: b49a41bc-de70-56d7-b4ff-30e4457561e1
     name: Reef
 categories:
-  - 203b3c30-4d5e-58f6-b262-7c56548345ec
-classicId: '3370193'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375852'
 classicProductId: '536408'
 deliveryPrice:
   cents: 595
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 3ef82975-bc04-4a52-a97f-e48fffb2d6c0
+id: 04bb91b1-4e83-4c27-965e-857ce5652da6
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 184cfa83-9d7b-4517-9a11-da87024117a7
+  extension: png
+  id: 1911272
   priority: 0
-  slug: product-18
+  slug: reef-the-ripper-slippers
   type: product
 logo:
   channels:
@@ -34,11 +33,11 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1559510
+  id: 1803872
   priority: 100
-  slug: reef-logo
+  slug: reef-the-ripper-slippers
   type: logo
-offerId: d4852f46-0f4a-40d4-9adf-c192e952a76a
+offerId: 43c4f796-5e5f-46ce-87d0-4c90c0ad6c03
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +48,5 @@ referencePrice:
   value: 49.99
 slug: reef-the-ripper-slippers
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Reef The Ripper Slippers | Heren

@@ -1,22 +1,22 @@
-_id: 6a71adf01b2c758a2a3086b3
+_id: 6a7ae421e618de0b74f00aa8
 appOnly: false
 brand: Sage
 brands:
   - id: 8019f444-243c-51dd-b24f-c030fc99aa0a
     name: Sage
 categories:
-  - df960104-57e2-589d-948e-2caf5eeeccd2
-classicId: '3369793'
+  - 95b3599b-cbbe-494b-821c-bd5f2ee826bc
+classicId: '3377195'
 classicProductId: '575146'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 44
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 73968a12-6b6e-4e88-99d5-a453375a1d5e
+id: 24b6bd95-6219-4955-8c30-38be58cd2ebf
 image:
   channels:
     - app
@@ -36,9 +36,9 @@ logo:
   extension: png
   id: 1977360
   priority: 100
-  slug: sage-the-barista-touch-siebtrager-espressomaschine
+  slug: sage-logo
   type: logo
-offerId: 1f918a60-d21a-4a5a-a21c-a9332f75090d
+offerId: 3689c4d2-0f9b-4844-8210-fe7824ee00b2
 price:
   cents: 69900
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 1249.9
 slug: sage-the-barista-touch-espressomachine
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Sage The Barista Touch Espressomachine | SES880

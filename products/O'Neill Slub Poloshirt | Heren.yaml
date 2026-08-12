@@ -1,22 +1,22 @@
-_id: 6a71c0936a91d5c77bce48f0
+_id: 6a67592fc16331b1b863ad8b
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 95d29a88-639c-5e5f-a947-71b76c2991fb
-classicId: '3370147'
-classicProductId: '717892'
+  - 477e3e43-ca25-494b-8337-0279f7c60fbb
+classicId: '3357665'
+classicProductId: '717904'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 49
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: a48c4096-b8aa-4e6e-94fa-03f996fcfc7e
+id: 009cec95-1395-4ef4-9cff-4feed7c027ae
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 54dd3129-4842-4220-a985-484e4ea1634d
-  priority: 0
-  slug: oneill-png-logo-0
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
   type: logo
-offerId: c100e2b5-1e1e-493a-95f7-9d5d4dc9258e
+offerId: 3b789170-001a-4dc6-824c-4cb70a0b0218
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 44.99
 slug: o-neill-slub-poloshirt-heren
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: O'Neill Slub Poloshirt | Heren

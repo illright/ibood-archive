@@ -1,12 +1,12 @@
-_id: 6a705e3198528d8371cecf50
+_id: 6a7adeb4038400c992e23e13
 appOnly: false
 brand: Regn
 brands:
   - id: 7c288865-9417-50ce-9a24-8d3c7cc912c6
     name: Regn
 categories:
-  - 5719f4d5-2f92-5f04-9b0f-8d1456419459
-classicId: '3367713'
+  - b9a52938-b8a9-529a-95ac-86469a619f5f
+classicId: '3376537'
 classicProductId: '717563'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 78
-end: '2026-08-11T21:59:59.000Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: f48ee17d-2b49-4481-9bda-ae3050a67252
+id: df4d9bfb-06c9-4742-b40f-fbceb1e1e6b1
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 15029cr-regn-inbouw-regendoucheset-stkrn-met-glijstang-chroom-product-16
   type: product
-offerId: 23c53125-72bd-4ae6-9260-f51fd1006aaa
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 480ab6e5-4fb2-40fa-86d7-9b7b68d98d3e
+  priority: 0
+  slug: regn-logo-0
+  type: logo
+offerId: 7074f6f8-43e7-4503-a27b-3de718fbe6fa
 price:
   cents: 29995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 1368.99
 slug: regn-inbouw-regendoucheset-15029cr
 soldOut: false
-start: '2026-08-03T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Regn Inbouw Regendoucheset | 15029CR

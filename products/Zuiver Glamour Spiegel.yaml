@@ -1,12 +1,12 @@
-_id: 6a5780302fe1c59f4eabe16e
+_id: 6a7b07976f0a14c6d9b3a11c
 appOnly: false
 brand: Zuiver
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: Zuiver
 categories:
-  - aeae52f2-a13f-5ab4-99ab-3dc128e44e46
-classicId: '3338431'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378448'
 classicProductId: '720224'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 59
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 62d3772e-c44d-5066-abdd-e15262fa2c19
+id: bfae5383-535e-458b-9e97-913f86c8415d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 181d9e87-aaa6-46c8-995e-ae9c25fe80ad
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 2026182
+  priority: 100
+  slug: zuiver-logo
   type: logo
-offerId: a33cc9aa-ccf4-50a1-9ac8-042b3d0440ed
+offerId: 17a0caf8-41e1-4901-93dd-08075443e11a
 price:
   cents: 13900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 339
 slug: zuiver-glamour-spiegel-beige
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Zuiver Glamour Spiegel

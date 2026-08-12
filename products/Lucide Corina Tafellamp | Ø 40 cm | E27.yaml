@@ -1,12 +1,12 @@
-_id: 6a564115e1628cff6fbd4a2b
+_id: 6a7b086a6f0a14c6d9b3a2ac
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - b34bb255-0174-5313-a859-68e389e21667
-classicId: '3337345'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378777'
 classicProductId: '720007'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 78
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 6b0b62ae-e98e-5650-9f3c-e50228272ae5
+id: fa164528-4bc7-4974-b44c-4faf9bc0a35b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 70a69dbe-ca10-495b-8ecd-f5dd337037db
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: 09dadc3c-483f-5bf8-bcee-7bd4be5bfb08
+offerId: 58301a55-76bb-460f-82b4-2da3a4baef99
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 88.95
 slug: lucide-corina-tafellamp-40-cm-e27
 soldOut: false
-start: '2026-08-05T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Lucide Corina Tafellamp | Ø 40 cm | E27

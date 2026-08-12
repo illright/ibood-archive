@@ -1,22 +1,22 @@
-_id: 6a71c0a1113ee0591bf4657f
+_id: 6a79d5cbab3297fac3c02158
 appOnly: false
 brand: Regatta
 brands:
   - id: febd98de-cedc-5333-a234-06b0e44c9b32
     name: Regatta
 categories:
-  - 203b3c30-4d5e-58f6-b262-7c56548345ec
-classicId: '3370187'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375859'
 classicProductId: '718172'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 56
-end: '2026-08-11T21:59:59.999Z'
+discount: 60
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: e11158f9-55c9-4e4c-bf2f-2bbc6f06fec5
+id: 4f555636-ab19-441d-baad-5d9a2410468a
 image:
   channels:
     - app
@@ -30,16 +30,26 @@ image:
   priority: 0
   slug: 42-peat-rmf1022-6v3-coasten-sandals-regatta-product-3
   type: product
-offerId: f9264cca-00e6-407d-b2bd-5bf5f95964db
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1638661
+  priority: 100
+  slug: regatta-logo
+  type: logo
+offerId: 03f5108a-4000-413c-a444-6d8c563edc44
 price:
-  cents: 2195
+  cents: 1995
   currency: EUR
-  value: 21.95
+  value: 19.95
 referencePrice:
   cents: 5000
   currency: EUR
   value: 50
 slug: regatta-coasten-sandalen-heren
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Regatta Coasten Sandalen | Heren

@@ -1,22 +1,22 @@
-_id: 6a67477fc16331b1b863ac69
+_id: 6a79d5a5638a9928226e3121
 appOnly: false
 brand: Eagle Creek
 brands:
   - id: ef7f1938-b585-5c4e-94b1-689d0d45e4d7
     name: Eagle Creek
 categories:
-  - d98eada7-944d-55f3-a922-30de4809cf80
-classicId: '3357302'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375810'
 classicProductId: '709610'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 44
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 185bf700-ab13-4543-8936-acab227adffb
+id: a54ed9fc-7e18-4bf1-8cd1-c29c4af86bf2
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 27838d92-0d19-4738-b64a-972a1384eb9c
+  id: acf2cdb1-ad01-4eb7-b64f-f0ea530c92d1-tr
   priority: 0
-  slug: main-bag-png-product-1
+  slug: 110l-charcoal-ec020304012-cargo-hauler-wheeled-duffel-eagle-creek-product-3
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: eagle-creek-logo
   type: logo
-offerId: eb6a4f96-f462-4be4-9480-d0e5a27554b0
+offerId: 571b3cd7-3349-4dc1-90ce-00866788359b
 price:
   cents: 12995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 230
 slug: eagle-creek-cargo-hauler-wheeled-duffel-110l-charcoal
 soldOut: false
-start: '2026-08-06T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Eagle Creek Cargo Hauler Wheeled Duffel 110L | Charcoal

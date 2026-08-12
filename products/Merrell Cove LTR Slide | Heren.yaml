@@ -1,22 +1,22 @@
-_id: 6a71c0879eabf6403342db28
+_id: 6a79d5b8638a9928226e316f
 appOnly: false
 brand: Merrell
 brands:
   - id: d199d883-246f-5414-be80-7a8501ca9f77
     name: Merrell
 categories:
-  - 203b3c30-4d5e-58f6-b262-7c56548345ec
-classicId: '3370121'
-classicProductId: '706224'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375837'
+classicProductId: '706223'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 52
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: ec975571-4e06-4ad7-944f-785939f83b49
+id: 36fab589-3116-4011-95b9-8f56daa9c107
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: merrell-logo
   type: logo
-offerId: 710e02c1-fb47-429f-88e8-d77711174098
+offerId: e0175d36-c85a-4dfc-9b38-6cd6e1799b1a
 price:
   cents: 5000
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 105
 slug: merrell-cove-ltr-slide-heren
 soldOut: true
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Merrell Cove LTR Slide | Heren

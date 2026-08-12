@@ -1,12 +1,12 @@
-_id: 6a71cfe7661b6637ccf667a7
+_id: 6a7b1668ebdd33b2bc06d152
 appOnly: false
 brand: Vaseline
 brands:
   - id: 5bbe9085-0f26-5edc-9b1e-eb9e77d70111
     name: Vaseline
 categories:
-  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
-classicId: '3372510'
+  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
+classicId: '3380719'
 classicProductId: '720616'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 55fbb66c-c5d5-47d5-8d3d-662899ae4320
+id: 3aea4bfd-f509-4413-a493-2e59c69d3e63
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: vaseline-01-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: aa7b81c4-efab-453a-b1a6-f91be3839b17
-  priority: 0
-  slug: vaseline-png-logo-0
-  type: logo
-offerId: f9716a87-4fc7-4147-a01b-d5e2d5535933
+offerId: 0ba86c0a-e991-459d-9f33-a8b277b64a0e
 price:
   cents: 1795
   currency: EUR
@@ -50,5 +39,5 @@ referencePrice:
   value: 29.97
 slug: 3x-vaseline-cocoa-radiant-gel-oil-200-ml
 soldOut: false
-start: '2026-08-04T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: 3x Vaseline Intensive Care Cocoa Radiant Gel Oil | 200 ml

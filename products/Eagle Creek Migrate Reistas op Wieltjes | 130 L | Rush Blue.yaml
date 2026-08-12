@@ -1,12 +1,12 @@
-_id: 6a61f3f9588d29328d851e6b
+_id: 6a79d5ac638a9928226e313e
 appOnly: false
 brand: Eagle Creek
 brands:
   - id: ef7f1938-b585-5c4e-94b1-689d0d45e4d7
     name: Eagle Creek
 categories:
-  - d98eada7-944d-55f3-a922-30de4809cf80
-classicId: '3354624'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375819'
 classicProductId: '721514'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 41
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 83620759-67ee-522d-a240-1d373a0450be
+id: b3c6f73c-5023-45fe-bf0d-b9ef30fec6be
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a1731e5a-9215-4c5d-a3b0-d1f10c11b49b
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1558275
+  priority: 100
+  slug: eagle-creek-logo
   type: logo
-offerId: d30c5505-0c03-5d46-8b92-4268cfd44718
+offerId: eed74cdf-71d0-464a-9248-8c9b99599ba4
 price:
   cents: 12995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 220
 slug: eagle-creek-migrate-reistas-op-wieltjes-130l-rush-blue
 soldOut: false
-start: '2026-08-06T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Eagle Creek Migrate Reistas op Wieltjes | 130 L | Rush Blue

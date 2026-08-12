@@ -1,12 +1,12 @@
-_id: 6a61f3f34e397bc596ef2725
+_id: 6a79d5b1ab3297fac3c020f5
 appOnly: false
 brand: Eagle Creek
 brands:
   - id: ef7f1938-b585-5c4e-94b1-689d0d45e4d7
     name: Eagle Creek
 categories:
-  - d98eada7-944d-55f3-a922-30de4809cf80
-classicId: '3354618'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375827'
 classicProductId: '721510'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: bec78410-c312-5d69-b636-47d5a4b96aec
+id: c3829b24-797a-44be-b344-0c979e8c54d6
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 10efa208-1db9-41fa-93c8-b56a8212de85
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1558275
+  priority: 100
+  slug: eagle-creek-logo
   type: logo
-offerId: b0d5d9b1-46ba-5f69-bb57-37bbd4969c52
+offerId: c1cdcd06-3547-4518-8bf9-f2ba2c50ba80
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 130
 slug: eagle-creek-migrate-duffel-60l-willow
 soldOut: false
-start: '2026-08-06T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Eagle Creek Migrate Duffel | 60 Liter | Willow

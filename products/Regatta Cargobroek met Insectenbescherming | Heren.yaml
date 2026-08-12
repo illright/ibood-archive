@@ -1,22 +1,22 @@
-_id: 6a71c0996a91d5c77bce48fe
+_id: 6a79d5ca638a9928226e31ac
 appOnly: false
 brand: Regatta
 brands:
   - id: febd98de-cedc-5333-a234-06b0e44c9b32
     name: Regatta
 categories:
-  - 95d29a88-639c-5e5f-a947-71b76c2991fb
-classicId: '3370160'
-classicProductId: '715580'
+  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
+classicId: '3375857'
+classicProductId: '715567'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 75
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 524e83cd-8030-4b9e-984f-efe82f7dcb1c
+id: 9838c21c-d6e2-4f25-8e49-f9107c370a1c
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: regatta-logo
   type: logo
-offerId: 77f6cf34-f6b3-43ae-9fc4-769d3c97de81
+offerId: 5da39b6c-f6f4-4eb9-b9c9-898cb6dc8325
 price:
   cents: 2495
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 100
 slug: regatta-cargobroek-met-insectenbescherming-heren
-soldOut: true
-start: '2026-08-04T22:00:00.000Z'
+soldOut: false
+start: '2026-08-11T22:00:00.000Z'
 title: Regatta Cargobroek met Insectenbescherming | Heren

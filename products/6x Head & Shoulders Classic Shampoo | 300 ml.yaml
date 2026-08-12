@@ -1,12 +1,12 @@
-_id: 6a6b33e367e37c00cba222c9
+_id: 6a7b13fbb7db5daee1453b20
 appOnly: false
 brand: Head & Shoulders
 brands:
   - id: 93c0c375-0484-54bf-86e6-712b73798f88
     name: Head & Shoulders
 categories:
-  - 6ac12a13-5eab-5df0-ae89-e24b5a12bd82
-classicId: '3366793'
+  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
+classicId: '3379696'
 classicProductId: '723708'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 3a2fa3f7-f1ad-592f-8845-e7fe7b78350b
+id: 15945b59-f20d-4ce9-88ad-028eba9247f7
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 75fcc78d-8e5e-4b5c-b4a6-363715254a1e
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1854470
+  priority: 100
+  slug: head-and-shoulders-logo
   type: logo
-offerId: b19aab65-534a-5c12-8d4b-44c06fb0e799
+offerId: 5c938bc7-c1b2-41a2-8918-c7c21e498603
 price:
   cents: 1995
   currency: EUR
@@ -49,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 41.94
 slug: 6x-head-shoulders-classic-shampoo-300-ml
-soldOut: true
-start: '2026-08-04T22:00:00.000Z'
+soldOut: false
+start: '2026-08-11T22:00:00.000Z'
 title: 6x Head & Shoulders Classic Shampoo | 300 ml

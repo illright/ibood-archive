@@ -1,12 +1,12 @@
-_id: 6a5635a4006141d6b96bdd3f
+_id: 6a7b07fc6f0a14c6d9b3a213
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - b34bb255-0174-5313-a859-68e389e21667
-classicId: '3336028'
+  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
+classicId: '3378574'
 classicProductId: '640873'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,18 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 87
-end: '2026-08-11T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 46066b10-11e2-5ce3-8a79-0bceb0f2118a
+id: 94777c8d-86a3-4940-a6d4-12595c75f0fe
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b042b77d-b5de-4642-af9e-898c15db7918-tr
+  extension: jpg
+  id: 2254189
   priority: 0
-  slug: lucide-wolfram-hangeleuchte-3x-60-w-1-jpg-product-1
+  slug: lucide-wolfram-hangeleuchte-3x-60-w
   type: product
 logo:
   channels:
@@ -38,7 +37,7 @@ logo:
   priority: 100
   slug: lucide-logo
   type: logo
-offerId: 4596080e-fb8c-5d7d-a443-88e8dcad5cd2
+offerId: adfaaa1a-2f7c-4b51-bfd2-09c63b4b4ffe
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 313.95
 slug: lucide-hanglamp-wolfram-3x-e27
-soldOut: true
-start: '2026-08-05T22:00:00.000Z'
+soldOut: false
+start: '2026-08-11T22:00:00.000Z'
 title: Lucide Hanglamp Wolfram | 3x E27
