@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 23
+discount: 61
 end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
 id: a5b3f053-47d0-474c-acbb-293c3130b41f
@@ -24,25 +24,15 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: 810218c7-05f6-4fea-a23c-5b5f43ff906e
+  id: 810218c7-05f6-4fea-a23c-5b5f43ff906e-cr
   priority: 0
   slug: cmh136231-duopack-hartman-amalia-chair-natural-wood-orange-product-1
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1769766
-  priority: 100
-  slug: hartman-logo
-  type: logo
 offerId: 78408c43-0575-4dc9-8564-ec49d40ac3e5
 price:
-  cents: 13900
+  cents: 6995
   currency: EUR
-  value: 139
+  value: 69.95
 referencePrice:
   cents: 17990
   currency: EUR

@@ -1,12 +1,12 @@
-_id: 6a730c7a31af582032a695ce
+_id: 6a7c400c668470f41be78c58
 appOnly: false
 brand: Trust
 brands:
   - id: fbc78df1-598f-5dcf-8289-e8e3bf71bf55
     name: Trust
 categories:
-  - fb98d748-edf1-59fa-9b01-064acf65f306
-classicId: '3373906'
+  - c45faabb-547e-551f-b227-5fcfb2333b00
+classicId: '3381852'
 classicProductId: '711845'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-08-12T21:59:59.999Z'
+end: '2026-08-19T21:59:59.999Z'
 freeDelivery: false
-id: e8c834ff-4ca9-4a89-b318-75de151ed7ef
+id: f87ee9b9-9250-41f5-9781-c06adadb739b
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: ab5a8124-8703-49d0-9259-0d2100b1916a
+  id: ab5a8124-8703-49d0-9259-0d2100b1916a-cr
   priority: 0
   slug: trust-gxt868-torix-wrls-mechanical-keyboard-us-product-8
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: trust-logo
   type: logo
-offerId: 07067111-24b0-4192-ae2b-20eda548d566
+offerId: 56a7cd05-6373-407e-8a45-ffe3a51e0138
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 89.99
 slug: trust-gxt-868-torix-mechanisch-gaming-toetsenbord-us-qwerty
 soldOut: false
-start: '2026-08-05T22:00:00.000Z'
+start: '2026-08-12T22:00:00.000Z'
 title: Trust GXT 868 Torix Mechanisch Gaming Toetsenbord | US-QWERTY

@@ -13,7 +13,7 @@ deliveryPrice:
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: -11
+discount: 50
 end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
 id: bd14329d-6c40-49a6-bc7a-085e6400770e
@@ -23,8 +23,8 @@ image:
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 7fc74ad8-3591-42ef-bd19-1bd5a051228a-tr
+  extension: image/jpeg
+  id: 7fc74ad8-3591-42ef-bd19-1bd5a051228a
   priority: 0
   slug: virtufit-anpassbare-gewichtsweste-10-kg-jpg-product-1
   type: product
@@ -44,9 +44,9 @@ price:
   currency: EUR
   value: 49.95
 referencePrice:
-  cents: 4500
+  cents: 9900
   currency: EUR
-  value: 45
+  value: 99
 slug: virtufit-verstelbaar-gewichtsvest-10-kg
 soldOut: false
 start: '2026-08-11T22:00:00.000Z'
