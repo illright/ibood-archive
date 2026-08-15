@@ -1,22 +1,22 @@
-_id: 6a7b162ab7db5daee1454026
+_id: 6a7f0fa25fff6e14e7c52d10
 appOnly: false
-brand: Sensodyne
+brand: HP
 brands:
-  - id: 1c7bf088-1343-56fb-9b5d-0c1b15e9bd4e
-    name: Sensodyne
+  - id: c61ae1ed-e9c0-5826-86dc-489e5b97e577
+    name: HP
 categories:
   - eaf84db4-d904-5fc6-8b3d-0b56228556cd
-classicId: '3380587'
-classicProductId: '711054'
+classicId: '3382828'
+classicProductId: '565088'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 63
+discount: 47
 end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 63c302ab-e85a-4745-bee1-b99cc2bc54af
+id: febc0a45-436c-4fc3-9134-4f5e56cf6e1e
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 844adcc5-38ac-496d-bc8d-9e736b0e7e68
+  id: 709b9e6d-5a7c-4c8d-8c46-6115ca56d42f
   priority: 0
-  slug: se04-png-product-1
+  slug: printer-01-png-product-1
   type: product
 logo:
   channels:
@@ -34,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1773890
+  id: 1742322
   priority: 100
-  slug: sensodyne-logo
+  slug: hp-logo
   type: logo
-offerId: b7d44ad0-60b2-460b-be05-6d0913425c1c
+offerId: f0f5904a-f0f6-4ddc-923f-1317c680c1af
 price:
-  cents: 2995
+  cents: 7995
   currency: EUR
-  value: 29.95
+  value: 79.95
 referencePrice:
-  cents: 8200
+  cents: 14995
   currency: EUR
-  value: 82
-slug: 12x-sensodyne-intense-frisheid-tandpasta-75-ml
+  value: 149.95
+slug: 2x-cartridge-305xl-geschikt-voor-hp
 soldOut: false
 start: '2026-08-11T22:00:00.000Z'
-title: 12x Sensodyne Intense Frisheid Tandpasta | 75 ml
+title: 2x Cartridge 305XL | Geschikt voor HP
