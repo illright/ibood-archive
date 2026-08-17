@@ -1,12 +1,12 @@
-_id: 6a7c178f425c73a34d7b5976
+_id: 6a7b066cebdd33b2bc06c65a
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 57b4ccb8-94f8-5d6b-ab0f-134f9f6df9c7
-classicId: '3381383'
+  - 12b47127-08fc-594f-a38c-4c3754991b7b
+classicId: '3377829'
 classicProductId: '646460'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-08-16T21:59:59.999Z'
+end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 4190b6fa-55e9-4a20-810c-836bd461c4c1
+id: 6aea5f01-093c-43d2-8f77-7bb2b3879a19
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 5a7890ce-527d-46eb-88a2-3ef9239b6e43
-  priority: 0
-  slug: hartman-png-logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: 018d8e1d-6791-4f06-9f65-1ddd9bfc99c7
+offerId: df71096c-056b-4106-955c-401be4e8b381
 price:
   cents: 31900
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 749
 slug: hartman-silencio-teak-tuintafel-160-x-90-cm
 soldOut: false
-start: '2026-08-10T22:00:00.000Z'
+start: '2026-08-11T22:00:00.000Z'
 title: Hartman Silencio Teak Tuintafel | 160 x 90 cm

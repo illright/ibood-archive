@@ -1,4 +1,4 @@
-_id: 6a79d5d1ab3297fac3c0217d
+_id: 6a79d5d0638a9928226e31d9
 appOnly: false
 brand: Thule
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Thule
 categories:
   - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
-classicId: '3375872'
-classicProductId: '168676'
+classicId: '3375871'
+classicProductId: '168678'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,16 +16,19 @@ directCheckout: true
 discount: 55
 end: '2026-08-18T21:59:59.999Z'
 freeDelivery: false
-id: 1e088100-0859-4da5-9aed-31899cd186cd
+id: 2cba15c7-6d75-4934-8a52-2132c2c4214a
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 383951
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 1f227802-b679-45b4-8fa3-2b8defbe7490-tr
   priority: 0
-  slug: thule-stir-backpack-20-l
+  slug: thule-stir-20l-fjord-product-2
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: thule-logo
   type: logo
-offerId: d1e8e078-15da-4348-a7ee-8a02bdd0c7bd
+offerId: f301ca12-68e8-4c35-8793-55af58736ab5
 price:
   cents: 4495
   currency: EUR
@@ -48,8 +51,5 @@ referencePrice:
   value: 99.95
 slug: thule-stir-backpack-20-l
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
-title: Thule Stir Backpack | 20 L
-Out: false
 start: '2026-08-11T22:00:00.000Z'
 title: Thule Stir Backpack | 20 L

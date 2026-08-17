@@ -1,22 +1,22 @@
-_id: 6a79ad3fd8e8d1117a7ec7e0
+_id: 6a68aa37bf2f0943eb2d15ff
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - dfab83fa-8a82-4f6b-a977-acabd3545de0
-classicId: '3375757'
-classicProductId: '653399'
+  - d586978f-a217-5555-adc0-9fa9eac46feb
+classicId: '3365596'
+classicProductId: '653401'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 43
-end: '2026-08-16T21:59:59.999Z'
+directCheckout: false
+discount: 40
+end: '2026-08-18T21:59:59.000Z'
 freeDelivery: false
-id: 8d3c928b-e020-456e-b706-11ddcaa5474f
+id: 935e78b2-d76d-4b34-8d7e-3748c449fa3f
 image:
   channels:
     - app
@@ -38,17 +38,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: c07b26ea-5a99-40f3-877f-f0fdecd810ed
+offerId: ed3d3a9a-3b8a-47b9-9236-6f3bfd0adbfd
 price:
-  cents: 4295
+  cents: 4495
   currency: EUR
-  value: 42.95
+  value: 44.95
 referencePrice:
   cents: 7500
   currency: EUR
   value: 75
 slug: vans-brooklyn-sneaker-heren
-soldOut: true
-start: '2026-08-10T22:00:00.000Z'
+soldOut: false
+start: '2026-07-28T22:00:00.000Z'
 title: Vans Brooklyn Sneaker | Heren
-n
