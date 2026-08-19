@@ -1,22 +1,22 @@
-_id: 6a68aafabf2f0943eb2d1702
+_id: 6a845ce40cd213e3e93f7074
 appOnly: false
 brand: Corypheus
 brands:
   - id: b584cb30-6526-5948-933c-e34bef9b3abe
     name: Corypheus
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365788'
-classicProductId: '717715'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3387110'
+classicProductId: '717717'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 78
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 7fff0f84-91ab-41e4-87ce-5a20c5527d64
+id: c32fe902-3a5b-4680-bfbf-a72abd209fb9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: xl-grey-melange-820-inverted-zip-vest-40-3004-22-xl-820-corypheus-men-product-1
   type: product
-offerId: 0a018924-df93-4572-9833-4cf5c04fcdc2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f09e749d-e665-4163-ac08-31fcff3d776d
+  priority: 0
+  slug: corypheus-png-logo-0
+  type: logo
+offerId: 8fbcceda-bf91-4358-826d-6c980bcc7463
 price:
   cents: 1295
   currency: EUR
@@ -38,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 59.95
 slug: corypheus-inverted-jas-heren
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Corypheus Inverted Jas | Heren

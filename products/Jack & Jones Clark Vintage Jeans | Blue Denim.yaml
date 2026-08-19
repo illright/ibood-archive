@@ -1,22 +1,22 @@
-_id: 6a68aab0e69d5657f367aa96
+_id: 6a845eabde59b8f8c497c730
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365702'
-classicProductId: '711368'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388815'
+classicProductId: '711364'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 58
-end: '2026-08-18T21:59:59.000Z'
+discount: 70
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 27eae995-80ef-49d0-99ab-bb83ab72aa66
+id: 407ffa31-982b-42be-bd59-ed0180adfcb3
 image:
   channels:
     - app
@@ -30,16 +30,26 @@ image:
   priority: 0
   slug: w34-l32-blue-denim-12278238-jjiclark-jjvintage-cb-158-noos-jack-and-jones-jeans-intelligence-product-0
   type: product
-offerId: 43a09e5d-9133-4cd7-bdb0-dcf6aa4d0eea
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 090b989a-c091-4219-a421-d34c46423fed
 price:
-  cents: 2495
+  cents: 1795
   currency: EUR
-  value: 24.95
+  value: 17.95
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: jack-jones-clark-vintage-jeans-blue-denim
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Jack & Jones Clark Vintage Jeans | Blue Denim

@@ -1,22 +1,22 @@
-_id: 6a6892890a8f2eafd44b09be
+_id: 6a845e7a3ddb8f2c0ce3650f
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
-classicId: '3363509'
-classicProductId: '565403'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388749'
+classicProductId: '565393'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 64
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: ddc42fca-d861-40ef-9bda-43768455a5b9
+id: d2e36ae1-98d3-4827-b925-f3df0990e4ff
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 99e6a669-c34a-4b81-80dc-af5e0d58d76e
+offerId: 7cdf1e9a-9064-4466-ac3e-ce40dd8e2385
 price:
   cents: 3995
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 110
 slug: lacoste-carnaby-sneakers-heren
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+soldOut: true
+start: '2026-08-18T22:00:00.000Z'
 title: Lacoste Carnaby | Sneakers | Heren

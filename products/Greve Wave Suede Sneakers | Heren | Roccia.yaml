@@ -1,22 +1,22 @@
-_id: 6a68935d3ed86c1b9756fc99
+_id: 6a845c8568b57d84cad338be
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
-classicId: '3364006'
+  - af9f4d25-cb79-4734-8a3f-83c74629dab3
+classicId: '3386975'
 classicProductId: '688447'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 60
-end: '2026-08-18T21:59:59.000Z'
+discount: 68
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 033593d2-4fdb-4e96-ba60-48228fd19de1
+id: aef093d1-405f-4fe6-9185-47a10ff4c6b3
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4e5fb503-ef0c-408f-b337-58ea46561965
-  priority: 0
-  slug: greve-png-logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: b664b67b-5c17-4788-8aa9-349a25614c0f
+offerId: 25fa55eb-f938-43a5-8163-c5c11e9308d1
 price:
-  cents: 7995
+  cents: 6495
   currency: EUR
-  value: 79.95
+  value: 64.95
 referencePrice:
   cents: 20000
   currency: EUR
   value: 200
 slug: greve-wave-suede-sneakers-heren-roccia
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Greve Wave Suede Sneakers | Heren | Roccia

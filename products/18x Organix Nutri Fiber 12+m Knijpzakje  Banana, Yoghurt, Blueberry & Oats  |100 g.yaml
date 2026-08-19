@@ -1,12 +1,12 @@
-_id: 6a7b15c6af3d97a374953930
+_id: 6a8449bf6dbaf6f7cf9bcd4a
 appOnly: false
 brand: Organix
 brands:
   - id: 46ff625f-7903-5b45-aa68-d5b111e68a2c
     name: Organix
 categories:
-  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
-classicId: '3380386'
+  - 5e3f920d-fd58-5995-8b70-dff1acbb5ac9
+classicId: '3385087'
 classicProductId: '724191'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 43
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 33597ea8-b147-4255-bb2e-20ab438f866f
+id: f79031f3-a34e-43a1-85d6-5c2185336622
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 6x-organix-nutri-banana-yoghurt-bio-100gr-product-0
   type: product
-offerId: bfac2591-3ab6-4db6-b374-b6b7a6d6a3fa
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: c97ebcb9-65e4-4aa2-a87b-cc2469ebaaea
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: 5423c610-7b14-4c07-a8e3-c499913083b3
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 31.5
 slug: 18x-organix-nutri-fiber-knijpzakje-banana-yoghurt-blueberry-oats-100-g
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: 18x Organix Nutri Fiber 12+m Knijpzakje  Banana, Yoghurt, Blueberry & Oats  |100 g

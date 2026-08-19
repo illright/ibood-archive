@@ -1,22 +1,22 @@
-_id: 6a68a9b1bf2f0943eb2d154f
+_id: 6a845d1e3ddb8f2c0ce36272
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365479'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3387295'
 classicProductId: '702898'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 59
-end: '2026-08-18T21:59:59.000Z'
+discount: 64
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 6fbeecf2-cd40-456b-9adf-c36485cc325e
+id: ed224fe4-5a95-4b95-abff-97896c89a5bf
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 719783df-932d-45f9-a4cf-a74f08c88496
-  priority: 0
-  slug: giorgio-png-logo-0
+  extension: png
+  id: 1681527
+  priority: 100
+  slug: giorgio-logo
   type: logo
-offerId: 477b83b0-9e4d-47ca-9633-6668be97a64c
+offerId: 6192cc3f-2bfb-41c5-bd51-20738fa96a13
 price:
-  cents: 8995
+  cents: 7995
   currency: EUR
-  value: 89.95
+  value: 79.95
 referencePrice:
   cents: 21995
   currency: EUR
   value: 219.95
 slug: giorgio-helena-sneakers-heren
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Giorgio Helena Sneakers | Heren

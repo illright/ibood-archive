@@ -1,12 +1,12 @@
-_id: 6a7b07f7ebdd33b2bc06c9ca
+_id: 6a845e203e813291ae1ff48d
 appOnly: false
 brand: Zuiver
 brands:
   - id: a03b7811-2f65-5830-9e43-6f88c8cc0410
     name: Zuiver
 categories:
-  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
-classicId: '3378562'
+  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
+classicId: '3388238'
 classicProductId: '720222'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 60
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 5ef8a409-625a-48cf-b32b-060746356ed5
+id: 59b4d746-7eda-411e-bb33-4183966eee4b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e8304b61-8d20-4d6f-bdeb-d4d905947ede
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 2026182
+  priority: 100
+  slug: zuiver-logo
   type: logo
-offerId: 76dc3abc-2498-44d5-bab9-ad92f2eaadb2
+offerId: 01a64d72-5a5f-4ac9-a30e-b1bad07735da
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 199
 slug: zuiver-chubby-bijzettafel-beige
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Zuiver Chubby Bijzettafel | Beige

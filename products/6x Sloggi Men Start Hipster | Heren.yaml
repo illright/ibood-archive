@@ -1,22 +1,22 @@
-_id: 6a6895250a8f2eafd44b0bfc
+_id: 6a845ec80c1563cbd8abf528
 appOnly: false
 brand: Sloggi
 brands:
   - id: e875fa22-6b99-5f8c-921a-817b3bae18ba
     name: Sloggi
 categories:
-  - 4a2aa7a4-ac54-5c4a-80c7-a5185c69d562
-classicId: '3364689'
-classicProductId: '668335'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388969'
+classicProductId: '668332'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 71
-end: '2026-08-18T21:59:59.000Z'
+directCheckout: false
+discount: 70
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 17e920e0-91cd-44c2-a930-3b7a9e649a73
+id: fab96a75-aba0-4885-948f-3ac49e6ebf84
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: 1-png-product-0
   type: product
-offerId: af8c44cd-01c1-4483-a699-1777368f34a1
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ceb5d3d9-18bf-4e43-95e3-dea6fb59a9c5
+  priority: 0
+  slug: sloggi-logo-0
+  type: logo
+offerId: 790c85b6-a5d8-4ade-8555-126fe500b448
 price:
-  cents: 2995
+  cents: 3095
   currency: EUR
-  value: 29.95
+  value: 30.95
 referencePrice:
   cents: 10200
   currency: EUR
   value: 102
 slug: 6x-sloggi-men-start-hipster-heren
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: 6x Sloggi Men Start Hipster | Heren

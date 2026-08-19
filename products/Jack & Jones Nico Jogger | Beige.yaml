@@ -1,22 +1,22 @@
-_id: 6a6894213ed86c1b9756fdae
+_id: 6a845d7db236413c3c71f698
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
-classicId: '3364373'
-classicProductId: '679703'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3387564'
+classicProductId: '679704'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 68
-end: '2026-08-18T21:59:59.000Z'
+discount: 70
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 1fea7bf5-d892-4da1-b1da-dfe909196387
+id: f74b6cce-cc4f-410b-b3ac-2810f600a0cf
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: acee4b0a-ada0-4fad-a0e2-395878a8c6b3
-  priority: 0
-  slug: jack-and-jones-chino-shorts-herren-png-logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 339ddaf6-ccd7-408c-b351-ada5c81d13f1
+offerId: 88e86ae4-9dd7-4d78-ac1c-c6a2468df26b
 price:
-  cents: 1595
+  cents: 1495
   currency: EUR
-  value: 15.95
+  value: 14.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: jack-jones-nico-jogger-beige
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Jack & Jones Nico Jogger | Beige

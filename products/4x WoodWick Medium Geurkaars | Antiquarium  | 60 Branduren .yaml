@@ -1,12 +1,12 @@
-_id: 6a75cc21b7c173d97e0f6208
+_id: 6a8455938edcd40c0c550149
 appOnly: false
 brand: WoodWick
 brands:
   - id: b56b1d96-8b90-576d-8566-281a8ddd996a
     name: WoodWick
 categories:
-  - e7b3b9be-2bca-496c-8d0a-461b80e23f8c
-classicId: '3375483'
+  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
+classicId: '3385483'
 classicProductId: '724735'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: fcfbe30d-a3f6-43a4-ab25-cce2e3e9b9eb
+id: 9924353c-ae68-4b3c-b9b0-a8c6ef9ce321
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1748ac7f-cdb9-4f4e-be2e-7371f5948339
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1717757
+  priority: 100
+  slug: woodwick-logo
   type: logo
-offerId: 537250a0-e27d-58c7-bf49-355c169fcf4d
+offerId: 229d6b11-4b3d-419c-b685-8b65bdd2d0ae
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 119.6
 slug: 4x-woodwick-large-geurkaars-antiquarium
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: '4x WoodWick Medium Geurkaars | Antiquarium  | 60 Branduren '

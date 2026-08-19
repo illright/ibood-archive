@@ -1,12 +1,12 @@
-_id: 6a7b15c6b7db5daee1453f51
+_id: 6a8449bf0f1f5c45da23b73d
 appOnly: false
 brand: Organix
 brands:
   - id: 46ff625f-7903-5b45-aa68-d5b111e68a2c
     name: Organix
 categories:
-  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
-classicId: '3380387'
+  - 5e3f920d-fd58-5995-8b70-dff1acbb5ac9
+classicId: '3385085'
 classicProductId: '724188'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 925e27e9-1ffd-4225-948e-81778ec94b48
+id: 81d2ce01-d9d8-424b-8bbf-1a0af30bb0bb
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 5x-organix-strawberry-corn-puff-25gr-product-0
   type: product
-offerId: fdd5e933-3721-43f6-85e1-11c926d4d8dd
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: e022ec41-66a2-4ddc-a102-ef3962a1c0fd
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: 1bc28a4a-1029-48f3-bc7d-914c2f6933cf
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 35
 slug: 20x-organix-babysnack-6-m-strawberry-corn-puffs-bio-25-g
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: 20x  Organix Babysnack 6+m Strawberry Corn Puffs Bio | 25 g

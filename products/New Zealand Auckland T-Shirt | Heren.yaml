@@ -1,22 +1,22 @@
-_id: 6a6892ae5ff0995787364f44
+_id: 6a845e3cf18330b3d6590f20
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 665b734e-0da2-5acf-8249-103f2a05e970
-classicId: '3363685'
-classicProductId: '707630'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388418'
+classicProductId: '707642'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 56
-end: '2026-08-18T21:59:59.000Z'
+directCheckout: true
+discount: 65
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 879ee63a-8236-4e2a-8e09-0a99f4422d9e
+id: a0650676-4ba7-41b2-9a1c-13db85086375
 image:
   channels:
     - app
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: 016b196e-1574-4406-b22d-bf1e05a7d42a
+offerId: 2b81d59f-900c-4789-be51-f6e6c086aeaf
 price:
-  cents: 1995
+  cents: 1595
   currency: EUR
-  value: 19.95
+  value: 15.95
 referencePrice:
   cents: 4499
   currency: EUR
   value: 44.99
 slug: new-zealand-auckland-t-shirt-heren
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: New Zealand Auckland T-Shirt | Heren
+

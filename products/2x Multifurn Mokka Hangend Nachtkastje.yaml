@@ -1,22 +1,22 @@
-_id: 6a7b073debdd33b2bc06c865
+_id: 6a845badb236413c3c71f28c
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
-classicId: '3378288'
-classicProductId: '698162'
+  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
+classicId: '3386335'
+classicProductId: '698164'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 57
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 58b31259-84f1-4ce2-ac23-d691f427319d
+id: 5593f00e-020f-4b0b-ac91-3ad0c3b03dbb
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 5a65da98-7652-4208-9028-5ee407c1c889
+  id: aebce483-59c3-43b5-9bc7-65a26c8c544b-cr
   priority: 0
-  slug: nachtkastjeeee-png-product-1
+  slug: multifurn-mokka-v2-nachtkastje-hangend-donkerbruin-product-0
   type: product
-offerId: 9fd630c3-66ca-4a68-99b1-e57cc08b5e53
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1633646
+  priority: 100
+  slug: multifurn-logo
+  type: logo
+offerId: f81083cd-8bcc-4a73-9414-c7e6b2ac8434
 price:
   cents: 11900
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 278
 slug: multifurn-mokka-hangend-nachtkastje
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: 2x Multifurn Mokka Hangend Nachtkastje

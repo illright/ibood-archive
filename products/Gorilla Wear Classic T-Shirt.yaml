@@ -1,22 +1,22 @@
-_id: 6a7c34634efabc36f5acc1d4
+_id: 6a831bd40cba0ae1bf0fdb15
 appOnly: false
 brand: Gorilla Wear
 brands:
   - id: eb6214e6-a8d2-58a8-9891-0b9e0bb497ef
     name: Gorilla Wear
 categories:
-  - e85cc4eb-0ced-47d0-828d-ed39ff4233fe
-classicId: '3381495'
-classicProductId: '321608'
+  - 20104dfb-aff2-5813-91d1-24e35028ccc9
+classicId: '3383798'
+classicProductId: '534665'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 46
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: e8880893-f71a-5930-9a81-d933f5437c93
+id: 3ea7dc9d-33ce-4ed8-8aef-84e102bf7707
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: gorilla-wear-logo
   type: logo
-offerId: 27721b69-bdff-5ea3-b971-ede5361fce60
+offerId: 5fe50882-a8f2-49af-802d-187e7104db6a
 price:
   cents: 1995
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 36.99
 slug: gorilla-wear-classic-t-shirt
-soldOut: false
-start: '2026-08-12T22:00:00.000Z'
+soldOut: true
+start: '2026-08-18T22:00:00.000Z'
 title: Gorilla Wear Classic T-Shirt

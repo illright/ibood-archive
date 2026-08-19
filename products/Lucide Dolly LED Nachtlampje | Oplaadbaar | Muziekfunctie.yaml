@@ -1,12 +1,12 @@
-_id: 6a7b083f6f0a14c6d9b3a282
+_id: 6a845e883ddb8f2c0ce36545
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
-classicId: '3378690'
+  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
+classicId: '3388829'
 classicProductId: '720028'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 82cba585-2400-4ce4-af31-8761f734f6d0
+id: bcb2d35c-e9e4-4195-b207-3c79788b5077
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: 77500-01-43-lucide-dolly-nachtlamp-kinderkamer-led-1x3w-2700k-met-muziekfunctie-bruin-product-5
   type: product
-offerId: e06313dd-c945-4467-af9a-3791e5ac684c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
+  type: logo
+offerId: cc24768c-bd0c-49b7-8354-fa454afe7426
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 25.95
 slug: lucide-dolly-led-nachtlampje-oplaadbaar-muziekfunctie
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Lucide Dolly LED Nachtlampje | Oplaadbaar | Muziekfunctie

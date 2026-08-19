@@ -1,22 +1,22 @@
-_id: 6a68935f907f06bbad42c013
+_id: 6a845e534934cbf42ecf3dfe
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 665b734e-0da2-5acf-8249-103f2a05e970
-classicId: '3363925'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388405'
 classicProductId: '707614'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: f0f98fc6-0b1e-4081-8a41-9372ba4967dd
+id: 619423a8-d2b2-4957-bd73-d8ed2c6ceec1
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: d2df59fb-32d7-406c-9956-9953e8c3728b
+offerId: be86f6b2-95e2-49ee-8887-2b98c38322e1
 price:
   cents: 2495
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 49.99
 slug: nza-t-shirt-mellow-army-26ds707
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: NZA T-shirt Mellow Army | 26DS707

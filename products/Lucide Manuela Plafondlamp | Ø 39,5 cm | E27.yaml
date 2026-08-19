@@ -1,12 +1,12 @@
-_id: 6a7b08416846cc0017da10e0
+_id: 6a845ea70c1563cbd8abf4e8
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
-classicId: '3378705'
+  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
+classicId: '3388981'
 classicProductId: '720008'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 52
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 61ba8b78-14e9-475e-8a86-796000fd5b74
+id: dcb34caf-11d2-44c8-ac16-c953136a0171
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c7cd6eb5-eaf7-4d76-ae83-401438edc6a8
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: 97a5915e-dd4a-4a6e-8413-9cdb8609414b
+offerId: df2e7ee9-3ba6-4231-87a5-c77158457d28
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 72.95
 slug: lucide-manuela-plafondlamp-39-5-cm-e27
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Lucide Manuela Plafondlamp | Ø 39,5 cm | E27

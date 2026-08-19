@@ -1,12 +1,12 @@
-_id: 6a79d5dc638a9928226e3210
+_id: 6a831b3a0cba0ae1bf0fda68
 appOnly: false
 brand: Mizuno
 brands:
   - id: 4fec73e8-8c86-58da-9eab-cfab3a20a37b
     name: Mizuno
 categories:
-  - e5049cf3-8754-45d3-bb0e-0a169c0b7084
-classicId: '3375888'
+  - 20104dfb-aff2-5813-91d1-24e35028ccc9
+classicId: '3383701'
 classicProductId: '718651'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 43
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: a6fe0794-7664-40d8-a494-da8c88ad101c
+id: 0fb0deb5-7a1b-4ce3-91ed-5ad83a6afd31
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: mizunoooooo-png-product-1
   type: product
-offerId: a9a3e191-2222-4e61-b448-92ee8993e718
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1807305
+  priority: 100
+  slug: mizuno-logo
+  type: logo
+offerId: 50c4c4bf-d579-4db3-bfd4-4dc86c762e76
 price:
   cents: 8495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 150
 slug: mizuno-wave-skyrise-7-hardloopschoenen-heren
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Mizuno Wave Skyrise 7 Hardloopschoenen | Heren

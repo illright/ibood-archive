@@ -1,22 +1,22 @@
-_id: 6a68ab120ba53f51e51d6b92
+_id: 6a845e660c1563cbd8abf435
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365817'
-classicProductId: '712250'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388659'
+classicProductId: '712252'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 39
-end: '2026-08-18T21:59:59.000Z'
+directCheckout: true
+discount: 58
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: a0e9a3f1-052d-4fff-b30b-8d821bc54925
+id: 4b30cab3-1bbe-47f9-ad93-ac9e717e3aea
 image:
   channels:
     - app
@@ -40,16 +40,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 95f9c85a-b3da-4c1f-bc96-cae989741510
+offerId: e387ce73-a211-4a9c-a3b2-2d538187863b
 price:
-  cents: 2195
+  cents: 1495
   currency: EUR
-  value: 21.95
+  value: 14.95
 referencePrice:
   cents: 3599
   currency: EUR
   value: 35.99
 slug: petrol-industries-poloshirt-pol913-antique-white
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Petrol Industries Poloshirt | POL913 | Oil Green

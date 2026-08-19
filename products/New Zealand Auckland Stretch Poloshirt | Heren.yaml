@@ -1,22 +1,22 @@
-_id: 6a68a9a20ba53f51e51d69c4
+_id: 6a845e5b0c1563cbd8abf40f
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365463'
-classicProductId: '707496'
+  - 27e9bc88-e85d-4174-97dd-64707b815512
+classicId: '3388604'
+classicProductId: '707510'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: true
-discount: 53
-end: '2026-08-18T21:59:59.000Z'
+directCheckout: false
+discount: 55
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: f6be59a9-4f9e-4212-884b-0a996536d807
+id: c88eadd3-9926-4082-8455-edb28dcb0a11
 image:
   channels:
     - app
@@ -38,17 +38,16 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: af3ba439-6d92-4b2a-91ac-c2880994086d
+offerId: 86214182-11dc-4d4f-9918-ee7100603956
 price:
-  cents: 3495
+  cents: 3395
   currency: EUR
-  value: 34.95
+  value: 33.95
 referencePrice:
   cents: 7499
   currency: EUR
   value: 74.99
 slug: new-zealand-auckland-stretch-poloshirt-heren
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: New Zealand Auckland Stretch Poloshirt | Heren
-n

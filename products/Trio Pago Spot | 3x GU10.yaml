@@ -1,12 +1,12 @@
-_id: 6a7b0889ebdd33b2bc06cada
+_id: 6a845f0b3ddb8f2c0ce36619
 appOnly: false
 brand: Trio
 brands:
   - id: c20640a1-47f7-50d6-8fb4-6f3a3ab283d1
     name: Trio
 categories:
-  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
-classicId: '3378838'
+  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
+classicId: '3389413'
 classicProductId: '707364'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 23283aab-7658-4d0e-aea4-cec1a8eb38dc
+id: b49e538d-be03-432c-846b-476d2457c281
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: trio-logo
   type: logo
-offerId: c413a5bd-9632-43bb-be63-ba95c5467533
+offerId: 5e493030-b4dd-4508-b2d2-a7ade0cd57eb
 price:
   cents: 3695
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 69.99
 slug: trio-pago-spot-3x-gu10
-soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+soldOut: true
+start: '2026-08-18T22:00:00.000Z'
 title: Trio Pago Spot | 3x GU10

@@ -1,12 +1,12 @@
-_id: 6a7b08086846cc0017da1040
+_id: 6a845e4e68b57d84cad339b5
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
-classicId: '3378598'
+  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
+classicId: '3388534'
 classicProductId: '720018'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 68
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 944861db-f027-417d-bc37-5d2bdd0d1602
+id: 78e3dd06-6524-4551-bd62-5edeb622799b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 87130a81-41eb-43bb-a57d-da17f5f675aa
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: 458213ed-3f4c-4550-92f4-6f2e5bd164ec
+offerId: 361e5941-1e33-4e2b-894f-a5e20e3bb637
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 78.95
 slug: lucide-comet-led-bureaulamp-oplaad-dimbaar
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Lucide Comet LED Bureaulamp | Oplaad- & Dimbaar

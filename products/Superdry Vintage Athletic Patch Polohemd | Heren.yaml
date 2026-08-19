@@ -1,22 +1,22 @@
-_id: 6a6894bb907f06bbad42c17f
+_id: 6a845f704934cbf42ecf4042
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 665b734e-0da2-5acf-8249-103f2a05e970
-classicId: '3364560'
+  - 27e9bc88-e85d-4174-97dd-64707b815512
+classicId: '3389760'
 classicProductId: '716585'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 54
-end: '2026-08-18T21:59:59.000Z'
+discount: 65
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: f41b5b32-a7cf-405b-91ea-42a1f2c1be76
+id: 64f579dd-b584-4e67-8e0a-0111aaeff162
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: l-eclipse-navy-98t-m1110472a-vintage-athletic-patch-polo-superdry-original-vintage-product-2
   type: product
-offerId: 577d9900-3beb-4ba0-bc3a-35644cb30d51
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 19e05e5b-b351-4846-a665-bd479c8ad1d7
 price:
-  cents: 2995
+  cents: 2295
   currency: EUR
-  value: 29.95
+  value: 22.95
 referencePrice:
   cents: 6499
   currency: EUR
   value: 64.99
 slug: superdry-vintage-athletic-patch-polohemd-heren
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Superdry Vintage Athletic Patch Polohemd | Heren

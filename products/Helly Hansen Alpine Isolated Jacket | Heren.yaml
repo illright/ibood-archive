@@ -1,12 +1,12 @@
-_id: 6a5e0e3f93ea251e0b04281d
+_id: 6a84572ef42ee31785f24b1b
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - c399b117-3c3f-59e1-b940-7a85827de505
-classicId: '3342988'
+  - 21164d61-dc71-5aef-bc92-0a5ffb2d9e52
+classicId: '3385772'
 classicProductId: '659599'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 80
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 782e41bd-82c2-4bae-8ee0-b0770ae49874
+id: 0be4e604-b646-444e-989d-c99ab64cefe9
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: fdd4ffb8-ed02-4668-bdf6-a2ccf39343f0
+offerId: 1f445910-bdad-401a-9d27-a47ca02a8c06
 price:
   cents: 5000
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 250
 slug: helly-hansen-alpine-isolated-jacket-heren
-soldOut: true
-start: '2026-07-21T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Helly Hansen Alpine Isolated Jacket | Heren

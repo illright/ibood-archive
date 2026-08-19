@@ -1,22 +1,22 @@
-_id: 6a68942ad7eb46b724dbb0ee
+_id: 6a845f993ddb8f2c0ce366c7
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 665b734e-0da2-5acf-8249-103f2a05e970
-classicId: '3364407'
+  - 27e9bc88-e85d-4174-97dd-64707b815512
+classicId: '3389812'
 classicProductId: '716537'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 50
-end: '2026-08-18T21:59:59.000Z'
+discount: 58
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 5e5d7317-3170-44f6-941f-ac06a348f007
+id: 575b6f3c-65b9-4cbd-aa60-bbc9c3cf2956
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: s-burnt-red-am5-m1110451a-vintage-destroy-polo-superdry-original-vintage-product-0
   type: product
-offerId: 8370bef7-a545-40fb-a3da-fe85bca8abbb
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: ffbe19fb-134e-4dc2-98bc-31269da2fc20
 price:
-  cents: 2495
+  cents: 2095
   currency: EUR
-  value: 24.95
+  value: 20.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: superdry-vintage-destroy-polo
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Superdry Vintage Destroy-polo | Diverse kleuren en maten

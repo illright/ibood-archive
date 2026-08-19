@@ -1,12 +1,12 @@
-_id: 6a75cc1cb7c173d97e0f61d8
+_id: 6a8455b9ea80ee45cacc9027
 appOnly: false
 brand: WoodWick
 brands:
   - id: b56b1d96-8b90-576d-8566-281a8ddd996a
     name: WoodWick
 categories:
-  - e7b3b9be-2bca-496c-8d0a-461b80e23f8c
-classicId: '3375480'
+  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
+classicId: '3385530'
 classicProductId: '724740'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 24813f09-0fc3-4cc1-8319-6c88680307a5
+id: 75f3297f-6198-4f0a-afc3-1e4b80d90c7a
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a5f42423-3544-41d7-aac4-89a5d1e738b5
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1717757
+  priority: 100
+  slug: woodwick-logo
   type: logo
-offerId: 83ad77c5-6627-57bd-b133-583faca34569
+offerId: 375b3057-6aea-48c2-867c-6607f8f35c16
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 83.8
 slug: 2x-woodwick-ellipse-geurkaars-fireside
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: '2x WoodWick Ellipse Geurkaars | Fireside | 50 Branduren '

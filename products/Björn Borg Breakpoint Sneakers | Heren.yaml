@@ -1,22 +1,22 @@
-_id: 6a68a9ee79de187d4d054871
+_id: 6a845c190cd213e3e93f6e7b
 appOnly: false
 brand: Björn Borg
 brands:
   - id: 7ccf6fba-ce7f-5d8f-a9c4-1217199c53ca
     name: Björn Borg
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365530'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3386502'
 classicProductId: '690186'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 70
-end: '2026-08-18T21:59:59.000Z'
+directCheckout: false
+discount: 67
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 905b7204-e50e-431d-b822-805302ff6928
+id: 98058d94-690b-4723-8eef-6514b659eef3
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: bjorn-borg-logo
   type: logo
-offerId: e7b6f382-9d3e-4ec4-99bb-efe493a1a678
+offerId: ddf1b8dd-6566-4de5-b5e8-fc3ea124bf6f
 price:
-  cents: 2995
+  cents: 3295
   currency: EUR
-  value: 29.95
+  value: 32.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: bjorn-borg-breakpoint-sneakers-heren
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Björn Borg Breakpoint Sneakers | Heren

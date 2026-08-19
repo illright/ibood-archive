@@ -1,22 +1,22 @@
-_id: 6a68a9a10ba53f51e51d69c2
+_id: 6a845e700c1563cbd8abf445
 appOnly: false
 brand: McGregor
 brands:
   - id: ab904669-c30e-5e44-b440-d11ada358fbf
     name: McGregor
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365462'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388240'
 classicProductId: '694611'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 50
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 5f77d54e-1be8-4ea8-bdec-908e612bd569
+id: d6604cee-3f52-4e7d-ad47-3e2b4c91e2f5
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: mcgregor-logo
   type: logo
-offerId: 5eb9b937-8586-4291-8574-5d2d22fde192
+offerId: da43271a-45a3-4576-8251-411e52c54224
 price:
   cents: 2495
   currency: EUR
@@ -51,5 +51,5 @@ referencePrice:
   value: 49.95
 slug: mcgregor-t-shirt-heren-navy-gestreept
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: McGregor T‑Shirt | Heren | Navy Gestreept

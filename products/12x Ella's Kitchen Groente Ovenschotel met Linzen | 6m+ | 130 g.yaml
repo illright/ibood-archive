@@ -1,12 +1,12 @@
-_id: 6a7b131af1ab2d942a24bbd4
+_id: 6a8449bdcc3f1adafa874bed
 appOnly: false
 brand: Ella's Kitchen
 brands:
   - id: e9639beb-a33d-59c6-8939-134a6b8c3e14
     name: Ella's Kitchen
 categories:
-  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
-classicId: '3379549'
+  - 5e3f920d-fd58-5995-8b70-dff1acbb5ac9
+classicId: '3385083'
 classicProductId: '717735'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 93cc4a1c-fdb1-452e-a490-82bfd80e648f
+id: f293db54-f66b-4dc8-adcc-c0bb4aff3d81
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: ella-s-kitchen-01-png-product-1
   type: product
-offerId: d6d4236b-1355-4817-a967-3639cd681fff
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 3bed7741-e78f-4ec8-ba6a-ebc5cb21963e
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: bcce86d1-f5cb-4494-be7b-6e787521304c
 price:
   cents: 1895
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 31.8
 slug: 12x-ella-s-kitchen-groente-ovenschotel-met-linzen-6m-130-g
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: 12x Ella's Kitchen Groente Ovenschotel met Linzen | 6m+ | 130 g

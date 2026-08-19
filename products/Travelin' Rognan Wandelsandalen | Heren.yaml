@@ -1,22 +1,22 @@
-_id: 6a79d5dfab3297fac3c021b7
+_id: 6a8419d00cba0ae1bf0fdb6f
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 5d303b75-e96e-4cc4-bbf7-f2bec019ddc8
-classicId: '3375889'
-classicProductId: '716260'
+  - 97d1aadc-c582-5387-bd63-011c9878555e
+classicId: '3383877'
+classicProductId: '716265'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 69
-end: '2026-08-18T21:59:59.999Z'
+directCheckout: true
+discount: 67
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 4f4fdd89-5bda-4734-83c8-5522fc3e6029
+id: a81b0ec2-cd7d-43cb-8329-e5e5ca6327f0
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: 4fccd743-d37a-4866-8f1b-25ecc799154d
+offerId: 9d30d9a3-5376-45e4-8147-e58de99df1d2
 price:
-  cents: 2795
+  cents: 2995
   currency: EUR
-  value: 27.95
+  value: 29.95
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: travelin-rognan-heren-wandelsandalen
-soldOut: true
-start: '2026-08-11T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Travelin' Rognan Wandelsandalen | Heren

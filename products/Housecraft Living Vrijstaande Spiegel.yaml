@@ -1,12 +1,12 @@
-_id: 6a7b06e2f1ab2d942a24b882
+_id: 6a845b233e813291ae1fef5f
 appOnly: false
 brand: Housecraft Living
 brands:
   - id: 41f194b5-2e39-5e2d-bdc8-cc81a9032e72
     name: Housecraft Living
 categories:
-  - 87d1d6d4-c2ad-5ef9-b072-f3dfc91a623c
-classicId: '3378062'
+  - 67491cd3-ba5c-5a2b-9abc-a1a09363b482
+classicId: '3386208'
 classicProductId: '720221'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 5bd7c4f1-ffd9-4cec-b83a-0646d389c74b
+id: 47be8ec7-e36c-4365-a7ce-ee9459f1a700
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 1000598-housecraft-living-mirror-stand-black-product-0
   type: product
-offerId: b1edd9e8-9150-46b1-aca5-db4b5fabf48f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ffc39527-c9c2-4771-9080-2fc357416a31
+  priority: 0
+  slug: housecraft-living-logo-0
+  type: logo
+offerId: a24805ed-3ab7-4413-b2a2-4d96d93fa279
 price:
   cents: 5995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 139
 slug: housecraft-living-vrijstaande-spiegel
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Housecraft Living Vrijstaande Spiegel

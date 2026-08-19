@@ -1,12 +1,12 @@
-_id: 6a7593e90077ea54e9e9b823
+_id: 6a842213f42ee31785f24538
 appOnly: false
 brand: Tristar
 brands:
   - id: 1d95bd9f-900d-55da-ae35-f20d200d8d82
     name: Tristar
 categories:
-  - 95b3599b-cbbe-494b-821c-bd5f2ee826bc
-classicId: '3374959'
+  - 23958eb5-843f-5c51-ba16-5b0b27acdc45
+classicId: '3384044'
 classicProductId: '724634'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 6ce0c042-7a5f-46c0-8b20-36c2d439b044
+id: eeb82141-e628-45be-92d4-90dbd897c79d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: wr-7511-tristar-wijnkoelkast-grand-saignee-12-flessen-product-0
   type: product
-offerId: 713e588f-52d1-5807-afd7-c5f05f0fda61
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a7e9011a-732a-42de-b419-71983abfee78
+  priority: 0
+  slug: tristar-logo-0
+  type: logo
+offerId: ff015339-41c7-49a3-b47f-98205fc7b2c5
 price:
   cents: 11900
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 199.99
 slug: tristar-wr-7511-grand-saignee-wijnkoelkast-12-flessen
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Tristar WR-7511 Grand Saigneé Wijnkoelkast | 12 flessen

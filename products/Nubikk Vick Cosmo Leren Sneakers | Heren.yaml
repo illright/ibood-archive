@@ -1,12 +1,12 @@
-_id: 6a7c264a425c73a34d7b59ca
+_id: 6a845cf43e813291ae1ff29f
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - c70f7ba2-7546-5bbe-99c3-6516b8880aa8
-classicId: '3381444'
+  - af9f4d25-cb79-4734-8a3f-83c74629dab3
+classicId: '3387193'
 classicProductId: '720912'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 59
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: b93ee9f3-257a-4433-93cc-5abae7c39685
+id: 50196229-f3c2-4f21-9819-c25326bd5908
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f94069bf-2318-44d2-ab55-9316d350117e
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1662615
+  priority: 100
+  slug: nubikk-logo
   type: logo
-offerId: 27db3efa-e679-479b-b1cf-e51ccb0e35c8
+offerId: caefa906-1459-4970-be67-adcaa4219739
 price:
   cents: 8995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 220
 slug: nubikk-vick-cosmo-leren-sneakers-heren
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Nubikk Vick Cosmo Leren Sneakers | Heren

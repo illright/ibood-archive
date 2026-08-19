@@ -1,22 +1,22 @@
-_id: 6a5e0e7270f21c5660c59c35
+_id: 6a8457355d15d1084214e59b
 appOnly: false
 brand: Tenson
 brands:
   - id: ffe4309b-f362-5e47-8d43-8455423acc18
     name: Tenson
 categories:
-  - eff3a805-c188-5067-a4aa-2a7b87ab1822
-classicId: '3343072'
-classicProductId: '697023'
+  - 564af421-c465-547d-a5d3-4b6b33ed05ef
+classicId: '3385793'
+classicProductId: '697026'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 56
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 888a7f28-1a9f-4792-b1e9-91ba89907625
+id: 52f18bf0-9d5d-4a8a-b680-02bc063bcae6
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: tenson-logo
   type: logo
-offerId: 86a5c3e3-6f33-445c-bcbd-9a41dc538737
+offerId: 707831e2-b8e7-4276-b422-4b77ab0397f6
 price:
   cents: 3500
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 80
 slug: tenson-txlite-stretchbroek-heren-taupe
-soldOut: true
-start: '2026-07-21T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Tenson TXlite Stretchbroek | Heren | Taupe

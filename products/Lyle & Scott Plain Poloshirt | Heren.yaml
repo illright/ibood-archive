@@ -1,22 +1,22 @@
-_id: 6a68910db0cf3e41e377667e
+_id: 6a845e153ddb8f2c0ce363f9
 appOnly: false
 brand: Lyle & Scott
 brands:
   - id: 9b481519-5251-5a59-b9b2-19b89992a7f6
     name: Lyle & Scott
 categories:
-  - 665b734e-0da2-5acf-8249-103f2a05e970
-classicId: '3362695'
-classicProductId: '701444'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388160'
+classicProductId: '701457'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
-discount: 50
-end: '2026-08-18T21:59:59.000Z'
+directCheckout: true
+discount: 55
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: ff6c6f6a-2314-423c-8a7b-617a83aef23f
+id: 050837d6-5e04-4fe2-b393-d1826d4e1327
 image:
   channels:
     - app
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: lyle-scott-logo
   type: logo
-offerId: 998461e1-25f5-4a06-8151-c4403a8e4d69
+offerId: 83de0bcf-b648-486d-a4d8-93c007c05534
 price:
-  cents: 1995
+  cents: 1795
   currency: EUR
-  value: 19.95
+  value: 17.95
 referencePrice:
   cents: 3995
   currency: EUR
   value: 39.95
 slug: lyle-scott-plain-poloshirt
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Lyle & Scott Plain Poloshirt | Heren
+

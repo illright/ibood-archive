@@ -1,56 +1,56 @@
-_id: 6a6893d83ed86c1b9756fd21
+_id: 6a845f74b236413c3c71f9ab
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 665b734e-0da2-5acf-8249-103f2a05e970
-classicId: '3364331'
-classicProductId: '716591'
+  - 27e9bc88-e85d-4174-97dd-64707b815512
+classicId: '3389769'
+classicProductId: '716603'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 46
-end: '2026-08-18T21:59:59.000Z'
+discount: 55
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: fc859797-dc6f-4aa2-8bb5-4fc65a0132e2
+id: c2f81d88-dbf5-420a-adb6-eb492673f78a
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 91c1c24c-f570-451b-924f-1ccfdd8fb505
+  id: 071c7231-e7ec-431c-b8b1-426bc535c9cd-tr-tr
   priority: 0
-  slug: sd003-png-product-1
+  slug: m-vintage-indigo-11v-m2014044a-classic-essential-sweatshirt-superdry-superdry-studios-product-3
   type: product
-offerId: 0b3f3267-889b-4400-b4c5-d52ed27d3b7b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: d15b7e94-dd66-49aa-ace2-2a597508232b
 price:
-  cents: 3495
+  cents: 2895
   currency: EUR
-  value: 34.95
-referencePrice:
-  cents: 6499
-  currency: EUR
-  value: 64.99
-slug: superdry-essential-sweatshirt-met-rondelijn-heren
-soldOut: false
-start: '2026-07-28T22:00:00.000Z'
-title: Superdry Essential Sweatshirt met Ronde Hals | Heren
--41fc474a92f7
-price:
-  cents: 3495
-  currency: EUR
-  value: 34.95
+  value: 28.95
 referencePrice:
   cents: 6499
   currency: EUR
   value: 64.99
 slug: superdry-classic-essential-sweatshirt-met-rondom-hals-heren
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Superdry Essential Sweatshirt met Ronde Hals | Heren

@@ -1,22 +1,22 @@
-_id: 6a5e0e8da02c4ed8692e2025
+_id: 6a84572aea80ee45cacc91dc
 appOnly: false
 brand: VAUDE
 brands:
   - id: 5bd79664-1a7d-5922-b8fe-f12f6f6be54e
     name: VAUDE
 categories:
-  - c399b117-3c3f-59e1-b940-7a85827de505
-classicId: '3343120'
+  - 21164d61-dc71-5aef-bc92-0a5ffb2d9e52
+classicId: '3385802'
 classicProductId: '679988'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 67
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 43d295f7-7fc2-4b8a-9884-1d89576ba789
+id: dc730994-ca33-412e-bb0f-5e7a992bb513
 image:
   channels:
     - app
@@ -40,7 +40,7 @@ logo:
   priority: 100
   slug: vaude-logo
   type: logo
-offerId: 3a953b82-526f-4d00-b23e-5afa72c12047
+offerId: 7d42b3c9-a119-4d48-b536-d05710d95b29
 price:
   cents: 7500
   currency: EUR
@@ -50,6 +50,6 @@ referencePrice:
   currency: EUR
   value: 230
 slug: vaude-agave-me-elope-ii-outdoorjas-heren
-soldOut: false
-start: '2026-07-21T22:00:00.000Z'
+soldOut: true
+start: '2026-08-18T22:00:00.000Z'
 title: Vaude Agave Me Elope II Outdoorjas | Heren

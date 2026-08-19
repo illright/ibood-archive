@@ -1,12 +1,12 @@
-_id: 6a7b0772ebdd33b2bc06c8f4
+_id: 6a845c433ddb8f2c0ce3607a
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
-classicId: '3378378'
+  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
+classicId: '3386720'
 classicProductId: '698535'
 deliveryPrice:
   cents: 2995
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 29.95
 directCheckout: true
 discount: 65
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 06e4bc5b-49f2-4d1b-aa23-c68c4868e8a9
+id: 6410cc0a-6285-4c64-9ca0-1407db12f8ba
 image:
   channels:
     - app
@@ -32,15 +32,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1633646
-  priority: 100
-  slug: multifurn-logo
+    - all
+  extension: image/png
+  id: b02578bf-9d60-489a-a74b-4d4e111a7056
+  priority: 0
+  slug: multifurn-png-logo-0
   type: logo
-offerId: 1ab99e9a-a401-40c8-af39-03e635b3e51d
+offerId: d412e4a9-f5a3-46b6-9a7d-db43eb27b681
 price:
   cents: 44900
   currency: EUR
@@ -51,5 +52,5 @@ referencePrice:
   value: 1299
 slug: multifurn-hoekbank-lara-rechts-linnen-beige
 soldOut: true
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Multifurn Hoekbank Lara | Rechts | Linnen Beige

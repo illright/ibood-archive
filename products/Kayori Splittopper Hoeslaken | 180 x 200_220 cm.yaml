@@ -1,32 +1,31 @@
-_id: 6a7b09706f0a14c6d9b3a43a
+_id: 6a845b2c3ddb8f2c0ce35f1b
 appOnly: false
 brand: Kayori
 brands:
   - id: a020a80a-449b-505f-96f0-a69dde1dcb1d
     name: Kayori
 categories:
-  - cf6f0710-f407-5281-9c0c-03b3bfce7aa5
-classicId: '3379114'
-classicProductId: '525905'
+  - 334bb4ca-1435-532d-9e64-1fede15fae1d
+classicId: '3386192'
+classicProductId: '525907'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 45
-end: '2026-08-18T21:59:59.999Z'
+discount: 59
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: d73b949c-0cd0-44eb-94fc-d90e6f0367a5
+id: e2b18d68-36a1-48c8-bd92-637838521e46
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 17bea842-569d-49bf-9ba8-f57520c4e686-cr
+  extension: png
+  id: 1499715
   priority: 0
-  slug: kayori-splittopper-bettlaken-180-x-200220-png-product-2
+  slug: kayori-splittopper-bettlaken-180-x-200220
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: kayori-logo
   type: logo
-offerId: 4f03ea43-f93a-4968-99ab-cae82cb76598
+offerId: 37a9d6ff-1fb2-4577-b055-2ed9c0f004e9
 price:
-  cents: 2995
+  cents: 3295
   currency: EUR
-  value: 29.95
+  value: 32.95
 referencePrice:
-  cents: 5495
+  cents: 7995
   currency: EUR
-  value: 54.95
+  value: 79.95
 slug: kayori-splittopper-hoeslaken-180-x-200220-cm
-soldOut: true
-start: '2026-08-11T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Kayori Splittopper Hoeslaken | 180 x 200/220 cm

@@ -1,12 +1,12 @@
-_id: 6a7d9742fcc5ec2b80d4c09c
+_id: 6a842ac9f42ee31785f246d7
 appOnly: false
 brand: Ryobi
 brands:
   - id: ee7cc6d4-bdd2-5d68-8a9a-8bc6068d59af
     name: Ryobi
 categories:
-  - b9a52938-b8a9-529a-95ac-86469a619f5f
-classicId: '3382301'
+  - ecb1bd3b-2130-5904-9ece-898a73e3a19e
+classicId: '3384584'
 classicProductId: '720665'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: c84f4eec-2b3a-4a38-a385-27e88cc79c52
+id: d122cdfd-c3c4-4e44-8e95-161c1c61dbe1
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: e3dd71b2-6703-4172-8d5c-74d5e41908e8
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1992746
+  priority: 100
+  slug: ryobi-logo
   type: logo
-offerId: 5b65c66d-a2dd-4acd-9e68-6704c8aad94d
+offerId: 9fd8cc0d-a4d8-4c01-a4df-ed56e55ef1ac
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: ryobi-14-w-opvouwbaar-zonnepaneel-rysp14a
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Ryobi 14 W Opvouwbaar Zonnepaneel | RYSP14A

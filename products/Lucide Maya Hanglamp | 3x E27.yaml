@@ -1,12 +1,12 @@
-_id: 6a7b08036f0a14c6d9b3a229
+_id: 6a845e44de59b8f8c497c61c
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - 0fc73bcb-33d9-5f4d-981d-70c18b7f83c4
-classicId: '3378586'
+  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
+classicId: '3388473'
 classicProductId: '720017'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 57
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 7aef7dd7-4615-4d5e-b916-602e82aaaebd
+id: 47f371ce-6bbc-4ba2-b54b-eaa99507cd9d
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 05f57d6f-46e4-481b-83d7-fe81eb19052d
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: c48e68e3-1d91-4a1f-9238-4259ab8b3fe9
+offerId: 7a7109b5-bd7d-4dc4-9fc7-b419fcc5e1d5
 price:
   cents: 6495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 151.95
 slug: lucide-maya-hanglamp-3x-e27
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Lucide Maya Hanglamp | 3x E27

@@ -1,12 +1,12 @@
-_id: 6a75cc19b7c173d97e0f61ad
+_id: 6a8455a6ea80ee45cacc8fd5
 appOnly: false
 brand: WoodWick
 brands:
   - id: b56b1d96-8b90-576d-8566-281a8ddd996a
     name: WoodWick
 categories:
-  - e7b3b9be-2bca-496c-8d0a-461b80e23f8c
-classicId: '3375465'
+  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
+classicId: '3385506'
 classicProductId: '724732'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: f13b0b53-cf15-4ae8-be88-e13255d140e1
+id: bac24463-d6b6-4cae-b491-8ee8132f6181
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 53309b7d-28c6-4db5-9d58-e9a54b23400a
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1717757
+  priority: 100
+  slug: woodwick-logo
   type: logo
-offerId: f965463b-4141-520a-abc9-6bfe0136497a
+offerId: 41036d2d-74f9-4d5c-a8de-fe8729ed53d6
 price:
   cents: 3995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 83.8
 slug: 2x-woodwick-ellipse-geurkaars-coastal-sunset
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: '2x WoodWick Ellipse Geurkaars | Coastal Sunset | 50 Branduren '

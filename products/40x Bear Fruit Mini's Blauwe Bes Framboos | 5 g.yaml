@@ -1,12 +1,12 @@
-_id: 6a7b1236b7db5daee14539e0
+_id: 6a8449c478a813f67216847f
 appOnly: false
 brand: Bear snacks
 brands:
   - id: 9c5fa0d1-c812-543d-8635-946ef51925b5
     name: Bear snacks
 categories:
-  - eaf84db4-d904-5fc6-8b3d-0b56228556cd
-classicId: '3379402'
+  - 5e3f920d-fd58-5995-8b70-dff1acbb5ac9
+classicId: '3385091'
 classicProductId: '723517'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 43895eb2-718c-459f-aac2-c80a6f3918f3
+id: efacc53b-b079-4d29-8c7e-8799a6beb0b9
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: product-2
   type: product
-offerId: 03698763-d1a1-45bd-98a2-cc7f9e0295be
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: aec531d1-4b85-49a6-8bed-6c3d8cba26e7
+  priority: 0
+  slug: logo-0
+  type: logo
+offerId: e4cb3896-c397-4677-a0ca-a502f117eee8
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 34.95
 slug: 40x-bear-fruit-mini-s-blauwe-bes-framboos-5-g
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: 40x Bear Fruit Mini's Blauwe Bes Framboos | 5 g

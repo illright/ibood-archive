@@ -1,22 +1,22 @@
-_id: 6a68aa8b0ba53f51e51d6b17
+_id: 6a845edc0c1563cbd8abf530
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365676'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3389118'
 classicProductId: '716670'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
-directCheckout: false
+directCheckout: true
 discount: 55
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: a70c9cfb-67d3-4c47-ac16-6441831a2ae8
+id: c33e99ad-0773-4f70-88c9-e5a8026c22a6
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: m-sashiko-atlantic-navy-kmn-m3010262a-premium-printed-15-swim-short-superdry-superdry-studios-product-8
   type: product
-offerId: 3692e97b-3a4f-4855-bb9f-ceacdebd79ea
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 63cf7269-b39f-49c1-b6be-0ae62e84c17e
 price:
   cents: 2495
   currency: EUR
@@ -40,6 +51,6 @@ referencePrice:
   currency: EUR
   value: 54.99
 slug: superdry-premium-printed-zwemshort-sashiko-atlantic-navy
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: 'Superdry Premium Printed Zwemshort '

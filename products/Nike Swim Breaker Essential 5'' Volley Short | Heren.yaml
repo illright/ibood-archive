@@ -1,22 +1,22 @@
-_id: 6a5e0e49a1808fff0e0d3699
+_id: 6a845734f42ee31785f24b29
 appOnly: false
 brand: Nike Swim
 brands:
   - id: cf1d460e-7ec0-5a30-96f7-013395e818f3
     name: Nike Swim
 categories:
-  - 0ecec1f1-ee91-5bed-b36c-a807219eec99
-classicId: '3343008'
-classicProductId: '700472'
+  - b948db76-9489-55f3-8ff7-03ffa42860f7
+classicId: '3385800'
+classicProductId: '628906'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 47
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: ee079474-23db-4ad0-a1cb-d59cd41fe4e7
+id: bea193c2-f701-4b24-99a8-a4d177424987
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: e05a0891-1ca3-4576-816e-e1a0016c3a90
+  id: d41bec9d-2911-461c-848d-0dddff97af42
   priority: 0
-  slug: nike-02-png-product-1
+  slug: nike-04-png-product-2
   type: product
 logo:
   channels:
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: nike-swim-logo-0
   type: logo
-offerId: 53022999-0412-4d17-a285-ba6ae92156ff
+offerId: 2b27281a-acad-42a1-b7d5-524e5887e2a1
 price:
   cents: 2000
   currency: EUR
@@ -49,8 +49,6 @@ referencePrice:
   currency: EUR
   value: 37.95
 slug: nike-swim-breaker-essential-5-volley-short-heren
-soldOut: true
-start: '2026-07-21T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Nike Swim Breaker Essential 5'' Volley Short | Heren
-
-

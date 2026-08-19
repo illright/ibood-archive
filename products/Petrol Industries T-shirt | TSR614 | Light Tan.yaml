@@ -1,12 +1,12 @@
-_id: 6a68aaf76109ca98c0e67060
+_id: 6a845e82b236413c3c71f7f2
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365781'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3388497'
 classicProductId: '712064'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 39
-end: '2026-08-18T21:59:59.000Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: aa14146d-43e1-4f0c-b602-559e4274dac9
+id: 2edde49f-ef90-40a3-b263-0c14aaf1ce61
 image:
   channels:
     - app
@@ -32,16 +32,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b350aa17-ba06-4f1e-b2a1-bdf0da06442d
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: 8191d429-aaa4-45f5-ada5-99b5821fd8dc
+offerId: cd9d7c1f-93f3-46b9-a07e-56d345a860e3
 price:
   cents: 1395
   currency: EUR
@@ -52,5 +51,5 @@ referencePrice:
   value: 22.99
 slug: petrol-industries-t-shirt-tsr614-light-tan
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Petrol Industries T-shirt | TSR614 | Light Tan

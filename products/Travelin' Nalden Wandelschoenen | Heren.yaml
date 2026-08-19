@@ -1,22 +1,22 @@
-_id: 6a60825064e0c602f87d2431
+_id: 6a845732ea80ee45cacc91ed
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - eff3a805-c188-5067-a4aa-2a7b87ab1822
-classicId: '3353007'
-classicProductId: '699513'
+  - 564af421-c465-547d-a5d3-4b6b33ed05ef
+classicId: '3385782'
+classicProductId: '699524'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 79
-end: '2026-08-18T21:59:59.000Z'
+directCheckout: false
+discount: 75
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 1b707cfe-f5aa-48f4-b979-0ff7dc153fc4
+id: 71808063-8066-4653-9cb4-21f06b0e0a0b
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: travelin-logo
   type: logo
-offerId: bdc245dc-c252-46e3-97ec-a6d6df74a369
+offerId: e5fd40b9-af98-4355-a9c3-7d6726ce02b3
 price:
-  cents: 3750
+  cents: 4500
   currency: EUR
-  value: 37.5
+  value: 45
 referencePrice:
   cents: 17995
   currency: EUR
   value: 179.95
 slug: travelin-nalden-wandelschoenen-heren
-soldOut: true
-start: '2026-07-21T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Travelin' Nalden Wandelschoenen | Heren

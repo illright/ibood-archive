@@ -1,12 +1,12 @@
-_id: 6a7ae390286cee96f81b8d94
+_id: 6a842206f42ee31785f24526
 appOnly: false
 brand: De Buyer
 brands:
   - id: 0226a1c2-a065-5d37-a5cc-16b478262a39
     name: De Buyer
 categories:
-  - 3226f3f8-6809-4b51-94a6-de1acb688223
-classicId: '3376875'
+  - 60529539-4c01-405b-bc83-c1a36a3d5863
+classicId: '3384007'
 classicProductId: '192854'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,18 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-08-18T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: c4f17a7c-82e2-48df-a8b3-9b7350064f42
+id: 506ed7e2-2f8f-4598-a426-7e15759b7fbd
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-    - website
-    - app
-  extension: image/png
-  id: 987ed83d-9270-4c82-b1fd-1ae156128e36-tr
+  extension: jpg
+  id: 983687
   priority: 0
-  slug: de-buyer-pfannenset-24-und-28-cm-2-jpg-product-1
+  slug: de-buyer-pannenset-24-28-cm
   type: product
 logo:
   channels:
@@ -40,7 +37,7 @@ logo:
   priority: 100
   slug: debuyer-logo
   type: logo
-offerId: f2b0a001-948a-405a-94f0-62f7cd4f4bfa
+offerId: 415d2a2e-2843-4379-8215-ad6356610493
 price:
   cents: 3995
   currency: EUR
@@ -51,5 +48,5 @@ referencePrice:
   value: 92.5
 slug: de-buyer-pannenset-24-28-cm
 soldOut: false
-start: '2026-08-11T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: De Buyer Pannenset

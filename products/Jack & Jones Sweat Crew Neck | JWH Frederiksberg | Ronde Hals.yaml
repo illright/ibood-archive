@@ -1,22 +1,22 @@
-_id: 6a6892f307f7b430293d17f4
+_id: 6a845dc468b57d84cad33932
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
-classicId: '3363771'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3387776'
 classicProductId: '654066'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 72
-end: '2026-08-18T21:59:59.000Z'
+discount: 73
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 2caabb41-2d2c-4722-9752-56f07e294453
+id: 9dfecbe1-1de4-45b5-bcc0-a79f6b6ba32d
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: trui-png-product-1
   type: product
-offerId: ac82403a-d54b-45bd-a152-fb0308b4ef21
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 0fa9218c-c568-4fb9-a0f9-3ecc748a08bd
 price:
-  cents: 1135
+  cents: 1095
   currency: EUR
-  value: 11.35
+  value: 10.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: jwhfrederiksberg-sweat-crew-neck-jack-and-jones-originals
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Jack & Jones Sweat Crew Neck | JWH Frederiksberg | Ronde Hals

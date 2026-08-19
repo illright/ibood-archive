@@ -1,22 +1,22 @@
-_id: 6a6893d6ed458b9db34b5bad
+_id: 6a845d88cc144d1d39fa45f5
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - e678d15a-4e7d-5032-9cfb-86bedd2891b0
-classicId: '3364305'
-classicProductId: '683701'
+  - 7064941b-ec4d-4c96-a4f2-40371ec51faa
+classicId: '3387723'
+classicProductId: '683699'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 67
-end: '2026-08-18T21:59:59.000Z'
+discount: 63
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 3ae28a5d-c48d-4191-8fd6-982e5612b094
+id: 5f52c3e8-7f72-427f-ae6a-55e622d2fc92
 image:
   channels:
     - app
@@ -28,20 +28,26 @@ image:
   priority: 0
   slug: main11-png-product-1
   type: product
-offerId: c225f7da-37be-439f-be8c-d90c62085900
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
+  type: logo
+offerId: bcf91ea0-5e17-4b1e-bf4d-c15ee812d3fa
 price:
-  cents: 11630
+  cents: 12995
   currency: EUR
-  value: 116.3
+  value: 129.95
 referencePrice:
   cents: 34900
   currency: EUR
   value: 349
 slug: delsey-expandable-carrousel-2-carry-on-trolley-55-cm
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
-title: Delsey Expandable Carrousel 2 Carry-On Trolley | 55 cm
-usel-2-carry-on-trolley-55-cm
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Delsey Expandable Carrousel 2 Carry-On Trolley | 55 cm

@@ -1,22 +1,22 @@
-_id: 6a68aa9b0ba53f51e51d6b36
+_id: 6a845d4cb5c8ca5bcf4b230b
 appOnly: false
 brand: VANGUARD
 brands:
   - id: abc3e045-76a9-5586-90c4-abede122eaf2
     name: VANGUARD
 categories:
-  - d586978f-a217-5555-adc0-9fa9eac46feb
-classicId: '3365692'
-classicProductId: '715469'
+  - e988dae2-b2eb-4f1d-9e83-4743e7292479
+classicId: '3387488'
+classicProductId: '715472'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 62
-end: '2026-08-18T21:59:59.000Z'
+directCheckout: false
+discount: 69
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: b40f277c-ba9f-42c3-9729-c510579c2c75
+id: e4f12020-806d-4d88-90b0-bd420ced6901
 image:
   channels:
     - app
@@ -35,20 +35,20 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: c519c0e4-1ae9-4458-a208-15db9481009a
+  id: 6ee5b0ba-4ab7-47ea-942c-f558e4896200
   priority: 0
-  slug: vanguard-png-logo-0
+  slug: vanguard-logo-0
   type: logo
-offerId: 1a0eca4a-eb56-40f0-872f-8674d22f6b8d
+offerId: c6c76cde-c013-4641-860d-d0f08c5aa2fc
 price:
-  cents: 4995
+  cents: 3995
   currency: EUR
-  value: 49.95
+  value: 39.95
 referencePrice:
   cents: 12999
   currency: EUR
   value: 129.99
 slug: vanguard-broek-beige
-soldOut: true
-start: '2026-07-28T22:00:00.000Z'
+soldOut: false
+start: '2026-08-18T22:00:00.000Z'
 title: Vanguard Broek | Beige

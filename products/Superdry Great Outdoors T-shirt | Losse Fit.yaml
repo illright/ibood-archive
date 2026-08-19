@@ -1,22 +1,22 @@
-_id: 6a6893ce3ed86c1b9756fcfc
+_id: 6a845f5ab236413c3c71f996
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 665b734e-0da2-5acf-8249-103f2a05e970
-classicId: '3364274'
+  - 27e9bc88-e85d-4174-97dd-64707b815512
+classicId: '3389717'
 classicProductId: '706403'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 55
-end: '2026-08-18T21:59:59.000Z'
+discount: 65
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: a2eb0c9d-0984-4ed1-a387-f1f404961939
+id: 0cf34ea2-b6e3-4ad5-8f1c-efc0bf6f0cf6
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: sd019-png-product-1
   type: product
-offerId: a52b426d-28f6-419d-b4ad-45bf0c09b3a7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: f9e2c10c-941e-4eac-adb6-8702f595ffca
 price:
-  cents: 1795
+  cents: 1395
   currency: EUR
-  value: 17.95
+  value: 13.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: superdry-great-outdoors-t-shirt-losse-fit
 soldOut: false
-start: '2026-07-28T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: Superdry Great Outdoors T-shirt | Losse Fit
