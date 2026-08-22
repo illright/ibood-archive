@@ -1,22 +1,22 @@
-_id: 6a845d243e813291ae1ff2f3
+_id: 6a82b64498073e8f9faaa52d
 appOnly: false
 brand: PME Legend
 brands:
   - id: 9c38479a-ce20-5e2e-bcab-88b0a1bd612b
     name: PME Legend
 categories:
-  - af9f4d25-cb79-4734-8a3f-83c74629dab3
-classicId: '3387289'
+  - 97cc203e-3193-40cc-9a08-c5e5ec841c0b
+classicId: '3383164'
 classicProductId: '715913'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 65
+discount: 64
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 052c535b-9cc0-4542-ac9a-d1e604e79d36
+id: 0130fb6c-31d2-4216-ac36-b327d9bb8ef4
 image:
   channels:
     - app
@@ -24,30 +24,20 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: d363a309-9d25-4777-9747-e1b411a55c83
+  id: 7ffab2dc-2506-4a83-99a4-1fb0d47d58a6
   priority: 0
-  slug: schoene-png-product-1
+  slug: product-2
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1505855
-  priority: 100
-  slug: pme-legend-logo
-  type: logo
-offerId: 9bb9090f-7a55-457c-ac16-0474198ec51f
+offerId: 6723c081-6bf5-4ab1-b004-f820d12a5ff7
 price:
-  cents: 4895
+  cents: 5000
   currency: EUR
-  value: 48.95
+  value: 50
 referencePrice:
   cents: 13999
   currency: EUR
   value: 139.99
 slug: pme-legend-stinmen-sneakers-heren
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-16T22:00:00.000Z'
 title: PME Legend Stinmen Sneakers | Heren

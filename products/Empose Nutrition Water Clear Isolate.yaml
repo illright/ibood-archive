@@ -1,4 +1,4 @@
-_id: 6a7d7f044a7198c107c89238
+_id: 6a8585029451149831331ad6
 appOnly: false
 brand: Empose Nutrition
 brands:
@@ -6,26 +6,27 @@ brands:
     name: Empose Nutrition
 categories:
   - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3382290'
-classicProductId: '341693'
+classicId: '3391063'
+classicProductId: '341692'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 14
+discount: 25
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: d7352596-ba04-5f78-9fbe-8d39ebc980e3
+id: 3a7ef999-60e5-47cf-9799-1bf529baa930
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1076603
+    - all
+  extension: image/png
+  id: 900bc6e6-9faf-4ff3-b156-c7f104177fff-tr
   priority: 0
-  slug: empose-nutrition-water-clear-isolate
+  slug: empose-nutrition-water-clear-isolate-jpg-product-3
   type: product
 logo:
   channels:
@@ -37,15 +38,15 @@ logo:
   priority: 100
   slug: empose-nutrition-logo
   type: logo
-offerId: acfbfe6e-e032-5f60-8f11-c40543a0bdfc
+offerId: 753b8926-6900-4f56-9e71-a5d13ed1fa0d
 price:
   cents: 2995
   currency: EUR
   value: 29.95
 referencePrice:
-  cents: 3495
+  cents: 3995
   currency: EUR
-  value: 34.95
+  value: 39.95
 slug: empose-nutrition-water-clear-isolate
 soldOut: false
 start: '2026-08-18T22:00:00.000Z'

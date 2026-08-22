@@ -1,22 +1,22 @@
-_id: 6a84573b0cba0ae1bf0fe18b
+_id: 6a845718f42ee31785f24af3
 appOnly: false
 brand: Held
 brands:
   - id: 5ed15a82-5633-500b-a1e4-b2256f161d78
     name: Held
 categories:
-  - 21164d61-dc71-5aef-bc92-0a5ffb2d9e52
-classicId: '3385805'
-classicProductId: '664150'
+  - 564af421-c465-547d-a5d3-4b6b33ed05ef
+classicId: '3385789'
+classicProductId: '664163'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 75
+discount: 80
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 4720fbaf-be95-4ba2-a79e-367aa4b43644
+id: f02676cd-5e4e-47e3-bb8c-5be84349e81e
 image:
   channels:
     - app
@@ -41,16 +41,17 @@ logo:
   priority: 0
   slug: held-logo-0
   type: logo
-offerId: 8299e14b-96b5-4f43-88e7-43ed293c0cdc
+offerId: 006effb2-7676-47c0-8a5c-547a72cfd6c5
 price:
-  cents: 5000
+  cents: 4000
   currency: EUR
-  value: 50
+  value: 40
 referencePrice:
   cents: 19995
   currency: EUR
   value: 199.95
 slug: held-crane-stretch-jeans-unisex
-soldOut: false
+soldOut: true
 start: '2026-08-18T22:00:00.000Z'
 title: Held Crane Stretch-Jeans | Unisex
+

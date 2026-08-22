@@ -1,22 +1,22 @@
-_id: 6a845ee668b57d84cad33b1d
+_id: 6a87052c6f327fc43fd91304
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3389209'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3392871'
 classicProductId: '692206'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 60
+directCheckout: true
+discount: 43
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: e757bb8f-7c3f-4772-9a0c-462510304e93
+id: 103c8b68-addd-4459-ad39-772cb6950d39
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 1491b6d0-a015-4886-9930-56eaec0b87d7
+offerId: 4bd98be0-2702-4d67-b8bc-3d4be2734410
 price:
-  cents: 1395
+  cents: 1995
   currency: EUR
-  value: 13.95
+  value: 19.95
 referencePrice:
   cents: 3500
   currency: EUR
   value: 35
 slug: vans-bully-t-shirt-heren
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+soldOut: true
+start: '2026-08-19T22:00:00.000Z'
 title: Vans Bully T-shirt | Heren

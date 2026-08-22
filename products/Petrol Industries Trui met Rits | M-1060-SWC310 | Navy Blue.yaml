@@ -1,22 +1,22 @@
-_id: 6a845e604934cbf42ecf3e34
+_id: 6a86fec76f327fc43fd90d49
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3388608'
-classicProductId: '698468'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392287'
+classicProductId: '698473'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 70
+directCheckout: true
+discount: 60
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: a11044c4-237c-40e1-802b-3938a363992d
+id: 5a1d8c80-7235-406f-a19d-35516a5e5107
 image:
   channels:
     - app
@@ -32,25 +32,25 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 97f123ff-2314-49fb-9ef8-b4d07ad33ada
-  priority: 0
-  slug: petrol-industries-png-logo-0
+  extension: png
+  id: 1594720
+  priority: 100
+  slug: petrol-logo
   type: logo
-offerId: b3c05023-7096-48e6-9494-149fd996ce8e
+offerId: 5d189d9d-2c21-4837-a72e-a4dba85c0fac
 price:
-  cents: 1795
+  cents: 2400
   currency: EUR
-  value: 17.95
+  value: 24
 referencePrice:
   cents: 5999
   currency: EUR
   value: 59.99
 slug: petrol-industries-trui-met-rits-m-1060-swc310-navy-blue
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Petrol Industries Trui met Rits | M-1060-SWC310 | Navy Blue
+ue

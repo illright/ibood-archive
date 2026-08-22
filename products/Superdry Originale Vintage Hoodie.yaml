@@ -1,12 +1,12 @@
-_id: 6a845f873ddb8f2c0ce366bc
+_id: 6a87045c6f327fc43fd910d0
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 27e9bc88-e85d-4174-97dd-64707b815512
-classicId: '3389796'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3392689'
 classicProductId: '716660'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 62
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 51fcbd12-3c3d-4b93-bf02-948e85cbf377
+id: bca53c8d-fae1-4ffc-8a9a-bbbe735b22ed
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: sd016-png-product-1
   type: product
-offerId: 9d36d021-e65d-4815-bd25-7f87bc77ed59
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a76315a6-693d-4b8a-b5c9-702fe9700846
+  priority: 1
+  slug: superdry-logo-1
+  type: logo
+offerId: 5fdcd44d-d295-4833-a95a-fd2ee66d92a9
 price:
   cents: 3395
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 89.99
 slug: superdry-originale-vintage-hoodie
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Superdry Originale Vintage Hoodie

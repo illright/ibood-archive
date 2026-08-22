@@ -1,31 +1,32 @@
-_id: 6a845e374934cbf42ecf3dbe
+_id: 6a87041298bad24499bdc6fd
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 27e9bc88-e85d-4174-97dd-64707b815512
-classicId: '3388125'
-classicProductId: '516362'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3392612'
+classicProductId: '703263'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
-discount: 65
+discount: 64
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 9d8b5425-3ba0-4952-b221-d088d542b5f6
+id: d897f2ae-19ef-4782-9cc2-980ab11641df
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1749430
+    - all
+  extension: image/png
+  id: c2468c99-b12f-44cf-8d87-72c3a0bda2a7
   priority: 0
-  slug: lacoste-slim-fit-original-poloshirt
+  slug: main2-png-product-2
   type: product
 logo:
   channels:
@@ -33,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1741879
+  id: 1612112
   priority: 100
-  slug: lacoste-slim-fit-original-poloshirt
+  slug: lacoste-logo
   type: logo
-offerId: 5260e235-e53d-4ea7-b1c1-fe5367ebab38
+offerId: bb531623-4378-4bf0-8dab-6f25cec9f0da
 price:
-  cents: 3795
+  cents: 3995
   currency: EUR
-  value: 37.95
+  value: 39.95
 referencePrice:
   cents: 11000
   currency: EUR
   value: 110
 slug: lacoste-slim-fit-original-poloshirt
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Lacoste Slim Fit Original Poloshirt | Heren

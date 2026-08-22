@@ -1,22 +1,22 @@
-_id: 6a845e4fb236413c3c71f76a
+_id: 6a86feb16f327fc43fd90ce0
 appOnly: false
 brand: Nubikk
 brands:
   - id: bfcbcf1d-38b8-5553-992d-efb8d45f4ee0
     name: Nubikk
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3388349'
-classicProductId: '714742'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392252'
+classicProductId: '714744'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 65
+directCheckout: true
+discount: 73
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 10454ede-064b-452f-ade2-01141c21d8df
+id: 8d0d5ec1-7505-4b31-8368-c5b17f562b87
 image:
   channels:
     - app
@@ -40,16 +40,17 @@ logo:
   priority: 100
   slug: nubikk-logo
   type: logo
-offerId: 148a6be3-c005-488a-857e-248689bbe456
+offerId: 8983f0f7-71d5-47fc-9530-a62af534c5a2
 price:
-  cents: 8995
+  cents: 6900
   currency: EUR
-  value: 89.95
+  value: 69
 referencePrice:
   cents: 26000
   currency: EUR
   value: 260
 slug: nubikk-luca-noa-leren-sneaker-grey
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+soldOut: true
+start: '2026-08-19T22:00:00.000Z'
 title: Nubikk Luca Noa Leren Sneaker | Grey
+ey

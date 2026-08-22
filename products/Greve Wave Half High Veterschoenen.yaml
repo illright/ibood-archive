@@ -1,22 +1,22 @@
-_id: 6a687a7a907f06bbad42b6cc
+_id: 6a87058c6f327fc43fd91475
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 4870e645-c3bf-5260-b8e1-ca8dccf1660a
-classicId: '3360914'
-classicProductId: '722140'
+  - 976307d5-9705-41ce-94c8-99b8ba344cad
+classicId: '3393018'
+classicProductId: '722142'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 74
-end: '2026-08-23T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 38b41428-62cf-5aa4-89f4-10ab8d7d6e24
+id: a7be6d49-37c9-433a-a100-aeae69d4c202
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 8f5d841c-b246-4fad-b430-f2730c16e8ec
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: 87200329-1587-5cc1-a77e-1d83de280f56
+offerId: aaa70f02-2b54-4e21-af6f-6a8fee9f3d74
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 270
 slug: greve-wave-half-high-veterschoenen
 soldOut: false
-start: '2026-08-16T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Greve Wave Half High Veterschoenen
+le: Greve Wave Half High Veterschoenen

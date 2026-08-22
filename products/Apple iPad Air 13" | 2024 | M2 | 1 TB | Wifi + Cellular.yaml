@@ -1,12 +1,12 @@
-_id: 6a7c40294efabc36f5acc4bc
+_id: 6a8567bbe97c6a4cc0f87c72
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - c45faabb-547e-551f-b227-5fcfb2333b00
-classicId: '3381892'
+  - 3cb85e22-ef2a-5e3b-a93f-88afd101362c
+classicId: '3390613'
 classicProductId: '711102'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-08-19T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: a768c0e3-8b76-499d-800c-cae79954a2d9
+id: 5ceff963-dc2f-49fe-bc5e-72a0ecd984ab
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: 57a6fdb3-514a-4eec-aacc-2fba7d7fff49
+offerId: cc23422e-e9c3-4d18-8924-9838e11b3937
 price:
   cents: 84900
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 1769
 slug: apple-ipad-air-13-2024-m2-1-tb-wifi-cellular
-soldOut: false
-start: '2026-08-12T22:00:00.000Z'
+soldOut: true
+start: '2026-08-19T22:00:00.000Z'
 title: Apple iPad Air 13" | 2024 | M2 | 1 TB | Wifi + Cellular

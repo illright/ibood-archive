@@ -1,12 +1,12 @@
-_id: 6a44d93ec831f1690a153f9e
+_id: 6a87057a98bad24499bdcb18
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310532'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3392995'
 classicProductId: '718273'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 40
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 1615d681-7789-532c-8d79-2b6e7856484c
+id: 14768d99-c3e5-47a7-bedb-7e8a22b38855
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b1fd3a28-093a-4bd8-80cd-ab578ce865f4
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 40f8059a-f63e-52a1-bb6f-b09c720b5304
+offerId: ca696d79-a569-49e5-aefa-c3e63754736d
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 49.99
 slug: jack-jones-milano-stitch-sweatshirt-mit-rundhals-herren-dunkelblau
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Milano Stitch Sweatshirt | Heren
+ Milano Stitch Sweatshirt | Heren

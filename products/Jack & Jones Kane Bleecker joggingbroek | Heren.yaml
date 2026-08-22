@@ -1,12 +1,12 @@
-_id: 6a44db740e72f6562fd49f1f
+_id: 6a87031b6f327fc43fd90fd7
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310614'
+  - 6d4cca08-223a-4edd-9eef-caac4a6690a9
+classicId: '3392568'
 classicProductId: '718447'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 64a896e4-5b40-5d9c-b076-66a5b1aa824b
+id: 874a47c5-8a4e-40b0-a691-97e4ea0d43d9
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4860b708-8239-4d08-b979-365c059c11d7
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 89880b33-47d9-563b-9403-811204143ce2
+offerId: 447bf4ff-90b3-46eb-9e94-6f2237f0665b
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 39.99
 slug: jack-jones-jwhkane-bleecker-jogginghose-asphalt
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Kane Bleecker joggingbroek | Heren
+ane Bleecker joggingbroek | Heren

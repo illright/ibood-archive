@@ -1,22 +1,22 @@
-_id: 6a845df60cd213e3e93f7132
+_id: 6a86fe9298bad24499bdc2ea
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3388012'
-classicProductId: '703512'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392211'
+classicProductId: '703515'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 61
+directCheckout: true
+discount: 62
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: d6bee721-aa70-44a1-87a7-1c4f2203449d
+id: 4cfeaf9a-eb0b-4c4f-b00c-eb923a6eb6a0
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: f494bbce-2024-4bf7-9b82-0028b6a12d7f
+offerId: 3cbd1edd-85cf-4170-9302-261bfb1172ee
 price:
-  cents: 8495
+  cents: 8400
   currency: EUR
-  value: 84.95
+  value: 84
 referencePrice:
   cents: 22000
   currency: EUR
   value: 220
 slug: lacoste-puffer-jacket-heren
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+soldOut: true
+start: '2026-08-19T22:00:00.000Z'
 title: Lacoste Puffer Jacket | Heren

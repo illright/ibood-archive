@@ -1,22 +1,22 @@
-_id: 6a845d6fb5c8ca5bcf4b2358
+_id: 6a86fe6e6f327fc43fd90bf5
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3387669'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392170'
 classicProductId: '679325'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 79
+directCheckout: true
+discount: 86
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 330b1100-9dbe-4161-a00d-3c17f7e73480
+id: c26c81b4-a35f-46e0-abe7-d59e09ae29b8
 image:
   channels:
     - app
@@ -40,16 +40,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 2a97beff-222f-4bf3-b6ac-b3bafa3e733a
+offerId: 559768de-7797-4881-812c-7244bf69e396
 price:
-  cents: 1495
+  cents: 1000
   currency: EUR
-  value: 14.95
+  value: 10
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: jack-jones-brad-jacke-herren
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Brad Jack | Heren

@@ -1,22 +1,22 @@
-_id: 6a687bed0a8f2eafd44b0392
+_id: 6a86fe4c6f327fc43fd90b71
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 4870e645-c3bf-5260-b8e1-ca8dccf1660a
-classicId: '3360962'
-classicProductId: '722227'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392127'
+classicProductId: '722228'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
+directCheckout: true
 discount: 71
-end: '2026-08-23T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: bfb6a745-a934-5e79-854c-7055b0ccf9ac
+id: b62e456a-5b45-4305-831a-ff5f4a5b623e
 image:
   channels:
     - app
@@ -30,25 +30,27 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3a29cb24-7c5f-44f1-bf5f-535d7d7b9095
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: 342c63f1-977a-5e09-b70b-764c6f32db94
+offerId: ec476bf6-afe2-4f9c-99e2-a75189968278
 price:
-  cents: 4995
+  cents: 4900
   currency: EUR
-  value: 49.95
+  value: 49
 referencePrice:
   cents: 17000
   currency: EUR
   value: 170
 slug: greve-umbria-sneakers-brown
 soldOut: false
-start: '2026-08-16T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
+title: Greve Umbria Sneakers | Brown
+wn
+Z'
 title: Greve Umbria Sneakers | Brown

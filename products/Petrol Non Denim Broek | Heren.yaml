@@ -1,22 +1,22 @@
-_id: 6a845e9f4934cbf42ecf3ee0
+_id: 6a8702bf98bad24499bdc672
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3388678'
-classicProductId: '665620'
+  - 6d4cca08-223a-4edd-9eef-caac4a6690a9
+classicId: '3392538'
+classicProductId: '665606'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 71
+directCheckout: true
+discount: 57
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 2825f376-f663-420e-b449-3fbc9a2f6925
+id: 591ca4cb-8c08-4cf2-94ab-c7abe2577b80
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4081f850-c78c-45b6-8300-8bb8f14a576e
+  id: d19d66cb-a130-45f6-a220-2e0f3106fe26
   priority: 0
-  slug: petrol-76-png-product-1
+  slug: petrol-75-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: ab11cfd7-5b68-4a27-8664-0fea7c15ea51
+offerId: 410d5f5f-1d5e-4a4e-8697-3974092c8a3e
 price:
-  cents: 1995
+  cents: 2995
   currency: EUR
-  value: 19.95
+  value: 29.95
 referencePrice:
   cents: 6999
   currency: EUR
   value: 69.99
 slug: petrol-non-denim-broek-heren
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+soldOut: true
+start: '2026-08-19T22:00:00.000Z'
 title: Petrol Non Denim Broek | Heren
+n

@@ -1,12 +1,12 @@
-_id: 6a687a7b0a8f2eafd44b0329
+_id: 6a87059598bad24499bdcb66
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 4870e645-c3bf-5260-b8e1-ca8dccf1660a
-classicId: '3360916'
+  - 976307d5-9705-41ce-94c8-99b8ba344cad
+classicId: '3393028'
 classicProductId: '722144'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 74
-end: '2026-08-23T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: b42ba951-9458-5404-aba4-df2c6ab0eea8
+id: 4573abb6-f5c7-4226-9430-f0af606e8c17
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2990e016-10e5-4449-aeba-974507f59bad
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: c984d0c0-8835-53ae-91b3-d1bed2103d7f
+offerId: 6dd7d52b-7b5e-490a-b7de-3cf11d5d8eb9
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 270
 slug: greve-wave-half-high-veterschoenen-brown
 soldOut: false
-start: '2026-08-16T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Greve Wave Half High Veterschoenen | Brown
+e Wave Half High Veterschoenen | Brown

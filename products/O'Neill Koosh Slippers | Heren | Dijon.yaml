@@ -1,22 +1,22 @@
-_id: 6a8419b80cba0ae1bf0fdb57
+_id: 6a86feb96f327fc43fd90d13
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 97d1aadc-c582-5387-bd63-011c9878555e
-classicId: '3383858'
-classicProductId: '692690'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392266'
+classicProductId: '721403'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 43
+directCheckout: true
+discount: 46
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 8d4ab074-1c0f-458a-a15d-00704cf00b60
+id: feb61aae-cc4a-40d1-99e0-097b6a00467d
 image:
   channels:
     - app
@@ -24,30 +24,25 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 220a2547-1ce2-4a64-a7e0-826f45bf44e5-tr-cr
+  id: 3d35c34c-6b4d-405f-a659-3feb005c5e6a-tr-cr
   priority: 0
-  slug: 45-dijon-2400069-17010-koosh-sandals-mens-product-1
+  slug: 44-dijon-2400067-17010-koosh-slides-o-neill-product-0
   type: product
-logo:
-  channels:
-    - website
-    - app
-    - newsletter
-  extension: png
-  id: 1530111
-  priority: 100
-  slug: oneill-logo
-  type: logo
-offerId: 3b596033-52ce-4932-b127-3399033633d3
+offerId: 8670c926-1bd1-40ba-80f0-3a42a50ba369
 price:
-  cents: 1995
+  cents: 1900
   currency: EUR
-  value: 19.95
+  value: 19
 referencePrice:
   cents: 3499
   currency: EUR
   value: 34.99
-slug: oneill-koosh-slippers-dijon
+slug: o-neill-koosh-slippers-heren-dijon
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
+title: O'Neill Koosh Slippers | Heren | Dijon
+34.99
+slug: o-neill-koosh-slippers-heren-dijon
+soldOut: false
+start: '2026-08-19T22:00:00.000Z'
 title: O'Neill Koosh Slippers | Heren | Dijon

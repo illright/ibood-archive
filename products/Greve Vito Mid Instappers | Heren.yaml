@@ -1,22 +1,22 @@
-_id: 6a845d1eb5c8ca5bcf4b228c
+_id: 6a87056e98bad24499bdcae6
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3387315'
+  - 976307d5-9705-41ce-94c8-99b8ba344cad
+classicId: '3392972'
 classicProductId: '681498'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 84
+discount: 74
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 0395b639-c954-4425-a832-8294b2af6354
+id: 0ff0d2c1-dcf9-4315-8eab-ce2217edbbc3
 image:
   channels:
     - app
@@ -28,16 +28,26 @@ image:
   priority: 0
   slug: main-png-product-0
   type: product
-offerId: 58ea1d8b-95e9-4935-92cc-9b8ecd212af6
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
+  type: logo
+offerId: 9ec45a1a-43ce-4488-973a-df88cf8fd018
 price:
-  cents: 2995
+  cents: 4995
   currency: EUR
-  value: 29.95
+  value: 49.95
 referencePrice:
   cents: 19000
   currency: EUR
   value: 190
 slug: greve-vito-mid-instappers
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Greve Vito Mid Instappers | Heren

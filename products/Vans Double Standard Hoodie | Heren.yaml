@@ -1,22 +1,22 @@
-_id: 6a845eed68b57d84cad33b2c
+_id: 6a87041f98bad24499bdc71b
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3389249'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3392626'
 classicProductId: '692171'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 67
+directCheckout: true
+discount: 47
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 70b7f206-1338-4474-a5d2-90091531165f
+id: bfcdf7da-1bcd-4c7a-8e83-847daa2b132a
 image:
   channels:
     - app
@@ -38,16 +38,17 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 72332291-95a4-40f2-ab89-3fe0190d6aeb
+offerId: e1d77818-2a11-483e-b663-86507cb2c8d6
 price:
-  cents: 2495
+  cents: 3995
   currency: EUR
-  value: 24.95
+  value: 39.95
 referencePrice:
   cents: 7500
   currency: EUR
   value: 75
 slug: vans-double-standard-hoodie-heren
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+soldOut: true
+start: '2026-08-19T22:00:00.000Z'
 title: Vans Double Standard Hoodie | Heren
+n

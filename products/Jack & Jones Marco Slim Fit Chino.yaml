@@ -1,12 +1,12 @@
-_id: 6a845e863ddb8f2c0ce36534
+_id: 6a8702cd6f327fc43fd90f9c
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3388800'
+  - 6d4cca08-223a-4edd-9eef-caac4a6690a9
+classicId: '3392548'
 classicProductId: '711317'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 67
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 36888dfe-531c-4db2-a108-70dd98c3a0c3
+id: 17f4d5d5-da4a-4ed0-b3ff-77b03ae71a3d
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: jj01-png-product-1
   type: product
-offerId: a477229f-9993-443a-8b8f-d8f6cbf52f68
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 012a15df-436a-45bc-8551-3bcc25ce2a86
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 59.99
 slug: jack-jones-marco-slim-fit-chino
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Marco Slim Fit Chino

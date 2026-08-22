@@ -1,22 +1,22 @@
-_id: 6a845eae68b57d84cad33ac3
+_id: 6a86fee16f327fc43fd90db8
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3388822'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392325'
 classicProductId: '711397'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 47
+discount: 57
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 3c90dea4-9138-45ff-a98f-d4abf9c6aeea
+id: fd73cfee-4ba9-4ffa-8888-a41d0aff0af5
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: jj01-png-product-1
   type: product
-offerId: 85a7efa4-5bb7-4d05-a9c6-394d874e37a5
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 57f335be-385f-4179-a09c-b3113a30389f
 price:
-  cents: 1595
+  cents: 1300
   currency: EUR
-  value: 15.95
+  value: 13
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: jack-jones-archive-graphic-sweater
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Archive Graphic Sweater
+er

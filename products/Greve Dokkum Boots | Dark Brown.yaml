@@ -1,12 +1,12 @@
-_id: 6a687bf50a8f2eafd44b03c9
+_id: 6a86fe4d6f327fc43fd90b74
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 4870e645-c3bf-5260-b8e1-ca8dccf1660a
-classicId: '3360971'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392128'
 classicProductId: '722231'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 67
-end: '2026-08-23T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 49afcd6d-4ae9-57c3-a456-78067b7689b8
+id: 93e8c24b-550e-4ed9-95cb-42e6614eeb13
 image:
   channels:
     - app
@@ -30,25 +30,26 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d23f1a00-ad18-4544-81a9-2760af113f15
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: 5fe94905-cca8-54bc-947e-0a54966fd7b6
+offerId: cb47bf79-a45a-4975-8421-e3b1dea26ef4
 price:
-  cents: 5995
+  cents: 5900
   currency: EUR
-  value: 59.95
+  value: 59
 referencePrice:
   cents: 18000
   currency: EUR
   value: 180
 slug: greve-dokkum-boots-dark-brown
 soldOut: false
-start: '2026-08-16T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
+title: Greve Dokkum Boots | Dark Brown
+wn
 title: Greve Dokkum Boots | Dark Brown

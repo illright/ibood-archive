@@ -1,45 +1,36 @@
-_id: 6a7c3fdd4efabc36f5acc414
+_id: 6a85675014bd40e5cf75cfcb
 appOnly: false
 brand: Victrola
 brands:
   - id: 5b2bdacd-289e-5eb8-b5bd-17d8a25c650f
     name: Victrola
 categories:
-  - c4baa942-2a9b-588e-ab79-d00b6ac6b229
-classicId: '3381762'
-classicProductId: '713486'
+  - 10975e19-56b6-5994-9f82-1176c172bf2a
+classicId: '3390434'
+classicProductId: '713487'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 44
-end: '2026-08-19T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 94051a46-d959-4fbb-8989-c16bfb1de837
+id: 422b5cd0-1969-47be-b1c5-a529c49be3af
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 8edfe7de-5e14-419b-97fa-f78d17ac6bb8
-  priority: 0
-  slug: platoerer-png-product-1
-  type: product
-logo:
-  channels:
-    - app
     - website
-    - newsletter
-    - all
+    - app
   extension: image/png
-  id: 7cc8f274-6944-4c31-9e06-4e1b59599587
+  id: 1a0cdb12-cb42-48bc-8be6-bc4c295af3c5-tr
   priority: 0
-  slug: victrola-png-logo-0
-  type: logo
-offerId: 0e6cd587-5deb-4431-b98e-b6a2e05b9132
+  slug: victrola-automatic-turntable-int-blue-product-11
+  type: product
+offerId: 944dd68b-3238-4dcd-bb5e-4bcd4e463c24
 price:
   cents: 13995
   currency: EUR
@@ -48,7 +39,7 @@ referencePrice:
   cents: 24999
   currency: EUR
   value: 249.99
-slug: victrola-automatic-platenspeler-vpt-800-wit
-soldOut: false
-start: '2026-08-12T22:00:00.000Z'
+slug: victrola-automatic-platenspeler-vpt-800-blauw
+soldOut: true
+start: '2026-08-19T22:00:00.000Z'
 title: Victrola Automatische Platenspeler | Voorversterker & Bluetooth

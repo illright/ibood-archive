@@ -1,12 +1,12 @@
-_id: 6a7c4046ae998c559c23ca65
+_id: 6a884f5f98bad24499bdcf8d
 appOnly: false
 brand: Apple
 brands:
   - id: fdd49684-29ac-59d6-adef-6536bdeecf47
     name: Apple
 categories:
-  - c45faabb-547e-551f-b227-5fcfb2333b00
-classicId: '3381926'
+  - 3cb85e22-ef2a-5e3b-a93f-88afd101362c
+classicId: '3393882'
 classicProductId: '713949'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 45
-end: '2026-08-19T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: a7658caf-3afd-4763-aa5d-ac183ed894d8
+id: 4bf3dd64-d02c-4488-9952-806b4dee9a05
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: apple-logo
   type: logo
-offerId: 172d1d4a-9b3f-4598-b43d-052942aaf181
+offerId: 8cc6e86f-c435-4ee5-b49f-7e62882d33fc
 price:
   cents: 139900
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 2549
 slug: apple-13-ipad-pro-m4-wifi-cellular-1-tb
-soldOut: true
-start: '2026-08-12T22:00:00.000Z'
+soldOut: false
+start: '2026-08-19T22:00:00.000Z'
 title: Apple 13" iPad Pro M4 | Wifi + Cellular | 1 TB

@@ -1,22 +1,22 @@
-_id: 6a687b4e907f06bbad42b6f9
+_id: 6a86fe4d98bad24499bdc1de
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 4870e645-c3bf-5260-b8e1-ca8dccf1660a
-classicId: '3360942'
-classicProductId: '722205'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392126'
+classicProductId: '722207'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 81
-end: '2026-08-23T21:59:59.999Z'
+discount: 82
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 716c9f62-88de-5de3-a041-1550ec446185
+id: a1301c7d-53be-4456-9419-589b0c21be44
 image:
   channels:
     - app
@@ -30,25 +30,25 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 330d3673-3ef4-48c7-ac3f-53e8331a1da4
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: 59e3156e-0ab5-5e03-8594-f8551c92aa3d
+offerId: d436c2bf-961d-46a0-bf48-271254f7c6f5
 price:
-  cents: 4995
+  cents: 4900
   currency: EUR
-  value: 49.95
+  value: 49
 referencePrice:
   cents: 27000
   currency: EUR
   value: 270
 slug: greve-utrecht-veterschoenen-yellow-corn
 soldOut: false
-start: '2026-08-16T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Greve Utrecht Veterschoenen | Yellow/Corn
+Greve Utrecht Veterschoenen | Yellow/Corn

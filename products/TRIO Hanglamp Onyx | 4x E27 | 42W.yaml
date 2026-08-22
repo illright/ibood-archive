@@ -19,13 +19,14 @@ freeDelivery: false
 id: 8db77f31-c809-40e5-a78a-2bb306d02f21
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2132269
-  priority: 100
-  slug: trio-hanglamp-onyx-4x-e27-42w
+    - all
+  extension: image/png
+  id: e556d05b-336c-466e-8b27-ff55457ea389-tr
+  priority: 0
+  slug: product-2
   type: product
 logo:
   channels:

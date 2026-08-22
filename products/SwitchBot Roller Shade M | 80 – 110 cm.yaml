@@ -1,34 +1,32 @@
-_id: 6a7c403b4efabc36f5acc4d7
+_id: 6a8567aa94511498313318a6
 appOnly: false
 brand: SwitchBot
 brands:
   - id: 08ee7dca-d3b9-5803-ba54-6944792b5695
     name: SwitchBot
 categories:
-  - c45faabb-547e-551f-b227-5fcfb2333b00
-classicId: '3381914'
-classicProductId: '688839'
+  - 3cb85e22-ef2a-5e3b-a93f-88afd101362c
+classicId: '3390590'
+classicProductId: '688830'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 54
-end: '2026-08-19T21:59:59.999Z'
+discount: 45
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 7b4c8bc0-cbca-42b9-9f56-5b1f68d176a8
+id: 82c55098-cd6a-4187-b0bc-d5089e87c81a
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-    - app
-    - website
-  extension: image/png
-  id: 7b91cf41-b490-4b61-8c72-62fcecbdb83c-tr
+  extension: image/avif
+  id: 140f2a6f-be90-4fdb-aa87-01c502314ee6
   priority: 0
-  slug: switchbot-roller-shade-m-grey-product-2
+  slug: image-62-avif-product-1
   type: product
 logo:
   channels:
@@ -40,16 +38,16 @@ logo:
   priority: 100
   slug: switchbot-logo
   type: logo
-offerId: 50474194-dec3-44ac-8037-bccf4dbb5c7c
+offerId: b234a31a-96fc-4a36-820c-420acfce6f8e
 price:
   cents: 11995
   currency: EUR
   value: 119.95
 referencePrice:
-  cents: 25999
+  cents: 21999
   currency: EUR
-  value: 259.99
-slug: switchbot-roller-shade-m-wit
-soldOut: true
-start: '2026-08-12T22:00:00.000Z'
+  value: 219.99
+slug: switchbot-roller-shade-m-weiss
+soldOut: false
+start: '2026-08-19T22:00:00.000Z'
 title: SwitchBot Roller Shade M | 80 – 110 cm

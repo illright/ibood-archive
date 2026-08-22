@@ -1,12 +1,12 @@
-_id: 6a687bea0a8f2eafd44b0389
+_id: 6a87059898bad24499bdcb70
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 4870e645-c3bf-5260-b8e1-ca8dccf1660a
-classicId: '3360958'
+  - 976307d5-9705-41ce-94c8-99b8ba344cad
+classicId: '3393032'
 classicProductId: '722220'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 56
-end: '2026-08-23T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: adfbb7d7-11bd-5ea5-a8ec-4797a6fadbad
+id: 7affe31b-7348-4580-972e-adadb8774bbf
 image:
   channels:
     - website
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: c8e2644b-dde3-4a31-a3ef-ce0a2b563767
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: 4afd35cc-b70e-5614-95c6-09c0439c49e6
+offerId: 025ebc2b-d1a4-4a88-a03a-5825aa9cd4b5
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 160
 slug: greve-riviera-loafers-sand-beige
 soldOut: false
-start: '2026-08-16T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Greve Riviera Loafers | Sand Beige
+le: Greve Riviera Loafers | Sand Beige

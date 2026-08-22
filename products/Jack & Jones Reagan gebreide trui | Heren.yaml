@@ -1,12 +1,12 @@
-_id: 6a44dbd4504f9ae262d421dd
+_id: 6a8705b898bad24499bdcbf8
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310619'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3393086'
 classicProductId: '718477'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 38
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: d51d43b6-063a-56b6-aaa1-5caff5c01306
+id: d4b69000-2c6a-4e91-b2e2-7827030ef508
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3fed9cda-e4e5-421c-afce-5263465b894f
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 1cc3f230-4b3c-5186-b05f-9ae04c99210e
+offerId: e2c958ff-3ac1-4d14-8095-4cf71528feb4
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 39.99
 slug: jack-jones-jwhreagan-strickpullover-volcanic-ash
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Reagan gebreide trui | Heren
+ones Reagan gebreide trui | Heren

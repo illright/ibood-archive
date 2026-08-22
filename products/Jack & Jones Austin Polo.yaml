@@ -1,22 +1,22 @@
-_id: 6a845e873ddb8f2c0ce36538
+_id: 6a8706741e0f74e8ee1ff033
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - e988dae2-b2eb-4f1d-9e83-4743e7292479
-classicId: '3388807'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3393269'
 classicProductId: '711347'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: true
-discount: 53
+discount: 50
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 28e21040-bf94-4bc5-917d-3822ecc72cfe
+id: c380df23-ccea-43a8-ac69-f383c28288cd
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 3f85e50f-6cc1-4e38-8461-911363c2f9eb
+offerId: 7f2a09e2-607d-43bc-b1ff-c7137d2d62d7
 price:
-  cents: 1395
+  cents: 1495
   currency: EUR
-  value: 13.95
+  value: 14.95
 referencePrice:
   cents: 2999
   currency: EUR
   value: 29.99
 slug: jack-jones-austin-polo
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+soldOut: true
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Austin Polo
