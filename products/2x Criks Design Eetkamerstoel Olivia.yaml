@@ -19,13 +19,14 @@ freeDelivery: false
 id: 3200bc2f-9d95-4376-9b4b-0b5b08c3fde2
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1668202
-  priority: 2
-  slug: 2x-criks-design-eetkamerstoel-olivia
+    - all
+  extension: image/png
+  id: 4787d35c-655d-40dd-a504-b0110f8029bc
+  priority: 0
+  slug: criks-design-05-png-product-1
   type: product
 logo:
   channels:
@@ -34,7 +35,7 @@ logo:
     - newsletter
   extension: png
   id: 1668211
-  priority: 100
+  priority: 0
   slug: 2x-criks-design-eetkamerstoel-olivia
   type: logo
 offerId: 83001cb7-a463-4688-884b-e8434830e27e

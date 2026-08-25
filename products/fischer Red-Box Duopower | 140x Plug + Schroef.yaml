@@ -1,12 +1,12 @@
-_id: 69c6652c101e62fd4e61d178
+_id: 6a8bee1e136d7b1443b6668b
 appOnly: false
 brand: Fischer
 brands:
   - id: b52d5a97-8a7e-597d-a1f5-40bbb4597c74
     name: Fischer
 categories:
-  - a8ad67fe-ea70-5887-9cb2-2e366732214e
-classicId: '3126674'
+  - ecb1bd3b-2130-5904-9ece-898a73e3a19e
+classicId: '3394102'
 classicProductId: '227310'
 deliveryPrice:
   cents: 595
@@ -14,17 +14,19 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 40
-end: '2026-08-23T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: d2003bfe-66e3-5e30-9e89-20b08392d509
+id: 9faf8223-21fe-42c5-baa1-a85bf95ea561
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 1d76d8e4-8dd2-4004-954d-72bceeb55d98
+    - website
+    - app
+  extension: image/png
+  id: 1d76d8e4-8dd2-4004-954d-72bceeb55d98-tr
   priority: 0
   slug: 1200x975-jpg-product-101
   type: product
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: fischer-logo
   type: logo
-offerId: d11c3418-d890-5c24-9197-76137742687e
+offerId: 645c885e-a7d3-4408-ad51-f2330120fb05
 price:
   cents: 1995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 32.99
 slug: fischer-red-box-duopower-140x-plug-schroef
 soldOut: false
-start: '2026-08-16T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: fischer Red-Box Duopower | 140x Plug + Schroef

@@ -1,12 +1,12 @@
-_id: 6a44dcf6c831f1690a153fa2
+_id: 6a87054898bad24499bdca4c
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310643'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3392906'
 classicProductId: '718552'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 40
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: a438e995-30dd-5c2c-98c3-2da8bf8d3765
+id: c308a9cd-d7d7-4c85-aa43-61d26c25ce11
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ece63b9e-89f5-4478-87e9-3c963de2369c
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 70821423-04fa-520b-a171-23f955b50558
+offerId: cafa0dce-da6a-4c21-bda6-b837f348e2e5
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 49.99
 slug: jack-jones-bleecker-flanell-overshirt-schwarz
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Bleecker flanellen overhemd | Heren
+eecker flanellen overhemd | Heren

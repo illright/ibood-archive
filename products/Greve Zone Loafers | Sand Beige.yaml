@@ -1,12 +1,12 @@
-_id: 6a687a76907f06bbad42b6b8
+_id: 6a87058f6f327fc43fd91485
 appOnly: false
 brand: Greve
 brands:
   - id: 41f8551f-2e8f-51bf-a2b2-c5470c3bd8ef
     name: Greve
 categories:
-  - 4870e645-c3bf-5260-b8e1-ca8dccf1660a
-classicId: '3360904'
+  - 976307d5-9705-41ce-94c8-99b8ba344cad
+classicId: '3393022'
 classicProductId: '722126'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 61
-end: '2026-08-23T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 0a87a084-6e45-5660-a62b-1960bdac9c46
+id: e1e8e396-e663-4569-af01-5066c4fd46d7
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: a3f68680-c85d-45a0-a753-c214724f9f0b
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1912813
+  priority: 100
+  slug: greve-logo
   type: logo
-offerId: fef93510-68c7-53b4-b805-75fc04e01e85
+offerId: 5c5a9dc5-864a-41f9-a416-ea88212942bc
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 180
 slug: greve-zone-loafers-sand-beige
 soldOut: false
-start: '2026-08-16T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Greve Zone Loafers | Sand Beige

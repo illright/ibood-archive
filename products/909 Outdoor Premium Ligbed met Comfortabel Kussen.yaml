@@ -1,12 +1,12 @@
-_id: 6a82cbe098073e8f9faaa5f3
+_id: 6a8449b678a813f672168473
 appOnly: false
 brand: 909 Outdoor
 brands:
   - id: d25f48a4-8cf5-5aa4-9f68-e01706653090
     name: 909 Outdoor
 categories:
-  - 3e67d469-b552-5ecc-abe0-f6f2f26f0f09
-classicId: '3383357'
+  - 6b30f63d-7e00-53a3-9bf7-3f20ecf508d1
+classicId: '3385069'
 classicProductId: '637985'
 deliveryPrice:
   cents: 895
@@ -14,19 +14,19 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 73
-end: '2026-08-22T21:59:59.999Z'
+end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 543ded9b-29ca-5e35-9f59-848206a449ce
+id: 81db0a19-4990-45ca-80d5-9b8b20fb6e78
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: ecbee0ed-e430-44ad-91ff-85670e8d8676
-  priority: 1
-  slug: lifa-garden-23-png-product-1
+  id: c1a365a7-c422-4cfb-996e-6c320a682019
+  priority: 0
+  slug: 909-lifa-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: 909-outdoor-logo
   type: logo
-offerId: 67fe5048-de67-574c-96e6-b8dc1507bbc9
+offerId: a518ae99-863f-4116-ac7d-ba2c88618760
 price:
   cents: 3995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 146.95
 slug: premium-ligbed-met-comfortabel-kussen
 soldOut: false
-start: '2026-08-21T22:00:00.000Z'
+start: '2026-08-18T22:00:00.000Z'
 title: 909 Outdoor Premium Ligbed met Comfortabel Kussen

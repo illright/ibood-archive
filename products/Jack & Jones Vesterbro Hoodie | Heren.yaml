@@ -1,13 +1,13 @@
-_id: 6a44d8b60e72f6562fd49edc
+_id: 6a8705e16f327fc43fd915b8
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310528'
-classicProductId: '718268'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3393152'
+classicProductId: '718263'
 deliveryPrice:
   cents: 595
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 1d592144-47b4-5269-9d73-f97d038231b8
+id: e3dc5dde-8b41-44a9-b03d-1e037d14f9c6
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4db32bb1-4a50-43d8-a247-fcfb5a65fa49-tr
+  id: accf2e7b-c1e0-4968-9c89-691a765edf2f
   priority: 0
-  slug: l-white-melange-12266168-jwhvesterbro-sweat-hood-noos-jack-jones-originals-product-0
+  slug: xl-stormy-weather-12266168-jwhvesterbro-sweat-hood-noos-jack-jones-originals-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b70096e6-b47f-4dc7-bdc2-c3ecedd4fa8a
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: f787bca8-b0e5-5a23-9c65-e04ee2726d8a
+offerId: 21d8f8c5-e3f5-4f43-81ad-038a08301f30
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 39.99
 slug: jack-jones-originals-hoodie
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Vesterbro Hoodie | Heren
+k & Jones Vesterbro Hoodie | Heren

@@ -1,22 +1,22 @@
-_id: 6a8456e49454bcca6f78fd7f
+_id: 6a845744ea80ee45cacc921c
 appOnly: false
 brand: Helly Hansen
 brands:
   - id: 59aa4a54-b6aa-5a32-a06b-e2ef85c16b84
     name: Helly Hansen
 categories:
-  - b948db76-9489-55f3-8ff7-03ffa42860f7
-classicId: '3385717'
-classicProductId: '697455'
+  - 564af421-c465-547d-a5d3-4b6b33ed05ef
+classicId: '3385820'
+classicProductId: '697464'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 70
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: true
+discount: 67
+end: '2026-09-01T21:59:59.000Z'
 freeDelivery: false
-id: 5d06bbf7-3603-4aae-b917-8ae5fce22e0d
+id: 8d3f1016-944c-4f00-bf35-8e3ebb7ee74d
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 9eba7f9f-0d18-4e8b-b545-871452572be0
+  id: bf87283a-4a3f-4742-a182-26133e5af3b9-tr
   priority: 0
-  slug: cargo-png-product-1
+  slug: 34-khaki-54537-078-34-bryggen-cargo-shorts-helly-hansen-product-0
   type: product
 logo:
   channels:
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: helly-hansen-logo
   type: logo
-offerId: 53736f0c-69d8-4051-aad7-19222a250e8e
+offerId: 0a3ba255-bd61-4ce5-9afd-db8fd8448ea1
 price:
-  cents: 2250
+  cents: 2500
   currency: EUR
-  value: 22.5
+  value: 25
 referencePrice:
   cents: 7500
   currency: EUR
@@ -51,4 +51,3 @@ slug: helly-hansen-bryggen-cargo-shorts-heren
 soldOut: false
 start: '2026-08-18T22:00:00.000Z'
 title: 'Helly Hansen Bryggen Cargo Shorts | Heren '
- 'Helly Hansen Bryggen Cargo Shorts | Heren '

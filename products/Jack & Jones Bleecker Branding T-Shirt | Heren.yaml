@@ -1,12 +1,12 @@
-_id: 6a44daf0504f9ae262d421d0
+_id: 6a8706d46f327fc43fd916c2
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310582'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3393411'
 classicProductId: '718397'
 deliveryPrice:
   cents: 395
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 45
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 66d2b7fe-2f40-5378-85e0-0e44aa60bd4a
+id: f2e31ac3-5391-4442-9daa-954b61a895e7
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 3f577008-d0da-4143-ae83-d68ff5b21c73
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 32908461-3d31-5e92-9fcd-6c4e1265a1f6
+offerId: bf257757-38e4-4c1a-82ea-95c0fa67e655
 price:
   cents: 995
   currency: EUR
@@ -50,6 +49,8 @@ referencePrice:
   value: 17.99
 slug: jack-jones-sycamore-bleecker-branding-t-shirt
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Bleecker Branding T-Shirt | Heren
+
+leecker Branding T-Shirt | Heren
 

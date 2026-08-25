@@ -1,12 +1,12 @@
-_id: 6a8702ad6f327fc43fd90f60
+_id: 6a86fe5f6f327fc43fd90bbe
 appOnly: false
 brand: VANGUARD
 brands:
   - id: abc3e045-76a9-5586-90c4-abede122eaf2
     name: VANGUARD
 categories:
-  - 6d4cca08-223a-4edd-9eef-caac4a6690a9
-classicId: '3392526'
+  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
+classicId: '3392151'
 classicProductId: '715505'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 67
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: d797fd75-7d78-49a7-91fb-2bdedf71c4e3
+id: 9b937a29-855b-4bf5-8c6c-8bd0ee4e7457
 image:
   channels:
     - app
@@ -41,16 +41,17 @@ logo:
   priority: 0
   slug: vanguard-logo-0
   type: logo
-offerId: 92f4d87a-f465-4839-bd7c-2f393e95a1c2
+offerId: 131e0fce-5d03-4b3f-84fe-0a2a626d1df7
 price:
-  cents: 3995
+  cents: 3900
   currency: EUR
-  value: 39.95
+  value: 39
 referencePrice:
   cents: 11999
   currency: EUR
   value: 119.99
 slug: vanguard-broek-red
-soldOut: false
+soldOut: true
 start: '2026-08-19T22:00:00.000Z'
 title: Vanguard Broek | Red
+ed

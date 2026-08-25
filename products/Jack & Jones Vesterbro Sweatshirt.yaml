@@ -1,12 +1,12 @@
-_id: 6a44d8470e72f6562fd49ed2
+_id: 6a8705de6f327fc43fd915b6
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310526'
+  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
+classicId: '3393150'
 classicProductId: '718258'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 50
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 28212080-290b-5a0a-9054-d46e88fb6d4d
+id: b6db5e0a-b107-4fed-9cf2-c879fff64475
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 982c30b0-dfd9-4999-9287-005507aa3373
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 6efba13d-db6d-51aa-a816-f79e10a27078
+offerId: eb69f416-678e-4215-aee6-35e4a0e367f7
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 39.99
 slug: jack-jones-originals-sweatshirt
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-19T22:00:00.000Z'
 title: Jack & Jones Vesterbro Sweatshirt
+Jack & Jones Vesterbro Sweatshirt

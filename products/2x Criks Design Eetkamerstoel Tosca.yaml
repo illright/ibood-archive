@@ -19,13 +19,14 @@ freeDelivery: false
 id: 0c1f70dd-03cd-4e34-82ef-102387b1fc08
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1668221
+    - all
+  extension: image/png
+  id: 7d08508b-c865-48f9-843b-c86bbf928aeb
   priority: 0
-  slug: 2x-criks-design-eetkamerstoel-tosca
+  slug: product-26
   type: product
 logo:
   channels:

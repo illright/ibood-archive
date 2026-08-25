@@ -1,22 +1,22 @@
-_id: 6a86ff1c98bad24499bdc52b
+_id: 6a8705bd6f327fc43fd91543
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
-classicId: '3392401'
-classicProductId: '692378'
+  - 976307d5-9705-41ce-94c8-99b8ba344cad
+classicId: '3393097'
+classicProductId: '692326'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 57
+directCheckout: false
+discount: 38
 end: '2026-08-25T21:59:59.999Z'
 freeDelivery: false
-id: 87e47e4c-dabf-4c6e-9bcf-c7c2822b24d2
+id: c1612185-6528-4be2-9719-06fa49312793
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 27e80ded-1dd1-4d7c-b784-2425109321b9-tr
+  id: 18f5dc60-fdc1-40dc-ad2e-44c085548302-tr
   priority: 0
-  slug: 37-black-white-vny28-vn000y7fy281-vero-ls-suede-canvas-black-white-junior-vans-product-0
+  slug: 32-5-coral-blush-vnd3x-vn000v9td3x1-vero-ls-suede-canvas-coral-blush-youth-unisex-vans-product-1
   type: product
 logo:
   channels:
@@ -38,11 +38,11 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: 899b879a-a1ef-4f4a-bc24-4d869a034332
+offerId: 7f94f66e-2854-4709-b115-9b48d49ddfba
 price:
-  cents: 1700
+  cents: 2495
   currency: EUR
-  value: 17
+  value: 24.95
 referencePrice:
   cents: 4000
   currency: EUR
@@ -51,6 +51,4 @@ slug: vans-vero-sneakers-kids
 soldOut: true
 start: '2026-08-19T22:00:00.000Z'
 title: Vans Vero Sneakers | Kids
-rs | Kids
-ds
-ids
+Kids
