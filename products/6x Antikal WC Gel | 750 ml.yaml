@@ -1,12 +1,12 @@
-_id: 6a8455808edcd40c0c550119
+_id: 6a8d9c881770343181a4b04a
 appOnly: false
 brand: Antikal
 brands:
   - id: 97d5ed49-b28b-57fd-8a10-b17e2b53df54
     name: Antikal
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3385459'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401218'
 classicProductId: '717397'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 46
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 58c89f64-7e63-44df-b4c0-a77b9adaac76
+id: 7dfec712-2055-4139-b5df-78abc1901763
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 6x-antikal-wc-gel-750ml-product-0
   type: product
-offerId: 0f63cd19-636d-4d8b-995d-4eed2e7295ad
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: cf09e80d-10ab-4c3b-8a2b-a325e33f85bb
+  priority: 0
+  slug: antikal-logo-0
+  type: logo
+offerId: 0427423f-f319-4b34-9aed-299efe80e7fa
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 23.94
 slug: 6x-antikal-wc-gel-750-ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Antikal WC Gel | 750 ml

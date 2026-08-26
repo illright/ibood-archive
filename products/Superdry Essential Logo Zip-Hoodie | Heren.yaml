@@ -1,22 +1,22 @@
-_id: 6a87045d98bad24499bdc7e0
+_id: 6a8d6c15a160f3f7174d06d1
 appOnly: false
 brand: Superdry
 brands:
   - id: 63d3275e-6de4-5a66-8167-405ff340f70c
     name: Superdry
 categories:
-  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
-classicId: '3392690'
-classicProductId: '706467'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3398602'
+classicProductId: '706464'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 67
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: true
+discount: 58
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 17a54c1a-eeba-428c-9c8f-270f756ea0bf
+id: d1f625bd-0073-44ff-8920-bf62dc5afdb4
 image:
   channels:
     - app
@@ -39,16 +39,16 @@ logo:
   priority: 1
   slug: superdry-logo-1
   type: logo
-offerId: 6df4a9a2-9287-4b0d-8cbc-0fffed80901d
+offerId: 3a77f9eb-9485-43a9-9a4d-9282955448a1
 price:
-  cents: 2995
+  cents: 3800
   currency: EUR
-  value: 29.95
+  value: 38
 referencePrice:
   cents: 8999
   currency: EUR
   value: 89.99
 slug: superdry-essential-logo-washed-ziphood
-soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+soldOut: true
+start: '2026-08-25T22:00:00.000Z'
 title: Superdry Essential Logo Zip-Hoodie | Heren

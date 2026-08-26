@@ -1,22 +1,22 @@
-_id: 6a44daa2dfe081f0d21fb2fc
+_id: 6a8d7770ba333310d68e9360
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310566'
-classicProductId: '718349'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400206'
+classicProductId: '718354'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 4fcd6cfc-7749-5eb6-b9e5-6147a39559f0
+id: 57361b14-87ea-426c-922d-7043973d1f68
 image:
   channels:
     - app
@@ -24,22 +24,21 @@ image:
     - newsletter
     - all
   extension: image/jpeg
-  id: a8d1fd6a-990a-4362-a19e-82a7136a23b8
+  id: 0c578381-8a23-4671-80cc-25e25ae3229d
   priority: 0
-  slug: xl-black-12303629-jwhpoint-commute-travel-shirt-jack-jones-product-0
+  slug: s-black-oyster-12303629-jwhpoint-commute-travel-shirt-jack-jones-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 1d6deb5b-88a1-438a-9c11-75f3f48c5871
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 54bf1b1b-22fe-5fe8-be47-34790f82cef0
+offerId: 70b6b3bb-071d-4b53-9105-127943c213b5
 price:
   cents: 2995
   currency: EUR
@@ -50,6 +49,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-jwhpoint-commute-travel-hemd
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Point Commute Travel Hemd | Heren
-Heren

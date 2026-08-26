@@ -1,12 +1,12 @@
-_id: 6a8585129451149831331af3
+_id: 6a8d9dc91770343181a4b210
 appOnly: false
 brand: Felix
 brands:
   - id: e9fd6e27-b6bf-54f8-b7d8-f8c5402fe76a
     name: Felix
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391089'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401460'
 classicProductId: '723709'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 8540d084-c1a6-4550-bb92-f118ae20a8c3
+id: 7a860f1d-fe09-4513-b99b-dec0cc87ce9d
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: product-1
   type: product
-offerId: 6ae528db-b364-4914-b461-e621450967e2
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: efccc45f-6910-4a8a-a4ff-23b51062ba74
+  priority: 0
+  slug: felix-logo-0
+  type: logo
+offerId: 26cda740-959c-49db-9cc7-a01d1a155140
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 29.75
 slug: 5x-felix-kattenvoer-droog-countryside-sensations-1-kg
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 5x Felix Kattenvoer Droog Countryside Sensations | 1 kg

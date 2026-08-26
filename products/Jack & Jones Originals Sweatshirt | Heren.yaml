@@ -1,22 +1,22 @@
-_id: 6a44d298ff92005ecd87caa9
+_id: 6a8d7951febf86e90295fe9f
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310355'
-classicProductId: '557171'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400291'
+classicProductId: '557151'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 50
-end: '2026-08-25T21:59:59.999Z'
+discount: 53
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 0a076631-fc04-55fd-807b-bd309d8dda9a
+id: 692b1b6d-2efd-48ee-bd7f-b3fa15df0b88
 image:
   channels:
     - website
@@ -27,23 +27,26 @@ image:
   priority: 0
   slug: jack-jones-originals-sweatshirt
   type: product
-offerId: 23b3be2e-369a-53e9-b2d6-63dcf6773b28
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
+  type: logo
+offerId: 07137e29-2348-4f9f-869f-c2e1b01bc014
 price:
-  cents: 1995
+  cents: 1895
   currency: EUR
-  value: 19.95
+  value: 18.95
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: jack-jones-originals-sweatshirt
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Originals Sweatshirt | Heren
- 39.99
-slug: jack-jones-originals-sweatshirt
-soldOut: false
-start: '2026-08-19T22:00:00.000Z'
-title: Jack & Jones Originals Sweatshirt | Heren
-hirt | Heren
-s Sweatshirt | Heren

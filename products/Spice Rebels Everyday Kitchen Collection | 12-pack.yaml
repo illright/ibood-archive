@@ -1,22 +1,22 @@
-_id: 6a845591ea80ee45cacc8f68
+_id: 6a8da1d144541b99a0372f48
 appOnly: false
 brand: Spice Rebels
 brands:
   - id: 4da08184-71ee-5592-85d6-d44ce8132e9a
     name: Spice Rebels
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3385476'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402601'
 classicProductId: '714065'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 59
-end: '2026-08-25T21:59:59.999Z'
+discount: 64
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 1554865c-ca05-4be5-a073-f511962e8d3f
+id: 6b775e48-64ca-4fc8-a17d-d5bc5604a802
 image:
   channels:
     - newsletter
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: spice-rebels-14-png-product-1
   type: product
-offerId: 708e06d8-7ecc-4e6c-bc16-8bca04a69fc3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: b48f470d-e716-479e-b267-cf91eea93530
+  priority: 0
+  slug: spice-rebels-logo-0
+  type: logo
+offerId: 7ec079a5-e465-46e4-9917-0d437bdc7617
 price:
-  cents: 2495
+  cents: 2195
   currency: EUR
-  value: 24.95
+  value: 21.95
 referencePrice:
   cents: 6088
   currency: EUR
   value: 60.88
 slug: spice-rebels-everyday-kitchen-collection-12-pack
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Spice Rebels Everyday Kitchen Collection | 12-pack

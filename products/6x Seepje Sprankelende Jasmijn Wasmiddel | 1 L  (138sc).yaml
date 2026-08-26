@@ -1,32 +1,32 @@
-_id: 6a85844344bb95f70c12391d
+_id: 6a8da1a9c589671b07c1e99c
 appOnly: false
 brand: Seepje
 brands:
   - id: 8e4589d7-a927-5109-814a-349cdfdcc53c
     name: Seepje
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390854'
-classicProductId: '720778'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402543'
+classicProductId: '685472'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
+directCheckout: false
 discount: 55
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 35c47651-c7e1-415e-9b47-479a26d3a7d9
+id: c2c2b555-b484-43e6-9346-49ae0c3dab3a
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 94691cae-4c96-4c9d-94b1-fc2c4e0e2364
+  id: 6ab2916a-9e78-43f5-8ab3-b6e33cbafb08
   priority: 0
-  slug: seepje-01-png-product-1
+  slug: seepje-02-png-product-1
   type: product
 logo:
   channels:
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: seepje-logo
   type: logo
-offerId: 0ecc1cd5-639b-4f34-8056-36d0db3eb7d5
+offerId: 42296caa-31da-44f5-b663-c2a1c79ad8e5
 price:
   cents: 2995
   currency: EUR
@@ -49,5 +49,5 @@ referencePrice:
   value: 65.94
 slug: 6x-seepje-sprankelende-jasmijn-wasmiddel-1-l
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Seepje Sprankelende Jasmijn Wasmiddel | 1 L  (138sc)

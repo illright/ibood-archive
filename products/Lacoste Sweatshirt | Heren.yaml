@@ -1,22 +1,22 @@
-_id: 6a8703f5ba1ded9e637db657
+_id: 6a8d6a55a6316911d926648c
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
-classicId: '3392579'
-classicProductId: '703347'
+  - 1149dcb6-1771-4c84-8eec-c831234ae89e
+classicId: '3397559'
+classicProductId: '703368'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 63
-end: '2026-08-25T21:59:59.999Z'
+discount: 60
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: f96472db-0e24-40bf-9fe2-6660caf66160
+id: 24dbc50d-dd79-4c74-ae50-2bfbcbdd8352
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: e8883d70-bfed-4708-a1eb-d32ac1dfbb8f-tr
+  id: 853b8af2-64d0-4b0a-9885-b26a96a18557
   priority: 0
-  slug: 3-lapland-xfj-sh0028-51-1hs1-men-s-sweatshirt-02-lacoste-product-0
+  slug: lacoste-54-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: 04a95b42-d6b3-4788-8222-54a0df2d868b
+offerId: f94728ad-61e2-40a6-814a-e1535eecb6b1
 price:
-  cents: 5995
+  cents: 5195
   currency: EUR
-  value: 59.95
+  value: 51.95
 referencePrice:
-  cents: 16000
+  cents: 13000
   currency: EUR
-  value: 160
+  value: 130
 slug: lacoste-sweatshirt-heren
-soldOut: true
-start: '2026-08-19T22:00:00.000Z'
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: Lacoste Sweatshirt | Heren

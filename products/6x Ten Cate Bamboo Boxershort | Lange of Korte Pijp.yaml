@@ -1,32 +1,31 @@
-_id: 6a86ff086f327fc43fd90e56
+_id: 6a8d6a44a6316911d9266436
 appOnly: false
 brand: TenCate
 brands:
   - id: a34863e6-aa3a-5876-97ca-3136ae0eccff
     name: TenCate
 categories:
-  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
-classicId: '3392377'
-classicProductId: '722247'
+  - c50f46cf-b6b4-43a9-a035-6536a8d4baa7
+classicId: '3397522'
+classicProductId: '722245'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 70
-end: '2026-08-25T21:59:59.999Z'
+discount: 59
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: a75a7c71-4527-4969-9939-bd91f7742733
+id: 1927695f-29e4-460c-abab-5d9c2f4c3a0c
 image:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 386b23a5-7121-4c0a-831e-94dc397d18db
+  extension: jpg
+  id: 1435341
   priority: 0
-  slug: main-png-product-1
+  slug: 6x-ten-cate-bamboo-boxershort
   type: product
 logo:
   channels:
@@ -38,16 +37,16 @@ logo:
   priority: 100
   slug: ten-cate-logo
   type: logo
-offerId: 532b92db-9610-4ec2-829e-a0d5f6c48ea1
+offerId: dd4f6f02-5393-4f8c-9da0-4ccc176fff6c
 price:
-  cents: 2700
+  cents: 3695
   currency: EUR
-  value: 27
+  value: 36.95
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: 6x-ten-cate-bamboo-boxershort
 soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Ten Cate Bamboo Boxershort | Lange of Korte Pijp

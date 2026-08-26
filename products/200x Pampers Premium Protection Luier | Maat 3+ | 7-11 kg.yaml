@@ -1,12 +1,12 @@
-_id: 6a8449a90cba0ae1bf0fdf69
+_id: 6a8da10532f66d59fc386857
 appOnly: false
 brand: Pampers
 brands:
   - id: 0bd35936-acaf-5f59-a5fa-c798dc104243
     name: Pampers
 categories:
-  - 5e3f920d-fd58-5995-8b70-dff1acbb5ac9
-classicId: '3385052'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402335'
 classicProductId: '725453'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: a42f249a-7630-4cc8-a8b1-fa0f1e5f83f4
+id: 83989917-5fc1-48dc-b929-4d3ade69df65
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1919243
-  priority: 100
-  slug: pampers-logo
+    - all
+  extension: image/png
+  id: f3d9f275-eb40-40f2-9487-efa6bcd14e25
+  priority: 0
+  slug: logo-0
   type: logo
-offerId: 01ecdd2d-5fa2-4341-af72-909154e670af
+offerId: 030de62d-701b-406e-9adb-8bfd6869afe8
 price:
   cents: 4495
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 112
 slug: 200x-pampers-premium-protection-luier-maat-3
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 200x Pampers Premium Protection Luier | Maat 3+ | 7-11 kg

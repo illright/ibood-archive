@@ -1,12 +1,12 @@
-_id: 6a8584b6542eda437452cb7e
+_id: 6a8da00cc589671b07c1e91e
 appOnly: false
 brand: Maggi
 brands:
   - id: fb7005fe-4229-5589-92b9-7da6b4952b7d
     name: Maggi
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390988'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402082'
 classicProductId: '711548'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 281b5a68-7f66-41c5-aae9-c9529f9118b9
+id: 398f53a1-b5ab-466f-98c7-ef059d34878b
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 22x-maggi-airfryer-wrap-it-street-taco-41g-product-1
   type: product
-offerId: 129b689a-b93d-49ed-9f6d-2ee0117033bf
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f864326f-cc1e-4ed2-8963-f51dc6d6992e
+  priority: 0
+  slug: maggi-logo-0
+  type: logo
+offerId: cd9f8e1e-ce70-46ea-8851-9636c5f083c8
 price:
   cents: 1295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 41.58
 slug: 22x-maggi-airfryer-wrap-it-street-taco-41-g
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 22x Maggi AirFryer Wrap It Street Taco | 41 g

@@ -1,12 +1,12 @@
-_id: 6a858496e9b529d37dc9b30a
+_id: 6a8d9ddec589671b07c1e7cb
 appOnly: false
 brand: Gama
 brands:
   - id: 962e6aa7-7bb9-57f2-b65a-5200dd7ebe22
     name: Gama
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390953'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401488'
 classicProductId: '717385'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 65
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 962d56e5-3ece-42e6-affb-8844a0d6bcd8
+id: 72c0b787-23ad-4f89-9eab-09abf1ba69b6
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: gama-01-png-product-1
   type: product
-offerId: fa47173e-3d0f-4bb4-9d31-340ad927a04b
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6f7aa4b6-c164-4dc9-ace0-d86bb93ae8fd
+  priority: 0
+  slug: gama-logo-0
+  type: logo
+offerId: 5f6caffa-2434-490e-bb12-f98a2ecc51f7
 price:
   cents: 2295
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 64.98
 slug: 2x-gama-vloeibaar-wasmiddel-color-4-5-l-200sc
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Gama Vloeibaar wasmiddel Color | 4,5 l (200sc)

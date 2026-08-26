@@ -1,22 +1,22 @@
-_id: 6a85846314bd40e5cf75d17b
+_id: 6a8d9de54abd117ea1d36008
 appOnly: false
 brand: Gama
 brands:
   - id: 962e6aa7-7bb9-57f2-b65a-5200dd7ebe22
     name: Gama
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390894'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401486'
 classicProductId: '717384'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 79
-end: '2026-08-25T21:59:59.999Z'
+discount: 86
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: b184aa55-ff1e-4eb9-aa23-4bde8b71d6ae
+id: 42cc7336-6489-446d-a59a-a9ce02f7da14
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: gama-03-png-product-1
   type: product
-offerId: 09e3b00a-ef2c-44e4-b951-86d09fdd09a9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6f7aa4b6-c164-4dc9-ace0-d86bb93ae8fd
+  priority: 0
+  slug: gama-logo-0
+  type: logo
+offerId: 7a23a051-de6d-4f6f-8cf2-92a001be2081
 price:
-  cents: 1495
+  cents: 995
   currency: EUR
-  value: 14.95
+  value: 9.95
 referencePrice:
   cents: 7192
   currency: EUR
   value: 71.92
 slug: 8x-gama-color-wasmiddelpoeder-regular-1-08-kg-144sc
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 8x Gama Color Wasmiddelpoeder Regular | 1,08 kg (144sc)

@@ -1,12 +1,12 @@
-_id: 6a845d4b3e813291ae1ff368
+_id: 6a5f52368be7fb562513a157
 appOnly: false
 brand: Nordure
 brands:
   - id: e7fca1e9-f1a7-5bb5-b6e1-fdf36d055482
     name: Nordure
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3387236'
+  - 80ce6b4b-be4d-58a8-99b2-6a4ea5fc80c9
+classicId: '3350680'
 classicProductId: '595780'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 50
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-08-31T21:59:59.999Z'
 freeDelivery: false
-id: 0953309f-e878-4d56-ad4a-6a2445688adb
+id: 6f0a08b9-bcc5-5516-b0b4-c4cf41391ee1
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: kalune-design-mia-oak-koffietafel
   type: product
-offerId: 49fcb71d-0970-44a7-bb82-69777467ce7d
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1858300
+  priority: 100
+  slug: kalune-logo
+  type: logo
+offerId: e7ea702e-8cce-50f4-b8f1-b1a1ae117045
 price:
   cents: 24900
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 499.95
 slug: kalune-design-mia-oak-koffietafel
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Kalune Design Mia Koffietafel | Oak

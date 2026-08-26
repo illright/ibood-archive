@@ -1,22 +1,22 @@
-_id: 6a79e44d638a9928226e33ae
+_id: 6a8d3e9f8d96c8dccc63b95b
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 5bb1f471-e4fc-44d3-9616-309dcf846bae
-classicId: '3376140'
+  - 70c7fd28-36b4-5375-88c6-7452c47190d8
+classicId: '3395013'
 classicProductId: '725093'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 63
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: bebc4d22-6fdb-506b-95dd-4ee0ddb9076c
+id: e1927154-76ee-4a24-9bfd-0a5755b694f4
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 025899c3-af7e-471a-a619-4631baa0c20c
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: fa8e269b-8775-583f-ba40-f5dade1bbe20
+offerId: 854f7a76-6709-4532-82b3-f8b3bf5acfca
 price:
   cents: 1995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 53.9
 slug: 2x-hartman-zitkussen-cuba-caramel-50-x-50-x-6-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Hartman Zitkussen | Cuba Caramel | 50 x 50 x 6 cm

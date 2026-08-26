@@ -1,12 +1,12 @@
-_id: 6a8455a5ea80ee45cacc8fcc
+_id: 6a8d9eacc589671b07c1e84b
 appOnly: false
 brand: Lay's
 brands:
   - id: c2dac7c1-a364-5a06-8d6a-13a54dd40d89
     name: Lay's
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3385502'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401760'
 classicProductId: '724778'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 54
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 7e439035-5039-4e94-95a5-bbe1f7e9e0b1
+id: 0ca2d294-9de5-4be3-bfc9-96ea95ee1cf0
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: product-1
   type: product
-offerId: 6c081572-9cc6-4ceb-a3ad-65056c8909ba
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ead95e14-5b4d-4b6a-9961-d58d89da92b3
+  priority: 0
+  slug: lay-s-logo-0
+  type: logo
+offerId: 1636570a-9133-4c9f-a3dd-4dcb24752eb2
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 43.56
 slug: 12x-lay-s-gourmet-sea-salt-olive-oil-herbs-wavy-cut-145-g
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 12x Lay's Gourmet Sea Salt, Olive Oil & Herbs Wavy Cut | 145 g

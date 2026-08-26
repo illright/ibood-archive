@@ -1,12 +1,12 @@
-_id: 6a845ec7b236413c3c71f8bf
+_id: 6a8d3f7d35aa0ac8714179cf
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3388972'
+  - e832f4ab-5454-594a-b832-c3399cfe4df6
+classicId: '3395357'
 classicProductId: '720040'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 9c6aee6d-c704-471d-9e97-13d4a0bc3821
+id: 6bd8c03d-e698-418f-b907-04aa79f576ac
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 61afae2c-deb2-4b34-8075-f409b141604a
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: c4132fea-fbaf-417f-b975-594f6d0f79d2
+offerId: aeaadc34-19e4-432c-82a5-e70ccdfb031d
 price:
   cents: 1495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 35.95
 slug: lucide-otis-led-plafondlamp-34-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Lucide Otis LED Plafondlamp | Ø 34 cm

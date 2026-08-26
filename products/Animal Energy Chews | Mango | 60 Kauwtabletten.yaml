@@ -1,12 +1,12 @@
-_id: 6a85853f14bd40e5cf75d273
+_id: 6a8d9c864abd117ea1d35f71
 appOnly: false
 brand: Animal
 brands:
   - id: fde0ccf3-f565-5bd7-bd34-133996718d6f
     name: Animal
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391142'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401217'
 classicProductId: '717232'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 57
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 2609ea1e-267e-4815-9e73-9158417cf391
+id: d464aa57-ade7-4421-8556-29113a989a9f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: product-1
   type: product
-offerId: a6daafd3-387e-45cf-b0a6-65f2edc0f215
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: fb40dccc-5ff6-41db-9dc8-cda66f4168fa
+  priority: 0
+  slug: animal-logo-0
+  type: logo
+offerId: 791e353d-cdde-4754-a260-f4c7087fe7b7
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 34.85
 slug: animal-energy-chews-mango-60-kauwtabletten
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Animal Energy Chews | Mango | 60 Kauwtabletten

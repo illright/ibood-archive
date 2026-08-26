@@ -1,22 +1,22 @@
-_id: 6a86fe3498bad24499bdc16e
+_id: 6a8d69ea8d96c8dccc63cab6
 appOnly: false
 brand: Corypheus
 brands:
   - id: b584cb30-6526-5948-933c-e34bef9b3abe
     name: Corypheus
 categories:
-  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
-classicId: '3392071'
-classicProductId: '717635'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3397388'
+classicProductId: '717633'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
 discount: 85
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: b0f3a253-23e4-4db9-88cd-2ddd97bef7f2
+id: c11238ed-702e-466c-9053-707e3a123d4e
 image:
   channels:
     - app
@@ -28,18 +28,7 @@ image:
   priority: 0
   slug: s-army-green-orange-450-souvenir-des-alpes-jacket-40-1001-22-s-450-corypheus-men-product-11
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 39705ccd-6efc-4036-b9a6-3f7694e5e8d3
-  priority: 0
-  slug: corypheus-png-logo-0
-  type: logo
-offerId: 89c688a1-0300-4d5a-a205-04c769795326
+offerId: ae227bf5-6b64-4baf-add8-1a3e9f24eaf9
 price:
   cents: 2400
   currency: EUR
@@ -49,6 +38,6 @@ referencePrice:
   currency: EUR
   value: 159.95
 slug: corypheus-souvenir-des-alpes-jack-heren
-soldOut: true
-start: '2026-08-19T22:00:00.000Z'
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: Corypheus Souvenir des Alpes Jack | Heren

@@ -1,22 +1,22 @@
-_id: 6a8421c1f42ee31785f244bd
+_id: 6a8d5d338d96c8dccc63bf59
 appOnly: false
 brand: Fontignac
 brands:
   - id: 62b82763-36b8-57a7-baeb-89a76cadf6b7
     name: Fontignac
 categories:
-  - 1dec7bb3-07a0-508c-9dd2-a23e9b192e5e
-classicId: '3383883'
+  - af8c88ff-6293-54ac-8229-3d1bef69901e
+classicId: '3395781'
 classicProductId: '698611'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
-discount: 80
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: true
+discount: 70
+end: '2026-09-02T21:59:59.999Z'
 freeDelivery: false
-id: 7c7072f9-781f-4298-bef4-0e2b849cf385
+id: 8edaeb35-5c20-4960-9085-b18a3e933068
 image:
   channels:
     - app
@@ -28,27 +28,16 @@ image:
   priority: 0
   slug: main-pan-fotngnica-png-product-1
   type: product
-logo:
-  channels:
-    - app
-    - website
-    - newsletter
-    - all
-  extension: image/png
-  id: 14bb09c6-e4c4-4ccb-9b82-f45fdf78dc58
-  priority: 0
-  slug: fontignac-png-logo-0
-  type: logo
-offerId: 38b32c02-5369-48c4-a062-79f7db711dba
+offerId: 38b1831f-2d72-4913-b60b-0c231b3d1ee8
 price:
-  cents: 1995
+  cents: 2995
   currency: EUR
-  value: 19.95
+  value: 29.95
 referencePrice:
   cents: 9995
   currency: EUR
   value: 99.95
 slug: fontignac-mains-libres-ovale-braadpan-29-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Fontignac Mains Libres Ovale Braadpan | Ø 29 cm

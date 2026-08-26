@@ -1,12 +1,12 @@
-_id: 6a858473542eda437452caf1
+_id: 6a8d9e3d44541b99a0372cb9
 appOnly: false
 brand: Herbal Essences
 brands:
   - id: 6201cc15-0b4e-5e65-89f0-43e2f486ffe7
     name: Herbal Essences
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390914'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401614'
 classicProductId: '718080'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 58
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 1dfbe924-6d6a-4a3d-8f9e-73f291ccd4b3
+id: dd0e614a-a635-4f0f-8bc0-d7110a68d90a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: herbal-essences-04-png-product-1
   type: product
-offerId: 6413767f-c280-435b-aff8-f47f27a82e36
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2a175e2a-b2d2-488b-8aa7-cc0d9d36cb0d
+  priority: 0
+  slug: herbal-essences-logo-0
+  type: logo
+offerId: 4202d1de-c7a4-44aa-bfe5-b8170c73b539
 price:
   cents: 1195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 28.14
 slug: 6x-herbal-essences-argan-oil-repair-shampoo-350ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Herbal Essences Argan Oil Repair Shampoo | 350 ml

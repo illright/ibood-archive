@@ -1,12 +1,12 @@
-_id: 6a44dd1c0e72f6562fd49f42
+_id: 6a8d7850a160f3f7174d089a
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310650'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400242'
 classicProductId: '718588'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 38
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 827d5222-abb3-5fab-be43-c4194c9470b1
+id: fc39dc79-d045-48cd-a51e-1890fcf42bda
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 4965e082-a896-42ab-b529-796c677df7c6
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 88042aef-e5fe-5a87-828a-8f97f64eb251
+offerId: a4e4b4cd-0ebf-421c-944a-120e305fbef2
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 39.99
 slug: jack-jones-jwhyuki-sweatshirt-moonbeam
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Yuki Front Sweatshirt | Heren

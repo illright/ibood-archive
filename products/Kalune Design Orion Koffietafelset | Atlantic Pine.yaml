@@ -1,22 +1,22 @@
-_id: 6a845e03f18330b3d6590ef0
+_id: 6a5f51f264e0c602f87d1be5
 appOnly: false
 brand: Nordure
 brands:
   - id: e7fca1e9-f1a7-5bb5-b6e1-fdf36d055482
     name: Nordure
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3387941'
+  - 80ce6b4b-be4d-58a8-99b2-6a4ea5fc80c9
+classicId: '3350630'
 classicProductId: '613792'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 59
-end: '2026-08-25T21:59:59.999Z'
+discount: 58
+end: '2026-08-31T21:59:59.999Z'
 freeDelivery: false
-id: 152d2845-9b0a-4d3a-94b1-b0155deed3d6
+id: b1440b88-cb01-5014-8877-e2e5bde00a3a
 image:
   channels:
     - website
@@ -27,16 +27,26 @@ image:
   priority: 100
   slug: kalune-design-orion-koffietafelset-atlantic-pine
   type: product
-offerId: 4a7056f5-ca25-4b05-b9f1-f660d239aa53
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2239606
+  priority: 100
+  slug: kalune-design-orion-koffietafelset-atlantic-pine
+  type: logo
+offerId: 8d16aa7a-6686-5522-8ae5-98385fa0318d
 price:
-  cents: 9829
+  cents: 9995
   currency: EUR
-  value: 98.29
+  value: 99.95
 referencePrice:
-  cents: 23995
+  cents: 23900
   currency: EUR
-  value: 239.95
+  value: 239
 slug: kalune-design-orion-koffietafelset-atlantic-pine
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Kalune Design Orion Koffietafelset | Atlantic Pine

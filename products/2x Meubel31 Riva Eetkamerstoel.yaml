@@ -1,32 +1,32 @@
-_id: 6a845d4fb236413c3c71f61b
+_id: 6a8d3ec6e359568fe50f0d30
 appOnly: false
 brand: Meubel31
 brands:
   - id: 79ef4032-57c0-5267-916f-5fdb37e5d1bb
     name: Meubel31
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3387503'
-classicProductId: '660200'
+  - 70c7fd28-36b4-5375-88c6-7452c47190d8
+classicId: '3395049'
+classicProductId: '660198'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
 discount: 71
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: c5ef2496-ba2a-471c-a2c2-0ff1925435ff
+id: 955d375c-6dfa-471d-bfcf-1d51ae0ab277
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: a5f78178-ed0b-4833-a882-9676891732fc
+  extension: image/png
+  id: f7a847b2-95ef-4ad2-80f7-374527ccda24
   priority: 0
-  slug: meubel31-05-jpg-product-0
+  slug: meubel31-01-png-product-1
   type: product
 logo:
   channels:
@@ -35,11 +35,11 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: e63fbde2-6109-4320-b7ff-7d8013fafdd7
+  id: 246b3b69-590a-4930-bfbe-c2d97d6d98fd
   priority: 0
-  slug: meubel31-png-logo-0
+  slug: meubel31-logo-0
   type: logo
-offerId: 787d87bd-ec31-4c5e-be50-3ac6f2785f42
+offerId: 64669379-fa59-4c80-9378-e87f212fd845
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +50,6 @@ referencePrice:
   value: 279.9
 slug: 2x-meubel31-riva-eetkamerstoel
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Meubel31 Riva Eetkamerstoel
+

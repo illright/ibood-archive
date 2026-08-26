@@ -1,22 +1,22 @@
-_id: 6a44d2abd337799621665007
+_id: 6a8d77ffa6316911d9266dc2
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310357'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400234'
 classicProductId: '557046'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 40
-end: '2026-08-25T21:59:59.999Z'
+discount: 46
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: d2c3aeef-fff5-59a2-9897-ff97c3b3d872
+id: e4c9e914-38e8-49ac-89c2-bff6a0bc641b
 image:
   channels:
     - website
@@ -29,25 +29,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fe3920c2-c302-4a1c-b6bb-7065ec3def29
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 522ec493-1d3f-52bf-ad67-6cd8cedaeddb
+offerId: 2689ec88-e0cd-4a72-8485-0afee7b485d1
 price:
-  cents: 2995
+  cents: 2695
   currency: EUR
-  value: 29.95
+  value: 26.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
 slug: jack-jones-jeans-intelligence-chris-original
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Jeans Intelligence Chris Original SQ 165

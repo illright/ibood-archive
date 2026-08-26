@@ -1,12 +1,12 @@
-_id: 6a85848c542eda437452cb35
+_id: 6a8da099c589671b07c1e970
 appOnly: false
 brand: NIGRIN
 brands:
   - id: 54182718-fe90-5d71-9e13-63520f62d7e1
     name: NIGRIN
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390942'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402214'
 classicProductId: '712008'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 73
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 35c900c5-f928-409d-be06-ea44f9a77f50
+id: eb50325d-f7fb-4c49-b92e-f96b7ce5f71a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: nirgin-02-png-product-1
   type: product
-offerId: ae519cb7-0192-47ae-8ca4-2375de1f5ae7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d3c235b5-0090-4aa6-a14b-8d8f4673212f
+  priority: 0
+  slug: nigrin-logo-0
+  type: logo
+offerId: 2b93b393-4ce5-4617-a47d-b355bbbf8d24
 price:
   cents: 795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 29.97
 slug: 3x-nigrin-protective-wax-500-ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 3x Nigrin Protective Wax |  500 ml

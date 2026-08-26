@@ -1,12 +1,12 @@
-_id: 6a44daad504f9ae262d421ca
+_id: 6a8d7786a160f3f7174d0874
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310575'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400208'
 classicProductId: '718372'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 35
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: cb128eb7-efa3-57c7-a257-ed796c3eb130
+id: 3aec216f-f361-4163-90f5-ab5d61ad8a0b
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: ab2faf9c-45ad-4ccc-b240-9a0a13c95c41
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 9afb9a6e-8081-544b-bdab-bbbff41ab376
+offerId: 83c745d4-ec5d-4771-8359-c831e403661e
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 19.99
 slug: jack-jones-jwhmaine-back-tee-cloud-dancer
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Maine Back T-Shirt | Heren

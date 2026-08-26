@@ -1,12 +1,12 @@
-_id: 6a8419c6f42ee31785f244a2
+_id: 6a8d96c844541b99a0372b43
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 97d1aadc-c582-5387-bd63-011c9878555e
-classicId: '3383867'
+  - 0d45d78e-f1f2-5a45-b739-10509e66443d
+classicId: '3401020'
 classicProductId: '692606'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: ed3879be-8adc-4606-95cb-b91e83999cff
+id: d478ee2a-6fb6-4b6d-a7f8-05bd41659e75
 image:
   channels:
     - app
@@ -24,11 +24,21 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: b1f6f8cb-d931-4da3-ac15-36ca28e3b19c-tr
+  id: 51e9853e-1330-4835-8a9f-77ab06dccc6b
   priority: 0
-  slug: xl-cocoa-sand-2850372-17526-o-neill-melange-chest-print-t-shirt-mens-product-7
+  slug: xl-cocoa-sand-2850372-17526-o-neill-melange-chest-print-t-shirt-mens-product-6
   type: product
-offerId: 37bd3222-c2d3-4aa2-b42e-84d459e6558c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
+  type: logo
+offerId: 1fab30f0-f963-4a4d-840e-4c72ec6151a6
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 29.99
 slug: o-neill-melange-chest-print-t-shirt-cocoa-sand-heren
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: O'Neill Melange Chest-Print T-Shirt | Cocoa Sand | Heren

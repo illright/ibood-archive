@@ -1,12 +1,12 @@
-_id: 6a858590e9b529d37dc9b480
+_id: 6a8d9e449dcddf4807cb4d2c
 appOnly: false
 brand: Herbal Essences
 brands:
   - id: 6201cc15-0b4e-5e65-89f0-43e2f486ffe7
     name: Herbal Essences
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391289'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401620'
 classicProductId: '718078'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 03b58011-03f4-45bf-be37-04027c275da4
+id: ca8a8de0-4604-4463-b748-5722c5f2947c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: herbal-essences-01-png-product-1
   type: product
-offerId: 4015534e-8b15-464a-8e04-a84c061b5754
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2a175e2a-b2d2-488b-8aa7-cc0d9d36cb0d
+  priority: 0
+  slug: herbal-essences-logo-0
+  type: logo
+offerId: 1d7865eb-5e63-4f43-bfaa-187479313450
 price:
   cents: 995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 26.94
 slug: 6x-herbal-essences-conditioner-coconut-hydrate-250ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Herbal Essences Coconut Hydrate Conditioner | 250 ml

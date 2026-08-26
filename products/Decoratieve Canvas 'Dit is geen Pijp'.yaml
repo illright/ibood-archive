@@ -1,12 +1,12 @@
-_id: 6a845ed34934cbf42ecf3f41
+_id: 6a5f52a3251900714910635f
 appOnly: false
 brand: Nordure
 brands:
   - id: e7fca1e9-f1a7-5bb5-b6e1-fdf36d055482
     name: Nordure
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3389140'
+  - 80ce6b4b-be4d-58a8-99b2-6a4ea5fc80c9
+classicId: '3350801'
 classicProductId: '700767'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 65
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-08-31T21:59:59.999Z'
 freeDelivery: false
-id: 4dcb4598-9a64-492f-918e-2d5bbccafc35
+id: 011fc58d-3f2f-57bd-9409-5b0ca050000f
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: dit-is-geen-pijp-decorative-canvas-product-1
   type: product
-offerId: f1b7f231-5a5c-4da4-8ccf-8060118f64d2
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 1791234
+  priority: 100
+  slug: wallity-wall-deco-logo
+  type: logo
+offerId: 55d8795a-0fc6-58d2-88b9-f32712e3fc31
 price:
   cents: 1695
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 47.99
 slug: decoratieve-canvas-dit-is-geen-pijp
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Decoratieve Canvas 'Dit is geen Pijp'

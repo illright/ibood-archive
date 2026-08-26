@@ -1,12 +1,12 @@
-_id: 6a85840394511498313319d8
+_id: 6a8da1e29dcddf4807cb4ec2
 appOnly: false
 brand: Taft
 brands:
   - id: d46bce78-2c40-514e-8b54-a368237e8c09
     name: Taft
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390795'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402633'
 classicProductId: '719970'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: c9909bb6-db96-4adc-9ba3-4af5c336eb0f
+id: 66203ba6-970a-4cd8-bee3-2c688278a888
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: taft-03-png-product-1
   type: product
-offerId: 1265f97c-ddc5-4cf3-92df-47c91a5715b9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f365af52-6e78-4718-8cdb-7da528fcd4b9
+  priority: 0
+  slug: taft-logo-0
+  type: logo
+offerId: 38acff75-6732-491d-87b9-04c198e858ff
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 41.94
 slug: 6x-taft-mousse-ultra-strong-200-ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Taft Mousse Ultra Strong | 200 ml

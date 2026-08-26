@@ -1,12 +1,12 @@
-_id: 6a845dd9b872226be521fbe9
+_id: 6a8d3f1b221cb448db6a3611
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3387871'
+  - e832f4ab-5454-594a-b832-c3399cfe4df6
+classicId: '3395195'
 classicProductId: '720022'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 53
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 516dc9e4-71d3-40ba-a54b-9d71711cf06a
+id: 0c13e251-a594-4584-a88d-83202b801c00
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: d028b648-6fe3-43b2-a592-9d1747f40083
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: 2dfacb5c-230f-495c-861e-a62dc0c7d0c5
+offerId: 605bdcab-d215-4f59-9ab9-4eb99d8a4027
 price:
   cents: 2195
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 46.95
 slug: lucide-mesh-hanglamp-22-cm-e27
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Lucide Mesh Hanglamp | Ø 22 cm | E27

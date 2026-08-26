@@ -1,22 +1,22 @@
-_id: 6a845ddd3e813291ae1ff45e
+_id: 6a8d6baa8d96c8dccc63d2a3
 appOnly: false
 brand: Jeep
 brands:
   - id: 36c8c9f2-6e90-5081-a4b4-79c7905fd6a0
     name: Jeep
 categories:
-  - 7064941b-ec4d-4c96-a4f2-40371ec51faa
-classicId: '3387713'
+  - e0b8e11f-3b71-4cb5-b94d-053a10aa9295
+classicId: '3398345'
 classicProductId: '690564'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 61
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: a70a4412-e717-4aa0-8b71-e5cc87aeaf5f
+id: 2ea5498c-cff9-4c0f-81c5-cc23fe5f58ea
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: jeep-logo-0
   type: logo
-offerId: 42c37e4b-a865-42e1-a931-b00ebaf02b40
+offerId: 10a6df73-b78d-490e-955d-916db05d1f20
 price:
   cents: 6995
   currency: EUR
@@ -50,5 +50,5 @@ referencePrice:
   value: 179
 slug: delsey-paris-jeep-duffle-bag
 soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jeep Duffle Bag

@@ -1,12 +1,12 @@
-_id: 6a8584139451149831331a00
+_id: 6a8da1c51770343181a4b4dd
 appOnly: false
 brand: Signal
 brands:
   - id: 711e8db6-f926-55fa-bfd6-3fa4f3e8d521
     name: Signal
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390806'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402579'
 classicProductId: '716827'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 67
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 24613c8e-43d5-4a7f-bef4-df12a7e01f2a
+id: 8c27ee71-0f43-42f9-b11b-c5147b40c0c2
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: signal-01-png-product-1
   type: product
-offerId: 530141ee-2337-4ed4-84b4-9d4322ae4048
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 6a288fc7-9101-49e6-8964-04908d8496f3
+  priority: 0
+  slug: signal-logo-0
+  type: logo
+offerId: e2aca0c9-2b87-426a-a57b-c83cde6b9bee
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 59.88
 slug: 12x-signal-tandenbleek-tandpasta-gold-fifa-75-ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 12x Signal Tandenbleek Tandpasta Gold | FIFA | 75 ml

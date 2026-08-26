@@ -1,12 +1,12 @@
-_id: 6a858541542eda437452cc7f
+_id: 6a8da00f9dcddf4807cb4e29
 appOnly: false
 brand: Maggi
 brands:
   - id: fb7005fe-4229-5589-92b9-7da6b4952b7d
     name: Maggi
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391150'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402087'
 classicProductId: '721132'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 48
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: babd4c52-1a59-4eca-9d6f-2af968af32e5
+id: 65a02f7c-3e90-423e-83c0-6382be4567d2
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: maggi-01-png-product-1
   type: product
-offerId: 2e46034a-fe80-4a0d-ad8d-31257e0c09b3
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f864326f-cc1e-4ed2-8963-f51dc6d6992e
+  priority: 0
+  slug: maggi-logo-0
+  type: logo
+offerId: 375bc824-1e53-4fb1-81f0-4df26bd78382
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 28.68
 slug: 12x-maggi-romige-kaassaus-250-ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 12x Maggi Romige Kaassaus | 250 ml

@@ -1,22 +1,22 @@
-_id: 6a845daa475a5851d6d294f1
+_id: 6a8d3dcc8d96c8dccc63b6f1
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3387749'
-classicProductId: '628937'
+  - 70c7fd28-36b4-5375-88c6-7452c47190d8
+classicId: '3394789'
+classicProductId: '628935'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 77
-end: '2026-08-25T21:59:59.999Z'
+discount: 57
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 3c8138d4-211b-4d8a-b1a9-918f7da10bd2
+id: 1a141265-6e1a-4469-a564-89f670c34227
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: e7b7f28a-27b9-4c0c-9cf5-71e87e9e3c75
+  id: 76278adf-ee0f-4cc1-88ff-fc996c540a30
   priority: 0
-  slug: stoel3-png-product-1
+  slug: stoel1-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: dutchbone-logo
   type: logo
-offerId: 1f166c1d-7221-4b6e-a52b-ff247016038b
+offerId: 7b13fc9d-db96-447d-b5c8-f587f4c858d4
 price:
-  cents: 7495
+  cents: 13900
   currency: EUR
-  value: 74.95
+  value: 139
 referencePrice:
   cents: 32000
   currency: EUR
   value: 320
 slug: 2x-dutchbone-oliver-barkruk
-soldOut: true
-start: '2026-08-18T22:00:00.000Z'
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Dutchbone Oliver Barkruk

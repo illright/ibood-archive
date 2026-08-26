@@ -1,43 +1,55 @@
-_id: 6a845dad78d0301a4cf4c5ae
+_id: 6a5f521f64e0c602f87d1bf1
 appOnly: false
 brand: Nordure
 brands:
   - id: e7fca1e9-f1a7-5bb5-b6e1-fdf36d055482
     name: Nordure
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3387541'
+  - 80ce6b4b-be4d-58a8-99b2-6a4ea5fc80c9
+classicId: '3350659'
 classicProductId: '613793'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 75
-end: '2026-08-25T21:59:59.999Z'
+discount: 67
+end: '2026-08-31T21:59:59.999Z'
 freeDelivery: false
-id: c6d55a12-4473-430f-bdfc-33ae22699a6e
+id: e9510ced-f75a-50c0-87fe-bbeb65549bdd
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - app
+    - website
   extension: image/png
-  id: 9e35acf2-c511-4cfa-91cd-c5b81dba8091
+  id: fce2b581-4ee7-4f0e-b7ee-3479e76f379c-tr
   priority: 0
-  slug: kalune-30-png-product-1
+  slug: kalune-design-orion-koffietafelset-green-sand-2-png-product-2
   type: product
-offerId: 22130e2a-490d-49d4-a652-7c8095c20522
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1858300
+  priority: 100
+  slug: kalune-logo
+  type: logo
+offerId: 1978dc29-b832-5c74-a9d4-a641e4774208
 price:
-  cents: 5995
+  cents: 7995
   currency: EUR
-  value: 59.95
+  value: 79.95
 referencePrice:
   cents: 23995
   currency: EUR
   value: 239.95
 slug: kalune-design-orion-koffietafelset-green-sand
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Kalune Design Orion Koffietafelset | Ash Green / Sand Stone

@@ -1,12 +1,12 @@
-_id: 6a7c298e4efabc36f5acc17c
+_id: 6a8d6afea6316911d92667af
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 9e0b2e89-d449-4bb0-bf42-3d944c60d64f
-classicId: '3381468'
+  - e0b8e11f-3b71-4cb5-b94d-053a10aa9295
+classicId: '3397904'
 classicProductId: '725254'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 78
-end: '2026-08-26T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 76a8682e-b368-592c-83eb-c1d283b62638
+id: 7af2b058-3132-4f8c-b9b9-c4c8042be261
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: lime-55-cm-slim-4-double-wheels-cabin-trolley-case-b0376580313-delsey-color-block-product-0
   type: product
-offerId: d34679dd-a39a-5bfd-b4ed-cbacf9e4dbda
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
+  type: logo
+offerId: 03e83e1a-8237-4e52-8640-c11557a46232
 price:
   cents: 3495
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 159
 slug: delsey-color-block-slim-kabinentrolley-55-cm
 soldOut: true
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Delsey Color Block Slim handbagagekoffer | 55 cm

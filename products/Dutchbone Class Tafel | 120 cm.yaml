@@ -1,31 +1,34 @@
-_id: 6a845c8b3e813291ae1ff1eb
+_id: 6a8d3e378d96c8dccc63b877
 appOnly: false
 brand: Dutchbone
 brands:
   - id: c5301137-06eb-5bc0-9d00-6d95ace22fa6
     name: Dutchbone
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3386959'
-classicProductId: '550536'
+  - 70c7fd28-36b4-5375-88c6-7452c47190d8
+classicId: '3394904'
+classicProductId: '637337'
 deliveryPrice:
   cents: 2995
   currency: EUR
   value: 29.95
 directCheckout: true
 discount: 61
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 86f663e2-772e-41f7-8659-bd5efe84bf50
+id: d059409f-8e8f-4d02-b155-5055625bdef9
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 2241389
+    - all
+    - app
+    - website
+  extension: image/png
+  id: 61c407d1-f652-4afa-9fad-5f12dc60b429-tr
   priority: 0
-  slug: dutchbone-class-tafel-120-cm
+  slug: dutchbone-class-tafel-120-cm-1-jpg-product-2
   type: product
 logo:
   channels:
@@ -37,7 +40,7 @@ logo:
   priority: 100
   slug: dutchbone-logo
   type: logo
-offerId: 6e7aea01-f10a-4bfd-a5ba-2dc521584e35
+offerId: 42facbbb-e883-4951-a16c-0324ed06584b
 price:
   cents: 34900
   currency: EUR
@@ -48,9 +51,5 @@ referencePrice:
   value: 899
 slug: dutchbone-class-tafel-120-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
-title: Dutchbone Class Tafel | 120 cm
-
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Dutchbone Class Tafel | 120 cm

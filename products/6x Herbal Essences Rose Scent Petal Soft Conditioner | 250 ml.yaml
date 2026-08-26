@@ -1,12 +1,12 @@
-_id: 6a8584c1e9b529d37dc9b351
+_id: 6a8d9e3e1770343181a4b291
 appOnly: false
 brand: Herbal Essences
 brands:
   - id: 6201cc15-0b4e-5e65-89f0-43e2f486ffe7
     name: Herbal Essences
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391001'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401618'
 classicProductId: '718079'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 63
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 6cb9b3e5-00e4-460b-82f8-748e5d1a16ba
+id: 7f87a2bb-d8dd-44d7-a661-3fcb39e63c6f
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: herbal-essences-02-png-product-1
   type: product
-offerId: 4343b30f-e1de-4328-9e72-62851a7ccf48
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2a175e2a-b2d2-488b-8aa7-cc0d9d36cb0d
+  priority: 0
+  slug: herbal-essences-logo-0
+  type: logo
+offerId: bb9c45c3-9c36-451c-a6b0-4876f3982fb2
 price:
   cents: 995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 26.94
 slug: 6x-herbal-essences-rose-scent-petal-soft-conditioner-250-ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Herbal Essences Rose Scent Petal Soft Conditioner | 250 ml

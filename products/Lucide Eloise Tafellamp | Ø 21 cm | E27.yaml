@@ -1,12 +1,12 @@
-_id: 6a845e5eb236413c3c71f79a
+_id: 6a8d3f5d8d96c8dccc63baaf
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3388565'
+  - e832f4ab-5454-594a-b832-c3399cfe4df6
+classicId: '3395298'
 classicProductId: '720019'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 55
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 76e019ed-3e74-4377-8033-27950de74282
+id: 1dbb9ee3-e6e1-412f-aaca-f1f51b00b7cc
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 826e9fe1-951d-4e3b-b078-30562435d59e
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1680420
+  priority: 100
+  slug: lucide-logo
   type: logo
-offerId: 40478105-fb19-4c9d-b604-ae86d3e1245d
+offerId: a5388efe-6720-48a0-b42f-9181c918c4f5
 price:
   cents: 3295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 72.95
 slug: lucide-eloise-tafellamp-21-cm-e27
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Lucide Eloise Tafellamp | Ø 21 cm | E27

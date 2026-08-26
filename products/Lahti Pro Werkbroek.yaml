@@ -1,12 +1,12 @@
-_id: 6a842bd3f05864ce273829cf
+_id: 6a8d618a8d96c8dccc63c7f6
 appOnly: false
 brand: Lahti Pro
 brands:
   - id: bd8cd8ab-41bb-5d1b-b2d3-59c8cd8eb1da
     name: Lahti Pro
 categories:
-  - ecb1bd3b-2130-5904-9ece-898a73e3a19e
-classicId: '3384957'
+  - 8791771d-e6b2-54b9-af83-fc20405aa946
+classicId: '3397087'
 classicProductId: '493517'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 025cbae0-d028-42ed-a91c-0b555f9303e0
+id: 1da537de-2d1f-4558-8652-d17ea9eb98e9
 image:
   channels:
     - website
@@ -37,7 +37,7 @@ logo:
   priority: 100
   slug: lahti-pro-logo
   type: logo
-offerId: d0cecd67-0d7a-4a5b-90fa-ecb2c816afea
+offerId: 90b895ea-7ffe-4577-b067-71f31efca678
 price:
   cents: 3495
   currency: EUR
@@ -47,6 +47,6 @@ referencePrice:
   currency: EUR
   value: 59.9
 slug: lahti-pro-werkbroek
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+soldOut: true
+start: '2026-08-25T22:00:00.000Z'
 title: Lahti Pro Werkbroek

@@ -1,22 +1,22 @@
-_id: 6a79e450638a9928226e33e5
+_id: 6a8d3e208d96c8dccc63b818
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 5bb1f471-e4fc-44d3-9616-309dcf846bae
-classicId: '3376162'
+  - 70c7fd28-36b4-5375-88c6-7452c47190d8
+classicId: '3394880'
 classicProductId: '725130'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 50
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: true
+discount: 43
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 5639a59e-eb78-50a4-9c80-aa7c3d27bfe8
+id: b3cc5523-7853-4175-8e19-b3004ff72771
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: b00099f0-f2b1-4ca0-ba21-897a9ff74208
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: 9a4c8f92-e983-55f0-9de9-4d2faf580c2a
+offerId: b47cdb29-5611-4b32-a1d8-80e7f8e652c9
 price:
-  cents: 1495
+  cents: 1695
   currency: EUR
-  value: 14.95
+  value: 16.95
 referencePrice:
   cents: 2990
   currency: EUR
   value: 29.9
 slug: 2x-hartman-zitkussen-cuba-cassis-40-x-40-x-1-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Hartman Zitkussen | Cuba Cassis | 40 x 40 x 1 cm

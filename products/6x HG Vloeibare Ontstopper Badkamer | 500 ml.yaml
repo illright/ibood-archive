@@ -1,12 +1,12 @@
-_id: 6a85842414bd40e5cf75d157
+_id: 6a8d9e461770343181a4b299
 appOnly: false
 brand: HG cleaning
 brands:
   - id: 0126964a-824a-536a-a190-e18a87eb8393
     name: HG cleaning
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390817'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401628'
 classicProductId: '720165'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 42
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: e92a9ed9-e698-44f8-8e8d-2a0b28a0ea68
+id: b8947eb6-e455-451b-b6f9-17d91d3bced3
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: hg-01-png-product-1
   type: product
-offerId: b1de8d4d-48ae-48cb-9f31-fd4c53e91791
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 9bb9955e-feee-4a17-94bf-7441b54f8ea6
+  priority: 0
+  slug: hg-cleaning-logo-0
+  type: logo
+offerId: 5421181d-4c43-4957-bb7d-b7b4a9e8a15b
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 31.14
 slug: 6x-hg-vloeibare-ontstopper-500-ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x HG Vloeibare Ontstopper Badkamer | 500 ml

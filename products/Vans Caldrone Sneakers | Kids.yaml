@@ -1,22 +1,22 @@
-_id: 6a87058298bad24499bdcb34
+_id: 6a8d6c8ba160f3f7174d079f
 appOnly: false
 brand: Vans
 brands:
   - id: c912b69b-8406-530f-8406-0343cb99f9f0
     name: Vans
 categories:
-  - 976307d5-9705-41ce-94c8-99b8ba344cad
-classicId: '3393006'
-classicProductId: '692393'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3399004'
+classicProductId: '692524'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 33
-end: '2026-08-25T21:59:59.999Z'
+discount: 35
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 07e594e4-d729-451e-9e55-20c14bb477e9
+id: 4900cb23-4910-41ea-96d9-9a7773dbc26c
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 236d4188-b363-4c87-9208-4b5a0f739f17-tr
+  id: 8020df71-305b-4876-8df9-a2e439662afb
   priority: 0
-  slug: 37-mushroom-vnh2b-vn000dbyh2b1-caldrone-suede-mesh-mushroom-junior-vans-product-0
+  slug: vans-03-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: vans-logo
   type: logo
-offerId: b7347f2e-a156-4860-8f8b-10b9aef9b364
+offerId: 225aa961-e995-44be-93fe-f41769d40440
 price:
-  cents: 3995
+  cents: 3900
   currency: EUR
-  value: 39.95
+  value: 39
 referencePrice:
   cents: 6000
   currency: EUR
   value: 60
 slug: vans-caldrone-sneakers-kids
-soldOut: true
-start: '2026-08-19T22:00:00.000Z'
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: Vans Caldrone Sneakers | Kids

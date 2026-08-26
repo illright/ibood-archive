@@ -1,12 +1,12 @@
-_id: 6a8706e76f327fc43fd916db
+_id: 6a8d7821d5f60f2a34cf8a23
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
-classicId: '3393430'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400239'
 classicProductId: '718532'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: false
 discount: 40
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 58e889ce-82ee-4f52-a8cf-674c58e87087
+id: e23a25f1-20ce-4d32-9bdb-6b8e6dca4e35
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 66134623-bd90-4e92-b4b0-af4919aaa940
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 6cb3f26f-bd99-46e5-8f3f-eca7e4afdcb0
+offerId: 1dbb6186-ed9d-4643-bd12-d0fa1ded9775
 price:
   cents: 895
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 14.99
 slug: jack-jones-jwhyuki-t-shirt-sky-captain
 soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Yuki Front T-shirt | Heren

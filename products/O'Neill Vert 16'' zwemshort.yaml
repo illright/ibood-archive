@@ -1,22 +1,22 @@
-_id: 6a86feb898bad24499bdc38a
+_id: 6a8d6b00a6316911d92667c8
 appOnly: false
 brand: O'Neill
 brands:
   - id: 049051e7-5526-5d87-9618-f14926cb19ea
     name: O'Neill
 categories:
-  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
-classicId: '3392265'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3397914'
 classicProductId: '721547'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 40
-end: '2026-08-25T21:59:59.999Z'
+discount: 42
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 65a06492-d046-4859-8271-36d4d5a8b830
+id: c441c537-d7dc-4eb4-af69-cd70b467397d
 image:
   channels:
     - app
@@ -30,25 +30,24 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 6236c350-fbb2-4b2a-bbc5-87a5b60b6a3b
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1530111
+  priority: 100
+  slug: oneill-logo
   type: logo
-offerId: f622b135-9119-4cca-8e1c-3cffbeac1324
+offerId: 024c811f-9f0b-4ac2-b00c-f3d755a870bd
 price:
-  cents: 2400
+  cents: 2300
   currency: EUR
-  value: 24
+  value: 23
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: oneill-vert-16-zwemshort
 soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: O'Neill Vert 16'' zwemshort

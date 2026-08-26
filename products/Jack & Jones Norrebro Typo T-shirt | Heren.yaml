@@ -1,45 +1,44 @@
-_id: 6a44d9ffaf223d4fe1ef3567
+_id: 6a8d775ca160f3f7174d0865
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310552'
-classicProductId: '718319'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400196'
+classicProductId: '718324'
 deliveryPrice:
   cents: 395
   currency: EUR
   value: 3.95
 directCheckout: false
 discount: 35
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 3d260c79-219c-5c8e-a506-090c6f83f2ce
+id: 1c5c7887-bd43-44f6-b0e3-d3383516504c
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/png
-  id: 8a223eab-0277-4edd-8a33-d673a333d8db
+  extension: image/jpeg
+  id: 75f2e8c2-26b0-4b29-a2e1-2274ec3dc647
   priority: 0
-  slug: l-bright-white-12297323-jwhnorrebro-typo-tee-ss-crew-neck-noos-jack-jones-originals-product-0
+  slug: l-tibetan-red-12297323-jwhnorrebro-typo-tee-ss-crew-neck-noos-jack-jones-originals-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 9b5d5925-715c-4612-997a-b8ca0588b8e5
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: fbd4aac7-7558-56c8-865a-9d89c4f6abc3
+offerId: 1342309b-f832-427b-93fa-d6d528397f24
 price:
   cents: 1295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 19.99
 slug: jack-jones-jwhnorrebro-t-shirt-tibetan-red
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Norrebro Typo T-shirt | Heren

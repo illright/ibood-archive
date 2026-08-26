@@ -1,22 +1,22 @@
-_id: 6a86fe8b98bad24499bdc2c7
+_id: 6a8d6abfa6316911d9266622
 appOnly: false
 brand: Lacoste
 brands:
   - id: 49bc3d62-c568-5edf-bb78-6bf82b39638f
     name: Lacoste
 categories:
-  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
-classicId: '3392199'
-classicProductId: '703122'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3397727'
+classicProductId: '703147'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 72
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: false
+discount: 46
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 5157c48c-e874-49bd-b81a-8939ae7dd6dc
+id: aca090b4-b17f-42a7-bd52-a4061cea88f8
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 1c7e1234-50de-49ea-9186-6b5b891091c7
+  id: 7df699ef-a557-4ab8-a99f-828011c53c82
   priority: 0
-  slug: lacoste-33-png-product-1
+  slug: lacoste-57-png-product-1
   type: product
 logo:
   channels:
@@ -38,19 +38,16 @@ logo:
   priority: 100
   slug: lacoste-logo
   type: logo
-offerId: d8159c02-0d52-4147-8f91-9a91ce84b4ee
+offerId: f5e42049-049b-4043-a41a-3169686fb020
 price:
-  cents: 3900
+  cents: 5700
   currency: EUR
-  value: 39
+  value: 57
 referencePrice:
-  cents: 14000
+  cents: 10500
   currency: EUR
-  value: 140
-slug: lacoste-woven-overhemd-heren
-soldOut: true
-start: '2026-08-19T22:00:00.000Z'
+  value: 105
+slug: lacoste-kortemouw-overhemd-heren
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: Lacoste Woven Overhemd | Heren
-en
-en
-en

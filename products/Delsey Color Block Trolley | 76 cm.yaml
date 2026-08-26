@@ -1,12 +1,12 @@
-_id: 6a7c298e425c73a34d7b5a0b
+_id: 6a8d6b00a6316911d92667c9
 appOnly: false
 brand: Delsey
 brands:
   - id: 525343d2-a6ee-5766-b94a-9cde3e7b743e
     name: Delsey
 categories:
-  - 9e0b2e89-d449-4bb0-bf42-3d944c60d64f
-classicId: '3381466'
+  - e0b8e11f-3b71-4cb5-b94d-053a10aa9295
+classicId: '3397917'
 classicProductId: '725256'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 62
-end: '2026-08-26T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 83fd29bf-c6b1-5025-a13f-b47340e16c83
+id: 50a0bbbd-c972-4678-9fae-8d9e8004ce2e
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 76d9666d-4023-486e-89ff-0776696c1e39
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1612713
+  priority: 100
+  slug: delsey-logo
   type: logo
-offerId: 906ebaac-d431-539b-a0f1-0c91b0191db3
+offerId: 4cfa31c2-5bec-4aea-acb6-043bc6186946
 price:
   cents: 6495
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 169
 slug: delsey-color-block-trolley-76-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Delsey Color Block Trolley | 76 cm
+e: Delsey Color Block Trolley | 76 cm

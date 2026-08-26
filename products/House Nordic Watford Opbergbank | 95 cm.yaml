@@ -1,31 +1,32 @@
-_id: 6a845c18b236413c3c71f320
+_id: 6a8d3ee2221cb448db6a34fc
 appOnly: false
 brand: House Nordic
 brands:
   - id: 3c23d8ae-c7a9-5fde-a539-f4ffabc8094f
     name: House Nordic
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3386402'
-classicProductId: '570589'
+  - 70c7fd28-36b4-5375-88c6-7452c47190d8
+classicId: '3395085'
+classicProductId: '686819'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
 directCheckout: true
-discount: 50
-end: '2026-08-25T21:59:59.999Z'
+discount: 54
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 39ed6507-89e1-459b-82f4-c25aaec7d2db
+id: 6308cfab-f06c-40cc-9dc8-65e26e939cb4
 image:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: jpg
-  id: 1942483
+    - all
+  extension: image/png
+  id: 795cae02-26bf-464f-b875-ac06b0beb58d
   priority: 0
-  slug: house-nordic-watford-sitzbank
+  slug: house-nordic-98-png-product-1
   type: product
 logo:
   channels:
@@ -37,17 +38,17 @@ logo:
   priority: 100
   slug: house-nordic-logo
   type: logo
-offerId: 33bac5f4-a4bf-4270-8909-629e9040dcac
+offerId: 993990a4-f767-4aa3-8ebd-ca09627d7c3a
 price:
-  cents: 6495
+  cents: 5995
   currency: EUR
-  value: 64.95
+  value: 59.95
 referencePrice:
   cents: 12995
   currency: EUR
   value: 129.95
 slug: house-nordic-watford-opbergbank-95-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: House Nordic Watford Opbergbank | 95 cm
-itle: House Nordic Watford Opbergbank | 95 cm
+

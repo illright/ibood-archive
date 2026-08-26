@@ -1,22 +1,22 @@
-_id: 6a858483542eda437452cb21
+_id: 6a8da18c9dcddf4807cb4eb8
 appOnly: false
 brand: Roxasect
 brands:
   - id: cf4bde13-1e3b-5162-96d8-4ce96fc1560b
     name: Roxasect
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390932'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402507'
 classicProductId: '715686'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 56
-end: '2026-08-25T21:59:59.999Z'
+discount: 65
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 862b935f-cc65-4491-ad0a-8f787f1d8a20
+id: ec46c4bd-9869-4b14-a445-756ab0691018
 image:
   channels:
     - app
@@ -28,16 +28,27 @@ image:
   priority: 0
   slug: roxasect-05-png-product-1
   type: product
-offerId: 95270aab-0176-490e-b325-781a4d647466
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: d37512b2-e010-47ee-b5af-21d4b52b64ad
+  priority: 0
+  slug: roxasect-logo-0
+  type: logo
+offerId: df7a475e-3b29-4528-9922-1834ca8c3837
 price:
-  cents: 995
+  cents: 795
   currency: EUR
-  value: 9.95
+  value: 7.95
 referencePrice:
   cents: 2258
   currency: EUR
   value: 22.58
 slug: 2x-roxasect-muggenstekker
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Roxasect Muggenstekker

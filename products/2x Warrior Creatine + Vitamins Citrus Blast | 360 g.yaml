@@ -1,12 +1,12 @@
-_id: 6a8584ebe9b529d37dc9b3f7
+_id: 6a8da20c467f6c387d9c3480
 appOnly: false
 brand: Warrior
 brands:
   - id: 5d157b17-8fd5-590e-907f-796c4decca2f
     name: Warrior
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391055'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402709'
 classicProductId: '718848'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 33
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: eb8cf200-b3e6-4ac0-a62f-ba5577921587
+id: c9e48bb7-ae2c-4f53-bd67-78b92508f7ce
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: warrior-06-png-product-1
   type: product
-offerId: 00231413-a35e-469b-9861-bd241d9e0198
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8b302dbe-0318-4518-be7e-5131a44c0c6c
+  priority: 0
+  slug: warrior-logo-0
+  type: logo
+offerId: 60cb91a1-bcaf-4c6d-acba-1f55052644c8
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 44.55
 slug: 2x-warrior-creatine-vitamins-citrus-blast-360-g
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Warrior Creatine + Vitamins Citrus Blast | 360 g

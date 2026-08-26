@@ -1,22 +1,22 @@
-_id: 6a8704676f327fc43fd910f7
+_id: 6a8d6afe8d96c8dccc63cfa9
 appOnly: false
 brand: NZA
 brands:
   - id: af9c3dc4-d31b-56fb-b5c3-1cd10c2de9dd
     name: NZA
 categories:
-  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
-classicId: '3392700'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3397901'
 classicProductId: '707529'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 67
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: true
+discount: 59
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: b79b84cb-45bc-48fb-a38e-1d3824adf726
+id: 1c622cc0-f3b5-4468-baf1-cdb496de4d4b
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: nza-logo
   type: logo
-offerId: 3dbaadea-38fa-4cdf-a3fc-0d3b1fe72e64
+offerId: 04e72c3e-d0c4-4e0c-9ffb-adda7d6c5042
 price:
-  cents: 2995
+  cents: 3700
   currency: EUR
-  value: 29.95
+  value: 37
 referencePrice:
   cents: 8999
   currency: EUR
   value: 89.99
 slug: nza-pullover-katoen-26ds305
-soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+soldOut: true
+start: '2026-08-25T22:00:00.000Z'
 title: NZA Pullover Katoen | 26DS305

@@ -1,12 +1,12 @@
-_id: 6a85846f542eda437452cae7
+_id: 6a8da1d1467f6c387d9c3454
 appOnly: false
 brand: Steradent
 brands:
   - id: a9af8fcb-40f7-5aee-85de-b6aac954d876
     name: Steradent
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390910'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402603'
 classicProductId: '721902'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 49
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 1e88655c-73ed-49c2-9e75-36d7d6440d91
+id: 4833dfc8-36d1-4263-b20a-7e37a763f03c
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: steradent-01-png-product-1
   type: product
-offerId: 2ee38865-4583-40ba-9e10-a19c862b3165
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 86c9e08a-c64c-40f7-91ae-d725dcfcb380
+  priority: 0
+  slug: steradent-logo-0
+  type: logo
+offerId: 68e3717b-dec7-46c4-937b-83ccf619e118
 price:
   cents: 1195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 23.25
 slug: 270x-steradent-triple-action-plus-kunstgebit-reiniger-tablet
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 270x Steradent Triple Action Plus Kunstgebit Reiniger Tablet

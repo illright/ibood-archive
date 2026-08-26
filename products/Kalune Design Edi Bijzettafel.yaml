@@ -1,12 +1,12 @@
-_id: 6a845e100cd213e3e93f7144
+_id: 6a5f525c9c4ba49918eb6ad4
 appOnly: false
 brand: Nordure
 brands:
   - id: e7fca1e9-f1a7-5bb5-b6e1-fdf36d055482
     name: Nordure
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3388005'
+  - 80ce6b4b-be4d-58a8-99b2-6a4ea5fc80c9
+classicId: '3350727'
 classicProductId: '520145'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 74
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-08-31T21:59:59.999Z'
 freeDelivery: false
-id: f59c6070-a2b7-4e93-9143-5b0802f1975f
+id: b6ee65e1-5d65-58a6-8392-c0d1995fdb81
 image:
   channels:
     - website
@@ -27,7 +27,17 @@ image:
   priority: 0
   slug: kalune-design-edi-bijzettafel
   type: product
-offerId: c879d320-39ef-40fb-b3e0-7118ac9e2906
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1858300
+  priority: 100
+  slug: kalune-logo
+  type: logo
+offerId: 598efd46-30cd-5599-81d7-4af16b667a1e
 price:
   cents: 3495
   currency: EUR
@@ -38,5 +48,5 @@ referencePrice:
   value: 134.99
 slug: kalune-design-edi-bijzettafel
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Kalune Design Edi Bijzettafel

@@ -1,22 +1,22 @@
-_id: 6a8705a798bad24499bdcbb1
+_id: 6a8d6a72a6316911d926650f
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
-classicId: '3393060'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3397608'
 classicProductId: '679728'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 63
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: true
+discount: 65
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: bd06d601-5bb7-4f59-af81-4abba27a1ea2
+id: ada8bfad-6f42-4cbc-b268-206abcf305dc
 image:
   channels:
     - app
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: 3b3820d6-50ec-49a3-8322-62796079ca9a
+offerId: 00253a43-ae31-47e8-9b37-4852e73e24dc
 price:
-  cents: 1495
+  cents: 1400
   currency: EUR
-  value: 14.95
+  value: 14
 referencePrice:
   cents: 3999
   currency: EUR
   value: 39.99
 slug: jack-jones-coba-stripe-resort-shirt-fields-of-rye
 soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Coba Stripe Resort Shirt | Heren | Fields Of Rye

@@ -1,12 +1,12 @@
-_id: 6a8584ade9b529d37dc9b331
+_id: 6a8d9dc596325d941e632e20
 appOnly: false
 brand: Felix
 brands:
   - id: e9fd6e27-b6bf-54f8-b7d8-f8c5402fe76a
     name: Felix
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390978'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401456'
 classicProductId: '723710'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 067e7b9e-f632-4762-bfe6-7da7176a7116
+id: 48e8f4d2-732e-4115-9753-58938c0ffb4a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: product-1
   type: product
-offerId: 71b38807-e8e7-491e-8f1d-881d472a1404
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: efccc45f-6910-4a8a-a4ff-23b51062ba74
+  priority: 0
+  slug: felix-logo-0
+  type: logo
+offerId: e61a7780-d61f-44fa-9403-bf89922105f4
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 29.75
 slug: 5x-felix-senior-sensations-droog-kattenvoer-1-kg
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 5x Felix Senior Sensations Droog Kattenvoer | 1 kg

@@ -1,12 +1,12 @@
-_id: 6a79e44cab3297fac3c0235b
+_id: 6a8d3e68e359568fe50f0c61
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 5bb1f471-e4fc-44d3-9616-309dcf846bae
-classicId: '3376139'
+  - 70c7fd28-36b4-5375-88c6-7452c47190d8
+classicId: '3394957'
 classicProductId: '724926'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 63
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: e4939a98-72b6-5ff1-8ec0-90cf7aaa9ed4
+id: 0b485952-9ae3-4286-bb63-5ba8b7024355
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0376de86-b4e4-4192-8776-5e3ba1ea1e69
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: d1fb28b4-715f-52df-b290-93d0b5abd427
+offerId: f0e61347-a4f3-4cf9-89d7-15f5a793a3ca
 price:
   cents: 2995
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.95
 slug: hartman-jolie-plaid-geel-oranje-wit-130-x-170-x-0-5-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Hartman Jolie Plaid | 130 x 170 x 0,5 cm

@@ -1,32 +1,32 @@
-_id: 6a844a1bcc3f1adafa874cbc
+_id: 6a8d4c673b9cd3119426793d
 appOnly: false
 brand: LED's Light
 brands:
   - id: 5c86dcfb-7e8e-5bfb-b35e-3bc7870052d9
     name: LED's Light
 categories:
-  - fe93efa5-77c5-5976-a103-86e78810d0f0
-classicId: '3385239'
-classicProductId: '647039'
+  - a257126b-a024-59cc-ba2d-be917d7d17cb
+classicId: '3395745'
+classicProductId: '647040'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 49
-end: '2026-08-25T21:59:59.999Z'
+discount: 35
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 7b46cef4-a336-47c6-915a-91f1311f3df5
+id: 66296e0d-c1a2-40b2-9bac-6cd271e16bfe
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: 3850c32a-60af-4673-aa98-7cec4eeac455
+  extension: image/png
+  id: fa0b8d3e-0d1a-4cb1-a3bc-8a9c1c7ddfb4-tr
   priority: 0
-  slug: 1000586-leds-light-wandarmatuur-2xg9-anthracite-product-2
+  slug: ll01-png-product-1
   type: product
 logo:
   channels:
@@ -39,16 +39,16 @@ logo:
   priority: 101
   slug: led-s-light-logo-101
   type: logo
-offerId: 2fd37cbb-79f3-46c4-a7bc-9c97b76a67e9
+offerId: 522204bc-99d1-4160-8cbf-860c19a6d07c
 price:
   cents: 1995
   currency: EUR
   value: 19.95
 referencePrice:
-  cents: 3900
+  cents: 3080
   currency: EUR
-  value: 39
+  value: 30.8
 slug: led-s-light-buitenlamp-g9
-soldOut: true
-start: '2026-08-18T22:00:00.000Z'
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: Led's Light Buitenlamp | G9

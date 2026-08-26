@@ -1,12 +1,12 @@
-_id: 6a8419bd0cba0ae1bf0fdb62
+_id: 6a8d96a920b3a33e77b9b196
 appOnly: false
 brand: Travelin'
 brands:
   - id: fbf0c784-ecd9-5264-8978-489b43f185c3
     name: Travelin'
 categories:
-  - 97d1aadc-c582-5387-bd63-011c9878555e
-classicId: '3383862'
+  - 0d45d78e-f1f2-5a45-b739-10509e66443d
+classicId: '3401001'
 classicProductId: '716083'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 56
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: b3cd32e1-184b-4689-a3c2-38b2c694bf1c
+id: b22af38a-a7ba-456c-b897-92219db88310
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: tra-01-png-product-1
   type: product
-offerId: 2dca5fe7-10fe-43a9-ab18-5f38f117bf9c
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 1716957
+  priority: 100
+  slug: travelin-logo
+  type: logo
+offerId: a2c95f8b-b575-4488-adfb-388f5f1549ea
 price:
   cents: 5295
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 119.95
 slug: travelin-amot-sandalen-dames
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Travelin' Amot Sandalen | Dames

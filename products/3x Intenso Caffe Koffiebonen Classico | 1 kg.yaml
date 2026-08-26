@@ -1,22 +1,22 @@
-_id: 6a845541323f7d6e5c31d017
+_id: 6a8d9e5244541b99a0372ce1
 appOnly: false
 brand: Intenso
 brands:
   - id: 052c8f4c-9f97-5964-a6e0-6d4cd6370c53
     name: Intenso
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3385374'
-classicProductId: '718096'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401648'
+classicProductId: '719097'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 55
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: false
+discount: 54
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 51493835-98e2-490d-8529-7039a6598436
+id: c4227941-780e-4092-a23d-d760f4727e0a
 image:
   channels:
     - newsletter
@@ -24,9 +24,9 @@ image:
     - app
     - website
   extension: image/png
-  id: bffed1c3-7f0b-434f-809a-b51cfbfe9d7b
-  priority: 1
-  slug: intenso-03-png-product-1
+  id: 082144fe-11e1-412f-b8b6-6dd755735406
+  priority: 0
+  slug: intenso-05-png-product-1
   type: product
 logo:
   channels:
@@ -34,20 +34,20 @@ logo:
     - app
     - newsletter
   extension: png
-  id: 1619032
+  id: 1718265
   priority: 100
-  slug: intenso-logo
+  slug: dummy
   type: logo
-offerId: f4a0e347-c061-495e-93b5-d2abb7ccbeca
+offerId: 07b8b534-e707-430b-97f9-002ba11acd6c
 price:
   cents: 3995
   currency: EUR
   value: 39.95
 referencePrice:
-  cents: 8970
+  cents: 8670
   currency: EUR
-  value: 89.7
+  value: 86.7
 slug: 3x-intenso-caffe-koffiebonen-classico-1-kg
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 3x Intenso Caffe Koffiebonen Classico | 1 kg

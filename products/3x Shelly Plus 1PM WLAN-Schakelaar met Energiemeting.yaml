@@ -1,12 +1,12 @@
-_id: 6a856760d5764b8e9f6bc565
+_id: 6a8d5ecca160f3f7174d05bb
 appOnly: false
 brand: Shelly
 brands:
   - id: 6bceb4f9-fed7-5b13-80ac-3dc3c29850f1
     name: Shelly
 categories:
-  - 3cb85e22-ef2a-5e3b-a93f-88afd101362c
-classicId: '3390461'
+  - 46b15600-2aca-47a4-bd2c-999a668c4969
+classicId: '3396612'
 classicProductId: '708948'
 deliveryPrice:
   cents: 395
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 3.95
 directCheckout: true
 discount: 45
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-02T21:59:59.999Z'
 freeDelivery: false
-id: 770e2e3f-0a0b-48fe-82c9-727b5e1c1746
+id: aa03adec-394a-4af8-b8b8-aa6cf1b1eab3
 image:
   channels:
     - app
@@ -39,7 +39,7 @@ logo:
   priority: 0
   slug: shelly-logo-0
   type: logo
-offerId: 53547626-f66e-4ff1-887c-938a4cb986dc
+offerId: 16863aa0-31d5-44f5-9452-e87c13f23efd
 price:
   cents: 2795
   currency: EUR
@@ -49,6 +49,6 @@ referencePrice:
   currency: EUR
   value: 50.97
 slug: shelly-plus-1pm-wlan-schakelaar-met-energiemeting
-soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+soldOut: true
+start: '2026-08-25T22:00:00.000Z'
 title: 3x Shelly Plus 1PM WLAN-Schakelaar met Energiemeting

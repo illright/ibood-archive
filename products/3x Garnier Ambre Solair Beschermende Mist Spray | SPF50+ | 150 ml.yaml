@@ -1,53 +1,53 @@
-_id: 6a8455529454bcca6f78fd26
+_id: 6a8d9de296325d941e632e39
 appOnly: false
 brand: Garnier
 brands:
   - id: 1e411a40-14f6-5732-843d-2cadb8635994
     name: Garnier
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3385398'
-classicProductId: '715324'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401492'
+classicProductId: '654998'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 70
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: false
+discount: 76
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: e850cb69-231e-4f43-8727-0286a5597f18
+id: 80d45bc8-5c7b-4415-af27-e7a708efef1e
 image:
-  channels:
-    - newsletter
-    - app
-    - website
-  extension: png
-  id: 2265120
-  priority: 2
-  slug: 3x-garnier-ambre-solair-mist-spray-spf50
-  type: product
-logo:
   channels:
     - app
     - website
     - newsletter
     - all
   extension: image/png
-  id: f5c7f81f-c9a6-40f4-841b-6c77ff9998c9
+  id: 2b8cd03e-0d33-4fa3-bca8-3e69cef8b81b
   priority: 0
-  slug: garnier-logo-0
+  slug: garnier-01-png-product-1
+  type: product
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: png
+  id: 2265104
+  priority: 100
+  slug: 3x-garnier-ambre-solair-mist-spray-spf50
   type: logo
-offerId: ab736949-2177-4ce8-9946-1ad25ea23c6d
+offerId: 1867605f-bbbd-4327-9114-1db6c8796d88
 price:
-  cents: 2495
+  cents: 1995
   currency: EUR
-  value: 24.95
+  value: 19.95
 referencePrice:
   cents: 8247
   currency: EUR
   value: 82.47
 slug: 3x-garnier-ambre-solair-mist-spray-spf50
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 3x Garnier Ambre Solair Beschermende Mist Spray | SPF50+ | 150 ml

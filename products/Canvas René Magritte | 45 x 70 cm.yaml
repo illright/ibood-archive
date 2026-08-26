@@ -1,12 +1,12 @@
-_id: 6a845ee368b57d84cad33b10
+_id: 6a5f52899c4ba49918eb6b0c
 appOnly: false
 brand: Nordure
 brands:
   - id: e7fca1e9-f1a7-5bb5-b6e1-fdf36d055482
     name: Nordure
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3389178'
+  - 80ce6b4b-be4d-58a8-99b2-6a4ea5fc80c9
+classicId: '3350772'
 classicProductId: '670987'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 53
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-08-31T21:59:59.999Z'
 freeDelivery: false
-id: d1a6f5d9-202a-4223-b8a2-93cdc5d0bbe7
+id: 1228639d-98ed-5edd-8dca-4b220ab1a472
 image:
   channels:
     - app
@@ -28,7 +28,17 @@ image:
   priority: 0
   slug: wd01-png-product-1
   type: product
-offerId: a2d45bf9-62a8-4431-b5e9-a9e819e58723
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 1791234
+  priority: 100
+  slug: wallity-wall-deco-logo
+  type: logo
+offerId: 3ad7e2f5-8fc7-51d6-a039-9d3c6b2552b5
 price:
   cents: 2195
   currency: EUR
@@ -39,5 +49,5 @@ referencePrice:
   value: 46.95
 slug: wallity-canvas-rene-magritte-45-x-70-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Canvas René Magritte | 45 x 70 cm

@@ -1,12 +1,12 @@
-_id: 6a79e44e638a9928226e33c7
+_id: 6a8d4bbca6316911d9265c44
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 5bb1f471-e4fc-44d3-9616-309dcf846bae
-classicId: '3376154'
+  - a257126b-a024-59cc-ba2d-be917d7d17cb
+classicId: '3395572'
 classicProductId: '725006'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 62
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: e39f1da7-a394-5315-bc7c-dcae661bef2f
+id: c5b28fe5-1776-42cf-bb8b-ea3c4961d514
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 014f030e-bb9f-43a8-b5b9-af75a4294458
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: a40e9865-5260-5177-9e3b-4867fdd718ce
+offerId: cdbaefb6-a522-450e-b69e-6479444e6f10
 price:
   cents: 2295
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 59.9
 slug: 2x-hartman-torino-tuinstoel-kussen-117-x-47-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Hartman Torino Tuinstoelkussen | 117 x 47 cm

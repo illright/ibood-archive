@@ -1,12 +1,12 @@
-_id: 6a8584c3e9b529d37dc9b361
+_id: 6a8da20bc589671b07c1e9bf
 appOnly: false
 brand: Warrior
 brands:
   - id: 5d157b17-8fd5-590e-907f-796c4decca2f
     name: Warrior
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391005'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402705'
 classicProductId: '718868'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 18
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 86329e57-a421-4c76-8176-ab23c3b57687
+id: 1d29da19-4ba4-4a4c-a996-cd054521e97e
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: warrior-04-png-product-1
   type: product
-offerId: 3bdb865c-c7a8-4e7c-b2b5-b0b852985379
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8b302dbe-0318-4518-be7e-5131a44c0c6c
+  priority: 0
+  slug: warrior-logo-0
+  type: logo
+offerId: 9adb09ce-5a75-4b4e-896e-fefd2562bc11
 price:
   cents: 3795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 46.16
 slug: 2x-90-warrior-creatine-monohydrate-blue-raspberry-gummies
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: '2x 90 Warrior Creatine Monohydrate Blue Raspberry Gummies '

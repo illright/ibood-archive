@@ -1,12 +1,12 @@
-_id: 6a8584a29451149831331a73
+_id: 6a8d9eac1770343181a4b301
 appOnly: false
 brand: Lay's
 brands:
   - id: c2dac7c1-a364-5a06-8d6a-13a54dd40d89
     name: Lay's
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390965'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401758'
 classicProductId: '720249'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 74
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 387df647-6092-4181-9508-f3a2ad7904c4
+id: e013674d-207b-497e-932d-c65e98b0b34b
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 18x-lays-chips-pickles-g-175gr-be-product-0
   type: product
-offerId: 6bb71dd7-80d4-4947-8eed-c0197a116647
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: ead95e14-5b4d-4b6a-9961-d58d89da92b3
+  priority: 0
+  slug: lay-s-logo-0
+  type: logo
+offerId: 7c7130cd-b325-4a81-a843-442a26753a88
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 69.99
 slug: 18x-lay-s-pickles-chips-175-g
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 18x Lay's Pickles Chips | 175 g

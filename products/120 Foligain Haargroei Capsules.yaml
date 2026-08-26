@@ -1,12 +1,12 @@
-_id: 6a8585b014bd40e5cf75d292
+_id: 6a8d9de44abd117ea1d36006
 appOnly: false
 brand: Foligain
 brands:
   - id: cd8a85ff-527c-503a-8968-977df8face09
     name: Foligain
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391329'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401484'
 classicProductId: '718755'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 29
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 2e57c80f-187f-4981-821a-5ff82b213d76
+id: 1da134b4-0ef5-457a-ac3e-0cb298dddbcf
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: foligain-hair-stimulating-supplement-120pcs-product-5
   type: product
-offerId: d378ab58-e95e-451e-a6d9-7f3d58b16c6f
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 84ff647f-5294-40a0-bdf9-775a763c4008
+  priority: 0
+  slug: foligain-logo-0
+  type: logo
+offerId: 9506cc0e-f9df-4929-8c12-ea74c21a8684
 price:
   cents: 2895
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 40.95
 slug: 120-foligain-haargroei-capsules
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 120 Foligain Haargroei Capsules

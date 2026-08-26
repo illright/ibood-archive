@@ -1,22 +1,22 @@
-_id: 6a86fee898bad24499bdc45a
+_id: 6a8d6b6f8d96c8dccc63d235
 appOnly: false
 brand: Scotch & Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch & Soda
 categories:
-  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
-classicId: '3392333'
-classicProductId: '686958'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3398235'
+classicProductId: '686962'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 76
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: true
+discount: 77
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: b1298bd2-3118-4bde-b904-e78f829e2cd0
+id: 5c2991b2-207e-40fe-a0a7-a2b927ac8b4f
 image:
   channels:
     - app
@@ -41,16 +41,16 @@ logo:
   priority: 0
   slug: scotch-and-soda-logo-0
   type: logo
-offerId: 43c1ad98-cfa2-4c13-8f08-9678c9c72d6f
+offerId: f264e641-8f7d-412f-b536-81958f8ebd1d
 price:
-  cents: 2200
+  cents: 2100
   currency: EUR
-  value: 22
+  value: 21
 referencePrice:
   cents: 8995
   currency: EUR
   value: 89.95
 slug: scotch-soda-elastic-short-ssp26vmb-22176-dark-obsidian
-soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+soldOut: true
+start: '2026-08-25T22:00:00.000Z'
 title: Scotch & Soda Elastic Short | SSP26VMB-22176 | Dark Obsidian

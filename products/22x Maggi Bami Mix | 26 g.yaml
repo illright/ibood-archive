@@ -1,12 +1,12 @@
-_id: 6a8584cd542eda437452cbb3
+_id: 6a8da00d44541b99a0372e3d
 appOnly: false
 brand: Maggi
 brands:
   - id: fb7005fe-4229-5589-92b9-7da6b4952b7d
     name: Maggi
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391017'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402084'
 classicProductId: '711547'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 1cf5bb14-a552-492e-8a76-5de65e270903
+id: e47e3c4a-2273-4c9d-983c-3053fb0f7448
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: 22x-maggi-mix-bami-26g-product-0
   type: product
-offerId: a4f50045-0941-4b4e-951b-2c6a7faed513
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f864326f-cc1e-4ed2-8963-f51dc6d6992e
+  priority: 0
+  slug: maggi-logo-0
+  type: logo
+offerId: 36b9feef-357a-4604-8300-e45f9b75523f
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 41.58
 slug: 22x-maggi-bami-mix-26-g
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 22x Maggi Bami Mix | 26 g

@@ -1,22 +1,22 @@
-_id: 6a870649b751d5e776b45f95
+_id: 6a8d6c87a6316911d9266b76
 appOnly: false
 brand: Van Harper
 brands:
   - id: 1b26bad7-6550-546d-83fb-180b67bda6f4
     name: Van Harper
 categories:
-  - 74e835b3-66af-4ebb-b206-b7e2c9f0727a
-classicId: '3393218'
-classicProductId: '714237'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3398978'
+classicProductId: '714219'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 86
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: false
+discount: 87
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 041d3d00-3d35-4988-aa80-212a60641326
+id: b8479c0e-582b-4bdc-93fe-534510eaed66
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 71ba50a8-ee7d-40ad-98e3-d0a7d735bed5-tr-cr-cr
+  id: be8884c7-0e5b-438a-b67a-e76ffc065922-cr
   priority: 0
-  slug: m-light-blue-vhr35s111-linen-shirt-ss-van-harper-product-1
+  slug: s-kiwi-vhr35s109-linen-shirt-ls-van-harper-product-0-1-png-product-1
   type: product
 logo:
   channels:
@@ -39,19 +39,16 @@ logo:
   priority: 0
   slug: van-harper-logo-0
   type: logo
-offerId: 3d093dbc-a231-477b-8d53-dda6331b51c6
+offerId: 7ac7f371-f2b4-47e1-b1cb-98fdf56ea664
 price:
-  cents: 1495
+  cents: 1600
   currency: EUR
-  value: 14.95
+  value: 16
 referencePrice:
-  cents: 10995
+  cents: 11995
   currency: EUR
-  value: 109.95
+  value: 119.95
 slug: van-harper-linnen-overhemd-regular-fit
-soldOut: true
-start: '2026-08-19T22:00:00.000Z'
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: Van Harper Linnen Overhemd | Regular Fit
-t
-it
-

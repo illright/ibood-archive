@@ -1,12 +1,12 @@
-_id: 6a845516f42ee31785f249f0
+_id: 6a8da1cc467f6c387d9c3450
 appOnly: false
 brand: Smint
 brands:
   - id: 43508e1b-8e3e-552b-ba16-ce8510dd3257
     name: Smint
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3385314'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402593'
 classicProductId: '364483'
 deliveryPrice:
   cents: 595
@@ -14,30 +14,30 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 38
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 508b7625-7685-4e2c-823e-bab7c6586258
+id: 66d74c9a-23dd-4fc9-9bdc-fa659f2e3997
 image:
   channels:
     - website
     - app
     - newsletter
-  extension: jpg
-  id: 1304359
-  priority: 8
-  slug: 12x-smint-xl-pfefferminzbonbons
+  extension: png
+  id: 1900190
+  priority: 0
+  slug: 12x-smint-xl-pepermunt
   type: product
 logo:
   channels:
     - website
     - app
     - newsletter
-  extension: png
-  id: 1900083
+  extension: jpg
+  id: 1304370
   priority: 100
-  slug: 12x-smint-xl-pfefferminzbonbons
+  slug: smint-logo
   type: logo
-offerId: 3d79a2f5-8d2c-429d-82e5-52d32d4af30f
+offerId: 028737c1-d255-4287-9f40-cf296ed1d060
 price:
   cents: 1995
   currency: EUR
@@ -48,5 +48,5 @@ referencePrice:
   value: 32.28
 slug: 12x-smint-xl-pepermunt
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 12x Smint XL Pepermunt

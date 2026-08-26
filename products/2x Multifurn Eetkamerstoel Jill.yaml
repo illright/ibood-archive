@@ -1,12 +1,12 @@
-_id: 6a845c160cd213e3e93f6e6b
+_id: 6a8d7d0e8d96c8dccc63d5f7
 appOnly: false
 brand: Multifurn
 brands:
   - id: ec4e25d3-670f-5bf7-b356-18e0674e7fd1
     name: Multifurn
 categories:
-  - 2fbd6fa3-b0da-5403-bc34-b1ab2f62eab8
-classicId: '3386526'
+  - c1257b51-426a-48bc-b195-1b4dc93c49cc
+classicId: '3400634'
 classicProductId: '445799'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 75
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: ffad64cd-0d71-44ed-a2a2-50be2bc73781
+id: 6c627e63-baec-48d4-80da-fa80bef2658b
 image:
   channels:
     - app
@@ -38,7 +38,7 @@ logo:
   priority: 100
   slug: multifurn-logo
   type: logo
-offerId: 1753d1b8-a11d-47d1-a625-30f4d95133e1
+offerId: a2fc2909-6696-45c9-9419-40978839949a
 price:
   cents: 9900
   currency: EUR
@@ -48,6 +48,6 @@ referencePrice:
   currency: EUR
   value: 398
 slug: 2x-multifurn-eetkamerstoel-jill
-soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+soldOut: true
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Multifurn Eetkamerstoel Jill

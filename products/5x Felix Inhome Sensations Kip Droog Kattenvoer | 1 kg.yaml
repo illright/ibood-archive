@@ -1,12 +1,12 @@
-_id: 6a8584ae9451149831331a88
+_id: 6a8d9dc796325d941e632e23
 appOnly: false
 brand: Felix
 brands:
   - id: e9fd6e27-b6bf-54f8-b7d8-f8c5402fe76a
     name: Felix
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390979'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401458'
 classicProductId: '723711'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 40
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: e47f8bd0-1810-4b8f-853d-fd41ead0a2a0
+id: 45e513f4-8b60-4325-8e25-93487bba48ee
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: product-1
   type: product
-offerId: b2386c05-0e38-4e02-802c-1019e39745e4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: efccc45f-6910-4a8a-a4ff-23b51062ba74
+  priority: 0
+  slug: felix-logo-0
+  type: logo
+offerId: 33cf62ea-c8ba-4469-91a4-11c859c449cd
 price:
   cents: 1795
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 29.75
 slug: 5x-felix-inhome-sensations-kip-droog-kattenvoer-1-kg
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 5x Felix Inhome Sensations Kip Droog Kattenvoer | 1 kg

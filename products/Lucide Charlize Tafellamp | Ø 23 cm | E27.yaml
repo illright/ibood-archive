@@ -1,12 +1,12 @@
-_id: 6a845e45f18330b3d6590f34
+_id: 6a8d3f59221cb448db6a3719
 appOnly: false
 brand: Lucide
 brands:
   - id: 8c99d713-1cb3-5e38-89ab-44bee76d9e30
     name: Lucide
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3388477'
+  - e832f4ab-5454-594a-b832-c3399cfe4df6
+classicId: '3395299'
 classicProductId: '720029'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 44
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 6852f132-0b97-4df1-9225-b26791441999
+id: 53a647d3-af39-4719-93c8-cf33d8b970f0
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1680420
-  priority: 100
-  slug: lucide-logo
+    - all
+  extension: image/png
+  id: 81dbce96-672a-43e6-b236-828373e287f5
+  priority: 0
+  slug: logo-0
   type: logo
-offerId: 9d6c62d7-228e-4ff9-8f6c-80d91eb87e5a
+offerId: 4e2115e6-f549-463d-9013-8ecb59a11580
 price:
   cents: 6995
   currency: EUR
@@ -49,5 +50,5 @@ referencePrice:
   value: 125.95
 slug: lucide-charlize-tafellamp-23-cm-e27
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Lucide Charlize Tafellamp | Ø 23 cm | E27

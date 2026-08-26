@@ -1,12 +1,12 @@
-_id: 6a733fa0bfd0c5923252eea5
+_id: 6a8d69678d96c8dccc63c970
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - 328c7a7f-370a-4af2-b19c-ae0b15f2ed06
-classicId: '3374118'
+  - 0f4cd025-36d8-4f6e-9f28-bfe4deccd1b0
+classicId: '3397251'
 classicProductId: '724296'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 33
-end: '2026-08-30T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 7739e33b-cd4b-4af3-ba5f-2ce466925d88
+id: 591fa016-77b4-425f-aea9-3b8a4af7e98c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: fc08d205-7de6-49f9-8b0a-f5894c3c9700
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1734464
+  priority: 100
+  slug: clarks-logo
   type: logo
-offerId: 1a45fd7a-aecb-5937-9175-97c7c93786c4
+offerId: 9230fd92-f873-4814-a91d-79bb8030e7d9
 price:
   cents: 7995
   currency: EUR
@@ -50,5 +49,6 @@ referencePrice:
   value: 119.99
 slug: clarks-mullan-moc-beeswax-leer
 soldOut: false
-start: '2026-08-23T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Clarks Mullan Moc Herenschoenen | Beeswax Leer
+llan Moc Herenschoenen | Beeswax Leer

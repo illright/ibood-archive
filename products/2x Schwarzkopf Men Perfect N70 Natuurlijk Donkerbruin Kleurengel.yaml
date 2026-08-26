@@ -1,12 +1,12 @@
-_id: 6a8584cde9b529d37dc9b387
+_id: 6a8da1893eacf23844efbb82
 appOnly: false
 brand: Schwarzkopf
 brands:
   - id: dc0080f1-c403-58a9-b7e7-86e6aa498543
     name: Schwarzkopf
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391018'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402521'
 classicProductId: '718087'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 69
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: a3864ca0-c9e4-4553-b7a7-9906cc42635b
+id: 27062c5c-4a69-460d-841f-8efbc48a742a
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: zwartkop-png-product-1
   type: product
-offerId: 87c98305-18be-4adf-9415-98e0a8ec8ab7
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 32f1a2f8-1776-46c3-86c5-0da9a3f1ca42
+  priority: 0
+  slug: schwarzkopf-logo-0
+  type: logo
+offerId: e74a3870-6197-4729-963d-3dcd84f36ada
 price:
   cents: 995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 31.98
 slug: 2x-schwarzkopf-men-perfect-n70-natuurlijk-donkerbruin-kleurengel
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Schwarzkopf Men Perfect N70 Natuurlijk Donkerbruin Kleurengel

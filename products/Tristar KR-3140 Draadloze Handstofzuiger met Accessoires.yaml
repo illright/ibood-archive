@@ -1,12 +1,12 @@
-_id: 6a842200deaf1ca221137d24
+_id: 6a8d5d3b8d96c8dccc63bf6d
 appOnly: false
 brand: Tristar
 brands:
   - id: 1d95bd9f-900d-55da-ae35-f20d200d8d82
     name: Tristar
 categories:
-  - 9a2bc828-b0da-5b90-8d32-0176dca0fce9
-classicId: '3384014'
+  - c255d028-0960-5083-8aaf-ebb93dd0610e
+classicId: '3395786'
 classicProductId: '724368'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 64
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-02T21:59:59.999Z'
 freeDelivery: false
-id: e2b22ac9-1f64-4962-b51b-99dd81f4486d
+id: d7e093e0-1ce8-4bdd-8c6d-3cf7f8fe9f42
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: kr-3140-tristar-handstofzuiger-inclusief-dockingstation-kierenzuiger-en-borstel-product-0
   type: product
-offerId: bc65659c-d5bc-46c8-88ae-900d235672f4
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: a7e9011a-732a-42de-b419-71983abfee78
+  priority: 0
+  slug: tristar-logo-0
+  type: logo
+offerId: e8df2cac-30b3-4686-8a60-082b8c5ed2b0
 price:
   cents: 1495
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 40.99
 slug: tristar-kr-3140-draadloze-handstofzuiger-met-accessoires
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Tristar KR-3140 Draadloze Handstofzuiger met Accessoires

@@ -1,22 +1,22 @@
-_id: 6a86fed36f327fc43fd90d83
+_id: 6a8d6c31febf86e90295fe1b
 appOnly: false
 brand: Petrol
 brands:
   - id: 60992617-b093-5b8c-a1ba-5d8b4774e954
     name: Petrol
 categories:
-  - 00ccce36-cc3c-40de-837e-0cbd461e4e3f
-classicId: '3392306'
-classicProductId: '694392'
+  - 0d2b005b-5b42-4465-a0c7-3bb188a255b6
+classicId: '3398673'
+classicProductId: '694501'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 72
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: false
+discount: 54
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 72977c62-94fb-425c-88df-39f95e178442
+id: 622c4a96-71c7-48a4-9e3f-80cebeeb18a3
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 4be23088-21a7-4b76-b31f-86ab1477ee84
+  id: c05c84e9-6cd9-4297-a0fe-74727f025c64
   priority: 0
-  slug: broek4-png-product-1
+  slug: main-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: petrol-logo
   type: logo
-offerId: 3c2bbcb6-0b1d-4991-8306-2c48f48415c0
+offerId: c082d89e-e366-4c9b-800e-c752c9cb7ea7
 price:
-  cents: 1400
+  cents: 2295
   currency: EUR
-  value: 14
+  value: 22.95
 referencePrice:
   cents: 4999
   currency: EUR
   value: 49.99
-slug: heren-korte-broek-denim-petrol
-soldOut: true
-start: '2026-08-19T22:00:00.000Z'
+slug: petrol-industries-denim-shorts-heren
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: Petrol Industries Denim Shorts | Heren

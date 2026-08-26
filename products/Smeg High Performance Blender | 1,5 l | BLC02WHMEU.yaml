@@ -1,32 +1,34 @@
-_id: 6a8422b9faf1c3b48e67b91c
+_id: 6a8d5e1fa6316911d9265e35
 appOnly: false
 brand: SMEG
 brands:
   - id: f90f120c-adbd-545e-a9ac-81f9033a4ffc
     name: SMEG
 categories:
-  - b92c5b69-7fcd-4050-8d1e-c8aa630ebcd6
-classicId: '3384450'
-classicProductId: '710645'
+  - 4919f105-04b8-537e-b8b0-c8c073fb2b1f
+classicId: '3396290'
+classicProductId: '710646'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: false
+directCheckout: true
 discount: 42
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-02T21:59:59.999Z'
 freeDelivery: false
-id: 5dd0d25f-3831-4410-b327-b862b8b88ca6
+id: e02032a3-2fa9-4ab5-a47d-e17e35c63375
 image:
   channels:
     - app
     - website
     - newsletter
     - all
+    - website
+    - app
   extension: image/png
-  id: b3a06aec-6603-4b60-9721-de33afb91b9a
+  id: a21570d1-94d7-409f-bceb-53d2ddcf2aaa-tr
   priority: 0
-  slug: sm01-png-product-1
+  slug: smeg-blenders-high-performance-blender-collectie-emerald-green-jug-capacity-1-5lt-6-cups-product-2
   type: product
 logo:
   channels:
@@ -38,7 +40,7 @@ logo:
   priority: 100
   slug: smeg-logo
   type: logo
-offerId: 65dfee32-4efd-4951-996f-a20f8b1e5249
+offerId: 755f5c0c-ed11-4143-b098-0ef6dc239914
 price:
   cents: 27995
   currency: EUR
@@ -49,5 +51,5 @@ referencePrice:
   value: 479
 slug: smeg-high-performance-blender-1-5-l
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Smeg High Performance Blender | 1,5 l | BLC02WHMEU

@@ -1,12 +1,12 @@
-_id: 6a85852c542eda437452cc37
+_id: 6a8da20e467f6c387d9c3484
 appOnly: false
 brand: Warrior
 brands:
   - id: 5d157b17-8fd5-590e-907f-796c4decca2f
     name: Warrior
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3391112'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402713'
 classicProductId: '718856'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 37
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 34eeaffd-6c29-423c-a160-bdc98f275766
+id: 4459b52a-4ed7-48ba-8468-a2844801826b
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: warrior-10-png-product-1
   type: product
-offerId: 737d7932-da94-45ae-976f-5367ce7029e9
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 8b302dbe-0318-4518-be7e-5131a44c0c6c
+  priority: 0
+  slug: warrior-logo-0
+  type: logo
+offerId: 176591e1-6c37-40ae-b8c9-e4dc2bfe5e40
 price:
   cents: 2195
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 34.62
 slug: 30x-warrior-creatine-vitamins-mixed-berry-sachets-9-g
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 30x Warrior Creatine + Vitamins Mixed Berry Sachets | 9 g

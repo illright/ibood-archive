@@ -1,12 +1,12 @@
-_id: 6a44dab0504f9ae262d421cd
+_id: 6a8d7783ba333310d68e9367
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310571'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400207'
 classicProductId: '718359'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 709bd175-709e-5ad4-9bf7-c526a13c8c7b
+id: 5212f086-daf0-4e54-ab8f-d1378aff36b2
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 99ff250b-bb84-4aed-bae6-b744a57f92a4
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: 92556ef0-9766-5600-8307-d8a044649732
+offerId: 7f2764ae-aaa5-4036-95f5-3f5965f2fa63
 price:
   cents: 3495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 69.99
 slug: jack-jones-glenn-parker-jeans
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Glenn Parker Jeans | Heren

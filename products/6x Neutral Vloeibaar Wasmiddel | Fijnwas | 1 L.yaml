@@ -1,12 +1,12 @@
-_id: 6a7c7d4b603f8a489a19e37e
+_id: 6a8da09744541b99a0372ea9
 appOnly: false
 brand: Neutral
 brands:
   - id: 99b4fc18-ba30-506d-afab-e818aab07005
     name: Neutral
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3382143'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402210'
 classicProductId: '679422'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 50
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 2e2ce75e-465a-5c99-b5dc-cb8a833ace73
+id: a20fe4dd-a0c5-4867-9481-03e510ad4331
 image:
   channels:
     - app
@@ -30,7 +30,18 @@ image:
   priority: 0
   slug: 6x-neutral-vloeibaar-wasmiddel-fijnwas-1-l-product-0
   type: product
-offerId: 8d5d04e0-e1c2-54c0-84a3-099a6094b260
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 4d7498c2-fa8a-4d00-967c-267c6de45f1b
+  priority: 0
+  slug: neutral-logo-0
+  type: logo
+offerId: c09c21a3-e1df-4da4-906d-e7daf939eaae
 price:
   cents: 2495
   currency: EUR
@@ -41,5 +52,5 @@ referencePrice:
   value: 49.74
 slug: 6x-neutral-vloeibaar-wasmiddel-fijnwas-1-l
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Neutral Vloeibaar Wasmiddel | Fijnwas | 1 L

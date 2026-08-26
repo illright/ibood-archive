@@ -1,22 +1,22 @@
-_id: 6a87050f98bad24499bdc987
+_id: 6a8d6b49a6316911d9266928
 appOnly: false
 brand: Giorgio
 brands:
   - id: ff17c964-d9af-5fdb-907e-bf7628d38cdd
     name: Giorgio
 categories:
-  - 976307d5-9705-41ce-94c8-99b8ba344cad
-classicId: '3392836'
-classicProductId: '702918'
+  - 1004a7c1-5ca5-4e6b-9db4-8e8653b61afc
+classicId: '3398092'
+classicProductId: '702905'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
-discount: 55
-end: '2026-08-25T21:59:59.999Z'
+discount: 45
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 359cec8b-7520-4f89-a308-010ad9de7e1f
+id: b82d41c7-4ed6-445f-83fa-a294f4544904
 image:
   channels:
     - app
@@ -24,9 +24,9 @@ image:
     - newsletter
     - all
   extension: image/png
-  id: 7aade2d8-799d-4dfa-a301-bf84f0b0d912-tr
+  id: 620beb7b-d7c2-4479-97c2-982da4c7e920-tr
   priority: 0
-  slug: 41-46-gainsboro-he85828camp04-daytona-veter-schoen-giorgio-product-1
+  slug: 46-102-sand-he85811camp36-daytona-veter-schoen-giorgio-product-0
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: giorgio-logo
   type: logo
-offerId: 305f837e-5958-4997-9f79-3a0e86d591e8
+offerId: 63c327d0-11b5-4cb7-9928-99586a3affbc
 price:
-  cents: 8995
+  cents: 11095
   currency: EUR
-  value: 89.95
+  value: 110.95
 referencePrice:
   cents: 19995
   currency: EUR
   value: 199.95
 slug: giorgio-daytona-veterschoenen-heren
-soldOut: true
-start: '2026-08-19T22:00:00.000Z'
+soldOut: false
+start: '2026-08-25T22:00:00.000Z'
 title: Giorgio Daytona Veterschoenen | Heren

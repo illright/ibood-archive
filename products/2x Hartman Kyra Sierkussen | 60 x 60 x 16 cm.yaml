@@ -1,12 +1,12 @@
-_id: 6a79e44d638a9928226e33b8
+_id: 6a8d3ee0e359568fe50f0d80
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 5bb1f471-e4fc-44d3-9616-309dcf846bae
-classicId: '3376147'
+  - 70c7fd28-36b4-5375-88c6-7452c47190d8
+classicId: '3395076'
 classicProductId: '725026'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 69
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: d564e4ef-191b-5a5b-8903-da182bce021f
+id: 72867417-9cd0-455c-9301-3b789eba8247
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 2eb4a7e1-cf76-44eb-886e-ee385644bed4
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: 845c663c-837e-521b-92bd-a7365363e660
+offerId: ec8c26dd-c254-4acc-ac30-114b33282bb1
 price:
   cents: 2495
   currency: EUR
@@ -50,5 +49,5 @@ referencePrice:
   value: 79.9
 slug: 2x-hartman-kyra-sierkussen-60-x-60-x-16-cm
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Hartman Kyra Sierkussen | 60 x 60 x 16 cm

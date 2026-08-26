@@ -1,45 +1,44 @@
-_id: 6a44dc6b0e72f6562fd49f2b
+_id: 6a8d7822ba333310d68e937f
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310624'
-classicProductId: '718517'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400237'
+classicProductId: '718522'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: false
 discount: 50
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 70035c1b-2a49-5551-b6e5-ee3cfdfc07b0
+id: 6cb6cc5d-37d2-45ed-b340-cfef2e3bfd29
 image:
   channels:
     - app
     - website
     - newsletter
     - all
-  extension: image/jpeg
-  id: a680ca70-c005-47dd-b4d8-4a9f5f1d6aee
+  extension: image/png
+  id: b739ac63-7c9d-4fbe-8bf6-dc2140c06d75-tr
   priority: 0
-  slug: xl-greige-12304851-jwhmilano-stitch-high-neck-cardigan-sn-jack-jones-premium-product-0
+  slug: xxl-naval-academy-12304851-jwhmilano-stitch-high-neck-cardigan-sn-jack-jones-premium-product-0
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: da839c9e-c8ef-4303-bbf3-9012b0948565
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: e6bad6cb-21ca-5607-a7ad-8ef43df8dbc4
+offerId: 59c4f979-eaed-445f-882a-6a5cb0ba0d67
 price:
   cents: 2995
   currency: EUR
@@ -50,6 +49,5 @@ referencePrice:
   value: 59.99
 slug: jack-jones-naval-academy-milano-strick-cardigan
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Milano Stitch gebreid vest | Heren
-t | Heren

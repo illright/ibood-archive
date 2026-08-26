@@ -1,12 +1,12 @@
-_id: 6a845d01b236413c3c71f561
+_id: 6a5f522a64e0c602f87d1c00
 appOnly: false
 brand: Nordure
 brands:
   - id: e7fca1e9-f1a7-5bb5-b6e1-fdf36d055482
     name: Nordure
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3387104'
+  - 80ce6b4b-be4d-58a8-99b2-6a4ea5fc80c9
+classicId: '3350668'
 classicProductId: '520163'
 deliveryPrice:
   cents: 895
@@ -14,20 +14,31 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 78
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-08-31T21:59:59.999Z'
 freeDelivery: false
-id: 483dc94e-1b3c-40f4-a9f9-5f755d6448bc
+id: 8300b8ce-9df4-58fb-820c-5d9c9a34a1b8
 image:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 74c86120-dce5-41a5-be6f-ad0453a62d40-tr
+  priority: 0
+  slug: kalune-sweet-couchtisch-png-product-1
+  type: product
+logo:
   channels:
     - website
     - app
     - newsletter
   extension: png
-  id: 1785701
-  priority: 0
-  slug: kalune-sweet-couchtisch
-  type: product
-offerId: 3113b11c-48b6-4e93-912f-c39bfed6d9f8
+  id: 1858300
+  priority: 100
+  slug: kalune-logo
+  type: logo
+offerId: 43735f90-ee20-5e28-a935-1bfb6f5cbbf2
 price:
   cents: 16900
   currency: EUR
@@ -36,7 +47,7 @@ referencePrice:
   cents: 75499
   currency: EUR
   value: 754.99
-slug: asir-sweet-koffietafel-teak
+slug: asir-sweet-koffietafel-teak-of
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Asir Sweet Koffietafel | Teak

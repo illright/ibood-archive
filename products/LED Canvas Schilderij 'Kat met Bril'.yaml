@@ -1,12 +1,12 @@
-_id: 6a845e8db236413c3c71f831
+_id: 6a5f52998be7fb562513a178
 appOnly: false
 brand: Nordure
 brands:
   - id: e7fca1e9-f1a7-5bb5-b6e1-fdf36d055482
     name: Nordure
 categories:
-  - cb7a83bb-9fde-5d39-89e3-78f67a3db392
-classicId: '3388859'
+  - 80ce6b4b-be4d-58a8-99b2-6a4ea5fc80c9
+classicId: '3350792'
 classicProductId: '700769'
 deliveryPrice:
   cents: 895
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 8.95
 directCheckout: true
 discount: 54
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-08-31T21:59:59.999Z'
 freeDelivery: false
-id: b27c5de4-60d2-41bf-ba48-7e0005bbb617
+id: 4f987769-6ad0-545a-acb7-0818161de40a
 image:
   channels:
     - app
@@ -30,7 +30,17 @@ image:
   priority: 0
   slug: kat-met-bril-led-lighted-canvas-painting-product-2
   type: product
-offerId: d463424f-3481-4ad5-84ab-45f96bf8d5dd
+logo:
+  channels:
+    - website
+    - app
+    - newsletter
+  extension: jpg
+  id: 1791234
+  priority: 100
+  slug: wallity-wall-deco-logo
+  type: logo
+offerId: 36a5cbb8-fb48-54f9-a293-cc4289bee4a5
 price:
   cents: 2995
   currency: EUR
@@ -41,5 +51,5 @@ referencePrice:
   value: 64.99
 slug: led-canvas-schilderij-kat-met-bril
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: LED Canvas Schilderij 'Kat met Bril'

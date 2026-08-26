@@ -1,12 +1,12 @@
-_id: 6a85840394511498313319da
+_id: 6a8da1e21770343181a4b50a
 appOnly: false
 brand: Taft
 brands:
   - id: d46bce78-2c40-514e-8b54-a368237e8c09
     name: Taft
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3390796'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402635'
 classicProductId: '719971'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 52
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: fb94e0e0-d2a2-4860-8800-f204b5bb8198
+id: 50af5b96-2026-48e5-9c18-3e1925cb1317
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: taft-04-png-product-1
   type: product
-offerId: 59940edb-9a6f-479e-bbec-9e81dff3da26
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: f365af52-6e78-4718-8cdb-7da528fcd4b9
+  priority: 0
+  slug: taft-logo-0
+  type: logo
+offerId: 3255363c-f07b-4678-b380-c61d7336788b
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 41.94
 slug: 6x-taft-true-volume-mouse-mega-strong-250-ml
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 6x Taft True Volume Mouse Mega Strong | 250 ml

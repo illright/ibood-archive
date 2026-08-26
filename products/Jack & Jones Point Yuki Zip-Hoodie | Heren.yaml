@@ -1,12 +1,12 @@
-_id: 6a44dd1daf223d4fe1ef35a4
+_id: 6a8d78a68d96c8dccc63d4b6
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 9165d4c0-938b-5c34-9418-57b2246e5669
-classicId: '3310648'
+  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
+classicId: '3400244'
 classicProductId: '718593'
 deliveryPrice:
   cents: 595
@@ -14,21 +14,20 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 156a079b-289e-5a1e-9971-09cba8c43807
+id: f9596914-6229-4ef4-9ebb-7a1402125e92
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 524aac4a-e6a3-462b-b400-d9bf9da22db8
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1829631
+  priority: 100
+  slug: jack-jones-logo
   type: logo
-offerId: de523739-003d-5c9c-bef7-c7f22c61cc5b
+offerId: b8854ff2-fb06-42d2-bcbb-28c31c38ca14
 price:
   cents: 2995
   currency: EUR
@@ -39,5 +38,5 @@ referencePrice:
   value: 49.99
 slug: jack-jones-jwhpoint-yuki-sweat-zip-hoodie
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Point Yuki Zip-Hoodie | Heren

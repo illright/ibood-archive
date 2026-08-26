@@ -1,32 +1,32 @@
-_id: 6a845551ea80ee45cacc8e8f
+_id: 6a8da0171770343181a4b40c
 appOnly: false
 brand: Marcel's Green Soap
 brands:
   - id: f1ebb901-8c6c-5683-9876-b8fb6291cd8b
     name: Marcel's Green Soap
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3385397'
-classicProductId: '715647'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3402092'
+classicProductId: '719558'
 deliveryPrice:
   cents: 895
   currency: EUR
   value: 8.95
-directCheckout: true
+directCheckout: false
 discount: 58
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: ec4ba799-a04c-432f-8984-10617306f03b
+id: 55f4aaf4-5917-4ccd-a8e9-500ed9233ae1
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: 72903a2f-d3fd-4143-a8a9-e808078df33f
-  priority: 1
-  slug: marcel-s-green-soap-05-png-product-1
+  id: 46bee98e-c5c0-436d-8ddb-44b423792a98
+  priority: 0
+  slug: marcel-s-green-soap-06-png-product-1
   type: product
 logo:
   channels:
@@ -35,20 +35,20 @@ logo:
     - newsletter
     - all
   extension: image/png
-  id: f723da37-9613-4668-a7dd-06d59c806890
+  id: b6750a3d-312d-45bd-b5f8-59be35ef217c
   priority: 0
-  slug: marcel-s-green-soap-logo-0
+  slug: marcel-s-green-soap-png-logo-0
   type: logo
-offerId: e8f5df41-5940-490a-ac37-9fa5a2ab278e
+offerId: e7c67071-d58a-49a4-9cb9-32b91fe06730
 price:
   cents: 2495
   currency: EUR
   value: 24.95
 referencePrice:
-  cents: 5998
+  cents: 5990
   currency: EUR
-  value: 59.98
+  value: 59.9
 slug: 2x-marcel-s-green-soap-wasmiddel-vanille-katoen-3-l
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Marcel's Green Soap Wasmiddel Vanille Katoen | 3 L (138sc)

@@ -1,12 +1,12 @@
-_id: 6a856785b2bbb5268c6e28ac
+_id: 6a8d5e964d8b9f859b9979a3
 appOnly: false
 brand: Silvergear
 brands:
   - id: ef9c4d31-8cb3-5d30-b6ac-722deed97110
     name: Silvergear
 categories:
-  - 3cb85e22-ef2a-5e3b-a93f-88afd101362c
-classicId: '3390541'
+  - 46b15600-2aca-47a4-bd2c-999a668c4969
+classicId: '3396542'
 classicProductId: '719316'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: true
 discount: 60
-end: '2026-08-25T21:59:59.999Z'
+end: '2026-09-02T21:59:59.999Z'
 freeDelivery: false
-id: 4922328a-c068-4dde-b4b6-f0b8df2734b4
+id: 967ae433-c414-4995-a280-31db6e67c7ac
 image:
   channels:
     - app
@@ -28,7 +28,18 @@ image:
   priority: 0
   slug: handheld-lila-png-product-1
   type: product
-offerId: f405b3da-7475-482d-9aba-7c7558be0fdd
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 2f911f4b-0faf-4078-846d-c84208c92a33
+  priority: 0
+  slug: silvergear-logo-0
+  type: logo
+offerId: 6e0d24c5-81ba-4346-978f-bc51b04584d5
 price:
   cents: 1995
   currency: EUR
@@ -39,5 +50,5 @@ referencePrice:
   value: 49.9
 slug: 2x-silvergear-retro-gamer-blauw-lila
 soldOut: false
-start: '2026-08-19T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 2x Silvergear Retro Gamer | Blauw & Lila

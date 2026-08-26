@@ -1,32 +1,32 @@
-_id: 6a84551cf42ee31785f24a09
+_id: 6a8d9dcb9dcddf4807cb4ce3
 appOnly: false
 brand: Finish
 brands:
   - id: 609dbe56-ce2a-57a6-8d8a-a995c110554b
     name: Finish
 categories:
-  - 048bfa03-8fb6-57fa-96c5-323a2723d7c6
-classicId: '3385325'
+  - 3151abf4-4682-4bbf-9cbe-cd5cb4197ad4
+classicId: '3401462'
 classicProductId: '717880'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: true
-discount: 67
-end: '2026-08-25T21:59:59.999Z'
+directCheckout: false
+discount: 69
+end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: ccaa25e3-68a1-433f-bbd5-fe0add64256f
+id: 12881f04-765d-43bf-9351-df81a6a729e9
 image:
   channels:
-    - newsletter
-    - all
     - app
     - website
+    - newsletter
+    - all
   extension: image/png
-  id: b8e34e7f-4dc2-4eaf-a787-f18c2c9b37fd
-  priority: 1
-  slug: finish-01-png-product-1
+  id: 7cd4f00a-bafa-49aa-882a-c5fce4905d37
+  priority: 0
+  slug: finish-03-png-product-1
   type: product
 logo:
   channels:
@@ -38,16 +38,16 @@ logo:
   priority: 100
   slug: finish-logo
   type: logo
-offerId: c79a754e-77d8-42ba-a3f0-f1504493cd65
+offerId: c538642d-526e-4be8-9887-f09eedca6f15
 price:
   cents: 4795
   currency: EUR
   value: 47.95
 referencePrice:
-  cents: 14394
+  cents: 15354
   currency: EUR
-  value: 143.94
+  value: 153.54
 slug: 252x-finish-ultimate-vaatwastabletten-lemon
 soldOut: false
-start: '2026-08-18T22:00:00.000Z'
+start: '2026-08-25T22:00:00.000Z'
 title: 252x Finish Ultimate Vaatwastabletten | Lemon
