@@ -1,22 +1,22 @@
-_id: 6a8d3ec2e359568fe50f0d2a
+_id: 6a8ef4bb8e5b4925f2339e38
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 70c7fd28-36b4-5375-88c6-7452c47190d8
-classicId: '3395047'
+  - a257126b-a024-59cc-ba2d-be917d7d17cb
+classicId: '3403241'
 classicProductId: '725154'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 50
+discount: 43
 end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: f4591cd9-8d6c-464c-b267-9cbb39b2d506
+id: ed61dba3-55c3-4d0c-8cf8-4aeb7e020eb7
 image:
   channels:
     - app
@@ -30,20 +30,19 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 0a5d63fa-83ac-4509-ad58-29cf5c78e558
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: 23958fa9-a707-4697-9fd1-842e88eb8298
+offerId: bf7f8423-2ac3-4b10-bc96-d00edb7f61a1
 price:
-  cents: 1495
+  cents: 1695
   currency: EUR
-  value: 14.95
+  value: 16.95
 referencePrice:
   cents: 2990
   currency: EUR
@@ -52,3 +51,4 @@ slug: 2x-hartman-zitkussen-vince-orange-40-x-40-x-1-cm
 soldOut: false
 start: '2026-08-25T22:00:00.000Z'
 title: 2x Hartman Zitkussen | Vince Orange | 40 x 40 x 1 cm
+ssen | Vince Orange | 40 x 40 x 1 cm

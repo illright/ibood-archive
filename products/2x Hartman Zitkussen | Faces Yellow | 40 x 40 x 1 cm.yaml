@@ -1,22 +1,22 @@
-_id: 6a8d3e848d96c8dccc63b94c
+_id: 6a8ef4ae7f809450d542c07f
 appOnly: false
 brand: Hartman
 brands:
   - id: f9e3caee-8ccb-5139-9f4e-657194908975
     name: Hartman
 categories:
-  - 70c7fd28-36b4-5375-88c6-7452c47190d8
-classicId: '3394985'
+  - a257126b-a024-59cc-ba2d-be917d7d17cb
+classicId: '3403234'
 classicProductId: '725142'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
 directCheckout: true
-discount: 58
+discount: 53
 end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 24f78198-d9e6-4f5c-a0d5-c6c65419202d
+id: 9a6734c0-3a0a-4076-b7c5-bbbe1403f573
 image:
   channels:
     - app
@@ -30,20 +30,19 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: 293ff35e-8377-49dc-a63c-c42b7f5e4f77
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: 9a4737ca-b948-43f1-8f44-130cf894b62a
+offerId: b4eb9dd2-a8d2-4eed-92b5-61ab95914311
 price:
-  cents: 1495
+  cents: 1695
   currency: EUR
-  value: 14.95
+  value: 16.95
 referencePrice:
   cents: 3590
   currency: EUR
@@ -52,3 +51,4 @@ slug: 2x-hartman-zitkussen-faces-yellow-40-x-40-x-1-cm
 soldOut: false
 start: '2026-08-25T22:00:00.000Z'
 title: 2x Hartman Zitkussen | Faces Yellow | 40 x 40 x 1 cm
+ssen | Faces Yellow | 40 x 40 x 1 cm
