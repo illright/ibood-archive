@@ -1,22 +1,22 @@
-_id: 6a8d78f7bd07e7bf605b8c44
+_id: 6a8d6a4ba6316911d926646e
 appOnly: false
 brand: Jack & Jones
 brands:
   - id: 39b25177-ad63-5409-b26f-12f28f1d2104
     name: Jack & Jones
 categories:
-  - 1461dbc6-be12-47ac-a01d-bc8b1f930102
-classicId: '3400277'
-classicProductId: '552979'
+  - bb6ef60b-31cb-472b-aaa3-f1ffe215e367
+classicId: '3397547'
+classicProductId: '552989'
 deliveryPrice:
   cents: 595
   currency: EUR
   value: 5.95
-directCheckout: false
-discount: 53
+directCheckout: true
+discount: 55
 end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 708dd414-88e6-496c-b2ab-13e1ef14ceda
+id: fe27c38a-2d34-4090-b968-a7acc514581b
 image:
   channels:
     - website
@@ -37,11 +37,11 @@ logo:
   priority: 100
   slug: jack-jones-logo
   type: logo
-offerId: bb19078d-8953-45e2-9b3d-d184cfed050d
+offerId: 9be09bd4-64a5-47c3-98f5-e0f5ed3235c1
 price:
-  cents: 1895
+  cents: 1800
   currency: EUR
-  value: 18.95
+  value: 18
 referencePrice:
   cents: 3999
   currency: EUR
@@ -50,3 +50,4 @@ slug: jack-jones-original-verster-bro-hoodie-heren
 soldOut: false
 start: '2026-08-25T22:00:00.000Z'
 title: Jack & Jones Original Verster Bro Hoodie | Heren
+ren

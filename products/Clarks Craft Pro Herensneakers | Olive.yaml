@@ -1,12 +1,12 @@
-_id: 6a8d696d8d96c8dccc63c97a
+_id: 6a733fa122a649e71255dba4
 appOnly: false
 brand: Clarks
 brands:
   - id: ddb39593-1336-562f-b015-2ddf2f5e7bdb
     name: Clarks
 categories:
-  - 0f4cd025-36d8-4f6e-9f28-bfe4deccd1b0
-classicId: '3397256'
+  - 328c7a7f-370a-4af2-b19c-ae0b15f2ed06
+classicId: '3374116'
 classicProductId: '724306'
 deliveryPrice:
   cents: 595
@@ -14,9 +14,9 @@ deliveryPrice:
   value: 5.95
 directCheckout: false
 discount: 40
-end: '2026-09-01T21:59:59.999Z'
+end: '2026-08-30T21:59:59.999Z'
 freeDelivery: false
-id: 1a862661-342d-4915-8949-f7e57cb062c1
+id: 8477ba6e-e159-40bd-b7bf-52c25dbbbcd2
 image:
   channels:
     - app
@@ -30,15 +30,16 @@ image:
   type: product
 logo:
   channels:
-    - website
     - app
+    - website
     - newsletter
-  extension: png
-  id: 1734464
-  priority: 100
-  slug: clarks-logo
+    - all
+  extension: image/png
+  id: d70e1434-9787-4ac3-8df3-3aada17ea824
+  priority: 0
+  slug: logo-0
   type: logo
-offerId: 04bd4e79-982b-46c9-a3cb-fc8d0a15dced
+offerId: f984aec2-7391-5eea-b6b2-b68fae657484
 price:
   cents: 5995
   currency: EUR
@@ -49,6 +50,5 @@ referencePrice:
   value: 99.99
 slug: clarks-craft-pro-olive
 soldOut: false
-start: '2026-08-25T22:00:00.000Z'
+start: '2026-08-23T22:00:00.000Z'
 title: Clarks Craft Pro Herensneakers | Olive
-larks Craft Pro Herensneakers | Olive

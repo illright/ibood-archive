@@ -1,12 +1,12 @@
-_id: 6a8d6a6ca6316911d92664f3
+_id: 6a8d6da2a6316911d9266ca1
 appOnly: false
 brand: Scotch & Soda
 brands:
   - id: d88c02c3-b22f-5534-ae67-5a4d98514e8f
     name: Scotch & Soda
 categories:
-  - 9ac92784-0306-4f78-834c-40d9ff33c3d1
-classicId: '3397587'
+  - 1004a7c1-5ca5-4e6b-9db4-8e8653b61afc
+classicId: '3399459'
 classicProductId: '694980'
 deliveryPrice:
   cents: 595
@@ -16,7 +16,7 @@ directCheckout: false
 discount: 76
 end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 7b4dd01f-f27b-4485-8180-80b284de9c1d
+id: 9f12778a-e2ac-4009-b635-0bb9a4e615eb
 image:
   channels:
     - app
@@ -28,20 +28,23 @@ image:
   priority: 0
   slug: main-png-product-1
   type: product
-offerId: 870d62ca-7b22-4f4c-ad9c-512feb3e7067
+logo:
+  channels:
+    - app
+    - website
+    - newsletter
+    - all
+  extension: image/png
+  id: 443c6724-db81-4b0c-81dc-36e2128be4dd
+  priority: 0
+  slug: scotch-and-soda-logo-0
+  type: logo
+offerId: dcbfebd1-b8a0-4701-9ca0-e7449ed32fb5
 price:
   cents: 2195
   currency: EUR
   value: 21.95
 referencePrice:
-  cents: 8995
-  currency: EUR
-  value: 89.95
-slug: scotch-soda-ton-stripe-sneakers-heren
-soldOut: false
-start: '2026-08-25T22:00:00.000Z'
-title: Scotch & Soda Ton Stripe Sneakers | Heren
-rice:
   cents: 8995
   currency: EUR
   value: 89.95
