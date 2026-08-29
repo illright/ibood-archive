@@ -1,4 +1,4 @@
-_id: 6a8d4c54e40e1218eb374ba0
+_id: 6a8d4c0d8d96c8dccc63be5c
 appOnly: false
 brand: Hartman
 brands:
@@ -6,8 +6,8 @@ brands:
     name: Hartman
 categories:
   - a257126b-a024-59cc-ba2d-be917d7d17cb
-classicId: '3395726'
-classicProductId: '724913'
+classicId: '3395656'
+classicProductId: '724901'
 deliveryPrice:
   cents: 895
   currency: EUR
@@ -16,7 +16,7 @@ directCheckout: true
 discount: 50
 end: '2026-09-01T21:59:59.999Z'
 freeDelivery: false
-id: 5649ceb5-e69c-45c3-a7c2-64f0ac0c401b
+id: 92d3a852-68f7-4d57-8f43-016b6d7b1b3c
 image:
   channels:
     - app
@@ -30,16 +30,15 @@ image:
   type: product
 logo:
   channels:
-    - app
     - website
+    - app
     - newsletter
-    - all
-  extension: image/png
-  id: f619095a-8b23-482a-89b3-86ebbf31dd25
-  priority: 0
-  slug: logo-0
+  extension: png
+  id: 1769766
+  priority: 100
+  slug: hartman-logo
   type: logo
-offerId: 3b2a80cc-385a-4552-b572-815a632a9327
+offerId: 8d2e6394-55b1-4eb7-bdfd-2a35b061104a
 price:
   cents: 1995
   currency: EUR
@@ -52,3 +51,4 @@ slug: hartman-tuinbankkussen-120-x-50-cm
 soldOut: false
 start: '2026-08-25T22:00:00.000Z'
 title: Hartman Tuinbankkussen | 120 x 50 cm
+Hartman Tuinbankkussen | 120 x 50 cm
