@@ -1,8 +1,6 @@
 name: Archive
 
 on:
-  schedule:
-    - cron: "0 1 * * *" # every day at 01:00
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
